@@ -1,0 +1,4009 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 93,
+    "dDurationMs": 3717,
+    "segs": [ {
+      "utf8": "- This is a video about the\noldest unsolved problem in math"
+    } ]
+  }, {
+    "tStartMs": 3810,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that dates back 2000 years."
+    } ]
+  }, {
+    "tStartMs": 6090,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Some of the brightest\nmathematicians of all time"
+    } ]
+  }, {
+    "tStartMs": 8430,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "have tried to crack it,\nbut all of them failed."
+    } ]
+  }, {
+    "tStartMs": 13800,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "In the year 2000"
+    } ]
+  }, {
+    "tStartMs": 14790,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "the Italian mathematician,\nPiergiorgio Odifreddi,"
+    } ]
+  }, {
+    "tStartMs": 18000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "listed it among four of the\nmost pressing open problems"
+    } ]
+  }, {
+    "tStartMs": 21420,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "at the time."
+    } ]
+  }, {
+    "tStartMs": 22680,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Solving this problem could be as simple"
+    } ]
+  }, {
+    "tStartMs": 24570,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "as finding a single number."
+    } ]
+  }, {
+    "tStartMs": 26970,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "So mathematicians have used computers"
+    } ]
+  }, {
+    "tStartMs": 28830,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "and checked numbers up to\n10 to the power of 2,200,"
+    } ]
+  }, {
+    "tStartMs": 33360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but so far they've come up empty handed."
+    } ]
+  }, {
+    "tStartMs": 36360,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Why do you think this problem\nhas captured the imaginations"
+    } ]
+  }, {
+    "tStartMs": 39030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "of so many mathematicians?"
+    } ]
+  }, {
+    "tStartMs": 41280,
+    "dDurationMs": 2913,
+    "segs": [ {
+      "utf8": "- It's old, it's simple,"
+    } ]
+  }, {
+    "tStartMs": 45240,
+    "dDurationMs": 1263,
+    "segs": [ {
+      "utf8": "it's beautiful."
+    } ]
+  }, {
+    "tStartMs": 47880,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "- What else could you want?"
+    } ]
+  }, {
+    "tStartMs": 49310,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So the problem is this."
+    } ]
+  }, {
+    "tStartMs": 51210,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Do any odd perfect numbers exist?"
+    } ]
+  }, {
+    "tStartMs": 55500,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "So what is a perfect number?"
+    } ]
+  }, {
+    "tStartMs": 58890,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Well take the number six for example."
+    } ]
+  }, {
+    "tStartMs": 60960,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "You can divide it by 1, 2,\n3, and 6, but let's ignore 6"
+    } ]
+  }, {
+    "tStartMs": 65580,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "because that's the number itself,"
+    } ]
+  }, {
+    "tStartMs": 67380,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and now we're left with\njust the proper divisors."
+    } ]
+  }, {
+    "tStartMs": 69960,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "If you add them all up, you\nfind that they add to six,"
+    } ]
+  }, {
+    "tStartMs": 73620,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "which is the number itself."
+    } ]
+  }, {
+    "tStartMs": 75450,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "So numbers like this are called perfect."
+    } ]
+  }, {
+    "tStartMs": 78480,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "You can also try this with\nother numbers like 10."
+    } ]
+  }, {
+    "tStartMs": 81420,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "10 has the proper divisors\none, two, and five."
+    } ]
+  }, {
+    "tStartMs": 84450,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "If you add those up, you only get eight."
+    } ]
+  }, {
+    "tStartMs": 86910,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So 10 is not a perfect number."
+    } ]
+  }, {
+    "tStartMs": 89730,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Now you can repeat this\nfor all other numbers,"
+    } ]
+  }, {
+    "tStartMs": 92190,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and what you find is that\nmost numbers either overshoot"
+    } ]
+  }, {
+    "tStartMs": 95370,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "or undershoot between 1 and a 100,"
+    } ]
+  }, {
+    "tStartMs": 98490,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "only 6 and 28 are perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 102210,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Go up to 10,000"
+    } ]
+  }, {
+    "tStartMs": 103380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and you find the next two\nperfect numbers 496 and 8,128."
+    } ]
+  }, {
+    "tStartMs": 111270,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "These were the only perfect numbers known"
+    } ]
+  }, {
+    "tStartMs": 113910,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "by the ancient Greeks,"
+    } ]
+  }, {
+    "tStartMs": 115200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and they would be the only known ones"
+    } ]
+  }, {
+    "tStartMs": 117240,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "for over a thousand years."
+    } ]
+  }, {
+    "tStartMs": 119280,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "If only we could find a pattern\nthat makes these numbers,"
+    } ]
+  }, {
+    "tStartMs": 122610,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "then we could use that\nto predict more of them."
+    } ]
+  }, {
+    "tStartMs": 125940,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So what do these numbers have in common?"
+    } ]
+  }, {
+    "tStartMs": 128460,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Well, one thing to notice is"
+    } ]
+  }, {
+    "tStartMs": 129900,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "that each next perfect\nnumber is one digit longer"
+    } ]
+  }, {
+    "tStartMs": 133620,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "than the number that came before it."
+    } ]
+  }, {
+    "tStartMs": 135870,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Another thing they share is\nthat the ending digit alternates"
+    } ]
+  }, {
+    "tStartMs": 138960,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "between 6 and 8, which also\nmeans they are all even."
+    } ]
+  }, {
+    "tStartMs": 147690,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But here's where things get really weird."
+    } ]
+  }, {
+    "tStartMs": 150330,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "You can write 6 as the\nsum of 1 plus 2 plus 3"
+    } ]
+  }, {
+    "tStartMs": 155160,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "and 28 as the sum of one, plus 2, plus 3,"
+    } ]
+  }, {
+    "tStartMs": 159570,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "plus 4 plus 5 plus 6 plus 7, and so on"
+    } ]
+  }, {
+    "tStartMs": 163740,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "for the others as well,\nthey're all just the sum"
+    } ]
+  }, {
+    "tStartMs": 168030,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "of consecutive numbers"
+    } ]
+  }, {
+    "tStartMs": 170070,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "and you can think of\neach additional number"
+    } ]
+  }, {
+    "tStartMs": 171810,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "as adding a new layer."
+    } ]
+  }, {
+    "tStartMs": 173280,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "And so these create a triangle,"
+    } ]
+  }, {
+    "tStartMs": 175620,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "which is why these numbers\nare called triangular numbers."
+    } ]
+  }, {
+    "tStartMs": 178650,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Also, every number\nexcept for six is the sum"
+    } ]
+  }, {
+    "tStartMs": 181800,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "of consecutive odd cubes."
+    } ]
+  }, {
+    "tStartMs": 184230,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So 28 is 1 cubed plus 3 cubed."
+    } ]
+  }, {
+    "tStartMs": 187170,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "496 is equal"
+    } ]
+  }, {
+    "tStartMs": 189150,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "to 1 cubed plus 3 cubed\nplus 5 cubed plus 7 cubed."
+    } ]
+  }, {
+    "tStartMs": 193200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And 8,128 is equal"
+    } ]
+  }, {
+    "tStartMs": 196560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to 1 cubed plus 3 cubed\nplus 5 cubed plus 7 cubed"
+    } ]
+  }, {
+    "tStartMs": 199080,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "plus 9 cubed all the way up to 15 cubed."
+    } ]
+  }, {
+    "tStartMs": 202290,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "But here's the one that\nreally blows my mind."
+    } ]
+  }, {
+    "tStartMs": 205080,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "If you write these numbers in binary,"
+    } ]
+  }, {
+    "tStartMs": 207360,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "six becomes 110,"
+    } ]
+  }, {
+    "tStartMs": 210690,
+    "dDurationMs": 4143,
+    "segs": [ {
+      "utf8": "and 28 becomes 11100."
+    } ]
+  }, {
+    "tStartMs": 216205,
+    "dDurationMs": 2675,
+    "segs": [ {
+      "utf8": "496 becomes"
+    } ]
+  }, {
+    "tStartMs": 218880,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "111110000."
+    } ]
+  }, {
+    "tStartMs": 222660,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "And 8,128, you guessed it."
+    } ]
+  }, {
+    "tStartMs": 226170,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It is also a string of ones\nfollowed by a series of zeros."
+    } ]
+  }, {
+    "tStartMs": 231330,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "So if you write them out,"
+    } ]
+  }, {
+    "tStartMs": 232800,
+    "dDurationMs": 3663,
+    "segs": [ {
+      "utf8": "they are all just\nconsecutive powers of two."
+    } ]
+  }, {
+    "tStartMs": 243405,
+    "dDurationMs": 1875,
+    "segs": [ {
+      "utf8": "What now around 300 BC"
+    } ]
+  }, {
+    "tStartMs": 245280,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Euclid was actually\nthinking along similar lines"
+    } ]
+  }, {
+    "tStartMs": 247770,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "when he discovered the pattern"
+    } ]
+  }, {
+    "tStartMs": 248940,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that makes these perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 251400,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Take the number one and double it,"
+    } ]
+  }, {
+    "tStartMs": 253350,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "you get two now, keep doubling it."
+    } ]
+  }, {
+    "tStartMs": 255420,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "You get 4, 8, 16, 32, 64, and so on."
+    } ]
+  }, {
+    "tStartMs": 260100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Now starting from one,\nadd the next number to it."
+    } ]
+  }, {
+    "tStartMs": 262860,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So 1 plus 2 equals 3."
+    } ]
+  }, {
+    "tStartMs": 265380,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "If that adds up to a\nprime, then you multiply it"
+    } ]
+  }, {
+    "tStartMs": 268110,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "by the last number in the\nsequence to get a perfect number."
+    } ]
+  }, {
+    "tStartMs": 271050,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "So two times three equals\nsix, the first perfect number."
+    } ]
+  }, {
+    "tStartMs": 275190,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Now let's keep doing this."
+    } ]
+  }, {
+    "tStartMs": 276480,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Add 1 plus 2 plus 4,"
+    } ]
+  }, {
+    "tStartMs": 278250,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and you get 7, which is again prime."
+    } ]
+  }, {
+    "tStartMs": 281160,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "So multiply it by the last\nnumber four, and you get 28."
+    } ]
+  }, {
+    "tStartMs": 285090,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "The next perfect number."
+    } ]
+  }, {
+    "tStartMs": 286830,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Next, add 1 plus 2 plus\n4 plus 8 equals 15,"
+    } ]
+  }, {
+    "tStartMs": 291120,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but 15 isn't prime, so we\ncontinue add 16 to get 31,"
+    } ]
+  }, {
+    "tStartMs": 296130,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "this is prime."
+    } ]
+  }, {
+    "tStartMs": 297450,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "So you multiply it by 16 and you get 496."
+    } ]
+  }, {
+    "tStartMs": 301110,
+    "dDurationMs": 1653,
+    "segs": [ {
+      "utf8": "The third perfect number."
+    } ]
+  }, {
+    "tStartMs": 303900,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Now you can keep doing this to find bigger"
+    } ]
+  }, {
+    "tStartMs": 306030,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and bigger perfect numbers,"
+    } ]
+  }, {
+    "tStartMs": 307980,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and using this we can\nrewrite the first three."
+    } ]
+  }, {
+    "tStartMs": 310950,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So 6 equals 1 plus 2\ntimes 2 to the power of 1"
+    } ]
+  }, {
+    "tStartMs": 314910,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "and 28 equals 1 plus 2\nplus 4 times 2 squared"
+    } ]
+  }, {
+    "tStartMs": 318780,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "and 496 equals 1 plus 2 plus 4 plus 8"
+    } ]
+  }, {
+    "tStartMs": 322560,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "plus 16 times 2 to the power of 4"
+    } ]
+  }, {
+    "tStartMs": 325170,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "where the first term is prime."
+    } ]
+  }, {
+    "tStartMs": 327780,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "But there's a more convenient\nway to write this still."
+    } ]
+  }, {
+    "tStartMs": 330630,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Take any sum of consecutive powers of 2."
+    } ]
+  }, {
+    "tStartMs": 333750,
+    "dDurationMs": 1689,
+    "segs": [ {
+      "utf8": "So 2 to the power of zero which is"
+    } ]
+  }, {
+    "tStartMs": 335439,
+    "dDurationMs": 2631,
+    "segs": [ {
+      "utf8": "1 plus 2 to the 1 plus 2 to the 2,"
+    } ]
+  }, {
+    "tStartMs": 338070,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "all the way up to 2 to the n minus 1."
+    } ]
+  }, {
+    "tStartMs": 340800,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "And now because you don't\nknow n, you don't know what"
+    } ]
+  }, {
+    "tStartMs": 343410,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "that is equal to, but it\nwill be equal to something."
+    } ]
+  }, {
+    "tStartMs": 346200,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So let's call that T."
+    } ]
+  }, {
+    "tStartMs": 347970,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Now multiply this whole equation by two."
+    } ]
+  }, {
+    "tStartMs": 350610,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "So you get 2 to the 1 plus 2 to the 2,"
+    } ]
+  }, {
+    "tStartMs": 352680,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "all the way up to 2 to the\nn, and this is equal to 2T."
+    } ]
+  }, {
+    "tStartMs": 357480,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "If you now subtract the first\nequation from the second,"
+    } ]
+  }, {
+    "tStartMs": 360180,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "almost all the terms will cancel out"
+    } ]
+  }, {
+    "tStartMs": 362250,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and you're left with T\nequals 2 to the n minus 1."
+    } ]
+  }, {
+    "tStartMs": 366810,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "So you can replace this whole series"
+    } ]
+  }, {
+    "tStartMs": 369030,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "with one less than the next power of 2."
+    } ]
+  }, {
+    "tStartMs": 372240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So six becomes 2 squared\nminus 1 times 2 to the 1."
+    } ]
+  }, {
+    "tStartMs": 376200,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "28 becomes 2 cubed\nminus 1 times 2 squared,"
+    } ]
+  }, {
+    "tStartMs": 379650,
+    "dDurationMs": 4653,
+    "segs": [ {
+      "utf8": "and 496 becomes 2 to the 5\nminus 1 times 2 to the 4."
+    } ]
+  }, {
+    "tStartMs": 385290,
+    "dDurationMs": 1173,
+    "segs": [ {
+      "utf8": "Do you see the pattern?"
+    } ]
+  }, {
+    "tStartMs": 387300,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This number is always one more than this."
+    } ]
+  }, {
+    "tStartMs": 389820,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "So if we call this P, then Euclid formula"
+    } ]
+  }, {
+    "tStartMs": 392610,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "that gives a perfect number\nis 2 to the P minus 1"
+    } ]
+  }, {
+    "tStartMs": 396480,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "times 2 to the P minus 1\nwhenever this is prime."
+    } ]
+  }, {
+    "tStartMs": 402150,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Now, because you're multiplying\nit by 2 to the P minus 1,"
+    } ]
+  }, {
+    "tStartMs": 404940,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "which is even, this will\nalways give an even number."
+    } ]
+  }, {
+    "tStartMs": 410790,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Euclid had found a way to\ngenerate even perfect numbers,"
+    } ]
+  }, {
+    "tStartMs": 414600,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "but he didn't prove that\nthis was the only way."
+    } ]
+  }, {
+    "tStartMs": 417810,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So there could be other\nways to get perfect numbers,"
+    } ]
+  }, {
+    "tStartMs": 420360,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "including potentially ones that are odd."
+    } ]
+  }, {
+    "tStartMs": 424230,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "400 years later,"
+    } ]
+  }, {
+    "tStartMs": 425430,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the Greek philosopher nicomchaus published"
+    } ]
+  }, {
+    "tStartMs": 427710,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Introdutio Arithmetica, the\nstandard arithmetic text"
+    } ]
+  }, {
+    "tStartMs": 431100,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "for the next thousand years."
+    } ]
+  }, {
+    "tStartMs": 433260,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "In it, he stated five conjectures\nstatements he believed"
+    } ]
+  }, {
+    "tStartMs": 436530,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "to be true, but did not bother\nactually trying to prove."
+    } ]
+  }, {
+    "tStartMs": 440850,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "His conjectures were one,"
+    } ]
+  }, {
+    "tStartMs": 443070,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "the nth perfect number has n digits."
+    } ]
+  }, {
+    "tStartMs": 446220,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Two, all perfect numbers are even."
+    } ]
+  }, {
+    "tStartMs": 449220,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Three, all perfect numbers\nend in 6 and 8 alternately."
+    } ]
+  }, {
+    "tStartMs": 453750,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Four, Euclid algorithm produces\nevery even perfect number."
+    } ]
+  }, {
+    "tStartMs": 457920,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "And five, there are infinitely\nmany perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 462150,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "For the next thousand years"
+    } ]
+  }, {
+    "tStartMs": 463770,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "no one could prove or disprove\nany of these conjectures,"
+    } ]
+  }, {
+    "tStartMs": 467430,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "and they were considered facts."
+    } ]
+  }, {
+    "tStartMs": 471840,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "But in the 13th century,"
+    } ]
+  }, {
+    "tStartMs": 473220,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Egyptian mathematician Ibn Fallus"
+    } ]
+  }, {
+    "tStartMs": 475050,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "published a list with 10 perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 477330,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and their values of P."
+    } ]
+  }, {
+    "tStartMs": 479580,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Three of these perfect numbers turned out"
+    } ]
+  }, {
+    "tStartMs": 481620,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "not to be perfect at all."
+    } ]
+  }, {
+    "tStartMs": 483600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "But the remaining ones are."
+    } ]
+  }, {
+    "tStartMs": 485520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The fifth perfect number\nis eight digits long,"
+    } ]
+  }, {
+    "tStartMs": 488760,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "which disproves Nicomachus's\nfirst conjecture."
+    } ]
+  }, {
+    "tStartMs": 492270,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And the next thing to notice\nis that both the fifth"
+    } ]
+  }, {
+    "tStartMs": 494400,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and sixth perfect number end in a 6."
+    } ]
+  }, {
+    "tStartMs": 497130,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So that disproves\nNicomachus's third conjecture"
+    } ]
+  }, {
+    "tStartMs": 499770,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "that all perfect numbers\nend in a 6 or 8 alternately."
+    } ]
+  }, {
+    "tStartMs": 503670,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Two conjectures were proven false."
+    } ]
+  }, {
+    "tStartMs": 505740,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "But what about the other three?"
+    } ]
+  }, {
+    "tStartMs": 509490,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Two centuries later, the problem\nreached Renaissance Europe"
+    } ]
+  }, {
+    "tStartMs": 512520,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "where they rediscovered the fifth, sixth,"
+    } ]
+  }, {
+    "tStartMs": 514440,
+    "dDurationMs": 1743,
+    "segs": [ {
+      "utf8": "and seventh perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 517950,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So far every perfect\nnumber had Euclid's form."
+    } ]
+  }, {
+    "tStartMs": 521100,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "And the best way to find new\nones was by finding the values"
+    } ]
+  }, {
+    "tStartMs": 523680,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "of P that make 2 to the P minus 1 prime."
+    } ]
+  }, {
+    "tStartMs": 527670,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So French polymath Marin\nMersenne extensively studied"
+    } ]
+  }, {
+    "tStartMs": 531030,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "numbers of this form."
+    } ]
+  }, {
+    "tStartMs": 533250,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "In 1644, he published his in a book"
+    } ]
+  }, {
+    "tStartMs": 536400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "including a list of 11 values"
+    } ]
+  }, {
+    "tStartMs": 538200,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "of P for which he claimed\nthey corresponded to primes."
+    } ]
+  }, {
+    "tStartMs": 541890,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Numbers for which this is true"
+    } ]
+  }, {
+    "tStartMs": 543450,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "are now called Mersenne Primes."
+    } ]
+  }, {
+    "tStartMs": 546210,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Of his list the first seven exponents of P"
+    } ]
+  }, {
+    "tStartMs": 548700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "do result in primes"
+    } ]
+  }, {
+    "tStartMs": 550290,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and they correspond to the\nfirst seven perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 553050,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "But for some of the larger numbers"
+    } ]
+  }, {
+    "tStartMs": 554640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "like 2 to the 67 minus\n1, Mersenne admitted"
+    } ]
+  }, {
+    "tStartMs": 557760,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "to not even checking\nwhether they were prime."
+    } ]
+  }, {
+    "tStartMs": 560617,
+    "dDurationMs": 3383,
+    "segs": [ {
+      "utf8": "\"To tell if a given number\nof 15 to 20 digits is prime"
+    } ]
+  }, {
+    "tStartMs": 564000,
+    "dDurationMs": 3507,
+    "segs": [ {
+      "utf8": "or not all time would not\nsuffice for the test.\""
+    } ]
+  }, {
+    "tStartMs": 570150,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Mersenne discussed the\nproblem of perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 572310,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "with other luminaries of the time,"
+    } ]
+  }, {
+    "tStartMs": 573930,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "including Pierre de\nFermat and Rene Descartes."
+    } ]
+  }, {
+    "tStartMs": 576750,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "In 1638, Descartes wrote to\nMersenne, I think I can show"
+    } ]
+  }, {
+    "tStartMs": 580530,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "that there are no even perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 582450,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "except those of Euclid."
+    } ]
+  }, {
+    "tStartMs": 584670,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "He also believed that if an\nodd perfect number does exist,"
+    } ]
+  }, {
+    "tStartMs": 588180,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "it must have a special form."
+    } ]
+  }, {
+    "tStartMs": 590490,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It must be the product of a prime"
+    } ]
+  }, {
+    "tStartMs": 592650,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and the square of a different number."
+    } ]
+  }, {
+    "tStartMs": 595050,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "If he was right, these\nwould easily have been"
+    } ]
+  }, {
+    "tStartMs": 597300,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "the biggest breakthroughs\non the problem since Euclid"
+    } ]
+  }, {
+    "tStartMs": 599850,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "2000 years earlier."
+    } ]
+  }, {
+    "tStartMs": 601350,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "But Descartes couldn't prove\neither of those statements."
+    } ]
+  }, {
+    "tStartMs": 604290,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Instead, he wrote \"As for\nme, I judge that one can find"
+    } ]
+  }, {
+    "tStartMs": 607710,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "real odd perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 609990,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "But whatever method you\nuse, it takes a long time"
+    } ]
+  }, {
+    "tStartMs": 613050,
+    "dDurationMs": 1257,
+    "segs": [ {
+      "utf8": "to look for these.\""
+    } ]
+  }, {
+    "tStartMs": 615480,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Around a hundred years later\nat the St. petersburg Academy,"
+    } ]
+  }, {
+    "tStartMs": 618300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "the Prussian mathematician\nChristian Goldbach"
+    } ]
+  }, {
+    "tStartMs": 621000,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "met a 20-year-old math prodigy."
+    } ]
+  }, {
+    "tStartMs": 623850,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "The two stayed in touch\ncorresponding by mail,"
+    } ]
+  }, {
+    "tStartMs": 626460,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "and in 1729, Goldbach\nintroduced this young man"
+    } ]
+  }, {
+    "tStartMs": 629850,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to the work of Fermat."
+    } ]
+  }, {
+    "tStartMs": 631560,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "At first, he seemed indifferent,"
+    } ]
+  }, {
+    "tStartMs": 633420,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "but after a little more\nprodding by Goldbach"
+    } ]
+  }, {
+    "tStartMs": 635190,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "he became passionate about number theory"
+    } ]
+  }, {
+    "tStartMs": 637440,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and he spent the next 40 years"
+    } ]
+  }, {
+    "tStartMs": 639270,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "working on different problems in the field"
+    } ]
+  }, {
+    "tStartMs": 641820,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "among them was the problem\nof perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 645090,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "This Prodigy's name was Leonhard Euler."
+    } ]
+  }, {
+    "tStartMs": 648750,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Euler picked up where\nDescartes had left off,"
+    } ]
+  }, {
+    "tStartMs": 651090,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "but with more success."
+    } ]
+  }, {
+    "tStartMs": 652680,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "In doing so, he made three\nbreakthroughs on this problem."
+    } ]
+  }, {
+    "tStartMs": 656550,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "First in 1732,"
+    } ]
+  }, {
+    "tStartMs": 658380,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "he discovered the eighth perfect\nnumber, which he had done"
+    } ]
+  }, {
+    "tStartMs": 661650,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "by verifying that 2 to\nthe 31 minus 1 is prime."
+    } ]
+  }, {
+    "tStartMs": 665490,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "Just as Mersenne had predicted."
+    } ]
+  }, {
+    "tStartMs": 669480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "For his other two breakthroughs,\nhe invented a new weapon,"
+    } ]
+  }, {
+    "tStartMs": 672600,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "the sigma function."
+    } ]
+  }, {
+    "tStartMs": 674220,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "All this function does is\nit takes all the divisors"
+    } ]
+  }, {
+    "tStartMs": 676710,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "of a number, including the\nnumber itself and adds them up."
+    } ]
+  }, {
+    "tStartMs": 680430,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So take any number, say\nsix, sum up all its divisors"
+    } ]
+  }, {
+    "tStartMs": 684630,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and you get 12, which is twice\nthe number we started with."
+    } ]
+  }, {
+    "tStartMs": 688290,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And this will be true\nfor all perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 691050,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The Sigma function of a perfect number"
+    } ]
+  }, {
+    "tStartMs": 693090,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "will always give twice the number itself"
+    } ]
+  }, {
+    "tStartMs": 695550,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "because the sigma function\nincludes the number"
+    } ]
+  }, {
+    "tStartMs": 697830,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "as one of its divisors."
+    } ]
+  }, {
+    "tStartMs": 699570,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Now this may seem like a small change,"
+    } ]
+  }, {
+    "tStartMs": 701850,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but it ends up being extremely powerful."
+    } ]
+  }, {
+    "tStartMs": 704370,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "So let's look at a few examples."
+    } ]
+  }, {
+    "tStartMs": 707220,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Take a prime number like seven."
+    } ]
+  }, {
+    "tStartMs": 709380,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Now, because it's prime,"
+    } ]
+  }, {
+    "tStartMs": 710490,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "you can't rearrange it into a rectangle,"
+    } ]
+  }, {
+    "tStartMs": 713010,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "therefore the only divisors\nare one and the prime itself."
+    } ]
+  }, {
+    "tStartMs": 716670,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "So Sigma seven is 1 plus\n7, which is equal to 8."
+    } ]
+  }, {
+    "tStartMs": 720960,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Now, to keep things easier to follow,"
+    } ]
+  }, {
+    "tStartMs": 722640,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "we'll just stick to the numbers."
+    } ]
+  }, {
+    "tStartMs": 724890,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "But what if instead of\nseven, you had seven cubed?"
+    } ]
+  }, {
+    "tStartMs": 727920,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Well, again, the sum of the\ndivisors is really simple."
+    } ]
+  }, {
+    "tStartMs": 730350,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "It's just 1 plus 7 plus\n7 squared plus 7 cubed."
+    } ]
+  }, {
+    "tStartMs": 734970,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Now let's use it on a\ndifferent number, say 20."
+    } ]
+  }, {
+    "tStartMs": 737970,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "The sum of its divisors\nis 1 plus 2 plus 4 plus 5"
+    } ]
+  }, {
+    "tStartMs": 741930,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "plus 10 plus 20, which equals 42."
+    } ]
+  }, {
+    "tStartMs": 745350,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "But you can also write this"
+    } ]
+  }, {
+    "tStartMs": 746460,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "as 1 plus 2 plus 4 times 1 plus 5."
+    } ]
+  }, {
+    "tStartMs": 750270,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And this is what really makes"
+    } ]
+  }, {
+    "tStartMs": 751710,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the sigma function so powerful."
+    } ]
+  }, {
+    "tStartMs": 753750,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "If you have a number that\nis made up of other numbers"
+    } ]
+  }, {
+    "tStartMs": 756180,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "that don't share factors with each other,"
+    } ]
+  }, {
+    "tStartMs": 757980,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "then you can split up the sigma function"
+    } ]
+  }, {
+    "tStartMs": 759630,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "into the sigma functions\nof the prime powers"
+    } ]
+  }, {
+    "tStartMs": 761820,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "that make it up."
+    } ]
+  }, {
+    "tStartMs": 763080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So sigma of 2 squared times sigma 5"
+    } ]
+  }, {
+    "tStartMs": 766200,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "is equal to sigma 20."
+    } ]
+  }, {
+    "tStartMs": 768420,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And since any number can\nbe written as the product"
+    } ]
+  }, {
+    "tStartMs": 770820,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "of prime powers, you can\nsplit up the sigma function"
+    } ]
+  }, {
+    "tStartMs": 773610,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "of any composite number\ninto the sigma functions"
+    } ]
+  }, {
+    "tStartMs": 775890,
+    "dDurationMs": 1503,
+    "segs": [ {
+      "utf8": "of its prime powers."
+    } ]
+  }, {
+    "tStartMs": 779280,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "With his new function in hand,"
+    } ]
+  }, {
+    "tStartMs": 781110,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Euler achieved his second breakthrough"
+    } ]
+  }, {
+    "tStartMs": 782970,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and did what Descartes couldn't."
+    } ]
+  }, {
+    "tStartMs": 784770,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "He proved that every even\nperfect number has Euclid's form."
+    } ]
+  }, {
+    "tStartMs": 789120,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "This Euclid-Euler theorem\nsolved a 1600-year-old problem"
+    } ]
+  }, {
+    "tStartMs": 793620,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and proved Nicomachus's fourth conjecture."
+    } ]
+  }, {
+    "tStartMs": 797220,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Math historian William Dunham called it"
+    } ]
+  }, {
+    "tStartMs": 799320,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "the greatest mathematical\ncollaboration in history."
+    } ]
+  }, {
+    "tStartMs": 803760,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "But Euler wasn't finished yet."
+    } ]
+  }, {
+    "tStartMs": 805680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "He also wanted to solve the\nproblem of odd perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 809040,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So for his third breakthrough, he set out"
+    } ]
+  }, {
+    "tStartMs": 810930,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to prove Descartes other statement"
+    } ]
+  }, {
+    "tStartMs": 813210,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "that every odd perfect number\nmust have a specific form."
+    } ]
+  }, {
+    "tStartMs": 817710,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Because if an odd perfect\nnumber does exist,"
+    } ]
+  }, {
+    "tStartMs": 820290,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "you know two things first n is odd."
+    } ]
+  }, {
+    "tStartMs": 823590,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "And second sigma of n equals 2n."
+    } ]
+  }, {
+    "tStartMs": 827400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Now any number n, you\ncan write as a product"
+    } ]
+  }, {
+    "tStartMs": 829860,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "of different prime numbers"
+    } ]
+  }, {
+    "tStartMs": 831330,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "and each prime can be to some power."
+    } ]
+  }, {
+    "tStartMs": 834480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So let's take that and put\nit into Euler sigma function."
+    } ]
+  }, {
+    "tStartMs": 837840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So you get sigma of n equals\nsigma of all of those primes"
+    } ]
+  }, {
+    "tStartMs": 842160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "to their powers, which equals 2n."
+    } ]
+  }, {
+    "tStartMs": 845160,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "But since all of these factors are primes,"
+    } ]
+  }, {
+    "tStartMs": 847500,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "you can actually split up the\nsigma function into the sigmas"
+    } ]
+  }, {
+    "tStartMs": 850080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "of the individual prime powers."
+    } ]
+  }, {
+    "tStartMs": 852480,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Now one thing to notice is"
+    } ]
+  }, {
+    "tStartMs": 853890,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "that if you have a prime\nnumber raised to an odd power,"
+    } ]
+  }, {
+    "tStartMs": 856800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "for example seven to the power of 1,"
+    } ]
+  }, {
+    "tStartMs": 858900,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "then the sigma function will be even"
+    } ]
+  }, {
+    "tStartMs": 861120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "because 1 plus 7 equals 8,"
+    } ]
+  }, {
+    "tStartMs": 863880,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "you'll always get an even number"
+    } ]
+  }, {
+    "tStartMs": 865440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "because odd plus odd is even"
+    } ]
+  }, {
+    "tStartMs": 868320,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "if the prime number is instead raised"
+    } ]
+  }, {
+    "tStartMs": 869970,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "to an even power like seven squared,"
+    } ]
+  }, {
+    "tStartMs": 873090,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "then the sigma function\nreturns an odd number."
+    } ]
+  }, {
+    "tStartMs": 876000,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Sigma of 7 squared equals\n1 plus 7 plus 7 squared,"
+    } ]
+  }, {
+    "tStartMs": 880290,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "which equals 57."
+    } ]
+  }, {
+    "tStartMs": 882240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Because odd plus odd plus odd equals odd."
+    } ]
+  }, {
+    "tStartMs": 886080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So if you have the sigma\nfunction of an odd prime raised"
+    } ]
+  }, {
+    "tStartMs": 888720,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "to an odd power, it will\ngive an even number."
+    } ]
+  }, {
+    "tStartMs": 892140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If instead it's raised to an even power,"
+    } ]
+  }, {
+    "tStartMs": 894540,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you get an odd number."
+    } ]
+  }, {
+    "tStartMs": 896940,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And this is where Euler's\ngenius insight comes in"
+    } ]
+  }, {
+    "tStartMs": 900360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "because here on the right\nside you've got 2 times n"
+    } ]
+  }, {
+    "tStartMs": 904080,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "where n is an odd perfect\nnumber, and 2 is even."
+    } ]
+  }, {
+    "tStartMs": 908550,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Well, what that means is"
+    } ]
+  }, {
+    "tStartMs": 909600,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "that on the left side there\nmust only be one even number"
+    } ]
+  }, {
+    "tStartMs": 912990,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "because if there were two even numbers,"
+    } ]
+  }, {
+    "tStartMs": 914700,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "you could factor out four."
+    } ]
+  }, {
+    "tStartMs": 916320,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "But that means you should also be able"
+    } ]
+  }, {
+    "tStartMs": 918180,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "to factor out four on the\nright side, which you can't"
+    } ]
+  }, {
+    "tStartMs": 921210,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "because n is odd and there's\nonly a single 2 here."
+    } ]
+  }, {
+    "tStartMs": 925560,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "So only one of these sigmas\nhere can give an even number,"
+    } ]
+  }, {
+    "tStartMs": 929970,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "which means that there\nis exactly one prime"
+    } ]
+  }, {
+    "tStartMs": 932370,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "that is to an odd power"
+    } ]
+  }, {
+    "tStartMs": 933900,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and all the others must\nbe to an even power"
+    } ]
+  }, {
+    "tStartMs": 936930,
+    "dDurationMs": 2073,
+    "segs": [ {
+      "utf8": "just as Descartes had predicted."
+    } ]
+  }, {
+    "tStartMs": 940740,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now, Euler refined the form a bit more"
+    } ]
+  }, {
+    "tStartMs": 942930,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and showed that an odd\nperfect number must satisfy"
+    } ]
+  }, {
+    "tStartMs": 945630,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "this condition, but even\nEuler couldn't prove"
+    } ]
+  }, {
+    "tStartMs": 949410,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "whether they existed or not."
+    } ]
+  }, {
+    "tStartMs": 950970,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "He wrote \"Whether there\nare any odd perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 953880,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "is a most difficult question.\""
+    } ]
+  }, {
+    "tStartMs": 956970,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "For the next 150 years"
+    } ]
+  }, {
+    "tStartMs": 958980,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "very little progress was made"
+    } ]
+  }, {
+    "tStartMs": 960810,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "and no new perfect\nnumbers were discovered."
+    } ]
+  }, {
+    "tStartMs": 964080,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "English mathematician Peter Barlow wrote"
+    } ]
+  }, {
+    "tStartMs": 966210,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "that Euler eighth perfect\nnumber \"Is the greatest"
+    } ]
+  }, {
+    "tStartMs": 968940,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "that ever will be discovered"
+    } ]
+  }, {
+    "tStartMs": 970590,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "for as they are merely\ncurious without being useful,"
+    } ]
+  }, {
+    "tStartMs": 973950,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "it is not likely that any\nperson will ever attempt"
+    } ]
+  }, {
+    "tStartMs": 976290,
+    "dDurationMs": 1647,
+    "segs": [ {
+      "utf8": "to find one beyond it.\""
+    } ]
+  }, {
+    "tStartMs": 980880,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But Barlow was wrong."
+    } ]
+  }, {
+    "tStartMs": 983160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Mathematicians kept pursuing\nthese elusive perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 987720,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "and most started with Mersenne's\nlist of proposed primes."
+    } ]
+  }, {
+    "tStartMs": 991710,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "The next on his list\nwas 2 to the 67 minus 1."
+    } ]
+  }, {
+    "tStartMs": 995220,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So far, Mersenne had\ndone an excellent job."
+    } ]
+  }, {
+    "tStartMs": 997890,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "He had included Euler's\neighth perfect number"
+    } ]
+  }, {
+    "tStartMs": 1000320,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "while avoiding others like 29"
+    } ]
+  }, {
+    "tStartMs": 1002660,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "that turned out not to\nlead to a perfect number,"
+    } ]
+  }, {
+    "tStartMs": 1005450,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "but 230 years after\nMersenne published his list,"
+    } ]
+  }, {
+    "tStartMs": 1008750,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Edouard Lucas proved that 2 to\nthe 67 minus 1 was not prime,"
+    } ]
+  }, {
+    "tStartMs": 1013610,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "although he was unable\nto find its factors."
+    } ]
+  }, {
+    "tStartMs": 1017720,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "27 years later, Frank\nNelson Cole gave a talk"
+    } ]
+  }, {
+    "tStartMs": 1020810,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "to the American mathematical\nsociety without saying a word,"
+    } ]
+  }, {
+    "tStartMs": 1024230,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "he walked to one side of the blackboard"
+    } ]
+  }, {
+    "tStartMs": 1026270,
+    "dDurationMs": 3562,
+    "segs": [ {
+      "utf8": "and wrote down 2 to the 67 minus 1 equals"
+    } ]
+  }, {
+    "tStartMs": 1029832,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "147,573,952,589,676,412,927."
+    } ]
+  }, {
+    "tStartMs": 1042350,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "He then walked to the other\nside of the blackboard"
+    } ]
+  }, {
+    "tStartMs": 1044510,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and multiplied 193,707,721 times"
+    } ]
+  }, {
+    "tStartMs": 1050544,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "761,838,257,287"
+    } ]
+  }, {
+    "tStartMs": 1056570,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "giving the same answer."
+    } ]
+  }, {
+    "tStartMs": 1058760,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "He sat down without saying a word"
+    } ]
+  }, {
+    "tStartMs": 1060650,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "and the audience erupted in applause."
+    } ]
+  }, {
+    "tStartMs": 1064100,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "He later admitted it took him three years"
+    } ]
+  }, {
+    "tStartMs": 1066440,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "working on Sundays to solve this."
+    } ]
+  }, {
+    "tStartMs": 1068450,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "A modern computer could solve\nthis in less than a second."
+    } ]
+  }, {
+    "tStartMs": 1073370,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "From 500 BC"
+    } ]
+  }, {
+    "tStartMs": 1074690,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "until 1952 people had discovered\njust 12 Mersenne primes"
+    } ]
+  }, {
+    "tStartMs": 1078890,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and therefore only 12 perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 1081800,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "The main difficulty was checking whether"
+    } ]
+  }, {
+    "tStartMs": 1083360,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "large Mersenne numbers\nwere actually prime."
+    } ]
+  }, {
+    "tStartMs": 1086750,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "But in 1952,"
+    } ]
+  }, {
+    "tStartMs": 1088100,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "American mathematician\nRaphael Robinson wrote"
+    } ]
+  }, {
+    "tStartMs": 1090590,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "a computer program to perform this task"
+    } ]
+  }, {
+    "tStartMs": 1092870,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and he ran it on the fastest\ncomputer at the time, the SWAC."
+    } ]
+  }, {
+    "tStartMs": 1098000,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Within 10 months, he found\nthe next five Mersenne primes"
+    } ]
+  }, {
+    "tStartMs": 1101540,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and so corresponding perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 1104150,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "And over the next 50 years,"
+    } ]
+  }, {
+    "tStartMs": 1105530,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "new Mersenne primes were\ndiscovered in rapid succession,"
+    } ]
+  }, {
+    "tStartMs": 1108830,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "all using computers."
+    } ]
+  }, {
+    "tStartMs": 1111290,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "The largest Mersenne\nprime at the end of 1952"
+    } ]
+  }, {
+    "tStartMs": 1114140,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "was 2 to the power of 2,281 minus 1,"
+    } ]
+  }, {
+    "tStartMs": 1118160,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "which is 687 digits long."
+    } ]
+  }, {
+    "tStartMs": 1120770,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "By the end of 1994, the\nlargest Mersenne prime"
+    } ]
+  }, {
+    "tStartMs": 1122930,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "was 2 to the power of 859,433 minus 1,"
+    } ]
+  }, {
+    "tStartMs": 1128060,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "which is 258,716 digits long."
+    } ]
+  }, {
+    "tStartMs": 1133070,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Since these numbers were\ngetting so astronomically large,"
+    } ]
+  }, {
+    "tStartMs": 1136070,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "the task of finding\nnumerous end primes became"
+    } ]
+  }, {
+    "tStartMs": 1138560,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "more and more difficult\neven for supercomputers."
+    } ]
+  }, {
+    "tStartMs": 1142730,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So in 1996,"
+    } ]
+  }, {
+    "tStartMs": 1144170,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "computer scientist George Woltman launched"
+    } ]
+  }, {
+    "tStartMs": 1146390,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "the Great Internet Mersenne\nPrime Search or GIMPS."
+    } ]
+  }, {
+    "tStartMs": 1149970,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "GIMPS distributes the\nwork over many computers"
+    } ]
+  }, {
+    "tStartMs": 1152900,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "allowing anyone to volunteer\ntheir computer power"
+    } ]
+  }, {
+    "tStartMs": 1155060,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "to help search for Mersenne primes."
+    } ]
+  }, {
+    "tStartMs": 1157550,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "The project has been\nhighly successful so far,"
+    } ]
+  }, {
+    "tStartMs": 1160070,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "having discovered 17 new Mersenne primes,"
+    } ]
+  }, {
+    "tStartMs": 1163250,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "15 of which were the largest\nknown primes at that time."
+    } ]
+  }, {
+    "tStartMs": 1166730,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "And the best part, if\nyour computer discovers"
+    } ]
+  }, {
+    "tStartMs": 1169310,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "a new Mersenne prime,"
+    } ]
+  }, {
+    "tStartMs": 1170660,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "you'll be listed as its discoverer,"
+    } ]
+  }, {
+    "tStartMs": 1173030,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "adding yourself to a list that includes"
+    } ]
+  }, {
+    "tStartMs": 1174950,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "some of the best\nmathematicians of all time."
+    } ]
+  }, {
+    "tStartMs": 1177830,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "There's even a $250,000 prize"
+    } ]
+  }, {
+    "tStartMs": 1180320,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "for the first billion-digit prime."
+    } ]
+  }, {
+    "tStartMs": 1185930,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "In 2017 Church Deacon John Pace discovered"
+    } ]
+  }, {
+    "tStartMs": 1189050,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "the 50th Mersenne Prime by using GIMPS."
+    } ]
+  }, {
+    "tStartMs": 1192020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The number 2 to the 77,232,917 minus 1"
+    } ]
+  }, {
+    "tStartMs": 1197750,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "is more than 23 million digits long,"
+    } ]
+  }, {
+    "tStartMs": 1201320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and it was also the largest\nknown prime at the time."
+    } ]
+  }, {
+    "tStartMs": 1204680,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "To celebrate this achievement"
+    } ]
+  }, {
+    "tStartMs": 1206300,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "the Japanese publishing house,"
+    } ]
+  }, {
+    "tStartMs": 1207830,
+    "dDurationMs": 2527,
+    "segs": [ {
+      "utf8": "Nanairosha published this book,"
+    } ]
+  }, {
+    "tStartMs": 1210357,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "\"The Largest Prime number of 2017.\""
+    } ]
+  }, {
+    "tStartMs": 1213440,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "And all it is"
+    } ]
+  }, {
+    "tStartMs": 1214550,
+    "dDurationMs": 4983,
+    "segs": [ {
+      "utf8": "is that number spread\nover 719 glorious pages."
+    } ]
+  }, {
+    "tStartMs": 1220730,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "It's wild."
+    } ]
+  }, {
+    "tStartMs": 1221870,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The size of this font is so tiny."
+    } ]
+  }, {
+    "tStartMs": 1225110,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "The book quickly rose to the\nnumber one spot on Amazon"
+    } ]
+  }, {
+    "tStartMs": 1227870,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "and sold out in four days."
+    } ]
+  }, {
+    "tStartMs": 1231140,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "A year later, the 51st\nMersenne Prime was discovered."
+    } ]
+  }, {
+    "tStartMs": 1234950,
+    "dDurationMs": 2817,
+    "segs": [ {
+      "utf8": "It's 2 to the 82,589,933 minus 1,"
+    } ]
+  }, {
+    "tStartMs": 1242180,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "and this number has\n24,000,860 2048 digits."
+    } ]
+  }, {
+    "tStartMs": 1249140,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "But there's something I\nenjoy about the absurdity,"
+    } ]
+  }, {
+    "tStartMs": 1251750,
+    "dDurationMs": 2793,
+    "segs": [ {
+      "utf8": "like there is knowledge in here,"
+    } ]
+  }, {
+    "tStartMs": 1256130,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "but it's not the kind of knowledge"
+    } ]
+  }, {
+    "tStartMs": 1257360,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "that anyone's ever gonna\nread out of a book."
+    } ]
+  }, {
+    "tStartMs": 1259790,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "But in some way it's nice"
+    } ]
+  }, {
+    "tStartMs": 1261020,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "that there's this physical artifact"
+    } ]
+  }, {
+    "tStartMs": 1262460,
+    "dDurationMs": 1443,
+    "segs": [ {
+      "utf8": "that like has the number,"
+    } ]
+  }, {
+    "tStartMs": 1264740,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "if ever we lost all the prime numbers."
+    } ]
+  }, {
+    "tStartMs": 1266510,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "You know, someone could find this book"
+    } ]
+  }, {
+    "tStartMs": 1268520,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "be like, here's the big one."
+    } ]
+  }, {
+    "tStartMs": 1271880,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "As of today, this is still\nthe largest known prime."
+    } ]
+  }, {
+    "tStartMs": 1275870,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And since numbers of this\nform grow so rapidly,"
+    } ]
+  }, {
+    "tStartMs": 1278660,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "the largest Mersenne Prime"
+    } ]
+  }, {
+    "tStartMs": 1280040,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "is almost always the largest known prime."
+    } ]
+  }, {
+    "tStartMs": 1284870,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Computers have been incredibly successful"
+    } ]
+  }, {
+    "tStartMs": 1287060,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "at finding new Mersenne primes"
+    } ]
+  }, {
+    "tStartMs": 1288680,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and their corresponding perfect numbers,"
+    } ]
+  }, {
+    "tStartMs": 1291290,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "but we've still only found 51 so far."
+    } ]
+  }, {
+    "tStartMs": 1295190,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So you might suspect that there are"
+    } ]
+  }, {
+    "tStartMs": 1296960,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "only a finite number of them,"
+    } ]
+  }, {
+    "tStartMs": 1298910,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "which would mean that\nNicomachus's fifth conjecture"
+    } ]
+  }, {
+    "tStartMs": 1301430,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "would be false,"
+    } ]
+  }, {
+    "tStartMs": 1302360,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "that there aren't infinitely\nmany perfect numbers,"
+    } ]
+  }, {
+    "tStartMs": 1306230,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "but that might not be the case."
+    } ]
+  }, {
+    "tStartMs": 1308510,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "The Lenstra and Pomerance\nWagstaff conjecture predicts"
+    } ]
+  }, {
+    "tStartMs": 1311600,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "how many Mersenne primes should appear"
+    } ]
+  }, {
+    "tStartMs": 1313790,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "based on how large P is."
+    } ]
+  }, {
+    "tStartMs": 1315980,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Now this is the actual data"
+    } ]
+  }, {
+    "tStartMs": 1318650,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "the conjecture performs remarkably well."
+    } ]
+  }, {
+    "tStartMs": 1321140,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "But more importantly, it predicts"
+    } ]
+  }, {
+    "tStartMs": 1322970,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "that there are infinitely\nmany Mersenne primes"
+    } ]
+  }, {
+    "tStartMs": 1325460,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "and so infinitely many\neven perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 1328610,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "The Mersenne primes are\njust so large and rare"
+    } ]
+  }, {
+    "tStartMs": 1331520,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "that they take a lot of time\nand computer resources to find."
+    } ]
+  }, {
+    "tStartMs": 1337010,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "But a conjecture is not a proof."
+    } ]
+  }, {
+    "tStartMs": 1339140,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And up until this day, this problem shares"
+    } ]
+  }, {
+    "tStartMs": 1341960,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the title of oldest\nunsolved problem in math"
+    } ]
+  }, {
+    "tStartMs": 1344270,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "with the other open problem."
+    } ]
+  }, {
+    "tStartMs": 1346040,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "Do any odd perfect numbers exist?"
+    } ]
+  }, {
+    "tStartMs": 1350570,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "The easiest way to solve this problem"
+    } ]
+  }, {
+    "tStartMs": 1352640,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "is by finding an example."
+    } ]
+  }, {
+    "tStartMs": 1354440,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "So maybe we could just\ncheck different odd numbers"
+    } ]
+  }, {
+    "tStartMs": 1357470,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and see if one of them is perfect."
+    } ]
+  }, {
+    "tStartMs": 1360560,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "That's exactly what\nresearchers tried in 1991."
+    } ]
+  }, {
+    "tStartMs": 1363770,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "By using a smart algorithm\ncalled a factor chain,"
+    } ]
+  }, {
+    "tStartMs": 1366560,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "they were able to show that\nif an odd perfect number"
+    } ]
+  }, {
+    "tStartMs": 1368750,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "does exist, it must be larger than 10"
+    } ]
+  }, {
+    "tStartMs": 1371210,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "to the power of 300."
+    } ]
+  }, {
+    "tStartMs": 1373070,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "21 years later, Pascal\nOchem and Michael Rao"
+    } ]
+  }, {
+    "tStartMs": 1376400,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "raised that lower bound to 10 to the 1,500"
+    } ]
+  }, {
+    "tStartMs": 1380180,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "with recent progress\npushing that number up to 10"
+    } ]
+  }, {
+    "tStartMs": 1382640,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "to the 2,200."
+    } ]
+  }, {
+    "tStartMs": 1385220,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "With numbers that large,"
+    } ]
+  }, {
+    "tStartMs": 1386810,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "it's unlikely that a computer\nwill find one anytime soon."
+    } ]
+  }, {
+    "tStartMs": 1390260,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So we'll need to get smart."
+    } ]
+  }, {
+    "tStartMs": 1392780,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "What would a proof look like?"
+    } ]
+  }, {
+    "tStartMs": 1393800,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Like how could we actually prove this?"
+    } ]
+  }, {
+    "tStartMs": 1395990,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "- I think the main idea\nthat people have been trying"
+    } ]
+  }, {
+    "tStartMs": 1399050,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to approach this problem\nwith is coming up with"
+    } ]
+  }, {
+    "tStartMs": 1401270,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "more and more conditions"
+    } ]
+  }, {
+    "tStartMs": 1402620,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "odd perfect numbers have to\nsatisfy, it's called this web"
+    } ]
+  }, {
+    "tStartMs": 1406520,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "of conditions where it has\nto have 10 prime factors now"
+    } ]
+  }, {
+    "tStartMs": 1410810,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "that we know and maybe thousands"
+    } ]
+  }, {
+    "tStartMs": 1413390,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "of non distinct prime factors"
+    } ]
+  }, {
+    "tStartMs": 1415100,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and has to be bigger than 10 to the 3000."
+    } ]
+  }, {
+    "tStartMs": 1417650,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "And it has to do all\nthese different things"
+    } ]
+  }, {
+    "tStartMs": 1420710,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and we hope that eventually\nthere's just so many conditions"
+    } ]
+  }, {
+    "tStartMs": 1423950,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "that can strain the numbers\nso much that they can't exist."
+    } ]
+  }, {
+    "tStartMs": 1427250,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- Since Euler, mathematicians\nhave kept adding new"
+    } ]
+  }, {
+    "tStartMs": 1429800,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "conditions to this web."
+    } ]
+  }, {
+    "tStartMs": 1431840,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "- But so far it hasn't worked."
+    } ]
+  }, {
+    "tStartMs": 1435050,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- But there might be another path."
+    } ]
+  }, {
+    "tStartMs": 1437150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "When Descartes was looking\nfor odd perfect numbers,"
+    } ]
+  }, {
+    "tStartMs": 1439460,
+    "dDurationMs": 4323,
+    "segs": [ {
+      "utf8": "he came across 198,585,576,189,"
+    } ]
+  }, {
+    "tStartMs": 1446480,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "which you can factor as\n3 squared times 7 squared"
+    } ]
+  }, {
+    "tStartMs": 1449660,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "times 11 squared times\n13 squared times 22021."
+    } ]
+  }, {
+    "tStartMs": 1455300,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Put this into Euler sigma function"
+    } ]
+  }, {
+    "tStartMs": 1457040,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "and you find it is equal to\ntwo times the original number."
+    } ]
+  }, {
+    "tStartMs": 1460850,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "In other words, it is perfect."
+    } ]
+  }, {
+    "tStartMs": 1463250,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That is if 22021 were prime, but it's not"
+    } ]
+  }, {
+    "tStartMs": 1468290,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "because it is equal to\n19 squared times 61."
+    } ]
+  }, {
+    "tStartMs": 1471800,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "And filling that in shows\nthat it is not perfect."
+    } ]
+  }, {
+    "tStartMs": 1474980,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Numbers like this that are very close"
+    } ]
+  }, {
+    "tStartMs": 1476990,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "to being odd perfect\nnumbers are called spoofs."
+    } ]
+  }, {
+    "tStartMs": 1480530,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Spoofs are a larger group of numbers."
+    } ]
+  }, {
+    "tStartMs": 1483590,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So odd perfect numbers share\nall properties of spoofs"
+    } ]
+  }, {
+    "tStartMs": 1487070,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and then a few extra ones."
+    } ]
+  }, {
+    "tStartMs": 1488900,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And the goal is to find\nproperties of spoofs"
+    } ]
+  }, {
+    "tStartMs": 1491270,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "that ultimately prevent them\nfrom being odd perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 1495320,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "For example, one condition"
+    } ]
+  }, {
+    "tStartMs": 1496580,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "of odd perfect numbers is that\nthey can't be divided by 105."
+    } ]
+  }, {
+    "tStartMs": 1501170,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So if you find that spoofs\nmust be divisible by 105,"
+    } ]
+  }, {
+    "tStartMs": 1504890,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "then this would prove"
+    } ]
+  }, {
+    "tStartMs": 1505940,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "that odd perfect numbers can't exist."
+    } ]
+  }, {
+    "tStartMs": 1508640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "In 2022 Pace Nielsen and a team at BYU"
+    } ]
+  }, {
+    "tStartMs": 1512000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "found 21 spoof numbers\nincluding Descartes number,"
+    } ]
+  }, {
+    "tStartMs": 1515840,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and while they discovered\nsome new properties of spoofs,"
+    } ]
+  }, {
+    "tStartMs": 1518690,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "they didn't find any that\nrule out odd, perfect numbers."
+    } ]
+  }, {
+    "tStartMs": 1523100,
+    "dDurationMs": 3663,
+    "segs": [ {
+      "utf8": "So how large would an odd\nperfect number have to be?"
+    } ]
+  }, {
+    "tStartMs": 1527720,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "- They don't exist."
+    } ]
+  }, {
+    "tStartMs": 1529700,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "- You don't think odd\nperfect numbers exist?"
+    } ]
+  }, {
+    "tStartMs": 1531670,
+    "dDurationMs": 2743,
+    "segs": [ {
+      "utf8": "- No, they don't exist."
+    } ]
+  }, {
+    "tStartMs": 1536120,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "I wish they did."
+    } ]
+  }, {
+    "tStartMs": 1536953,
+    "dDurationMs": 1837,
+    "segs": [ {
+      "utf8": "That'd be really cool if if there was just"
+    } ]
+  }, {
+    "tStartMs": 1538790,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "this one gigantic odd, perfect\nnumber out in the universe."
+    } ]
+  }, {
+    "tStartMs": 1542540,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "They don't exist. No."
+    } ]
+  }, {
+    "tStartMs": 1544820,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "- How are you convinced\nthat they don't exist?"
+    } ]
+  }, {
+    "tStartMs": 1547850,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "- There is something\ncalled a heuristic argument"
+    } ]
+  }, {
+    "tStartMs": 1551270,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "where it's not a proof."
+    } ]
+  }, {
+    "tStartMs": 1553640,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So if we had a proof, we'd be done."
+    } ]
+  }, {
+    "tStartMs": 1555770,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It's just an argument from, okay,"
+    } ]
+  }, {
+    "tStartMs": 1558290,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "we think primes occur\nthis often of this type."
+    } ]
+  }, {
+    "tStartMs": 1562310,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And you put that those pieces\nof information together"
+    } ]
+  }, {
+    "tStartMs": 1565130,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and you think, okay, on average"
+    } ]
+  }, {
+    "tStartMs": 1567380,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "how many numbers should be perfect."
+    } ]
+  }, {
+    "tStartMs": 1569780,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "- This argument, which was\nmade by Carl Pomerance predicts"
+    } ]
+  }, {
+    "tStartMs": 1572720,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "that between 10 to the 2,200"
+    } ]
+  }, {
+    "tStartMs": 1574910,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and infinity, there are no more than 10"
+    } ]
+  }, {
+    "tStartMs": 1577550,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "to the negative 540 perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 1580570,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "of the form N equals pm squared"
+    } ]
+  }, {
+    "tStartMs": 1584570,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "- With odd perfect numbers"
+    } ]
+  }, {
+    "tStartMs": 1585800,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "the heuristic says we\nshouldn't expect any."
+    } ]
+  }, {
+    "tStartMs": 1590030,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "We've searched high\nenough now that we think"
+    } ]
+  }, {
+    "tStartMs": 1593540,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "we have enough evidence they\nshouldn't exist anymore."
+    } ]
+  }, {
+    "tStartMs": 1596660,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "- My understanding is\nthis heuristic argument."
+    } ]
+  }, {
+    "tStartMs": 1600440,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "It also predicts"
+    } ]
+  }, {
+    "tStartMs": 1601820,
+    "dDurationMs": 4263,
+    "segs": [ {
+      "utf8": "that there are no large\nperfect numbers even or odd."
+    } ]
+  }, {
+    "tStartMs": 1606920,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "So..."
+    } ]
+  }, {
+    "tStartMs": 1608750,
+    "dDurationMs": 963,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1611660,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "So there's a downside."
+    } ]
+  }, {
+    "tStartMs": 1613310,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Yeah, there's a downside"
+    } ]
+  }, {
+    "tStartMs": 1614630,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "because it says there shouldn't be large,"
+    } ]
+  }, {
+    "tStartMs": 1617510,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "even perfect numbers and\nwe actually expect there"
+    } ]
+  }, {
+    "tStartMs": 1619790,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "to be infinitely many."
+    } ]
+  }, {
+    "tStartMs": 1621320,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And so, okay, so..."
+    } ]
+  }, {
+    "tStartMs": 1623780,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "why do I believe the\nheuristic in this case"
+    } ]
+  }, {
+    "tStartMs": 1625670,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "and not this case?"
+    } ]
+  }, {
+    "tStartMs": 1626503,
+    "dDurationMs": 1297,
+    "segs": [ {
+      "utf8": "You're right."
+    } ]
+  }, {
+    "tStartMs": 1627800,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Am I being hypocritical about that?"
+    } ]
+  }, {
+    "tStartMs": 1629990,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "There are other aspects you can add on"
+    } ]
+  }, {
+    "tStartMs": 1632390,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to the heuristic and make it stronger."
+    } ]
+  }, {
+    "tStartMs": 1634130,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Let me put it that way."
+    } ]
+  }, {
+    "tStartMs": 1635240,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "But you're right, it's not a proof."
+    } ]
+  }, {
+    "tStartMs": 1637340,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "- For now this is still the\noldest unsolved problem in math."
+    } ]
+  }, {
+    "tStartMs": 1641690,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Euler was right when he\nsaid whether there are"
+    } ]
+  }, {
+    "tStartMs": 1644450,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "any odd perfect numbers is\na most difficult question."
+    } ]
+  }, {
+    "tStartMs": 1649130,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "So are there any\napplications of this problem?"
+    } ]
+  }, {
+    "tStartMs": 1652880,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "- I can say no."
+    } ]
+  }, {
+    "tStartMs": 1657560,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- Now, many people may think"
+    } ]
+  }, {
+    "tStartMs": 1658910,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "that if there are no\napplications to the real world,"
+    } ]
+  }, {
+    "tStartMs": 1661550,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "then there's no point studying it."
+    } ]
+  }, {
+    "tStartMs": 1664190,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Why should anyone care about\nsome old unsolved problem?"
+    } ]
+  }, {
+    "tStartMs": 1668150,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "But I think that's the wrong approach."
+    } ]
+  }, {
+    "tStartMs": 1670250,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "For more than 2000 years,"
+    } ]
+  }, {
+    "tStartMs": 1671780,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "number theory had no\nreal world applications."
+    } ]
+  }, {
+    "tStartMs": 1674660,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "It was just mathematicians\nfollowing their curiosity"
+    } ]
+  }, {
+    "tStartMs": 1677420,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "and solving problems they\nfound interesting proving"
+    } ]
+  }, {
+    "tStartMs": 1679941,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "one result after another"
+    } ]
+  }, {
+    "tStartMs": 1681710,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and building a foundation\nof useless mathematics."
+    } ]
+  }, {
+    "tStartMs": 1684890,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But then in the 20th century, we realized"
+    } ]
+  }, {
+    "tStartMs": 1687530,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "that we could take this foundation"
+    } ]
+  }, {
+    "tStartMs": 1689450,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and base our cryptography on it."
+    } ]
+  }, {
+    "tStartMs": 1691730,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "This is what protects\neverything from text messages"
+    } ]
+  }, {
+    "tStartMs": 1694340,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to government secrets."
+    } ]
+  }, {
+    "tStartMs": 1696050,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "- Whenever you have a group"
+    } ]
+  }, {
+    "tStartMs": 1697250,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "of people put their\nminds towards a problem,"
+    } ]
+  }, {
+    "tStartMs": 1700880,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "something good's gonna come out of it."
+    } ]
+  }, {
+    "tStartMs": 1702620,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "If it's only, if it's\nonly at the beginning,"
+    } ]
+  }, {
+    "tStartMs": 1705320,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "this doesn't work."
+    } ]
+  }, {
+    "tStartMs": 1706790,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Okay, well, as Edison\nsaid, I learned 999 ways"
+    } ]
+  }, {
+    "tStartMs": 1711050,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "of not making a light bulb."
+    } ]
+  }, {
+    "tStartMs": 1712460,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Eventually I got a good way to do it."
+    } ]
+  }, {
+    "tStartMs": 1715190,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "It's the same with math."
+    } ]
+  }, {
+    "tStartMs": 1716640,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "You have a problem"
+    } ]
+  }, {
+    "tStartMs": 1718550,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and you throw your mind\nat it and others do too."
+    } ]
+  }, {
+    "tStartMs": 1720590,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "And you come up with new ideas"
+    } ]
+  }, {
+    "tStartMs": 1721940,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and eventually something\ngood comes from that process."
+    } ]
+  }, {
+    "tStartMs": 1725480,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- Einstein's general relativity was built"
+    } ]
+  }, {
+    "tStartMs": 1727340,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "on non-Euclidean geometries,\ngeometries that were developed"
+    } ]
+  }, {
+    "tStartMs": 1730820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "as intellectual curiosities\nwithout foresight"
+    } ]
+  }, {
+    "tStartMs": 1733820,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "of how they would one day change"
+    } ]
+  }, {
+    "tStartMs": 1735260,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "the way we understand the universe."
+    } ]
+  }, {
+    "tStartMs": 1737390,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "How many people do you think\nare working on the problem"
+    } ]
+  }, {
+    "tStartMs": 1740300,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "of perfect numbers right now?"
+    } ]
+  }, {
+    "tStartMs": 1742190,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "- I'd guess around 10 people currently"
+    } ]
+  }, {
+    "tStartMs": 1746210,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "have papers in the area, 10 to 15."
+    } ]
+  }, {
+    "tStartMs": 1748910,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "If you're a high schooler\nand you just love mathematics"
+    } ]
+  }, {
+    "tStartMs": 1752180,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and you think, I want a\nproblem to think about,"
+    } ]
+  }, {
+    "tStartMs": 1754670,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "this one's a great problem to think about."
+    } ]
+  }, {
+    "tStartMs": 1756170,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "And you can make progress.\nYou can figure out new things."
+    } ]
+  }, {
+    "tStartMs": 1759470,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Yeah, don't be scared."
+    } ]
+  }, {
+    "tStartMs": 1761210,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Hundreds of people have\nthought about this problem"
+    } ]
+  }, {
+    "tStartMs": 1763430,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "for thousands of years."
+    } ]
+  }, {
+    "tStartMs": 1765680,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "What can I do? You can do something."
+    } ]
+  }, {
+    "tStartMs": 1769430,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "- Why should you do math if you don't know"
+    } ]
+  }, {
+    "tStartMs": 1771500,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "that it will lead anywhere?"
+    } ]
+  }, {
+    "tStartMs": 1773240,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Well, because doing the\nmath is the only way"
+    } ]
+  }, {
+    "tStartMs": 1775580,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "to know for sure."
+    } ]
+  }, {
+    "tStartMs": 1777380,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "You can't tell in advance\nwhat the outcome will be."
+    } ]
+  }, {
+    "tStartMs": 1781130,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Like this problem might\nturn out to be a dud."
+    } ]
+  }, {
+    "tStartMs": 1783890,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "We might solve it and it might\nnot mean anything to anyone,"
+    } ]
+  }, {
+    "tStartMs": 1787670,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "or it could turn out to\nbe remarkably helpful."
+    } ]
+  }, {
+    "tStartMs": 1790730,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The only way to know for sure is to try"
+    } ]
+  }, {
+    "tStartMs": 1799340,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "In today's world, it often\nfeels like you've gotta choose"
+    } ]
+  }, {
+    "tStartMs": 1801740,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "between following your curiosity\nand building real skills"
+    } ]
+  }, {
+    "tStartMs": 1804740,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "you can apply."
+    } ]
+  }, {
+    "tStartMs": 1805790,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "But the truth is it's\nessential to do both."
+    } ]
+  }, {
+    "tStartMs": 1808220,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Fortunately, there's one learning\nplatform which allows you"
+    } ]
+  }, {
+    "tStartMs": 1810560,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "to do just that."
+    } ]
+  }, {
+    "tStartMs": 1811580,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "And it's this video sponsor, Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1814550,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Brilliant will make you a better thinker"
+    } ]
+  }, {
+    "tStartMs": 1816380,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and problem solver by\nhelping you build real skills"
+    } ]
+  }, {
+    "tStartMs": 1819290,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and everything from math"
+    } ]
+  }, {
+    "tStartMs": 1820490,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "and data science to\nprogramming technology."
+    } ]
+  }, {
+    "tStartMs": 1823640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "You name it, Brilliant has\nthousands of lessons for you"
+    } ]
+  }, {
+    "tStartMs": 1826760,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to explore so you can\nfollow your curiosity"
+    } ]
+  }, {
+    "tStartMs": 1828980,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wherever it leads you,"
+    } ]
+  }, {
+    "tStartMs": 1831080,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and you won't just learn key concepts."
+    } ]
+  }, {
+    "tStartMs": 1832970,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "You'll actually apply that knowledge"
+    } ]
+  }, {
+    "tStartMs": 1834740,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to real world situations,"
+    } ]
+  }, {
+    "tStartMs": 1836450,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "giving you real hands-on intuition."
+    } ]
+  }, {
+    "tStartMs": 1839240,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "With Brilliant you can learn"
+    } ]
+  }, {
+    "tStartMs": 1840710,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "by trying things out for yourself."
+    } ]
+  }, {
+    "tStartMs": 1842930,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "That's what makes learning with\nbrilliant just so powerful."
+    } ]
+  }, {
+    "tStartMs": 1846050,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And along the way, you can set\ngoals, track your progress,"
+    } ]
+  }, {
+    "tStartMs": 1849170,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and level up with guided learning paths"
+    } ]
+  }, {
+    "tStartMs": 1851240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that let you go deep into specific topics."
+    } ]
+  }, {
+    "tStartMs": 1854360,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "I think that learning\nsomething new every day is one"
+    } ]
+  }, {
+    "tStartMs": 1856610,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "of the best gifts you can give yourself."
+    } ]
+  }, {
+    "tStartMs": 1858170,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And Brilliant is the perfect way to do it"
+    } ]
+  }, {
+    "tStartMs": 1860420,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "with bite-sized lessons"
+    } ]
+  }, {
+    "tStartMs": 1861800,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "that you can do right from your phone."
+    } ]
+  }, {
+    "tStartMs": 1863870,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "So even if you only have a few minutes,"
+    } ]
+  }, {
+    "tStartMs": 1865820,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "you can feed your curiosity,\nsharpen your mind,"
+    } ]
+  }, {
+    "tStartMs": 1868490,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "and build new skills."
+    } ]
+  }, {
+    "tStartMs": 1870020,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "To try everything Brilliant\nhas to offer for free,"
+    } ]
+  }, {
+    "tStartMs": 1872570,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "for a full 30 days, visit\nbrilliant.org/veritasium,"
+    } ]
+  }, {
+    "tStartMs": 1876260,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "scan this QR code"
+    } ]
+  }, {
+    "tStartMs": 1877790,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "or click the link in the description"
+    } ]
+  }, {
+    "tStartMs": 1879770,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and the first 200 of you will get 20% off"
+    } ]
+  }, {
+    "tStartMs": 1882410,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Brilliant's annual premium subscription."
+    } ]
+  }, {
+    "tStartMs": 1884540,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor sponsoring this video"
+    } ]
+  }, {
+    "tStartMs": 1887150,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "and I want to thank you for watching."
+    } ]
+  } ]
+}

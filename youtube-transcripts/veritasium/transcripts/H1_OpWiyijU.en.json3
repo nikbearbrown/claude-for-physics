@@ -1,0 +1,1477 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2596,
+    "segs": [ {
+      "utf8": "This is a robot that walks,"
+    } ]
+  }, {
+    "tStartMs": 2596,
+    "dDurationMs": 1864,
+    "segs": [ {
+      "utf8": "flies, "
+    } ]
+  }, {
+    "tStartMs": 4460,
+    "dDurationMs": 1515,
+    "segs": [ {
+      "utf8": "skateboards,"
+    } ]
+  }, {
+    "tStartMs": 5975,
+    "dDurationMs": 1845,
+    "segs": [ {
+      "utf8": "and slacklines. "
+    } ]
+  }, {
+    "tStartMs": 7820,
+    "dDurationMs": 1888,
+    "segs": [ {
+      "utf8": "But why?"
+    } ]
+  }, {
+    "tStartMs": 10610,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "A portion of this video was sponsored by Bluehost."
+    } ]
+  }, {
+    "tStartMs": 12460,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "More about them at the end of the show."
+    } ]
+  }, {
+    "tStartMs": 15240,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "There are lots of\nbipedal robots out there,"
+    } ]
+  }, {
+    "tStartMs": 17520,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and drones are ubiquitous."
+    } ]
+  }, {
+    "tStartMs": 19890,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "But until now, no one had engineered"
+    } ]
+  }, {
+    "tStartMs": 22520,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "walking and flying\ntechnology to work together"
+    } ]
+  }, {
+    "tStartMs": 25930,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "in a single robot."
+    } ]
+  }, {
+    "tStartMs": 27260,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "- So it's the first robot\nthat truly integrates"
+    } ]
+  }, {
+    "tStartMs": 29940,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "the walking and the flying."
+    } ]
+  }, {
+    "tStartMs": 31390,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "It's not just a drone with legs."
+    } ]
+  }, {
+    "tStartMs": 34680,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "- [Dr. Chung] It's\nLEONARDO and it stands for"
+    } ]
+  }, {
+    "tStartMs": 37470,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "LEgs ONboARD drOne."
+    } ]
+  }, {
+    "tStartMs": 39840,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So I think it's a pretty good name."
+    } ]
+  }, {
+    "tStartMs": 41340,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "- [Derek] Why is this potentially useful?"
+    } ]
+  }, {
+    "tStartMs": 43670,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "- Yeah, so any flying vehicles"
+    } ]
+  }, {
+    "tStartMs": 45630,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "actually have to start from\nthe ground to take off."
+    } ]
+  }, {
+    "tStartMs": 47960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And eventually, they can\nnot stay in the air forever."
+    } ]
+  }, {
+    "tStartMs": 50840,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "They have to eventually come down."
+    } ]
+  }, {
+    "tStartMs": 52550,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "But sometimes they have to come down"
+    } ]
+  }, {
+    "tStartMs": 54130,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "on the very challenging\nterrain or some obstacles."
+    } ]
+  }, {
+    "tStartMs": 57700,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "So it's actually a good idea to have"
+    } ]
+  }, {
+    "tStartMs": 59660,
+    "dDurationMs": 1649,
+    "segs": [ {
+      "utf8": "these controlLable legs."
+    } ]
+  }, {
+    "tStartMs": 61309,
+    "dDurationMs": 1011,
+    "segs": [ {
+      "utf8": "So they can actually land"
+    } ]
+  }, {
+    "tStartMs": 62320,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "in a very interesting configuration,"
+    } ]
+  }, {
+    "tStartMs": 65210,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "or posture, or orientation."
+    } ]
+  }, {
+    "tStartMs": 67660,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "- [Derek] But there are\nadditional benefits."
+    } ]
+  }, {
+    "tStartMs": 69630,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "A robot like this is more\nstable than a regular drone."
+    } ]
+  }, {
+    "tStartMs": 72950,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "- I view these propellers\nalmost like arms."
+    } ]
+  }, {
+    "tStartMs": 75780,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "So some people might say that,"
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "oh, you guys are cheating because I mean,"
+    } ]
+  }, {
+    "tStartMs": 78890,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "bipedal robots do not have propellers,"
+    } ]
+  }, {
+    "tStartMs": 81080,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "but we are essentially\nusing the propellers"
+    } ]
+  }, {
+    "tStartMs": 83070,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "to do additional stabilization."
+    } ]
+  }, {
+    "tStartMs": 86166,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 92061,
+    "dDurationMs": 2779,
+    "segs": [ {
+      "utf8": "So basically, you generate\nthe lift or thruster force"
+    } ]
+  }, {
+    "tStartMs": 94840,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "to cancel some of the\nthe weight of the robot,"
+    } ]
+  }, {
+    "tStartMs": 98770,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "but that's really a secondary factor."
+    } ]
+  }, {
+    "tStartMs": 100760,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "The most important thing is basically"
+    } ]
+  }, {
+    "tStartMs": 102410,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "posture or orientation, stabilization."
+    } ]
+  }, {
+    "tStartMs": 104971,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 110539,
+    "dDurationMs": 2181,
+    "segs": [ {
+      "utf8": "- [Derek] That is so cool to see."
+    } ]
+  }, {
+    "tStartMs": 112720,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "- So the main facility for this lab"
+    } ]
+  }, {
+    "tStartMs": 115350,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "is this one."
+    } ]
+  }, {
+    "tStartMs": 116570,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It's a gigantic fan array."
+    } ]
+  }, {
+    "tStartMs": 118930,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "- [Derek] I can see all the fans now."
+    } ]
+  }, {
+    "tStartMs": 120320,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "- [Dr. Chung] Yeah, we have\n- you can start counting,"
+    } ]
+  }, {
+    "tStartMs": 122130,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "but 1,296 computer fans."
+    } ]
+  }, {
+    "tStartMs": 125260,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Those are really literally computer fans."
+    } ]
+  }, {
+    "tStartMs": 127110,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "- [Derek] How fast can it generate wind?"
+    } ]
+  }, {
+    "tStartMs": 129340,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "- So up to 15 meters per\nsecond or 20 meters per second."
+    } ]
+  }, {
+    "tStartMs": 132600,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] It's like a wind tunnel"
+    } ]
+  }, {
+    "tStartMs": 133433,
+    "dDurationMs": 1217,
+    "segs": [ {
+      "utf8": "without the need for a tunnel."
+    } ]
+  }, {
+    "tStartMs": 134650,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Yes."
+    } ]
+  }, {
+    "tStartMs": 135483,
+    "dDurationMs": 2047,
+    "segs": [ {
+      "utf8": "- It might mess with our\naudio or with our microphones."
+    } ]
+  }, {
+    "tStartMs": 137530,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Whoa."
+    } ]
+  }, {
+    "tStartMs": 139100,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "- The idea of the smoke machines"
+    } ]
+  }, {
+    "tStartMs": 140550,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "is to actually visualize the flow,"
+    } ]
+  }, {
+    "tStartMs": 142970,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "but also with all these\nadditional sensors,"
+    } ]
+  }, {
+    "tStartMs": 145140,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "like infrared cameras or radar and LIDAR,"
+    } ]
+  }, {
+    "tStartMs": 147760,
+    "dDurationMs": 2304,
+    "segs": [ {
+      "utf8": "how we can actually figure\nout the kind of location"
+    } ]
+  }, {
+    "tStartMs": 150064,
+    "dDurationMs": 2616,
+    "segs": [ {
+      "utf8": "or environment around your vehicle"
+    } ]
+  }, {
+    "tStartMs": 152680,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "in the presence of this fog."
+    } ]
+  }, {
+    "tStartMs": 156000,
+    "dDurationMs": 2842,
+    "segs": [ {
+      "utf8": "- [Derek] I wanted to feel\ntheir power for myself."
+    } ]
+  }, {
+    "tStartMs": 158842,
+    "dDurationMs": 1282,
+    "segs": [ {
+      "utf8": "- [Man] All right, you ready?"
+    } ]
+  }, {
+    "tStartMs": 160124,
+    "dDurationMs": 3008,
+    "segs": [ {
+      "utf8": "- [Derek] Yeah, let's do it."
+    } ]
+  }, {
+    "tStartMs": 163132,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "(machine whirring loudly)"
+    } ]
+  }, {
+    "tStartMs": 173280,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Yeah!"
+    } ]
+  }, {
+    "tStartMs": 174920,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That was so cool."
+    } ]
+  }, {
+    "tStartMs": 176520,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "I love it."
+    } ]
+  }, {
+    "tStartMs": 178170,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "They use this facility to test Leonardo"
+    } ]
+  }, {
+    "tStartMs": 180420,
+    "dDurationMs": 3483,
+    "segs": [ {
+      "utf8": "to see how stable he is even\nin different wind conditions."
+    } ]
+  }, {
+    "tStartMs": 185543,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(orchestral music)"
+    } ]
+  }, {
+    "tStartMs": 196430,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "- And we showed that Leo\nis more robust than a drone"
+    } ]
+  }, {
+    "tStartMs": 199700,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "because a drone gets\nblown away by the wind."
+    } ]
+  }, {
+    "tStartMs": 201461,
+    "dDurationMs": 2989,
+    "segs": [ {
+      "utf8": "But then Leo does not because\nof its ground contact."
+    } ]
+  }, {
+    "tStartMs": 204450,
+    "dDurationMs": 1907,
+    "segs": [ {
+      "utf8": "So for example, if you go\nhiking and there's like,"
+    } ]
+  }, {
+    "tStartMs": 206357,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "suddenly a lot of wind,\nyou're not gonna fall"
+    } ]
+  }, {
+    "tStartMs": 208970,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "because you have the ground contact."
+    } ]
+  }, {
+    "tStartMs": 211660,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But for a drone, it might be blown away."
+    } ]
+  }, {
+    "tStartMs": 213860,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(gentle soft orchestra music)"
+    } ]
+  }, {
+    "tStartMs": 228469,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 230310,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Man] Oh no."
+    } ]
+  }, {
+    "tStartMs": 234480,
+    "dDurationMs": 2277,
+    "segs": [ {
+      "utf8": "- So we actually took\none of the whiteboards"
+    } ]
+  }, {
+    "tStartMs": 236757,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "that we have at home and we put oil."
+    } ]
+  }, {
+    "tStartMs": 239430,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "So we applied perturbations to Leo,"
+    } ]
+  }, {
+    "tStartMs": 241460,
+    "dDurationMs": 3755,
+    "segs": [ {
+      "utf8": "and what's happening is as you\npush Leo, instead of falling,"
+    } ]
+  }, {
+    "tStartMs": 245215,
+    "dDurationMs": 4555,
+    "segs": [ {
+      "utf8": "it stays upright, but it also\nslides on the white board."
+    } ]
+  }, {
+    "tStartMs": 249770,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "So that's an interesting capability."
+    } ]
+  }, {
+    "tStartMs": 251340,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "So it's very robust."
+    } ]
+  }, {
+    "tStartMs": 252680,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "- You said perturbations."
+    } ]
+  }, {
+    "tStartMs": 253920,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Are you poking the robot?"
+    } ]
+  }, {
+    "tStartMs": 255780,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "- Yes, without harming the robot."
+    } ]
+  }, {
+    "tStartMs": 257270,
+    "dDurationMs": 1386,
+    "segs": [ {
+      "utf8": "We are gentle."
+    } ]
+  }, {
+    "tStartMs": 258656,
+    "dDurationMs": 2354,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 261010,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "- LEONARDO is so stable and\ngood at adjusting its balance,"
+    } ]
+  }, {
+    "tStartMs": 264510,
+    "dDurationMs": 1463,
+    "segs": [ {
+      "utf8": "that it can skateboard."
+    } ]
+  }, {
+    "tStartMs": 267013,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 275020,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "That's a fancy trick."
+    } ]
+  }, {
+    "tStartMs": 277490,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Not many people can go\nbackwards on a skateboard."
+    } ]
+  }, {
+    "tStartMs": 281290,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "How did you get the idea for\na robot that will skateboard?"
+    } ]
+  }, {
+    "tStartMs": 283647,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "- Should I say the truth\nor make a nice story?"
+    } ]
+  }, {
+    "tStartMs": 286470,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "- [Derek] Tell us the truth."
+    } ]
+  }, {
+    "tStartMs": 287600,
+    "dDurationMs": 2475,
+    "segs": [ {
+      "utf8": "- Yeah, so we went hiking and we saw"
+    } ]
+  }, {
+    "tStartMs": 290075,
+    "dDurationMs": 3615,
+    "segs": [ {
+      "utf8": "about 10 people going down\nthe mountain on a skateboard."
+    } ]
+  }, {
+    "tStartMs": 293690,
+    "dDurationMs": 1575,
+    "segs": [ {
+      "utf8": "And then we thought,\nwow, this is really cool."
+    } ]
+  }, {
+    "tStartMs": 295265,
+    "dDurationMs": 2926,
+    "segs": [ {
+      "utf8": "What if we try our robots\nto make it do this?"
+    } ]
+  }, {
+    "tStartMs": 298191,
+    "dDurationMs": 3439,
+    "segs": [ {
+      "utf8": "So we went to the first shop\nand we bought a skateboard."
+    } ]
+  }, {
+    "tStartMs": 301630,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "We modified it and we\ntried it and it worked."
+    } ]
+  }, {
+    "tStartMs": 304320,
+    "dDurationMs": 1153,
+    "segs": [ {
+      "utf8": "- [Derek] So do you\nthink it allows the robot"
+    } ]
+  }, {
+    "tStartMs": 305473,
+    "dDurationMs": 2617,
+    "segs": [ {
+      "utf8": "to save energy by riding on a skateboard?"
+    } ]
+  }, {
+    "tStartMs": 308090,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "- It's more efficient because\nit uses the legs less."
+    } ]
+  }, {
+    "tStartMs": 311580,
+    "dDurationMs": 1738,
+    "segs": [ {
+      "utf8": "The legs are basically used to steer,"
+    } ]
+  }, {
+    "tStartMs": 313318,
+    "dDurationMs": 1772,
+    "segs": [ {
+      "utf8": "and then it's just the propellors"
+    } ]
+  }, {
+    "tStartMs": 315090,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "that are used to accelerate the skateboard"
+    } ]
+  }, {
+    "tStartMs": 317060,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "forward and backwards."
+    } ]
+  }, {
+    "tStartMs": 317900,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "So yeah, it makes it\nsave a bit more energy."
+    } ]
+  }, {
+    "tStartMs": 321190,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "- The propellors of\ncourse, make it possible"
+    } ]
+  }, {
+    "tStartMs": 323150,
+    "dDurationMs": 1557,
+    "segs": [ {
+      "utf8": "to skateboard backwards."
+    } ]
+  }, {
+    "tStartMs": 324707,
+    "dDurationMs": 2413,
+    "segs": [ {
+      "utf8": "Something I struggled with."
+    } ]
+  }, {
+    "tStartMs": 327120,
+    "dDurationMs": 2777,
+    "segs": [ {
+      "utf8": "It definitely would help\nif I had a propeller."
+    } ]
+  }, {
+    "tStartMs": 329897,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "(woman chattering)"
+    } ]
+  }, {
+    "tStartMs": 333760,
+    "dDurationMs": 3004,
+    "segs": [ {
+      "utf8": "But the real challenge was slacklining."
+    } ]
+  }, {
+    "tStartMs": 336764,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "(upbeat latino dance music)"
+    } ]
+  }, {
+    "tStartMs": 343460,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "This looks incredibly unstable."
+    } ]
+  }, {
+    "tStartMs": 345450,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "So I think this proves\nthe point of just like,"
+    } ]
+  }, {
+    "tStartMs": 348470,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "how important control systems are."
+    } ]
+  }, {
+    "tStartMs": 350610,
+    "dDurationMs": 3243,
+    "segs": [ {
+      "utf8": "You can tell from the footage\nI have no idea what I'm doing."
+    } ]
+  }, {
+    "tStartMs": 354898,
+    "dDurationMs": 1842,
+    "segs": [ {
+      "utf8": "(Derek shrieks)"
+    } ]
+  }, {
+    "tStartMs": 356740,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "All right, I thought I would\nbe slightly better at that."
+    } ]
+  }, {
+    "tStartMs": 359570,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Let's give it another shot."
+    } ]
+  }, {
+    "tStartMs": 362240,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 364810,
+    "dDurationMs": 1563,
+    "segs": [ {
+      "utf8": "Can anyone slackline?"
+    } ]
+  }, {
+    "tStartMs": 372140,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 373070,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "This is impossible."
+    } ]
+  }, {
+    "tStartMs": 374500,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "I need a robot to do this for me."
+    } ]
+  }, {
+    "tStartMs": 376736,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "(upbeat latino dance music)"
+    } ]
+  }, {
+    "tStartMs": 382717,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 390260,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "I like the sidestepping technique."
+    } ]
+  }, {
+    "tStartMs": 393260,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Maybe I should have been doing that."
+    } ]
+  }, {
+    "tStartMs": 397789,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Kind of like copy his technique."
+    } ]
+  }, {
+    "tStartMs": 405470,
+    "dDurationMs": 3224,
+    "segs": [ {
+      "utf8": "I tried to get some tips\nby watching Leonardo."
+    } ]
+  }, {
+    "tStartMs": 408694,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 415100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "But improvement was negligible."
+    } ]
+  }, {
+    "tStartMs": 421980,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "I should've prepared."
+    } ]
+  }, {
+    "tStartMs": 424320,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "You might think it's\ncheating to use propellers,"
+    } ]
+  }, {
+    "tStartMs": 426610,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "but the robot is clearly not flying."
+    } ]
+  }, {
+    "tStartMs": 429350,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It is supporting itself\nmostly using the rope,"
+    } ]
+  }, {
+    "tStartMs": 431870,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it's able to stabilize itself"
+    } ]
+  }, {
+    "tStartMs": 433870,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "even with the wild bouncing."
+    } ]
+  }, {
+    "tStartMs": 437140,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "- So human professional slack liner,"
+    } ]
+  }, {
+    "tStartMs": 438890,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "you can see some of their videos,"
+    } ]
+  }, {
+    "tStartMs": 440850,
+    "dDurationMs": 1817,
+    "segs": [ {
+      "utf8": "actually they use arms stretched"
+    } ]
+  }, {
+    "tStartMs": 442667,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "and then they can balance themselves."
+    } ]
+  }, {
+    "tStartMs": 444648,
+    "dDurationMs": 2452,
+    "segs": [ {
+      "utf8": "We don't have the arms for LEO yet."
+    } ]
+  }, {
+    "tStartMs": 447100,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "We are planning to add a manipulation"
+    } ]
+  }, {
+    "tStartMs": 449220,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "so that he can actually carry some object."
+    } ]
+  }, {
+    "tStartMs": 451630,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "But in the meantime, we\nare using the propellers"
+    } ]
+  }, {
+    "tStartMs": 454100,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "to stabilize LEO while he's actually"
+    } ]
+  }, {
+    "tStartMs": 456470,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "walking on a slackline."
+    } ]
+  }, {
+    "tStartMs": 458120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "- It's funny because\nlike the robot feels like"
+    } ]
+  }, {
+    "tStartMs": 460960,
+    "dDurationMs": 1473,
+    "segs": [ {
+      "utf8": "it's got kind of a personality to it."
+    } ]
+  }, {
+    "tStartMs": 462433,
+    "dDurationMs": 2827,
+    "segs": [ {
+      "utf8": "The way it walks and flies."
+    } ]
+  }, {
+    "tStartMs": 465260,
+    "dDurationMs": 2446,
+    "segs": [ {
+      "utf8": "It's just totally something\nyou're not used to seeing."
+    } ]
+  }, {
+    "tStartMs": 467706,
+    "dDurationMs": 974,
+    "segs": [ {
+      "utf8": "- It looks natural."
+    } ]
+  }, {
+    "tStartMs": 468680,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Actually, I have to say that the sensors"
+    } ]
+  }, {
+    "tStartMs": 471100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "are sampled at 1,000 times per second,"
+    } ]
+  }, {
+    "tStartMs": 473500,
+    "dDurationMs": 3165,
+    "segs": [ {
+      "utf8": "but the controller is\nactually being recomputed"
+    } ]
+  }, {
+    "tStartMs": 476665,
+    "dDurationMs": 1495,
+    "segs": [ {
+      "utf8": "whatever signal you are sending"
+    } ]
+  }, {
+    "tStartMs": 478160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "to propellers and the leg\njoints is 200 times per second."
+    } ]
+  }, {
+    "tStartMs": 481840,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "So it's pretty fast computation."
+    } ]
+  }, {
+    "tStartMs": 484350,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "- [Derek] 200 times a second\nit is adjusting what it's doing"
+    } ]
+  }, {
+    "tStartMs": 487650,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "to maintain balance?"
+    } ]
+  }, {
+    "tStartMs": 488580,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "- Yes, especially\npropeller control signal."
+    } ]
+  }, {
+    "tStartMs": 491020,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "- How does that compare to humans?"
+    } ]
+  }, {
+    "tStartMs": 493030,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "- Oh, humans."
+    } ]
+  }, {
+    "tStartMs": 494280,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So humans can do very sophisticated tasks,"
+    } ]
+  }, {
+    "tStartMs": 497440,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "but in terms of a fast reaction,\nit's a very crude machine."
+    } ]
+  }, {
+    "tStartMs": 501210,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So humans, overall, has\na few seconds of delay."
+    } ]
+  }, {
+    "tStartMs": 505490,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Time delay."
+    } ]
+  }, {
+    "tStartMs": 506330,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- Is this why I was\nstruggling on the slackline?"
+    } ]
+  }, {
+    "tStartMs": 508190,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "- Maybe, but... (chuckles)"
+    } ]
+  }, {
+    "tStartMs": 510270,
+    "dDurationMs": 2165,
+    "segs": [ {
+      "utf8": "- [Derek] How do you feel about\nthe performance here today?"
+    } ]
+  }, {
+    "tStartMs": 512435,
+    "dDurationMs": 1211,
+    "segs": [ {
+      "utf8": "- Yeah, I think it beat you."
+    } ]
+  }, {
+    "tStartMs": 513646,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "(Derek laughs)"
+    } ]
+  }, {
+    "tStartMs": 515116,
+    "dDurationMs": 1384,
+    "segs": [ {
+      "utf8": "- I mean, not that that's hard,"
+    } ]
+  }, {
+    "tStartMs": 516500,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "but this is very impressive."
+    } ]
+  }, {
+    "tStartMs": 518380,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "If you imagine a robot like\nLEONARDO in the future,"
+    } ]
+  }, {
+    "tStartMs": 521300,
+    "dDurationMs": 2983,
+    "segs": [ {
+      "utf8": "like the greatest LEONARDO you could make,"
+    } ]
+  }, {
+    "tStartMs": 524283,
+    "dDurationMs": 3877,
+    "segs": [ {
+      "utf8": "what would that robot look like and do?"
+    } ]
+  }, {
+    "tStartMs": 528160,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "- So definitely having a\nLEO-like robot in space,"
+    } ]
+  }, {
+    "tStartMs": 531890,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "that would be amazing."
+    } ]
+  }, {
+    "tStartMs": 533370,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "But of course, depending on where you go,"
+    } ]
+  }, {
+    "tStartMs": 535420,
+    "dDurationMs": 1663,
+    "segs": [ {
+      "utf8": "you might not be able to use propellers."
+    } ]
+  }, {
+    "tStartMs": 537083,
+    "dDurationMs": 2577,
+    "segs": [ {
+      "utf8": "So then you would need to use thrusters."
+    } ]
+  }, {
+    "tStartMs": 539660,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- So eventually, yes."
+    } ]
+  }, {
+    "tStartMs": 540493,
+    "dDurationMs": 4077,
+    "segs": [ {
+      "utf8": "We want to develop this\nleg-based adaptive landing gear,"
+    } ]
+  }, {
+    "tStartMs": 544570,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "and then we give that to next\ngeneration Mars helicopter,"
+    } ]
+  }, {
+    "tStartMs": 547569,
+    "dDurationMs": 2691,
+    "segs": [ {
+      "utf8": "or next generation flying cars"
+    } ]
+  }, {
+    "tStartMs": 550260,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "so that it can actually land"
+    } ]
+  }, {
+    "tStartMs": 552179,
+    "dDurationMs": 2381,
+    "segs": [ {
+      "utf8": "in very challenging conditions."
+    } ]
+  }, {
+    "tStartMs": 554560,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "- And still move around once-"
+    } ]
+  }, {
+    "tStartMs": 555601,
+    "dDurationMs": 1749,
+    "segs": [ {
+      "utf8": "- And then once, yeah, once you land,"
+    } ]
+  }, {
+    "tStartMs": 557350,
+    "dDurationMs": 1136,
+    "segs": [ {
+      "utf8": "then you can walk over."
+    } ]
+  }, {
+    "tStartMs": 558486,
+    "dDurationMs": 3514,
+    "segs": [ {
+      "utf8": "(robot whirring)"
+    } ]
+  }, {
+    "tStartMs": 562000,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "- Imagine if you have a cliff\nand then you have the robot"
+    } ]
+  }, {
+    "tStartMs": 564990,
+    "dDurationMs": 3943,
+    "segs": [ {
+      "utf8": "just jump out of the cliff,\ndeploy the propellers and fly."
+    } ]
+  }, {
+    "tStartMs": 570220,
+    "dDurationMs": 1738,
+    "segs": [ {
+      "utf8": "- [Derek] That'd be wild."
+    } ]
+  }, {
+    "tStartMs": 571958,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "(quirky sound effect)"
+    } ]
+  }, {
+    "tStartMs": 577420,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Oh, hey there."
+    } ]
+  }, {
+    "tStartMs": 578520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "This portion of the video\nwas sponsored by Bluehost."
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "You know, tech is now so advanced"
+    } ]
+  }, {
+    "tStartMs": 582870,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "that robots can skateboard."
+    } ]
+  }, {
+    "tStartMs": 584650,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "So why is it still so\nhard to build a website?"
+    } ]
+  }, {
+    "tStartMs": 586980,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Make the process simple with Bluehost."
+    } ]
+  }, {
+    "tStartMs": 589014,
+    "dDurationMs": 1986,
+    "segs": [ {
+      "utf8": "It's easier than ever to get started."
+    } ]
+  }, {
+    "tStartMs": 591000,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Bluehost provides you with\na completely free domain"
+    } ]
+  }, {
+    "tStartMs": 593540,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "for the first year, as well\nas quick start templates."
+    } ]
+  }, {
+    "tStartMs": 596040,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "So you can have a beautiful website"
+    } ]
+  }, {
+    "tStartMs": 597780,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "up and running in just minutes."
+    } ]
+  }, {
+    "tStartMs": 599440,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "The templates are mobile ready\nso your website is optimized"
+    } ]
+  }, {
+    "tStartMs": 602430,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "for both phones and\ncomputers from the start."
+    } ]
+  }, {
+    "tStartMs": 605550,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Unlike the process of\nbuilding a robot like LEO,"
+    } ]
+  }, {
+    "tStartMs": 607560,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "you don't need code in\norder to make your website."
+    } ]
+  }, {
+    "tStartMs": 610540,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Bluehost lets you customize everything"
+    } ]
+  }, {
+    "tStartMs": 612410,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "with simple drag and drop editing."
+    } ]
+  }, {
+    "tStartMs": 614220,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And Bluehost builder also allows people"
+    } ]
+  }, {
+    "tStartMs": 616440,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "to choose their own editing journey."
+    } ]
+  }, {
+    "tStartMs": 618770,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "It's built on WordPress."
+    } ]
+  }, {
+    "tStartMs": 619960,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "So at any time you can toggle\nbetween WordPress core,"
+    } ]
+  }, {
+    "tStartMs": 622620,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "the traditional editing experience,"
+    } ]
+  }, {
+    "tStartMs": 624520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and the Bluehost builder\nwith no loss of functionality."
+    } ]
+  }, {
+    "tStartMs": 627640,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "This is a first of its\nkind builder experience."
+    } ]
+  }, {
+    "tStartMs": 630610,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "So start building your\nwebsite today with Bluehost."
+    } ]
+  }, {
+    "tStartMs": 633300,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "Just go to bluehost.com/track/veritasium"
+    } ]
+  }, {
+    "tStartMs": 635530,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "to receive more than 65% off."
+    } ]
+  }, {
+    "tStartMs": 637950,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 640090,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "So I wanna thank Bluehost again"
+    } ]
+  }, {
+    "tStartMs": 641750,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "for sponsoring this portion of the video."
+    } ]
+  }, {
+    "tStartMs": 643820,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "And I wanna thank you for watching."
+    } ]
+  } ]
+}

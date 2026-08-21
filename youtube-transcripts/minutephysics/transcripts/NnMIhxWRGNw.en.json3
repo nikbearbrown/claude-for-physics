@@ -1,0 +1,157 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 480,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "E=mc^2 may be the most famous equation in\nthe world… but what you might not know is"
+    } ]
+  }, {
+    "tStartMs": 5400,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "that it isn't the whole story. It just describes\nobjects that have mass and that aren't moving."
+    } ]
+  }, {
+    "tStartMs": 10870,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "The full equation is E, squared, equals m\nc squared, squared, plus p times c, squared,"
+    } ]
+  }, {
+    "tStartMs": 17670,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "where p represents the momentum of the object\nin question. This might all seem a bit confusing,"
+    } ]
+  }, {
+    "tStartMs": 22930,
+    "dDurationMs": 5929,
+    "segs": [ {
+      "utf8": "but in fact you can draw it as a right triangle\nwith sides E, m c squared, and p times c - and"
+    } ]
+  }, {
+    "tStartMs": 28859,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "just use the pythagorean theorem (a squared\nplus b squared equals c squared) to give you"
+    } ]
+  }, {
+    "tStartMs": 33329,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the equation."
+    } ]
+  }, {
+    "tStartMs": 34329,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "Also, from here it's clear to see that for\nan object that isn't moving and thus doesn't"
+    } ]
+  }, {
+    "tStartMs": 38440,
+    "dDurationMs": 6279,
+    "segs": [ {
+      "utf8": "have any momentum and thus p is zero, we get\nback our good ole' friend E=mc2. On the other"
+    } ]
+  }, {
+    "tStartMs": 44719,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "hand, if the particle in question is massless\n(like light), then mass is zero and we get"
+    } ]
+  }, {
+    "tStartMs": 49719,
+    "dDurationMs": 5031,
+    "segs": [ {
+      "utf8": "E equals p times c. This tells us that the\nenergy of a massless particle (like a photon"
+    } ]
+  }, {
+    "tStartMs": 54750,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "of light) is the same as its momentum (up\nto a factor of the speed of light)."
+    } ]
+  }, {
+    "tStartMs": 58630,
+    "dDurationMs": 4769,
+    "segs": [ {
+      "utf8": "In fact, the closer the energy of something\nis to p times c, the closer that something"
+    } ]
+  }, {
+    "tStartMs": 63399,
+    "dDurationMs": 4551,
+    "segs": [ {
+      "utf8": "is to behaving like light (I mean, look here,\nthis tiny little bit of mass is hardly mass"
+    } ]
+  }, {
+    "tStartMs": 67950,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "at all)."
+    } ]
+  }, {
+    "tStartMs": 68950,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Anyway, as an example, an object's velocity\nis equal to the speed of light times the ratio"
+    } ]
+  }, {
+    "tStartMs": 73660,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "of the object's momentum to energy - or pc\nover E. If your momentum increases, p times"
+    } ]
+  }, {
+    "tStartMs": 79720,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "c gets closer and closer to equaling your\nenergy, so their ratio gets closer and closer"
+    } ]
+  }, {
+    "tStartMs": 84250,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "to being one, and your speed gets closer and\ncloser to light speed. But because of that"
+    } ]
+  }, {
+    "tStartMs": 88830,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "tiny little bit of mass, the momentum side\nof the triangle will always be a little bit"
+    } ]
+  }, {
+    "tStartMs": 92860,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "smaller than the energy side. No matter how\nhard you try to increase your momentum, it"
+    } ]
+  }, {
+    "tStartMs": 97420,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "never quite gets to the point where p times\nc equals your energy, and thus your velocity"
+    } ]
+  }, {
+    "tStartMs": 101960,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "can never quite reach the speed of light,\nall because the hypotenuse of a right triangle"
+    } ]
+  }, {
+    "tStartMs": 106460,
+    "dDurationMs": 17030,
+    "segs": [ {
+      "utf8": "is longer than its legs."
+    } ]
+  } ]
+}

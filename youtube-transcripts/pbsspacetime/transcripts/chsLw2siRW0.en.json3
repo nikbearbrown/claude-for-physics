@@ -1,0 +1,1123 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 200,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "We actually have a pretty good idea of what might have happened before the Big Bang."
+    } ]
+  }, {
+    "tStartMs": 4320,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "That is as long as you define 'The Big Bang'  as the universe's early hot dense expanding state"
+    } ]
+  }, {
+    "tStartMs": 10280,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "that's well described by Einstein's equations."
+    } ]
+  }, {
+    "tStartMs": 13740,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "That picture of the Big Bang is very solid, down to about a trillionth of a second after the supposed beginning of time."
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "We can make good guesses down to about 10^(-30) of a second, but did anything happen before that?"
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "Well, maybe ...."
+    } ]
+  }, {
+    "tStartMs": 29260,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "... everything."
+    } ]
+  }, {
+    "tStartMs": 35800,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "The universe almost certainly did not explode from a singular point."
+    } ]
+  }, {
+    "tStartMs": 40720,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Now, we covered that misconception recently."
+    } ]
+  }, {
+    "tStartMs": 43440,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "These days, the best accepted description of the time before the Big Bang is given by inflation theory."
+    } ]
+  }, {
+    "tStartMs": 50620,
+    "dDurationMs": 7900,
+    "segs": [ {
+      "utf8": "The idea is that the energy trapped in the so-called \"Inflaton field\" caused exponential expansion of space."
+    } ]
+  }, {
+    "tStartMs": 58520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "This was the 'bang' in the Big Bang."
+    } ]
+  }, {
+    "tStartMs": 61580,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "In previous episodes, we looked at why cosmologists think we need inflation"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "and what could possibly cause it."
+    } ]
+  }, {
+    "tStartMs": 67810,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "That last one is definitely worth a watch if you haven't yet,"
+    } ]
+  }, {
+    "tStartMs": 71800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "because today we're going to peer further back in time"
+    } ]
+  }, {
+    "tStartMs": 74900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and explore a stunning implication of inflationary theory."
+    } ]
+  }, {
+    "tStartMs": 78760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "See, if we accept that inflation happened at all, it's hard to escape the conclusion"
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "that it never actually stopped."
+    } ]
+  }, {
+    "tStartMs": 87600,
+    "dDurationMs": 7960,
+    "segs": [ {
+      "utf8": "And in fact, our universe is but one bubble among countless others in an eternally inflating greater universe."
+    } ]
+  }, {
+    "tStartMs": 96960,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Cosmic inflation, if it actually happened, was driven by the inflaton field,"
+    } ]
+  }, {
+    "tStartMs": 101680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "which had the bizarre property of containing a ton of energy even in the absence of particles."
+    } ]
+  }, {
+    "tStartMs": 107920,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "It had a nonzero vacuum energy."
+    } ]
+  }, {
+    "tStartMs": 110440,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Now, in a recent episode we talked about how such a field could drive exponential expansion."
+    } ]
+  }, {
+    "tStartMs": 116200,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "But we stopped short of discussing what the field actually is and what the real implications are of its existence."
+    } ]
+  }, {
+    "tStartMs": 123840,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Before we make any real predictions about the behavior of an inflating universe,"
+    } ]
+  }, {
+    "tStartMs": 128420,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "we probably should know more about the field that drives it. To start with, you need a particular type of field to cause inflation,"
+    } ]
+  }, {
+    "tStartMs": 135500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "something called a scalar field."
+    } ]
+  }, {
+    "tStartMs": 137700,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "This is actually the simplest type of quantum field because it's described by a single number, a scalar everywhere in space."
+    } ]
+  }, {
+    "tStartMs": 144740,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "Other fields like the particle field or the electromagnetic field are described by multiple components and vectors instead of single numbers."
+    } ]
+  }, {
+    "tStartMs": 153060,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "We know that scalar fields exist, or at least one does."
+    } ]
+  }, {
+    "tStartMs": 157260,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "That's the Higgs field which gives elementary particles their mass."
+    } ]
+  }, {
+    "tStartMs": 161100,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The inflaton field would be another such scalar field, or it might even be the Higgs field."
+    } ]
+  }, {
+    "tStartMs": 167140,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Physicists are still arguing over that one."
+    } ]
+  }, {
+    "tStartMs": 170140,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "I mentioned last time that quantum fields can hold energy without actually having particles."
+    } ]
+  }, {
+    "tStartMs": 175860,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "They do this through a process called self interaction."
+    } ]
+  }, {
+    "tStartMs": 178780,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "You can think of a field with a high field strength as being full of virtual particles."
+    } ]
+  }, {
+    "tStartMs": 183880,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "These are ephemeral vibrations in the field that are constantly tugging at the field as the field tugs at them."
+    } ]
+  }, {
+    "tStartMs": 191020,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "This self interaction gives the field some potential energy."
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "It's potential energy because the field would much rather"
+    } ]
+  }, {
+    "tStartMs": 198020,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "reconfigure itself into a lower energy state. In which case, that stored energy would be converted into another form,"
+    } ]
+  }, {
+    "tStartMs": 204840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "for example into real particles."
+    } ]
+  }, {
+    "tStartMs": 207720,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Although scalar fields are the simplest, they can exhibit"
+    } ]
+  }, {
+    "tStartMs": 211860,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "complicated relationships between this potential energy and the field strength."
+    } ]
+  }, {
+    "tStartMs": 216920,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "In our last inflation episode, we looked at the case of old inflation proposed by Alan Guth in 1979."
+    } ]
+  }, {
+    "tStartMs": 223870,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Guth's idea is that there's a local minimum in"
+    } ]
+  }, {
+    "tStartMs": 227740,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "potential energy that allows the inflaton field to get stuck in a false vacuum state."
+    } ]
+  }, {
+    "tStartMs": 234140,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "When that state decays, potential energy is released as real particles, ending inflation,"
+    } ]
+  }, {
+    "tStartMs": 239500,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and re-heating the universe in an expanding bubble."
+    } ]
+  }, {
+    "tStartMs": 242620,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "The random nature of this version of inflaton decay means that many such bubbles should form,"
+    } ]
+  }, {
+    "tStartMs": 249300,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "ie. multiple universes exist."
+    } ]
+  }, {
+    "tStartMs": 252900,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "But we also saw that there were problems with this approach."
+    } ]
+  }, {
+    "tStartMs": 256280,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "Old inflation predicts empty firewall bubbles that look nothing like the early phase of our universe."
+    } ]
+  }, {
+    "tStartMs": 262840,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "A more promising idea is something called slow roll inflation"
+    } ]
+  }, {
+    "tStartMs": 267020,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "This was proposed by Andrei Linde, Andreas Albrecht and Paul Steinhardt,"
+    } ]
+  }, {
+    "tStartMs": 271780,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "in 1982, just a few years after Guth's proposal."
+    } ]
+  }, {
+    "tStartMs": 275460,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "The idea of slow roll inflation is that the inflaton field isn't stuck at a local minimum in the potential"
+    } ]
+  }, {
+    "tStartMs": 282740,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "but rather it's on a very weakly sloping plateau leading towards a deeper valley"
+    } ]
+  }, {
+    "tStartMs": 288160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "In that case, the field strength would very slowly roll down that slope."
+    } ]
+  }, {
+    "tStartMs": 292880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "As it did, the energy would drop very very slowly."
+    } ]
+  }, {
+    "tStartMs": 297900,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "That would still give us our near constant energy density needed to power inflation"
+    } ]
+  }, {
+    "tStartMs": 302560,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "and then, as the roll sped up towards the valley, inflation would end."
+    } ]
+  }, {
+    "tStartMs": 307640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But it wouldn't end as a random process,"
+    } ]
+  }, {
+    "tStartMs": 309880,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "it wouldn't require quantum tunneling to get started."
+    } ]
+  }, {
+    "tStartMs": 313480,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Instead, the entire region of the inflating universe would approach this minimum at the same time"
+    } ]
+  }, {
+    "tStartMs": 319820,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "Inflation would shut down smoothly and the universe would be reheated everywhere all at once."
+    } ]
+  }, {
+    "tStartMs": 326900,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "This gives us the expanding hot dense universe that we know and love in our Big Bang model."
+    } ]
+  }, {
+    "tStartMs": 333180,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But if slow roll inflation stops everywhere at once,"
+    } ]
+  }, {
+    "tStartMs": 336580,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "how does it last forever and how does it give us multiple universes?"
+    } ]
+  }, {
+    "tStartMs": 341840,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Before we get to that, I want a quick word on why the Inflaton field"
+    } ]
+  }, {
+    "tStartMs": 346020,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "should have one potential energy curve over any other."
+    } ]
+  }, {
+    "tStartMs": 349840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Now, the behavior of this field depends on some unverified physics"
+    } ]
+  }, {
+    "tStartMs": 354160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But a suitable inflaton field fits with some grand unified theories."
+    } ]
+  }, {
+    "tStartMs": 359200,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Those are theories that combine the strong nuclear force with electromagnetic and weak forces."
+    } ]
+  }, {
+    "tStartMs": 364820,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "As well as theories which also unify gravity, like string theory."
+    } ]
+  }, {
+    "tStartMs": 369640,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "These theories predict phase transitions in the behavior of fields"
+    } ]
+  }, {
+    "tStartMs": 374180,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "as the temperature of the universe changes."
+    } ]
+  }, {
+    "tStartMs": 377300,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "As the universe cools, different vacuum states can appear"
+    } ]
+  }, {
+    "tStartMs": 381020,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "possibly trapping the inflaton field."
+    } ]
+  }, {
+    "tStartMs": 383780,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Very flat potential energy slopes are also possible in these theories,"
+    } ]
+  }, {
+    "tStartMs": 388060,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "enabling slow roll inflation or a combination of both."
+    } ]
+  }, {
+    "tStartMs": 392460,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "The detailed physics requires yet more episodes,"
+    } ]
+  }, {
+    "tStartMs": 394760,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "so, for now take my word for it that inflation fits some theory even if that theory is also"
+    } ]
+  }, {
+    "tStartMs": 401340,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "entirely speculative."
+    } ]
+  }, {
+    "tStartMs": 403460,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "As speculative as inflation is, it does make some predictions and some are even testable."
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "I mentioned that quantum fields fluctuate due to the intrinsic randomness of the quantum world."
+    } ]
+  }, {
+    "tStartMs": 414720,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "As the inflaton field rolls down the potential energy hill, the field strength should fluctuate slightly."
+    } ]
+  }, {
+    "tStartMs": 421880,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "That means some regions of the universe would finish inflation a little ahead of others"
+    } ]
+  }, {
+    "tStartMs": 427380,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And that will lead to very small density and temperature"
+    } ]
+  }, {
+    "tStartMs": 431060,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "fluctuations in the matter produced after inflation."
+    } ]
+  }, {
+    "tStartMs": 434940,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "And we see those fluctuations in the Cosmic Microwave Background."
+    } ]
+  }, {
+    "tStartMs": 439600,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "These same fluctuations collapsed under their own gravity to become the first galaxies."
+    } ]
+  }, {
+    "tStartMs": 445840,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "In fact, this is perhaps the best evidence we have that inflation is plausible,"
+    } ]
+  }, {
+    "tStartMs": 450820,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "it can predict the pattern of temperature fluctuations in the CMB."
+    } ]
+  }, {
+    "tStartMs": 455180,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "They should, according to inflation,"
+    } ]
+  }, {
+    "tStartMs": 457120,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "come in all possible sizes on the sky and be evenly distributed in abundance with giant"
+    } ]
+  }, {
+    "tStartMs": 463920,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "fluctuations as likely to occur as tiny ones and all physical sizes in between,"
+    } ]
+  }, {
+    "tStartMs": 469620,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "and that is exactly what we see in the CMB."
+    } ]
+  }, {
+    "tStartMs": 473860,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "But seeding all of the structure in our universe"
+    } ]
+  }, {
+    "tStartMs": 477480,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "is probably the least impressive thing those quantum fluctuations did."
+    } ]
+  }, {
+    "tStartMs": 481660,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "They also give eternal inflation and multiple universes."
+    } ]
+  }, {
+    "tStartMs": 486440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "In slow roll inflation, exponential expansion should grind to a halt over large regions"
+    } ]
+  }, {
+    "tStartMs": 492540,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "as the inflaton field decays"
+    } ]
+  }, {
+    "tStartMs": 494700,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "As I mentioned, small fluctuations in the Inflaton field"
+    } ]
+  }, {
+    "tStartMs": 497920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "would lead to slight differences in when the inflation ends from one point to the next"
+    } ]
+  }, {
+    "tStartMs": 502560,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "But quantum fluctuations come in all sizes and a rare strong fluctuation"
+    } ]
+  }, {
+    "tStartMs": 507540,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "would force the inflaton field back up the potential energy slope,"
+    } ]
+  }, {
+    "tStartMs": 511500,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "causing inflation to last a lot longer in that spot."
+    } ]
+  }, {
+    "tStartMs": 515300,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Such fluctuations would be extremely rare and so you wouldn't think they'd count for much,"
+    } ]
+  }, {
+    "tStartMs": 520600,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "but remember,"
+    } ]
+  }, {
+    "tStartMs": 522180,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Inflation causes exponential expansion."
+    } ]
+  }, {
+    "tStartMs": 525160,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "To further up the slope, the inflaton field gets pushed the faster that expansion."
+    } ]
+  }, {
+    "tStartMs": 529940,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "So, and up your fluctuation in a tiny patch of space would very quickly outgrow its surroundings;"
+    } ]
+  }, {
+    "tStartMs": 536290,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "producing a new inflating region."
+    } ]
+  }, {
+    "tStartMs": 538820,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "That region would then continue to decay spawning new universes,"
+    } ]
+  }, {
+    "tStartMs": 542580,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "but also spawning new inflating regions."
+    } ]
+  }, {
+    "tStartMs": 546220,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "The result is stunning;"
+    } ]
+  }, {
+    "tStartMs": 548720,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "inflation never stops,"
+    } ]
+  }, {
+    "tStartMs": 550660,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "but rather forms a fractal structure of infinitely expanding space in dispersed with bubble universes of all different sizes."
+    } ]
+  }, {
+    "tStartMs": 558760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And to get this started,"
+    } ]
+  }, {
+    "tStartMs": 561240,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "you need a speck."
+    } ]
+  }, {
+    "tStartMs": 563180,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "A fraction of the Planck energy within a Planck volume."
+    } ]
+  }, {
+    "tStartMs": 567860,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "A millionth of a gram in a space 10^(-35) meters across should do the trick."
+    } ]
+  }, {
+    "tStartMs": 574720,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Assuming a quantum field of the right type"
+    } ]
+  }, {
+    "tStartMs": 577780,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and that speck will start inflating."
+    } ]
+  }, {
+    "tStartMs": 580060,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "The exponential nature of the process will take over and the speck"
+    } ]
+  }, {
+    "tStartMs": 584480,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "becomes infinite universes."
+    } ]
+  }, {
+    "tStartMs": 586540,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Okay, cool story, bro."
+    } ]
+  }, {
+    "tStartMs": 588800,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Admittedly this all raises a few questions."
+    } ]
+  }, {
+    "tStartMs": 592380,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "How plausible is this mysterious inflaton field?"
+    } ]
+  }, {
+    "tStartMs": 596340,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Can eternal inflation last infinitely into the past as well as the future?"
+    } ]
+  }, {
+    "tStartMs": 601620,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "What happens when bubbles collide?"
+    } ]
+  }, {
+    "tStartMs": 604540,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "There are also deep possible connections between inflation and string theory and with the holographic principle,"
+    } ]
+  }, {
+    "tStartMs": 610240,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "as described in one of Stephen Hawking's last papers."
+    } ]
+  }, {
+    "tStartMs": 614180,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Good material for the eternally expanding future library of PBS Space Time."
+    } ]
+  }, {
+    "tStartMs": 620440,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "Hey everyone."
+    } ]
+  }, {
+    "tStartMs": 621400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So, summer travel has kept me from doing comment responses for the past few episodes."
+    } ]
+  }, {
+    "tStartMs": 625940,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "On the plus side, I learned how to kite surf but now that I'm back on firm ground"
+    } ]
+  }, {
+    "tStartMs": 630640,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I'll respond to questions from two episodes."
+    } ]
+  }, {
+    "tStartMs": 633720,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "\"Did time start at the Big Bang\" and \"What caused the Big Bang, the real physics of inflation\""
+    } ]
+  }, {
+    "tStartMs": 640160,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "A couple of people mentioned George Lemaitre,"
+    } ]
+  }, {
+    "tStartMs": 642820,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "who predicted the expansion of the universe before Edwin Hubble's observations."
+    } ]
+  }, {
+    "tStartMs": 647760,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Lemaitre was a Jesuit priest and astronomer physicist."
+    } ]
+  }, {
+    "tStartMs": 651340,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "He realized that Vesta Slifer's observations of receding galaxies"
+    } ]
+  }, {
+    "tStartMs": 655940,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "could be explained by an expanding universe and"
+    } ]
+  }, {
+    "tStartMs": 658840,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "solved Einstein's equations to show this."
+    } ]
+  }, {
+    "tStartMs": 661660,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "Lemaitre doesn't get as much credit in popular accounts as Hubble and that's definitely unfair."
+    } ]
+  }, {
+    "tStartMs": 667520,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But the reason Hubble gets most of the credit is that before Hubble,"
+    } ]
+  }, {
+    "tStartMs": 670810,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "we had no idea what the distances were to Slifer's galaxies"
+    } ]
+  }, {
+    "tStartMs": 674769,
+    "dDurationMs": 4611,
+    "segs": [ {
+      "utf8": "and so we couldn't properly test this expanding universe hypothesis."
+    } ]
+  }, {
+    "tStartMs": 679840,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "Pup314 asks if the reheating of the universe after inflation is what gave us the cosmic background radiation."
+    } ]
+  }, {
+    "tStartMs": 686380,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Well, not directly."
+    } ]
+  }, {
+    "tStartMs": 688340,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The CMB was released about 400,000 years after the end of inflation"
+    } ]
+  }, {
+    "tStartMs": 692660,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "when the reheated universe first became transparent."
+    } ]
+  }, {
+    "tStartMs": 695860,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "It was around 3000 Kelvin at that time."
+    } ]
+  }, {
+    "tStartMs": 698500,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "The reheating i'm talking about happened right at the end of inflation,"
+    } ]
+  }, {
+    "tStartMs": 702500,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "which is basically corresponding to the beginning of our universe."
+    } ]
+  }, {
+    "tStartMs": 706540,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "Then an ocean of inflaton particles released by the decaying inflaton field turned into"
+    } ]
+  }, {
+    "tStartMs": 712260,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "extremely energetic particles and radiation."
+    } ]
+  }, {
+    "tStartMs": 715460,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "How energetic?"
+    } ]
+  }, {
+    "tStartMs": 716760,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Enough to give the universe a temperature of 10 to the power of 27 or 28 Kelvin."
+    } ]
+  }, {
+    "tStartMs": 722000,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "That energy would then end up in the cosmic background radiation photons, but not for a while."
+    } ]
+  }, {
+    "tStartMs": 727460,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Some of you asked how our cosmic inflation episode explains what caused the Big Bang,"
+    } ]
+  }, {
+    "tStartMs": 733460,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "which is what we claimed in the title."
+    } ]
+  }, {
+    "tStartMs": 735520,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "Also, the standard Big Bang Theory doesn't explain the initial expansion at all,"
+    } ]
+  }, {
+    "tStartMs": 741660,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "it includes an expansion rate in its initial conditions and then tries to explain everything that happens afterwards."
+    } ]
+  }, {
+    "tStartMs": 749300,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Inflation actually gives a physical reason for the universe to have started with a"
+    } ]
+  }, {
+    "tStartMs": 754280,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "rapid outward expansion rate in terms of pretty well understood physics."
+    } ]
+  }, {
+    "tStartMs": 759420,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "So, inflation doesn't explain where the very first speck of space-time and energy came from"
+    } ]
+  }, {
+    "tStartMs": 765220,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "but it does give a potential explanation for the 'bang' part of the Big Bang."
+    } ]
+  }, {
+    "tStartMs": 770660,
+    "dDurationMs": 7420,
+    "segs": [ {
+      "utf8": "Dominic H quips \"Did time start at the Big Bang? Let me guess depends on your definitions of \"Did\", \"Time\", \"Start\" and \"Big Bang\" \""
+    } ]
+  }, {
+    "tStartMs": 778760,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 779440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Exactly right, Dominic!"
+    } ]
+  }, {
+    "tStartMs": 781540,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Bad science starts with bad questions."
+    } ]
+  }, {
+    "tStartMs": 785320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "What's the meaning of life, the universe and everything?"
+    } ]
+  }, {
+    "tStartMs": 788360,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "42 for the right definition of life, the universe, and everything."
+    } ]
+  }, {
+    "tStartMs": 792180,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "It may seem pedantic and nerdy"
+    } ]
+  }, {
+    "tStartMs": 794260,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "but the more precise the question the more useful the answer."
+    } ]
+  }, {
+    "tStartMs": 797880,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "In the case of Big Bang,"
+    } ]
+  }, {
+    "tStartMs": 799520,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "many scientists now mean the period of regular Hubble like expansion that followed the initial kick"
+    } ]
+  }, {
+    "tStartMs": 806540,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and we think that kick was caused by inflation."
+    } ]
+  }, {
+    "tStartMs": 809860,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "To those of you surprised to see me out in the real world in our recent stellar series,"
+    } ]
+  }, {
+    "tStartMs": 815000,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "don't worry, they caught me again and took away my kite"
+    } ]
+  }, {
+    "tStartMs": 817940,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and I'm now safely back in this weird computer graphics limbo."
+    } ]
+  }, {
+    "tStartMs": 822460,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "It's gonna be a back door here somewhere."
+    } ]
+  } ]
+}

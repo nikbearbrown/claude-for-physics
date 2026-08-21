@@ -1,0 +1,493 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "A lot of people took pictures of the recent solar \neclipse in North America and got photos where  "
+    } ]
+  }, {
+    "tStartMs": 8640,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "there’s a ghostly image of the eclipse floating \nin the sky nowhere near where the sun is! "
+    } ]
+  }, {
+    "tStartMs": 12680,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "The short explanation is that the ghostly \neclipse images are lens flares: the thing  "
+    } ]
+  }, {
+    "tStartMs": 16480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that happens when you point a camera towards a \nparticularly bright light source and you get a  "
+    } ]
+  }, {
+    "tStartMs": 19600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "glow or streaks or disks... or eclipses?\nThe eclipse lens flares are cool in two  "
+    } ]
+  }, {
+    "tStartMs": 24600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "really different ways - first, they allow \nyou to actually take an image of a partial  "
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "or annular eclipse without fancy photographic \nfilters to darken the sun! Though my lawyer  "
+    } ]
+  }, {
+    "tStartMs": 31720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "tells me that you should never look directly at \nthe sun or point a camera at it for an extended  "
+    } ]
+  }, {
+    "tStartMs": 34840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "period of time without a proper solar filter. And \nsecond, eclipse lens flares reveal some really  "
+    } ]
+  }, {
+    "tStartMs": 39240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "interesting facts about lens flares in general!\nThis is grossly oversimplified, but lens flares  "
+    } ]
+  }, {
+    "tStartMs": 44040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "are basically, generally speaking, an optical \ndefect: they’re light that passes through a  "
+    } ]
+  }, {
+    "tStartMs": 47040,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "lens in an unintended way. Most modern camera \n“lenses” are actually multiple glass lenses,  "
+    } ]
+  }, {
+    "tStartMs": 52120,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "called lens elements, working together to function \nas a single optical device. In a perfect world,  "
+    } ]
+  }, {
+    "tStartMs": 56880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "all the light falling on a lens would be bent \nin exactly the way the designers intended,  "
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "passing through each lens element and reaching \nthe image sensor or film to create an image. But  "
+    } ]
+  }, {
+    "tStartMs": 65000,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "physics is annoying: glass likes to reflect and \nabsorb and scatter light as well as transmit it,  "
+    } ]
+  }, {
+    "tStartMs": 69680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and no matter how careful you are with \nanti-reflective coatings, no lens is perfect. "
+    } ]
+  }, {
+    "tStartMs": 73840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Every single lens element, including the aperture, \nwill in principle “incorrectly” reflect or scatter  "
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "or diffract a small amount of all light that \nhits it, and that light then bounces around  "
+    } ]
+  }, {
+    "tStartMs": 82080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "in the lens before hitting the inside wall \nof the lens, or going back out the front,  "
+    } ]
+  }, {
+    "tStartMs": 85320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "or hitting the image sensor. But even when it hits \nthe image sensor, you don’t notice most of this  "
+    } ]
+  }, {
+    "tStartMs": 89360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "incorrectly bouncing light, especially \nif the lens makers did their job well. "
+    } ]
+  }, {
+    "tStartMs": 92920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "It’s all about relative brightness - if, say, 99% \nof light passes correctly through a lens element  "
+    } ]
+  }, {
+    "tStartMs": 98120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and only 1% of it bounces around and causes \na lens flare, then that flare is at most 1%  "
+    } ]
+  }, {
+    "tStartMs": 102440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "as bright as the correct light, and you probably \nwon’t notice it in the final image. This is how  "
+    } ]
+  }, {
+    "tStartMs": 106360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "one-way mirror glass works, for example, or why \nit’s really easy to see into a house at night,  "
+    } ]
+  }, {
+    "tStartMs": 110360,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "but hard to see out. Relative brightness!\nWhen you do have a bright light, oh,  "
+    } ]
+  }, {
+    "tStartMs": 114560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "do lens flares come in all varieties! Glow \nand rings and rays and starbursts and disks  "
+    } ]
+  }, {
+    "tStartMs": 118880,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and rainbow arcs and so on - the appearance of \nflares depends on a lot of factors: the shape  "
+    } ]
+  }, {
+    "tStartMs": 123160,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and positioning of lens elements, the coatings on \nthem, the focus and zoom and aperture settings,  "
+    } ]
+  }, {
+    "tStartMs": 126640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "how bright the light is, and even the \ndirection the bright light is coming from. "
+    } ]
+  }, {
+    "tStartMs": 129520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Anything that has a line of sight to the front \nof the lens – whether within the field of view  "
+    } ]
+  }, {
+    "tStartMs": 133080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "or not – anything that could in principle cast \nlight of any sort onto the lens is technically  "
+    } ]
+  }, {
+    "tStartMs": 137320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "speaking causing lens flaring of some type \nsomewhere in the image. Most of the flares  "
+    } ]
+  }, {
+    "tStartMs": 141200,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "are simply too faint/dark to notice. And \nlens makers typically work very hard to  "
+    } ]
+  }, {
+    "tStartMs": 144840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "engineer lenses to minimize the reflections and \nabsorption that lead to flares, though defects  "
+    } ]
+  }, {
+    "tStartMs": 148720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "are impossible to eliminate entirely. You only \nstart noticing flaring when the light causing  "
+    } ]
+  }, {
+    "tStartMs": 152720,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "the flare - whether the light source is visible \nin the image or not – is bright enough that,  "
+    } ]
+  }, {
+    "tStartMs": 154040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "even when it’s darkened to 1% or 0.1% \nor 0.01% of its original brightness,  "
+    } ]
+  }, {
+    "tStartMs": 158760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that darkened light is still brighter than - or at \nleast similar in brightness to - the other things  "
+    } ]
+  }, {
+    "tStartMs": 162760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "in the part of the image where the flare appears.\nThe sun, of course, is definitely bright enough  "
+    } ]
+  }, {
+    "tStartMs": 166720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "that even when you darken it by a factor of a \nhundred, or a thousand, or ten thousand, it’s  "
+    } ]
+  }, {
+    "tStartMs": 170160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "still bright. In the case of the eclipse photos, \nsome of the light from the sun is presumably  "
+    } ]
+  }, {
+    "tStartMs": 173920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "illuminating or scattering off of a lens element \nsomewhere within the lens (rather than passing  "
+    } ]
+  }, {
+    "tStartMs": 177920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "through as intended), and that creates a flare \nthat looks like the eclipse. This flaring also  "
+    } ]
+  }, {
+    "tStartMs": 181920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "happens if you take a picture of the sun not \nduring an eclipse, but in that case it’s really  "
+    } ]
+  }, {
+    "tStartMs": 185200,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "hard to tell whether the flare is a circle because \nthe sun is a circle, or because the lens aperture  "
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "is a circle, or because the bright light source \nwas blurred into a circle, and so on. And we’re  "
+    } ]
+  }, {
+    "tStartMs": 192920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so used to seeing lens flares in images that most \nof the time we don’t really even notice or think  "
+    } ]
+  }, {
+    "tStartMs": 196920,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "about them. During an eclipse, though, the lens \nflare is different - in the right circumstances,  "
+    } ]
+  }, {
+    "tStartMs": 200800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the flare will be an image of the eclipsed sun \nitself! Though mirrored across the field of view  "
+    } ]
+  }, {
+    "tStartMs": 204640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "the way some some lenses flip things upside down. \nThere are two really cool things about this lens  "
+    } ]
+  }, {
+    "tStartMs": 208320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "flare: first, the fact you’re seeing the eclipse \nin the flare tells you that if you took a picture  "
+    } ]
+  }, {
+    "tStartMs": 212280,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "of the sun with that camera on a normal day, the \nflare you’d see IS an actual image of the sun,  "
+    } ]
+  }, {
+    "tStartMs": 216400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and not just a weird out of focus orb - which \nis really cool! Second, regardless of how the  "
+    } ]
+  }, {
+    "tStartMs": 219480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "flare was created within the lens, its light \nhad to have been dimmed enough relative to  "
+    } ]
+  }, {
+    "tStartMs": 223200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "the powerful brightness of the sun that the \nflare doesn’t create its own haze and glow  "
+    } ]
+  }, {
+    "tStartMs": 226400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and flaring - it’s a correctly exposed photo \nof an eclipse, obtained using a lens defect  "
+    } ]
+  }, {
+    "tStartMs": 230880,
+    "dDurationMs": 1995,
+    "segs": [ {
+      "utf8": "rather than a solar filter. and this is part of \nwhat lets you see it clearly in a photograph! "
+    } ]
+  }, {
+    "tStartMs": 232875,
+    "dDurationMs": 3205,
+    "segs": [ {
+      "utf8": "In a sense, when you take a picture that has a \nlens flare that’s an image of the eclipse, you  "
+    } ]
+  }, {
+    "tStartMs": 236080,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "are actually, directly, photographing the eclipse \n- just not the way the lens makers intended. "
+    } ]
+  }, {
+    "tStartMs": 242120,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "ps - here’s a photo that puzzled me at \nfirst: the flare isn’t opposite the sun,  "
+    } ]
+  }, {
+    "tStartMs": 246000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but instead is directly where the sun should be! \nI wondered what was going on until I realized...  "
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "this isn’t a flare, it’s just a direct image of \nthe eclipse! The clouds passed in front of the  "
+    } ]
+  }, {
+    "tStartMs": 254040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "sun enough to darken it enough for the camera \nto take a photo directly without glow or flares  "
+    } ]
+  }, {
+    "tStartMs": 257160,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "to obscure the image. It’s all about relative \nbrightnesses! And if you’re actually out in  "
+    } ]
+  }, {
+    "tStartMs": 259120,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "the real world photographing bright objects, \nwell, if something’s a flare, you can put your  "
+    } ]
+  }, {
+    "tStartMs": 262440,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "hand “behind” it (because the flare is happening \ninside the lens), while if it’s really the object,  "
+    } ]
+  }, {
+    "tStartMs": 267720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "then the only way to put your hand behind it \nis to actually get behind the object (which,  "
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "with the sun at least, is kind of hard).\nWhile you’re waiting for the next eclipse  "
+    } ]
+  }, {
+    "tStartMs": 277010,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "to get hands-on with the sun, it’s a good time to \nget your hands busy with the new math and science  "
+    } ]
+  }, {
+    "tStartMs": 279800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "courses from Brilliant, this video’s sponsor. I \njust checked out their new course on visualizing  "
+    } ]
+  }, {
+    "tStartMs": 283720,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "data (a thing I think a lot about as a science \ncommunicator, enough that I’ve given talks on  "
+    } ]
+  }, {
+    "tStartMs": 287120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "it!), and it’s a nice intro to knowing what kind \nof charts and plots to use to convey different  "
+    } ]
+  }, {
+    "tStartMs": 290520,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "ideas. I also went through their new course on \nhow AI large language models (like chat GPT) work,  "
+    } ]
+  }, {
+    "tStartMs": 295200,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and I learned about how changing the “temperature” \nsetting of an AI can change its creativity! To  "
+    } ]
+  }, {
+    "tStartMs": 299240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "sign up for Brilliant (for free) and get 30 \ndays of full access to all of their courses,  "
+    } ]
+  }, {
+    "tStartMs": 303000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "go to Brilliant.org/MinutePhysics. The first 200 \npeople will also get 20% off an annual Premium  "
+    } ]
+  }, {
+    "tStartMs": 307840,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "subscription for all of Brilliant’s content, \nincluding the new courses they add all the  "
+    } ]
+  }, {
+    "tStartMs": 311674,
+    "dDurationMs": 5326,
+    "segs": [ {
+      "utf8": "time. Again, that’s Brilliant.org/MinutePhysics \n- and thanks to Brilliant for their support."
+    } ]
+  } ]
+}

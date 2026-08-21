@@ -1,0 +1,1543 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 170,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Thanks to Great Courses Plus for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 2570,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "They say that a watched pot never boils."
+    } ]
+  }, {
+    "tStartMs": 4870,
+    "dDurationMs": 3589,
+    "segs": [ {
+      "utf8": "This has now been proven true by quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 13269,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "“A moving arrow is at rest.”"
+    } ]
+  }, {
+    "tStartMs": 15630,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "This is obviously a nonsensical contradiction."
+    } ]
+  }, {
+    "tStartMs": 17990,
+    "dDurationMs": 4619,
+    "segs": [ {
+      "utf8": "But Zeno, Greek philosopher famous for his\nmetaphysical trolling, devised a paradox whose"
+    } ]
+  }, {
+    "tStartMs": 22609,
+    "dDurationMs": 1971,
+    "segs": [ {
+      "utf8": "conclusion is just this."
+    } ]
+  }, {
+    "tStartMs": 24580,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "Here’s how it goes: if you look at an arrow\nflying through the air at any instantaneous"
+    } ]
+  }, {
+    "tStartMs": 29850,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "snapshot in time, the arrow doesn’t travel\nany distance."
+    } ]
+  }, {
+    "tStartMs": 33090,
+    "dDurationMs": 4559,
+    "segs": [ {
+      "utf8": "If time is composed of an infinite number\nof these snapshots, and the arrow doesn’t"
+    } ]
+  }, {
+    "tStartMs": 37649,
+    "dDurationMs": 4881,
+    "segs": [ {
+      "utf8": "move in any of them, then the arrow is at\nrest during the entirety of its flight."
+    } ]
+  }, {
+    "tStartMs": 42530,
+    "dDurationMs": 2649,
+    "segs": [ {
+      "utf8": "The moving arrow is at rest."
+    } ]
+  }, {
+    "tStartMs": 45179,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Nowadays, most physicists and mathematicians don’t really see Zeno’s arrow as paradoxical."
+    } ]
+  }, {
+    "tStartMs": 50699,
+    "dDurationMs": 6901,
+    "segs": [ {
+      "utf8": "We think of an instant as a vanishingly\nsmall interval of time, then during that time"
+    } ]
+  }, {
+    "tStartMs": 57600,
+    "dDurationMs": 5529,
+    "segs": [ {
+      "utf8": "the moving arrow travels a vanishingly small distance - but the “vanishingly small”"
+    } ]
+  }, {
+    "tStartMs": 63129,
+    "dDurationMs": 4831,
+    "segs": [ {
+      "utf8": "part cancels out and the arrow’s instantaneous velocity is very real."
+    } ]
+  }, {
+    "tStartMs": 67960,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "That’s what a mathematician might tell you\n- but quantum mechanics also has a thing or"
+    } ]
+  }, {
+    "tStartMs": 72659,
+    "dDurationMs": 3221,
+    "segs": [ {
+      "utf8": "two to say about extremely tiny distances\nand time intervals."
+    } ]
+  }, {
+    "tStartMs": 75880,
+    "dDurationMs": 6169,
+    "segs": [ {
+      "utf8": "In fact, if we’re talking about a quantum\narrow, there may be a way to freeze its motion"
+    } ]
+  }, {
+    "tStartMs": 82049,
+    "dDurationMs": 5851,
+    "segs": [ {
+      "utf8": "simply by looking at it, through the aptly\nnamed quantum Zeno effect."
+    } ]
+  }, {
+    "tStartMs": 87900,
+    "dDurationMs": 3819,
+    "segs": [ {
+      "utf8": "The quantum Zeno effect predicts that certain quantum events - like the electrons moving"
+    } ]
+  }, {
+    "tStartMs": 91719,
+    "dDurationMs": 5421,
+    "segs": [ {
+      "utf8": "between atomic energy levels, or the decay\nof atomic nuclei, can be frozen through the"
+    } ]
+  }, {
+    "tStartMs": 97140,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "simple act of observation."
+    } ]
+  }, {
+    "tStartMs": 98179,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "I’m going to tell you about some very real\nexperiments that claim to have demonstrated"
+    } ]
+  }, {
+    "tStartMs": 102729,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "this phenomenon."
+    } ]
+  }, {
+    "tStartMs": 103909,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "But first, let’s see if the Quantum Zeno\nEffect can save us from being shot by a quantum"
+    } ]
+  }, {
+    "tStartMs": 109369,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "arrow."
+    } ]
+  }, {
+    "tStartMs": 110369,
+    "dDurationMs": 5771,
+    "segs": [ {
+      "utf8": "First we’ll give our arrow a few weird behaviours befitting a good quantum object: we have quantization"
+    } ]
+  }, {
+    "tStartMs": 116140,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "- certain properties of our arrow can only\ntake on specific, discrete values - like how"
+    } ]
+  }, {
+    "tStartMs": 120969,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "an electron can only occupy certain energy\nstates in an atom."
+    } ]
+  }, {
+    "tStartMs": 124859,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "In this case let’s say our quantum arrow’s\nposition is quantized - it can exist only"
+    } ]
+  }, {
+    "tStartMs": 129759,
+    "dDurationMs": 4021,
+    "segs": [ {
+      "utf8": "at the start and end of its path, but not\nin between."
+    } ]
+  }, {
+    "tStartMs": 133780,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "In order to travel from start to end, it has\nto flick between these states without occupying"
+    } ]
+  }, {
+    "tStartMs": 138239,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "intervening space."
+    } ]
+  }, {
+    "tStartMs": 139569,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "One way to do that is by executing a quantum jump, which we discussed in our recent episode."
+    } ]
+  }, {
+    "tStartMs": 144330,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "OK, the next quantum property we need is superposition."
+    } ]
+  }, {
+    "tStartMs": 148940,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Just like Schrodinger’s cat,"
+    } ]
+  }, {
+    "tStartMs": 149940,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "our quantum arrow can exist in multiple states\nat once."
+    } ]
+  }, {
+    "tStartMs": 152620,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "That means it can be at the start and end\nof its path simultaneously."
+    } ]
+  }, {
+    "tStartMs": 155390,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "It could be 50-50 split between the two, or\n25% in one, 75% in the other, etc."
+    } ]
+  }, {
+    "tStartMs": 161190,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Now, you never actually see it in both states\nat once."
+    } ]
+  }, {
+    "tStartMs": 164720,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "Rather, each state has an amplitude that determines the probability of finding the arrow in that"
+    } ]
+  }, {
+    "tStartMs": 170319,
+    "dDurationMs": 2111,
+    "segs": [ {
+      "utf8": "state were you to try to observe it."
+    } ]
+  }, {
+    "tStartMs": 172430,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "In the language of the Copenhagen interpretation of quantum mechanics, we say that the “wavefunction"
+    } ]
+  }, {
+    "tStartMs": 176840,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "collapses” on observation."
+    } ]
+  }, {
+    "tStartMs": 178290,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Prior to that observation, the arrow exists\nas just the distribution of probability amplitudes"
+    } ]
+  }, {
+    "tStartMs": 183370,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "of its position; its wavefunction is spread\nbetween the start and end of the trajectory."
+    } ]
+  }, {
+    "tStartMs": 189329,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "But after observation it collapses to definitely one or the other - at least, according to"
+    } ]
+  }, {
+    "tStartMs": 194700,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Copenhagen - and we’ll be coming back to\nthis craziness later."
+    } ]
+  }, {
+    "tStartMs": 198730,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "This superposition thing actually gives our\nquantum arrow a way to travel its path smoothly"
+    } ]
+  }, {
+    "tStartMs": 204030,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "and gradually, but still without occupying\nthe space in between."
+    } ]
+  }, {
+    "tStartMs": 208060,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "And maybe for us to save ourselves in the\nend."
+    } ]
+  }, {
+    "tStartMs": 212290,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Here’s the scenario: someone shoots a quantum arrow at you."
+    } ]
+  }, {
+    "tStartMs": 216370,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "It begins in the pure state of being entirely\nat the start of its journey, but then it enters"
+    } ]
+  }, {
+    "tStartMs": 221489,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "a superposition of states - mostly at the\nstart, but also a little bit at the end."
+    } ]
+  }, {
+    "tStartMs": 227019,
+    "dDurationMs": 5261,
+    "segs": [ {
+      "utf8": "If you observe the arrow now, most likely\nit’ll “collapse” to the starting position,"
+    } ]
+  }, {
+    "tStartMs": 232280,
+    "dDurationMs": 5049,
+    "segs": [ {
+      "utf8": "but there’s a small chance it would suddenly appear at the final state - having reached"
+    } ]
+  }, {
+    "tStartMs": 237329,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "you."
+    } ]
+  }, {
+    "tStartMs": 238329,
+    "dDurationMs": 4701,
+    "segs": [ {
+      "utf8": "But if there’s no observation the wavefunction evolves - less and less amplitude at the starting"
+    } ]
+  }, {
+    "tStartMs": 243030,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "state and more and more at the end state - until it finally enters the pure state of definitely"
+    } ]
+  }, {
+    "tStartMs": 248629,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "hitting you."
+    } ]
+  }, {
+    "tStartMs": 250069,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Two ways this can play out: the arrow leaves the quantum bow with a quantum twang."
+    } ]
+  }, {
+    "tStartMs": 255719,
+    "dDurationMs": 4881,
+    "segs": [ {
+      "utf8": "In shock you close your eyes for a second,\nwhich is your mistake - it allows the arrow’s"
+    } ]
+  }, {
+    "tStartMs": 260600,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "wavefunction to evolve smoothly into the state of quantum ouch."
+    } ]
+  }, {
+    "tStartMs": 265900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But what if you keep your eyes open?"
+    } ]
+  }, {
+    "tStartMs": 268100,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Every observation you make of the arrow collapses its wavefunction into one of its possible"
+    } ]
+  }, {
+    "tStartMs": 272730,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "positions - start or end."
+    } ]
+  }, {
+    "tStartMs": 274530,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "But because you start watching it close to\nthe beginning of its journey, there’s very"
+    } ]
+  }, {
+    "tStartMs": 278700,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "little probability of it collapsing to the\nend."
+    } ]
+  }, {
+    "tStartMs": 281650,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Your observation resets the trajectory to\nthe start, at which point the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 286260,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "has to start evolving from scratch - but you\nkeep observing it and keep resetting it back"
+    } ]
+  }, {
+    "tStartMs": 291290,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "again through the magic of the Quantum Zeno Effect."
+    } ]
+  }, {
+    "tStartMs": 294750,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "So the message is clear - if anyone ever tries to shoot you with a quantum arrow, don’t"
+    } ]
+  }, {
+    "tStartMs": 300040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "blink."
+    } ]
+  }, {
+    "tStartMs": 301040,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Of course arrows don’t really behave this\nway, but it seems that this is exactly what"
+    } ]
+  }, {
+    "tStartMs": 305190,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "real quantum systems should do."
+    } ]
+  }, {
+    "tStartMs": 307360,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "If a system can occupy two discrete states\nand transition between those states, that"
+    } ]
+  }, {
+    "tStartMs": 311730,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "transition can be halted if you continuously\nmeasure the state - again, in theory."
+    } ]
+  }, {
+    "tStartMs": 317600,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "This has actually been tested for electron\ntransitions in atoms - and I’ll tell you"
+    } ]
+  }, {
+    "tStartMs": 321700,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "about the experiments in a minute."
+    } ]
+  }, {
+    "tStartMs": 323730,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "But in principle this would also work for\nradioactive decay, even chemical reactions"
+    } ]
+  }, {
+    "tStartMs": 329150,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "The basic idea of the quantum Zeno effect\nwas first proposed by Alan Turing, but it"
+    } ]
+  }, {
+    "tStartMs": 333741,
+    "dDurationMs": 3349,
+    "segs": [ {
+      "utf8": "got a full theoretical description in the\n1970s."
+    } ]
+  }, {
+    "tStartMs": 337090,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "And then in 1990, a group of scientists headed up by David Wineland and Wayne Itano claimed"
+    } ]
+  }, {
+    "tStartMs": 343350,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "to have demonstrated it in an experiment by\nhalting electron energy transitions."
+    } ]
+  }, {
+    "tStartMs": 347960,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "These were some of the same people who first demonstrated quantum jumps, and using a similar"
+    } ]
+  }, {
+    "tStartMs": 352340,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "scheme that we described in that episode."
+    } ]
+  }, {
+    "tStartMs": 355650,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "To recap - we have a collection of laser-cooled atoms in an electromagnetic trap."
+    } ]
+  }, {
+    "tStartMs": 360870,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "A constant radio-frequency field is tuned\nto cause electrons to oscillate smoothly between"
+    } ]
+  }, {
+    "tStartMs": 366270,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "two energy levels - call them 1 and 2."
+    } ]
+  }, {
+    "tStartMs": 369380,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "Just like our quantum arrow, sometimes an\nelectron is in state 1, sometimes state 2,"
+    } ]
+  }, {
+    "tStartMs": 374800,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "but in between it’s a smoothly-varying superposition of both."
+    } ]
+  }, {
+    "tStartMs": 378960,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Next they flash the atoms with a laser whose frequency matches the energy difference between"
+    } ]
+  }, {
+    "tStartMs": 382890,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "state 1 and a new state, state 3."
+    } ]
+  }, {
+    "tStartMs": 385470,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "If the electron is in state 1 when the laser\npulse hits, it absorbs a laser photon and"
+    } ]
+  }, {
+    "tStartMs": 389240,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "jumps to 3, and then immediately drop back\ndown to 1, releasing the energy as a new photon"
+    } ]
+  }, {
+    "tStartMs": 394240,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "that the researchers can detect - so the atoms glow during these laser pulses."
+    } ]
+  }, {
+    "tStartMs": 398600,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "On the other hand, if the atom is in state\n2 during the pulse, it would not absorb a"
+    } ]
+  }, {
+    "tStartMs": 404510,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "photon and the atom would stay dark."
+    } ]
+  }, {
+    "tStartMs": 407210,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "But what if the laser hits while the electron\nis in the middle of a transition - in a superposition"
+    } ]
+  }, {
+    "tStartMs": 411570,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "of states 1 and 2?"
+    } ]
+  }, {
+    "tStartMs": 413810,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "According to the wavefunction collapse picture, it has to make a choice - the superposition"
+    } ]
+  }, {
+    "tStartMs": 417900,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "must vanish and the electron will be seen\nin either state 1 or state 2."
+    } ]
+  }, {
+    "tStartMs": 422910,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "According to the researchers, the laser acts\nlike a measurement - and remember, measurement"
+    } ]
+  }, {
+    "tStartMs": 428560,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "should be able to freeze quantum arrows and presumably also electron transitions via the"
+    } ]
+  }, {
+    "tStartMs": 434030,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Quantum Zeno Effect."
+    } ]
+  }, {
+    "tStartMs": 435030,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "To test this, the researchers start the atoms\nall in state one, and then hit them with a"
+    } ]
+  }, {
+    "tStartMs": 440560,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "series of very rapid laser pulses."
+    } ]
+  }, {
+    "tStartMs": 443020,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "In theory, if these “measurements” are\nfast enough they should stop the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 447600,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "from evolving."
+    } ]
+  }, {
+    "tStartMs": 449130,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "And they report that it did exactly this."
+    } ]
+  }, {
+    "tStartMs": 452240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The faster the chain of pulses, the more likely that atoms remained in state 1 - which they"
+    } ]
+  }, {
+    "tStartMs": 457440,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "could check with one final pulse to see if\nthe atoms still glowed."
+    } ]
+  }, {
+    "tStartMs": 461570,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "Long story short: it appears you can freeze\na quantum state by measuring it continuously."
+    } ]
+  }, {
+    "tStartMs": 467320,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "Further studies have claimed successful observation of the quantum Zeno effect, including various"
+    } ]
+  }, {
+    "tStartMs": 472310,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "studies of atomic energy levels, as well as\nthe freezing of quantum tunneling - the same"
+    } ]
+  }, {
+    "tStartMs": 477340,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "phenomenon that allows particles to “teleport” out of nuclei during nuclear decay."
+    } ]
+  }, {
+    "tStartMs": 482570,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "It’s even been proposed that the quantum\nZeno effect plays a role in the photochemical"
+    } ]
+  }, {
+    "tStartMs": 486900,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "reactions that give birds their ability to\nsee magnetic fields - something we’ve talked"
+    } ]
+  }, {
+    "tStartMs": 491470,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "about before."
+    } ]
+  }, {
+    "tStartMs": 492470,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "So there we have it."
+    } ]
+  }, {
+    "tStartMs": 493530,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Quantum Zeno effect verified?"
+    } ]
+  }, {
+    "tStartMs": 495700,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Well, not quite."
+    } ]
+  }, {
+    "tStartMs": 497660,
+    "dDurationMs": 7030,
+    "segs": [ {
+      "utf8": "A flurry of papers came out after the 1990\nresult disputing the claim on various grounds,"
+    } ]
+  }, {
+    "tStartMs": 504690,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and the arguments have continued."
+    } ]
+  }, {
+    "tStartMs": 507150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "But I want to highlight one particular point."
+    } ]
+  }, {
+    "tStartMs": 509460,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "The physicist Leslie Ballentine argued that\nit’s not the abstract act of measurement"
+    } ]
+  }, {
+    "tStartMs": 515310,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "that causes the quantum Zeno effect, but rather it’s a physical consequence of interacting"
+    } ]
+  }, {
+    "tStartMs": 520419,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "with the system."
+    } ]
+  }, {
+    "tStartMs": 521419,
+    "dDurationMs": 2571,
+    "segs": [ {
+      "utf8": "In this case, hitting the atoms with a laser\npulse."
+    } ]
+  }, {
+    "tStartMs": 523990,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Ballentine’s objection gets to the very\nfoundations of quantum mechanics: what exactly"
+    } ]
+  }, {
+    "tStartMs": 528960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "do we mean by a “measurement” and what\ndo we mean by wavefunction collapse?"
+    } ]
+  }, {
+    "tStartMs": 534160,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "Let’s start with measurement."
+    } ]
+  }, {
+    "tStartMs": 535889,
+    "dDurationMs": 4781,
+    "segs": [ {
+      "utf8": "It’s never possible to perform a measurement without interacting with a system, and that"
+    } ]
+  }, {
+    "tStartMs": 540670,
+    "dDurationMs": 3669,
+    "segs": [ {
+      "utf8": "interaction has consequences beyond just increasing our knowledge."
+    } ]
+  }, {
+    "tStartMs": 544339,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "If the measurement interaction is subtle enough then you might hope to gain that info without"
+    } ]
+  }, {
+    "tStartMs": 549519,
+    "dDurationMs": 2091,
+    "segs": [ {
+      "utf8": "perturbing the system too much."
+    } ]
+  }, {
+    "tStartMs": 551610,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "Ballentine showed that each laser photon perturbed the system in such a way that the electron"
+    } ]
+  }, {
+    "tStartMs": 558450,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "had an increased chance to jiggle back to\nits starting location."
+    } ]
+  }, {
+    "tStartMs": 561850,
+    "dDurationMs": 5191,
+    "segs": [ {
+      "utf8": "And to achieve a true quantum Zeno-like freezing you’d need to hit the atom with many, many"
+    } ]
+  }, {
+    "tStartMs": 567041,
+    "dDurationMs": 3418,
+    "segs": [ {
+      "utf8": "photons - and that was certainly not a “subtle” measurement."
+    } ]
+  }, {
+    "tStartMs": 570459,
+    "dDurationMs": 5511,
+    "segs": [ {
+      "utf8": "Recently, a group of researchers from Washington University claim to have proved that it’s"
+    } ]
+  }, {
+    "tStartMs": 575970,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "perturbation, not measurement, that causes\nthe quantum Zeno effect by demonstrating that"
+    } ]
+  }, {
+    "tStartMs": 580930,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "with the right type of “jiggling” a quantum\ntransition could be forced to speed up rather"
+    } ]
+  }, {
+    "tStartMs": 586640,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "than to freeze - in what’s called the anti-Zeno effect."
+    } ]
+  }, {
+    "tStartMs": 590441,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "Another way to think about measurement is\nin terms of how much information it extracts"
+    } ]
+  }, {
+    "tStartMs": 594200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "from the system."
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "The idea is that measurement causes wavefunction collapse because it scrambles the delicate"
+    } ]
+  }, {
+    "tStartMs": 600079,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "information connecting different parts of\nthe superposition."
+    } ]
+  }, {
+    "tStartMs": 604200,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Superposition only exists if the different\nparts of the wavefunction are connected or"
+    } ]
+  }, {
+    "tStartMs": 608220,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "correlated with each other."
+    } ]
+  }, {
+    "tStartMs": 609880,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "We would say that the wavefunction for different electron states or quantum arrow positions"
+    } ]
+  }, {
+    "tStartMs": 613990,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "are in phase with each other, or “coherent”."
+    } ]
+  }, {
+    "tStartMs": 617640,
+    "dDurationMs": 2439,
+    "segs": [ {
+      "utf8": "But that coherence is easy to mess up."
+    } ]
+  }, {
+    "tStartMs": 620079,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "Any interaction causes information to quickly spread into the environment."
+    } ]
+  }, {
+    "tStartMs": 625009,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Decoherence occurs, and the different parts\nof the wavefunction, representing possible"
+    } ]
+  }, {
+    "tStartMs": 630019,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "realities, can no longer interact."
+    } ]
+  }, {
+    "tStartMs": 632149,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "In fact, as argued by Ballentine, you can\nforce a quantum system back to its starting"
+    } ]
+  }, {
+    "tStartMs": 636769,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "state without true decoherence."
+    } ]
+  }, {
+    "tStartMs": 638670,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "But to get a full quantum Zeno effect - a\nperfect freezing of your electron or quantum"
+    } ]
+  }, {
+    "tStartMs": 642660,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "arrow - you need to perfectly measure it,\nand that means decoherence - or the illusion"
+    } ]
+  }, {
+    "tStartMs": 648050,
+    "dDurationMs": 1589,
+    "segs": [ {
+      "utf8": "of wavefunction collapse."
+    } ]
+  }, {
+    "tStartMs": 649639,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "So on to wavefunction collapse."
+    } ]
+  }, {
+    "tStartMs": 652029,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "In the Copenhagen interpretation, only the\npart of the wavefunction corresponding to"
+    } ]
+  }, {
+    "tStartMs": 655779,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "the measurement outcome survives."
+    } ]
+  }, {
+    "tStartMs": 657759,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "But in the Many Worlds interpretation, the\nentire wavefunction survives and splits and"
+    } ]
+  }, {
+    "tStartMs": 663069,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "you split with it."
+    } ]
+  }, {
+    "tStartMs": 664509,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Obviously we’ve talked about decoherence\nand many worlds before, but let’s talk about"
+    } ]
+  }, {
+    "tStartMs": 669709,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "what the quantum Zeno effect looks like in\nthis picture."
+    } ]
+  }, {
+    "tStartMs": 672399,
+    "dDurationMs": 5601,
+    "segs": [ {
+      "utf8": "The effect should still exist, because Many\nWorlds gives the same predictions as Copenhagen."
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "But in this case, you’re not forcing the\nwavefunction to collapse back to its starting"
+    } ]
+  }, {
+    "tStartMs": 681790,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "position through the power of observation."
+    } ]
+  }, {
+    "tStartMs": 684700,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Your interaction with the wavefunction causes it to decohere - which means two things - you"
+    } ]
+  }, {
+    "tStartMs": 690220,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "perturb the system in a non-subtle way."
+    } ]
+  }, {
+    "tStartMs": 692579,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "For example, by forcing the electron or quantum\narrow out of its superposition."
+    } ]
+  }, {
+    "tStartMs": 697339,
+    "dDurationMs": 5451,
+    "segs": [ {
+      "utf8": "In Many Worlds, that means generating separate realities corresponding to the possible outcomes."
+    } ]
+  }, {
+    "tStartMs": 702790,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "If you do it right you’ll produce more “worlds” in which the system goes back to its starting"
+    } ]
+  }, {
+    "tStartMs": 707440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "state."
+    } ]
+  }, {
+    "tStartMs": 708440,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "And then you enter the world of of the possible outcome states - again, most likely the starting"
+    } ]
+  }, {
+    "tStartMs": 713399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "position."
+    } ]
+  }, {
+    "tStartMs": 714399,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "But if your observation wasn’t perfect,\nthere’ll be some worlds in which the final"
+    } ]
+  }, {
+    "tStartMs": 718779,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "state is chosen rather than the starting state."
+    } ]
+  }, {
+    "tStartMs": 721209,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Like I said, if someone shoots you with a\nquantum arrow, don’t blink."
+    } ]
+  }, {
+    "tStartMs": 725779,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "The quantum Zeno effect appears to be very real - but its interpretation is still hotly debated."
+    } ]
+  }, {
+    "tStartMs": 730769,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And perhaps some of this is just semantic\n- for example, how do we really define measurement"
+    } ]
+  }, {
+    "tStartMs": 734209,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "and interaction?"
+    } ]
+  }, {
+    "tStartMs": 735939,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And what is wavefunction collapse?"
+    } ]
+  }, {
+    "tStartMs": 737889,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "But quantum zeno experiments are difficult,\nand perhaps future brilliant tests will give"
+    } ]
+  }, {
+    "tStartMs": 743279,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "us clues to unravel the deepest mysteries\nat the heart of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 747867,
+    "dDurationMs": 4183,
+    "segs": [ {
+      "utf8": "So there you have why a watched quantum pot never boils. "
+    } ]
+  }, {
+    "tStartMs": 752050,
+    "dDurationMs": 2709,
+    "segs": [ {
+      "utf8": "And it's because you did watch space time."
+    } ]
+  }, {
+    "tStartMs": 754759,
+    "dDurationMs": 2031,
+    "segs": [ {
+      "utf8": "Thanks to Great Courses Plus for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 756790,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "The Great Courses Plus is a subscription on-demand video learning service with lectures and courses"
+    } ]
+  }, {
+    "tStartMs": 762430,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "from professors from top universities and\ninstitutions."
+    } ]
+  }, {
+    "tStartMs": 765860,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "Through your subscription, you’ll get access\nto a library of lectures about anything that"
+    } ]
+  }, {
+    "tStartMs": 769649,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "interests you...science, math, history, literature, or even how to cook, play chess, or become"
+    } ]
+  }, {
+    "tStartMs": 773959,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "a better photographer."
+    } ]
+  }, {
+    "tStartMs": 775209,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "If you’ve enjoyed our recent series on time\nin general relativity and you want to dig"
+    } ]
+  }, {
+    "tStartMs": 779459,
+    "dDurationMs": 5141,
+    "segs": [ {
+      "utf8": "deeper, you should check out Mysteries of\nModern Physics: Time hosted by Dr. Sean Carroll."
+    } ]
+  }, {
+    "tStartMs": 784600,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "In the course you’ll explore everything\nfrom time in quantum mechanics to black hole"
+    } ]
+  }, {
+    "tStartMs": 788329,
+    "dDurationMs": 5111,
+    "segs": [ {
+      "utf8": "entropy and learn what cutting-edge science has to say about the nature of time."
+    } ]
+  }, {
+    "tStartMs": 793440,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "To learn more, check out TheGreatCoursesPlus.com/spacetimepbs\nor click on the link in the description below"
+    } ]
+  }, {
+    "tStartMs": 799540,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "to start your trial today."
+    } ]
+  }, {
+    "tStartMs": 802019,
+    "dDurationMs": 5591,
+    "segs": [ {
+      "utf8": "Last time we gave you an update on the crisis in cosmology - the tension between the expansion"
+    } ]
+  }, {
+    "tStartMs": 807610,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "rate of the universe measured at the beginning of the universe with the cosmic microwave"
+    } ]
+  }, {
+    "tStartMs": 812040,
+    "dDurationMs": 3989,
+    "segs": [ {
+      "utf8": "background, and in the more modern universe measured with supernovae."
+    } ]
+  }, {
+    "tStartMs": 816029,
+    "dDurationMs": 4261,
+    "segs": [ {
+      "utf8": "TLDR: the so-called Hubble tension is getting stronger."
+    } ]
+  }, {
+    "tStartMs": 820290,
+    "dDurationMs": 6329,
+    "segs": [ {
+      "utf8": "Patrick Bryant offers some excellent clarification, pointing out that that the CMB number isn't"
+    } ]
+  }, {
+    "tStartMs": 826619,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "actually a \"measurement\" of the current rate\nof expansion - which of course it can't be"
+    } ]
+  }, {
+    "tStartMs": 831899,
+    "dDurationMs": 3321,
+    "segs": [ {
+      "utf8": "because that light comes from the\nbeginning of the universe."
+    } ]
+  }, {
+    "tStartMs": 835220,
+    "dDurationMs": 7149,
+    "segs": [ {
+      "utf8": "Instead, it provides us with an enormous amount of information about the composition and expansion"
+    } ]
+  }, {
+    "tStartMs": 842369,
+    "dDurationMs": 2421,
+    "segs": [ {
+      "utf8": "of the universe back then."
+    } ]
+  }, {
+    "tStartMs": 844790,
+    "dDurationMs": 4669,
+    "segs": [ {
+      "utf8": "We then use our cosmological models to predict what the expansion rate should be today."
+    } ]
+  }, {
+    "tStartMs": 849459,
+    "dDurationMs": 4971,
+    "segs": [ {
+      "utf8": "For example, based on the amount of matter and dark energy, we can figure out now much"
+    } ]
+  }, {
+    "tStartMs": 854430,
+    "dDurationMs": 3469,
+    "segs": [ {
+      "utf8": "the expansion should have slowed or sped up."
+    } ]
+  }, {
+    "tStartMs": 857899,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "And the value we get is different to what\nwe observe in the modern universe."
+    } ]
+  }, {
+    "tStartMs": 862089,
+    "dDurationMs": 5401,
+    "segs": [ {
+      "utf8": "The tension could therefore be resolved by\nfinding an error in either the CMB or supernova"
+    } ]
+  }, {
+    "tStartMs": 867490,
+    "dDurationMs": 4719,
+    "segs": [ {
+      "utf8": "measurements, but also by finding one of the assumptions in the CMB calculation is wrong"
+    } ]
+  }, {
+    "tStartMs": 872209,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "- which would force us to change our model\nof how the cosmos evolved."
+    } ]
+  }, {
+    "tStartMs": 875850,
+    "dDurationMs": 2609,
+    "segs": [ {
+      "utf8": "That would be the most exciting case, in my\nopinion."
+    } ]
+  }, {
+    "tStartMs": 878459,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "In might, for example, tell us that dark energy has changed over time - which might help us"
+    } ]
+  }, {
+    "tStartMs": 883399,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "figure out what dark energy actually is."
+    } ]
+  }, {
+    "tStartMs": 885269,
+    "dDurationMs": 6551,
+    "segs": [ {
+      "utf8": "Max Graham asks how gravitational waves encode the distance that they've traveled."
+    } ]
+  }, {
+    "tStartMs": 891820,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "Glad you asked! The intensity of light drops off with the square of the distance traveled."
+    } ]
+  }, {
+    "tStartMs": 897350,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "If you know the true brightness, or luminosity, measuring the distance-dimmed brightness lets"
+    } ]
+  }, {
+    "tStartMs": 902930,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "you calculate that distance."
+    } ]
+  }, {
+    "tStartMs": 905089,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "Trouble is you can't get that luminosity directly from the light by itself."
+    } ]
+  }, {
+    "tStartMs": 908690,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "But it's different with gravitational waves\nfrom merging black holes."
+    } ]
+  }, {
+    "tStartMs": 911520,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "The intensity or amplitude of those waves\ndrops off with distance, not distance squared."
+    } ]
+  }, {
+    "tStartMs": 916120,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "But the important thing is that the amplitude of the wave is directly encoded in the frequency"
+    } ]
+  }, {
+    "tStartMs": 920740,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "of the wave."
+    } ]
+  }, {
+    "tStartMs": 921939,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "As black holes spiral towards each other,\nthe frequency of the last phase of the inspiral"
+    } ]
+  }, {
+    "tStartMs": 926459,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "is pretty uniquely determined by the so-called chirp-mass, which is a combination of the"
+    } ]
+  }, {
+    "tStartMs": 930860,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "masses of both black holes."
+    } ]
+  }, {
+    "tStartMs": 932450,
+    "dDurationMs": 5319,
+    "segs": [ {
+      "utf8": "But that chirp mass also determines the power that was radiated in gravitational waves during"
+    } ]
+  }, {
+    "tStartMs": 937769,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the inspiral."
+    } ]
+  }, {
+    "tStartMs": 938769,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "So, measuring the inspiral frequency gets\nyou the power - which you can think of the"
+    } ]
+  }, {
+    "tStartMs": 945829,
+    "dDurationMs": 2541,
+    "segs": [ {
+      "utf8": "amplitude before it fades over distance."
+    } ]
+  }, {
+    "tStartMs": 948370,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "So then the amplitude of the wave as we see it at Earth tells us how much distance the"
+    } ]
+  }, {
+    "tStartMs": 954769,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "wave must have traveled."
+    } ]
+  }, {
+    "tStartMs": 956050,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "I said at the start of the episode that it's\nexciting for scientists to be proven wrong."
+    } ]
+  }, {
+    "tStartMs": 960800,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "Hidden Marty offers this correction: Scientists love when OTHER scientists are proven wrong."
+    } ]
+  }, {
+    "tStartMs": 966319,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "I gotta hand it to you, that's even more exciting, especially if those other scientists were"
+    } ]
+  }, {
+    "tStartMs": 971769,
+    "dDurationMs": 2091,
+    "segs": [ {
+      "utf8": "the ones saying that YOU were wrong."
+    } ]
+  }, {
+    "tStartMs": 973860,
+    "dDurationMs": 4509,
+    "segs": [ {
+      "utf8": "But the point is that scientists do celebrate\nand embrace wrongness for the way it helps"
+    } ]
+  }, {
+    "tStartMs": 978369,
+    "dDurationMs": 2491,
+    "segs": [ {
+      "utf8": "point us towards increasing knowledge."
+    } ]
+  }, {
+    "tStartMs": 980860,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": "And it's really worth pointing out that this\nstuff is aspirational - the tendency to re-question"
+    } ]
+  }, {
+    "tStartMs": 986439,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "everything is hard baked into the scientific\nprocess."
+    } ]
+  }, {
+    "tStartMs": 990029,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Scientists are wrong a lot, but their wrongness is self-correcting."
+    } ]
+  }, {
+    "tStartMs": 994339,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "Tumasch says Ugh, cosmology, I can't be bothered with YOUR crisis right now..."
+    } ]
+  }, {
+    "tStartMs": 998930,
+    "dDurationMs": 3779,
+    "segs": [ {
+      "utf8": "Tumasch, the beauty of science is that it\nbrings us together."
+    } ]
+  }, {
+    "tStartMs": 1002709,
+    "dDurationMs": 1741,
+    "segs": [ {
+      "utf8": "Its crisis is everyone's crisis."
+    } ]
+  }, {
+    "tStartMs": 1004450,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "Whether it's a full blown existential crisis,\nor just a little radiating Hubble tension"
+    } ]
+  }, {
+    "tStartMs": 1009439,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "in your neck from staring at too much supernova data."
+    } ]
+  }, {
+    "tStartMs": 1011569,
+    "dDurationMs": 3185,
+    "segs": [ {
+      "utf8": "Science, the great unifier."
+    } ]
+  } ]
+}

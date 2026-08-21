@@ -1,0 +1,499 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "This video was made possible by Anker – more\non that later."
+    } ]
+  }, {
+    "tStartMs": 3520,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Over the last twenty years, a slew of ever-lighter,\never-more-powerful rechargeable batteries"
+    } ]
+  }, {
+    "tStartMs": 8180,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "has enabled the rise of smartphones, miniature\nhigh definition cameras, drones, commercially"
+    } ]
+  }, {
+    "tStartMs": 12920,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "competitive electric cars, wireless headphones,\nand so on."
+    } ]
+  }, {
+    "tStartMs": 15599,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "It seems like we’re moving towards a future\nwhere the entire planet is battery-powered,"
+    } ]
+  }, {
+    "tStartMs": 19070,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "but there are two big factors that will come\ninto play: 1) how light and energy dense we"
+    } ]
+  }, {
+    "tStartMs": 24250,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "can make batteries, and 2) whether we’ll\neven be able to physically manufacture enough"
+    } ]
+  }, {
+    "tStartMs": 29290,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "batteries."
+    } ]
+  }, {
+    "tStartMs": 30290,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "This video covers part 1 of this question,\nand Brian of Real Engineering is covering"
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "part 2 – we’ll link to his video at the\nend."
+    } ]
+  }, {
+    "tStartMs": 36760,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Ok, so batteries have been getting better\nand better, and nowadays, they can store over"
+    } ]
+  }, {
+    "tStartMs": 40260,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "twice as much energy per kilogram as in the\n1990s , which means they’re half the weight"
+    } ]
+  }, {
+    "tStartMs": 44859,
+    "dDurationMs": 1581,
+    "segs": [ {
+      "utf8": "for the same energy stored."
+    } ]
+  }, {
+    "tStartMs": 46440,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "Hence all the drones and smart phones."
+    } ]
+  }, {
+    "tStartMs": 48679,
+    "dDurationMs": 2181,
+    "segs": [ {
+      "utf8": "So what’s the limit to this trend?"
+    } ]
+  }, {
+    "tStartMs": 50860,
+    "dDurationMs": 4219,
+    "segs": [ {
+      "utf8": "Batteries are, in principle, fairly simple:\ntake two partially dissolved metals, one whose"
+    } ]
+  }, {
+    "tStartMs": 55079,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "atoms want to dissolve more and give up electrons,\nand one whose atoms want to deposit back on"
+    } ]
+  }, {
+    "tStartMs": 59920,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "the solid bit but need spare electrons to\ndo so."
+    } ]
+  }, {
+    "tStartMs": 62850,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "When you put these two together connected\nwith a wire or some other conductor , they’ll"
+    } ]
+  }, {
+    "tStartMs": 66110,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "satisfy each others’ wants, either dissolving\nmore or depositing more, and sending the electrons"
+    } ]
+  }, {
+    "tStartMs": 70740,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "to each other along the wire."
+    } ]
+  }, {
+    "tStartMs": 72460,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Voilá: electricity!"
+    } ]
+  }, {
+    "tStartMs": 74130,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "And if you force electricity backwards through\nthe wire they’ll reverse their dissolving"
+    } ]
+  }, {
+    "tStartMs": 77640,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and depositing, otherwise known as “re-charging”."
+    } ]
+  }, {
+    "tStartMs": 80250,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "The intrinsic limits to how lightweight batteries\ncan be are imposed by two factors: the weight"
+    } ]
+  }, {
+    "tStartMs": 84729,
+    "dDurationMs": 4611,
+    "segs": [ {
+      "utf8": "of the two materials you use, and how much\nenergy they give off per electron traded."
+    } ]
+  }, {
+    "tStartMs": 89340,
+    "dDurationMs": 4419,
+    "segs": [ {
+      "utf8": "So you want the lightest materials that produce\nthe most energy per electron."
+    } ]
+  }, {
+    "tStartMs": 93759,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Metals from the left side of the periodic\ntable, like lithium, sodium and beryllium,"
+    } ]
+  }, {
+    "tStartMs": 97689,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "really want to lose electrons, while atoms\nfrom the right side like fluorine, oxygen,"
+    } ]
+  }, {
+    "tStartMs": 101820,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and sulfur really want electrons."
+    } ]
+  }, {
+    "tStartMs": 104010,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "And atoms close to the top are lighter weight,\nso we can just slap together lithium and fluorine"
+    } ]
+  }, {
+    "tStartMs": 108190,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "and make a perfect battery, right?"
+    } ]
+  }, {
+    "tStartMs": 110479,
+    "dDurationMs": 5301,
+    "segs": [ {
+      "utf8": "Unfortunately, no – lithium and fluorine\nare way too reactive – one of the only well-documented"
+    } ]
+  }, {
+    "tStartMs": 115780,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "practical uses of a lithium fluorine reaction\nI could find was incredibly powerful and dangerous"
+    } ]
+  }, {
+    "tStartMs": 120640,
+    "dDurationMs": 1229,
+    "segs": [ {
+      "utf8": "rocket fuel."
+    } ]
+  }, {
+    "tStartMs": 121869,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "In practice, the electrochemistry of batteries\nis incredibly complicated, and requires combining"
+    } ]
+  }, {
+    "tStartMs": 126140,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "metals that work well together chemically,\nelectrically, and controllably at normal temperatures"
+    } ]
+  }, {
+    "tStartMs": 130300,
+    "dDurationMs": 5269,
+    "segs": [ {
+      "utf8": "and pressures . For example, oxygen is a gas,\nsulfur is a horrible conductor, and sodium"
+    } ]
+  }, {
+    "tStartMs": 135569,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "needs to be molten – challenges to using\nany of them to make batteries."
+    } ]
+  }, {
+    "tStartMs": 139540,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "The current standard for lightweight, rechargeable\nand commercially safe batteries uses lithium"
+    } ]
+  }, {
+    "tStartMs": 144200,
+    "dDurationMs": 5019,
+    "segs": [ {
+      "utf8": "and graphite on one side, with a variety of\noptions for the other side, often cobalt oxide"
+    } ]
+  }, {
+    "tStartMs": 149219,
+    "dDurationMs": 4432,
+    "segs": [ {
+      "utf8": ". Lithium atoms are what either dissolve or\ndeposit in order to transfer electrons, hence"
+    } ]
+  }, {
+    "tStartMs": 153651,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "the name “lithium ion”, while the other\nmaterials are dead weight along for the ride"
+    } ]
+  }, {
+    "tStartMs": 157690,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "– I mean, they play important chemical\nroles, but they greatly increase the weight-per-electron"
+    } ]
+  }, {
+    "tStartMs": 161700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "transferred."
+    } ]
+  }, {
+    "tStartMs": 162700,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "So how much lighter will batteries get?"
+    } ]
+  }, {
+    "tStartMs": 164970,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Theoretical calculations put the minimum possible\nweight for lithium ion batteries at around"
+    } ]
+  }, {
+    "tStartMs": 168769,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "half what they currently are .\nA lighter candidate currently being developed"
+    } ]
+  }, {
+    "tStartMs": 172069,
+    "dDurationMs": 4411,
+    "segs": [ {
+      "utf8": "is the lithium-sulfur battery , which has\na similar amount energy-per-electron as lithium-ion"
+    } ]
+  }, {
+    "tStartMs": 176480,
+    "dDurationMs": 3929,
+    "segs": [ {
+      "utf8": "batteries, but lithium and sulfur are lighter\nthan lithium and cobalt, oxygen and carbon"
+    } ]
+  }, {
+    "tStartMs": 180409,
+    "dDurationMs": 4251,
+    "segs": [ {
+      "utf8": ", so a battery with equivalent capacity can\nin principle weigh around a third as much"
+    } ]
+  }, {
+    "tStartMs": 184660,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": ".\nEven better, lithium-oxygen batteries , while"
+    } ]
+  }, {
+    "tStartMs": 187340,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "still an incredibly far-off technology, are\ntheoretically four times lighter than lithium"
+    } ]
+  }, {
+    "tStartMs": 191450,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "sulfur batteries."
+    } ]
+  }, {
+    "tStartMs": 192660,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "But that’s pretty close to the limit for\nchemical-reaction-based batteries – there"
+    } ]
+  }, {
+    "tStartMs": 196030,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "aren’t really any materials that give off\nmore energy per electron for a given weight"
+    } ]
+  }, {
+    "tStartMs": 199739,
+    "dDurationMs": 4451,
+    "segs": [ {
+      "utf8": "than lithium on the dissolving side and fluorine\non the depositing side , and a lithium-fluorine"
+    } ]
+  }, {
+    "tStartMs": 204190,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "battery – as dangerous and impossible as\nit is – is limited to only be about 10%"
+    } ]
+  }, {
+    "tStartMs": 208420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "lighter than a lithium-oxygen battery .\nSo the theoretical lower limit for batteries,"
+    } ]
+  }, {
+    "tStartMs": 212560,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "period, is about 5% of current weights."
+    } ]
+  }, {
+    "tStartMs": 214980,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "But that’s an incredible long-shot, everything-works-out,\nperfect world scenario."
+    } ]
+  }, {
+    "tStartMs": 218930,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "More likely is that we end up combining pretty-good\nbatteries with supercapacitors, fuel cells,"
+    } ]
+  }, {
+    "tStartMs": 223840,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "hydropower and other mechanical energy storage\ntypes, and airplanes will probably always"
+    } ]
+  }, {
+    "tStartMs": 228060,
+    "dDurationMs": 2539,
+    "segs": [ {
+      "utf8": "have to use some sort of hydrocarbon fuel."
+    } ]
+  }, {
+    "tStartMs": 230599,
+    "dDurationMs": 1941,
+    "segs": [ {
+      "utf8": "Or maybe we’ll finally figure out fusion."
+    } ]
+  }, {
+    "tStartMs": 232540,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "Ok, so here’s an example of the amazing\nbattery technology we have available today"
+    } ]
+  }, {
+    "tStartMs": 236999,
+    "dDurationMs": 3891,
+    "segs": [ {
+      "utf8": ": this battery pack is crazy small and light\n– it’s basically eight of these with"
+    } ]
+  }, {
+    "tStartMs": 240890,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "some clever circuitry – and it has enough\nenergy to charge a smartphone 10 times, which"
+    } ]
+  }, {
+    "tStartMs": 246140,
+    "dDurationMs": 7189,
+    "segs": [ {
+      "utf8": "is equivalent to running this LED lightbulb\nfor 10 hours."
+    } ]
+  }, {
+    "tStartMs": 253329,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "The makers of this ridiculous battery pack,\nAnker, are sponsoring this video and also"
+    } ]
+  }, {
+    "tStartMs": 257030,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "running a ridiculous contest where they’re\ngiving away ten prizes of two thousand dollars"
+    } ]
+  }, {
+    "tStartMs": 261940,
+    "dDurationMs": 3539,
+    "segs": [ {
+      "utf8": "plus one of their battery packs – they’re\nasking for video submissions about a time"
+    } ]
+  }, {
+    "tStartMs": 265479,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": "that running out of power was awkward or unpleasant\n– you know, like how Apollo 13 almost ran"
+    } ]
+  }, {
+    "tStartMs": 270570,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "out of batteries, or how I only made it halfway\nthrough mowing the lawn last week."
+    } ]
+  }, {
+    "tStartMs": 274900,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "You can find out more about Anker’s batteries\nand the contest by going to the links in the"
+    } ]
+  }, {
+    "tStartMs": 278830,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "video description."
+    } ]
+  }, {
+    "tStartMs": 279830,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And one aspect of batteries I haven’t mentioned\nat all yet is power delivery - aka, how quickly"
+    } ]
+  }, {
+    "tStartMs": 283150,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "they can charge your devices – this battery\npack is smart enough to detect what you’ve"
+    } ]
+  }, {
+    "tStartMs": 287229,
+    "dDurationMs": 3021,
+    "segs": [ {
+      "utf8": "got plugged in in order to optimize charging\ntime."
+    } ]
+  }, {
+    "tStartMs": 290250,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "And of course don’t forget to check out\nBrian’s video about whether or not it’s"
+    } ]
+  }, {
+    "tStartMs": 293350,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "even possible to make enough batteries to\npower the planet."
+    } ]
+  } ]
+}

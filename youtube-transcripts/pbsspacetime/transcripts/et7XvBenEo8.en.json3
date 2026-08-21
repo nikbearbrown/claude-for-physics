@@ -1,0 +1,1051 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 89,
+    "dDurationMs": 5511,
+    "segs": [ {
+      "utf8": "The three body problem is famous for being\nimpossible to solve. But actually it's been"
+    } ]
+  }, {
+    "tStartMs": 5600,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "solved many times, and in ingenious ways.\nSome of those solutions are incredibly useful,"
+    } ]
+  }, {
+    "tStartMs": 12940,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and some are incredibly bizarre."
+    } ]
+  }, {
+    "tStartMs": 20620,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "Physics - and arguably all of science changed\nforever in 1687 when Isaac Newton published"
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "his Principia. Within it were equations of\nmotion and gravity that transformed our erratic-seeming"
+    } ]
+  }, {
+    "tStartMs": 33520,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "cosmos into a perfectly tuned machine of clockwork\npredictability. Given the current positions"
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 4559,
+    "segs": [ {
+      "utf8": "and velocities of the bodies of the solar\nsystem, Newton’s equations could be used"
+    } ]
+  }, {
+    "tStartMs": 44559,
+    "dDurationMs": 6910,
+    "segs": [ {
+      "utf8": "in principle be used to calculate their locations\nat any distant time, future or past. I say"
+    } ]
+  }, {
+    "tStartMs": 51469,
+    "dDurationMs": 6051,
+    "segs": [ {
+      "utf8": "“in principle” because the reality is not\nso simple. Despite the beauty of Newton’s"
+    } ]
+  }, {
+    "tStartMs": 57520,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "equations, they lead to a simple solution\nfor planetary motion in only one case - when"
+    } ]
+  }, {
+    "tStartMs": 63860,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "two and only two bodies orbit each other sans\nany other gravitational influence in the universe."
+    } ]
+  }, {
+    "tStartMs": 70380,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "Add just one more body and in most cases all\nmotion becomes fundamentally chaotic - there"
+    } ]
+  }, {
+    "tStartMs": 76299,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "exists no simple solution. This is the three-body\nproblem, and we’ve been trying to solve"
+    } ]
+  }, {
+    "tStartMs": 82569,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "it for 300 years."
+    } ]
+  }, {
+    "tStartMs": 84210,
+    "dDurationMs": 4339,
+    "segs": [ {
+      "utf8": "What does it mean to find a solution to the\nthree-body problem? Newton’s laws of motion"
+    } ]
+  }, {
+    "tStartMs": 88549,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "and his law of universal gravitation give\nus a set of differential equations. In some"
+    } ]
+  }, {
+    "tStartMs": 94029,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "cases these can be solved with Newton’s\nother great invention - calculus - to give"
+    } ]
+  }, {
+    "tStartMs": 98950,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "a simple equation. Plug numbers into that\nequation and its solved. Those numbers are"
+    } ]
+  }, {
+    "tStartMs": 104520,
+    "dDurationMs": 5049,
+    "segs": [ {
+      "utf8": "the starting positions and velocities of your\ngravitating bodies, plus a value for time."
+    } ]
+  }, {
+    "tStartMs": 109569,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "The equations will then give you the state\nof the system at that time, no matter how"
+    } ]
+  }, {
+    "tStartMs": 113610,
+    "dDurationMs": 6219,
+    "segs": [ {
+      "utf8": "far in the past or future. We call such a\nsimple, exactly-solvable equation an analytic"
+    } ]
+  }, {
+    "tStartMs": 119829,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "expression. That just means it can be written\nout with a finite number of mathematical operations"
+    } ]
+  }, {
+    "tStartMs": 124869,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and functions."
+    } ]
+  }, {
+    "tStartMs": 126759,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "In the case of two gravitating bodies, the\nsolutions to Newton’s laws are just the"
+    } ]
+  }, {
+    "tStartMs": 131180,
+    "dDurationMs": 6389,
+    "segs": [ {
+      "utf8": "equations for the path traveled by the bodies\n- be it the parabola of a thrown ball, the"
+    } ]
+  }, {
+    "tStartMs": 137569,
+    "dDurationMs": 5991,
+    "segs": [ {
+      "utf8": "circle or ellipse of a planetary orbit, or\nthe hyperbola of an interstellar comet - in"
+    } ]
+  }, {
+    "tStartMs": 143560,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "general, conic sections - the shapes you get\nwhen you slice up a cone. These solutions"
+    } ]
+  }, {
+    "tStartMs": 149110,
+    "dDurationMs": 4269,
+    "segs": [ {
+      "utf8": "were so simple that Johanne Kepler figured\nout much about the elliptical solution for"
+    } ]
+  }, {
+    "tStartMs": 153379,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "planetary motion 70 years before Newton’s\nlaws were even known."
+    } ]
+  }, {
+    "tStartMs": 159189,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "And after the Principia was published many\nsought simple, analytic solutions for more"
+    } ]
+  }, {
+    "tStartMs": 163390,
+    "dDurationMs": 6391,
+    "segs": [ {
+      "utf8": "complex systems, with systems of three gravitating\nbodies being the natural next step. But the"
+    } ]
+  }, {
+    "tStartMs": 169781,
+    "dDurationMs": 5958,
+    "segs": [ {
+      "utf8": "additional influence of even a single extra\nbody appeared to make an exact solution impossible."
+    } ]
+  }, {
+    "tStartMs": 175739,
+    "dDurationMs": 5741,
+    "segs": [ {
+      "utf8": "The three body problem became the obsession\nfor many great mathematicians - but over the following"
+    } ]
+  }, {
+    "tStartMs": 181480,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "three centuries, solutions have been found\nfor very few specialized cases. Why? Well, in"
+    } ]
+  }, {
+    "tStartMs": 188140,
+    "dDurationMs": 7230,
+    "segs": [ {
+      "utf8": "the late 1800s, mathematicians Ernst Bruns\nand Henri Poincaré convincingly asserted"
+    } ]
+  }, {
+    "tStartMs": 195370,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "that no general analytic solutions exists."
+    } ]
+  }, {
+    "tStartMs": 198900,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "The reality of the three-body problem is that\nthe evolution of almost all starting configurations"
+    } ]
+  }, {
+    "tStartMs": 203329,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "is dominated by chaotic dynamics. Future states\nare highly dependent on small changes in the"
+    } ]
+  }, {
+    "tStartMs": 209739,
+    "dDurationMs": 6551,
+    "segs": [ {
+      "utf8": "initial conditions. Orbits tend towards wild and\nunpredictable patterns, and almost inevitably"
+    } ]
+  }, {
+    "tStartMs": 216290,
+    "dDurationMs": 6169,
+    "segs": [ {
+      "utf8": "one of the bodies is eventually ejected from\nthe system. But despite the apparent hopelessness,"
+    } ]
+  }, {
+    "tStartMs": 222459,
+    "dDurationMs": 4931,
+    "segs": [ {
+      "utf8": "there was much profit in learning to predict\nthe gravitational motion of many bodies. For"
+    } ]
+  }, {
+    "tStartMs": 227390,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "most of the three centuries since Newton,\npredicting the motion of the planets and the"
+    } ]
+  }, {
+    "tStartMs": 231629,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "moon was critical for nautical navigation.\nNow it’s essential to space travel."
+    } ]
+  }, {
+    "tStartMs": 237260,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "How do we do it? Well, just because the\nthree body problem for the most part has no"
+    } ]
+  }, {
+    "tStartMs": 241409,
+    "dDurationMs": 6231,
+    "segs": [ {
+      "utf8": "useful analytic solution, approximate solutions\ncan be found. For example, if the bodies are"
+    } ]
+  }, {
+    "tStartMs": 247640,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "far enough apart then we can approximate a\nmany-body system as a series of two-body systems."
+    } ]
+  }, {
+    "tStartMs": 252890,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "For example, each planet of our solar system\ncan be thought of as a separate two-body system"
+    } ]
+  }, {
+    "tStartMs": 257740,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "with the Sun. That gives you a series of simple\nelliptical orbits, like those predicted by Kepler."
+    } ]
+  }, {
+    "tStartMs": 264520,
+    "dDurationMs": 5019,
+    "segs": [ {
+      "utf8": "But those orbits eventually shift due to the interactions between the planets."
+    } ]
+  }, {
+    "tStartMs": 269539,
+    "dDurationMs": 4831,
+    "segs": [ {
+      "utf8": "Another useful approximation is when one of\nthe three bodies has a very low mass compared"
+    } ]
+  }, {
+    "tStartMs": 274370,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "to the other two. We can ignore the minuscule\ngravitational influence of the smaller body"
+    } ]
+  }, {
+    "tStartMs": 279110,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "and assume that it moves within the\ncompletely solvable two-body orbits of its"
+    } ]
+  }, {
+    "tStartMs": 284681,
+    "dDurationMs": 6099,
+    "segs": [ {
+      "utf8": "larger companions. We call this the reduced\nthree-body problem. It works very well for"
+    } ]
+  }, {
+    "tStartMs": 290780,
+    "dDurationMs": 4419,
+    "segs": [ {
+      "utf8": "tiny things like artificial satellites around\nthe Earth. It can also be used to approximate"
+    } ]
+  }, {
+    "tStartMs": 295199,
+    "dDurationMs": 4141,
+    "segs": [ {
+      "utf8": "the orbits of the moon relative to the Earth\nand Sun, or the Earth relative to the Sun"
+    } ]
+  }, {
+    "tStartMs": 299340,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "and Jupiter."
+    } ]
+  }, {
+    "tStartMs": 301100,
+    "dDurationMs": 6301,
+    "segs": [ {
+      "utf8": "These approximate solutions are useful, but\nultimately fail to predict perfectly. Even"
+    } ]
+  }, {
+    "tStartMs": 307401,
+    "dDurationMs": 6418,
+    "segs": [ {
+      "utf8": "the smallest planetary bodies have some mass,\nand the solar system as a whole has many massive"
+    } ]
+  }, {
+    "tStartMs": 313819,
+    "dDurationMs": 6151,
+    "segs": [ {
+      "utf8": "constituents. The Sun, Jupiter and Saturn\nalone are automatically a three-body system"
+    } ]
+  }, {
+    "tStartMs": 319970,
+    "dDurationMs": 5699,
+    "segs": [ {
+      "utf8": "with no analytic solution, before we even\nadd in the Earth."
+    } ]
+  }, {
+    "tStartMs": 325669,
+    "dDurationMs": 6261,
+    "segs": [ {
+      "utf8": "But the absence of an analytic solution doesn’t\nmean the absence of any solution. To get an"
+    } ]
+  }, {
+    "tStartMs": 331930,
+    "dDurationMs": 5449,
+    "segs": [ {
+      "utf8": "accurate prediction for most three-body systems\nyou need to break the motion of the system"
+    } ]
+  }, {
+    "tStartMs": 337379,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "into many pieces, and solve them one at a\ntime. A sufficiently small section of any"
+    } ]
+  }, {
+    "tStartMs": 343199,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "gravitational trajectory can be approximated\nwith an exact, analytical solution - perhaps"
+    } ]
+  }, {
+    "tStartMs": 348830,
+    "dDurationMs": 6679,
+    "segs": [ {
+      "utf8": "a straight line or a segment of two-body path\naround the center of mass of the entire system,"
+    } ]
+  }, {
+    "tStartMs": 355509,
+    "dDurationMs": 5231,
+    "segs": [ {
+      "utf8": "assuming everything else stays fixed. If you\nbreak up the problem into tiny enough paths"
+    } ]
+  }, {
+    "tStartMs": 360740,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": "segments or time-steps, then the small motions\nof all bodies in the system can be updated"
+    } ]
+  }, {
+    "tStartMs": 367370,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "step by step."
+    } ]
+  }, {
+    "tStartMs": 369889,
+    "dDurationMs": 6581,
+    "segs": [ {
+      "utf8": "This method of solving differential equations\none step at a time is called numerical integration,"
+    } ]
+  }, {
+    "tStartMs": 376470,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "and when applied to the motion of many bodies\nit’s an N-body simulation."
+    } ]
+  }, {
+    "tStartMs": 380449,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "With modern computers, N-body simulations\ncan accurately predict the motion of the planets"
+    } ]
+  }, {
+    "tStartMs": 385610,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "into the distant future or solve for millions\nof objects to simulate the formation and evolution"
+    } ]
+  }, {
+    "tStartMs": 390730,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "of entire galaxies. But these numerical solutions didn’t begin with the invention artificial"
+    } ]
+  }, {
+    "tStartMs": 396330,
+    "dDurationMs": 7429,
+    "segs": [ {
+      "utf8": "computers. Before that, these calculations had to be done by hand - in fact by many hands."
+    } ]
+  }, {
+    "tStartMs": 403759,
+    "dDurationMs": 5611,
+    "segs": [ {
+      "utf8": "The limitations of approximate solutions,\nthe laboriousness of pre-computer numerical"
+    } ]
+  }, {
+    "tStartMs": 409370,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "integration, and also the legendary status\nof the three-body problem inspired generations"
+    } ]
+  }, {
+    "tStartMs": 415210,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "of physicists and mathematicians to continue\nto seek exact, analytic solutions. And some"
+    } ]
+  }, {
+    "tStartMs": 422270,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "succeeded - albeit in very specialized cases.\nThe first was Leonhard Euler, who found a"
+    } ]
+  }, {
+    "tStartMs": 428050,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "family of solutions for three bodies orbiting\naround a mutual center of mass, where all bodies"
+    } ]
+  }, {
+    "tStartMs": 433689,
+    "dDurationMs": 6661,
+    "segs": [ {
+      "utf8": "remain in a straight line - essentially in\npermanent eclipse.  Joseph-Louis Lagrange found"
+    } ]
+  }, {
+    "tStartMs": 440350,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "solutions in which the three bodies form an\nequilateral triangle. In fact, for any two"
+    } ]
+  }, {
+    "tStartMs": 446750,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "bodies orbiting each other, the Euler and\nLagrange’s solutions define 5 additional"
+    } ]
+  }, {
+    "tStartMs": 452669,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "orbits for a third body that can be described\nwith simple equations. These are the only"
+    } ]
+  }, {
+    "tStartMs": 458509,
+    "dDurationMs": 4861,
+    "segs": [ {
+      "utf8": "perfectly analytical solutions to the three\nbody problem that exist. Place a low-mass"
+    } ]
+  }, {
+    "tStartMs": 463370,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "object on any of these 5 orbits and it will\nstay there indefinitely, tracking the Earth’s"
+    } ]
+  }, {
+    "tStartMs": 469150,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "orbit around the Sun. We now call these the\nLagrange points, and they’re useful places"
+    } ]
+  }, {
+    "tStartMs": 474699,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "to park our spacecraft."
+    } ]
+  }, {
+    "tStartMs": 476220,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "There was a bit of a gap after Euler and Lagrange\nbecause to discover new specialized three-body"
+    } ]
+  }, {
+    "tStartMs": 481889,
+    "dDurationMs": 5651,
+    "segs": [ {
+      "utf8": "solutions, we had to search the vast space\nof possible orbits using computers. The key"
+    } ]
+  }, {
+    "tStartMs": 487540,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "was to find three-body systems that had periodic\nmotion - they evolve - sometimes in complex"
+    } ]
+  }, {
+    "tStartMs": 493370,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "ways - back to their starting configuration.\nIn the 70s, Michel Henon and Roger Broucke"
+    } ]
+  }, {
+    "tStartMs": 500210,
+    "dDurationMs": 5239,
+    "segs": [ {
+      "utf8": "found a family of solutions involving two\nmasses bouncing back and forth in the center"
+    } ]
+  }, {
+    "tStartMs": 505449,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of a third body’s orbit. In the 90s Cris\nMoore discovered a stable figure-8 orbit of"
+    } ]
+  }, {
+    "tStartMs": 510409,
+    "dDurationMs": 6231,
+    "segs": [ {
+      "utf8": "three equal masses. The numerical discovery\nof the figure-8 solution was proved mathematically"
+    } ]
+  }, {
+    "tStartMs": 516640,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "by Alain Chenciner and Richard Montgomery,\nand insights gained from that proof led to"
+    } ]
+  }, {
+    "tStartMs": 522000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "a boom in the discovery of new periodic three\nbody orbits."
+    } ]
+  }, {
+    "tStartMs": 526840,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Some of these periodic solutions are incredibly\ncomplex, but Montgomery came up with a fascinating"
+    } ]
+  }, {
+    "tStartMs": 532720,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "way to depict them in the absence of simple\nequations. It’s called the shape-sphere,"
+    } ]
+  }, {
+    "tStartMs": 538340,
+    "dDurationMs": 7210,
+    "segs": [ {
+      "utf8": "and it works like this. Imagine the bodies\nin 3-body system are the vertices of a triangle,"
+    } ]
+  }, {
+    "tStartMs": 545550,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "whose center is the center of mass of the\nsystem. The evolution of the system can be"
+    } ]
+  }, {
+    "tStartMs": 550040,
+    "dDurationMs": 5169,
+    "segs": [ {
+      "utf8": "expressed through the changing shape of that\ntriangle. We throw away certain information"
+    } ]
+  }, {
+    "tStartMs": 555209,
+    "dDurationMs": 5391,
+    "segs": [ {
+      "utf8": "- the size of the triangle and its orientation,\nkeeping only information about the relative"
+    } ]
+  }, {
+    "tStartMs": 560600,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "lengths of the edges, or equivalently the\nangles between the edges."
+    } ]
+  }, {
+    "tStartMs": 565170,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "Now we map that information on the surface\nof a sphere. We only need the 2-D surface"
+    } ]
+  }, {
+    "tStartMs": 570220,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "because if we know 2 internal angles of the\ntriangle we also know the 3rd. So, the equator"
+    } ]
+  }, {
+    "tStartMs": 575880,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "of the sphere represents both angles being\nzero- that’s a fully collapsed triangle"
+    } ]
+  }, {
+    "tStartMs": 581450,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "- the 3-bodies are in a straight line, as\nin Euler’s solutions. The poles are equilateral"
+    } ]
+  }, {
+    "tStartMs": 587370,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "triangles - so, Lagrange’s solutions. All\nother orbits move on this sphere as the triangle"
+    } ]
+  }, {
+    "tStartMs": 593810,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "defined by the orbits evolves. It turns out\nthat the periodic motion on the shape-sphere"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "appears much simpler and easier to analyze\nthan the motion of the bodies themselves."
+    } ]
+  }, {
+    "tStartMs": 605960,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "Now hundreds of stable 3-body orbits are known\n- although it should be noted that besides"
+    } ]
+  }, {
+    "tStartMs": 611590,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "the Euler and Lagrange solutions, none of\nthese are likely to occur in nature."
+    } ]
+  }, {
+    "tStartMs": 617120,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "So their practical use may be limited."
+    } ]
+  }, {
+    "tStartMs": 619270,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Very recently, a new approach to solving the\nthree-body problem has appeared, which transforms"
+    } ]
+  }, {
+    "tStartMs": 624590,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "the chaotic nature of three-body interactions\ninto a useful tool, rather than a liability."
+    } ]
+  }, {
+    "tStartMs": 630780,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Nicholas Stone and Nathan Leigh published\nthis in Nature in December 2019. The thing"
+    } ]
+  }, {
+    "tStartMs": 636580,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "about chaotic motion is that the state of\nthe system seems to get randomly shuffled"
+    } ]
+  }, {
+    "tStartMs": 641680,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "over time. The motion is actually perfectly\ndeterministic - defined between one instant"
+    } ]
+  }, {
+    "tStartMs": 647610,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "and the next - but can be thought of as approximately\nrandom over long intervals. Such a pseudo-random"
+    } ]
+  }, {
+    "tStartMs": 654340,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "system will, over time, explore all possible\nconfigurations consistent with some basic"
+    } ]
+  }, {
+    "tStartMs": 660490,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "properties like the energy and angular momentum\nof the system. The system explores what we"
+    } ]
+  }, {
+    "tStartMs": 664980,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "call a phase space - a space of possible\narrangements of position and velocity. Well,"
+    } ]
+  }, {
+    "tStartMs": 671170,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "for a pseudo-random system, statistical mechanics\nlets us calculate the probability of the system"
+    } ]
+  }, {
+    "tStartMs": 677350,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "being in any part of that phase space at any\none time."
+    } ]
+  }, {
+    "tStartMs": 681960,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "How is this useful? Well, actually, almost\nall three-body systems eject one of the bodies,"
+    } ]
+  }, {
+    "tStartMs": 688160,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "leaving a nice, stable two-body system - a\nbinary pair. Stone and Leigh found that they"
+    } ]
+  }, {
+    "tStartMs": 693541,
+    "dDurationMs": 5689,
+    "segs": [ {
+      "utf8": "could identify the regions of phase space\nwhere these ejections were likely - and by"
+    } ]
+  }, {
+    "tStartMs": 699230,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "doing so they could map the range of likely\norbital properties for the two objects left"
+    } ]
+  }, {
+    "tStartMs": 704610,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "behind after the ejection. This looks to be\nincredibly useful for understanding the evolution"
+    } ]
+  }, {
+    "tStartMs": 711630,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "of dense regions of the universe, where three-body\nsystems of stars or black holes may form and"
+    } ]
+  }, {
+    "tStartMs": 718370,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "then disintegrate very frequently."
+    } ]
+  }, {
+    "tStartMs": 720550,
+    "dDurationMs": 6990,
+    "segs": [ {
+      "utf8": "One last thing about the three-body problem.\nHenri Poincare thought the general case could not"
+    } ]
+  }, {
+    "tStartMs": 727540,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "be solved. In fact he was wrong. In 1906,\nnot so long after Poincare stern proclamation,"
+    } ]
+  }, {
+    "tStartMs": 734910,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "Finnish mathematician Karl Sundman found a\nsolution to the general three-body problem."
+    } ]
+  }, {
+    "tStartMs": 741810,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "It was a converging infinite series that added\ntogether an endless chain of terms to solve"
+    } ]
+  }, {
+    "tStartMs": 747770,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "the orbital calculation. Because the series\nconverged, which successive terms diminished"
+    } ]
+  }, {
+    "tStartMs": 753560,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "to effectively nothing, so in principle the\nequation could be written out on paper. However"
+    } ]
+  }, {
+    "tStartMs": 760140,
+    "dDurationMs": 9590,
+    "segs": [ {
+      "utf8": "the convergence of Sundman’s series is so slow\nthat it would 10^8 million terms to converge"
+    } ]
+  }, {
+    "tStartMs": 769730,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "for a typical calculation in celestial mechanics.\nThat is a lot of sheets of paper."
+    } ]
+  }, {
+    "tStartMs": 775010,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "So there you have it - the three-body problem\nis perfectly solved uselessly, or for seemingly"
+    } ]
+  }, {
+    "tStartMs": 780580,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "useless and bizarre orbits. And it can be\napproximately solved for all useful and practical"
+    } ]
+  }, {
+    "tStartMs": 786640,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "purposes - with enough precision to work just\nfine. Good to know next time you’re in a"
+    } ]
+  }, {
+    "tStartMs": 792800,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "chaotic orbit, trying to astronavigate around\ntwo other gravitating denizens of space time."
+    } ]
+  }, {
+    "tStartMs": 800000,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "A few weeks ago, I invited Matt to come to\nFermilab to make an awesome crossover video"
+    } ]
+  }, {
+    "tStartMs": 805210,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "on the subject of neutrinos. He accepted and\nthe rest, as they say, is history. There were"
+    } ]
+  }, {
+    "tStartMs": 811290,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "some great questions in the comments and Matt\nasked me to answer a few of them."
+    } ]
+  }, {
+    "tStartMs": 815420,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So here it goes."
+    } ]
+  }, {
+    "tStartMs": 817670,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Sanskar Jain asks what it means for a neutrino\nto go with a particular lepton, meaning electron,"
+    } ]
+  }, {
+    "tStartMs": 823990,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "muon or tau. It turns out that over short\ndistances and before neutrinos have a chance"
+    } ]
+  }, {
+    "tStartMs": 829330,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "to oscillate, they remember how they were\nmade. Neutrinos made in nuclear reactors are"
+    } ]
+  }, {
+    "tStartMs": 835230,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "made with electrons and if they interact again,\nthey make only electrons. In particle beams,"
+    } ]
+  }, {
+    "tStartMs": 842080,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "neutrinos are made with muons and can subsequently\nonly make muons. In fact, this observation"
+    } ]
+  }, {
+    "tStartMs": 847260,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "in 1962 led to the discovery that there were\ndifferent kinds of neutrinos and, subsequently,"
+    } ]
+  }, {
+    "tStartMs": 853230,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "to the 1988 Nobel Prize in physics."
+    } ]
+  }, {
+    "tStartMs": 857480,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "Gede Ge asks why we use argon in our neutrino\ndetectors, and that’s a great question."
+    } ]
+  }, {
+    "tStartMs": 864350,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The answer is that we don’t always. Neutrino\ndetectors have been made of water, metal,"
+    } ]
+  }, {
+    "tStartMs": 870110,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "dry cleaning fluid, even baby oil doped with\na chemical called scintillator. We use argon"
+    } ]
+  }, {
+    "tStartMs": 876360,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "because it ionizes very easily. That means\nwhen a neutrino \u003e\u003eDOES\u003c\u003c interact in the argon,"
+    } ]
+  }, {
+    "tStartMs": 882880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "we can see the path of the particles made\nin the interaction. From that, we can reconstruct"
+    } ]
+  }, {
+    "tStartMs": 888160,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the collision and learn more about neutrinos."
+    } ]
+  }, {
+    "tStartMs": 892520,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Nexus void asks how we’ll learn if neutrinos\nprefer to interact with matter or antimatter."
+    } ]
+  }, {
+    "tStartMs": 897860,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "Actually, what we’ll do is a little different.\nWe want to see if matter or antimatter neutrinos"
+    } ]
+  }, {
+    "tStartMs": 904290,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "change their identity at different rates.\nWe do that by performing the experiment with"
+    } ]
+  }, {
+    "tStartMs": 909950,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "a beam of neutrinos and then repeating it\nwith a beam of antineutrinos. If they’re"
+    } ]
+  }, {
+    "tStartMs": 915430,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "different, we may be on to something. And,\nif you want to learn more about that, I recommend"
+    } ]
+  }, {
+    "tStartMs": 920610,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "my video on leptogenesis on the Fermilab\nYouTube channel."
+    } ]
+  }, {
+    "tStartMs": 925980,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "Laura Henley notes that we look like we’re\nbest friends. That’s because we could be."
+    } ]
+  }, {
+    "tStartMs": 931790,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Although we hadn’t met before we started\nfilming, we are kindred spirits, interested"
+    } ]
+  }, {
+    "tStartMs": 936560,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "both in cutting edge science and making videos\nthat share the excitement with everyone."
+    } ]
+  }, {
+    "tStartMs": 941700,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "I'm a huge fan of PBS Space Time and, if you like\nthem, you’ll like ours as well. In fact,"
+    } ]
+  }, {
+    "tStartMs": 947490,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "I’d like to invite you to subscribe to the\nFermilab YouTube channel. Our videos cover"
+    } ]
+  }, {
+    "tStartMs": 953130,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "some of the most interesting topics in all\nof physics. And that’s saying something,"
+    } ]
+  }, {
+    "tStartMs": 957430,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "because physics…and Space Time of course…is\neverything."
+    } ]
+  } ]
+}

@@ -1,0 +1,1447 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 30,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "I want to thank the sponsor of this episode, LastPass,"
+    } ]
+  }, {
+    "tStartMs": 2680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "which remembers your passwords so you don't have to"
+    } ]
+  }, {
+    "tStartMs": 5320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "More about them at the end of the show"
+    } ]
+  }, {
+    "tStartMs": 9680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "What you are looking at is known as the Dzhanibekov effect"
+    } ]
+  }, {
+    "tStartMs": 13280,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "or the tennis racket theorem"
+    } ]
+  }, {
+    "tStartMs": 14920,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "or the intermediate axis theorem"
+    } ]
+  }, {
+    "tStartMs": 17200,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "but we'll get to that"
+    } ]
+  }, {
+    "tStartMs": 18960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Now you may have seen clips like this one before,"
+    } ]
+  }, {
+    "tStartMs": 21880,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "but in this video I will provide the best intuitive explanation of how this effect works"
+    } ]
+  }, {
+    "tStartMs": 27760,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "or, at least, that's my goal."
+    } ]
+  }, {
+    "tStartMs": 29800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Now it involves arguably the best mathematician alive,"
+    } ]
+  }, {
+    "tStartMs": 33400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Soviet era secrets, and the end of the world"
+    } ]
+  }, {
+    "tStartMs": 37120,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "So in 1985, cosmonaut Vladimir Dzhanibekov was tasked with saving the Soviet space station Salyut 7"
+    } ]
+  }, {
+    "tStartMs": 45360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "which had completely shut down"
+    } ]
+  }, {
+    "tStartMs": 47920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "The mission was so dramatic that the Russians made a movie out of it in 2017"
+    } ]
+  }, {
+    "tStartMs": 52560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and after rescuing the space station,"
+    } ]
+  }, {
+    "tStartMs": 54720,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Dzhanibekov unpacked supplies sent up from Earth which were locked down with a wing-nut"
+    } ]
+  }, {
+    "tStartMs": 60640,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "and as the wing-nut spun off the bolt, he noticed something strange:"
+    } ]
+  }, {
+    "tStartMs": 65880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the wing-nut maintained its orientation for a short time,"
+    } ]
+  }, {
+    "tStartMs": 69720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and then it flipped, 180 degrees."
+    } ]
+  }, {
+    "tStartMs": 72720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And as he kept watching, it flipped back a few seconds later"
+    } ]
+  }, {
+    "tStartMs": 75960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and it continued flipping back and forth at regular intervals"
+    } ]
+  }, {
+    "tStartMs": 80240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "this motion wasn't caused by forces or torques applied to the wing-nut: there were none."
+    } ]
+  }, {
+    "tStartMs": 85440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And yet it kept flipping"
+    } ]
+  }, {
+    "tStartMs": 87440,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "It was a strange and counterintuitive phenomenon"
+    } ]
+  }, {
+    "tStartMs": 90760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "One that the Russians kept secret for 10 years"
+    } ]
+  }, {
+    "tStartMs": 95000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Why the secrecy? Well that is what we're gonna find out"
+    } ]
+  }, {
+    "tStartMs": 99240,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "6 years later in 1991 a paper was published in the Journal of Dynamics and Differential Equations"
+    } ]
+  }, {
+    "tStartMs": 105240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "called, \"The Twisting Tennis Racket\""
+    } ]
+  }, {
+    "tStartMs": 107400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and although it was related, it of course makes no mention of the secret Dzhanibekov effect"
+    } ]
+  }, {
+    "tStartMs": 112760,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "the paper says if you hold a tennis racket facing you,"
+    } ]
+  }, {
+    "tStartMs": 115840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and then flip it in the air like this,"
+    } ]
+  }, {
+    "tStartMs": 118320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "it not only rotates the way you intend it to,"
+    } ]
+  }, {
+    "tStartMs": 120760,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "it also makes a half turn around an axis that passes through its handle"
+    } ]
+  }, {
+    "tStartMs": 124800,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "so the side that was originally facing you will be facing away when you catch it"
+    } ]
+  }, {
+    "tStartMs": 129880,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Now to understand this we need to go through some basics"
+    } ]
+  }, {
+    "tStartMs": 132720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Like there are three ways spent a tennis racket about its three principal axes"
+    } ]
+  }, {
+    "tStartMs": 137720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the first is about an axis that runs through the handle, like this"
+    } ]
+  }, {
+    "tStartMs": 142200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the second is the way we were spinning it before with an axis that runs parallel to the head of the racket"
+    } ]
+  }, {
+    "tStartMs": 147560,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "and the third is about an axis that runs perpendicular to the head of the racket"
+    } ]
+  }, {
+    "tStartMs": 153360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "now it's easier to spin the racket around some of these axes than others"
+    } ]
+  }, {
+    "tStartMs": 156800,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "That is, you get more angular velocity for a given amount of torque"
+    } ]
+  }, {
+    "tStartMs": 161680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It's easiest to spend the racket around this first axis"
+    } ]
+  }, {
+    "tStartMs": 165200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "it gets going really fast"
+    } ]
+  }, {
+    "tStartMs": 166800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "and that is because the mass is distributed closer to this axis than to any of the others"
+    } ]
+  }, {
+    "tStartMs": 172880,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "we say its moment of inertia is the smallest when spinning in this orientation"
+    } ]
+  }, {
+    "tStartMs": 178880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "spinning about the third axis has the greatest moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 183360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and so the racket gets spinning pretty slowly"
+    } ]
+  }, {
+    "tStartMs": 186800,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "and that's because this mass is distributed as far from this axis as possible"
+    } ]
+  }, {
+    "tStartMs": 192200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "so this is the maximum moment of inertia axis"
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Now what you'll notice with spins about these axes, is that they're stable"
+    } ]
+  }, {
+    "tStartMs": 199360,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "There's no rotation happening about any of the other axes"
+    } ]
+  }, {
+    "tStartMs": 203560,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "when you try to rotate around the first or third axes"
+    } ]
+  }, {
+    "tStartMs": 206560,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But rotating about the second axis, the intermediate axis,"
+    } ]
+  }, {
+    "tStartMs": 210320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "where the moment of inertia is in between the other two"
+    } ]
+  }, {
+    "tStartMs": 214200,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "Well that is where you get this half twist, and there's virtually nothing you can do to stop it"
+    } ]
+  }, {
+    "tStartMs": 222480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "and it's not just tennis rackets of course"
+    } ]
+  }, {
+    "tStartMs": 224320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I've done this before with cell phones"
+    } ]
+  }, {
+    "tStartMs": 226760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and with a disc with a hole in it"
+    } ]
+  }, {
+    "tStartMs": 229440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I took this disc on an ice rink and in a zero g plane"
+    } ]
+  }, {
+    "tStartMs": 233080,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I have been obsessed with the intermediate axis theorem"
+    } ]
+  }, {
+    "tStartMs": 236880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and what you need to make the intermediate access effect work"
+    } ]
+  }, {
+    "tStartMs": 240120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "is an object that has three different moments of inertia about its three principal axes"
+    } ]
+  }, {
+    "tStartMs": 245560,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and well that's not every object"
+    } ]
+  }, {
+    "tStartMs": 248280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "this object, for example, a spinning ring"
+    } ]
+  }, {
+    "tStartMs": 250760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "has only two different moments of inertia"
+    } ]
+  }, {
+    "tStartMs": 252840,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "For rotation like that,"
+    } ]
+  }, {
+    "tStartMs": 254160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and then rotations like this"
+    } ]
+  }, {
+    "tStartMs": 258040,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "spinning things is not a specialty"
+    } ]
+  }, {
+    "tStartMs": 260560,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Wow, I feel like it should be--"
+    } ]
+  }, {
+    "tStartMs": 262120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "rotations like that. That's the one I was looking for"
+    } ]
+  }, {
+    "tStartMs": 265240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Anything with spherical symmetry has only one moment of inertia,"
+    } ]
+  }, {
+    "tStartMs": 269160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "so these objects will not demonstrate the tennis racket theorem"
+    } ]
+  }, {
+    "tStartMs": 272760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "for that you need what's called an asymmetric top"
+    } ]
+  }, {
+    "tStartMs": 276400,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "something with three different moments of inertia in its three different principal axes"
+    } ]
+  }, {
+    "tStartMs": 281600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "now the tennis racket paper claims,"
+    } ]
+  }, {
+    "tStartMs": 283400,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "the twisting phenomenon seems to be new"
+    } ]
+  }, {
+    "tStartMs": 286360,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "it is not mentioned in general texts on classical mechanics"
+    } ]
+  }, {
+    "tStartMs": 289840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "amongst other sources that they've checked"
+    } ]
+  }, {
+    "tStartMs": 292240,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "but it is actually"
+    } ]
+  }, {
+    "tStartMs": 294440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's even in the textbook they've cited -- Landau and Lifschitz"
+    } ]
+  }, {
+    "tStartMs": 298360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "In fact, an understanding of the intermediate axis theorem"
+    } ]
+  }, {
+    "tStartMs": 301240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "goes back at least another a hundred and fifty years"
+    } ]
+  }, {
+    "tStartMs": 304320,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "to a book called \"The New Theory of Rotating Bodies\" by Louis Poinsot"
+    } ]
+  }, {
+    "tStartMs": 310400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So this is old physics"
+    } ]
+  }, {
+    "tStartMs": 313400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "but in space, the phenomenon looks like something new"
+    } ]
+  }, {
+    "tStartMs": 318040,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "in microgravity, the effects are just so much more striking than a half twist of a tennis racket"
+    } ]
+  }, {
+    "tStartMs": 324280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and it random intervals on social media,"
+    } ]
+  }, {
+    "tStartMs": 326560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "these videos crop up to frenzied questions of,"
+    } ]
+  }, {
+    "tStartMs": 329440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "\"Is this real?\" and \"What's going on?\", \"How does this work?\""
+    } ]
+  }, {
+    "tStartMs": 334480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "well a number of simulations and animations have been made"
+    } ]
+  }, {
+    "tStartMs": 338200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "but if you really want to understand what's happening,"
+    } ]
+  }, {
+    "tStartMs": 341960,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "most people resort to the math."
+    } ]
+  }, {
+    "tStartMs": 344080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Including me in the past."
+    } ]
+  }, {
+    "tStartMs": 346080,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "well the mathematics is kind of complicated"
+    } ]
+  }, {
+    "tStartMs": 347960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and boy is there a lot of math"
+    } ]
+  }, {
+    "tStartMs": 351280,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "there's this story of a student who asked famous physicist Richard Feynman"
+    } ]
+  }, {
+    "tStartMs": 355560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "if there was any intuitive way of understanding the intermediate axis theorem"
+    } ]
+  }, {
+    "tStartMs": 359640,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "and as the story goes he thought about it carefully and deeply for ten or fifteen seconds,"
+    } ]
+  }, {
+    "tStartMs": 364960,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and then said.."
+    } ]
+  }, {
+    "tStartMs": 366640,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "\"No.\""
+    } ]
+  }, {
+    "tStartMs": 368280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Well the goal of this video is to prove Feynman wrong"
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "To provide an intuitive explanation of the intermediate axis theorem"
+    } ]
+  }, {
+    "tStartMs": 377080,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "but the explanation is not mine"
+    } ]
+  }, {
+    "tStartMs": 379400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "it actually comes from one of the greatest living mathematicians,"
+    } ]
+  }, {
+    "tStartMs": 383160,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Terry Tao."
+    } ]
+  }, {
+    "tStartMs": 384200,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "He has won the Fields Medal amongst a host of other awards"
+    } ]
+  }, {
+    "tStartMs": 388240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and for this video I actually asked him for an interview"
+    } ]
+  }, {
+    "tStartMs": 391040,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "but he declined because he's busy solving centuries-old math problems"
+    } ]
+  }, {
+    "tStartMs": 395320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "so, you know, fair enough."
+    } ]
+  }, {
+    "tStartMs": 396720,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "But that's okay, because we have the explanation he posted to Math Overflow in 2011"
+    } ]
+  }, {
+    "tStartMs": 402440,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and it goes like this"
+    } ]
+  }, {
+    "tStartMs": 404520,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Imagine we have a thin rigid massless disc centered in our coordinate system."
+    } ]
+  }, {
+    "tStartMs": 411480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Now add some heavy point masses to opposite edges of the disks on the x-axis"
+    } ]
+  }, {
+    "tStartMs": 416480,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Even though they're point masses,"
+    } ]
+  }, {
+    "tStartMs": 418200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "I'll put some large cubes around them to remind us of their significant mass"
+    } ]
+  }, {
+    "tStartMs": 422600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Then, add some light point masses on opposite edges of the disc on the y-axis"
+    } ]
+  }, {
+    "tStartMs": 427560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "now this disc has three different moments of inertia about its three principal axes"
+    } ]
+  }, {
+    "tStartMs": 432840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Rotating around the x-axis has the smallest moment of inertia,"
+    } ]
+  }, {
+    "tStartMs": 436200,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "since only the light masses are moving"
+    } ]
+  }, {
+    "tStartMs": 438360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Rotating about the z axis has the greatest moment of inertia,"
+    } ]
+  }, {
+    "tStartMs": 441480,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "since all four masses are going around"
+    } ]
+  }, {
+    "tStartMs": 443560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and rotating about the y axis has the intermediate moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 448080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "rotating like this, the only forces in the disc are centripetal forces"
+    } ]
+  }, {
+    "tStartMs": 452400,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "which accelerate the big masses towards the center"
+    } ]
+  }, {
+    "tStartMs": 455520,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "this keeps them turning in uniform circular motion"
+    } ]
+  }, {
+    "tStartMs": 459240,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "now what if we change reference frames"
+    } ]
+  }, {
+    "tStartMs": 461340,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "so now we're rotating with the disc?"
+    } ]
+  }, {
+    "tStartMs": 463400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "well then we see centrifugal forces appear."
+    } ]
+  }, {
+    "tStartMs": 466400,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Normally I don't like talking about centrifugal forces,"
+    } ]
+  }, {
+    "tStartMs": 469080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "because well if you analyze things in inertial frames of reference, you never have to deal with them"
+    } ]
+  }, {
+    "tStartMs": 473640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "But, if you're in a rotating frame of reference,"
+    } ]
+  }, {
+    "tStartMs": 476240,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "then centrifugal forces do appear in the analysis pushing any masses away from the rotation axis"
+    } ]
+  }, {
+    "tStartMs": 483480,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and those forces are proportional to their distance from the axis"
+    } ]
+  }, {
+    "tStartMs": 487120,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "In this case, the y axis"
+    } ]
+  }, {
+    "tStartMs": 489240,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "So here there is no centrifugal force on the small masses because they're located right on the y axis"
+    } ]
+  }, {
+    "tStartMs": 494920,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "so the only centrifugal force acts on the big masses outwards"
+    } ]
+  }, {
+    "tStartMs": 498960,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and that's balanced by the centripetal forces pushing inwards"
+    } ]
+  }, {
+    "tStartMs": 503040,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "now this is all fine and good, but what if the disc is bumped"
+    } ]
+  }, {
+    "tStartMs": 506000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "so that it's no longer rotating perfectly about the y axis?"
+    } ]
+  }, {
+    "tStartMs": 509800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "well now the small masses will experience some centrifugal force"
+    } ]
+  }, {
+    "tStartMs": 513240,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "proportional to their distance from the y axis"
+    } ]
+  }, {
+    "tStartMs": 516240,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "tension forces within the disc ensure that these small masses remain orthogonal to the big masses"
+    } ]
+  }, {
+    "tStartMs": 521400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and since the big masses are still spinning in roughly the same positions as they were before,"
+    } ]
+  }, {
+    "tStartMs": 525880,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "with lots of inertia"
+    } ]
+  }, {
+    "tStartMs": 527520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "they constrain the small masses to lie more or less in the y-z plane"
+    } ]
+  }, {
+    "tStartMs": 532600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the little centrifugal forces on these small masses start accelerating them"
+    } ]
+  }, {
+    "tStartMs": 537240,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "and those forces get bigger as the masses move further and further from the y axis"
+    } ]
+  }, {
+    "tStartMs": 543200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and they keep accelerating until they flip onto opposite sides"
+    } ]
+  }, {
+    "tStartMs": 547920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "now for the first half of this flip the centrifugal forces are accelerating the small masses,"
+    } ]
+  }, {
+    "tStartMs": 553320,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "but in the second half the centrifugal forces slow the masses down,"
+    } ]
+  }, {
+    "tStartMs": 557760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Reversing all the previous acceleration"
+    } ]
+  }, {
+    "tStartMs": 560640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "so that they basically come to rest when they reach the opposite side"
+    } ]
+  }, {
+    "tStartMs": 565400,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the pattern then repeats indefinitely"
+    } ]
+  }, {
+    "tStartMs": 567680,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "with the disc flipping back and forth at regular intervals"
+    } ]
+  }, {
+    "tStartMs": 571640,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "and there you have it-- an intuitive explanation for the intermediate axis theorem"
+    } ]
+  }, {
+    "tStartMs": 576560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "or tennis racket theorem, or Dzhanibekov effect, or whatever you want to call it"
+    } ]
+  }, {
+    "tStartMs": 583360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "so if this is well established classical physics"
+    } ]
+  }, {
+    "tStartMs": 586080,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "why did the Soviets make it classified for ten years?"
+    } ]
+  }, {
+    "tStartMs": 589400,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "well possibly because of what Dzhanibekov did after observing the strange behavior of the wing-nut"
+    } ]
+  }, {
+    "tStartMs": 595080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "he attached a ball of modeling clay or plasticine to it"
+    } ]
+  }, {
+    "tStartMs": 598600,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "and tried spinning that"
+    } ]
+  }, {
+    "tStartMs": 600120,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And sure enough, he found that just like the wing-nut, this ball flipped over periodically"
+    } ]
+  }, {
+    "tStartMs": 605080,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "and the implication was that maybe since the Earth is a spinning ball in space,"
+    } ]
+  }, {
+    "tStartMs": 610720,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "it too could flip over"
+    } ]
+  }, {
+    "tStartMs": 613560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I mean we know the Earth's magnetic poles have reversed in the past so could this be related?"
+    } ]
+  }, {
+    "tStartMs": 618600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "In 2012 with the Mayan prophecies of the end of the world,"
+    } ]
+  }, {
+    "tStartMs": 622440,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "speculation about the Dzhanibekov effect"
+    } ]
+  }, {
+    "tStartMs": 624480,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "proved irresistible for some conspiracy theorists and people in the media"
+    } ]
+  }, {
+    "tStartMs": 629080,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "Plus on May 13th 2012, the official site of the Russian federal space agency, RusCosmos,"
+    } ]
+  }, {
+    "tStartMs": 635360,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "posted an article in honor of Dzhanibekov's 70th birthday"
+    } ]
+  }, {
+    "tStartMs": 639280,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "and in it they said,"
+    } ]
+  }, {
+    "tStartMs": 640840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the spinning nut of Dzhanibekov caused astonishment and simultaneous danger"
+    } ]
+  }, {
+    "tStartMs": 645400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to a certain part of the scientific world"
+    } ]
+  }, {
+    "tStartMs": 648040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a hypothesis was proposed"
+    } ]
+  }, {
+    "tStartMs": 650040,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "that our planet, in the course of its orbital motion, can execute the same overturn"
+    } ]
+  }, {
+    "tStartMs": 656600,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So, how do we assess the validity of this hypothesis?"
+    } ]
+  }, {
+    "tStartMs": 660280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "I mean, is the earth actually going to flip over?"
+    } ]
+  }, {
+    "tStartMs": 664640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "well we can get some clues from simple experiments"
+    } ]
+  }, {
+    "tStartMs": 667520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "performed by astronaut Don Pettit aboard the space station"
+    } ]
+  }, {
+    "tStartMs": 671200,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "he shows that a book will spin stably about its first or third axis just as we'd expect"
+    } ]
+  }, {
+    "tStartMs": 678040,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and a solid cylinder will also spin stably around its first or third axis"
+    } ]
+  }, {
+    "tStartMs": 683960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "but a liquid filled cylinder spinning about the first axis-- that's the one with the smallest moment of inertia,"
+    } ]
+  }, {
+    "tStartMs": 689640,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "it's unstable"
+    } ]
+  }, {
+    "tStartMs": 691040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and it'll end up rotating about its axis with the largest moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 696360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Why is this?"
+    } ]
+  }, {
+    "tStartMs": 698440,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "For an isolated object spinning in space,"
+    } ]
+  }, {
+    "tStartMs": 700680,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "you'd probably think both its angular momentum and its kinetic energy would be constant"
+    } ]
+  }, {
+    "tStartMs": 705880,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "but, that's only half true."
+    } ]
+  }, {
+    "tStartMs": 708080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "angular momentum stays constant,"
+    } ]
+  }, {
+    "tStartMs": 710000,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "but kinetic energy can be converted into other forms of energy, like heat"
+    } ]
+  }, {
+    "tStartMs": 714520,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So, in this case, as the liquid's sloshing around inside, the energy can be dissipated"
+    } ]
+  }, {
+    "tStartMs": 719920,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and spinning about the axis with the smallest moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 723320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "also means spinning with the greatest kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 726640,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "and as this kinetic energy is dissipated,"
+    } ]
+  }, {
+    "tStartMs": 728520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the cylinder has no other option but to spin about the axis that achieves the minimum kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 734040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and that is the one with the largest moment of inertia,"
+    } ]
+  }, {
+    "tStartMs": 737400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "so when it's rotating end-over-end"
+    } ]
+  }, {
+    "tStartMs": 739800,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "for a given amount of angular momentum then, rotating with the maximum moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 744560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "is the lowest energy state"
+    } ]
+  }, {
+    "tStartMs": 746840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "so that is the state that all bodies will tend towards"
+    } ]
+  }, {
+    "tStartMs": 749760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "if they have any way of dissipating their energy"
+    } ]
+  }, {
+    "tStartMs": 752440,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "the u.s. learned this the hard way with their first satellite-- the Explorer one"
+    } ]
+  }, {
+    "tStartMs": 757600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "it was designed to spin about its long axis and be spin stabilized"
+    } ]
+  }, {
+    "tStartMs": 762800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but within hours of achieving orbit it was rotating end over end"
+    } ]
+  }, {
+    "tStartMs": 767800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But, what happened? I mean it seems like a rigid cylinder"
+    } ]
+  }, {
+    "tStartMs": 771400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Well the problem was these flexible antennas"
+    } ]
+  }, {
+    "tStartMs": 774600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "they allowed the satellite to dissipate energy as they swung back and forth"
+    } ]
+  }, {
+    "tStartMs": 778760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "gradually reducing the kinetic energy of the satellite"
+    } ]
+  }, {
+    "tStartMs": 781520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "until it had to rotate by the axis that maximized its moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 786600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Now the earth is just like this."
+    } ]
+  }, {
+    "tStartMs": 788760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "It has ways of dissipating energy internally,"
+    } ]
+  }, {
+    "tStartMs": 791560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "So over time it has come to spin about the axis with maximum moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 797160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and most astronomical objects do the same."
+    } ]
+  }, {
+    "tStartMs": 800200,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "Mars for example has a mass concentration or major positive gravity anomaly called the Tharsis Rise"
+    } ]
+  }, {
+    "tStartMs": 807840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and it is located, not coincidentally, at the equator"
+    } ]
+  }, {
+    "tStartMs": 811600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "because that puts it as far as possible from the axis of rotation"
+    } ]
+  }, {
+    "tStartMs": 814880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and ensures that Mars is rotating with the maximum moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 818960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Most asteroids, far from rotating about random axes,"
+    } ]
+  }, {
+    "tStartMs": 822440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "They spin, almost all of them around the axis with the maximum moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 826920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So the Earth won't flip."
+    } ]
+  }, {
+    "tStartMs": 828920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's spinning about the axis with the maximum moment of inertia"
+    } ]
+  }, {
+    "tStartMs": 832120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And that is stable."
+    } ]
+  }, {
+    "tStartMs": 838720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Hey this part of the video is sponsored by LastPass"
+    } ]
+  }, {
+    "tStartMs": 841320,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "If you were relieved to learn that the Earth is not going to flip over,"
+    } ]
+  }, {
+    "tStartMs": 844240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "think about the relief you'd feel if you no longer had to remember all of your passwords"
+    } ]
+  }, {
+    "tStartMs": 848040,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "LastPass can do that for you"
+    } ]
+  }, {
+    "tStartMs": 850080,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "LastPass has unlimited password storage and free cross-device sync"
+    } ]
+  }, {
+    "tStartMs": 853800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "this means it autofills usernames and passwords on websites,"
+    } ]
+  }, {
+    "tStartMs": 856680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "or on iOS or Android apps and mobile sites"
+    } ]
+  }, {
+    "tStartMs": 859640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "you don't have to remember another password for the rest of your life"
+    } ]
+  }, {
+    "tStartMs": 862880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "That means no more getting locked out of accounts no more password resets,"
+    } ]
+  }, {
+    "tStartMs": 866440,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "so you can use your brain for what it's really meant for"
+    } ]
+  }, {
+    "tStartMs": 869360,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "yeah understanding the intermediate axis theorem, not storing random strings of characters"
+    } ]
+  }, {
+    "tStartMs": 874360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "It also means you can stop using this same password for everything"
+    } ]
+  }, {
+    "tStartMs": 877800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "that's really important because it makes your accounts much more secure"
+    } ]
+  }, {
+    "tStartMs": 880960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "so put your passwords on autopilot with LastPass"
+    } ]
+  }, {
+    "tStartMs": 883440,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "click the link below to find out more"
+    } ]
+  }, {
+    "tStartMs": 885320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and thanks to LastPass for supporting Veritasium"
+    } ]
+  } ]
+}

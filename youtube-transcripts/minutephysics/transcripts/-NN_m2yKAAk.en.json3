@@ -1,0 +1,673 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 12610,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "In our universe, when you change from a non-moving\nperspective to a moving one, or vice versa,"
+    } ]
+  }, {
+    "tStartMs": 17360,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "that change of perspective is represented\nby a what's called Lorentz transformation,"
+    } ]
+  }, {
+    "tStartMs": 20770,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "which is a kind of squeeze-stretch rotation\nof spacetime that I've mechanically implemented"
+    } ]
+  }, {
+    "tStartMs": 24680,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "with this spacetime globe."
+    } ]
+  }, {
+    "tStartMs": 25820,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "Two of the most famous implications of Lorentz\ntransformations are phenomena called “length"
+    } ]
+  }, {
+    "tStartMs": 30490,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "contraction” and “time dilation” – and\nwhile their names make them sound like they're"
+    } ]
+  }, {
+    "tStartMs": 34340,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "two sides of the same coin, they're definitely\nnot."
+    } ]
+  }, {
+    "tStartMs": 37450,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "We'll start with time dilation, which is easier\nto see – suppose I have a clock with me"
+    } ]
+  }, {
+    "tStartMs": 41210,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "that ticks every two seconds."
+    } ]
+  }, {
+    "tStartMs": 43030,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "But if you're moving at a third the speed\nof light to my left, then from your perspective,"
+    } ]
+  }, {
+    "tStartMs": 46230,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the time coordinates at which my clock now\nticks are slightly farther apart – according"
+    } ]
+  }, {
+    "tStartMs": 50590,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "to you it takes about 2.12 seconds between\neach tick, instead of 2 seconds."
+    } ]
+  }, {
+    "tStartMs": 55120,
+    "dDurationMs": 4331,
+    "segs": [ {
+      "utf8": "Time literally is running slower for me relative\nto you, because Lorentz transformations, which"
+    } ]
+  }, {
+    "tStartMs": 59451,
+    "dDurationMs": 4219,
+    "segs": [ {
+      "utf8": "represent how relative motion works in our\nuniverse, kind of stretch things out a bit."
+    } ]
+  }, {
+    "tStartMs": 63670,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "Likewise, if you have a clock with you that\nticks every..."
+    } ]
+  }, {
+    "tStartMs": 66369,
+    "dDurationMs": 4211,
+    "segs": [ {
+      "utf8": "2.83 seconds, then from my perspective it\nwill tick every 3 seconds."
+    } ]
+  }, {
+    "tStartMs": 70580,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "So both of us perceive each other's perception\nof time as running slow by the same factor"
+    } ]
+  }, {
+    "tStartMs": 75320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "– that is, relative motion causes our perception\nof the duration of time between events to"
+    } ]
+  }, {
+    "tStartMs": 79720,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "become longer, or dilated - “time dilation”."
+    } ]
+  }, {
+    "tStartMs": 83130,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "If you're wondering how it can make sense\nthat we both perceive each other's time as"
+    } ]
+  }, {
+    "tStartMs": 86250,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "running slow, well, I have another whole video\non that, but in short, it's because our respective"
+    } ]
+  }, {
+    "tStartMs": 91030,
+    "dDurationMs": 5089,
+    "segs": [ {
+      "utf8": "worldlines (which correspond to our own time\naxes) are rotated relative to each other,"
+    } ]
+  }, {
+    "tStartMs": 96119,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "and so we each only attribute a projection\nof the other person's worldlines' length as"
+    } ]
+  }, {
+    "tStartMs": 100320,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "representing movement through time, and the\nrest as movement through space."
+    } ]
+  }, {
+    "tStartMs": 104430,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "The factor by which intervals are dilated\ndepends on how fast we're moving relative"
+    } ]
+  }, {
+    "tStartMs": 107640,
+    "dDurationMs": 3339,
+    "segs": [ {
+      "utf8": "to each other, v, and the expression looks\nlike this – but it's really just saying"
+    } ]
+  }, {
+    "tStartMs": 110979,
+    "dDurationMs": 3911,
+    "segs": [ {
+      "utf8": "“how much higher up in time is this point\nafter a Lorentz transformation?”"
+    } ]
+  }, {
+    "tStartMs": 114890,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "And if you plot the expression, you'll see\nthat for slow speeds, relative time intervals"
+    } ]
+  }, {
+    "tStartMs": 118920,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "are roughly equivalent, but the closer you\nare to light speed, the more relative perception"
+    } ]
+  }, {
+    "tStartMs": 123200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "of times becomes distorted."
+    } ]
+  }, {
+    "tStartMs": 125400,
+    "dDurationMs": 2859,
+    "segs": [ {
+      "utf8": "Length contraction, on the other hand, is\na tad more complicated."
+    } ]
+  }, {
+    "tStartMs": 128259,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "First, we need something with length."
+    } ]
+  }, {
+    "tStartMs": 130540,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Let's suppose we have a cat whose tail is\nat position 0 for all time, and whose head"
+    } ]
+  }, {
+    "tStartMs": 134010,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "is 600 million meters to the right for all\ntime (remember, each horizontal tick mark"
+    } ]
+  }, {
+    "tStartMs": 137780,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "here represents 299,792,458m)."
+    } ]
+  }, {
+    "tStartMs": 142400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So from my perspective, the cat is 600 million\nmeters long."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "However, from your perspective moving at a\nthird the speed of light to the left, the"
+    } ]
+  }, {
+    "tStartMs": 149720,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "ends of the cat get stretched out from each\nother by the Lorentz transformation – which"
+    } ]
+  }, {
+    "tStartMs": 153260,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "at first might seem like dilation of distance,\nnot contraction."
+    } ]
+  }, {
+    "tStartMs": 157500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "And this is indeed true – from your perspective,\nthe distance between the cat's tail at my"
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "time t=6 and the cat's head at my time t=6\nis indeed longer: it's now 636 million meters"
+    } ]
+  }, {
+    "tStartMs": 169370,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "(dilated by exact same factor as in time dilation)."
+    } ]
+  }, {
+    "tStartMs": 172990,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "However, this dilated distance doesn't represent\nthe length of the cat from your blue perspective,"
+    } ]
+  }, {
+    "tStartMs": 178099,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "because these measurements of the positions\nof its head and tail no longer happen at the"
+    } ]
+  }, {
+    "tStartMs": 181430,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "same time, and the cat moves in between when\nthe measurements are taken - that's what having"
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "a slanted world line means - changing position\nas time passes, aka movement."
+    } ]
+  }, {
+    "tStartMs": 190319,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "And if something moves while you're measuring\nit, that measurement doesn't represent its"
+    } ]
+  }, {
+    "tStartMs": 194040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "length."
+    } ]
+  }, {
+    "tStartMs": 195040,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "So to correctly measure the length of the\ncat from your perspective, we need to measure"
+    } ]
+  }, {
+    "tStartMs": 198050,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "the positions of its front and back at the\nsame time according to your perspective."
+    } ]
+  }, {
+    "tStartMs": 202550,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Which is this distance here, which is clearly\nshorter - 566 million meters."
+    } ]
+  }, {
+    "tStartMs": 207450,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "In fact, it turns out it's exactly the inverse\nfactor from the other distance - instead of"
+    } ]
+  }, {
+    "tStartMs": 211130,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "multiplying 600 million by 1.06, it's divided\nby 1.06."
+    } ]
+  }, {
+    "tStartMs": 215310,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "The same thing happens the other way, too:\nif you have a cat that's stationary in your"
+    } ]
+  }, {
+    "tStartMs": 218720,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "perspective, then when I view it from my perspective,\nI'll measure its length (by measuring the"
+    } ]
+  }, {
+    "tStartMs": 222770,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "head and tail at the same time, according\nto me), as being shorter."
+    } ]
+  }, {
+    "tStartMs": 226330,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "This is the phenomenon we call “length contraction”\n– the measured lengths of moving things"
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "are shorter than when those things are viewed\nas not moving."
+    } ]
+  }, {
+    "tStartMs": 234510,
+    "dDurationMs": 4089,
+    "segs": [ {
+      "utf8": "The precise factor by which lengths are contracted\nagain depends on how fast we're moving relative"
+    } ]
+  }, {
+    "tStartMs": 238599,
+    "dDurationMs": 2051,
+    "segs": [ {
+      "utf8": "to each other, v, and looks like this."
+    } ]
+  }, {
+    "tStartMs": 240650,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And similar to the case of time dilation,\nthe closer you are to light speed, the more"
+    } ]
+  }, {
+    "tStartMs": 244450,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "relative perception of lengths becomes distorted."
+    } ]
+  }, {
+    "tStartMs": 247489,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "So let's recap: time dilation of moving objects\nis simply the direct effect of Lorentz transformations"
+    } ]
+  }, {
+    "tStartMs": 253019,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "stretching consecutive time coordinates apart\nin time, while length contraction of moving"
+    } ]
+  }, {
+    "tStartMs": 257099,
+    "dDurationMs": 3991,
+    "segs": [ {
+      "utf8": "objects is a combination of the stretching\neffect of lorentz transformations on spatial"
+    } ]
+  }, {
+    "tStartMs": 261090,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "distances (which is kind of like a “distance\ndilation”) PLUS then changing the times"
+    } ]
+  }, {
+    "tStartMs": 265610,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "at which we're comparing things because they\nwere no longer simultaneous."
+    } ]
+  }, {
+    "tStartMs": 269050,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "This is what I meant when I said earlier that\ntime dilation and length contraction aren't"
+    } ]
+  }, {
+    "tStartMs": 272580,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "two sides of the same coin: time dilation\ncompares the times of the same events in the"
+    } ]
+  }, {
+    "tStartMs": 276800,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "new perspective, and it pairs with distance\ndilation, which compares the positions of"
+    } ]
+  }, {
+    "tStartMs": 281199,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "the same events in the new perspective."
+    } ]
+  }, {
+    "tStartMs": 283369,
+    "dDurationMs": 4091,
+    "segs": [ {
+      "utf8": "Length contraction, in contrast, compares\npositions at the same time according to the"
+    } ]
+  }, {
+    "tStartMs": 287460,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "new perspective."
+    } ]
+  }, {
+    "tStartMs": 288460,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "So you might be wondering, is there a time\nversion of length contraction, then?"
+    } ]
+  }, {
+    "tStartMs": 292499,
+    "dDurationMs": 1871,
+    "segs": [ {
+      "utf8": "Is “Time contraction” a thing?"
+    } ]
+  }, {
+    "tStartMs": 294370,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Yes, yes it is (though people almost never\ntalk about it and it doesn't have an official"
+    } ]
+  }, {
+    "tStartMs": 298050,
+    "dDurationMs": 3089,
+    "segs": [ {
+      "utf8": "name, but I think it's nice to complete the\nfull picture."
+    } ]
+  }, {
+    "tStartMs": 301139,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "the one missing piece is to compare times\nat the same position): Let's imagine I've"
+    } ]
+  }, {
+    "tStartMs": 307129,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "put a lightbulb at every point in space (even\nin between where I can attach them to the"
+    } ]
+  }, {
+    "tStartMs": 311319,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "time globe) and I turn them all on simultaneously\nat one time, and then turn them off simultaneously"
+    } ]
+  }, {
+    "tStartMs": 316080,
+    "dDurationMs": 1539,
+    "segs": [ {
+      "utf8": "a little bit later."
+    } ]
+  }, {
+    "tStartMs": 317619,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "From your moving perspective, any particular\none of my lights will have its on-off time"
+    } ]
+  }, {
+    "tStartMs": 321819,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "interval dilated, of course, but at any particular\nlocation in space (like, where you are), the"
+    } ]
+  }, {
+    "tStartMs": 327219,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "duration of time between when the lights go\non and when the lights go off will actually"
+    } ]
+  }, {
+    "tStartMs": 331389,
+    "dDurationMs": 1131,
+    "segs": [ {
+      "utf8": "be shorter."
+    } ]
+  }, {
+    "tStartMs": 332520,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Maybe it should be called “duration contraction”!"
+    } ]
+  }, {
+    "tStartMs": 334330,
+    "dDurationMs": 4269,
+    "segs": [ {
+      "utf8": "So, to summarize, when changing to a moving\nperspective in our universe, there's both"
+    } ]
+  }, {
+    "tStartMs": 338599,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "time dilation and length contraction, but\nthere's also distance dilation and duraction"
+    } ]
+  }, {
+    "tStartMs": 344689,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "contraction."
+    } ]
+  }, {
+    "tStartMs": 345719,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "These four ideas said aloud as words certainly\nsound super contradictory and impossible (I"
+    } ]
+  }, {
+    "tStartMs": 351419,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "mean, how can the time be both shorter and\nlonger?!), but if you have a spacetime globe"
+    } ]
+  }, {
+    "tStartMs": 356069,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "it's easy to understand there are no paradoxes\nor contradictions – we simply need to be"
+    } ]
+  }, {
+    "tStartMs": 360439,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "more careful with our ideas of distance and\ntime intervals when applied to extended objects"
+    } ]
+  }, {
+    "tStartMs": 365059,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "in spacetime: do we mean the time between\ntwo exact events (time dilation), or the time"
+    } ]
+  }, {
+    "tStartMs": 370219,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "between the versions of those events that\nhappen at the same place (duration contraction)?"
+    } ]
+  }, {
+    "tStartMs": 373580,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "Do we mean the distance between two events\nregardless of when they happen (distance dilation),"
+    } ]
+  }, {
+    "tStartMs": 376949,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "or the distance between the versions of those\nevents that happen at the same time (length"
+    } ]
+  }, {
+    "tStartMs": 381089,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "contraction)?"
+    } ]
+  }, {
+    "tStartMs": 382089,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "This is subtle stuff, and words and equations\nby themselves make these concepts really really"
+    } ]
+  }, {
+    "tStartMs": 387039,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "hard to keep straight; but a spacetime diagram\ndoesn't lie."
+    } ]
+  }, {
+    "tStartMs": 394559,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "To get more experience with time dilation\nand length contraction yourself, I highly"
+    } ]
+  }, {
+    "tStartMs": 398349,
+    "dDurationMs": 3231,
+    "segs": [ {
+      "utf8": "recommend Brilliant.org's course on special\nrelativity."
+    } ]
+  }, {
+    "tStartMs": 401580,
+    "dDurationMs": 3589,
+    "segs": [ {
+      "utf8": "There, you can do problems that build off\nwhat you learned in this video and explore"
+    } ]
+  }, {
+    "tStartMs": 405169,
+    "dDurationMs": 3631,
+    "segs": [ {
+      "utf8": "real world scenarios where it's important\nto take time dilation and length contraction"
+    } ]
+  }, {
+    "tStartMs": 408800,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "into account, like the famous Michelson Morley\nexperiment."
+    } ]
+  }, {
+    "tStartMs": 412319,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "The special relativity questions on Brilliant.org\nare specifically designed to help you go deeper"
+    } ]
+  }, {
+    "tStartMs": 416389,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "on the topics I'm including in this series,\nand you can get 20% off of a Brilliant subscription"
+    } ]
+  }, {
+    "tStartMs": 420629,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "by going to Brilliant.org/minutephysics."
+    } ]
+  }, {
+    "tStartMs": 422930,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Again, that's Brilliant.org/minutephysics\nwhich gets you 20% off premium access to all"
+    } ]
+  }, {
+    "tStartMs": 427770,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "of Brilliant's courses and puzzles, and lets\nBrilliant know you came from here."
+    } ]
+  } ]
+}

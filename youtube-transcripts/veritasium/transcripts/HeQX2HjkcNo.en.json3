@@ -1,0 +1,1915 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 934,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "There is a hole at the bottom of math"
+    } ]
+  }, {
+    "tStartMs": 4095,
+    "dDurationMs": 5025,
+    "segs": [ {
+      "utf8": "a hole that \nmeans we will never know everything with certainty"
+    } ]
+  }, {
+    "tStartMs": 9120,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "There will always be true statements that \ncannot be proven. "
+    } ]
+  }, {
+    "tStartMs": 14225,
+    "dDurationMs": 3228,
+    "segs": [ {
+      "utf8": "Now no one knows what those statements are exactly"
+    } ]
+  }, {
+    "tStartMs": 17453,
+    "dDurationMs": 3544,
+    "segs": [ {
+      "utf8": "but they could be something like the Twin Prime Conjecture."
+    } ]
+  }, {
+    "tStartMs": 20997,
+    "dDurationMs": 6363,
+    "segs": [ {
+      "utf8": "Twin primes are prime numbers that are separated \nby just one number like 11 and 13, or 17 and 19."
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "And as you go up the number line primes occur less \nfrequently and twin primes are rarer still."
+    } ]
+  }, {
+    "tStartMs": 34400,
+    "dDurationMs": 3675,
+    "segs": [ {
+      "utf8": "But the Twin Prime Conjecture is that there are infinitely \nmany twin primes."
+    } ]
+  }, {
+    "tStartMs": 38075,
+    "dDurationMs": 3388,
+    "segs": [ {
+      "utf8": "You never run out them."
+    } ]
+  }, {
+    "tStartMs": 41463,
+    "dDurationMs": 5108,
+    "segs": [ {
+      "utf8": "As of right now no one has proven this conjecture true or false."
+    } ]
+  }, {
+    "tStartMs": 46571,
+    "dDurationMs": 4549,
+    "segs": [ {
+      "utf8": "But the crazy thing is this: we may never know "
+    } ]
+  }, {
+    "tStartMs": 51120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "because what has been proven is that in any system \nof mathematics where you can do basic arithmetic"
+    } ]
+  }, {
+    "tStartMs": 57280,
+    "dDurationMs": 5853,
+    "segs": [ {
+      "utf8": "there will always be true statements \nthat are impossible to prove."
+    } ]
+  }, {
+    "tStartMs": 63133,
+    "dDurationMs": 3747,
+    "segs": [ {
+      "utf8": "That is life. "
+    } ]
+  }, {
+    "tStartMs": 67360,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Specifically this is the Game of Life, \ncreated in 1970 by mathematician John Conway"
+    } ]
+  }, {
+    "tStartMs": 73520,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Sadly he passed away in 2020 from covet \n19. Conway's game of life is played on an"
+    } ]
+  }, {
+    "tStartMs": 80320,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "infinite grid of square cells each of which is \neither live or dead and there are only two rules"
+    } ]
+  }, {
+    "tStartMs": 88240,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "one any dead cell with exactly three neighbors \ncomes to life and two any living cell with less"
+    } ]
+  }, {
+    "tStartMs": 95600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "than two or more than three neighbors dies once \nyou've set up the initial arrangement of cells"
+    } ]
+  }, {
+    "tStartMs": 102320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the two rules are applied to create the \nnext generation and then the one after that"
+    } ]
+  }, {
+    "tStartMs": 106560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "and the one after that and so on it's totally \nautomatic Conway called it a zero player game"
+    } ]
+  }, {
+    "tStartMs": 113360,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "but even though the rules are simple the game \nitself can generate a wide variety of behavior"
+    } ]
+  }, {
+    "tStartMs": 119440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "some patterns are stable once they arise they \nnever change others oscillate back and forth in a"
+    } ]
+  }, {
+    "tStartMs": 125680,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "loop a few can travel across the grid forever like \nthis glider here many patterns just fizzle out"
+    } ]
+  }, {
+    "tStartMs": 138080,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "but a few keep growing forever \nthey keep generating new cells"
+    } ]
+  }, {
+    "tStartMs": 145280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "now you would think that given the \nsimple rules of the game you could just"
+    } ]
+  }, {
+    "tStartMs": 148880,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "look at any pattern and determine what will happen \nto it will it eventually reach a steady state"
+    } ]
+  }, {
+    "tStartMs": 154880,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "or will it keep growing without limit but it \nturns out this question is impossible to answer"
+    } ]
+  }, {
+    "tStartMs": 162320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "the ultimate fate of a pattern in Conway's \ngame of life is undecidable meaning there"
+    } ]
+  }, {
+    "tStartMs": 168320,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "is no possible algorithm that is guaranteed to \nanswer the question in a finite amount of time"
+    } ]
+  }, {
+    "tStartMs": 174160,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "you could always just try running the pattern and \nsee what happens i mean the rules of the game are"
+    } ]
+  }, {
+    "tStartMs": 178400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "a kind of algorithm after all but that's not \nguaranteed to give you an answer either because"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "even if you run it for a million generations \nyou won't be able to say whether it'll last"
+    } ]
+  }, {
+    "tStartMs": 188480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "forever or just 2 million generations \nor a billion or a googleplex"
+    } ]
+  }, {
+    "tStartMs": 194080,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "is there something special about the game of life \nthat makes it undecidable nope there are actually"
+    } ]
+  }, {
+    "tStartMs": 201280,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "a huge number of systems that are undecidable \nlike Wang tiles quantum physics airline ticketing"
+    } ]
+  }, {
+    "tStartMs": 208080,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "systems and even magic the gathering to understand \nhow undecidability shows up in all of these places"
+    } ]
+  }, {
+    "tStartMs": 216880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "we have to go back 150 years to a \nfull-blown revolt in mathematics"
+    } ]
+  }, {
+    "tStartMs": 225280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "in 1874 Georg Cantor a german mathematician \npublished a paper that launched a new branch"
+    } ]
+  }, {
+    "tStartMs": 231280,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "of mathematics called set theory a set is \njust a well-defined collection of things"
+    } ]
+  }, {
+    "tStartMs": 237360,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "so the two shoes on your feet are a set as are \nall the planetariums in the world there's a set"
+    } ]
+  }, {
+    "tStartMs": 243280,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "with nothing in it the empty set and a set with \neverything in it now Cantor was thinking about"
+    } ]
+  }, {
+    "tStartMs": 249440,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "sets of numbers like natural numbers positive \nintegers like 1 2 3 4 and so on and real numbers"
+    } ]
+  }, {
+    "tStartMs": 257120,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "which include fractions like a third five \nhalves and also irrational numbers like pi e"
+    } ]
+  }, {
+    "tStartMs": 263760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and the square root of two basically any number \nthat can be represented as an infinite decimal"
+    } ]
+  }, {
+    "tStartMs": 270240,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "he wondered are there more natural numbers \nor more real numbers between zero and one"
+    } ]
+  }, {
+    "tStartMs": 278000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the answer might seem obvious there are \nan infinite number of each so both sets"
+    } ]
+  }, {
+    "tStartMs": 283040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "should be the same size but to check this logic \ncanter imagined writing down an infinite list"
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "matching up each natural number on one side with \na real number between zero and one on the other"
+    } ]
+  }, {
+    "tStartMs": 294800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "now since each real number is an infinite decimal \nthere is no first one so we can just write them"
+    } ]
+  }, {
+    "tStartMs": 300480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "down in any random order the key is to make sure \nwe get them all with no duplicates and line them"
+    } ]
+  }, {
+    "tStartMs": 306240,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "up one to one with an integer if we can do that \nwith none left over well then we know that the"
+    } ]
+  }, {
+    "tStartMs": 313440,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "set of natural numbers and the set of real numbers \nbetween 0 and 1 are the same size so assume we've"
+    } ]
+  }, {
+    "tStartMs": 320160,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "done that we have a complete infinite list with \neach integer acting like an index number a unique"
+    } ]
+  }, {
+    "tStartMs": 326880,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "identifier for each real number on the list now \nCantor says start writing down a new real number"
+    } ]
+  }, {
+    "tStartMs": 334480,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "and the way we're going to do it is by taking the \nfirst digit of the first number and adding one"
+    } ]
+  }, {
+    "tStartMs": 340800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "then take the second digit of the second number \nand again add one take the third digit of the"
+    } ]
+  }, {
+    "tStartMs": 345600,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "third number add one and keep doing this all the \nway down the list if the digit is a nine just roll"
+    } ]
+  }, {
+    "tStartMs": 351760,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "it back to an eight and by the end of this process \nyou'll have a real number between zero and one but"
+    } ]
+  }, {
+    "tStartMs": 358720,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "here's the thing this number won't appear anywhere \non our list it's different from the first number"
+    } ]
+  }, {
+    "tStartMs": 365440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "in the first decimal place different from the \nsecond number in the second decimal place and"
+    } ]
+  }, {
+    "tStartMs": 369360,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "so on down the line it has to be different from \nevery number on the list by at least one digit"
+    } ]
+  }, {
+    "tStartMs": 375840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "the number on the diagonal that's why this \nis called Cantor's diagonalization proof"
+    } ]
+  }, {
+    "tStartMs": 382800,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "it shows there must be more real numbers between \n0 and 1 then there are natural numbers extending"
+    } ]
+  }, {
+    "tStartMs": 389840,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "out to infinity so not all infinities are the same \nsize Cantor call these countable and uncountable"
+    } ]
+  }, {
+    "tStartMs": 398000,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "infinities respectively and in fact there are many \nmore uncountable infinities which are even larger"
+    } ]
+  }, {
+    "tStartMs": 404640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "now Cantor's work was just the latest blow to \nmathematics for 2000 years Euclid's elements"
+    } ]
+  }, {
+    "tStartMs": 409680,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "were considered the bedrock of the discipline but \nat the turn of the 19th century Lobashevsky and"
+    } ]
+  }, {
+    "tStartMs": 415200,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "gauss discovered non-Euclidean geometries and \nthis prompted mathematicians to examine more"
+    } ]
+  }, {
+    "tStartMs": 420800,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "closely the foundations of their field and they \ndid not like what they saw the idea of a limit"
+    } ]
+  }, {
+    "tStartMs": 427520,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "at the heart of calculus turned out to be poorly \ndefined and now Cantor was showing that infinity"
+    } ]
+  }, {
+    "tStartMs": 433360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "itself was much more complex than anyone had \nimagined in all this upheaval mathematics"
+    } ]
+  }, {
+    "tStartMs": 439360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "fractured and a huge debate broke out among \nmathematicians at the end of the 1800s on the"
+    } ]
+  }, {
+    "tStartMs": 444560,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "one side were the intuitionists who thought that \nCantor's work was nonsense they were convinced"
+    } ]
+  }, {
+    "tStartMs": 450240,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "that math was a pure creation of the human mind \nand that infinities like Cantors weren't real"
+    } ]
+  }, {
+    "tStartMs": 457200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Henri Poincaré said that later generations will \nregard set theory as a disease from which one"
+    } ]
+  }, {
+    "tStartMs": 462640,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "has recovered Leopold Kronecker called Cantor a \nscientific charlatan and a corrupter of the youth"
+    } ]
+  }, {
+    "tStartMs": 469760,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "and he worked to keep Cantor from getting a job \nhe wanted on the other side were the formalists"
+    } ]
+  }, {
+    "tStartMs": 475600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "they thought that math could be put on absolutely \nsecure logical foundations through Cantor's set"
+    } ]
+  }, {
+    "tStartMs": 480640,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "theory the informal leader of the formalists \nwas the german mathematician David Hilbert"
+    } ]
+  }, {
+    "tStartMs": 486560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Hilbert was a living legend a hugely influential \nmathematician who had worked in nearly every area"
+    } ]
+  }, {
+    "tStartMs": 492000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "of mathematics he almost beat Einstein to the \npunch on general relativity he developed entirely"
+    } ]
+  }, {
+    "tStartMs": 497920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "new mathematical concepts that were crucial for \nquantum mechanics and he knew that Cantor's work"
+    } ]
+  }, {
+    "tStartMs": 502880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "was brilliant Hilbert was convinced that a more \nformal and rigorous system of mathematical proof"
+    } ]
+  }, {
+    "tStartMs": 508560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "based on set theory could solve all the issues \nthat had cropped up in math over the last century"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and most other mathematicians agreed with him no \none shall expel us from the paradise that Cantor"
+    } ]
+  }, {
+    "tStartMs": 519600,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "has created Hilbert declared but in 1901 Bertrand \nRussell pointed out a serious problem in Cantor's"
+    } ]
+  }, {
+    "tStartMs": 526880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "set theory Russell knew that if sets can contain \nanything they can contain other sets or even"
+    } ]
+  }, {
+    "tStartMs": 532800,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "themselves for example the set of all sets must \ncontain itself as does the set of sets with more"
+    } ]
+  }, {
+    "tStartMs": 539120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "than five elements in them you could even talk \nabout the set of all sets that contain themselves"
+    } ]
+  }, {
+    "tStartMs": 544720,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "but this leads straight to a problem what about r \nthe set of all sets that don't contain themselves"
+    } ]
+  }, {
+    "tStartMs": 552320,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "if r doesn't contain itself well then it must \ncontain itself but if r does contain itself"
+    } ]
+  }, {
+    "tStartMs": 558800,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "then by definition it must not contain itself so r \ncontains itself if and only if it doesn't Russell"
+    } ]
+  }, {
+    "tStartMs": 567120,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "had found another paradox of self-reference and \nhe later explained his paradox using a hairy"
+    } ]
+  }, {
+    "tStartMs": 573440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "analogy let's say there's a village populated \nentirely by grown men with a strange law against"
+    } ]
+  }, {
+    "tStartMs": 579600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "beards specifically the law states that the \nvillage barber must shave all and only those men"
+    } ]
+  }, {
+    "tStartMs": 584720,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "of the village who do not shave themselves but the \nbarber himself lives in the village too of course"
+    } ]
+  }, {
+    "tStartMs": 591120,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "and he's a man so who shaves him if he doesn't \nshave himself then the barber has to shave him"
+    } ]
+  }, {
+    "tStartMs": 598480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "but the barber can't shave himself because the \nbarber doesn't shave anyone who shaves themselves"
+    } ]
+  }, {
+    "tStartMs": 603520,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "so the barber must shave himself if and only if \nhe doesn't shave himself it's a contradiction"
+    } ]
+  }, {
+    "tStartMs": 611360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the intuitionists rejoiced at Russell's \nparadox thinking it had proven set theory"
+    } ]
+  }, {
+    "tStartMs": 615920,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "hopelessly flawed but zermelo and other \nmathematicians from Hilbert school"
+    } ]
+  }, {
+    "tStartMs": 620800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "solved the problem by restricting the concept of \na set so the collection of all sets for example is"
+    } ]
+  }, {
+    "tStartMs": 626560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "not a set anymore and neither is the collection \nof all sets which don't contain themselves"
+    } ]
+  }, {
+    "tStartMs": 631600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "this eliminated the paradoxes that \ncome with self-reference Hilbert and"
+    } ]
+  }, {
+    "tStartMs": 635760,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "the formalists lived to fight another day but \nself-reference refused to die quite that easily"
+    } ]
+  }, {
+    "tStartMs": 643760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "fast forward to the 1960s and mathematician Hao \nWang was looking at square tiles with different"
+    } ]
+  }, {
+    "tStartMs": 648880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "colors on each side like these the rules were \nthat touching edges must be the same color"
+    } ]
+  }, {
+    "tStartMs": 654240,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "and you can't rotate or reflect tiles only slide \nthem around the question was if you're given an"
+    } ]
+  }, {
+    "tStartMs": 660320,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "arbitrary set of these tiles can you tell if they \nwill tile the plane that is will they connect"
+    } ]
+  }, {
+    "tStartMs": 666160,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "up with no gaps all the way out to infinity it \nturns out you can't tell for an arbitrary set of"
+    } ]
+  }, {
+    "tStartMs": 673040,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "tiles whether they will tile the plane or not \nthe problem is undecidable just like the fate"
+    } ]
+  }, {
+    "tStartMs": 680240,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "of a pattern in Conway's game of life in fact \nit's exactly the same problem and that problem"
+    } ]
+  }, {
+    "tStartMs": 686880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "ultimately comes from self-reference as Hilbert \nand the formalists were about to discover"
+    } ]
+  }, {
+    "tStartMs": 693840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Hilbert wanted to secure the foundations of \nmathematics by developing a new system for"
+    } ]
+  }, {
+    "tStartMs": 698080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "mathematical proofs systems of proof were an old \nidea going back to the ancient greeks a system of"
+    } ]
+  }, {
+    "tStartMs": 704080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "proof starts with axioms basic statements that \nare assumed to be true like a straight line can"
+    } ]
+  }, {
+    "tStartMs": 709600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "be drawn between any two points proofs are then \nconstructed from those axioms using rules of"
+    } ]
+  }, {
+    "tStartMs": 715120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "inference methods for using existing statements \nto derive new statements and these are chosen to"
+    } ]
+  }, {
+    "tStartMs": 720880,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "preserve truth the existing statements are true \nthen so are the new ones Hilbert wanted a formal"
+    } ]
+  }, {
+    "tStartMs": 727440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "system of proof a symbolic logical language with a \nrigid set of manipulation rules for those symbols"
+    } ]
+  }, {
+    "tStartMs": 733600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "logical and mathematical statements could then \nbe translated into this system if you drop a"
+    } ]
+  }, {
+    "tStartMs": 738400,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "book then it will fall would be a then b and no \nhuman is immortal would be expressed like this"
+    } ]
+  }, {
+    "tStartMs": 748080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Hilbert and the formalists wanted to express \nthe axioms of mathematics as symbolic statements"
+    } ]
+  }, {
+    "tStartMs": 752800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "in a formal system and set up the rules \nof inference as the system's rules for"
+    } ]
+  }, {
+    "tStartMs": 757520,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "symbol manipulation so Russell \nalong with Alfred North Whitehead"
+    } ]
+  }, {
+    "tStartMs": 762240,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "developed a formal system like this in \ntheir three-volume Principia Mathematica"
+    } ]
+  }, {
+    "tStartMs": 766400,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "published in 1913. Principia Mathematica is vast a \ntotal of nearly 2 000 pages of dense mathematical"
+    } ]
+  }, {
+    "tStartMs": 774800,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "notation it takes 762 pages just to get to a \ncomplete proof that one plus one equals two"
+    } ]
+  }, {
+    "tStartMs": 783040,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "at which point Russell and Whitehead dryly note \nthe above proposition is occasionally useful"
+    } ]
+  }, {
+    "tStartMs": 789760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the authors had originally planned \na fourth volume but unsurprisingly"
+    } ]
+  }, {
+    "tStartMs": 793760,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "they were too worn out to complete it so yes \nthe notation is dense and exhausting but it is"
+    } ]
+  }, {
+    "tStartMs": 800000,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "also exact unlike ordinary languages it leaves \nno room for errors or fuzzy logic to creep in"
+    } ]
+  }, {
+    "tStartMs": 808080,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "and most importantly it allows you to prove \nproperties of the formal system itself"
+    } ]
+  }, {
+    "tStartMs": 816080,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "there were three big questions that \nHilbert wanted answered about mathematics"
+    } ]
+  }, {
+    "tStartMs": 820720,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "number one is math complete meaning is there a \nway to prove every true statement does every true"
+    } ]
+  }, {
+    "tStartMs": 828720,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "statement have a proof number two is mathematics \nconsistent meaning is it free of contradictions"
+    } ]
+  }, {
+    "tStartMs": 836560,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "i mean if you can simultaneously prove a and not \na then that's a real problem because you can prove"
+    } ]
+  }, {
+    "tStartMs": 843200,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "anything at all and number three is math \ndecidable meaning is there an algorithm that"
+    } ]
+  }, {
+    "tStartMs": 850800,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "can always determine whether a statement follows \nfrom the axioms now Hilbert was convinced that"
+    } ]
+  }, {
+    "tStartMs": 857360,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "the answers to all three of these questions was \nyes at a major conference in 1930 Hilbert gave"
+    } ]
+  }, {
+    "tStartMs": 865360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "a fiery speech about these questions he ended it \nwith a line that summed up his formalist dream in"
+    } ]
+  }, {
+    "tStartMs": 871760,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "opposition to the foolish ignorabimus which means we \nwill not know our slogan shall be we must know we"
+    } ]
+  }, {
+    "tStartMs": 879520,
+    "dDurationMs": 9280,
+    "segs": [ {
+      "utf8": "will know these words are literally on his grave \nbut by the time Hilbert gave this speech his dream"
+    } ]
+  }, {
+    "tStartMs": 888800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "was already crumbling just the day before at a \nsmall meeting at the same conference a 24 year old"
+    } ]
+  }, {
+    "tStartMs": 894480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "logician named Kurt Gödel explained that he had \nfound the answer to the first of Hilbert's three"
+    } ]
+  }, {
+    "tStartMs": 899840,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "big questions about completeness and the answer \nwas no a complete formal system of mathematics"
+    } ]
+  }, {
+    "tStartMs": 906720,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "was impossible the only person who paid much \nattention was John von Neumann one of Hilbert's"
+    } ]
+  }, {
+    "tStartMs": 912320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "former students who pulled Gödel aside to ask a \nfew questions but the next year Gödel published"
+    } ]
+  }, {
+    "tStartMs": 917840,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "a proof of his incompleteness theorem and this \ntime everyone including Hilbert took notice"
+    } ]
+  }, {
+    "tStartMs": 929040,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "this is how Gödel's proof works Gödel \nwanted to use logic and mathematics"
+    } ]
+  }, {
+    "tStartMs": 935680,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "to answer questions about the very system \nof logic and mathematics and so he took"
+    } ]
+  }, {
+    "tStartMs": 943360,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "all these basic symbols of a mathematical \nsystem and then he gave each one a number"
+    } ]
+  }, {
+    "tStartMs": 951120,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "this is known as the symbol's Gödel number \nso the symbol for not gets the number one"
+    } ]
+  }, {
+    "tStartMs": 958640,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "or has the Gödel number two if then it's Gödel \nnumber three now if you're expressing all of these"
+    } ]
+  }, {
+    "tStartMs": 965760,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "symbols with numbers then what do you do about \nthe numbers themselves well zero gets its own"
+    } ]
+  }, {
+    "tStartMs": 971760,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Gödel number six and if you want to write a one \nyou just put this successor symbol next to it the"
+    } ]
+  }, {
+    "tStartMs": 978400,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "immediate successor of zero is 1. and if you \nwant to write 2 then you have to write ss0"
+    } ]
+  }, {
+    "tStartMs": 986560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and that represents 2 and so on so you could \nrepresent any positive integer this way"
+    } ]
+  }, {
+    "tStartMs": 991440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "granted it is cumbersome but it works \nand that is the point of this system"
+    } ]
+  }, {
+    "tStartMs": 996560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "so now that we have Gödel numbers for all of \nthe basic symbols and all of the numbers we might"
+    } ]
+  }, {
+    "tStartMs": 1002080,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "want to use we can start to write equations \nlike we could write zero equals zero so these"
+    } ]
+  }, {
+    "tStartMs": 1010000,
+    "dDurationMs": 9360,
+    "segs": [ {
+      "utf8": "symbols have the Gödel numbers six five six and \nwe can actually create a new card that represents"
+    } ]
+  }, {
+    "tStartMs": 1019360,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "this equation zero equals zero and the way we \ndo it is we take the prime numbers starting at 2"
+    } ]
+  }, {
+    "tStartMs": 1027120,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "and we raise each one to the power of the Gödel \nnumber of the symbol in our equation so we have"
+    } ]
+  }, {
+    "tStartMs": 1034000,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "2 to the power of 6 times 3 to the power of 5 \ntimes 5 to the power of 6 equals 243 million"
+    } ]
+  }, {
+    "tStartMs": 1041920,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "so 243 million is the Gödel number \nof the whole equation zero equals"
+    } ]
+  }, {
+    "tStartMs": 1049200,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "zero we can write down Gödel numbers for \nany set of symbols that you can imagine"
+    } ]
+  }, {
+    "tStartMs": 1056000,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "so really this is an infinite deck of cards where \nany set of symbols that you want to write down"
+    } ]
+  }, {
+    "tStartMs": 1062880,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "in a sequence you can represent with a unique \nGödel number and the beauty of this Gödel"
+    } ]
+  }, {
+    "tStartMs": 1068400,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "number is you can do a prime factorization of it \nand you can work out exactly what symbols made up"
+    } ]
+  }, {
+    "tStartMs": 1075840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "this card so in this whole pack of cards \nthere are going to be true statements"
+    } ]
+  }, {
+    "tStartMs": 1081200,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and there are going to be false statements so how \ndo you prove that something is true well you need"
+    } ]
+  }, {
+    "tStartMs": 1087520,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "to go to the axioms the axioms also have their own \nGödel numbers which are formed in the same way"
+    } ]
+  }, {
+    "tStartMs": 1095360,
+    "dDurationMs": 9120,
+    "segs": [ {
+      "utf8": "so here's an axiom which says not the successor of \nany number x equals zero which makes sense because"
+    } ]
+  }, {
+    "tStartMs": 1104480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "in this system there are no negative numbers and \nso the successor of any number cannot be zero"
+    } ]
+  }, {
+    "tStartMs": 1110480,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "so we can put down this axiom and then we can \nsubstitute in zero for x saying that one does not"
+    } ]
+  }, {
+    "tStartMs": 1118400,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "equal zero and we've created a proof this is the \nsimplest proof i can think of that shows that one"
+    } ]
+  }, {
+    "tStartMs": 1126000,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "does not equal zero now this card for the proof of \none does not equal zero gets its own Gödel number"
+    } ]
+  }, {
+    "tStartMs": 1134160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and the way we calculate this Gödel number \nis just as before we take the prime numbers"
+    } ]
+  }, {
+    "tStartMs": 1139120,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "and we raise 2 to the power of the axiom times \n3 to the power of 1 does not equal 0 and we get"
+    } ]
+  }, {
+    "tStartMs": 1148640,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "a tremendously large number it would have 73 \nmillion digits if you calculated it all out so"
+    } ]
+  }, {
+    "tStartMs": 1154560,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "i've just left it here in exponential notation as \nyou can see these numbers get very large and so"
+    } ]
+  }, {
+    "tStartMs": 1162160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "you might want to start just calling them by \nletters so we could say this one is Gödel"
+    } ]
+  }, {
+    "tStartMs": 1167120,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "number a this is Gödel number b Gödel number \nc and so on Gödel goes to all this trouble to find"
+    } ]
+  }, {
+    "tStartMs": 1176160,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "this card which says there is no proof for the \nstatement with Gödel number g the trick is"
+    } ]
+  }, {
+    "tStartMs": 1186400,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "that the Gödel number of this card is \ng so what this statement is really saying"
+    } ]
+  }, {
+    "tStartMs": 1193280,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "is this card is unprovable there is no proof \nanywhere in our infinite deck for this card"
+    } ]
+  }, {
+    "tStartMs": 1201200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "now think about it if it's \nfalse and there is a proof"
+    } ]
+  }, {
+    "tStartMs": 1205040,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "then what you have just proven is there is \nno proof so you're stuck with a contradiction"
+    } ]
+  }, {
+    "tStartMs": 1214320,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "that would mean the mathematical system is \ninconsistent the other alternative is that"
+    } ]
+  }, {
+    "tStartMs": 1220800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "this card is true there is no proof for the \nstatement with Gödel number g but that means"
+    } ]
+  }, {
+    "tStartMs": 1226720,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "this mathematical system has true statements \nin it that have no proof so your mathematical"
+    } ]
+  }, {
+    "tStartMs": 1233360,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "system is incomplete and that is Gödel's \nincompleteness theorem this is how he shows"
+    } ]
+  }, {
+    "tStartMs": 1240480,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "that any basic mathematical system that can do \nfundamental arithmetic will always have statements"
+    } ]
+  }, {
+    "tStartMs": 1247600,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "within it which are true but which have no proof \nthere's a line in the tv show the office that"
+    } ]
+  }, {
+    "tStartMs": 1255840,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "echoes the self-referential paradox of Gödel's \nproof jim is my enemy but it turns out the jim"
+    } ]
+  }, {
+    "tStartMs": 1261280,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "is also his own worst enemy and the enemy of my \nenemy is my friend so jim is actually my friend"
+    } ]
+  }, {
+    "tStartMs": 1269840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but because he is his own worst enemy the enemy"
+    } ]
+  }, {
+    "tStartMs": 1273040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of my friend is my enemy so \nactually jim is my enemy but"
+    } ]
+  }, {
+    "tStartMs": 1282800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Gödel's incompleteness theorem means that \ntruth and provability are not at all the same"
+    } ]
+  }, {
+    "tStartMs": 1288480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "thing Hilbert was wrong there will always be true \nstatements about mathematics that just cannot"
+    } ]
+  }, {
+    "tStartMs": 1294240,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "be proven now Hilbert could console himself with \nthe hope that at least we could still prove maths"
+    } ]
+  }, {
+    "tStartMs": 1299760,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "consistent that is free of contradictions \nbut then Gödel published his second"
+    } ]
+  }, {
+    "tStartMs": 1304960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "incompleteness theorem in which he showed \nthat any consistent formal system of math"
+    } ]
+  }, {
+    "tStartMs": 1309680,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "cannot prove its own consistency so taken together \nGödel's two incompleteness theorems say that the"
+    } ]
+  }, {
+    "tStartMs": 1316800,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "best you can hope for is a consistent yet \nincomplete system of math but a system like"
+    } ]
+  }, {
+    "tStartMs": 1323040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "that cannot prove its own consistency so some \ncontradiction could always crop up in the future"
+    } ]
+  }, {
+    "tStartMs": 1328720,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "revealing that the system you'd been working with \nhad been inconsistent the whole time and that"
+    } ]
+  }, {
+    "tStartMs": 1333760,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "leaves only the third and final big question from \nHilbert is mathematics decidable that is is there"
+    } ]
+  }, {
+    "tStartMs": 1339920,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "an algorithm that can always determine whether \na statement follows from the axioms and in 1936"
+    } ]
+  }, {
+    "tStartMs": 1346320,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Alan Turing found a way to settle this question \nbut to do it he had to invent the modern computer"
+    } ]
+  }, {
+    "tStartMs": 1354640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "in his time computers weren't machines \nthey were people often women who carried"
+    } ]
+  }, {
+    "tStartMs": 1359760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "out long and tedious calculations Turing \nimagined an entirely mechanical computer"
+    } ]
+  }, {
+    "tStartMs": 1365680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "he wanted it to be powerful enough to perform any \ncomputation imaginable but simple enough that you"
+    } ]
+  }, {
+    "tStartMs": 1371520,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "could reason through its operation so he came up \nwith a machine that takes as input an infinitely"
+    } ]
+  }, {
+    "tStartMs": 1377760,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "long tape of square cells each containing a zero \nor a one the machine has a read write head that"
+    } ]
+  }, {
+    "tStartMs": 1384960,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "can read one digit at a time then it can perform \none of only a few tasks overwrite a new value"
+    } ]
+  }, {
+    "tStartMs": 1393040,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "move left move right or simply halt \nhalting means the program has run"
+    } ]
+  }, {
+    "tStartMs": 1399600,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "to completion the program consists of a set of \ninternal instructions you can think of it like"
+    } ]
+  }, {
+    "tStartMs": 1405440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "a flow chart that tells the machine what to do \nbased on the digit it reads and its internal state"
+    } ]
+  }, {
+    "tStartMs": 1412480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "you could imagine exporting these instructions to \nany other Turing machine which would then perform"
+    } ]
+  }, {
+    "tStartMs": 1417200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "in exactly the same way as the first although \nthis sounds simple a Turing machine's arbitrarily"
+    } ]
+  }, {
+    "tStartMs": 1423920,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "large memory and program mean it can execute any \ncomputable algorithm if given enough time from"
+    } ]
+  }, {
+    "tStartMs": 1430880,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "addition and subtraction to the entire youtube \nalgorithm it can do anything a modern computer can"
+    } ]
+  }, {
+    "tStartMs": 1438480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "that's what made the Turing machine so useful in \nanswering Hilbert's question on decidability when"
+    } ]
+  }, {
+    "tStartMs": 1444080,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "a touring machine halts the program has finished \nrunning and the tape is the output but sometimes a"
+    } ]
+  }, {
+    "tStartMs": 1450160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "touring machine never halts maybe it gets stuck in \nan infinite loop is it possible to tell beforehand"
+    } ]
+  }, {
+    "tStartMs": 1456400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "if a program will halt or not on a particular \ninput Turing realized this halting problem"
+    } ]
+  }, {
+    "tStartMs": 1462400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "was very similar to the decidability problem if \nhe could find a way to figure out if a Turing"
+    } ]
+  }, {
+    "tStartMs": 1466960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "machine would halt then it would also be possible \nto decide if a statement followed from the axioms"
+    } ]
+  }, {
+    "tStartMs": 1473280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "for example you could solve the twin prime \nconjecture by writing a Turing machine program"
+    } ]
+  }, {
+    "tStartMs": 1477920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "that starts with the axioms and constructs \nall theorems that can be produced in one step"
+    } ]
+  }, {
+    "tStartMs": 1482480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "using the rules of inference then it constructs \nall theorems that can be produced in one step"
+    } ]
+  }, {
+    "tStartMs": 1487360,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "from those and so on each time it generates a \nnew theorem it checks if it's the twin prime"
+    } ]
+  }, {
+    "tStartMs": 1492800,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "conjecture and if it is it halts if not it never \nhalts so if you could solve the halting problem"
+    } ]
+  }, {
+    "tStartMs": 1500080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "you could solve the twin prime conjecture \nand all sorts of other unsolved questions"
+    } ]
+  }, {
+    "tStartMs": 1505280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "so Turing said let's assume we can make a \nmachine h that can determine whether any"
+    } ]
+  }, {
+    "tStartMs": 1510400,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Turing machine will halt or not on a particular \ninput you insert the program and its input"
+    } ]
+  }, {
+    "tStartMs": 1516720,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "and h simulates what will happen printing out \neither halts or never halts for now we don't worry"
+    } ]
+  }, {
+    "tStartMs": 1524240,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "about how h works we just know that it always \nworks it always gives you the right answer now"
+    } ]
+  }, {
+    "tStartMs": 1530800,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "we can modify the h machine by adding additional \ncomponents one if it receives the output halts"
+    } ]
+  }, {
+    "tStartMs": 1537360,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "immediately goes into an infinite loop another if \nit receives never holds then it immediately halts"
+    } ]
+  }, {
+    "tStartMs": 1545200,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "we can call this entire new machine h plus and \nwe can export the program for that entire machine"
+    } ]
+  }, {
+    "tStartMs": 1554800,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "now what happens if we give this machine \nits own code both as program and input"
+    } ]
+  }, {
+    "tStartMs": 1562160,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "well now h is simulating what h plus \nwould do given its own input essentially h"
+    } ]
+  }, {
+    "tStartMs": 1569600,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "has to determine the behavior of a machine \nthat it itself is a part of in this exact"
+    } ]
+  }, {
+    "tStartMs": 1576240,
+    "dDurationMs": 9360,
+    "segs": [ {
+      "utf8": "circumstance if h concludes that h plus never \nhalts well this makes h plus immediately halt"
+    } ]
+  }, {
+    "tStartMs": 1588640,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "if h thinks h plus will halt well then \nthat necessarily forces h plus to loop"
+    } ]
+  }, {
+    "tStartMs": 1598960,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "whatever output the halting machine h gives it \nturns out to be wrong there's a contradiction"
+    } ]
+  }, {
+    "tStartMs": 1607120,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "the only explanation can be that a machine like \nh can't exist there's no way to tell in general"
+    } ]
+  }, {
+    "tStartMs": 1613680,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "if a touring machine will halt or not on a given \ninput and this means mathematics is undecidable"
+    } ]
+  }, {
+    "tStartMs": 1622400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "there is no algorithm that can always determine \nwhether a statement is derivable from the axioms"
+    } ]
+  }, {
+    "tStartMs": 1628160,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "so something like the twin prime conjecture \nmight be unsolvable we might never know"
+    } ]
+  }, {
+    "tStartMs": 1634320,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "whether there are infinite twin primes or not \nthe problem of undecidability even crops up"
+    } ]
+  }, {
+    "tStartMs": 1640880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "in physical systems in quantum mechanics one \nof the most important properties of a many-body"
+    } ]
+  }, {
+    "tStartMs": 1646240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "system is the difference in energy between \nits ground state and its first excited state"
+    } ]
+  }, {
+    "tStartMs": 1651520,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "this is known as the spectral gap some systems \nhave a significant spectral gap whereas others"
+    } ]
+  }, {
+    "tStartMs": 1657840,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "are gapless there are a continuum of energy levels \nall the way down to the ground state and this is"
+    } ]
+  }, {
+    "tStartMs": 1664080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "important because at low temperatures gapless \nquantum systems can undergo phase transitions"
+    } ]
+  }, {
+    "tStartMs": 1669040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "while gapped systems cannot they don't have \nthe energy needed to overcome the spectral gap"
+    } ]
+  }, {
+    "tStartMs": 1674960,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "but figuring out if a system is gapped or gapless \nhas long been known to be a very difficult"
+    } ]
+  }, {
+    "tStartMs": 1682000,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "problem only recently in 2015 did mathematicians \nprove that in general the spectral gap question"
+    } ]
+  }, {
+    "tStartMs": 1690080,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "is undecidable to quote the authors even a \nperfect complete description of the microscopic"
+    } ]
+  }, {
+    "tStartMs": 1697840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "interactions between a material's particles is not \nalways enough to deduce its macroscopic properties"
+    } ]
+  }, {
+    "tStartMs": 1704400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "now remember that Turing designed his machines to \nbe as powerful computers as it is possible to make"
+    } ]
+  }, {
+    "tStartMs": 1710720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "to this day the best computational systems are \nthose that can do everything a touring machine can"
+    } ]
+  }, {
+    "tStartMs": 1716480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "this is called touring completeness and it turns \nout there are many such during complete systems"
+    } ]
+  }, {
+    "tStartMs": 1723120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "although they are powerful every touring complete \nsystem comes with a catch its own analog of the"
+    } ]
+  }, {
+    "tStartMs": 1729280,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "halting problem some undecidable property of \nthe system Wang tiles are touring complete their"
+    } ]
+  }, {
+    "tStartMs": 1735760,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "halting problem is whether or not they'll tile the \nplane complex quantum systems are Turing complete"
+    } ]
+  }, {
+    "tStartMs": 1741920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and their halting problem is the spectral gap \nquestion and the game of life is Turing complete"
+    } ]
+  }, {
+    "tStartMs": 1747520,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "its halting problem is literally whether or \nnot it halts there are many more examples"
+    } ]
+  }, {
+    "tStartMs": 1753680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "of this like airline ticketing systems magic the \ngathering powerpoint slides and excel spreadsheets"
+    } ]
+  }, {
+    "tStartMs": 1759520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "nearly every programming language in existence is \ndesigned to be Turing complete but in theory we"
+    } ]
+  }, {
+    "tStartMs": 1765520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "only need one programming language because \nwell you can program anything at all using"
+    } ]
+  }, {
+    "tStartMs": 1769840,
+    "dDurationMs": 12400,
+    "segs": [ {
+      "utf8": "any Turing complete system so here's a touring \nmachine inside the game of life and since the"
+    } ]
+  }, {
+    "tStartMs": 1782240,
+    "dDurationMs": 11600,
+    "segs": [ {
+      "utf8": "game of life is itself touring complete it should \nbe capable of simulating itself and indeed it is"
+    } ]
+  }, {
+    "tStartMs": 1796000,
+    "dDurationMs": 11840,
+    "segs": [ {
+      "utf8": "this is the game of life \nrunning on the game of life"
+    } ]
+  }, {
+    "tStartMs": 1809680,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the real legacy of David Hilbert's dream \nis all of our modern computational devices"
+    } ]
+  }, {
+    "tStartMs": 1816800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Kurt Gödel suffered bouts of mental instability \nlater in life convinced that people were trying"
+    } ]
+  }, {
+    "tStartMs": 1822080,
+    "dDurationMs": 9280,
+    "segs": [ {
+      "utf8": "to poison him he refused to eat eventually \nstarving himself to death Hilbert died in 1943"
+    } ]
+  }, {
+    "tStartMs": 1831360,
+    "dDurationMs": 9760,
+    "segs": [ {
+      "utf8": "his epitaph was his slogan from 1930. we must know \nwe will know the truth is we don't know sometimes"
+    } ]
+  }, {
+    "tStartMs": 1841120,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "we can't know but in trying to find out we can \ndiscover new things things that change the world"
+    } ]
+  }, {
+    "tStartMs": 1849600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Alan Turing put his ideas about computing to \npractical use in world war ii leading the team"
+    } ]
+  }, {
+    "tStartMs": 1854640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "at Bletchley Park that built real calculating \nmachines to crack nazi codes for the allies"
+    } ]
+  }, {
+    "tStartMs": 1859680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "by one estimate the intelligence Turing and \nhis colleagues gathered from decrypted messages"
+    } ]
+  }, {
+    "tStartMs": 1864400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "shortened the war by two to four years after \nthe war Turing and John von Neumann designed"
+    } ]
+  }, {
+    "tStartMs": 1870560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the first true programmable electronic \ncomputer eniac based on touring's designs"
+    } ]
+  }, {
+    "tStartMs": 1876640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but Turing didn't live to see \nhis ideas develop much further"
+    } ]
+  }, {
+    "tStartMs": 1880480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "in 1952 the british government convicted him of \ngross indecency upon learning he was gay he was"
+    } ]
+  }, {
+    "tStartMs": 1886560,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "stripped of his security clearance and forced \nto take hormones in 1954 he committed suicide"
+    } ]
+  }, {
+    "tStartMs": 1896320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "touring changed the world he is widely \nconsidered to be the most important founding"
+    } ]
+  }, {
+    "tStartMs": 1901120,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "figure in computer science all modern \ncomputers are descended from his designs"
+    } ]
+  }, {
+    "tStartMs": 1906960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "but touring's ideas about computability \ncame from his concept of the Turing machine"
+    } ]
+  }, {
+    "tStartMs": 1912080,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "which came from thinking about Hilbert's question \nis math decidable so touring's code breaking"
+    } ]
+  }, {
+    "tStartMs": 1918400,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "machines and indeed all modern computers stem from \nthe weird paradoxes that arise from self-reference"
+    } ]
+  }, {
+    "tStartMs": 1927840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "there is a hole at the bottom of math a hole that \nmeans we will never know everything with certainty"
+    } ]
+  }, {
+    "tStartMs": 1934400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "there will always be true \nstatements that cannot be proven"
+    } ]
+  }, {
+    "tStartMs": 1938640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and you might think this realization \nwould have driven mathematicians mad"
+    } ]
+  }, {
+    "tStartMs": 1942000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and led to the disintegration of the entire \nmathematical enterprise but instead thinking"
+    } ]
+  }, {
+    "tStartMs": 1947600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "about this problem transformed the concept \nof infinity changed the course of a world war"
+    } ]
+  }, {
+    "tStartMs": 1953760,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "and led directly to the invention of the \ndevice you're watching this on right now"
+    } ]
+  }, {
+    "tStartMs": 1967200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "hey this video was sponsored by brilliant a \nwebsite full of interactive courses and quizzes"
+    } ]
+  }, {
+    "tStartMs": 1971760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "that delve deep into topics like math physics and \ncomputer science now if you've gotten this far"
+    } ]
+  }, {
+    "tStartMs": 1977040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "into this video you're likely someone who would \nlove brilliant i've been going through their"
+    } ]
+  }, {
+    "tStartMs": 1981680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "logic course and it's really got me thinking \nthe problems start out easy but get more and"
+    } ]
+  }, {
+    "tStartMs": 1987440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "more challenging as you develop your understanding \nand that's what i love about the site i love how"
+    } ]
+  }, {
+    "tStartMs": 1992160,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "it guides you not by telling you exactly but by \nexposing you to increasingly sophisticated puzzles"
+    } ]
+  }, {
+    "tStartMs": 1998000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and at the end i feel like i've worked it out \nfor myself which essentially i have through"
+    } ]
+  }, {
+    "tStartMs": 2002480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "their carefully curated selection of problems \nand with helpful hints and explanations for"
+    } ]
+  }, {
+    "tStartMs": 2006960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "when i get stuck now there were a lot of things \ni wanted to include in this video but couldn't"
+    } ]
+  }, {
+    "tStartMs": 2012160,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "because it's already over half an hour long so if \nyou want to explore these ideas further i'd highly"
+    } ]
+  }, {
+    "tStartMs": 2018080,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "recommend their courses on number theory and \ncomputer science fundamentals for viewers of this"
+    } ]
+  }, {
+    "tStartMs": 2023200,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "channel brilliant are offering 20 off an annual \nsubscription to the first 200 people to sign up"
+    } ]
+  }, {
+    "tStartMs": 2028720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "just go to brilliant.org veritasium and i \nwill put that link down in the description"
+    } ]
+  }, {
+    "tStartMs": 2034480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "so i want to thank brilliant for sponsoring \nveritasium and i want to thank you for watching"
+    } ]
+  } ]
+}

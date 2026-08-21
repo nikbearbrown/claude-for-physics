@@ -1,0 +1,1207 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Hey everyone, we have brand new product at the \nmerch store. More info at the end of the episode."
+    } ]
+  }, {
+    "tStartMs": 5520,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "The holy grail of theoretical physics \nis to find the long-sought theory of  "
+    } ]
+  }, {
+    "tStartMs": 9880,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "quantum gravity. But what if this \ntheory is as mythical as the grail  "
+    } ]
+  }, {
+    "tStartMs": 15400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of legend? What if gravity isn’t weirdly \nquantum at all, but rather … just a bit  "
+    } ]
+  }, {
+    "tStartMs": 20760,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "messy? Or random? So says the postquantum \ngravity hypothesis of Jonathan Oppenheim."
+    } ]
+  }, {
+    "tStartMs": 34560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "We have two great theories in physics that \ntogether appear to explain almost everything.  "
+    } ]
+  }, {
+    "tStartMs": 39800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "There’s general relativity–the theory of space \nand time and gravity and the largest scales of  "
+    } ]
+  }, {
+    "tStartMs": 44440,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the universe. And there's quantum mechanics–the \ntheory of atoms, matter, and the smallest scales.  "
+    } ]
+  }, {
+    "tStartMs": 50280,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "These theories are each verified to astonishing \nprecision, and yet seem to contradict each other  "
+    } ]
+  }, {
+    "tStartMs": 56160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "at the most fundamental level. We’ve talked about \nthese conflicts in the past, and the efforts to  "
+    } ]
+  }, {
+    "tStartMs": 61520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "resolve them by unifying quantum mechanics \nand general relativity into a single theory."
+    } ]
+  }, {
+    "tStartMs": 67040,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "We usually think of this master theory as “quantum \ngravity”, but that name hides an assumption:  "
+    } ]
+  }, {
+    "tStartMs": 73520,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "the assumption that the solution is to “quantize \ngravity” in order to work correctly alongside  "
+    } ]
+  }, {
+    "tStartMs": 80520,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "quantum mechanics. But after nearly 100 years \nof very smart people thinking about this,  "
+    } ]
+  }, {
+    "tStartMs": 87120,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "we still don’t know how to make gravity quantum. \nWell, what if we’ve been going about it wrong  "
+    } ]
+  }, {
+    "tStartMs": 94040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "all along? What if gravity simply isn’t quantum? \nToday we will ask whether it’s possible to come  "
+    } ]
+  }, {
+    "tStartMs": 100200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "up with classical theory of gravity which is \ncompatible with all the weirdness of quantum  "
+    } ]
+  }, {
+    "tStartMs": 105480,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "mechanics? According to physicist Jonathan \nOppenheim, the answer is basically yes,  "
+    } ]
+  }, {
+    "tStartMs": 112560,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "but some additional weirdness must be added to \ngravity and its interactions: it must be random."
+    } ]
+  }, {
+    "tStartMs": 121160,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Before we get into the type of “randomness” \ngravity needs to make such a theory work,  "
+    } ]
+  }, {
+    "tStartMs": 125920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "let’s discuss what happens when one naively \ntries to couple classical gravity as we  "
+    } ]
+  }, {
+    "tStartMs": 131600,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "know it to quantum theory. Our starting point is \nEinstein’s famous equations of general relativity."
+    } ]
+  }, {
+    "tStartMs": 138960,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Here we have the Einstein field equations. We have\nthe Einstein tensor, which describes the  "
+    } ]
+  }, {
+    "tStartMs": 144720,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "geometry of spacetime, equalling a bunch of \nconstants times the stress-energy tensor,  "
+    } ]
+  }, {
+    "tStartMs": 151320,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "which describes the matter and energy \ninside that spacetime. By the way,  "
+    } ]
+  }, {
+    "tStartMs": 156600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the Einstein field equations are pluralized \nbecause these tensors are multi-part objects–it’s  "
+    } ]
+  }, {
+    "tStartMs": 161960,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "really a set of 10 partial differential \nequations. But despite the name it’s ok  "
+    } ]
+  }, {
+    "tStartMs": 166480,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "to think of it as a single equation–it equates \nthe geometry of spacetime with its contents. As  "
+    } ]
+  }, {
+    "tStartMs": 173480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "John Archibald Wheeler put it, space tells \nmatter how to move, matter tells space how  "
+    } ]
+  }, {
+    "tStartMs": 178680,
+    "dDurationMs": 749,
+    "segs": [ {
+      "utf8": "to curve. In other words, the right side \ndefines the dynamics–how matter will move,  "
+    } ]
+  }, {
+    "tStartMs": 179429,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "while the left is the mass-energy that gets moved. \nSo let's just call it the Einstein equation."
+    } ]
+  }, {
+    "tStartMs": 183240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "The Einstein equation is a classical \nequation. Despite being complicated,  "
+    } ]
+  }, {
+    "tStartMs": 187880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "its parts are regular numbers and vectors–for \nexample, the stress-energy tensor has things  "
+    } ]
+  }, {
+    "tStartMs": 193560,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "like momenta, energy, and mass of objects \nin the universe, while the Einstein tensor  "
+    } ]
+  }, {
+    "tStartMs": 200240,
+    "dDurationMs": 7880,
+    "segs": [ {
+      "utf8": "describes a smoothly varying field with a \nwell-define and singular value everywhere."
+    } ]
+  }, {
+    "tStartMs": 208120,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "The Einstein equation of general relativity \ndescribes spacetime and gravity, while the rest  "
+    } ]
+  }, {
+    "tStartMs": 212760,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "of physics is described by quantum mechanics and \nthe Schrodinger equation. The Schrodinger equation  "
+    } ]
+  }, {
+    "tStartMs": 219760,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "is distinctly not classical–it does not describe \nprecise properties of objects but rather tracks  "
+    } ]
+  }, {
+    "tStartMs": 226560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the evolution of the wavefunction–the \nfuzzy distribution of probabilities,  "
+    } ]
+  }, {
+    "tStartMs": 231120,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "representing what might be observed when a \nmeasurement is made. Its subjects–systems of  "
+    } ]
+  }, {
+    "tStartMs": 237600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "quantum particles and quantum fields–are \nquantized, in that they tend to jump  "
+    } ]
+  }, {
+    "tStartMs": 242560,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "between discrete states rather than move or vary \nsmoothly like a classical object or field would."
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "We tend to think that our classical, macroscopic \nworld arises as the combination of countless  "
+    } ]
+  }, {
+    "tStartMs": 256760,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "quantum interactions–we’d say that classical \nbehavior is a statistical limit of large numbers  "
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "of quantum interactions. In that spirit, many \nphysicists believe the general relativity and  "
+    } ]
+  }, {
+    "tStartMs": 270480,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "the Einstein equation are not fundamental, \nbut rather emerge from quantum foundations."
+    } ]
+  }, {
+    "tStartMs": 278160,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "And that's understandable, because we do know that \nmatter and energy are fundamentally quantum. There  "
+    } ]
+  }, {
+    "tStartMs": 284120,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "must be quantum fields and quantum particles that \nsomehow work together to produce the classical  "
+    } ]
+  }, {
+    "tStartMs": 291200,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "stress-energy tensor. Those quantum entities \ndo all the weird quantum stuff, like existing  "
+    } ]
+  }, {
+    "tStartMs": 298320,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "in superpositions of being in multiple states \nat once and having discrete energy levels."
+    } ]
+  }, {
+    "tStartMs": 303200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So the classical stress-energy tensor on the \nright of the Einstein equation should emerge  "
+    } ]
+  }, {
+    "tStartMs": 308160,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "from some quantum analog. Standard approaches to \nunifying quantum mechanics and general relativity  "
+    } ]
+  }, {
+    "tStartMs": 314200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "have been to try to make the left side of \nthe equation quantum also–effectively to  "
+    } ]
+  }, {
+    "tStartMs": 319560,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "find a quantum version of the Einstein tensor \nrepresenting a quantum spacetime geometry. But  "
+    } ]
+  }, {
+    "tStartMs": 326920,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "our long difficulties in making that work is \nwhat led Jonathan Oppenheim to ask–what if  "
+    } ]
+  }, {
+    "tStartMs": 333640,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "only the right side of the Einstein equation \nis quantum but not the left? What if matter  "
+    } ]
+  }, {
+    "tStartMs": 338800,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "and energy can be quantum, but the spacetime \nthey live in really is fundamentally classical?"
+    } ]
+  }, {
+    "tStartMs": 345840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The challenge here is that both sides of \nthe Einstein equation have to be the same  "
+    } ]
+  }, {
+    "tStartMs": 349840,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "type of mathematical object. So if the spacetime \nrepresented by the Einstein tensor is classical,  "
+    } ]
+  }, {
+    "tStartMs": 357160,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "then we should probably understand how a \nclassical distribution of mass and energy  "
+    } ]
+  }, {
+    "tStartMs": 362720,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "defined by a classical stress-energy \ntensor can arise from quantum parts."
+    } ]
+  }, {
+    "tStartMs": 368520,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Take the Earth for example. Each of its \ncountless atoms has a bit of quantum  "
+    } ]
+  }, {
+    "tStartMs": 373600,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "uncertainty in its position. Each atom is \nin a superposition of multiple places at  "
+    } ]
+  }, {
+    "tStartMs": 379800,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "once until measured. If you were to \nmeasure one atom, its location would  "
+    } ]
+  }, {
+    "tStartMs": 384560,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "resolve randomly within a small range \ndefined by the uncertainty principle.  "
+    } ]
+  }, {
+    "tStartMs": 390440,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "But each different possible location for that one \natom gives a different stress-energy tensor for  "
+    } ]
+  }, {
+    "tStartMs": 397480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "that atom, and so a different spacetime geometry \ndue to the gravitational field of that atom."
+    } ]
+  }, {
+    "tStartMs": 404200,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "So what if you try to measure the position of \nthe entire Earth by finding its center of mass?  "
+    } ]
+  }, {
+    "tStartMs": 410520,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Think of that as measuring the position \nof every single atom in unison. If those  "
+    } ]
+  }, {
+    "tStartMs": 416560,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "positions all get defined randomly, then any \nsignificant variations cancel out. It’s like  "
+    } ]
+  }, {
+    "tStartMs": 422920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "flipping a coin a kajillion times–you tend \ntowards roughly end up with equal numbers  "
+    } ]
+  }, {
+    "tStartMs": 428320,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "of heads versus tails. In the same way, each \ntime you measure the center of mass of the  "
+    } ]
+  }, {
+    "tStartMs": 433320,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Earth you’ll get the same position–accounting \nfor its own movement of course. You find the  "
+    } ]
+  }, {
+    "tStartMs": 439960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "same stress-energy tensor and so the \nsame gravitational field each time you  "
+    } ]
+  }, {
+    "tStartMs": 445160,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "look. This is why the stress-energy tensor for \nmacroscopic objects can be treated as classical."
+    } ]
+  }, {
+    "tStartMs": 451920,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "What about describing a classical gravitational \nfield for a truly quantum object? Let's look at  "
+    } ]
+  }, {
+    "tStartMs": 458800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "two options: we can either write down all the \npossible stress-energy tensors for all possible  "
+    } ]
+  }, {
+    "tStartMs": 464320,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "locations of that object. The Einstein equation \ncould then be used to find a whole family of  "
+    } ]
+  }, {
+    "tStartMs": 469680,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "possible gravitational fields for each of \nthose. A superposition of many mass-energy  "
+    } ]
+  }, {
+    "tStartMs": 477360,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "distributions leading to a superposition of \npossible spacetimes. While the superposition  "
+    } ]
+  }, {
+    "tStartMs": 483160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "part of this is a quantum phenomenon, \neach spacetime in the superposition is  "
+    } ]
+  }, {
+    "tStartMs": 487600,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "otherwise classical–for example, its smoothly \nvarying, without discrete, quantized states."
+    } ]
+  }, {
+    "tStartMs": 493960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Alternatively, we could say that \nthere’s just one spacetime which is  "
+    } ]
+  }, {
+    "tStartMs": 497920,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "somehow uniquely defined by the superposition \nof all of those mass-energy distributions. As  "
+    } ]
+  }, {
+    "tStartMs": 503880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "though the effect of matter on the \nfabric of spacetime is determined  "
+    } ]
+  }, {
+    "tStartMs": 507800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "by every possible configuration \nthat quantum matter might be in."
+    } ]
+  }, {
+    "tStartMs": 513320,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "Both of these approaches are problematic. Let’s \nstart with the second one I described–a singular  "
+    } ]
+  }, {
+    "tStartMs": 520080,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "spacetime shaped by the quantum superposition \nof mass and energy that it contains. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "this is historically the most successful approach \nto introducing quantum mechanics into general  "
+    } ]
+  }, {
+    "tStartMs": 531920,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "relativity. It’s called semiclassical gravity, \nand it’s how Stephen Hawking figured out that  "
+    } ]
+  }, {
+    "tStartMs": 538120,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "radiation leaks out of black holes. The idea is \nthat spacetime curvature is defined by something  "
+    } ]
+  }, {
+    "tStartMs": 544600,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "called the expectation value of the stress-energy \ntensor. The expectation value is just the average  "
+    } ]
+  }, {
+    "tStartMs": 551800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "measurement value you would get if you were \nto measure a quantum system multiple times.  "
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 9560,
+    "segs": [ {
+      "utf8": "It better reflects the global wavefunction than \ndoes a single, random measured realization of it."
+    } ]
+  }, {
+    "tStartMs": 566560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "In our example of the Earth, we saw that \nthe location of the center of mass doesn’t  "
+    } ]
+  }, {
+    "tStartMs": 571040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "depend on the quantum uncertainty of \nits component atoms. That’s basically  "
+    } ]
+  }, {
+    "tStartMs": 575880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the same as saying its classical \nstress-energy tensor is equal to  "
+    } ]
+  }, {
+    "tStartMs": 580680,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "the expectation value of the total quantum \nstress-energy tensor of all of its atoms."
+    } ]
+  }, {
+    "tStartMs": 587640,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "But consider a truly quantum object–say, a quantum \nversion of the Earth that really could exist in  "
+    } ]
+  }, {
+    "tStartMs": 594240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "a superposition in which there are two locations \nfor its center of mass. If you were to measure the  "
+    } ]
+  }, {
+    "tStartMs": 600160,
+    "dDurationMs": 9480,
+    "segs": [ {
+      "utf8": "location of the quantum Earth it would resolve \nto, say, left or right. The expectation value  "
+    } ]
+  }, {
+    "tStartMs": 609640,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "of its location prior to measurement would be \nhalfway in between. In semiclassical gravity,  "
+    } ]
+  }, {
+    "tStartMs": 616760,
+    "dDurationMs": 9160,
+    "segs": [ {
+      "utf8": "that in-between location defines the singular \nspacetime geometry and the gravitational field."
+    } ]
+  }, {
+    "tStartMs": 625920,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "In regular classical gravity, objects like apples \nfall towards the center of mass. In semiclassical  "
+    } ]
+  }, {
+    "tStartMs": 633280,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "gravity apples fall towards the expectation \nvalue of the center of mass. In the case of the  "
+    } ]
+  }, {
+    "tStartMs": 639160,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "quantum Earth in superposition it falls halfway \nbetween the two possible locations. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 646400,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "each version of Earth should also fall \ntowards that inbetween point. For those  "
+    } ]
+  }, {
+    "tStartMs": 652520,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "living in one of those superpositions \nunable to see the other superposition,  "
+    } ]
+  }, {
+    "tStartMs": 657880,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "the Earth would appear to be attracted towards \nnothing. Needless to say, this seems odd."
+    } ]
+  }, {
+    "tStartMs": 665600,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Semiclassical gravity was always \nmeant to be an approximation,  "
+    } ]
+  }, {
+    "tStartMs": 670280,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "valid only in specific circumstances. \nBut this thought experiment rules it  "
+    } ]
+  }, {
+    "tStartMs": 675040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "out as a consistent unification of quantum \nmechanics and classical general relativity."
+    } ]
+  }, {
+    "tStartMs": 681360,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "OK, moving right along. The other option I \nmentioned for gravity being classical-ish  "
+    } ]
+  }, {
+    "tStartMs": 687120,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "is for there to be a different classical \nspacetime corresponding to each possible  "
+    } ]
+  }, {
+    "tStartMs": 692720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "mass-energy distribution in our \nquantum stress-energy tensor."
+    } ]
+  }, {
+    "tStartMs": 696800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "If our quantum Earth is in a superposition of \ntwo locations, then instead of having a single,  "
+    } ]
+  }, {
+    "tStartMs": 701600,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "classical spacetime geometry representing the \naverage of the two, we might have a superposition  "
+    } ]
+  }, {
+    "tStartMs": 707840,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "of two spacetime geometries–one for each of the \ntwo mass-energy distributions. In this case,  "
+    } ]
+  }, {
+    "tStartMs": 714880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "our falling apple wouldn’t fall towards \nthe average center of mass. Instead,  "
+    } ]
+  }, {
+    "tStartMs": 719360,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "it would fall to one or the other \npossible locations randomly."
+    } ]
+  }, {
+    "tStartMs": 723720,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "This sounds more promising because now \nwe have apparently random motion under  "
+    } ]
+  }, {
+    "tStartMs": 727840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "gravity that tracks the quantum \nrandomness in the position of the  "
+    } ]
+  }, {
+    "tStartMs": 732080,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "source of that gravity. But there’s \nactually a big problem here also."
+    } ]
+  }, {
+    "tStartMs": 737000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "This time we violate a sacred \ntenet of quantum theory:  "
+    } ]
+  }, {
+    "tStartMs": 740880,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "Heisenberg's uncertainty principle. The \nargument is due to Feynman, Aharonov,  "
+    } ]
+  }, {
+    "tStartMs": 747160,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and Rohrlich, and in somewhat \nsimplified form goes like this."
+    } ]
+  }, {
+    "tStartMs": 753080,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "We run our good-ol’ fashioned double slit experiment. A \nbeam of quantum particles is shot at a pair of  "
+    } ]
+  }, {
+    "tStartMs": 759040,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "slits. The quantum properties of the matter allow \neach particle to be in a superposition of paths,  "
+    } ]
+  }, {
+    "tStartMs": 764960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "passing through “both” slits at the same time. \nThe wavefunctions of the particles interfere  "
+    } ]
+  }, {
+    "tStartMs": 769840,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "with themselves and produce an interference \npattern on the screen placed after the slits.  "
+    } ]
+  }, {
+    "tStartMs": 776120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The shape of the interference pattern tells us \nthe wavelength of the particle’s wavefunction,  "
+    } ]
+  }, {
+    "tStartMs": 781880,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "which is equivalent to knowing it’s momentum. \nBut according to Heisenberg's uncertainty  "
+    } ]
+  }, {
+    "tStartMs": 786720,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "principle this means one shouldn’t be able \nto determine the particle position. So if  "
+    } ]
+  }, {
+    "tStartMs": 793120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "we measure the interference pattern we can’t \nknow which slit the particle went through."
+    } ]
+  }, {
+    "tStartMs": 798160,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But what if we try to cheat by placing a test \nmass betweenf the slits. When our quantum  "
+    } ]
+  }, {
+    "tStartMs": 803440,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "particle passes through one or the other of the \nslits then it will exert a stronger gravitational  "
+    } ]
+  }, {
+    "tStartMs": 808280,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "pull on the test mass compared towards \nthat slit. So the response of the test  "
+    } ]
+  }, {
+    "tStartMs": 814400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "mass should identify which slit was traversed \nwithout disturbing the interference pattern,  "
+    } ]
+  }, {
+    "tStartMs": 819880,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "allowing us to simultaneously \nmeasure both position and momentum."
+    } ]
+  }, {
+    "tStartMs": 825520,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "This method of cheating Heisenberg only works \nif the gravitational field of the particle is  "
+    } ]
+  }, {
+    "tStartMs": 832640,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "localized and classical–i.e. the field really \ndoes pass through one slit or the other.  "
+    } ]
+  }, {
+    "tStartMs": 839160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "This has been taken as a solid argument \nfor why gravity can’t be truly classical,  "
+    } ]
+  }, {
+    "tStartMs": 844560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "even if it’s allowed to be in superposition."
+    } ]
+  }, {
+    "tStartMs": 847840,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "So far so bad. We found that a singular, \nclassical spacetime geometry that depends  "
+    } ]
+  }, {
+    "tStartMs": 854120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "on the collective quantum state of \nits contents doesn’t behave sensibly  "
+    } ]
+  }, {
+    "tStartMs": 858680,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "for quantum superpositions of matter. But an \notherwise-classical spacetime geometry that  "
+    } ]
+  }, {
+    "tStartMs": 865320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "is in superpostion along with the \nsuperposition of its contents will  "
+    } ]
+  }, {
+    "tStartMs": 869200,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "betray information about its contents in a \nway that violates the uncertainty principle."
+    } ]
+  }, {
+    "tStartMs": 875640,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "But there is a way to have a singular, \nclassical spacetime that allows its quantum  "
+    } ]
+  }, {
+    "tStartMs": 880320,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "contents to still behave like quantum \nobjects. The trick is to add … noise.  "
+    } ]
+  }, {
+    "tStartMs": 887640,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "To add a type of randomness to gravity \nitself. In Jonathan Oppenheim’s theory,  "
+    } ]
+  }, {
+    "tStartMs": 894040,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "which he calls post-quantum gravity–we still \nhave a singular spacetime–one gravitational  "
+    } ]
+  }, {
+    "tStartMs": 899960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "field–but now it fluctuates randomly \nat every point. And the distribution of  "
+    } ]
+  }, {
+    "tStartMs": 905400,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "values of those fluctuations reflects the quantum \nsuperposition of the matter generating the field."
+    } ]
+  }, {
+    "tStartMs": 912480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Another way to think of it is like \nthis. In regular general relativity,  "
+    } ]
+  }, {
+    "tStartMs": 916160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "when two objects interact gravitationally, they \nsort of learn each other’s location based on the  "
+    } ]
+  }, {
+    "tStartMs": 921760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "direction of the gravitational field. It’s that \nperfect learning of position that can violate  "
+    } ]
+  }, {
+    "tStartMs": 927680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the uncertainty principle. But in post-quantum \ngravity, gravitationally interacting objects  "
+    } ]
+  }, {
+    "tStartMs": 933920,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "don’t “learn” precise positions, but rather \na probabilistic distribution of the possible  "
+    } ]
+  }, {
+    "tStartMs": 939800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "positions that depend on the position \nwavefunction of the sources of gravity."
+    } ]
+  }, {
+    "tStartMs": 946760,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Let’s see how this works with the example \nof quantum Earth in superposition. The apple  "
+    } ]
+  }, {
+    "tStartMs": 953000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "starts falling generally towards the Earth, but \ndue to the fluctuations in the gravitational  "
+    } ]
+  }, {
+    "tStartMs": 957600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "field you can’t at first tell whether it’s \nfalling more left or more right. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 962560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "those fluctuations cause the falling \napple to take a sort of random walk,  "
+    } ]
+  }, {
+    "tStartMs": 966600,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "sometimes drawn more to the left \nsuperposition, sometimes more to the right."
+    } ]
+  }, {
+    "tStartMs": 970360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Let's see what the Earth is doing as the \napple falls? Well, in Oppenheim’s theory,  "
+    } ]
+  }, {
+    "tStartMs": 975720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "there’s feedback between the noisiness of the \ngravitational field and the quantum matter that  "
+    } ]
+  }, {
+    "tStartMs": 980600,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "generates that field. So the quantum matter of \nthe Earth gets its own random fluctuations. These  "
+    } ]
+  }, {
+    "tStartMs": 986360,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "fluctuations slowly destroy the superposition–they \ncause decoherence–basically, they collapse the  "
+    } ]
+  }, {
+    "tStartMs": 993800,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "wavefunction of the quantum Earth. This causes \nthe Earth to end up at a single location. In a  "
+    } ]
+  }, {
+    "tStartMs": 1000240,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "sense, with every interaction between the \napple and the Earth’s gravitational field,  "
+    } ]
+  }, {
+    "tStartMs": 1004760,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "the apple conducts a very gentle \nmeasurement of the Earth’s position."
+    } ]
+  }, {
+    "tStartMs": 1010160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "The strength of these measurements increases as \nthe apple gets closer to the Earth. Over the fall,  "
+    } ]
+  }, {
+    "tStartMs": 1016240,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Earth and apple become correlated, and the Earth’s \nposition becomes defined. If the apple fell more  "
+    } ]
+  }, {
+    "tStartMs": 1023320,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "to the left, that’s where the Earth’s center of \nmass will end up, if the the right, the right."
+    } ]
+  }, {
+    "tStartMs": 1029960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "This fundamental randomness also resolves the \nissue with the uncertainty principle when we  "
+    } ]
+  }, {
+    "tStartMs": 1034240,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "tried to use gravity to measure the path in the \ndouble-slit experiment. If the gravitational field  "
+    } ]
+  }, {
+    "tStartMs": 1039560,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "of the particles in the beam are noisy, and that \nnoisiness reflects the superposition of traveling  "
+    } ]
+  }, {
+    "tStartMs": 1041360,
+    "dDurationMs": 11920,
+    "segs": [ {
+      "utf8": "through both paths, then we can no longer use that \nfield to perfectly identify which path was taken."
+    } ]
+  }, {
+    "tStartMs": 1053280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Perhaps the most radical aspect of \nOppenheim’s idea is that it throws  "
+    } ]
+  }, {
+    "tStartMs": 1058480,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "away determinism. It requires that this noise \nin the gravitational field is truly random.  "
+    } ]
+  }, {
+    "tStartMs": 1066120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "And perhaps the most radical consequence of \nthat is that it allows for the destruction  "
+    } ]
+  }, {
+    "tStartMs": 1071400,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "of quantum information. Conservation of \nquantum information is thought by many to  "
+    } ]
+  }, {
+    "tStartMs": 1076720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "be among the most fundamental underpinnings \nof quantum mechanics–that without it quantum  "
+    } ]
+  }, {
+    "tStartMs": 1082040,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "mechanics is inconsistent. At the same time, \ninsisting on the preservation of information  "
+    } ]
+  }, {
+    "tStartMs": 1088600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "led to various challenges, like the black \nhole information paradox. If you allow  "
+    } ]
+  }, {
+    "tStartMs": 1093400,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "quantum information to be destroyed by random \nfluctuations, then no such paradox exists."
+    } ]
+  }, {
+    "tStartMs": 1100240,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "So, it seems Oppenheim’s theory can describe \nin a consistent way how classical spacetime  "
+    } ]
+  }, {
+    "tStartMs": 1106560,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "evolves with superpositions of quantum matter, \nand also how quantum matter itself evolves under  "
+    } ]
+  }, {
+    "tStartMs": 1113320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "the interaction with a classical spacetime. \nPost-quantum gravity isn’t likely to be our  "
+    } ]
+  }, {
+    "tStartMs": 1119480,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "final theory, and it may or may not be on the \nright track. But it’s very interesting to see  "
+    } ]
+  }, {
+    "tStartMs": 1125120,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "that there are still new directions to solving \nthis century-old problem. It give us hope that  "
+    } ]
+  }, {
+    "tStartMs": 1130440,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "we’ll eventually unify our two great theories. \nWill it be quantum or post-quantum gravity?  "
+    } ]
+  }, {
+    "tStartMs": 1137600,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "As long as we figure it out, I’m cool living \nin either a quantized or a random spacetime."
+    } ]
+  }, {
+    "tStartMs": 1144840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Hey Everyone. Just a couple things before we \ngo. We wanted to let you know that we have our  "
+    } ]
+  }, {
+    "tStartMs": 1149400,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "first ever limited edition Desktop \u0026 Gaming \nMat. Because gaming or simply working on your  "
+    } ]
+  }, {
+    "tStartMs": 1155920,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "computer can feel like getting sucked into a \nwormold, this 90cm x 45cm features a wormhole  "
+    } ]
+  }, {
+    "tStartMs": 1164480,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "design. It has an anti-slip design so that \nwhen you’re playing spreadsheets in space,  "
+    } ]
+  }, {
+    "tStartMs": 1171120,
+    "dDurationMs": 27520,
+    "segs": [ {
+      "utf8": "I mean Eve Online, you’ll never miss a \nkeystroke. There’s a link in the description."
+    } ]
+  } ]
+}

@@ -1,0 +1,229 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1069,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "Light bulbs used to be simple: just run a bunch of electrical current through a thin wire"
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "until it heats up enough to start glowing."
+    } ]
+  }, {
+    "tStartMs": 7280,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Bare filament electric lamps were first demonstrated around 1800 by Humphry Davy,"
+    } ]
+  }, {
+    "tStartMs": 11620,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and the glass bulb was added later to keep oxygen away from the wire"
+    } ]
+  }, {
+    "tStartMs": 14450,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "so it could glow for a long time without actually burning up."
+    } ]
+  }, {
+    "tStartMs": 17990,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "So the incandescent light bulb is 19th-century technology,"
+    } ]
+  }, {
+    "tStartMs": 21420,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and by now there's now a blinding array of electric lamps:"
+    } ]
+  }, {
+    "tStartMs": 24020,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "halogen light bulbs, fluorescents, mercury and sodium vapor lamps, LEDs, lasers and so on."
+    } ]
+  }, {
+    "tStartMs": 28440,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Each one makes its own clever use of physics to achieve the life goal of a light bulb:"
+    } ]
+  }, {
+    "tStartMs": 32420,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "converting electrical current into visible light."
+    } ]
+  }, {
+    "tStartMs": 35060,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Here's how they work."
+    } ]
+  }, {
+    "tStartMs": 37280,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Halogen bulbs have the same tungsten metal filament as typical incandescent light bulbs,"
+    } ]
+  }, {
+    "tStartMs": 41860,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "but they contain a little bit of a halogen-based gas in the bulb as well."
+    } ]
+  }, {
+    "tStartMs": 45520,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "The chemistry of the halogen gas allows it to capture stray tungsten atoms that evaporate off the filament"
+    } ]
+  }, {
+    "tStartMs": 50629,
+    "dDurationMs": 2151,
+    "segs": [ {
+      "utf8": "and shepherd them back to where they belong,"
+    } ]
+  }, {
+    "tStartMs": 52780,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "which both prolongs the life of the filament as well as keeps the inside of the bulb clean and clear."
+    } ]
+  }, {
+    "tStartMs": 59080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Fluorescent bulbs are basically gas-filled tubes with electrodes at both ends."
+    } ]
+  }, {
+    "tStartMs": 63240,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Electrical current flows from one electrode to the other,"
+    } ]
+  }, {
+    "tStartMs": 65660,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "and when the electrons that make up the current bump into mercury atoms in the gas,"
+    } ]
+  }, {
+    "tStartMs": 69440,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "the energy of the collision makes the atoms get \"excited\"—that's the technical term"
+    } ]
+  }, {
+    "tStartMs": 73300,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "—and the atoms then emit visible and ultraviolet light."
+    } ]
+  }, {
+    "tStartMs": 76080,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "The white coating on the inside of the glass absorbs the ultraviolet light and re-emits it as more visible light"
+    } ]
+  }, {
+    "tStartMs": 81300,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "—this process is called \"fluorescence\" and is the namesake of the bulbs."
+    } ]
+  }, {
+    "tStartMs": 85080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Because the coating stops the UV light, it also keeps the bulbs from giving you cancer..."
+    } ]
+  }, {
+    "tStartMs": 89400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "unless that's what you want, in which case you can use a tanning bulb with a different kind of coating."
+    } ]
+  }, {
+    "tStartMs": 94860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Sodium, mercury, and metal-halide vapor lamps, which are commonly used for lighting streets,"
+    } ]
+  }, {
+    "tStartMs": 99060,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "warehouses, gymnasiums, and other large areas, are also tubes that run electrical current through a gas."
+    } ]
+  }, {
+    "tStartMs": 104340,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "The gas itself emits mainly visible light so these bulbs don't need a fluorescent coating."
+    } ]
+  }, {
+    "tStartMs": 110900,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Finally, LEDs are also like fluorescent light bulbs,"
+    } ]
+  }, {
+    "tStartMs": 114000,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "except replace the gas with a tiny crystal of semiconducting gallium, and throw away the bulb"
+    } ]
+  }, {
+    "tStartMs": 118640,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "—so not like fluorescent bulbs."
+    } ]
+  }, {
+    "tStartMs": 120820,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "But seriously, the semiconductor has two layers, one of which provides excited electrons with lots of energy,"
+    } ]
+  }, {
+    "tStartMs": 125680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "while the other provides a place for the electrons to go and relax"
+    } ]
+  }, {
+    "tStartMs": 128880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "—and that *is* the technical term."
+    } ]
+  }, {
+    "tStartMs": 130560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "All you need is an electrical current to transport electrons from the party side to the spa side"
+    } ]
+  }, {
+    "tStartMs": 134960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "where they release the energy of their excitement as light."
+    } ]
+  } ]
+}

@@ -1,0 +1,1891 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "This is a tiny piece of metal \njust three millimeters across."
+    } ]
+  }, {
+    "tStartMs": 3720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And here's what happens if \nyou just keep zooming in:"
+    } ]
+  }, {
+    "tStartMs": 7200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "1,000 times,"
+    } ]
+  }, {
+    "tStartMs": 9920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "100,000 times,"
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "50 million times."
+    } ]
+  }, {
+    "tStartMs": 14480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Each of these blobs is an actual atom."
+    } ]
+  }, {
+    "tStartMs": 18520,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I saw this the other day at \nthe University of Sydney,"
+    } ]
+  }, {
+    "tStartMs": 20640,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and it kind of blew my mind \nbecause up until just 30 years ago,  "
+    } ]
+  }, {
+    "tStartMs": 24680,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "directly seeing atoms like this \nwas thought to be impossible."
+    } ]
+  }, {
+    "tStartMs": 29240,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "The rooms that you're going to see here are \nperhaps the most shielded rooms on campus,"
+    } ]
+  }, {
+    "tStartMs": 34960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "or even in the whole of Sydney, I would say."
+    } ]
+  }, {
+    "tStartMs": 37480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And perhaps also the most expensive."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That's wild."
+    } ]
+  }, {
+    "tStartMs": 41920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So why is it so hard to see atoms?"
+    } ]
+  }, {
+    "tStartMs": 45600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Well, you can't actually see \natoms with visible light."
+    } ]
+  }, {
+    "tStartMs": 48200,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "That's because while light has wavelengths \nbetween 380 and 750 nanometers,"
+    } ]
+  }, {
+    "tStartMs": 52560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "an atom is still over 3000 times \nsmaller, just 0.1 nanometers."
+    } ]
+  }, {
+    "tStartMs": 57880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And if the wavelength of light is much \nbigger than the thing you're trying to see,"
+    } ]
+  }, {
+    "tStartMs": 60920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the light will just diffract or bend \naround it so you won't be able to see it."
+    } ]
+  }, {
+    "tStartMs": 66360,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So if you want to see atoms, you need \nsomething with a much, much smaller wavelength."
+    } ]
+  }, {
+    "tStartMs": 71440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "The best candidate isn't even light."
+    } ]
+  }, {
+    "tStartMs": 74920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "It's electrons."
+    } ]
+  }, {
+    "tStartMs": 77760,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "In 1924, a French physicist named Louis de Broglie \nworked out that everything was sort of wavelike."
+    } ]
+  }, {
+    "tStartMs": 84440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not just light, but matter too."
+    } ]
+  }, {
+    "tStartMs": 86440,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Atoms, molecules, even you \nyourself have a wavelength."
+    } ]
+  }, {
+    "tStartMs": 90400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And the formula for this \nwavelength is Planck's constant,  "
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "divided by the object's momentum, \nthat is, mass times velocity."
+    } ]
+  }, {
+    "tStartMs": 97960,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "So here what you actually see,  "
+    } ]
+  }, {
+    "tStartMs": 99320,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "that's the column of the microscope where \nwe accelerate the 300 kV electrons down."
+    } ]
+  }, {
+    "tStartMs": 104160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "300 kilovolts, these electrons?"
+    } ]
+  }, {
+    "tStartMs": 106560,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So they are relativistic particles."
+    } ]
+  }, {
+    "tStartMs": 109462,
+    "dDurationMs": 2153,
+    "segs": [ {
+      "utf8": "How fast are they moving? \n99% of the speed of light?"
+    } ]
+  }, {
+    "tStartMs": 111615,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Around 80.\n80% the speed of light?"
+    } ]
+  }, {
+    "tStartMs": 114555,
+    "dDurationMs": 1805,
+    "segs": [ {
+      "utf8": "Yeah.\nSo what would be their wavelength?"
+    } ]
+  }, {
+    "tStartMs": 116360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The wavelength is the Planck \nconstant over the momentum, right?"
+    } ]
+  }, {
+    "tStartMs": 119240,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So if we calculate that, we come to \naround between 2 to 3 picometers."
+    } ]
+  }, {
+    "tStartMs": 124280,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Whoa!"
+    } ]
+  }, {
+    "tStartMs": 125360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "That's over 100,000 times \nsmaller than visible light."
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "So theoretically, you get \n100,000 times more resolution."
+    } ]
+  }, {
+    "tStartMs": 133640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Shortly after de Broglie's discovery, a \ngroup of scientists in Germany started  "
+    } ]
+  }, {
+    "tStartMs": 137320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "working on a microscope that would \nuse these high-speed electrons."
+    } ]
+  }, {
+    "tStartMs": 141600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The only problem is you can't \nbend electrons using glass lenses."
+    } ]
+  }, {
+    "tStartMs": 145840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So how do you focus them?"
+    } ]
+  }, {
+    "tStartMs": 148720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Hans Busch, a German physicist, suggested that \nan electromagnetic lens might do the trick."
+    } ]
+  }, {
+    "tStartMs": 153880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "He published his results in 1926, \nbut never actually built one."
+    } ]
+  }, {
+    "tStartMs": 158920,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Fortunately, a copy of his paper fell into the \nhands of an eager young PhD student, Ernst Ruska."
+    } ]
+  }, {
+    "tStartMs": 166120,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Ruska built his first prototype by coiling up  "
+    } ]
+  }, {
+    "tStartMs": 168320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "some wire and surrounding it with iron — \ntaking care to leave a gap in the middle."
+    } ]
+  }, {
+    "tStartMs": 173040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Then, when he passed a current through the coil,  "
+    } ]
+  }, {
+    "tStartMs": 175160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "it induced a donut-shaped magnetic field \nthrough the metal and across this gap."
+    } ]
+  }, {
+    "tStartMs": 179600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "This was his lens."
+    } ]
+  }, {
+    "tStartMs": 182400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "To test it, Ruska first boiled \nelectrons off a tungsten filament,  "
+    } ]
+  }, {
+    "tStartMs": 186040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the same kind of filament you'd \nfind in an incandescent light bulb."
+    } ]
+  }, {
+    "tStartMs": 189640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He accelerated these free electrons through a  "
+    } ]
+  }, {
+    "tStartMs": 191640,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "positively charged anode down \nto his electromagnetic lens."
+    } ]
+  }, {
+    "tStartMs": 195920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "As an electron approaches the lens, the \nmagnetic field exerts a force on it."
+    } ]
+  }, {
+    "tStartMs": 200080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So if an electron is traveling in the y direction \nand the magnetic fields are in the x direction,"
+    } ]
+  }, {
+    "tStartMs": 204760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "this force, called the Lorentz \nforce, pushes it in the z direction."
+    } ]
+  }, {
+    "tStartMs": 208840,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "But as the electron moves this way, it encounters \nother magnetic field lines along the donut shape,"
+    } ]
+  }, {
+    "tStartMs": 214080,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "which constantly point its motion in a circle."
+    } ]
+  }, {
+    "tStartMs": 217240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But then this circular motion means \nthe Lorentz force starts pushing the  "
+    } ]
+  }, {
+    "tStartMs": 220560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "electron inwards as well, spiraling \nit into the center of the lens."
+    } ]
+  }, {
+    "tStartMs": 225440,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Now, if you trace the path of \nthe whole beam of electrons,  "
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "you'll see they all get steered \ninto the center, focusing the beam."
+    } ]
+  }, {
+    "tStartMs": 234880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "By 1931, Ruska and his colleague,\nMax Knoll, used this kind of design  "
+    } ]
+  }, {
+    "tStartMs": 239840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "to build the first working electron microscope."
+    } ]
+  }, {
+    "tStartMs": 242680,
+    "dDurationMs": 7960,
+    "segs": [ {
+      "utf8": "It was pretty basic, made of brass \nroughly bolted together, but it worked."
+    } ]
+  }, {
+    "tStartMs": 250640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "The image itself was created once the focused  "
+    } ]
+  }, {
+    "tStartMs": 252960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "electron beam hit a sample \nsitting at the focal point."
+    } ]
+  }, {
+    "tStartMs": 255880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The sample needed to be incredibly \nthin, only around 100 nanometers thick."
+    } ]
+  }, {
+    "tStartMs": 260320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "More electrons would make it through \nthe thinner parts of the sample than  "
+    } ]
+  }, {
+    "tStartMs": 263120,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "the thicker parts, creating an \nelectron imprint of the sample."
+    } ]
+  }, {
+    "tStartMs": 267160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Then a second electromagnetic lens magnified this  "
+    } ]
+  }, {
+    "tStartMs": 269880,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "imprint down onto a fluorescent \ndetector, producing the final image."
+    } ]
+  }, {
+    "tStartMs": 274400,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "This was known as a transmission \nelectron microscope or TEM."
+    } ]
+  }, {
+    "tStartMs": 279800,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Now, early versions of the \nmicroscope barely magnified at all."
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "In fact, it wasn't even better \nthan an optical microscope."
+    } ]
+  }, {
+    "tStartMs": 286680,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But Ruska was determined."
+    } ]
+  }, {
+    "tStartMs": 290000,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Over the next few years, he experimented with  "
+    } ]
+  }, {
+    "tStartMs": 292320,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "adding more lenses onto the microscope \nto create bigger and bigger images."
+    } ]
+  }, {
+    "tStartMs": 296800,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "By the mid-1930s, Ruska had gotten the \nTEM way past 10,000 times magnification."
+    } ]
+  }, {
+    "tStartMs": 302840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It could produce close-ups of insects, bacteria,  "
+    } ]
+  }, {
+    "tStartMs": 305960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "and even viruses at a level far \nsurpassing the optical microscope."
+    } ]
+  }, {
+    "tStartMs": 311840,
+    "dDurationMs": 5011,
+    "segs": [ {
+      "utf8": "But right as Ruska's TEM was taking \noff, a German physicist named Otto Scherzer  "
+    } ]
+  }, {
+    "tStartMs": 316851,
+    "dDurationMs": 6509,
+    "segs": [ {
+      "utf8": "published a paper claiming that the \nmicroscope was about to hit a brick wall."
+    } ]
+  }, {
+    "tStartMs": 323360,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "There was a flaw in the electromagnetic lens, \nhe wrote, that was completely unavoidable."
+    } ]
+  }, {
+    "tStartMs": 330760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "For an electron to make it \nto the focus of the lens,  "
+    } ]
+  }, {
+    "tStartMs": 333520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "it needs to be deflected by a specific amount."
+    } ]
+  }, {
+    "tStartMs": 336400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "If you simplify its trajectory, you can define \nthat ideal deflection with this angle theta."
+    } ]
+  }, {
+    "tStartMs": 342240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "This angle depends on the horizontal distance  "
+    } ]
+  }, {
+    "tStartMs": 344360,
+    "dDurationMs": 5171,
+    "segs": [ {
+      "utf8": "of the electron from the optical \naxis, and how far down the axis the focus is,"
+    } ]
+  }, {
+    "tStartMs": 349531,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "also known as the focal \nlength."
+    } ]
+  }, {
+    "tStartMs": 351091,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "The shorter the focal length, the stronger the magnification."
+    } ]
+  }, {
+    "tStartMs": 354800,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "If you graph this angle as a function \nof distance to the optical axis,  "
+    } ]
+  }, {
+    "tStartMs": 358440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "you'll see that it can be approximated as linear."
+    } ]
+  }, {
+    "tStartMs": 361920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "The problem is that the magnetic \nfield doesn't scale linearly."
+    } ]
+  }, {
+    "tStartMs": 365400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's much stronger near the edges of the magnet."
+    } ]
+  }, {
+    "tStartMs": 368600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So if you plot the curve for the \nactual deflection of the electrons,  "
+    } ]
+  }, {
+    "tStartMs": 372040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you'll see that the magnetic field \noverdeflects the electrons further out."
+    } ]
+  }, {
+    "tStartMs": 376040,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Their angles are bigger than they should be,  "
+    } ]
+  }, {
+    "tStartMs": 377920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "so they end up focusing \nbefore the rays in the middle."
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And as a result, the focus is spread across the  "
+    } ]
+  }, {
+    "tStartMs": 383880,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "optical axis instead of being \ncontained in a single point."
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The blur starts out around the edges of the image, \nbut it gets worse the higher the magnification."
+    } ]
+  }, {
+    "tStartMs": 393760,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "This is called spherical aberration, and it \ndistorts every radially symmetric magnetic lens."
+    } ]
+  }, {
+    "tStartMs": 400480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "In fact, it doesn't just affect magnetic lenses."
+    } ]
+  }, {
+    "tStartMs": 404040,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "Every spherical lens, from a camera to a telescope \nto a magnifying glass also suffers from it."
+    } ]
+  }, {
+    "tStartMs": 410960,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "But there is a surprisingly simple way to \nminimize spherical aberration. Just add  "
+    } ]
+  }, {
+    "tStartMs": 415800,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "a second lens, one that diverges \nlight instead of converging it."
+    } ]
+  }, {
+    "tStartMs": 420720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Now, a diverging lens also \nsuffers from spherical aberration."
+    } ]
+  }, {
+    "tStartMs": 424240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But if it has the same amount of aberration \nas your converging lens just in reverse,"
+    } ]
+  }, {
+    "tStartMs": 429120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "you can stack the two to essentially \ncancel out their effects."
+    } ]
+  }, {
+    "tStartMs": 432960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And that removes the aberrations almost entirely."
+    } ]
+  }, {
+    "tStartMs": 436320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Almost all modern lens systems in cameras  "
+    } ]
+  }, {
+    "tStartMs": 438640,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and microscopes use some sort \nof correcting divergent lens."
+    } ]
+  }, {
+    "tStartMs": 442680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So you might imagine that the TEM \nsimply needs its own version of a  "
+    } ]
+  }, {
+    "tStartMs": 446760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "diverging spherical lens to magnify further."
+    } ]
+  }, {
+    "tStartMs": 449920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But with magnets, this is physically impossible."
+    } ]
+  }, {
+    "tStartMs": 453680,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Every magnet has two poles, a North and a \nSouth. It's impossible to just have one."
+    } ]
+  }, {
+    "tStartMs": 459240,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Even if you split a magnet down the middle,  "
+    } ]
+  }, {
+    "tStartMs": 461120,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "it creates two smaller magnets, \nboth with a North and South."
+    } ]
+  }, {
+    "tStartMs": 465240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And all magnetic field lines have to start at one \npole and end at the other, forming a closed loop."
+    } ]
+  }, {
+    "tStartMs": 470840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It's a direct result of the second \nMaxwell equation because the field  "
+    } ]
+  }, {
+    "tStartMs": 474360,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "that you create has field lines that \nstart and end at the same magnet."
+    } ]
+  }, {
+    "tStartMs": 479120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So the electrons will always \ncross through two lines."
+    } ]
+  }, {
+    "tStartMs": 483120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The first time it passes through, by the Lorentz \nforce, it's brought into the spiraling motion."
+    } ]
+  }, {
+    "tStartMs": 488160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And then the second time \nfrom that spiraling motion,  "
+    } ]
+  }, {
+    "tStartMs": 491360,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "which has then a slightly different \ndirection, it's pushed towards the axis."
+    } ]
+  }, {
+    "tStartMs": 496520,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "That's why all electromagnetic lenses by default \nwill converge that beam, and never diverge it."
+    } ]
+  }, {
+    "tStartMs": 504240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Even if you shot electrons in from the other \nside of the lens, they would still get focused."
+    } ]
+  }, {
+    "tStartMs": 510080,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "This is what Otto Scherzer's paper proved \nin 1936, stopping progress on the TEM."
+    } ]
+  }, {
+    "tStartMs": 515680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "It is impossible to produce a radially \nsymmetric magnetic lens that diverges."
+    } ]
+  }, {
+    "tStartMs": 521280,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And this was, of course, a big roadblock \nfor the development of electron microscopy,"
+    } ]
+  }, {
+    "tStartMs": 525040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "because people saw, okay, we can \naccelerate electrons as much as we want,"
+    } ]
+  }, {
+    "tStartMs": 530200,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "the presence of spherical aberration \nwill always be in the way."
+    } ]
+  }, {
+    "tStartMs": 535360,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Because of this roadblock, advancements in the \nmicroscope's resolution slowed significantly."
+    } ]
+  }, {
+    "tStartMs": 540280,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "By 1955, another microscope \nbeat the TEM to the punch and  "
+    } ]
+  }, {
+    "tStartMs": 544560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "took the first generally accepted image of atoms."
+    } ]
+  }, {
+    "tStartMs": 549080,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "This was called the field ion microscope,  "
+    } ]
+  }, {
+    "tStartMs": 551280,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "and it worked by shooting helium or neon \natoms at an atomically sharp needle tip."
+    } ]
+  }, {
+    "tStartMs": 556520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The tip was positively charged. So \nwhen the gas atoms hit the needle,  "
+    } ]
+  }, {
+    "tStartMs": 560760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "they got ionized and were ejected \noff perpendicular to the surface."
+    } ]
+  }, {
+    "tStartMs": 564880,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "And that could form an impression \nof the atomic structure of the tip."
+    } ]
+  }, {
+    "tStartMs": 569720,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But this method was limited."
+    } ]
+  }, {
+    "tStartMs": 571920,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "You could only get a sense of the atomic \nstructure of the very tip of the needle."
+    } ]
+  }, {
+    "tStartMs": 576200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And the images weren't all that impressive."
+    } ]
+  }, {
+    "tStartMs": 579640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Luckily, Ruska's electron microscope  "
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "wouldn't stay stuck in the realm \nof insects and bacteria forever."
+    } ]
+  }, {
+    "tStartMs": 586920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Now, you might not be an insect getting \nbombarded with relativistic electrons,"
+    } ]
+  }, {
+    "tStartMs": 590680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but it can sometimes feel \nlike it when you're getting  "
+    } ]
+  }, {
+    "tStartMs": 593680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "bombarded with spam calls and targeted ads."
+    } ]
+  }, {
+    "tStartMs": 596800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "It's a real problem when we're \nresearching for our videos."
+    } ]
+  }, {
+    "tStartMs": 599520,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I was reading up on lenses and optics,  "
+    } ]
+  }, {
+    "tStartMs": 601760,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "and a few days later I started getting \ntargeted ads for glasses and eye surgery."
+    } ]
+  }, {
+    "tStartMs": 606840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So someone out there is probably \nselling my browsing data."
+    } ]
+  }, {
+    "tStartMs": 610320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "But this is where today's \nsponsor, Incogni, comes in."
+    } ]
+  }, {
+    "tStartMs": 613400,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "With your permission, Incogni will fight the data  "
+    } ]
+  }, {
+    "tStartMs": 616520,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "brokers on your behalf by finding out \nwho has your data, which laws apply,  "
+    } ]
+  }, {
+    "tStartMs": 620640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and then they request, with the appropriate \nlegal language, your information be deleted."
+    } ]
+  }, {
+    "tStartMs": 625520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "You just sign up and they'll give you a list of \nall the companies that have your information,  "
+    } ]
+  }, {
+    "tStartMs": 629720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "how severe each claim is, and \nthe status of all your requests."
+    } ]
+  }, {
+    "tStartMs": 633000,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Now, I signed up last April, and since \nthen they filed 317 requests for me,  "
+    } ]
+  }, {
+    "tStartMs": 637520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "281 of which have been completed, \nsaving me over 210 hours of work."
+    } ]
+  }, {
+    "tStartMs": 642320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And now I'm no longer getting \nads for glasses I don't need."
+    } ]
+  }, {
+    "tStartMs": 645640,
+    "dDurationMs": 5264,
+    "segs": [ {
+      "utf8": "So to try it Incogni and fight against the \ndata brokers, visit Incogni.com/Veritasium."
+    } ]
+  }, {
+    "tStartMs": 650904,
+    "dDurationMs": 3616,
+    "segs": [ {
+      "utf8": "You can also click the link in the \ndescription or scan this QR code."
+    } ]
+  }, {
+    "tStartMs": 654520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Make sure to use the code Veritasium to get 60%  "
+    } ]
+  }, {
+    "tStartMs": 657160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "off your annual subscription to \ntake control of your data today."
+    } ]
+  }, {
+    "tStartMs": 660680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "That's Incogni.com/Veritasium."
+    } ]
+  }, {
+    "tStartMs": 663080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And now back to the electron microscope."
+    } ]
+  }, {
+    "tStartMs": 666200,
+    "dDurationMs": 5006,
+    "segs": [ {
+      "utf8": "Despite Scherzer's aberration limit \nwork on the transmission electron microscope continued."
+    } ]
+  }, {
+    "tStartMs": 671206,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "During the next four decades."
+    } ]
+  }, {
+    "tStartMs": 673142,
+    "dDurationMs": 3858,
+    "segs": [ {
+      "utf8": "People tried boosting the resolution with \nclever workarounds, and perhaps none more  "
+    } ]
+  }, {
+    "tStartMs": 677000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so than British-American physicist Albert Crewe."
+    } ]
+  }, {
+    "tStartMs": 681000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "His idea was to replace the tungsten filament,  "
+    } ]
+  }, {
+    "tStartMs": 683480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "which fired off electrons at \nrandom, with a more directed source."
+    } ]
+  }, {
+    "tStartMs": 687840,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So instead of boiling electrons off the surface,  "
+    } ]
+  }, {
+    "tStartMs": 690200,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "he tried pulling them off with \na stronger electric field."
+    } ]
+  }, {
+    "tStartMs": 694120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And, by sharpening the tungsten into a fine tip,  "
+    } ]
+  }, {
+    "tStartMs": 697040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "he was able to create a narrow beam which was \nover a thousand times brighter than before."
+    } ]
+  }, {
+    "tStartMs": 703360,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "He paired his new narrow beam \nwith an unlikely technology."
+    } ]
+  }, {
+    "tStartMs": 708640,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "The cathode ray tube TV."
+    } ]
+  }, {
+    "tStartMs": 711320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "These TVs worked by scanning an \nelectron beam across a screen. The  "
+    } ]
+  }, {
+    "tStartMs": 715000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "screen was coated in a phosphor that \nproduced light when hit by electrons."
+    } ]
+  }, {
+    "tStartMs": 718760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And by varying the intensity of the electron beam,  "
+    } ]
+  }, {
+    "tStartMs": 721160,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "you could vary the brightness of the \nscreen, giving you a black-and-white image."
+    } ]
+  }, {
+    "tStartMs": 727200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Crewe was inspired to design a \nsimilar electron beam for the TEM"
+    } ]
+  }, {
+    "tStartMs": 730920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "that would scan across the nanoscopic sample."
+    } ]
+  }, {
+    "tStartMs": 733960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So instead of creating an imprint \nof the whole sample at once,"
+    } ]
+  }, {
+    "tStartMs": 737640,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Crewe's electron beam made smaller imprints, \nmapping the sample out bit by bit."
+    } ]
+  }, {
+    "tStartMs": 742880,
+    "dDurationMs": 4162,
+    "segs": [ {
+      "utf8": "This wasn't the first time someone had \ntried to make a scanning version of the TEM."
+    } ]
+  }, {
+    "tStartMs": 747042,
+    "dDurationMs": 5963,
+    "segs": [ {
+      "utf8": "German researcher Manfred von Ardenne \nbuilt an early prototype in the 1930s,  "
+    } ]
+  }, {
+    "tStartMs": 753005,
+    "dDurationMs": 3115,
+    "segs": [ {
+      "utf8": "but it was destroyed during WWII."
+    } ]
+  }, {
+    "tStartMs": 756120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "When Crewe revived Ardenne's design, \nhe made several drastic improvements,  "
+    } ]
+  }, {
+    "tStartMs": 760280,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and by 1970 he had this."
+    } ]
+  }, {
+    "tStartMs": 763200,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "The first image of single atoms \ntaken with the electron microscope."
+    } ]
+  }, {
+    "tStartMs": 770040,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Researchers quickly jumped to employ his \ntech, producing countless images of atoms."
+    } ]
+  }, {
+    "tStartMs": 776080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "After nearly a century of improvements \nfrom Ruska, Crewe, and many others,  "
+    } ]
+  }, {
+    "tStartMs": 780320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the magnification upgrades on \nthe TEM had reached their peak."
+    } ]
+  }, {
+    "tStartMs": 785280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But Scherzer's problem persisted."
+    } ]
+  }, {
+    "tStartMs": 788280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Spherical aberration set a hard \nlimit on how small you could see."
+    } ]
+  }, {
+    "tStartMs": 792600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Even Crewe himself gave up on trying to \nget around it after over ten years of work."
+    } ]
+  }, {
+    "tStartMs": 797720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "\"Unfortunately, we could never make it \nwork. After many heartbreaking attempts,  "
+    } ]
+  }, {
+    "tStartMs": 802280,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "we were forced to admit defeat.\""
+    } ]
+  }, {
+    "tStartMs": 805000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Around this time, other microscopes \nemerged that could also image atoms."
+    } ]
+  }, {
+    "tStartMs": 809600,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "These probe microscopes work by gliding an \nincredibly small stylus across the sample."
+    } ]
+  }, {
+    "tStartMs": 814920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "The stylus detects variations in quantum effects  "
+    } ]
+  }, {
+    "tStartMs": 817400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "or nanoscale forces to then map the \nsurface structure of the sample."
+    } ]
+  }, {
+    "tStartMs": 821720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "These were easier to build, and \nbecause they didn't use any lenses,  "
+    } ]
+  }, {
+    "tStartMs": 825480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "they weren't limited by spherical aberration."
+    } ]
+  }, {
+    "tStartMs": 828160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Their images were even 3D."
+    } ]
+  }, {
+    "tStartMs": 831080,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "But the looming issue was that \nthese probes weren't really  "
+    } ]
+  }, {
+    "tStartMs": 834240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "seeing atoms. It was more like feeling atoms."
+    } ]
+  }, {
+    "tStartMs": 838160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Throughout the 80s and 90s, this was all we had."
+    } ]
+  }, {
+    "tStartMs": 841880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "But what if there was another way?"
+    } ]
+  }, {
+    "tStartMs": 844440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Scherzer's theorem proof that a diverging, \nradially symmetric lens isn't possible."
+    } ]
+  }, {
+    "tStartMs": 849400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But if you're willing to give up on that \nsymmetry, well, the theorem no longer applies."
+    } ]
+  }, {
+    "tStartMs": 854400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The problem is that radial symmetry is \narguably the most important property of  "
+    } ]
+  }, {
+    "tStartMs": 858400,
+    "dDurationMs": 7880,
+    "segs": [ {
+      "utf8": "any lens, because if you break the \nsymmetry, you also break the image."
+    } ]
+  }, {
+    "tStartMs": 866280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But three maverick scientists \nthought there might be a way."
+    } ]
+  }, {
+    "tStartMs": 869800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Knut Urban, Max Haider, and Harold Rose were known  "
+    } ]
+  }, {
+    "tStartMs": 872800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "in the electron microscope \ncommunity as troublemakers,"
+    } ]
+  }, {
+    "tStartMs": 876040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and for years barely anyone had been \ninterested in their research or,  "
+    } ]
+  }, {
+    "tStartMs": 880440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "more importantly, in funding it."
+    } ]
+  }, {
+    "tStartMs": 883080,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And for a good reason too. \nTheir idea was kind of crazy."
+    } ]
+  }, {
+    "tStartMs": 886960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I mean, they purposely wanted to break the \nimage using a lens that wasn't symmetric."
+    } ]
+  }, {
+    "tStartMs": 891640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Their hope was that there would be a small part  "
+    } ]
+  }, {
+    "tStartMs": 894200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of this distorted image that \nwould be slightly diverging."
+    } ]
+  }, {
+    "tStartMs": 897960,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And maybe, just maybe, this \nsmall part could correct the  "
+    } ]
+  }, {
+    "tStartMs": 901760,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "spherical aberration of the original lens."
+    } ]
+  }, {
+    "tStartMs": 904720,
+    "dDurationMs": 3368,
+    "segs": [ {
+      "utf8": "So they got to work"
+    } ]
+  }, {
+    "tStartMs": 908088,
+    "dDurationMs": 4512,
+    "segs": [ {
+      "utf8": "To distort the image, they used a massive nest \nof electromagnets with six,  "
+    } ]
+  }, {
+    "tStartMs": 912600,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "eight, or even ten separate coils and \nmagnets with bumpy magnetic fields."
+    } ]
+  }, {
+    "tStartMs": 918000,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "These were known as the hexapole, \noctopole, and decapole magnets."
+    } ]
+  }, {
+    "tStartMs": 922520,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So as the electron beam passed through a hexapole,  "
+    } ]
+  }, {
+    "tStartMs": 925440,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "it would twist and squeeze the flat \n2D image into a triangular saddle."
+    } ]
+  }, {
+    "tStartMs": 931000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And the circumference of the original beam \nwould be pushed into the three corners,  "
+    } ]
+  }, {
+    "tStartMs": 935400,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "with the rest of the interior stretched out."
+    } ]
+  }, {
+    "tStartMs": 938720,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But now the middle of the image \nwould have a slight concave bow,  "
+    } ]
+  }, {
+    "tStartMs": 942440,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "giving the effect of a small divergence."
+    } ]
+  }, {
+    "tStartMs": 945360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Then Rose, Haider, and Urban forced the \nbeam through a second hexapole , one that worked  "
+    } ]
+  }, {
+    "tStartMs": 949920,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the opposite way, so it would unbend the \ndistorted image back into a circular shape."
+    } ]
+  }, {
+    "tStartMs": 955760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "But now they, calculated this \nnew image might have the remnants  "
+    } ]
+  }, {
+    "tStartMs": 959240,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "of that tiny divergence still in its center, with \nspherical aberration pointing in the opposite way."
+    } ]
+  }, {
+    "tStartMs": 965360,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "So if they got their maths and engineering \nexactly right, they could feed an image with  "
+    } ]
+  }, {
+    "tStartMs": 969960,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "spherical aberration through these two lenses \nto almost completely counteract the effect."
+    } ]
+  }, {
+    "tStartMs": 975960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And I imagine a lot of people in the field thought \nit was a crazy idea when it was proposed, right?"
+    } ]
+  }, {
+    "tStartMs": 979920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Not only the concept, but, that this is, \nlike, technically feasible, I believe. "
+    } ]
+  }, {
+    "tStartMs": 985360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It was thought that this is not possible."
+    } ]
+  }, {
+    "tStartMs": 989720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "By May 1997, the group had just two months of  "
+    } ]
+  }, {
+    "tStartMs": 992520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "development time left before their \nlast sponsor withdrew their backing."
+    } ]
+  }, {
+    "tStartMs": 996080,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And to make matters worse, their latest lens \niteration was still just on the drawing board."
+    } ]
+  }, {
+    "tStartMs": 1001240,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "But somehow, by the 23rd of July,  "
+    } ]
+  }, {
+    "tStartMs": 1003200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "just a week before their funding ran \nout, the new lens was ready to test."
+    } ]
+  }, {
+    "tStartMs": 1007840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "They gingerly placed it into the microscope,  "
+    } ]
+  }, {
+    "tStartMs": 1010480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "but like every time before it, \nthe lens was unstable and failed."
+    } ]
+  }, {
+    "tStartMs": 1014840,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So they decided to switch off the equipment \nfor 24 hours to allow the magnets to settle."
+    } ]
+  }, {
+    "tStartMs": 1020320,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "And then at 2 a.m. on the \n24th, they turned it on again,  "
+    } ]
+  }, {
+    "tStartMs": 1024920,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "and almost magically, the \npicture started to stabilize."
+    } ]
+  }, {
+    "tStartMs": 1030880,
+    "dDurationMs": 8680,
+    "segs": [ {
+      "utf8": "Suddenly, there was no aberration. \nOnly beautiful, clear images of atoms."
+    } ]
+  }, {
+    "tStartMs": 1039560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "After more than 60 years of failed attempts,  "
+    } ]
+  }, {
+    "tStartMs": 1042200,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Urban, Rose, and Haider pulled \noff the seemingly impossible."
+    } ]
+  }, {
+    "tStartMs": 1045840,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "With this method, they cut the resolution \nof the TEM down to only 0.13 nanometers."
+    } ]
+  }, {
+    "tStartMs": 1051720,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "An average TEM image went from \nlooking like this to this."
+    } ]
+  }, {
+    "tStartMs": 1058120,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "A few months after the group's breakthrough,  "
+    } ]
+  }, {
+    "tStartMs": 1060080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Knut Urban attended a microscopy \nconference to share these results."
+    } ]
+  }, {
+    "tStartMs": 1063920,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "But because of the group's reputation,  "
+    } ]
+  }, {
+    "tStartMs": 1065680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "he was relegated to a small back \nroom that barely anyone noticed."
+    } ]
+  }, {
+    "tStartMs": 1070840,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Soon, however, word spread that against all odds,  "
+    } ]
+  }, {
+    "tStartMs": 1073920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "his pictures seemed real. Then \na crowd of hundreds formed."
+    } ]
+  }, {
+    "tStartMs": 1079280,
+    "dDurationMs": 10680,
+    "segs": [ {
+      "utf8": "People were lining up outside, hoping to get \na glimpse of their stunningly sharp images."
+    } ]
+  }, {
+    "tStartMs": 1089960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So we're going to get a sample holder."
+    } ]
+  }, {
+    "tStartMs": 1093080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yeah, so we got a sample holder out."
+    } ]
+  }, {
+    "tStartMs": 1095720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "We put that under the optical microscope."
+    } ]
+  }, {
+    "tStartMs": 1098280,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "So the sample itself is a small lamella that \nyou can't see without the optical microscope."
+    } ]
+  }, {
+    "tStartMs": 1106040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yeah.\nHave a look through that."
+    } ]
+  }, {
+    "tStartMs": 1110400,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Beautiful. On top of the B there's \na prong. Yeah. And on the very top  "
+    } ]
+  }, {
+    "tStartMs": 1114840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "of that on the left-hand side, \nlooks like a little bit of dust."
+    } ]
+  }, {
+    "tStartMs": 1118840,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "That's our actual sample."
+    } ]
+  }, {
+    "tStartMs": 1127400,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "Okay, now I simply go up with the magnification \nand I do a very few, like, more basic alignments.  "
+    } ]
+  }, {
+    "tStartMs": 1135200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "In this electron microscope because it's \ncalled transmission electron microscope,"
+    } ]
+  }, {
+    "tStartMs": 1139520,
+    "dDurationMs": 2393,
+    "segs": [ {
+      "utf8": "the electrons always transmit the sample."
+    } ]
+  }, {
+    "tStartMs": 1141913,
+    "dDurationMs": 3908,
+    "segs": [ {
+      "utf8": "Here we  look through our entire sample at the same time."
+    } ]
+  }, {
+    "tStartMs": 1145821,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": " And that's why it's so important \nthat we align the sample."
+    } ]
+  }, {
+    "tStartMs": 1148058,
+    "dDurationMs": 6149,
+    "segs": [ {
+      "utf8": "If you imagine atoms in a high-symmetry \ndirection are lined up like pearls on a string."
+    } ]
+  }, {
+    "tStartMs": 1154207,
+    "dDurationMs": 2593,
+    "segs": [ {
+      "utf8": "When we look down it, well, we can see an image."
+    } ]
+  }, {
+    "tStartMs": 1156800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But if we are in, like, some random direction \nthat everything would be just blurred."
+    } ]
+  }, {
+    "tStartMs": 1160600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So that's why we have to do \nsome tilting in the edge."
+    } ]
+  }, {
+    "tStartMs": 1163400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And this is where the actual sample \nstarts — the strontium titanate."
+    } ]
+  }, {
+    "tStartMs": 1167160,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "And this is a thin region where we \nhope to get atomic resolution."
+    } ]
+  }, {
+    "tStartMs": 1172400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So this is 5000 times? Yes"
+    } ]
+  }, {
+    "tStartMs": 1175560,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1176200,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "And we see strontium, titanium. We see \noxygen. We see carbon. That's contamination."
+    } ]
+  }, {
+    "tStartMs": 1182280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So most likely what we're looking \nat is carbon contamination."
+    } ]
+  }, {
+    "tStartMs": 1186360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "When you do this focus, what \nare you really looking for?"
+    } ]
+  }, {
+    "tStartMs": 1189640,
+    "dDurationMs": 8368,
+    "segs": [ {
+      "utf8": "I look for this edge to become sharp."
+    } ]
+  }, {
+    "tStartMs": 1198008,
+    "dDurationMs": 1083,
+    "segs": [ {
+      "utf8": "See atoms."
+    } ]
+  }, {
+    "tStartMs": 1199091,
+    "dDurationMs": 8588,
+    "segs": [ {
+      "utf8": "What? Just like that. That's wild.  "
+    } ]
+  }, {
+    "tStartMs": 1207679,
+    "dDurationMs": 3493,
+    "segs": [ {
+      "utf8": "Shortly after, the group successfully corrected "
+    } ]
+  }, {
+    "tStartMs": 1211172,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": " \nOrndrej Krivanek independently achieved  "
+    } ]
+  }, {
+    "tStartMs": 1213274,
+    "dDurationMs": 5286,
+    "segs": [ {
+      "utf8": "the same for Crewe’s version of \nthe microscope, the scanning TEM."
+    } ]
+  }, {
+    "tStartMs": 1218560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And in 2020, all four were awarded \nthe prestigious Kavli Prize in  "
+    } ]
+  }, {
+    "tStartMs": 1222680,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Nanoscience for accomplishing what \nso many others thought impossible."
+    } ]
+  }, {
+    "tStartMs": 1227520,
+    "dDurationMs": 8920,
+    "segs": [ {
+      "utf8": "Through their persistence and ingenuity, \nseeing atoms like this is, well, normal."
+    } ]
+  }, {
+    "tStartMs": 1236440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "How big of a difference does \naberration correction make?"
+    } ]
+  }, {
+    "tStartMs": 1239560,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "If you want to see atoms and if you want to, \nfor example, measure in atomic distances,  "
+    } ]
+  }, {
+    "tStartMs": 1245360,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and if you want to learn what type of atoms \nyou have, you need aberration correction."
+    } ]
+  }, {
+    "tStartMs": 1250960,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "Any research that's material science. \nMaterials engineering, chemical engineering..."
+    } ]
+  }, {
+    "tStartMs": 1257160,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "You need to see what's happening at the atomic  level"
+    } ]
+  }, {
+    "tStartMs": 1259618,
+    "dDurationMs": 3502,
+    "segs": [ {
+      "utf8": "because you want to relate \nthe properties to the structure."
+    } ]
+  }, {
+    "tStartMs": 1263120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "If you can't see the structure at the atomic \nlevel, you only have half of the information."
+    } ]
+  }, {
+    "tStartMs": 1267320,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "So that was a game changer."
+    } ]
+  }, {
+    "tStartMs": 1268880,
+    "dDurationMs": 6236,
+    "segs": [ {
+      "utf8": "That's why nowadays every university in \nprinciple needs a microscope like that."
+    } ]
+  } ]
+}

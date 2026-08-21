@@ -1,0 +1,3397 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 123,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "- [Derek] This tiny robot mouse"
+    } ]
+  }, {
+    "tStartMs": 1590,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "can finish this maze in just six seconds."
+    } ]
+  }, {
+    "tStartMs": 5639,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(dramatic music)"
+    } ]
+  }, {
+    "tStartMs": 11670,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Every year, around the world,"
+    } ]
+  }, {
+    "tStartMs": 13230,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "people compete in the\noldest robotics race."
+    } ]
+  }, {
+    "tStartMs": 16050,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "The goal is simple:"
+    } ]
+  }, {
+    "tStartMs": 17490,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "get to the end of the\nmaze as fast as possible."
+    } ]
+  }, {
+    "tStartMs": 19860,
+    "dDurationMs": 1781,
+    "segs": [ {
+      "utf8": "- The person who came second"
+    } ]
+  }, {
+    "tStartMs": 21641,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "(announcer chattering)\n(people cheering)"
+    } ]
+  }, {
+    "tStartMs": 23760,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "lost by 20 milliseconds."
+    } ]
+  }, {
+    "tStartMs": 25830,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "- [Derek] But competition\nhas grown fierce."
+    } ]
+  }, {
+    "tStartMs": 29520,
+    "dDurationMs": 3177,
+    "segs": [ {
+      "utf8": "- When somebody saw my design,\nthey said, \"You're crazy!\""
+    } ]
+  }, {
+    "tStartMs": 34740,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "- [Derek] Why is there so much\ntension? What's riding on it?"
+    } ]
+  }, {
+    "tStartMs": 37980,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Honor?\n- Honor"
+    } ]
+  }, {
+    "tStartMs": 39514,
+    "dDurationMs": 1473,
+    "segs": [ {
+      "utf8": "(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 40987,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 44880,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- [Derek] This video is\nsponsored by Onshape."
+    } ]
+  }, {
+    "tStartMs": 48306,
+    "dDurationMs": 3054,
+    "segs": [ {
+      "utf8": "In 1952, mathematician\nClaude Shannon constructed"
+    } ]
+  }, {
+    "tStartMs": 51360,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "an electronic mouse named\nTheseus that could solve a maze."
+    } ]
+  }, {
+    "tStartMs": 55890,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "The trick to making the mouse intelligent"
+    } ]
+  }, {
+    "tStartMs": 58500,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "was hidden in a computer\nbuilt into the maze itself,"
+    } ]
+  }, {
+    "tStartMs": 62070,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "made of telephone relay switches."
+    } ]
+  }, {
+    "tStartMs": 64590,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The mouse was just a magnet\non wheels, essentially,"
+    } ]
+  }, {
+    "tStartMs": 67830,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "following an electromagnet controlled"
+    } ]
+  }, {
+    "tStartMs": 69660,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "by the position of the relay switches."
+    } ]
+  }, {
+    "tStartMs": 71700,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "- [Claude] He is now exploring the maze"
+    } ]
+  }, {
+    "tStartMs": 73590,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "using a rather involved\nstrategy of trial and error."
+    } ]
+  }, {
+    "tStartMs": 76890,
+    "dDurationMs": 1047,
+    "segs": [ {
+      "utf8": "As he finds the correct path,"
+    } ]
+  }, {
+    "tStartMs": 77937,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "he registers the\ninformation in his memory."
+    } ]
+  }, {
+    "tStartMs": 81150,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Later, I can put him down"
+    } ]
+  }, {
+    "tStartMs": 82260,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "in any part of the maze\nthat he's already explored,"
+    } ]
+  }, {
+    "tStartMs": 84990,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and he'll be able to\ngo directly to the goal"
+    } ]
+  }, {
+    "tStartMs": 86910,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "without making a single false turn."
+    } ]
+  }, {
+    "tStartMs": 89370,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "- [Derek] Theseus is often referred to"
+    } ]
+  }, {
+    "tStartMs": 90960,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "as one of the first examples\nof machine learning."
+    } ]
+  }, {
+    "tStartMs": 93810,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "A director at Google recently said"
+    } ]
+  }, {
+    "tStartMs": 95580,
+    "dDurationMs": 3273,
+    "segs": [ {
+      "utf8": "that it inspired the whole field of AI."
+    } ]
+  }, {
+    "tStartMs": 99720,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "25 years later, editors at the Institute"
+    } ]
+  }, {
+    "tStartMs": 102270,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "of Electrical and Electronics\nEngineers, or IEEE,"
+    } ]
+  }, {
+    "tStartMs": 105480,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "caught wind of a contest\nfor electronic mice,"
+    } ]
+  }, {
+    "tStartMs": 108210,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "or le mouse electronique,\nas they had heard."
+    } ]
+  }, {
+    "tStartMs": 111270,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "They were ecstatic. Were these\nthe successors to Theseus?"
+    } ]
+  }, {
+    "tStartMs": 115350,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "But something had been\nlost in translation."
+    } ]
+  }, {
+    "tStartMs": 117690,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "These mice were just batteries in cases,"
+    } ]
+  }, {
+    "tStartMs": 120780,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "not robots capable of\nintelligent behavior."
+    } ]
+  }, {
+    "tStartMs": 123870,
+    "dDurationMs": 2977,
+    "segs": [ {
+      "utf8": "But the misunderstanding stuck\nwith them, and they wondered,"
+    } ]
+  }, {
+    "tStartMs": 126847,
+    "dDurationMs": 3803,
+    "segs": [ {
+      "utf8": "\"Why couldn't we hold that\ncompetition ourselves?\""
+    } ]
+  }, {
+    "tStartMs": 130650,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "In 1977, the announcement for IEEE's"
+    } ]
+  }, {
+    "tStartMs": 133890,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Amazing Micro-Mouse Maze Contest"
+    } ]
+  }, {
+    "tStartMs": 135960,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "attracted over 6,000 entrants,"
+    } ]
+  }, {
+    "tStartMs": 138810,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "but the number of successful\ncompetitors dwindled rapidly."
+    } ]
+  }, {
+    "tStartMs": 142350,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Eventually, just 15 entrants\nreached the finals in 1979."
+    } ]
+  }, {
+    "tStartMs": 147570,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "But by this point,"
+    } ]
+  }, {
+    "tStartMs": 148403,
+    "dDurationMs": 2287,
+    "segs": [ {
+      "utf8": "the contest had garnered\nenough public interest"
+    } ]
+  }, {
+    "tStartMs": 150690,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "to be broadcast nationwide\non the evening news."
+    } ]
+  }, {
+    "tStartMs": 154260,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And just like the rumor that\ninspired the competition,"
+    } ]
+  }, {
+    "tStartMs": 157080,
+    "dDurationMs": 3406,
+    "segs": [ {
+      "utf8": "Micromouse began to\nspread across the world."
+    } ]
+  }, {
+    "tStartMs": 160486,
+    "dDurationMs": 3313,
+    "segs": [ {
+      "utf8": "♪ Micromouse, is for the taking ♪"
+    } ]
+  }, {
+    "tStartMs": 163799,
+    "dDurationMs": 3574,
+    "segs": [ {
+      "utf8": "♪ Micromouse, is here and now ♪"
+    } ]
+  }, {
+    "tStartMs": 167373,
+    "dDurationMs": 3702,
+    "segs": [ {
+      "utf8": "♪ Take a chance, and start creating ♪"
+    } ]
+  }, {
+    "tStartMs": 171075,
+    "dDurationMs": 4743,
+    "segs": [ {
+      "utf8": "(upbeat music)\n(reporter speaking Japanese)"
+    } ]
+  }, {
+    "tStartMs": 175818,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "- A Micromouse?"
+    } ]
+  }, {
+    "tStartMs": 178191,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "- [Group] Micromouse!"
+    } ]
+  }, {
+    "tStartMs": 186356,
+    "dDurationMs": 2316,
+    "segs": [ {
+      "utf8": "(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 211650,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "- Even people in the top two or three,"
+    } ]
+  }, {
+    "tStartMs": 214140,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "you can see them trying\nto set their mice up,"
+    } ]
+  }, {
+    "tStartMs": 215940,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and they can barely find\nthe buttons to press,"
+    } ]
+  }, {
+    "tStartMs": 218400,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "because it's absolutely nerve-racking."
+    } ]
+  }, {
+    "tStartMs": 222224,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 226920,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "It doesn't matter what it\nwas, it could be horse racing,"
+    } ]
+  }, {
+    "tStartMs": 228780,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "it could be motor racing,\nit could be mouse racing,"
+    } ]
+  }, {
+    "tStartMs": 234600,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "If you have a shred of\ncompetitiveness in you,"
+    } ]
+  }, {
+    "tStartMs": 236490,
+    "dDurationMs": 1707,
+    "segs": [ {
+      "utf8": "you'd wanna win, right?"
+    } ]
+  }, {
+    "tStartMs": 243090,
+    "dDurationMs": 1303,
+    "segs": [ {
+      "utf8": "- [Derek] Just like a real mouse,"
+    } ]
+  }, {
+    "tStartMs": 244393,
+    "dDurationMs": 2447,
+    "segs": [ {
+      "utf8": "a Micromouse has to be fully autonomous."
+    } ]
+  }, {
+    "tStartMs": 246840,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "No internet connection,\nno GPS or remote control"
+    } ]
+  }, {
+    "tStartMs": 250230,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and no nudging it to help it get unstuck."
+    } ]
+  }, {
+    "tStartMs": 253080,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "It has to fit all its computing, motors,"
+    } ]
+  }, {
+    "tStartMs": 255630,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "sensors, and power supply in a frame"
+    } ]
+  }, {
+    "tStartMs": 257880,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "no longer or wider than 25 centimeters."
+    } ]
+  }, {
+    "tStartMs": 261660,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "There isn't a limit on\nthe height of the mouse,"
+    } ]
+  }, {
+    "tStartMs": 264060,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "but the rules don't allow climbing,"
+    } ]
+  }, {
+    "tStartMs": 266040,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "flight, or any forms of combustion,"
+    } ]
+  }, {
+    "tStartMs": 268830,
+    "dDurationMs": 3106,
+    "segs": [ {
+      "utf8": "so rocket propulsion, for\nexample, is out of the equation."
+    } ]
+  }, {
+    "tStartMs": 271936,
+    "dDurationMs": 3275,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 275211,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "(announcer chattering)"
+    } ]
+  }, {
+    "tStartMs": 280830,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "The maze itself is a square\nabout three meters on each side,"
+    } ]
+  }, {
+    "tStartMs": 284460,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "subdivided by walls into corridors"
+    } ]
+  }, {
+    "tStartMs": 286890,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "only 18 centimeters across."
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "And in 2009,"
+    } ]
+  }, {
+    "tStartMs": 290520,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "the half-size Micromouse\ncategory was introduced,"
+    } ]
+  }, {
+    "tStartMs": 293100,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "with mice smaller than 12\n1/2 centimeters per side,"
+    } ]
+  }, {
+    "tStartMs": 296130,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and paths just nine centimeters across."
+    } ]
+  }, {
+    "tStartMs": 299370,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "The final layout of the\nmaze is only revealed"
+    } ]
+  }, {
+    "tStartMs": 301950,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "at the start of each competition,"
+    } ]
+  }, {
+    "tStartMs": 303960,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "after which competitors are not allowed"
+    } ]
+  }, {
+    "tStartMs": 305910,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "to change the code in their mice."
+    } ]
+  }, {
+    "tStartMs": 309333,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "(announcer speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 316980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 320400,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "The big three competitions,"
+    } ]
+  }, {
+    "tStartMs": 321990,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "All Japan, Taiwan, and USA's APEC,"
+    } ]
+  }, {
+    "tStartMs": 325260,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "usually limit the time\nmice get in the maze"
+    } ]
+  }, {
+    "tStartMs": 327810,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "to seven or 10 minutes,"
+    } ]
+  }, {
+    "tStartMs": 329640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and mice are only allowed five runs"
+    } ]
+  }, {
+    "tStartMs": 331800,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "from the start to the goal."
+    } ]
+  }, {
+    "tStartMs": 333090,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "- So if you spend a lot of time\nsearching, that's a penalty."
+    } ]
+  }, {
+    "tStartMs": 337890,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "- Makes sense."
+    } ]
+  }, {
+    "tStartMs": 339540,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So the strategy for most Micromice"
+    } ]
+  }, {
+    "tStartMs": 341700,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "is to spend their first run\ncarefully learning the maze"
+    } ]
+  }, {
+    "tStartMs": 344820,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and looking for the best path to the goal,"
+    } ]
+  }, {
+    "tStartMs": 346860,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "while not wasting too much time."
+    } ]
+  }, {
+    "tStartMs": 349050,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Then they use their remaining tries"
+    } ]
+  }, {
+    "tStartMs": 350940,
+    "dDurationMs": 3453,
+    "segs": [ {
+      "utf8": "to sprint down that path for\nthe fastest run time possible."
+    } ]
+  }, {
+    "tStartMs": 357254,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 360120,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Solving a maze may sound simple enough,"
+    } ]
+  }, {
+    "tStartMs": 362250,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "though it's important to remember that,"
+    } ]
+  }, {
+    "tStartMs": 363750,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "with only a few infrared sensors for eyes,"
+    } ]
+  }, {
+    "tStartMs": 366390,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "the view from inside the\nmaze is a lot less clear"
+    } ]
+  }, {
+    "tStartMs": 368970,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "than what we see from above."
+    } ]
+  }, {
+    "tStartMs": 370860,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Still, you can solve a\nmaze with your eyes closed."
+    } ]
+  }, {
+    "tStartMs": 373830,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "If you just put one hand along one wall,"
+    } ]
+  }, {
+    "tStartMs": 376080,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "you will eventually reach\nthe end of most common mazes."
+    } ]
+  }, {
+    "tStartMs": 379800,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "And that's exactly what some initial"
+    } ]
+  }, {
+    "tStartMs": 381780,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Micromouse competitors realized, too."
+    } ]
+  }, {
+    "tStartMs": 384150,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "And after a simple wall-following mouse"
+    } ]
+  }, {
+    "tStartMs": 386220,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "took home gold in the first finals,"
+    } ]
+  }, {
+    "tStartMs": 388380,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "the goal of the maze was\nmoved away from the edges,"
+    } ]
+  }, {
+    "tStartMs": 390990,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and free-standing walls were added,"
+    } ]
+  }, {
+    "tStartMs": 393360,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "which would leave a simple"
+    } ]
+  }, {
+    "tStartMs": 394710,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "wall-following mouse searching forever."
+    } ]
+  }, {
+    "tStartMs": 399660,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Your next instinct might\nbe to run through the maze,"
+    } ]
+  }, {
+    "tStartMs": 401790,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "taking note of every fork in the road."
+    } ]
+  }, {
+    "tStartMs": 404190,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Whenever you reach a dead end or a loop,"
+    } ]
+  }, {
+    "tStartMs": 406230,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "you can go back to the last intersection"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "and try a different path."
+    } ]
+  }, {
+    "tStartMs": 409770,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "If your last left turn got you nowhere,"
+    } ]
+  }, {
+    "tStartMs": 411690,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "you'd come back to that\nintersection and go right instead."
+    } ]
+  }, {
+    "tStartMs": 415140,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "You can think of this strategy"
+    } ]
+  }, {
+    "tStartMs": 416460,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "as the one a headstrong mouse might use,"
+    } ]
+  }, {
+    "tStartMs": 418890,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "running as deep into the maze as it can,"
+    } ]
+  }, {
+    "tStartMs": 420960,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "and turning back only when\nit can't go any further."
+    } ]
+  }, {
+    "tStartMs": 424170,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "This search strategy, known\nas depth-first search,"
+    } ]
+  }, {
+    "tStartMs": 427230,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "will eventually get the mouse to the goal."
+    } ]
+  }, {
+    "tStartMs": 429780,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "The problem is, it might\nnot be the shortest route,"
+    } ]
+  }, {
+    "tStartMs": 432930,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "because the mouse only\nturns back when it needs to,"
+    } ]
+  }, {
+    "tStartMs": 435690,
+    "dDurationMs": 2943,
+    "segs": [ {
+      "utf8": "so it may have missed a\nshortcut that it never tried."
+    } ]
+  }, {
+    "tStartMs": 439590,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "The sibling to this search\nalgorithm, breadth-first search,"
+    } ]
+  }, {
+    "tStartMs": 443220,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "would find the shortest path."
+    } ]
+  }, {
+    "tStartMs": 445140,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "With this strategy,"
+    } ]
+  }, {
+    "tStartMs": 446160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the mouse runs down one\nbranch of an intersection,"
+    } ]
+  }, {
+    "tStartMs": 448440,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "until it reaches the next one,"
+    } ]
+  }, {
+    "tStartMs": 450120,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and then it goes back to\ncheck the path it skipped,"
+    } ]
+  }, {
+    "tStartMs": 452460,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "before moving on to the\nnext layer of intersections."
+    } ]
+  }, {
+    "tStartMs": 455250,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So the mouse checks\nevery option it reaches,"
+    } ]
+  }, {
+    "tStartMs": 457920,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "but all that backtracking"
+    } ]
+  }, {
+    "tStartMs": 459360,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "means that it's rerunning\npaths dozens of times."
+    } ]
+  }, {
+    "tStartMs": 462870,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "At this point,"
+    } ]
+  }, {
+    "tStartMs": 463703,
+    "dDurationMs": 3427,
+    "segs": [ {
+      "utf8": "even searching the whole\nmaze often takes less time."
+    } ]
+  }, {
+    "tStartMs": 467130,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So why not just do that?"
+    } ]
+  }, {
+    "tStartMs": 468930,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "A meticulous mouse could search\nall 256 cells of the maze,"
+    } ]
+  }, {
+    "tStartMs": 472980,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "testing every turn and corner to ensure"
+    } ]
+  }, {
+    "tStartMs": 475770,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "it has definitely found the shortest path."
+    } ]
+  }, {
+    "tStartMs": 478320,
+    "dDurationMs": 3243,
+    "segs": [ {
+      "utf8": "But searching so thoroughly\nisn't necessary, either."
+    } ]
+  }, {
+    "tStartMs": 483330,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Instead, the most popular\nMicromouse strategy"
+    } ]
+  }, {
+    "tStartMs": 485640,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "is different from all of these techniques."
+    } ]
+  }, {
+    "tStartMs": 487980,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "It's a search algorithm\nknown as flood fill."
+    } ]
+  }, {
+    "tStartMs": 491280,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "This mouse's plan is to make"
+    } ]
+  }, {
+    "tStartMs": 493050,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "optimistic journeys through the maze,"
+    } ]
+  }, {
+    "tStartMs": 495060,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "so optimistic, in fact,\nthat on their first journey,"
+    } ]
+  }, {
+    "tStartMs": 497820,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "their map of the maze doesn't\nhave any walls at all."
+    } ]
+  }, {
+    "tStartMs": 500940,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "They simply draw the shortest\npath to the goal and go."
+    } ]
+  }, {
+    "tStartMs": 504870,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "When their optimistic plan inevitably"
+    } ]
+  }, {
+    "tStartMs": 506700,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "hits a wall that wasn't on their map,"
+    } ]
+  }, {
+    "tStartMs": 508650,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "they simply mark it down"
+    } ]
+  }, {
+    "tStartMs": 510060,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and update their new\nshortest path to the goal."
+    } ]
+  }, {
+    "tStartMs": 513300,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Running, updating, running, updating,"
+    } ]
+  }, {
+    "tStartMs": 516930,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "always beelining for the goal."
+    } ]
+  }, {
+    "tStartMs": 519270,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Under the hood of the algorithm,"
+    } ]
+  }, {
+    "tStartMs": 520680,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "what the Micromouse is\nmarking on their map"
+    } ]
+  }, {
+    "tStartMs": 522750,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "is the distance from every\nsquare in the maze to the goal."
+    } ]
+  }, {
+    "tStartMs": 526170,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "To travel optimistically,\nthe mouse follows the trail"
+    } ]
+  }, {
+    "tStartMs": 529290,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "of decreasing numbers down to zero."
+    } ]
+  }, {
+    "tStartMs": 531660,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Whenever they hit a wall,"
+    } ]
+  }, {
+    "tStartMs": 532860,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "they update the numbers on their map"
+    } ]
+  }, {
+    "tStartMs": 534600,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "to reflect the new shortest\ndistance to the goal."
+    } ]
+  }, {
+    "tStartMs": 538110,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "This strategy of following"
+    } ]
+  }, {
+    "tStartMs": 539730,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "the numerical path of least resistance"
+    } ]
+  }, {
+    "tStartMs": 541650,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "gives the flood fill algorithm its name."
+    } ]
+  }, {
+    "tStartMs": 544530,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "The process resembles\nflooding the maze with water"
+    } ]
+  }, {
+    "tStartMs": 546960,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "and updating values based on the flow."
+    } ]
+  }, {
+    "tStartMs": 550680,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Once the mouse reaches the goal,"
+    } ]
+  }, {
+    "tStartMs": 552390,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "it can smooth out the path it took"
+    } ]
+  }, {
+    "tStartMs": 554280,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and get a solution to the maze."
+    } ]
+  }, {
+    "tStartMs": 556290,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "However, it may look back\nand imagine an even shorter,"
+    } ]
+  }, {
+    "tStartMs": 559800,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "uncharted path it could've taken."
+    } ]
+  }, {
+    "tStartMs": 562110,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "The mouse might not be satisfied"
+    } ]
+  }, {
+    "tStartMs": 563760,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "that it's found the\nshortest path just yet."
+    } ]
+  }, {
+    "tStartMs": 566340,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "While this algorithm isn't guaranteed"
+    } ]
+  }, {
+    "tStartMs": 567990,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "to find the best path on first pass,"
+    } ]
+  }, {
+    "tStartMs": 570480,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "it takes advantage of\nthe fact that Micromice"
+    } ]
+  }, {
+    "tStartMs": 572730,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "need to return to the start\nto begin their next run."
+    } ]
+  }, {
+    "tStartMs": 575640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So if the mouse treats its\nreturn as a new journey,"
+    } ]
+  }, {
+    "tStartMs": 578880,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "it can use the return trip\nto search the maze as well."
+    } ]
+  }, {
+    "tStartMs": 583140,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Between these two attempts,\nboth optimized to find"
+    } ]
+  }, {
+    "tStartMs": 585780,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "the shortest path from start to finish,"
+    } ]
+  }, {
+    "tStartMs": 587640,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "it's extremely likely that\nthe mouse will discover it,"
+    } ]
+  }, {
+    "tStartMs": 590580,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and the mouse will have\ndone it efficiently,"
+    } ]
+  }, {
+    "tStartMs": 592710,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "often leaving irrelevant areas"
+    } ]
+  }, {
+    "tStartMs": 594210,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "of the maze entirely untouched."
+    } ]
+  }, {
+    "tStartMs": 596670,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Flood fill offers both an\nintelligent and practical way"
+    } ]
+  }, {
+    "tStartMs": 600090,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "for Micromice to find the\nshortest path through the maze."
+    } ]
+  }, {
+    "tStartMs": 603960,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Once there was a clear strategy\nto find the shortest path,"
+    } ]
+  }, {
+    "tStartMs": 606690,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and once the microcontrollers and sensors"
+    } ]
+  }, {
+    "tStartMs": 608790,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "required to implement it became common,"
+    } ]
+  }, {
+    "tStartMs": 611010,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "some people believed\nMicromouse had run its course."
+    } ]
+  }, {
+    "tStartMs": 614130,
+    "dDurationMs": 2047,
+    "segs": [ {
+      "utf8": "As a paper published in IEEE put it,"
+    } ]
+  }, {
+    "tStartMs": 616177,
+    "dDurationMs": 1553,
+    "segs": [ {
+      "utf8": "\"At the end of the 1980s,"
+    } ]
+  }, {
+    "tStartMs": 617730,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "the Micromouse Contest\nhad outlived itself."
+    } ]
+  }, {
+    "tStartMs": 620580,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "The problem was solved,"
+    } ]
+  }, {
+    "tStartMs": 621780,
+    "dDurationMs": 2547,
+    "segs": [ {
+      "utf8": "and did not provide any new challenges.\""
+    } ]
+  }, {
+    "tStartMs": 625342,
+    "dDurationMs": 2318,
+    "segs": [ {
+      "utf8": "(people chattering)"
+    } ]
+  }, {
+    "tStartMs": 627660,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "In the 2017 All Japan\nMicromouse Competition,"
+    } ]
+  }, {
+    "tStartMs": 630810,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "both the bronze-and silver-placing mice"
+    } ]
+  }, {
+    "tStartMs": 633150,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "found the shortest path to\nthe goal, and once they did,"
+    } ]
+  }, {
+    "tStartMs": 635880,
+    "dDurationMs": 3693,
+    "segs": [ {
+      "utf8": "they were able to zip along\nit as quick as 7.4 seconds."
+    } ]
+  }, {
+    "tStartMs": 640528,
+    "dDurationMs": 992,
+    "segs": [ {
+      "utf8": "(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 641520,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "But Masakazu Utsunomiya's\nwinning mouse, Red Comet,"
+    } ]
+  }, {
+    "tStartMs": 644790,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "did something entirely different."
+    } ]
+  }, {
+    "tStartMs": 647250,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "This is the shortest path to the goal,"
+    } ]
+  }, {
+    "tStartMs": 649410,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "the one that everyone took."
+    } ]
+  }, {
+    "tStartMs": 651120,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "This is the path that Red Comet took."
+    } ]
+  }, {
+    "tStartMs": 654030,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "It's a full 5 1/2 meters longer."
+    } ]
+  }, {
+    "tStartMs": 657180,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "That's because Micromice\naren't actually searching"
+    } ]
+  }, {
+    "tStartMs": 659340,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "for the shortest path,"
+    } ]
+  }, {
+    "tStartMs": 660570,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "they're searching for the fastest path."
+    } ]
+  }, {
+    "tStartMs": 662820,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "And Red Comet's search\nalgorithm figured out"
+    } ]
+  }, {
+    "tStartMs": 665010,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "that this path had fewer\nturns to slow it down."
+    } ]
+  }, {
+    "tStartMs": 667860,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So even though the path was longer,"
+    } ]
+  }, {
+    "tStartMs": 670140,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "it could end up being faster."
+    } ]
+  }, {
+    "tStartMs": 672420,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "So it took that risk."
+    } ]
+  }, {
+    "tStartMs": 674581,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "(announcer speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 680729,
+    "dDurationMs": 2941,
+    "segs": [ {
+      "utf8": "(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 683670,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "- [Derek] It won by 131 milliseconds."
+    } ]
+  }, {
+    "tStartMs": 687680,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 689700,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Differing routes at competition"
+    } ]
+  }, {
+    "tStartMs": 691050,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "are now more common than not,"
+    } ]
+  }, {
+    "tStartMs": 692850,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and even just getting to\nthe goal remains difficult,"
+    } ]
+  }, {
+    "tStartMs": 695730,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "whether due to a mysterious algorithm"
+    } ]
+  }, {
+    "tStartMs": 697650,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "or a quirk of the physical maze."
+    } ]
+  }, {
+    "tStartMs": 699543,
+    "dDurationMs": 927,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 700470,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "- [Commentator] The corner,\nit's a little bit like a..."
+    } ]
+  }, {
+    "tStartMs": 702380,
+    "dDurationMs": 972,
+    "segs": [ {
+      "utf8": "Whoa!"
+    } ]
+  }, {
+    "tStartMs": 703352,
+    "dDurationMs": 4858,
+    "segs": [ {
+      "utf8": "(commentator speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 708210,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "- [Derek] Micromice don't\nalways behave as you'd expect."
+    } ]
+  }, {
+    "tStartMs": 712063,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "(competitor speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 724828,
+    "dDurationMs": 1412,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 726240,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Micromouse is far from solved,"
+    } ]
+  }, {
+    "tStartMs": 728130,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "because it's not just a software problem"
+    } ]
+  }, {
+    "tStartMs": 730110,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "or a hardware problem, it's both."
+    } ]
+  }, {
+    "tStartMs": 732570,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "It's a robotics problem."
+    } ]
+  }, {
+    "tStartMs": 734580,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Red Comet didn't win"
+    } ]
+  }, {
+    "tStartMs": 735720,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "because it had a better search algorithm"
+    } ]
+  }, {
+    "tStartMs": 737310,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "or because it had faster motors."
+    } ]
+  }, {
+    "tStartMs": 739290,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Its cleverness came from how the brains"
+    } ]
+  }, {
+    "tStartMs": 741180,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and body of the mouse interacted together."
+    } ]
+  }, {
+    "tStartMs": 743910,
+    "dDurationMs": 2462,
+    "segs": [ {
+      "utf8": "- So it turns out solving\nthe maze is not the problem."
+    } ]
+  }, {
+    "tStartMs": 746372,
+    "dDurationMs": 1498,
+    "segs": [ {
+      "utf8": "It never was the problem, right?"
+    } ]
+  }, {
+    "tStartMs": 747870,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "But it's actually about navigation,"
+    } ]
+  }, {
+    "tStartMs": 749580,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "and it's about going fast."
+    } ]
+  }, {
+    "tStartMs": 751290,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "- Every year, the robots get\nsmaller, faster, lighter."
+    } ]
+  }, {
+    "tStartMs": 754710,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "There is still plenty of innovation left."
+    } ]
+  }, {
+    "tStartMs": 757620,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "And there's a small group\nof devotees in Japan"
+    } ]
+  }, {
+    "tStartMs": 761370,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "busy building quarter-size Micromouse"
+    } ]
+  }, {
+    "tStartMs": 763710,
+    "dDurationMs": 1563,
+    "segs": [ {
+      "utf8": "which would sit on a quarter."
+    } ]
+  }, {
+    "tStartMs": 766138,
+    "dDurationMs": 4352,
+    "segs": [ {
+      "utf8": "(commentator speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 770490,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "- [Derek] Nearly 50 years on,"
+    } ]
+  }, {
+    "tStartMs": 771960,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "Micromouse is bigger than ever."
+    } ]
+  }, {
+    "tStartMs": 776746,
+    "dDurationMs": 3916,
+    "segs": [ {
+      "utf8": "(commentator speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 780662,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 786270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- [Derek] Competitions\nhave appeared solved"
+    } ]
+  }, {
+    "tStartMs": 788010,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "at first glance before."
+    } ]
+  }, {
+    "tStartMs": 789630,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The high jump was an\nOlympic sport since 1896,"
+    } ]
+  }, {
+    "tStartMs": 792510,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "with competitors refining their jumps"
+    } ]
+  }, {
+    "tStartMs": 794280,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "using variations like the\nscissor, the western roll,"
+    } ]
+  }, {
+    "tStartMs": 797220,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "and the straddle over the\ndecades, with diminishing returns."
+    } ]
+  }, {
+    "tStartMs": 800610,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "But once foam padding became\nstandard in competition,"
+    } ]
+  }, {
+    "tStartMs": 803880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Dick Fosbury rewrote the sport in 1968"
+    } ]
+  }, {
+    "tStartMs": 806760,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "by becoming the first Olympian"
+    } ]
+  }, {
+    "tStartMs": 808410,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "to jump over the pole backwards."
+    } ]
+  }, {
+    "tStartMs": 810960,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now almost every high jumper does"
+    } ]
+  }, {
+    "tStartMs": 813150,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "what's known as the Fosbury flop."
+    } ]
+  }, {
+    "tStartMs": 816150,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "If Micromouse had indeed\nstopped in the 1980s,"
+    } ]
+  }, {
+    "tStartMs": 819000,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "the competition would've\nmissed its own Fosbury flops,"
+    } ]
+  }, {
+    "tStartMs": 822210,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "two innovations that completely\nchanged how Micromice ran."
+    } ]
+  }, {
+    "tStartMs": 826140,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "After all, a lot can change\nin a sport where competitors"
+    } ]
+  }, {
+    "tStartMs": 828750,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "can solder on any\nupgrade they can imagine."
+    } ]
+  }, {
+    "tStartMs": 832830,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "The first Fosbury flop"
+    } ]
+  }, {
+    "tStartMs": 834120,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "was one of the earliest\ninnovations in Micromouse,"
+    } ]
+  }, {
+    "tStartMs": 836700,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and had nothing to do with technology."
+    } ]
+  }, {
+    "tStartMs": 839250,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "It was simply a way of\nthinking outside the box,"
+    } ]
+  }, {
+    "tStartMs": 841980,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "or rather, cutting through the box."
+    } ]
+  }, {
+    "tStartMs": 844440,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Every mouse used to\nturn corners like this."
+    } ]
+  }, {
+    "tStartMs": 848541,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "(Micromouse whirring)"
+    } ]
+  }, {
+    "tStartMs": 850110,
+    "dDurationMs": 3013,
+    "segs": [ {
+      "utf8": "But everything changed\nwith the mouse Mitee 3."
+    } ]
+  }, {
+    "tStartMs": 853123,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "- So Mitee Mouse 3 implemented\ndiagonals for the first time."
+    } ]
+  }, {
+    "tStartMs": 858188,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(people chattering)"
+    } ]
+  }, {
+    "tStartMs": 863100,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "And that turned out to\nbe a much better idea"
+    } ]
+  }, {
+    "tStartMs": 865170,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "than we really thought."
+    } ]
+  }, {
+    "tStartMs": 866430,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And because it's cool, you know,"
+    } ]
+  }, {
+    "tStartMs": 868710,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "maze designers often put\ndiagonals into the maze now."
+    } ]
+  }, {
+    "tStartMs": 871650,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "So, you know,"
+    } ]
+  }, {
+    "tStartMs": 872910,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "you could end up with a maze\nwhere it never comes up,"
+    } ]
+  }, {
+    "tStartMs": 875130,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "but most of the time\nit's actually a benefit."
+    } ]
+  }, {
+    "tStartMs": 877860,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- [Derek] In order to pull off diagonals,"
+    } ]
+  }, {
+    "tStartMs": 879720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "the chassis of the mouse had to be reduced"
+    } ]
+  }, {
+    "tStartMs": 881700,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to less than 11 centimeters wide,"
+    } ]
+  }, {
+    "tStartMs": 883980,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "or just five centimeters\nfor half-size Micromouse."
+    } ]
+  }, {
+    "tStartMs": 886770,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "The sensors and software of\nthe mouse had to change, too."
+    } ]
+  }, {
+    "tStartMs": 889680,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "When you're running\nbetween parallel walls,"
+    } ]
+  }, {
+    "tStartMs": 891540,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "all you have to do is\nmaintain an equal distance"
+    } ]
+  }, {
+    "tStartMs": 893760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "between your left and\nright infrared readings."
+    } ]
+  }, {
+    "tStartMs": 896400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "But a diagonal requires\nan entirely new algorithm,"
+    } ]
+  }, {
+    "tStartMs": 899880,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "one that essentially guides the mouse"
+    } ]
+  }, {
+    "tStartMs": 901680,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "as if it had blinders on."
+    } ]
+  }, {
+    "tStartMs": 903510,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- Normally, if you're going\nalong the side of a wall,"
+    } ]
+  }, {
+    "tStartMs": 905760,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "or something like that,"
+    } ]
+  }, {
+    "tStartMs": 906930,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "most of the time you can\nsee the wall all the time."
+    } ]
+  }, {
+    "tStartMs": 909630,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And so that helps you to guide yourself,"
+    } ]
+  }, {
+    "tStartMs": 912450,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and you know when you're getting off."
+    } ]
+  }, {
+    "tStartMs": 914310,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "But in the diagonal situation,"
+    } ]
+  }, {
+    "tStartMs": 916260,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "you just see these walls coming at you."
+    } ]
+  }, {
+    "tStartMs": 918360,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "- [Derek] And if you veer\neven a tiny bit off course,"
+    } ]
+  }, {
+    "tStartMs": 921300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "snagging a corner is a lot less forgiving"
+    } ]
+  }, {
+    "tStartMs": 923400,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "than sliding against a wall."
+    } ]
+  }, {
+    "tStartMs": 925320,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Diagonals are still one\nof the biggest sources"
+    } ]
+  }, {
+    "tStartMs": 927390,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "of crashes in competition today."
+    } ]
+  }, {
+    "tStartMs": 930780,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But in exchange, a jagged path of turns"
+    } ]
+  }, {
+    "tStartMs": 933300,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "transforms into one narrow straightaway."
+    } ]
+  }, {
+    "tStartMs": 936421,
+    "dDurationMs": 1062,
+    "segs": [ {
+      "utf8": "- [Commentator] Oh!"
+    } ]
+  }, {
+    "tStartMs": 937483,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "Whoa!\n(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 939382,
+    "dDurationMs": 3009,
+    "segs": [ {
+      "utf8": "(audience applauding)"
+    } ]
+  }, {
+    "tStartMs": 942391,
+    "dDurationMs": 1859,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 944250,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- [Derek] These days, nearly\nevery competitive Micromouse"
+    } ]
+  }, {
+    "tStartMs": 946800,
+    "dDurationMs": 2073,
+    "segs": [ {
+      "utf8": "is designed to take this risk."
+    } ]
+  }, {
+    "tStartMs": 950310,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Cutting diagonals opened up\nroom for even more ideas."
+    } ]
+  }, {
+    "tStartMs": 953700,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Around the same time,"
+    } ]
+  }, {
+    "tStartMs": 954780,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "mice were applying similar\nstrategies to turning."
+    } ]
+  }, {
+    "tStartMs": 957810,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Instead of stopping and pivoting\nthrough two right turns,"
+    } ]
+  }, {
+    "tStartMs": 960870,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "a mouse could sweep around\nin a single U-turn motion."
+    } ]
+  }, {
+    "tStartMs": 964110,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "And once the possibility\nof diagonals were added,"
+    } ]
+  }, {
+    "tStartMs": 966540,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "the total number of possible\nturns opened up exponentially."
+    } ]
+  }, {
+    "tStartMs": 970530,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "The maze was no longer just\na grid of square hallways."
+    } ]
+  }, {
+    "tStartMs": 974220,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "With so many more options to weigh,"
+    } ]
+  }, {
+    "tStartMs": 976620,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "figuring out the best path\nbecame more complex than ever."
+    } ]
+  }, {
+    "tStartMs": 980370,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "But the payoff was dramatic."
+    } ]
+  }, {
+    "tStartMs": 982350,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "What was once a series of stops and starts"
+    } ]
+  }, {
+    "tStartMs": 984450,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "could now be a single,\nfluid, snaking motion."
+    } ]
+  }, {
+    "tStartMs": 987270,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "How Micromice imagined\nand moved through the maze"
+    } ]
+  }, {
+    "tStartMs": 989880,
+    "dDurationMs": 1665,
+    "segs": [ {
+      "utf8": "had changed completely."
+    } ]
+  }, {
+    "tStartMs": 991545,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 995850,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Available technology was getting upgrades"
+    } ]
+  }, {
+    "tStartMs": 997740,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "over the years as well."
+    } ]
+  }, {
+    "tStartMs": 999390,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Tall and unwieldy arms that\nwere used to find walls"
+    } ]
+  }, {
+    "tStartMs": 1002390,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "were replaced by a smaller array"
+    } ]
+  }, {
+    "tStartMs": 1004280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of infrared sensors on board the mouse."
+    } ]
+  }, {
+    "tStartMs": 1006920,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Precise stepper motors were traded in"
+    } ]
+  }, {
+    "tStartMs": 1008690,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "for continuous DC motors and encoders."
+    } ]
+  }, {
+    "tStartMs": 1011390,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- The DC motors give you more power"
+    } ]
+  }, {
+    "tStartMs": 1013160,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "for less size and weight,"
+    } ]
+  }, {
+    "tStartMs": 1014720,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "and so we were interested in doing that."
+    } ]
+  }, {
+    "tStartMs": 1016310,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So then you have to have a servo."
+    } ]
+  }, {
+    "tStartMs": 1018110,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "You have to actually have\nfeedback on the motor"
+    } ]
+  }, {
+    "tStartMs": 1020510,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to make it do the right thing."
+    } ]
+  }, {
+    "tStartMs": 1022010,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "- [Derek] Gyroscopes added an\nextra sense of orientation."
+    } ]
+  }, {
+    "tStartMs": 1026540,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "It's like a compass, if you\nhad this thing with you."
+    } ]
+  }, {
+    "tStartMs": 1029627,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "- They came about cause\nof mobile phones, really."
+    } ]
+  }, {
+    "tStartMs": 1031960,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "so the technology provides people"
+    } ]
+  }, {
+    "tStartMs": 1033860,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "with things which weren't there before."
+    } ]
+  }, {
+    "tStartMs": 1035540,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "All of the turning is\ndone based off the gyro"
+    } ]
+  }, {
+    "tStartMs": 1038840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "rather than counting\npulses off the wheels,"
+    } ]
+  }, {
+    "tStartMs": 1041480,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "because it's much more reliable."
+    } ]
+  }, {
+    "tStartMs": 1043040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- [Derek] But even with all\nthe mechanical upgrades,"
+    } ]
+  }, {
+    "tStartMs": 1045200,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "the biggest physical issue for Micromice"
+    } ]
+  }, {
+    "tStartMs": 1047060,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "went unaddressed for decades."
+    } ]
+  }, {
+    "tStartMs": 1049220,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "One thing you'll see almost\nevery competitor holding"
+    } ]
+  }, {
+    "tStartMs": 1051710,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "is a roll of tape."
+    } ]
+  }, {
+    "tStartMs": 1053540,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Once you know to look for\nit, you'll see it everywhere."
+    } ]
+  }, {
+    "tStartMs": 1056240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This tape isn't for repairs\nor reattaching fallen parts."
+    } ]
+  }, {
+    "tStartMs": 1060080,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "It's to gather specs of dust"
+    } ]
+  }, {
+    "tStartMs": 1061910,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "off the wheels in between rounds."
+    } ]
+  }, {
+    "tStartMs": 1064400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "At the speed and precision\nthese robots are operating,"
+    } ]
+  }, {
+    "tStartMs": 1067100,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "that tiny change in friction\nis enough to ruin a run."
+    } ]
+  }, {
+    "tStartMs": 1073280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "If you wanna turn while driving fast,"
+    } ]
+  }, {
+    "tStartMs": 1075440,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "you need centripetal force to\naccelerate you into the turn."
+    } ]
+  }, {
+    "tStartMs": 1079250,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "And the faster you're moving,"
+    } ]
+  }, {
+    "tStartMs": 1080540,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "the more force you need\nto keep you on the track."
+    } ]
+  }, {
+    "tStartMs": 1083690,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "The only centripetal force for a car"
+    } ]
+  }, {
+    "tStartMs": 1085640,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "turning on flat ground is friction,"
+    } ]
+  }, {
+    "tStartMs": 1088160,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "which is determined by two things,"
+    } ]
+  }, {
+    "tStartMs": 1090140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "the road pushing up the weight of the car,"
+    } ]
+  }, {
+    "tStartMs": 1092360,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "or the normal force,"
+    } ]
+  }, {
+    "tStartMs": 1093590,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "multiplied by the static\ncoefficient of friction,"
+    } ]
+  }, {
+    "tStartMs": 1096020,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "which is the friction of the interface"
+    } ]
+  }, {
+    "tStartMs": 1097670,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "between the tire and road surface."
+    } ]
+  }, {
+    "tStartMs": 1099950,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "This is why racetracks have banked turns."
+    } ]
+  }, {
+    "tStartMs": 1102710,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The steep angles help cars\nturn with less friction,"
+    } ]
+  }, {
+    "tStartMs": 1105950,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "because part of the normal\nforce itself now points in"
+    } ]
+  }, {
+    "tStartMs": 1109280,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to contribute to the\ncentripetal force required."
+    } ]
+  }, {
+    "tStartMs": 1112130,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "If the banked turn is steep enough,"
+    } ]
+  }, {
+    "tStartMs": 1113720,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "cars can actually make the turn\nwithout any friction at all."
+    } ]
+  }, {
+    "tStartMs": 1117260,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "The inward component of the\nnormal force alone is enough"
+    } ]
+  }, {
+    "tStartMs": 1119960,
+    "dDurationMs": 3322,
+    "segs": [ {
+      "utf8": "to provide the centripetal\nforce required to stay on track."
+    } ]
+  }, {
+    "tStartMs": 1123282,
+    "dDurationMs": 1598,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 1124880,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Micromice are no different,"
+    } ]
+  }, {
+    "tStartMs": 1126470,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and they don't have banked turns to help."
+    } ]
+  }, {
+    "tStartMs": 1129170,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "As they got faster and\nfaster, by the early 2000s,"
+    } ]
+  }, {
+    "tStartMs": 1132200,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "their limiting factor was no longer speed,"
+    } ]
+  }, {
+    "tStartMs": 1134660,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "but control of that speed."
+    } ]
+  }, {
+    "tStartMs": 1136790,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "They had to set their\ncenter of gravity low,"
+    } ]
+  }, {
+    "tStartMs": 1139250,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and slow down during turns"
+    } ]
+  }, {
+    "tStartMs": 1140870,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "to avoid slipping into\na wall or flipping over."
+    } ]
+  }, {
+    "tStartMs": 1144320,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "But unlike race cars, there\nwasn't anything in the rules"
+    } ]
+  }, {
+    "tStartMs": 1146870,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "to stop Micromouse competitors\nfrom solving this problem"
+    } ]
+  }, {
+    "tStartMs": 1149810,
+    "dDurationMs": 2883,
+    "segs": [ {
+      "utf8": "by engineering an entirely new mechanism."
+    } ]
+  }, {
+    "tStartMs": 1154820,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Micromouse's second Fosbury flop"
+    } ]
+  }, {
+    "tStartMs": 1156740,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "was almost considered a gimmick"
+    } ]
+  }, {
+    "tStartMs": 1158300,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "when the mouse Mokomo08\nfirst used it in competition."
+    } ]
+  }, {
+    "tStartMs": 1162140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "You might be staring at\nthe video to try to see it,"
+    } ]
+  }, {
+    "tStartMs": 1164540,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "but you won't."
+    } ]
+  }, {
+    "tStartMs": 1165650,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Instead, it's something you'll hear."
+    } ]
+  }, {
+    "tStartMs": 1167980,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "(Micromouse whirring)"
+    } ]
+  }, {
+    "tStartMs": 1170900,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That isn't the mouse revving its engines."
+    } ]
+  }, {
+    "tStartMs": 1172820,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "It's spinning up a propeller."
+    } ]
+  }, {
+    "tStartMs": 1175160,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "And while flying over the\nwalls is against the rules,"
+    } ]
+  }, {
+    "tStartMs": 1178220,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "there's nothing in the\nrules against a mouse"
+    } ]
+  }, {
+    "tStartMs": 1179900,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "vacuuming itself to the\nground to prevent slipping."
+    } ]
+  }, {
+    "tStartMs": 1182690,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- Dave Otten was the first person"
+    } ]
+  }, {
+    "tStartMs": 1184820,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "I saw put a fan on a mouse,"
+    } ]
+  }, {
+    "tStartMs": 1186890,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "but he used a ducted fan,"
+    } ]
+  }, {
+    "tStartMs": 1188810,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and I think he was really looking\nat kind of reaction force,"
+    } ]
+  }, {
+    "tStartMs": 1191750,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "you know, blowing the thing down."
+    } ]
+  }, {
+    "tStartMs": 1193220,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "He had a skirt around, but it\nwas not terribly effective."
+    } ]
+  }, {
+    "tStartMs": 1198590,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Forgive me for saying this, though."
+    } ]
+  }, {
+    "tStartMs": 1200090,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The idea is to let as\nlittle air in as possible."
+    } ]
+  }, {
+    "tStartMs": 1204530,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "And like your vacuum cleaner,"
+    } ]
+  }, {
+    "tStartMs": 1205790,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "when you block your vacuum cleaner, right,"
+    } ]
+  }, {
+    "tStartMs": 1207470,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "the motor unloads and speeds\nup, and so the current drops."
+    } ]
+  }, {
+    "tStartMs": 1211340,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "But if you let too much air\nin, the current's very high."
+    } ]
+  }, {
+    "tStartMs": 1214430,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "And these are just quadcopter motors,"
+    } ]
+  }, {
+    "tStartMs": 1216740,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and they draw a lot of current."
+    } ]
+  }, {
+    "tStartMs": 1218150,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "- [Derek] At the scale of\nMicromouse, a vacuum fan,"
+    } ]
+  }, {
+    "tStartMs": 1220940,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "often just built from\nhandheld drone parts,"
+    } ]
+  }, {
+    "tStartMs": 1224030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "is enough to generate a downward force"
+    } ]
+  }, {
+    "tStartMs": 1226280,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "five times the mouse's weight."
+    } ]
+  }, {
+    "tStartMs": 1229640,
+    "dDurationMs": 1173,
+    "segs": [ {
+      "utf8": "Wow. Okay."
+    } ]
+  }, {
+    "tStartMs": 1231860,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "That's impressive."
+    } ]
+  }, {
+    "tStartMs": 1232880,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "So how much does the car actually weigh?"
+    } ]
+  }, {
+    "tStartMs": 1234950,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- About 130 grams."
+    } ]
+  }, {
+    "tStartMs": 1236780,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "And if you listen,"
+    } ]
+  }, {
+    "tStartMs": 1237989,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I don't know if you'll get\nit on your microphone, but-"
+    } ]
+  }, {
+    "tStartMs": 1239879,
+    "dDurationMs": 951,
+    "segs": [ {
+      "utf8": "(motor whirring)"
+    } ]
+  }, {
+    "tStartMs": 1240830,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "- Oh yeah.\n- you can hear"
+    } ]
+  }, {
+    "tStartMs": 1242153,
+    "dDurationMs": 3147,
+    "segs": [ {
+      "utf8": "the motors slow down, and it loads up."
+    } ]
+  }, {
+    "tStartMs": 1245300,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- [Derek] With that much friction,"
+    } ]
+  }, {
+    "tStartMs": 1246860,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Micromice today can turn corners"
+    } ]
+  }, {
+    "tStartMs": 1248780,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "with a centripetal acceleration\napproaching six Gs."
+    } ]
+  }, {
+    "tStartMs": 1252440,
+    "dDurationMs": 3184,
+    "segs": [ {
+      "utf8": "That's the same as F1 cars."
+    } ]
+  }, {
+    "tStartMs": 1255624,
+    "dDurationMs": 2456,
+    "segs": [ {
+      "utf8": "(engines revving)"
+    } ]
+  }, {
+    "tStartMs": 1258080,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Once nearly everyone equipped fans,"
+    } ]
+  }, {
+    "tStartMs": 1260450,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "the added control allowed builders"
+    } ]
+  }, {
+    "tStartMs": 1262250,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to push the speed limit on Micromice."
+    } ]
+  }, {
+    "tStartMs": 1264410,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "- When it's allowed to,"
+    } ]
+  }, {
+    "tStartMs": 1265610,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "it will out-accelerate a Tesla Roadster,"
+    } ]
+  }, {
+    "tStartMs": 1268190,
+    "dDurationMs": 1421,
+    "segs": [ {
+      "utf8": "but not for very far."
+    } ]
+  }, {
+    "tStartMs": 1269611,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "(Derek laughs)"
+    } ]
+  }, {
+    "tStartMs": 1270444,
+    "dDurationMs": 1106,
+    "segs": [ {
+      "utf8": "- [Derek] And they can zip along"
+    } ]
+  }, {
+    "tStartMs": 1271550,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "at up to seven meters per second,"
+    } ]
+  }, {
+    "tStartMs": 1273650,
+    "dDurationMs": 2053,
+    "segs": [ {
+      "utf8": "faster than most people can run."
+    } ]
+  }, {
+    "tStartMs": 1275703,
+    "dDurationMs": 3215,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 1278918,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "(Micromouse whirring)"
+    } ]
+  }, {
+    "tStartMs": 1289931,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 1296030,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Every one of the features now standard"
+    } ]
+  }, {
+    "tStartMs": 1297800,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "on the modern Micromouse\nwas once an experiment,"
+    } ]
+  }, {
+    "tStartMs": 1300410,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and the next Fosbury flop\nmight not be far off."
+    } ]
+  }, {
+    "tStartMs": 1303770,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "The first four-wheeled Micromouse"
+    } ]
+  }, {
+    "tStartMs": 1305570,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "to win the All Japan\ncompetition did so in 1988,"
+    } ]
+  }, {
+    "tStartMs": 1309680,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "but it would take another 22 years"
+    } ]
+  }, {
+    "tStartMs": 1311600,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "of the winning mouse growing\nand losing appendages"
+    } ]
+  }, {
+    "tStartMs": 1314270,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "before four-wheeled mice became the norm."
+    } ]
+  }, {
+    "tStartMs": 1317390,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "With Micromice still experimenting"
+    } ]
+  }, {
+    "tStartMs": 1319370,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "in six- and eight-wheel designs,"
+    } ]
+  }, {
+    "tStartMs": 1321260,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "omnidirectional movement,\nand even computer vision,"
+    } ]
+  }, {
+    "tStartMs": 1324200,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "who knows what the next\nparadigm shift will be?"
+    } ]
+  }, {
+    "tStartMs": 1326810,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "- [Commentator] Your time\non the maze actually begins"
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 2397,
+    "segs": [ {
+      "utf8": "only when you leave the start square,"
+    } ]
+  }, {
+    "tStartMs": 1331397,
+    "dDurationMs": 3096,
+    "segs": [ {
+      "utf8": "so he's not penalized\nfor any of this time."
+    } ]
+  }, {
+    "tStartMs": 1337610,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- [Derek] But if you wanna\nget started with Micromouse,"
+    } ]
+  }, {
+    "tStartMs": 1339560,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "you don't need to worry about\nwheel count or vacuum fans,"
+    } ]
+  }, {
+    "tStartMs": 1342500,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "or even diagonals."
+    } ]
+  }, {
+    "tStartMs": 1344180,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- It is, to my mind,\nthe perfect combination"
+    } ]
+  }, {
+    "tStartMs": 1346730,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "of all the major disciplines that you need"
+    } ]
+  }, {
+    "tStartMs": 1350270,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "for robotics and\nengineering and programming,"
+    } ]
+  }, {
+    "tStartMs": 1354140,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "embedded systems,"
+    } ]
+  }, {
+    "tStartMs": 1355640,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "all wrapped up in one accessible bundle"
+    } ]
+  }, {
+    "tStartMs": 1358220,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "that you can do in your living room,"
+    } ]
+  }, {
+    "tStartMs": 1360020,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and you don't need a laboratory to run it."
+    } ]
+  }, {
+    "tStartMs": 1365477,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "You come along because you're\ncurious, and then you think,"
+    } ]
+  }, {
+    "tStartMs": 1369717,
+    "dDurationMs": 2663,
+    "segs": [ {
+      "utf8": "\"I could do that. That\ndoesn't look so hard.\""
+    } ]
+  }, {
+    "tStartMs": 1372380,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "And then you're doomed, really."
+    } ]
+  }, {
+    "tStartMs": 1373700,
+    "dDurationMs": 3922,
+    "segs": [ {
+      "utf8": "If it sucks you in, it turns\ninto quite the journey."
+    } ]
+  }, {
+    "tStartMs": 1377622,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "(commentator speaking in Japanese)"
+    } ]
+  }, {
+    "tStartMs": 1388404,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 1394520,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] At its core,"
+    } ]
+  }, {
+    "tStartMs": 1395353,
+    "dDurationMs": 4177,
+    "segs": [ {
+      "utf8": "Micromouse is just about a\nmouse trying to solve a maze."
+    } ]
+  }, {
+    "tStartMs": 1399530,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Though, nearly 50 years later,"
+    } ]
+  }, {
+    "tStartMs": 1401000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "it's a simple problem\nthat's a good reminder,"
+    } ]
+  }, {
+    "tStartMs": 1403760,
+    "dDurationMs": 2853,
+    "segs": [ {
+      "utf8": "there is no such thing\nas a simple problem."
+    } ]
+  }, {
+    "tStartMs": 1408289,
+    "dDurationMs": 2907,
+    "segs": [ {
+      "utf8": "♪ Micromouse, is for the taking ♪"
+    } ]
+  }, {
+    "tStartMs": 1411196,
+    "dDurationMs": 3525,
+    "segs": [ {
+      "utf8": "♪ Micromouse, is here and now ♪"
+    } ]
+  }, {
+    "tStartMs": 1414721,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "♪ Take a chance, and start creating ♪"
+    } ]
+  }, {
+    "tStartMs": 1418244,
+    "dDurationMs": 3419,
+    "segs": [ {
+      "utf8": "♪ Micromouse, will show you how ♪"
+    } ]
+  }, {
+    "tStartMs": 1421663,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(logo beeping)"
+    } ]
+  }, {
+    "tStartMs": 1425800,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "- If you wanna build your own Micromouse,"
+    } ]
+  }, {
+    "tStartMs": 1427940,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "you'll likely need to design parts"
+    } ]
+  }, {
+    "tStartMs": 1429620,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "using a 3D CAD program like Onshape,"
+    } ]
+  }, {
+    "tStartMs": 1432350,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "the sponsor of this video."
+    } ]
+  }, {
+    "tStartMs": 1434180,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Onshape is a modern CAD plus PDM system"
+    } ]
+  }, {
+    "tStartMs": 1436910,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "designed for businesses,"
+    } ]
+  }, {
+    "tStartMs": 1438170,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "and completely free for\nmakers and hobbyists to use."
+    } ]
+  }, {
+    "tStartMs": 1442220,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Any serious hardware product\nneeds a precise design"
+    } ]
+  }, {
+    "tStartMs": 1445070,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "in order to be successfully\nmade in the real world,"
+    } ]
+  }, {
+    "tStartMs": 1447860,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "from a Micromouse model like this one"
+    } ]
+  }, {
+    "tStartMs": 1450110,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "to a professional V2\nengine model like this one."
+    } ]
+  }, {
+    "tStartMs": 1453830,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Unlike traditional CAD programs,"
+    } ]
+  }, {
+    "tStartMs": 1455300,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "which are installed on premises,"
+    } ]
+  }, {
+    "tStartMs": 1457160,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Onshape was built entirely in the cloud,"
+    } ]
+  }, {
+    "tStartMs": 1459590,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "which allows engineering and design teams"
+    } ]
+  }, {
+    "tStartMs": 1461330,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to collaborate like never before."
+    } ]
+  }, {
+    "tStartMs": 1463610,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Onshape allows you to\nwork together in real time"
+    } ]
+  }, {
+    "tStartMs": 1466190,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "on the same design with multiple users,"
+    } ]
+  }, {
+    "tStartMs": 1468380,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "just like Google Docs."
+    } ]
+  }, {
+    "tStartMs": 1469850,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "This completely eliminates the need"
+    } ]
+  }, {
+    "tStartMs": 1471530,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "for emailing large files back and forth"
+    } ]
+  }, {
+    "tStartMs": 1473540,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and trying to keep track of who\nhas the most recent version,"
+    } ]
+  }, {
+    "tStartMs": 1476120,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "whether it's V2 or V22."
+    } ]
+  }, {
+    "tStartMs": 1479180,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "With Onshape, Agile methodologies"
+    } ]
+  }, {
+    "tStartMs": 1481130,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "that are common in software development"
+    } ]
+  }, {
+    "tStartMs": 1482780,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "are now being adopted\nin hardware development"
+    } ]
+  }, {
+    "tStartMs": 1485420,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "to allow companies to build\nbetter products faster."
+    } ]
+  }, {
+    "tStartMs": 1488630,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Onshape's not only great for businesses,"
+    } ]
+  }, {
+    "tStartMs": 1490400,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "but also for open source projects,"
+    } ]
+  }, {
+    "tStartMs": 1492050,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "or just working on\ndesigns with your friends."
+    } ]
+  }, {
+    "tStartMs": 1494420,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Again, it's totally free for hobbyists,"
+    } ]
+  }, {
+    "tStartMs": 1496490,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "so you can try it out for\nyourself as much as you like"
+    } ]
+  }, {
+    "tStartMs": 1499070,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "at onshape.pro/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1502010,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You can take Onshape\nwith you wherever you go."
+    } ]
+  }, {
+    "tStartMs": 1504530,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "You don't need a powerful desktop"
+    } ]
+  }, {
+    "tStartMs": 1506270,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "or a specific operating system to run it."
+    } ]
+  }, {
+    "tStartMs": 1508430,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Whether you're on a Mac or PC,"
+    } ]
+  }, {
+    "tStartMs": 1510260,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "or even just on your phone,\nyou can easily use Onshape."
+    } ]
+  }, {
+    "tStartMs": 1513650,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "So to get started, sign up for free"
+    } ]
+  }, {
+    "tStartMs": 1515270,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "at onshape.pro/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1517820,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I wanna thank Onshape for\nsponsoring this video,"
+    } ]
+  }, {
+    "tStartMs": 1519920,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

@@ -1,0 +1,2965 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 60,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "- This is the most dangerous\nproblem in mathematics,"
+    } ]
+  }, {
+    "tStartMs": 3630,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "one that young mathematicians are warned"
+    } ]
+  }, {
+    "tStartMs": 6060,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "not to waste their time on."
+    } ]
+  }, {
+    "tStartMs": 8050,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "It's a simple conjecture"
+    } ]
+  }, {
+    "tStartMs": 9520,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "that not even the world's\nbest mathematicians"
+    } ]
+  }, {
+    "tStartMs": 11700,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "have been able to solve."
+    } ]
+  }, {
+    "tStartMs": 13330,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "Paul Erdos, a famous mathematician, said,"
+    } ]
+  }, {
+    "tStartMs": 16167,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "\"Mathematics is not yet ripe\nenough for such questions.\""
+    } ]
+  }, {
+    "tStartMs": 21160,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Here's how it works."
+    } ]
+  }, {
+    "tStartMs": 22950,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Pick a number, any number."
+    } ]
+  }, {
+    "tStartMs": 25290,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Seven?"
+    } ]
+  }, {
+    "tStartMs": 26230,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Good choice."
+    } ]
+  }, {
+    "tStartMs": 27390,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Okay, we're gonna apply two rules."
+    } ]
+  }, {
+    "tStartMs": 29640,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "If the number is odd, we\nmultiply by three and add one."
+    } ]
+  }, {
+    "tStartMs": 33210,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "So three times seven\nis 21, plus one is 22."
+    } ]
+  }, {
+    "tStartMs": 37310,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "If the number is even, we divide by two."
+    } ]
+  }, {
+    "tStartMs": 40390,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So 22 divided by two is 11."
+    } ]
+  }, {
+    "tStartMs": 43510,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Now, we keep applying these two rules."
+    } ]
+  }, {
+    "tStartMs": 46220,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "11 is odd, so we multiply\nby 3, 33, and add 1, 34."
+    } ]
+  }, {
+    "tStartMs": 50750,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Even, divide by two, 17, odd."
+    } ]
+  }, {
+    "tStartMs": 54350,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Multiply by 3, 51, add 1, 52, even."
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Divide by two, 26, still even."
+    } ]
+  }, {
+    "tStartMs": 60860,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Divide by two, 13, odd."
+    } ]
+  }, {
+    "tStartMs": 63760,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So we multiply by 3, 39,\nadd one, and that's 40,"
+    } ]
+  }, {
+    "tStartMs": 66970,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "which is even, so we divide by two, 20,"
+    } ]
+  }, {
+    "tStartMs": 69700,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "divide by two, 10,\ndivide by two, five, odd."
+    } ]
+  }, {
+    "tStartMs": 73870,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Multiply by three, 15, add one, 16,"
+    } ]
+  }, {
+    "tStartMs": 77100,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "divide by two that's eight,\nand then four, two, and one."
+    } ]
+  }, {
+    "tStartMs": 82300,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Now, one is odd, so we\nmultiply by three and add one,"
+    } ]
+  }, {
+    "tStartMs": 85220,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "which equals four."
+    } ]
+  }, {
+    "tStartMs": 86510,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "But four goes to two, goes to one,"
+    } ]
+  }, {
+    "tStartMs": 89290,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "so we're in a loop, and\nthe lowest number is one."
+    } ]
+  }, {
+    "tStartMs": 93190,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Now, the conjecture is this:"
+    } ]
+  }, {
+    "tStartMs": 95280,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "every positive integer,\nif you apply these rules,"
+    } ]
+  }, {
+    "tStartMs": 98350,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "will eventually end up in\nthe four, two, one loop."
+    } ]
+  }, {
+    "tStartMs": 102770,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This is commonly called\nthe Collatz conjecture"
+    } ]
+  }, {
+    "tStartMs": 105290,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "after German mathematician,\nLuther Collatz,"
+    } ]
+  }, {
+    "tStartMs": 107470,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "who may have come up with it in the 1930s."
+    } ]
+  }, {
+    "tStartMs": 109930,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "But the problem has many\norigin stories and many names."
+    } ]
+  }, {
+    "tStartMs": 113310,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It's also known as the Ulam conjecture,"
+    } ]
+  }, {
+    "tStartMs": 115470,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Kakutani's problem, Thwaites conjecture,"
+    } ]
+  }, {
+    "tStartMs": 117790,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Hasse's algorithm, the Syracuse problem,"
+    } ]
+  }, {
+    "tStartMs": 120270,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "and simply 3N+1."
+    } ]
+  }, {
+    "tStartMs": 122620,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "Why is 3x+1 so famous?"
+    } ]
+  }, {
+    "tStartMs": 125550,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "- Among professional mathematicians,"
+    } ]
+  }, {
+    "tStartMs": 127010,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "maybe it's not famous but infamous,"
+    } ]
+  }, {
+    "tStartMs": 129430,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "in the sense that if someone\nactually admits in public"
+    } ]
+  }, {
+    "tStartMs": 133130,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "that they're working on it,"
+    } ]
+  }, {
+    "tStartMs": 134150,
+    "dDurationMs": 1414,
+    "segs": [ {
+      "utf8": "then there's something wrong with them."
+    } ]
+  }, {
+    "tStartMs": 135564,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "(laughs)"
+    } ]
+  }, {
+    "tStartMs": 137330,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "- [Narrator] The numbers\nyou get by applying 3x+1"
+    } ]
+  }, {
+    "tStartMs": 140010,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "are called hailstone numbers,"
+    } ]
+  }, {
+    "tStartMs": 142250,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "because they go up and down"
+    } ]
+  }, {
+    "tStartMs": 143985,
+    "dDurationMs": 2615,
+    "segs": [ {
+      "utf8": "like hailstones in a thundercloud,"
+    } ]
+  }, {
+    "tStartMs": 146600,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "but eventually, they all fall down to one,"
+    } ]
+  }, {
+    "tStartMs": 150060,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "or at least we think they do."
+    } ]
+  }, {
+    "tStartMs": 152730,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "You can think of the numbers"
+    } ]
+  }, {
+    "tStartMs": 153900,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "as representing the height\nabove the ground in meters."
+    } ]
+  }, {
+    "tStartMs": 156880,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "So a number like 26 would start\n26 meters above the ground."
+    } ]
+  }, {
+    "tStartMs": 160850,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "And if you apply 3x+1,"
+    } ]
+  }, {
+    "tStartMs": 162620,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "it rises up as high as 40 meters."
+    } ]
+  }, {
+    "tStartMs": 165030,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And, in total, it takes\n10 steps to get to one."
+    } ]
+  }, {
+    "tStartMs": 168310,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So 10 is called its total stopping time."
+    } ]
+  }, {
+    "tStartMs": 171670,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "But take the very next number, 27,"
+    } ]
+  }, {
+    "tStartMs": 174330,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and it bounces around all over the place."
+    } ]
+  }, {
+    "tStartMs": 177610,
+    "dDurationMs": 3717,
+    "segs": [ {
+      "utf8": "In fact, it climbs all\nthe way up to 9,232."
+    } ]
+  }, {
+    "tStartMs": 183370,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "As an altitude, that is\nhigher than Mount Everest,"
+    } ]
+  }, {
+    "tStartMs": 187430,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "before it too falls back to the ground."
+    } ]
+  }, {
+    "tStartMs": 191420,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In total, it takes 111 steps\nfor 27 to get down to one"
+    } ]
+  }, {
+    "tStartMs": 196480,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and end up in the four, two, one loop."
+    } ]
+  }, {
+    "tStartMs": 199660,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "The paths that different\nnumbers take vary so widely,"
+    } ]
+  }, {
+    "tStartMs": 202830,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "even numbers right next to each other."
+    } ]
+  }, {
+    "tStartMs": 205120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "So how do you even start to\nmake progress on this problem?"
+    } ]
+  }, {
+    "tStartMs": 209140,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Well, honestly, mathematicians struggled."
+    } ]
+  }, {
+    "tStartMs": 211450,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "- People just decided"
+    } ]
+  }, {
+    "tStartMs": 212550,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "that this was something\ninvented by the Soviets"
+    } ]
+  }, {
+    "tStartMs": 214330,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "to slow down U.S. science,"
+    } ]
+  }, {
+    "tStartMs": 217600,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "and it was doing a good job at it"
+    } ]
+  }, {
+    "tStartMs": 219230,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "'cause everybody's sitting\nthere twiddling their thumbs"
+    } ]
+  }, {
+    "tStartMs": 221220,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "and making no progress\non this trivial thing"
+    } ]
+  }, {
+    "tStartMs": 224170,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "that you can tell a school of children."
+    } ]
+  }, {
+    "tStartMs": 226080,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "- [Narrator] Jeffrey Lagarias"
+    } ]
+  }, {
+    "tStartMs": 227210,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "is the world authority on 3x+1."
+    } ]
+  }, {
+    "tStartMs": 229810,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "- The first time I met him\nI was a senior in college,"
+    } ]
+  }, {
+    "tStartMs": 233440,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "and he pulled me aside and\nhe said, \"Don't do this."
+    } ]
+  }, {
+    "tStartMs": 237690,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Don't work on this problem."
+    } ]
+  }, {
+    "tStartMs": 238780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "If you want to have a career,"
+    } ]
+  }, {
+    "tStartMs": 240940,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "do not start spending\ntime writing about this"
+    } ]
+  }, {
+    "tStartMs": 244980,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "or publishing any papers about this."
+    } ]
+  }, {
+    "tStartMs": 247230,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Do real math for a while\nto establish yourself.\""
+    } ]
+  }, {
+    "tStartMs": 250370,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- [Narrator] Alex\nKontorovich didn't listen."
+    } ]
+  }, {
+    "tStartMs": 252650,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "He and Yakov Sinai"
+    } ]
+  }, {
+    "tStartMs": 254340,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "looked at the paths of\nthe hailstone numbers."
+    } ]
+  }, {
+    "tStartMs": 256890,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Were there any patterns?"
+    } ]
+  }, {
+    "tStartMs": 258340,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "But obviously all of them ended up at one."
+    } ]
+  }, {
+    "tStartMs": 260420,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But what about the paths\nthey take to get there?"
+    } ]
+  }, {
+    "tStartMs": 263740,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "The pattern is randomness."
+    } ]
+  }, {
+    "tStartMs": 266610,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Here is the sequence of a\nlarge number chosen at random."
+    } ]
+  }, {
+    "tStartMs": 270010,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The graph peaks and then drop so low"
+    } ]
+  }, {
+    "tStartMs": 272050,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "that you can't really see\nwhat's happening at this scale."
+    } ]
+  }, {
+    "tStartMs": 274720,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "But if you take the logarithm,"
+    } ]
+  }, {
+    "tStartMs": 276320,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "you find this wiggly graph\nwith a downward trend."
+    } ]
+  }, {
+    "tStartMs": 280020,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "It looks like the stock\nmarket on a bad day."
+    } ]
+  }, {
+    "tStartMs": 282950,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "And this is no coincidence."
+    } ]
+  }, {
+    "tStartMs": 285010,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Both are examples of\ngeometric Brownian motion."
+    } ]
+  }, {
+    "tStartMs": 288560,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "That means if you take the log\nand remove the linear trend,"
+    } ]
+  }, {
+    "tStartMs": 291870,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the fluctuations are random."
+    } ]
+  }, {
+    "tStartMs": 293910,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It's like flipping a coin each step."
+    } ]
+  }, {
+    "tStartMs": 295710,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "If the coin is heads, the line goes up,"
+    } ]
+  }, {
+    "tStartMs": 298030,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "tails, it goes down."
+    } ]
+  }, {
+    "tStartMs": 300070,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "3x+1 is just like the random\nwiggles of the stock market."
+    } ]
+  }, {
+    "tStartMs": 303910,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Over long-enough periods,"
+    } ]
+  }, {
+    "tStartMs": 305060,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "the stock market tends to trend upwards,"
+    } ]
+  }, {
+    "tStartMs": 307320,
+    "dDurationMs": 2563,
+    "segs": [ {
+      "utf8": "while 3x+1 trends down."
+    } ]
+  }, {
+    "tStartMs": 310740,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Another way to analyze 3x+1"
+    } ]
+  }, {
+    "tStartMs": 312470,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "is by looking at the\nleading digit of each number"
+    } ]
+  }, {
+    "tStartMs": 315090,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "in a sequence."
+    } ]
+  }, {
+    "tStartMs": 316370,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Here are the hailstone\nnumbers starting with three"
+    } ]
+  }, {
+    "tStartMs": 319020,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "as the seed."
+    } ]
+  }, {
+    "tStartMs": 320410,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "And we can count up how many\nnumbers start with a one,"
+    } ]
+  }, {
+    "tStartMs": 322720,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "how many start with a two,"
+    } ]
+  }, {
+    "tStartMs": 324270,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "how many start with a three,\nand so on to make a histogram."
+    } ]
+  }, {
+    "tStartMs": 328060,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "We can do the same thing for the sequence"
+    } ]
+  }, {
+    "tStartMs": 329890,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "that starts with four,\nand that's a short one,"
+    } ]
+  }, {
+    "tStartMs": 332990,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and for the sequences that\nstart with five, six, and seven."
+    } ]
+  }, {
+    "tStartMs": 338190,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Again, for each sequence,"
+    } ]
+  }, {
+    "tStartMs": 339970,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "we're just counting up how many numbers"
+    } ]
+  }, {
+    "tStartMs": 341620,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "start with each digit, one through nine,"
+    } ]
+  }, {
+    "tStartMs": 343860,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and adding that to our histogram."
+    } ]
+  }, {
+    "tStartMs": 346780,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "If you keep doing this\nfor more and more numbers,"
+    } ]
+  }, {
+    "tStartMs": 349640,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "eventually the histogram\nsettles into a stable pattern."
+    } ]
+  }, {
+    "tStartMs": 353690,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "For the first billion sequences,"
+    } ]
+  }, {
+    "tStartMs": 356070,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "you'll find one is by far the\nmost common leading digit."
+    } ]
+  }, {
+    "tStartMs": 360700,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "30% of all numbers start with one,"
+    } ]
+  }, {
+    "tStartMs": 364200,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "around 17.5% start with\ntwo, 12% start with three,"
+    } ]
+  }, {
+    "tStartMs": 369030,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and the frequency decreases\nfor higher digits."
+    } ]
+  }, {
+    "tStartMs": 371710,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Fewer than 5% of all the\nnumbers start with nine."
+    } ]
+  }, {
+    "tStartMs": 375670,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Now, this pattern is not unique to 3x+1."
+    } ]
+  }, {
+    "tStartMs": 379250,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "It actually comes up everywhere,"
+    } ]
+  }, {
+    "tStartMs": 381670,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "from the populations of countries,"
+    } ]
+  }, {
+    "tStartMs": 383630,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "to the value of companies,"
+    } ]
+  }, {
+    "tStartMs": 385330,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "all the physical constants\nand the Fibonacci numbers,"
+    } ]
+  }, {
+    "tStartMs": 388300,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "just to name a few."
+    } ]
+  }, {
+    "tStartMs": 390070,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "The distribution is\nknown as Benford's law,"
+    } ]
+  }, {
+    "tStartMs": 394200,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "and it is even used to detect fraud."
+    } ]
+  }, {
+    "tStartMs": 396980,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "If all the numbers on\nyour income tax forms"
+    } ]
+  }, {
+    "tStartMs": 398750,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "obey Benford's law,"
+    } ]
+  }, {
+    "tStartMs": 399770,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "then, well, you're probably being honest."
+    } ]
+  }, {
+    "tStartMs": 402030,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "If not, you may be hiding something."
+    } ]
+  }, {
+    "tStartMs": 404720,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "In elections, Benford's law can be used"
+    } ]
+  }, {
+    "tStartMs": 406400,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "to spot irregularities,"
+    } ]
+  }, {
+    "tStartMs": 408070,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "though you have to apply it correctly."
+    } ]
+  }, {
+    "tStartMs": 410420,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Benford's law works best\nwhen the numbers involved"
+    } ]
+  }, {
+    "tStartMs": 413030,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "span several orders of magnitude"
+    } ]
+  }, {
+    "tStartMs": 415200,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "as they do for 3x+1."
+    } ]
+  }, {
+    "tStartMs": 417820,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "But Benford's law can't tell us"
+    } ]
+  }, {
+    "tStartMs": 419990,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "whether all numbers will end up"
+    } ]
+  }, {
+    "tStartMs": 421710,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "in the four, two, one loop or not."
+    } ]
+  }, {
+    "tStartMs": 424800,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "For that, we need a\ndifferent sort of analysis."
+    } ]
+  }, {
+    "tStartMs": 427970,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Now, at first glance,"
+    } ]
+  }, {
+    "tStartMs": 428820,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "it seems strange that when you apply 3x+1,"
+    } ]
+  }, {
+    "tStartMs": 431660,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "all numbers should end up at one."
+    } ]
+  }, {
+    "tStartMs": 433930,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I mean, consider that\nthere are the same number"
+    } ]
+  }, {
+    "tStartMs": 436570,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "of odd and even numbers,"
+    } ]
+  }, {
+    "tStartMs": 438810,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but odd numbers are more than tripled,"
+    } ]
+  }, {
+    "tStartMs": 441330,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "while even numbers are only cut in half."
+    } ]
+  }, {
+    "tStartMs": 444400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Therefore, it seems like\nevery sequence on average"
+    } ]
+  }, {
+    "tStartMs": 447000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "should grow, not shrink."
+    } ]
+  }, {
+    "tStartMs": 449400,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "But here's the catch."
+    } ]
+  }, {
+    "tStartMs": 450670,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Every time you multiply\nan odd number by three"
+    } ]
+  }, {
+    "tStartMs": 452760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and then add one, it will\nalways become an even number,"
+    } ]
+  }, {
+    "tStartMs": 456760,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and that means the next\nstep is to divide by two."
+    } ]
+  }, {
+    "tStartMs": 460000,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "So odd numbers are not\nactually tripled by 3x+1."
+    } ]
+  }, {
+    "tStartMs": 463550,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "They're increased by a factor\nof about three over two."
+    } ]
+  }, {
+    "tStartMs": 466690,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "I'm neglecting the plus one"
+    } ]
+  }, {
+    "tStartMs": 467960,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "because it's insignificant\nfor large numbers."
+    } ]
+  }, {
+    "tStartMs": 471170,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "And 3/2 is actually the most"
+    } ]
+  }, {
+    "tStartMs": 473820,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "an odd number can grow in one step."
+    } ]
+  }, {
+    "tStartMs": 477160,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Think of the path from one\nodd number in a sequence"
+    } ]
+  }, {
+    "tStartMs": 479690,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to the next odd number."
+    } ]
+  }, {
+    "tStartMs": 481430,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "After multiplying by three and adding one,"
+    } ]
+  }, {
+    "tStartMs": 483420,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "you have an even number."
+    } ]
+  }, {
+    "tStartMs": 485290,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "And 50% of the time,"
+    } ]
+  }, {
+    "tStartMs": 486760,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "dividing by two brings\nyou back to an odd number."
+    } ]
+  }, {
+    "tStartMs": 490220,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "But a quarter of the time,\nyou can divide by four"
+    } ]
+  }, {
+    "tStartMs": 492890,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "before you get to the next odd number."
+    } ]
+  }, {
+    "tStartMs": 494640,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So, for a quarter of numbers,"
+    } ]
+  }, {
+    "tStartMs": 496540,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "the next one in the sequence"
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "will be 3/4 of its initial value."
+    } ]
+  }, {
+    "tStartMs": 501210,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "An 1/8 the time, you can divide by eight"
+    } ]
+  }, {
+    "tStartMs": 503390,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "before getting to the next odd number,"
+    } ]
+  }, {
+    "tStartMs": 505140,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "and 1/16 of the time, you\ncan divide by 16 and so on."
+    } ]
+  }, {
+    "tStartMs": 509270,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "If you take the geometric mean,"
+    } ]
+  }, {
+    "tStartMs": 511420,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "you find, on average, to\nget from one odd number"
+    } ]
+  }, {
+    "tStartMs": 514640,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "to the next one, you\nmultiply by three over four,"
+    } ]
+  }, {
+    "tStartMs": 518100,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "which is less than one."
+    } ]
+  }, {
+    "tStartMs": 519920,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "So statistically speaking,"
+    } ]
+  }, {
+    "tStartMs": 521610,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "3x+1 sequences are more\nlikely to shrink than grow."
+    } ]
+  }, {
+    "tStartMs": 525920,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Take 341 for example,"
+    } ]
+  }, {
+    "tStartMs": 528350,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "multiply by three and\nadd one, you get 1,024,"
+    } ]
+  }, {
+    "tStartMs": 532250,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "which you can divide by two"
+    } ]
+  }, {
+    "tStartMs": 534340,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and then divide by two again, and again,"
+    } ]
+  }, {
+    "tStartMs": 536900,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "and again, and again,"
+    } ]
+  }, {
+    "tStartMs": 538420,
+    "dDurationMs": 3323,
+    "segs": [ {
+      "utf8": "10 times in total until\nyou're down to one."
+    } ]
+  }, {
+    "tStartMs": 542620,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "One way to visualize these\npaths of numbers in 3x+1"
+    } ]
+  }, {
+    "tStartMs": 546060,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "is simply to show how each number"
+    } ]
+  }, {
+    "tStartMs": 547930,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "connects to the next one in its sequence."
+    } ]
+  }, {
+    "tStartMs": 550360,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "This is called a directed graph."
+    } ]
+  }, {
+    "tStartMs": 553150,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "It looks like a tree or a\nseries of little streams"
+    } ]
+  }, {
+    "tStartMs": 556430,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "that flow into each other."
+    } ]
+  }, {
+    "tStartMs": 558170,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "If the conjecture is true,"
+    } ]
+  }, {
+    "tStartMs": 559740,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "it means that every single number"
+    } ]
+  }, {
+    "tStartMs": 562240,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "is connected to this graph."
+    } ]
+  }, {
+    "tStartMs": 564150,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Every tiny stream all\nthe way out to infinity"
+    } ]
+  }, {
+    "tStartMs": 567540,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "eventually flows into the\nmassive river of four, two, one."
+    } ]
+  }, {
+    "tStartMs": 574000,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Some mathematicians have\nmodified this visualization"
+    } ]
+  }, {
+    "tStartMs": 576900,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "by rotating the graph at each number;"
+    } ]
+  }, {
+    "tStartMs": 579560,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "anticlockwise if it's an odd number,"
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "and clockwise if it's even."
+    } ]
+  }, {
+    "tStartMs": 583810,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "And then you end up with a structure"
+    } ]
+  }, {
+    "tStartMs": 586110,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "that looks like a coral or seaweed."
+    } ]
+  }, {
+    "tStartMs": 589860,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "And by adjusting the degree of rotation"
+    } ]
+  }, {
+    "tStartMs": 591930,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "for odd and even numbers,"
+    } ]
+  }, {
+    "tStartMs": 593460,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "you can create these beautiful,\norganic-looking shapes."
+    } ]
+  }, {
+    "tStartMs": 598900,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Now, there are two ways the\nconjecture could be false."
+    } ]
+  }, {
+    "tStartMs": 601890,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "There could be a number\nsomewhere, some seed,"
+    } ]
+  }, {
+    "tStartMs": 604320,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "that starts a sequence of numbers"
+    } ]
+  }, {
+    "tStartMs": 606260,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "that grows to infinity."
+    } ]
+  }, {
+    "tStartMs": 608850,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "For whatever reason,"
+    } ]
+  }, {
+    "tStartMs": 610260,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "it doesn't obey the same numerical gravity"
+    } ]
+  }, {
+    "tStartMs": 612960,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "as all of the other numbers."
+    } ]
+  }, {
+    "tStartMs": 614710,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Another possibility is there\nexists a sequence of numbers"
+    } ]
+  }, {
+    "tStartMs": 618050,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "that forms a closed loop."
+    } ]
+  }, {
+    "tStartMs": 620530,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "All the numbers in this loop"
+    } ]
+  }, {
+    "tStartMs": 622000,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "would be unconnected to the main graph."
+    } ]
+  }, {
+    "tStartMs": 625230,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "But thus far, no loop"
+    } ]
+  }, {
+    "tStartMs": 626910,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "or sequence that shoots off\nto infinity has been found."
+    } ]
+  }, {
+    "tStartMs": 630530,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "And not for lack of trying,"
+    } ]
+  }, {
+    "tStartMs": 631950,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "mathematicians have tested by brute force"
+    } ]
+  }, {
+    "tStartMs": 634570,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "every single number up to two to the 68."
+    } ]
+  }, {
+    "tStartMs": 637160,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That's 295,147,905,179,352,825,856\nnumbers."
+    } ]
+  }, {
+    "tStartMs": 649060,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "We know, for certain, that every\nsingle one of those numbers"
+    } ]
+  }, {
+    "tStartMs": 652650,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "eventually comes back down to one."
+    } ]
+  }, {
+    "tStartMs": 655310,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "We have tested nearly\n300 quintillion numbers,"
+    } ]
+  }, {
+    "tStartMs": 658640,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and none of them disproves the conjecture."
+    } ]
+  }, {
+    "tStartMs": 661560,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "In fact, given this information,"
+    } ]
+  }, {
+    "tStartMs": 663460,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "mathematicians calculate that any loop"
+    } ]
+  }, {
+    "tStartMs": 665530,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "other than four, two, one"
+    } ]
+  }, {
+    "tStartMs": 666940,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "must be at least 186 billion numbers long."
+    } ]
+  }, {
+    "tStartMs": 671530,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So, it seems pretty likely\nthat the conjecture is true,"
+    } ]
+  }, {
+    "tStartMs": 674810,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "but this doesn't prove it."
+    } ]
+  }, {
+    "tStartMs": 676950,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "One way mathematicians\nhave attempted to prove it"
+    } ]
+  }, {
+    "tStartMs": 679480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "is by making a scatterplot"
+    } ]
+  }, {
+    "tStartMs": 681720,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "with all the seed numbers on the x-axis"
+    } ]
+  }, {
+    "tStartMs": 683910,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "and a number from each seeds\nsequence on the y-axis."
+    } ]
+  }, {
+    "tStartMs": 687100,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "Now, if you can show that\nin every 3x+1 sequence"
+    } ]
+  }, {
+    "tStartMs": 690890,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "there is a number that is\nsmaller than the original seed,"
+    } ]
+  }, {
+    "tStartMs": 694200,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "well then you have proven\nthe Collatz conjecture,"
+    } ]
+  }, {
+    "tStartMs": 696950,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "because whatever number you pick,"
+    } ]
+  }, {
+    "tStartMs": 698710,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "you know it will at\nsome point get smaller,"
+    } ]
+  }, {
+    "tStartMs": 701290,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "and that smaller number as\na seed also gets smaller,"
+    } ]
+  }, {
+    "tStartMs": 704600,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "and so on down to one,"
+    } ]
+  }, {
+    "tStartMs": 706830,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "meaning the only way any sequence can end"
+    } ]
+  }, {
+    "tStartMs": 709700,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "is in the four, two, one loop."
+    } ]
+  }, {
+    "tStartMs": 713040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "This has not yet been shown."
+    } ]
+  }, {
+    "tStartMs": 716120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But, in 1976, Riho Terras was able to show"
+    } ]
+  }, {
+    "tStartMs": 720200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "that almost all Collatz sequences"
+    } ]
+  }, {
+    "tStartMs": 722920,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "reach a point below their initial value."
+    } ]
+  }, {
+    "tStartMs": 725540,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "In 1979, this limit was reduced"
+    } ]
+  }, {
+    "tStartMs": 727890,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "with almost all numbers"
+    } ]
+  }, {
+    "tStartMs": 729150,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "going to less than X\nto the power of 0.869."
+    } ]
+  }, {
+    "tStartMs": 732370,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And then in 1994,"
+    } ]
+  }, {
+    "tStartMs": 734080,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "it was further lowered"
+    } ]
+  }, {
+    "tStartMs": 735260,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to less than X to the power of 0.7925."
+    } ]
+  }, {
+    "tStartMs": 739420,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "In this case, the term almost all numbers"
+    } ]
+  }, {
+    "tStartMs": 741950,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "has a technical mathematical definition."
+    } ]
+  }, {
+    "tStartMs": 744720,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "It means that as the\nnumbers you're looking at"
+    } ]
+  }, {
+    "tStartMs": 746970,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "go to infinity,"
+    } ]
+  }, {
+    "tStartMs": 748770,
+    "dDurationMs": 3763,
+    "segs": [ {
+      "utf8": "the fraction that end up\nunder the curve goes to one."
+    } ]
+  }, {
+    "tStartMs": 753760,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Then in 2019,"
+    } ]
+  }, {
+    "tStartMs": 755180,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "one of the world's greatest\nliving mathematicians,"
+    } ]
+  }, {
+    "tStartMs": 757260,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Terry Tao, was able to show 3x+1 obeys"
+    } ]
+  }, {
+    "tStartMs": 760810,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "even stricter criteria."
+    } ]
+  }, {
+    "tStartMs": 763300,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "He showed almost all\nnumbers will end up smaller"
+    } ]
+  }, {
+    "tStartMs": 766900,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "than any arbitrary function f of x"
+    } ]
+  }, {
+    "tStartMs": 769810,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "so long as that function goes to infinity"
+    } ]
+  }, {
+    "tStartMs": 772130,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "as x goes to infinity."
+    } ]
+  }, {
+    "tStartMs": 774220,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But the function can rise\nas slowly as you like."
+    } ]
+  }, {
+    "tStartMs": 777500,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So, log x is an example, or\nlog, log, log x works too,"
+    } ]
+  }, {
+    "tStartMs": 782530,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "or log, log, log, log x."
+    } ]
+  }, {
+    "tStartMs": 784960,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "What this means is,\nfor almost all numbers,"
+    } ]
+  }, {
+    "tStartMs": 787540,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "you can guarantee that there\nis an arbitrarily small number"
+    } ]
+  }, {
+    "tStartMs": 791660,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "somewhere in its sequence."
+    } ]
+  }, {
+    "tStartMs": 793990,
+    "dDurationMs": 2877,
+    "segs": [ {
+      "utf8": "In a public talk he gave\nin 2020, Terry Tao said,"
+    } ]
+  }, {
+    "tStartMs": 796867,
+    "dDurationMs": 1943,
+    "segs": [ {
+      "utf8": "\"This is about as close as one can get"
+    } ]
+  }, {
+    "tStartMs": 798810,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "to the Collatz conjecture\nwithout actually solving it.\""
+    } ]
+  }, {
+    "tStartMs": 802690,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "This is an impressive result,\nbut it's still not a proof."
+    } ]
+  }, {
+    "tStartMs": 807320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So why can't we prove the conjecture true?"
+    } ]
+  }, {
+    "tStartMs": 810440,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Could it be because it's not true?"
+    } ]
+  }, {
+    "tStartMs": 813010,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I mean, everyone is\ntrying to prove it true,"
+    } ]
+  }, {
+    "tStartMs": 814900,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "which means almost no one is\nlooking for counterexamples."
+    } ]
+  }, {
+    "tStartMs": 818540,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "- It had happened to\nme just two years ago,"
+    } ]
+  }, {
+    "tStartMs": 820970,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "where there was something\nI was trying to prove,"
+    } ]
+  }, {
+    "tStartMs": 822700,
+    "dDurationMs": 2943,
+    "segs": [ {
+      "utf8": "that I was trying for\nthree years to prove,"
+    } ]
+  }, {
+    "tStartMs": 826520,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "and I couldn't get it to work."
+    } ]
+  }, {
+    "tStartMs": 828940,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "And then I found a counterexample,"
+    } ]
+  }, {
+    "tStartMs": 830370,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "and then I realized what\nthe correct statement"
+    } ]
+  }, {
+    "tStartMs": 832070,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "should have been."
+    } ]
+  }, {
+    "tStartMs": 832903,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "And then a month later, I\nproved the correct statement."
+    } ]
+  }, {
+    "tStartMs": 835280,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Maybe we should be spending more energy"
+    } ]
+  }, {
+    "tStartMs": 837130,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "looking for counterexamples\nthan we're currently spending."
+    } ]
+  }, {
+    "tStartMs": 839900,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "- [Narrator] I mean,\nremember how the number 27"
+    } ]
+  }, {
+    "tStartMs": 841590,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "grows all the way to 9,232?"
+    } ]
+  }, {
+    "tStartMs": 845410,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Here is a plot of seed\nnumbers up to 10,000,"
+    } ]
+  }, {
+    "tStartMs": 849030,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "with the largest number\nreached for each seed"
+    } ]
+  }, {
+    "tStartMs": 851730,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "plotted on the y-axis."
+    } ]
+  }, {
+    "tStartMs": 853770,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "The y-axis stops at a 100,000,"
+    } ]
+  }, {
+    "tStartMs": 856060,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "but not all numbers can\nbe shown at this scale."
+    } ]
+  }, {
+    "tStartMs": 859210,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The seed 9,663, for example,\nclimbs as high as 27 million."
+    } ]
+  }, {
+    "tStartMs": 866090,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "And as yet, no one has proven"
+    } ]
+  }, {
+    "tStartMs": 867710,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "why a number couldn't just\nshoot off to infinity."
+    } ]
+  }, {
+    "tStartMs": 871320,
+    "dDurationMs": 3163,
+    "segs": [ {
+      "utf8": "And it would take only one\nto disprove the conjecture,"
+    } ]
+  }, {
+    "tStartMs": 875460,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "or some set of numbers\ncould be part of a loop"
+    } ]
+  }, {
+    "tStartMs": 878260,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "not connected to the main graph."
+    } ]
+  }, {
+    "tStartMs": 879980,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "As far as we know, there is\nonly one loop: four, two, one."
+    } ]
+  }, {
+    "tStartMs": 884290,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "But something strange happens"
+    } ]
+  }, {
+    "tStartMs": 885960,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "if you include negative numbers."
+    } ]
+  }, {
+    "tStartMs": 888410,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Applying the same 3x+1 rules as before,"
+    } ]
+  }, {
+    "tStartMs": 891950,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "there is not one loop, not two loops,"
+    } ]
+  }, {
+    "tStartMs": 894800,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "but three independent loops of numbers."
+    } ]
+  }, {
+    "tStartMs": 898150,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And they start at low\nvalues like -17 and -5."
+    } ]
+  }, {
+    "tStartMs": 903290,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Why should there be disconnected loops"
+    } ]
+  }, {
+    "tStartMs": 905630,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "on the negative side of the number line,"
+    } ]
+  }, {
+    "tStartMs": 907430,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "but not on the positive side?"
+    } ]
+  }, {
+    "tStartMs": 910050,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Now, one of the most\nconvincing pieces of evidence"
+    } ]
+  }, {
+    "tStartMs": 912110,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "supporting the conjecture\nis Terry Tao's proof"
+    } ]
+  }, {
+    "tStartMs": 914360,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "that almost all numbers have\na number in their sequence"
+    } ]
+  }, {
+    "tStartMs": 916910,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "that is arbitrarily small."
+    } ]
+  }, {
+    "tStartMs": 919150,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But proving that almost all\nnumbers obey this criteria"
+    } ]
+  }, {
+    "tStartMs": 922870,
+    "dDurationMs": 3403,
+    "segs": [ {
+      "utf8": "isn't the same thing as\nproving that all numbers do."
+    } ]
+  }, {
+    "tStartMs": 927520,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "How many numbers between one\nand 100 are perfect squares?"
+    } ]
+  }, {
+    "tStartMs": 931940,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "The answer is 10."
+    } ]
+  }, {
+    "tStartMs": 933870,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "So, 10% of numbers up to\n100 are perfect squares."
+    } ]
+  }, {
+    "tStartMs": 937940,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "How many numbers between one\nand 1,000 are perfect squares?"
+    } ]
+  }, {
+    "tStartMs": 941840,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "The answer is 31."
+    } ]
+  }, {
+    "tStartMs": 943930,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "So only 3.1% of the numbers up\nto 1,000 are perfect squares."
+    } ]
+  }, {
+    "tStartMs": 948530,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And the higher you go, the\nsmaller this percentage becomes,"
+    } ]
+  }, {
+    "tStartMs": 952690,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "such that in the limit, you could say"
+    } ]
+  }, {
+    "tStartMs": 954800,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "almost all numbers are\nnot perfect squares."
+    } ]
+  }, {
+    "tStartMs": 958120,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "The fraction of numbers"
+    } ]
+  }, {
+    "tStartMs": 959380,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "that are not perfect squares goes to one"
+    } ]
+  }, {
+    "tStartMs": 961540,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "as X goes to infinity."
+    } ]
+  }, {
+    "tStartMs": 964080,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "And yet we know"
+    } ]
+  }, {
+    "tStartMs": 965290,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "there are an infinite\nnumber of perfect squares"
+    } ]
+  }, {
+    "tStartMs": 967580,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and we know exactly where they are."
+    } ]
+  }, {
+    "tStartMs": 969940,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Now, we've tested by brute force"
+    } ]
+  }, {
+    "tStartMs": 971700,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "all numbers up to two to the 68,"
+    } ]
+  }, {
+    "tStartMs": 973350,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and they all obey the Collatz conjecture."
+    } ]
+  }, {
+    "tStartMs": 975540,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And you might be thinking that,\nwell, we should have found"
+    } ]
+  }, {
+    "tStartMs": 977670,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "a counterexample by this point."
+    } ]
+  }, {
+    "tStartMs": 979870,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But on the scale of all numbers,\ntwo to the 68 is nothing."
+    } ]
+  }, {
+    "tStartMs": 983830,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I mean, the Polya\nconjecture proposed in 1919"
+    } ]
+  }, {
+    "tStartMs": 986270,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "by George Polya"
+    } ]
+  }, {
+    "tStartMs": 987530,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "asserted that the majority\nof natural numbers"
+    } ]
+  }, {
+    "tStartMs": 990100,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "up to any given number have an\nodd number of prime factors."
+    } ]
+  }, {
+    "tStartMs": 994360,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "The conjecture was eventually proven false"
+    } ]
+  }, {
+    "tStartMs": 996490,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "by C. Brian Haselgrove in 1958"
+    } ]
+  }, {
+    "tStartMs": 999130,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "when he identified a counterexample."
+    } ]
+  }, {
+    "tStartMs": 1001610,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "What's remarkable is the\nvalue of this counterexample"
+    } ]
+  }, {
+    "tStartMs": 1004270,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "was 1.845 times 10 to the 361."
+    } ]
+  }, {
+    "tStartMs": 1008010,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "That's some 10 to 340 times bigger"
+    } ]
+  }, {
+    "tStartMs": 1010950,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "than all the numbers checked for 3x+1."
+    } ]
+  }, {
+    "tStartMs": 1014300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "One way to think about 3x+1"
+    } ]
+  }, {
+    "tStartMs": 1015900,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "is as though it's a simple\nprogram run on a turing machine."
+    } ]
+  }, {
+    "tStartMs": 1019730,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "The seed number is the\ninput to the machine."
+    } ]
+  }, {
+    "tStartMs": 1023220,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "So in this picture, two to the 68"
+    } ]
+  }, {
+    "tStartMs": 1025050,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "is simply an input tape 68 squares long."
+    } ]
+  }, {
+    "tStartMs": 1028680,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "You can think of them as\na string of ones and zeros"
+    } ]
+  }, {
+    "tStartMs": 1031630,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "or black and white squares."
+    } ]
+  }, {
+    "tStartMs": 1033950,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Saying the machine has\ntransformed every input"
+    } ]
+  }, {
+    "tStartMs": 1036490,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "up to this 68 square taped down to one"
+    } ]
+  }, {
+    "tStartMs": 1039540,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "should not give you a lot of confidence"
+    } ]
+  }, {
+    "tStartMs": 1041390,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "that it will do so for all inputs."
+    } ]
+  }, {
+    "tStartMs": 1044340,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "In fact, it's fairly simple"
+    } ]
+  }, {
+    "tStartMs": 1045910,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "to calculate a number that shows"
+    } ]
+  }, {
+    "tStartMs": 1047490,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "any arbitrary behavior you\nlike, so long as it is finite."
+    } ]
+  }, {
+    "tStartMs": 1050880,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "But if you want a number that\nincreases by three over two"
+    } ]
+  }, {
+    "tStartMs": 1053330,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "five consecutive times, you\ncan calculate that number."
+    } ]
+  }, {
+    "tStartMs": 1056370,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "If you want a number that\nclimbs by three over two"
+    } ]
+  }, {
+    "tStartMs": 1058270,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "10 times in a row, or\n100 times or 1,000 times,"
+    } ]
+  }, {
+    "tStartMs": 1061980,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "you can easily calculate those numbers."
+    } ]
+  }, {
+    "tStartMs": 1064530,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But after the finite section you specify,"
+    } ]
+  }, {
+    "tStartMs": 1066810,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "you have no more control."
+    } ]
+  }, {
+    "tStartMs": 1068460,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "And every that has ever been\ntested, always falls to one."
+    } ]
+  }, {
+    "tStartMs": 1072690,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "If there is a counterexample,"
+    } ]
+  }, {
+    "tStartMs": 1074300,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "it's virtually impossible\nthat someone's gonna guess it."
+    } ]
+  }, {
+    "tStartMs": 1077650,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "And the space of all possibilities"
+    } ]
+  }, {
+    "tStartMs": 1079470,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "is too big to search\nexhaustively by brute force."
+    } ]
+  }, {
+    "tStartMs": 1082520,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "- Two to the 1,000 is\nnot a searchable space."
+    } ]
+  }, {
+    "tStartMs": 1085180,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "So, if we're gonna find it,"
+    } ]
+  }, {
+    "tStartMs": 1086320,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "we have to find it by\nsome intelligent process"
+    } ]
+  }, {
+    "tStartMs": 1089150,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "and not by guess and check."
+    } ]
+  }, {
+    "tStartMs": 1091530,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "I had been on team 3x+1 for 20 years."
+    } ]
+  }, {
+    "tStartMs": 1095350,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And then this point of view,"
+    } ]
+  }, {
+    "tStartMs": 1098680,
+    "dDurationMs": 3173,
+    "segs": [ {
+      "utf8": "I realized that, what do we really know?"
+    } ]
+  }, {
+    "tStartMs": 1103400,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "It's very hard to prove\na theorem that's false."
+    } ]
+  }, {
+    "tStartMs": 1107470,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And so, could it be that\neveryone is struggling"
+    } ]
+  }, {
+    "tStartMs": 1109510,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "to prove this thing because\nit's not actually true?"
+    } ]
+  }, {
+    "tStartMs": 1112700,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "And two to the 60 is\nnot a lot of evidence."
+    } ]
+  }, {
+    "tStartMs": 1115920,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "And even the statistical\nversion is maybe true"
+    } ]
+  }, {
+    "tStartMs": 1119450,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "and not evidence for the non-existence"
+    } ]
+  }, {
+    "tStartMs": 1122760,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "of a divergent trajectory\nsomewhere in the 3x+1 sequence."
+    } ]
+  }, {
+    "tStartMs": 1128060,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "- Of course there is another option,"
+    } ]
+  }, {
+    "tStartMs": 1130410,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "and that is that we'll never know,"
+    } ]
+  }, {
+    "tStartMs": 1132620,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "that the problem is undecidable."
+    } ]
+  }, {
+    "tStartMs": 1135130,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In 1987, John Conway created\na generalization of 3x+1."
+    } ]
+  }, {
+    "tStartMs": 1140150,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "It was a mathematical machine\nthat he called FRACTRAN."
+    } ]
+  }, {
+    "tStartMs": 1143470,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "And he was able to show this\nmachine is turing-complete,"
+    } ]
+  }, {
+    "tStartMs": 1147480,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "which means it can do anything\na modern computer can do,"
+    } ]
+  }, {
+    "tStartMs": 1151260,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "but it also means that it's\nsubject to the halting problem,"
+    } ]
+  }, {
+    "tStartMs": 1154440,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "a chance that the machine\nnever stops running"
+    } ]
+  }, {
+    "tStartMs": 1156810,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and so doesn't give you an output."
+    } ]
+  }, {
+    "tStartMs": 1159630,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And this does not prove"
+    } ]
+  }, {
+    "tStartMs": 1161070,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "that 3x+1 is also subject\nto the halting problem,"
+    } ]
+  }, {
+    "tStartMs": 1164270,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "but it is possible that\ngiven what we know,"
+    } ]
+  }, {
+    "tStartMs": 1166670,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "we may never prove the Collatz\nconjecture true or false."
+    } ]
+  }, {
+    "tStartMs": 1171010,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- You're gonna be taught in school"
+    } ]
+  }, {
+    "tStartMs": 1172360,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "that we know a bunch of\nstuff, and it's a lie."
+    } ]
+  }, {
+    "tStartMs": 1175500,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "They're all lies."
+    } ]
+  }, {
+    "tStartMs": 1176480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Here's this stupid little problem."
+    } ]
+  }, {
+    "tStartMs": 1178680,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Come on, really we can't solve this?"
+    } ]
+  }, {
+    "tStartMs": 1181870,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1183140,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "You know, it just shows that math is hard."
+    } ]
+  }, {
+    "tStartMs": 1186870,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "If anything, it shows\nthat all of the things"
+    } ]
+  }, {
+    "tStartMs": 1188840,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "that we can solve are miracles."
+    } ]
+  }, {
+    "tStartMs": 1191010,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "We have no right to have solutions"
+    } ]
+  }, {
+    "tStartMs": 1192980,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "to all of these other problems."
+    } ]
+  }, {
+    "tStartMs": 1194740,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "- For my whole life,"
+    } ]
+  }, {
+    "tStartMs": 1196190,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "I've thought of numbers as\nthese incredibly regular things"
+    } ]
+  }, {
+    "tStartMs": 1199650,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "full of patterns,\nsymmetry, and repetition."
+    } ]
+  }, {
+    "tStartMs": 1202780,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "But what I'm realizing only now"
+    } ]
+  }, {
+    "tStartMs": 1204450,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "is just how peculiar numbers really are."
+    } ]
+  }, {
+    "tStartMs": 1207330,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "You can see this most clearly\nin the coral representation."
+    } ]
+  }, {
+    "tStartMs": 1210440,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "From a simple mathematical operation"
+    } ]
+  }, {
+    "tStartMs": 1212740,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "comes something intricate,\norganic-looking,"
+    } ]
+  }, {
+    "tStartMs": 1215760,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "and, thus far, intractable to us."
+    } ]
+  }, {
+    "tStartMs": 1219030,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Do all numbers connect to the structure,"
+    } ]
+  }, {
+    "tStartMs": 1221520,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "or is there some unique filament,\na spindly little thread,"
+    } ]
+  }, {
+    "tStartMs": 1225260,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "that doesn't connect to any of this,"
+    } ]
+  }, {
+    "tStartMs": 1227040,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "that runs off to infinity?"
+    } ]
+  }, {
+    "tStartMs": 1229050,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And why is it so hard to tell?"
+    } ]
+  }, {
+    "tStartMs": 1231760,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "I think that's why Paul Erdos said,"
+    } ]
+  }, {
+    "tStartMs": 1233727,
+    "dDurationMs": 4265,
+    "segs": [ {
+      "utf8": "\"Mathematics is not yet ripe\nenough for such questions.\""
+    } ]
+  }, {
+    "tStartMs": 1237992,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "(gentle music)"
+    } ]
+  }, {
+    "tStartMs": 1242650,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "What I love about 3x+1"
+    } ]
+  }, {
+    "tStartMs": 1244590,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "is it's a problem almost\nanyone can understand"
+    } ]
+  }, {
+    "tStartMs": 1247300,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "and play around with."
+    } ]
+  }, {
+    "tStartMs": 1248690,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "And actually trying to figure\nthings out for yourself"
+    } ]
+  }, {
+    "tStartMs": 1250920,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "is the best way to learn,"
+    } ]
+  }, {
+    "tStartMs": 1252820,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "which is why I subscribed to Brilliant,"
+    } ]
+  }, {
+    "tStartMs": 1254690,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "the sponsor of this video."
+    } ]
+  }, {
+    "tStartMs": 1256570,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Now, recently, Brilliant have\nupped their interactivity."
+    } ]
+  }, {
+    "tStartMs": 1259780,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "For example, here is a great lesson"
+    } ]
+  }, {
+    "tStartMs": 1261670,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "on the Pythagorean theorem."
+    } ]
+  }, {
+    "tStartMs": 1263550,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "So, you don't just remember the formula,"
+    } ]
+  }, {
+    "tStartMs": 1265840,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "but you really understand what it means."
+    } ]
+  }, {
+    "tStartMs": 1268430,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "Now, Brilliant is a website and an app"
+    } ]
+  }, {
+    "tStartMs": 1270660,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "designed to get you thinking deeply"
+    } ]
+  }, {
+    "tStartMs": 1272240,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "by engaging you in problem-solving."
+    } ]
+  }, {
+    "tStartMs": 1274910,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "It's one thing to read through a textbook"
+    } ]
+  }, {
+    "tStartMs": 1277000,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "and think that you get it,"
+    } ]
+  }, {
+    "tStartMs": 1278340,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "but it's quite another\nto play with interactives"
+    } ]
+  }, {
+    "tStartMs": 1280480,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and actually test yourself as you go,"
+    } ]
+  }, {
+    "tStartMs": 1282610,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and Brilliant curates the experiences"
+    } ]
+  }, {
+    "tStartMs": 1284930,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "so they get more and more\nchallenging over time."
+    } ]
+  }, {
+    "tStartMs": 1287890,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "There's always a helpful\ntip or explanation"
+    } ]
+  }, {
+    "tStartMs": 1290700,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "that takes your understanding\nto the next level."
+    } ]
+  }, {
+    "tStartMs": 1292960,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "I'd highly recommend their course"
+    } ]
+  }, {
+    "tStartMs": 1294340,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "on mathematical fundamentals,"
+    } ]
+  }, {
+    "tStartMs": 1296220,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "which now has even more interactivity"
+    } ]
+  }, {
+    "tStartMs": 1298900,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and it has topics that are\nrelevant to all areas of STEM"
+    } ]
+  }, {
+    "tStartMs": 1302340,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and algorithm fundamentals for\nanyone interested in coding."
+    } ]
+  }, {
+    "tStartMs": 1306340,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "It's great to have a resource like this"
+    } ]
+  }, {
+    "tStartMs": 1308510,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "to inspire you to learn\nsomething new every single day."
+    } ]
+  }, {
+    "tStartMs": 1311860,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "I try to start off my day"
+    } ]
+  }, {
+    "tStartMs": 1312990,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "by challenging myself with Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1315180,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "And so if you'd like to join me"
+    } ]
+  }, {
+    "tStartMs": 1316630,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and a community of 8\nmillion other learners,"
+    } ]
+  }, {
+    "tStartMs": 1319000,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "go to brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1321910,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1324110,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor sponsoring this video,"
+    } ]
+  }, {
+    "tStartMs": 1326490,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

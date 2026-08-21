@@ -1,0 +1,589 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1720,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "A classical computer performs operations using\nclassical bits, which can be either zero or"
+    } ]
+  }, {
+    "tStartMs": 7370,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "one."
+    } ]
+  }, {
+    "tStartMs": 8370,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Now in contrast, a quantum computer users\nquantum bits or qubits."
+    } ]
+  }, {
+    "tStartMs": 12850,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "And they can be both zero and one at the same\ntime."
+    } ]
+  }, {
+    "tStartMs": 16440,
+    "dDurationMs": 4739,
+    "segs": [ {
+      "utf8": "And it is this that gives a quantum computer\nits superior computing power."
+    } ]
+  }, {
+    "tStartMs": 21179,
+    "dDurationMs": 3381,
+    "segs": [ {
+      "utf8": "There are a number of physical objects that\ncan be used as a qubit."
+    } ]
+  }, {
+    "tStartMs": 24560,
+    "dDurationMs": 4029,
+    "segs": [ {
+      "utf8": "A single photon, a nucleus or an electron."
+    } ]
+  }, {
+    "tStartMs": 28589,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "I met up with researchers who were using the\noutermost electron in phosphorous as a qubit."
+    } ]
+  }, {
+    "tStartMs": 33750,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "But how does that work?"
+    } ]
+  }, {
+    "tStartMs": 35120,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "Well, all electrons have magnetic fields,\nso they are basically like tiny bar magnets."
+    } ]
+  }, {
+    "tStartMs": 40690,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "And this property is called spin."
+    } ]
+  }, {
+    "tStartMs": 43070,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "If you place them in a magnetic field they\nwill align with that field, just like a compass"
+    } ]
+  }, {
+    "tStartMs": 47890,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "needle lines up with the magnetic field of\nthe earth."
+    } ]
+  }, {
+    "tStartMs": 50680,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Now this is the lowest energy state, so you\ncould call it the zero state or we call it"
+    } ]
+  }, {
+    "tStartMs": 55760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "for the electron, spin down."
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Now you can put it in a one state, or spin\nup, but that takes some energy."
+    } ]
+  }, {
+    "tStartMs": 62710,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "\u003e\u003e If you took out the glass from your compass\nyou could turn the needle the other way, but"
+    } ]
+  }, {
+    "tStartMs": 66970,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "you would have to apply some force to it."
+    } ]
+  }, {
+    "tStartMs": 69000,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "You have to push it to flip to the other side."
+    } ]
+  }, {
+    "tStartMs": 73110,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "And that is the highest energy state."
+    } ]
+  }, {
+    "tStartMs": 75320,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "In principle, if you were so delicate to really\nput it exactly against the magnetic field,"
+    } ]
+  }, {
+    "tStartMs": 81500,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "it would stay there."
+    } ]
+  }, {
+    "tStartMs": 82850,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "\u003e\u003e Now so far this is basically just like\na classical bit."
+    } ]
+  }, {
+    "tStartMs": 85310,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "It has got two states, spin up and spin down,\nwhich are like the classical one and zero."
+    } ]
+  }, {
+    "tStartMs": 90690,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "But the funny thing about quantum objects\nis that thy can be in both states at once."
+    } ]
+  }, {
+    "tStartMs": 95280,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Now when you measure the spin it will be either\nup or down."
+    } ]
+  }, {
+    "tStartMs": 98990,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "But before you measure it, the electron can\nexist in what is called a quantum super position,"
+    } ]
+  }, {
+    "tStartMs": 103920,
+    "dDurationMs": 4059,
+    "segs": [ {
+      "utf8": "where these coefficients indicate the relative\nprobability of finding the electron in one"
+    } ]
+  }, {
+    "tStartMs": 107979,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "state or the other."
+    } ]
+  }, {
+    "tStartMs": 109500,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "Now it is hard to imagine how this enables\nthis incredible computing power of quantum"
+    } ]
+  }, {
+    "tStartMs": 113870,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "computers without considering two interacting\nquantum bits."
+    } ]
+  }, {
+    "tStartMs": 118090,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\u003e\u003e Hello."
+    } ]
+  }, {
+    "tStartMs": 119090,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\u003e\u003e Hi."
+    } ]
+  }, {
+    "tStartMs": 120090,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Now there are four possible states of these\ntwo electrons."
+    } ]
+  }, {
+    "tStartMs": 124280,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "\u003e\u003e You could think that, well, that is just\nlike two bits of a classical computer, right?"
+    } ]
+  }, {
+    "tStartMs": 129030,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "If you have two bits you can write zero, zero;\nzero, one; one, zero; one, one."
+    } ]
+  }, {
+    "tStartMs": 134660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 135660,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "There is four numbers."
+    } ]
+  }, {
+    "tStartMs": 138050,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "But these are still just two bits of information."
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 140680,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "All I need to say to determine which one of\nthe four numbers you have in your computer"
+    } ]
+  }, {
+    "tStartMs": 145930,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "code is the value of the first bit and the\nvalue of the second bit."
+    } ]
+  }, {
+    "tStartMs": 150980,
+    "dDurationMs": 8850,
+    "segs": [ {
+      "utf8": "Here, instead, quantum mechanics allows me\nto make super position of each one of these"
+    } ]
+  }, {
+    "tStartMs": 159830,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "four states."
+    } ]
+  }, {
+    "tStartMs": 161630,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "So I can write a quantum mechanical state,\nwhich is perfectly legitimate, that is some"
+    } ]
+  }, {
+    "tStartMs": 167260,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "coefficient times this plus some coefficient\ntimes that plus some coefficient times that"
+    } ]
+  }, {
+    "tStartMs": 172150,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "plus some coefficient times that."
+    } ]
+  }, {
+    "tStartMs": 174069,
+    "dDurationMs": 7551,
+    "segs": [ {
+      "utf8": "So determine the state of this two spin system,\nI need to give you four numbers, four coefficients,"
+    } ]
+  }, {
+    "tStartMs": 181620,
+    "dDurationMs": 6259,
+    "segs": [ {
+      "utf8": "whereas in the classical example of the two\nbits, I only need to give you two bits."
+    } ]
+  }, {
+    "tStartMs": 187879,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "So this is how you understand why two qubits\nactually contain four bits of information."
+    } ]
+  }, {
+    "tStartMs": 193989,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "I need to give you four numbers to tell you\nthe state of this system, whereas here I only"
+    } ]
+  }, {
+    "tStartMs": 198230,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "need two."
+    } ]
+  }, {
+    "tStartMs": 199230,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Now if we make three spins, we would have\neight different states and it could give you"
+    } ]
+  }, {
+    "tStartMs": 204550,
+    "dDurationMs": 5461,
+    "segs": [ {
+      "utf8": "eight different numbers to define the state\nof those three spins, whereas classical it"
+    } ]
+  }, {
+    "tStartMs": 210011,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "is just three bits."
+    } ]
+  }, {
+    "tStartMs": 211410,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "If you keep going, what you find is that the\namount of equivalent classical information"
+    } ]
+  }, {
+    "tStartMs": 217480,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "contained by N qubits is two to the power\nN classical bits."
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 8550,
+    "segs": [ {
+      "utf8": "And, of course, the power of exponentials\ntells you that once you have, let’s say,"
+    } ]
+  }, {
+    "tStartMs": 233550,
+    "dDurationMs": 7909,
+    "segs": [ {
+      "utf8": "300 of those qubits in what we call the folient\nangle state, so you must be able to create"
+    } ]
+  }, {
+    "tStartMs": 241459,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "these really crazy states where there is a\nsuper position of all three angles being one"
+    } ]
+  }, {
+    "tStartMs": 246099,
+    "dDurationMs": 6530,
+    "segs": [ {
+      "utf8": "way and another way and another way and so\non, then you have like two to the 300 classical"
+    } ]
+  }, {
+    "tStartMs": 252629,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "bits, which is as many particles as there\nare in the universe."
+    } ]
+  }, {
+    "tStartMs": 257309,
+    "dDurationMs": 5261,
+    "segs": [ {
+      "utf8": "\u003e\u003e But there is a catch, although the qubits\ncan exist in any combination of states, when"
+    } ]
+  }, {
+    "tStartMs": 262570,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "they are measured they must fall into one\nof the basis states."
+    } ]
+  }, {
+    "tStartMs": 265780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And all the other information about the state\nbefore the measurement is lost."
+    } ]
+  }, {
+    "tStartMs": 269620,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "\u003e\u003e So you don’t want generally to have as\nthe final result of your quantum computation"
+    } ]
+  }, {
+    "tStartMs": 276370,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "something that is a very complicated super\npositional state, because our cannot measure"
+    } ]
+  }, {
+    "tStartMs": 281400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "a super position."
+    } ]
+  }, {
+    "tStartMs": 282400,
+    "dDurationMs": 2579,
+    "segs": [ {
+      "utf8": "You can only measure one of these basis states."
+    } ]
+  }, {
+    "tStartMs": 284979,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "\u003e\u003e Like down, down, up, up."
+    } ]
+  }, {
+    "tStartMs": 287759,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah."
+    } ]
+  }, {
+    "tStartMs": 288759,
+    "dDurationMs": 8401,
+    "segs": [ {
+      "utf8": "So what you want is to design the logical\noperations that you need to get to the final"
+    } ]
+  }, {
+    "tStartMs": 297160,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "computational result in such a way that the\nfinal result is something you are able to"
+    } ]
+  }, {
+    "tStartMs": 302820,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "measure, just a unique state."
+    } ]
+  }, {
+    "tStartMs": 305590,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "\u003e\u003e That is not trivial."
+    } ]
+  }, {
+    "tStartMs": 306789,
+    "dDurationMs": 1091,
+    "segs": [ {
+      "utf8": "\u003e\u003e That is not trivial."
+    } ]
+  }, {
+    "tStartMs": 307880,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "And it is essentially ... I am kind of stretching\nthings, but I guess it is to some degree the"
+    } ]
+  }, {
+    "tStartMs": 314070,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "reason why quantum computers are not a replacement\nof classical computers."
+    } ]
+  }, {
+    "tStartMs": 318910,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\u003e\u003e They are not."
+    } ]
+  }, {
+    "tStartMs": 319910,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\u003e\u003e No, they are not."
+    } ]
+  }, {
+    "tStartMs": 320910,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "They are not universally faster."
+    } ]
+  }, {
+    "tStartMs": 323060,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "They are only faster for special types of\ncalculations where you can use the fact that"
+    } ]
+  }, {
+    "tStartMs": 330680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "you have all these quantum super positions\navailable to you at the same time, to do some"
+    } ]
+  }, {
+    "tStartMs": 335560,
+    "dDurationMs": 2389,
+    "segs": [ {
+      "utf8": "kind of computational parallelism."
+    } ]
+  }, {
+    "tStartMs": 337949,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "If you just want to watch a video in high\ndefinition or browse the internet or write"
+    } ]
+  }, {
+    "tStartMs": 344919,
+    "dDurationMs": 6881,
+    "segs": [ {
+      "utf8": "some documenting work, they are not going\nto give you any particular improvement if"
+    } ]
+  }, {
+    "tStartMs": 351800,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "you need to use a classical algorithm to get\nthe result."
+    } ]
+  }, {
+    "tStartMs": 356650,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "So you should not think of a quantum computer\nas something where every operation is faster."
+    } ]
+  }, {
+    "tStartMs": 361520,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "In fact, every operation is probably going\nto be slower than in the computer you have"
+    } ]
+  }, {
+    "tStartMs": 366270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "at your desk."
+    } ]
+  }, {
+    "tStartMs": 367270,
+    "dDurationMs": 7899,
+    "segs": [ {
+      "utf8": "But it is a computer where the number of operations\nrequired to arrive at the result is exponentially"
+    } ]
+  }, {
+    "tStartMs": 375169,
+    "dDurationMs": 1271,
+    "segs": [ {
+      "utf8": "small."
+    } ]
+  }, {
+    "tStartMs": 376440,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "So the improvement is not in the speed of\nthe individual operation."
+    } ]
+  }, {
+    "tStartMs": 379639,
+    "dDurationMs": 4631,
+    "segs": [ {
+      "utf8": "It is in the total number of operations you\nneed to arrive at the result."
+    } ]
+  }, {
+    "tStartMs": 384270,
+    "dDurationMs": 4519,
+    "segs": [ {
+      "utf8": "But that is only the case in particular types\nof calculations, particular algorithms."
+    } ]
+  }, {
+    "tStartMs": 388789,
+    "dDurationMs": 17441,
+    "segs": [ {
+      "utf8": "It is not universally, which is why it is\nnot a replacement of a classical computer."
+    } ]
+  } ]
+}

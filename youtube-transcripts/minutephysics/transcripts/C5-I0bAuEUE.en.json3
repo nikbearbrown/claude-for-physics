@@ -1,0 +1,337 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1380,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Ok, so you remember the setup: 100 people\nhave had marked dollar bills put randomly"
+    } ]
+  }, {
+    "tStartMs": 5690,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "into 100 boxes, and every person, one at a\ntime, gets to look in fifty of the boxes,"
+    } ]
+  }, {
+    "tStartMs": 10290,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "and you all collectively win only if every\nsingle person finds their own bill."
+    } ]
+  }, {
+    "tStartMs": 14150,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "$100 dollar payout to each of you if you win,\nnothing if you lose."
+    } ]
+  }, {
+    "tStartMs": 17470,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "In the last video I asked whether or not you\nshould take the bet."
+    } ]
+  }, {
+    "tStartMs": 20679,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Did you make the right choice?"
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "I mean, clearly, if all 100 of you gamblers\njust choose 50 boxes at random when you go"
+    } ]
+  }, {
+    "tStartMs": 25999,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "into the room, the likelihood of each of you\nfinding your bill is one half, so the probability"
+    } ]
+  }, {
+    "tStartMs": 30279,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "of ALL of you finding your bills and winning\nthe whole game is one half times one half"
+    } ]
+  }, {
+    "tStartMs": 34150,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "times one half… a hundred times."
+    } ]
+  }, {
+    "tStartMs": 35900,
+    "dDurationMs": 10970,
+    "segs": [ {
+      "utf8": "And one half to the power of 100 is about\n0.0000000000000000000000000000008."
+    } ]
+  }, {
+    "tStartMs": 46870,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Basically zero."
+    } ]
+  }, {
+    "tStartMs": 47870,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "You're more likely to roll 9 one-roll yahtzees\nin a row - and then pick the king of hearts"
+    } ]
+  }, {
+    "tStartMs": 52350,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "at random out of a deck of cards."
+    } ]
+  }, {
+    "tStartMs": 54150,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "You could do a little better by trying to\ncorrelate which boxes you pick - like, if"
+    } ]
+  }, {
+    "tStartMs": 57620,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "there were only two people and two boxes,\nthey should each pick different boxes, because"
+    } ]
+  }, {
+    "tStartMs": 61310,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "if they pick the same box only one of them\ncan possibly find their own bill, and they'll"
+    } ]
+  }, {
+    "tStartMs": 64890,
+    "dDurationMs": 1089,
+    "segs": [ {
+      "utf8": "automatically lose."
+    } ]
+  }, {
+    "tStartMs": 65979,
+    "dDurationMs": 5691,
+    "segs": [ {
+      "utf8": "But this kind of strategy only improves your\nodds a tiny little bit, and it has less benefit"
+    } ]
+  }, {
+    "tStartMs": 71670,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "the more people there are."
+    } ]
+  }, {
+    "tStartMs": 73140,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "However, despite all this, it turns out that\nthere's a strategy that results in you gamblers"
+    } ]
+  }, {
+    "tStartMs": 78560,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "winning over 30% of the time!"
+    } ]
+  }, {
+    "tStartMs": 80770,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "This strategy is SO GOOD that you're more\nlikely to win using it than if just TWO people"
+    } ]
+  }, {
+    "tStartMs": 85710,
+    "dDurationMs": 4219,
+    "segs": [ {
+      "utf8": "out of a hundred picked randomly, since one\nhalf times one half is twenty-five percent."
+    } ]
+  }, {
+    "tStartMs": 89929,
+    "dDurationMs": 6961,
+    "segs": [ {
+      "utf8": "What we’ve forgotten is that you can obtain\ninformation FROM the boxes themselves, because"
+    } ]
+  }, {
+    "tStartMs": 96890,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "the room is exactly the same each time."
+    } ]
+  }, {
+    "tStartMs": 99189,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "The first box will always have the same-numbered\ndollar in it, and so will the second box,"
+    } ]
+  }, {
+    "tStartMs": 102929,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the third, the fifty-seventh, etc."
+    } ]
+  }, {
+    "tStartMs": 105329,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "All you have to do is use the dollar in one\nbox to tell you which box to go to next."
+    } ]
+  }, {
+    "tStartMs": 109529,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "This might not seem like a great advantage,\nbut it's HUGE."
+    } ]
+  }, {
+    "tStartMs": 112689,
+    "dDurationMs": 3351,
+    "segs": [ {
+      "utf8": "The trick is to start with the box that corresponds\nto your number."
+    } ]
+  }, {
+    "tStartMs": 116040,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "Your dollar probably isn't IN that box, but\nthe bills inside will take you on a random"
+    } ]
+  }, {
+    "tStartMs": 119851,
+    "dDurationMs": 4498,
+    "segs": [ {
+      "utf8": "path through the boxes, a scavenger hunt where\neach box tells you where to go next."
+    } ]
+  }, {
+    "tStartMs": 124349,
+    "dDurationMs": 4331,
+    "segs": [ {
+      "utf8": "You can think of this as linking up boxes\nin chains, connecting them based on the bills"
+    } ]
+  }, {
+    "tStartMs": 128680,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "inside."
+    } ]
+  }, {
+    "tStartMs": 129880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Any random arrangement of the boxes results\nin a different set of chains, some long, some"
+    } ]
+  }, {
+    "tStartMs": 135480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "small."
+    } ]
+  }, {
+    "tStartMs": 136480,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Short chains are ones like \"box 30 says go\nto box 82, box 82 says go to box 5, 5 says"
+    } ]
+  }, {
+    "tStartMs": 142200,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "go to 30.\""
+    } ]
+  }, {
+    "tStartMs": 143250,
+    "dDurationMs": 1819,
+    "segs": [ {
+      "utf8": "That's a chain of link 3."
+    } ]
+  }, {
+    "tStartMs": 145069,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "Long chains link up more boxes before circling\nback - and the LONGEST possible chain links"
+    } ]
+  }, {
+    "tStartMs": 149360,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "up all 100 boxes."
+    } ]
+  }, {
+    "tStartMs": 155490,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "But each chain ALWAYS circles back, since\nthere are finite boxes."
+    } ]
+  }, {
+    "tStartMs": 158640,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "And of course, if you end up back where you\nstarted within 50 boxes, you've won, because"
+    } ]
+  }, {
+    "tStartMs": 163060,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "that means the previous box had a dollar bill\nthat told you to go your starting point, and"
+    } ]
+  }, {
+    "tStartMs": 166871,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "you started on your number, so the previous\nbox's dollar bill was YOURS!"
+    } ]
+  }, {
+    "tStartMs": 170750,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "And that's why this strategy is so good - because\nwhen the boxes are randomly arranged, about"
+    } ]
+  }, {
+    "tStartMs": 175220,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "30% of the time there will be NO chains connecting\nmore than 50 boxes, so not only will you win,"
+    } ]
+  }, {
+    "tStartMs": 180730,
+    "dDurationMs": 16590,
+    "segs": [ {
+      "utf8": "but so will everyone else - as long as they’re\nfollowing the same strategy!"
+    } ]
+  }, {
+    "tStartMs": 197320,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "The magic of this solution isn't that it's\nbetter odds for any single individual to find"
+    } ]
+  }, {
+    "tStartMs": 201370,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "their dollar (it isn't) - it's that all of\nthe successes and failures are forced to happen"
+    } ]
+  }, {
+    "tStartMs": 205790,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "together - everyone wins together, everyone\nloses together - your fates are linked by"
+    } ]
+  }, {
+    "tStartMs": 210510,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "using the numbers inside the boxes to guide\nyou along invisible chains…"
+    } ]
+  }, {
+    "tStartMs": 214590,
+    "dDurationMs": 21750,
+    "segs": [ {
+      "utf8": "towards victory."
+    } ]
+  } ]
+}

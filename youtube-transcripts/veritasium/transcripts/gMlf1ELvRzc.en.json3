@@ -1,0 +1,2479 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 230,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- This video is about the ridiculous way"
+    } ]
+  }, {
+    "tStartMs": 2780,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "we used to calculate Pi."
+    } ]
+  }, {
+    "tStartMs": 4650,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "For 2000 years the most successful method"
+    } ]
+  }, {
+    "tStartMs": 7720,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "was painstakingly slow and tedious,"
+    } ]
+  }, {
+    "tStartMs": 10790,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "but then Isaac Newton came\nalong and changed the game."
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "You could say he speed-ran Pi"
+    } ]
+  }, {
+    "tStartMs": 16020,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "and I'm gonna show you how he did it."
+    } ]
+  }, {
+    "tStartMs": 18010,
+    "dDurationMs": 2593,
+    "segs": [ {
+      "utf8": "But first Pi with pizzas."
+    } ]
+  }, {
+    "tStartMs": 25290,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Cut the crust off of pizza"
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and lay it across identical pizzas."
+    } ]
+  }, {
+    "tStartMs": 29970,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "And you'll find that it goes\nacross three and a bit pizzas,"
+    } ]
+  }, {
+    "tStartMs": 34740,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "this is Pi."
+    } ]
+  }, {
+    "tStartMs": 36010,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "The circumference of a\ncircle is roughly 3.14 times"
+    } ]
+  }, {
+    "tStartMs": 39640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "its diameter but Pi is also\nrelated to a circles area,"
+    } ]
+  }, {
+    "tStartMs": 44360,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "area's just Pi R squared."
+    } ]
+  }, {
+    "tStartMs": 46140,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "But why is it Pi R squared?"
+    } ]
+  }, {
+    "tStartMs": 48800,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Well cut a pizza into really thin slices"
+    } ]
+  }, {
+    "tStartMs": 52460,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and then form these\nslices into a rectangle."
+    } ]
+  }, {
+    "tStartMs": 55620,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Now the area of this rectangle\nis just length times width."
+    } ]
+  }, {
+    "tStartMs": 58910,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The length of the rectangle\nis half the circumference"
+    } ]
+  }, {
+    "tStartMs": 62030,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "because there's half the crust on one side"
+    } ]
+  }, {
+    "tStartMs": 63720,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "and half on the other,"
+    } ]
+  }, {
+    "tStartMs": 65120,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "so the length is Pi R."
+    } ]
+  }, {
+    "tStartMs": 67380,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "And then the width is just\nthe length of a piece of pizza"
+    } ]
+  }, {
+    "tStartMs": 70330,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "which is the radius of\nthe original circle."
+    } ]
+  }, {
+    "tStartMs": 73090,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So area is Pi R times R,"
+    } ]
+  }, {
+    "tStartMs": 75890,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "area is Pi R squared."
+    } ]
+  }, {
+    "tStartMs": 78780,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So the area of a unit\ncircle then is just Pi,"
+    } ]
+  }, {
+    "tStartMs": 82560,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "keep that in mind because\nit'll come in handy later."
+    } ]
+  }, {
+    "tStartMs": 86570,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So what was the ridiculous\nway we used to calculate Pi?"
+    } ]
+  }, {
+    "tStartMs": 90810,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Well, it's the most obvious way."
+    } ]
+  }, {
+    "tStartMs": 93600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's easy to show that Pi must\nbe between three and four,"
+    } ]
+  }, {
+    "tStartMs": 98670,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "take a circle and draw\na hexagon inside it,"
+    } ]
+  }, {
+    "tStartMs": 101610,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "with sides of length one."
+    } ]
+  }, {
+    "tStartMs": 103980,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "A regular hexagon can be divided"
+    } ]
+  }, {
+    "tStartMs": 106210,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "into six equal lateral triangles."
+    } ]
+  }, {
+    "tStartMs": 109190,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "So the diameter of the circle is two."
+    } ]
+  }, {
+    "tStartMs": 112910,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Now the perimeter of the hexagon is six"
+    } ]
+  }, {
+    "tStartMs": 115950,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and the circumference of the circle"
+    } ]
+  }, {
+    "tStartMs": 117360,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "must be larger than this,"
+    } ]
+  }, {
+    "tStartMs": 119230,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "so Pi must be greater than six over two."
+    } ]
+  }, {
+    "tStartMs": 122060,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "So Pi is greater than three."
+    } ]
+  }, {
+    "tStartMs": 124930,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Now draw a square around the circle,"
+    } ]
+  }, {
+    "tStartMs": 128280,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "the perimeter of the square is eight"
+    } ]
+  }, {
+    "tStartMs": 130530,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "which is bigger than the\ncircles circumference,"
+    } ]
+  }, {
+    "tStartMs": 133090,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "so Pi must be less than eight over two."
+    } ]
+  }, {
+    "tStartMs": 136140,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "So Pi is less than four."
+    } ]
+  }, {
+    "tStartMs": 139070,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "This was actually known\nfor a thousands of years."
+    } ]
+  }, {
+    "tStartMs": 141830,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And then in 250 BC, Archimedes improved on the method."
+    } ]
+  }, {
+    "tStartMs": 147280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "- So first he starts with the\nhexagon, just like you did"
+    } ]
+  }, {
+    "tStartMs": 149800,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "and then he bisects the\nhexagon to dodecagon."
+    } ]
+  }, {
+    "tStartMs": 153420,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "So that's a 12 sided,\nregular 12 sided shape."
+    } ]
+  }, {
+    "tStartMs": 156670,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "And he calculates its perimeter,"
+    } ]
+  }, {
+    "tStartMs": 158340,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "the ratio of that\nperimeter to the diameter"
+    } ]
+  }, {
+    "tStartMs": 160540,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "will be less than Pi."
+    } ]
+  }, {
+    "tStartMs": 161680,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "He does the same thing\nfor a circumscribed 12-gon"
+    } ]
+  }, {
+    "tStartMs": 165100,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "and finds an upper bound for Pi."
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "The calculations now\nbecome a lot more tricky"
+    } ]
+  }, {
+    "tStartMs": 171330,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "because he has to extract square roots"
+    } ]
+  }, {
+    "tStartMs": 173560,
+    "dDurationMs": 1215,
+    "segs": [ {
+      "utf8": "and square roots of square roots"
+    } ]
+  }, {
+    "tStartMs": 174775,
+    "dDurationMs": 2425,
+    "segs": [ {
+      "utf8": "and turn all these into fractions,"
+    } ]
+  }, {
+    "tStartMs": 177200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "but he works out the 12-gon,\nthen the 24-gon, 48-gon"
+    } ]
+  }, {
+    "tStartMs": 181840,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "and by the time he gets to the 96-gon"
+    } ]
+  }, {
+    "tStartMs": 183750,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "he sort of had enough, but he gets,"
+    } ]
+  }, {
+    "tStartMs": 186140,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "in the end he gets Pi to\nbetween 3.1408 and 3.1429."
+    } ]
+  }, {
+    "tStartMs": 191090,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "So for over 2000 years\nago, that's not too bad."
+    } ]
+  }, {
+    "tStartMs": 195040,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "- Yeah, that seems like all\nthe precision you'd need in Pi."
+    } ]
+  }, {
+    "tStartMs": 198760,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "- Right, so this goes way beyond precision"
+    } ]
+  }, {
+    "tStartMs": 201220,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "for any practical purpose."
+    } ]
+  }, {
+    "tStartMs": 202280,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "This is now a matter of\nflexing your muscles."
+    } ]
+  }, {
+    "tStartMs": 205340,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "This is showing off just\nhow much mathematical power"
+    } ]
+  }, {
+    "tStartMs": 209100,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "you have, that you can\nwork out a constant like Pi"
+    } ]
+  }, {
+    "tStartMs": 212330,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "to very high precision."
+    } ]
+  }, {
+    "tStartMs": 213920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So for the next 2000\nyears, this is how everyone"
+    } ]
+  }, {
+    "tStartMs": 216960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "carried on bisecting\npolygons to dizzying heights"
+    } ]
+  }, {
+    "tStartMs": 221520,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "as Pi passed through\nChinese, Indian, Persian"
+    } ]
+  }, {
+    "tStartMs": 224690,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "and Arab mathematicians, each\ncontributed to these bounds"
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "along our committee's line."
+    } ]
+  }, {
+    "tStartMs": 230050,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "And in the late 16th century,\nFrenchman Francois Viete"
+    } ]
+  }, {
+    "tStartMs": 233660,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "doubled a dozen more\ntimes than Archimedes,"
+    } ]
+  }, {
+    "tStartMs": 236570,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "computing the perimeter of\na polygon with 393,216 sides"
+    } ]
+  }, {
+    "tStartMs": 243500,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "only to be out done at the\nturn of the 17th century"
+    } ]
+  }, {
+    "tStartMs": 246130,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "by the Dutch Ludolph van Ceulen."
+    } ]
+  }, {
+    "tStartMs": 248660,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "He spent 25 years on the effort\ncomputing to high accuracy"
+    } ]
+  }, {
+    "tStartMs": 253260,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "the perimeter of a polygon\nwith two to the 62 sides."
+    } ]
+  }, {
+    "tStartMs": 258090,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That is four quintillion, 611\nquadrillion, 686 trillion,"
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "18 billion, 427 million, 387,904 sides."
+    } ]
+  }, {
+    "tStartMs": 270710,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "What was the reward for\nall of that hard work?"
+    } ]
+  }, {
+    "tStartMs": 273900,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Just 35, correct decimal, places of Pi."
+    } ]
+  }, {
+    "tStartMs": 278300,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "He had these digits\ninscribed on his tombstone,"
+    } ]
+  }, {
+    "tStartMs": 282850,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "20 years later, his record was surpassed"
+    } ]
+  }, {
+    "tStartMs": 285240,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "by Christoph Grienberger who\ngot 38, correct decimal places."
+    } ]
+  }, {
+    "tStartMs": 290010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- But he was the last to do it like this"
+    } ]
+  }, {
+    "tStartMs": 292560,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Pretty much."
+    } ]
+  }, {
+    "tStartMs": 293393,
+    "dDurationMs": 3407,
+    "segs": [ {
+      "utf8": "Yeah, because shortly thereafter\nwe get Sir Isaac Newton"
+    } ]
+  }, {
+    "tStartMs": 296800,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "on the scene."
+    } ]
+  }, {
+    "tStartMs": 297760,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "And once Newton introduces his method"
+    } ]
+  }, {
+    "tStartMs": 300540,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "nobody is bisecting n-gons ever again."
+    } ]
+  }, {
+    "tStartMs": 304140,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "The year was 1666 and Newton\nwas just 23 years old."
+    } ]
+  }, {
+    "tStartMs": 309090,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "He was quarantining at home"
+    } ]
+  }, {
+    "tStartMs": 310740,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "due to an outbreak of bubonic plague."
+    } ]
+  }, {
+    "tStartMs": 313910,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Newton was playing around\nwith simple expressions"
+    } ]
+  }, {
+    "tStartMs": 316450,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "like one plus X, all squared."
+    } ]
+  }, {
+    "tStartMs": 319080,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "You can multiply it out\nand get one plus two X"
+    } ]
+  }, {
+    "tStartMs": 321630,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "plus X squared."
+    } ]
+  }, {
+    "tStartMs": 323200,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Or what about one plus X all cubed?"
+    } ]
+  }, {
+    "tStartMs": 325690,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Well, again, you can\nmultiply out all the terms"
+    } ]
+  }, {
+    "tStartMs": 327760,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "and get one plus three X plus\nthree X squared plus X cubed."
+    } ]
+  }, {
+    "tStartMs": 332450,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "And you could do the same\nfor one plus X to the four"
+    } ]
+  }, {
+    "tStartMs": 335190,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "or one plus X to the five and so on."
+    } ]
+  }, {
+    "tStartMs": 338290,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "But Newton knew there was\na pattern that allowed him"
+    } ]
+  }, {
+    "tStartMs": 341180,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "to skip all the tedious arithmetic"
+    } ]
+  }, {
+    "tStartMs": 343230,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "and go straight to the answer."
+    } ]
+  }, {
+    "tStartMs": 345530,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "If you look at the\nnumbers in these equations"
+    } ]
+  }, {
+    "tStartMs": 347670,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "the coefficients on X\nand X squared and so on,"
+    } ]
+  }, {
+    "tStartMs": 350850,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "well, they're actually just the numbers"
+    } ]
+  }, {
+    "tStartMs": 352790,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "in Pascal's triangle."
+    } ]
+  }, {
+    "tStartMs": 355050,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "The power that one plus X raised to"
+    } ]
+  }, {
+    "tStartMs": 358150,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "corresponds to the row of the triangle"
+    } ]
+  }, {
+    "tStartMs": 362025,
+    "dDurationMs": 1955,
+    "segs": [ {
+      "utf8": "And Pascal's triangle\nis really easy to make,"
+    } ]
+  }, {
+    "tStartMs": 363980,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "it's something that's been known"
+    } ]
+  }, {
+    "tStartMs": 365070,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "from ancient Greeks in\nIndians and Chinese Persians,"
+    } ]
+  }, {
+    "tStartMs": 367820,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "a lot of different\ncultures discovered this."
+    } ]
+  }, {
+    "tStartMs": 369960,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "All you do is whenever you have a row"
+    } ]
+  }, {
+    "tStartMs": 372010,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "you just add the two neighbors"
+    } ]
+  }, {
+    "tStartMs": 373900,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "and that gives you the\nvalue of the row below it."
+    } ]
+  }, {
+    "tStartMs": 377570,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So that's a really quick\neasy thing you can compute"
+    } ]
+  }, {
+    "tStartMs": 381290,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "the coefficients for one\nplus X to the 10 in a second"
+    } ]
+  }, {
+    "tStartMs": 384200,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "instead of sitting there\ndoing all the algebra."
+    } ]
+  }, {
+    "tStartMs": 386320,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "- The thing that fascinated\nme when I started looking"
+    } ]
+  }, {
+    "tStartMs": 388820,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "at those old documents was how even like,"
+    } ]
+  }, {
+    "tStartMs": 392120,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "I don't speak those languages,"
+    } ]
+  }, {
+    "tStartMs": 393500,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I don't know those numbers systems"
+    } ]
+  }, {
+    "tStartMs": 395540,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "and yet it is obvious,"
+    } ]
+  }, {
+    "tStartMs": 397310,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "it is clear as day that they're all"
+    } ]
+  }, {
+    "tStartMs": 400090,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "writing down the same thing"
+    } ]
+  }, {
+    "tStartMs": 401740,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "which today in the Western\nworld, we call Pascal's triangle."
+    } ]
+  }, {
+    "tStartMs": 405290,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- That's the beauty of Mathematics."
+    } ]
+  }, {
+    "tStartMs": 406400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It transcends culture, it transcends time,"
+    } ]
+  }, {
+    "tStartMs": 408600,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "it transcends humanity."
+    } ]
+  }, {
+    "tStartMs": 410060,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It's gonna be around well after we're gone"
+    } ]
+  }, {
+    "tStartMs": 412300,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and ancient civilizations,"
+    } ]
+  }, {
+    "tStartMs": 414970,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "alien civilizations we'll\nknow Pascal's triangle."
+    } ]
+  }, {
+    "tStartMs": 417800,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Over time, people worked\nout a general formula"
+    } ]
+  }, {
+    "tStartMs": 420860,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "for the numbers in Pascal's triangle."
+    } ]
+  }, {
+    "tStartMs": 423290,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "So you can calculate\nthe numbers in any row"
+    } ]
+  }, {
+    "tStartMs": 425820,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "without having to calculate\nall the rows before it,"
+    } ]
+  }, {
+    "tStartMs": 429210,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "for any expression one plus X to the N"
+    } ]
+  }, {
+    "tStartMs": 432210,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "it is equal to one plus N times X"
+    } ]
+  }, {
+    "tStartMs": 435810,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "plus N times N minus one\nX squared on two factorial"
+    } ]
+  }, {
+    "tStartMs": 439710,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "plus N times N minus one times\nand N minus two times X cubed"
+    } ]
+  }, {
+    "tStartMs": 443630,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "on three factorial and so on."
+    } ]
+  }, {
+    "tStartMs": 446360,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "And that's the binomial theorem."
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "So binomial, because\nthere's only two terms,"
+    } ]
+  }, {
+    "tStartMs": 449890,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "one in X by is two, there's\ntwo normals and a theorem"
+    } ]
+  }, {
+    "tStartMs": 454390,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "is that this is a theorem\nthat you can rigorously prove"
+    } ]
+  }, {
+    "tStartMs": 457210,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "that this formula is\nexactly what you'll see"
+    } ]
+  }, {
+    "tStartMs": 460160,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "as the coefficients in Pascal's triangle."
+    } ]
+  }, {
+    "tStartMs": 463050,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "- [Alex] So all of this was\nknown in Newton's day already."
+    } ]
+  }, {
+    "tStartMs": 466610,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "- Yeah, exactly, everybody knew this."
+    } ]
+  }, {
+    "tStartMs": 468450,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Everybody saw this formula"
+    } ]
+  }, {
+    "tStartMs": 470500,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "and yet nobody thought to do with it"
+    } ]
+  }, {
+    "tStartMs": 472590,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "the thing that Newton did with it"
+    } ]
+  }, {
+    "tStartMs": 474340,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "which is to break the formula."
+    } ]
+  }, {
+    "tStartMs": 476410,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "The standard binomial theorem\ninsist that you apply it"
+    } ]
+  }, {
+    "tStartMs": 479480,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "only when N is a positive integer,"
+    } ]
+  }, {
+    "tStartMs": 482490,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "which makes sense."
+    } ]
+  }, {
+    "tStartMs": 483690,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "This whole thing is about\nworking out one plus X"
+    } ]
+  }, {
+    "tStartMs": 485980,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "times itself a certain number of times,"
+    } ]
+  }, {
+    "tStartMs": 488810,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "but Newton says, screw that\njust apply the theorem."
+    } ]
+  }, {
+    "tStartMs": 493390,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Math is about finding patterns\nand then extending them"
+    } ]
+  }, {
+    "tStartMs": 496690,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "and trying to find out where they break."
+    } ]
+  }, {
+    "tStartMs": 499310,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "So he tries one plus\nX to the negative one."
+    } ]
+  }, {
+    "tStartMs": 502300,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "So that's one over one plus X."
+    } ]
+  }, {
+    "tStartMs": 504630,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "What happens if I just blindly\nplug in N equals negative one"
+    } ]
+  }, {
+    "tStartMs": 508600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "for the right-hand side of the formula?"
+    } ]
+  }, {
+    "tStartMs": 510400,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And what you get is the terms\nalternate back and forth."
+    } ]
+  }, {
+    "tStartMs": 514280,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Plus one minus one, plus one\nminus one, and so on forever."
+    } ]
+  }, {
+    "tStartMs": 519100,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "So that's one minus X,"
+    } ]
+  }, {
+    "tStartMs": 520920,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "the next term will be a plus X squared,"
+    } ]
+  }, {
+    "tStartMs": 522850,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "the next one will be a minus X cubed"
+    } ]
+  }, {
+    "tStartMs": 524780,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "plus X to the fourth minus X to the fifth."
+    } ]
+  }, {
+    "tStartMs": 526650,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "So that just alternating series\nwith plus and minus signs"
+    } ]
+  }, {
+    "tStartMs": 530000,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "as the coefficient."
+    } ]
+  }, {
+    "tStartMs": 531060,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "- [Derek] So it becomes\nan infinite series."
+    } ]
+  }, {
+    "tStartMs": 533900,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 534733,
+    "dDurationMs": 2447,
+    "segs": [ {
+      "utf8": "If you, don't a positive\ninteger the binomial theorem,"
+    } ]
+  }, {
+    "tStartMs": 537180,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Newton's binomial theorem\nwill give you an infinite sum."
+    } ]
+  }, {
+    "tStartMs": 539510,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "- But how do you understand that?"
+    } ]
+  }, {
+    "tStartMs": 540560,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Like for all positive integers"
+    } ]
+  }, {
+    "tStartMs": 542160,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "it was just a finite set of terms"
+    } ]
+  }, {
+    "tStartMs": 544460,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and now we've got an\ninfinite set of terms."
+    } ]
+  }, {
+    "tStartMs": 546860,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "- Yeah, so what happens is if\nyou have a positive integer"
+    } ]
+  }, {
+    "tStartMs": 549500,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "you remember that formula,"
+    } ]
+  }, {
+    "tStartMs": 550470,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "the coefficient looks\nlike N times N minus one"
+    } ]
+  }, {
+    "tStartMs": 552303,
+    "dDurationMs": 2037,
+    "segs": [ {
+      "utf8": "times N minus two and so on,"
+    } ]
+  }, {
+    "tStartMs": 554340,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "when you get to N minus N,\nif N is a positive integer,"
+    } ]
+  }, {
+    "tStartMs": 557160,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "you will eventually get there"
+    } ]
+  }, {
+    "tStartMs": 558530,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "and N minus 10 is zero."
+    } ]
+  }, {
+    "tStartMs": 559980,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So that coefficient and all\nthe coefficients after it"
+    } ]
+  }, {
+    "tStartMs": 562350,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "are all zero and that's\nwhy it's just a finite sum,"
+    } ]
+  }, {
+    "tStartMs": 564260,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "it's a finite triangle."
+    } ]
+  }, {
+    "tStartMs": 565700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But once you get outside of the triangle"
+    } ]
+  }, {
+    "tStartMs": 567500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "with positive integers,\nyou never hit N minus N"
+    } ]
+  }, {
+    "tStartMs": 570500,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "because N is not a positive integer,"
+    } ]
+  }, {
+    "tStartMs": 572870,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "so you get this infinite series."
+    } ]
+  }, {
+    "tStartMs": 574640,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- [Derek] So I think the big question is,"
+    } ]
+  }, {
+    "tStartMs": 576500,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "does this actually work?"
+    } ]
+  }, {
+    "tStartMs": 578430,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Does Newton's infinite series\nactually give you the value"
+    } ]
+  }, {
+    "tStartMs": 581660,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "of one over one plus X?"
+    } ]
+  }, {
+    "tStartMs": 583530,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "- Right, and it might be nonsense."
+    } ]
+  }, {
+    "tStartMs": 585130,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "There's lots of math formulas\nthat could break completely"
+    } ]
+  }, {
+    "tStartMs": 587340,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "when you do this."
+    } ]
+  }, {
+    "tStartMs": 588180,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "There's, we have rules for a reason"
+    } ]
+  }, {
+    "tStartMs": 590470,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "but we should always know\nthe extent to which the rules"
+    } ]
+  }, {
+    "tStartMs": 594140,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "have a chance of working farther."
+    } ]
+  }, {
+    "tStartMs": 596520,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "If you take that whole\nseries and you multiply it"
+    } ]
+  }, {
+    "tStartMs": 598670,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "by one plus X and you\nmultiply all that out"
+    } ]
+  }, {
+    "tStartMs": 601550,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "you'll see all the terms\ncancel, except that leading one."
+    } ]
+  }, {
+    "tStartMs": 604100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And so that big series\ntimes one plus X is one."
+    } ]
+  }, {
+    "tStartMs": 608300,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "In other words, that big\nseries is one over one plus X,"
+    } ]
+  }, {
+    "tStartMs": 611190,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "that's how Newton justified to himself"
+    } ]
+  }, {
+    "tStartMs": 613240,
+    "dDurationMs": 2591,
+    "segs": [ {
+      "utf8": "that it makes sense to apply the formula"
+    } ]
+  }, {
+    "tStartMs": 615831,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "where it shouldn't be applicable."
+    } ]
+  }, {
+    "tStartMs": 617790,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So Newton is convinced\nthe binomial theorem works"
+    } ]
+  }, {
+    "tStartMs": 621750,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "even for negative values of N,"
+    } ]
+  }, {
+    "tStartMs": 624890,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "which means there's more\nto Pascal's triangle"
+    } ]
+  }, {
+    "tStartMs": 629130,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "above the zeroeth you\ncould add a zero and a one"
+    } ]
+  }, {
+    "tStartMs": 633750,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "that add to make that first one."
+    } ]
+  }, {
+    "tStartMs": 636430,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "And then that row would\ncontinue minus one, plus one,"
+    } ]
+  }, {
+    "tStartMs": 640010,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "minus one, plus one, all\nthe way out to infinity."
+    } ]
+  }, {
+    "tStartMs": 644080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And outside the standard triangle"
+    } ]
+  }, {
+    "tStartMs": 646240,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "the implied value everywhere is zero."
+    } ]
+  }, {
+    "tStartMs": 649510,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "And this fits with that."
+    } ]
+  }, {
+    "tStartMs": 650750,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "The alternating plus and\nminus ones add to make zero"
+    } ]
+  }, {
+    "tStartMs": 653980,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "everywhere in the row beneath them."
+    } ]
+  }, {
+    "tStartMs": 657050,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "And you can extend the pattern\nfor all negative integers"
+    } ]
+  }, {
+    "tStartMs": 661720,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "either using the binomial theorem"
+    } ]
+  }, {
+    "tStartMs": 663780,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "or just looking at what\nnumbers would add together"
+    } ]
+  }, {
+    "tStartMs": 666540,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "to make the numbers underneath."
+    } ]
+  }, {
+    "tStartMs": 669090,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "And here's something amazing."
+    } ]
+  }, {
+    "tStartMs": 671230,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "If you ignore the negative\nsigns for a minute"
+    } ]
+  }, {
+    "tStartMs": 674140,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "these are the exact same numbers arranged"
+    } ]
+  }, {
+    "tStartMs": 676630,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "in the same pattern as\nin the main triangle."
+    } ]
+  }, {
+    "tStartMs": 680410,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The whole thing has just\nbeen rotated on its side."
+    } ]
+  }, {
+    "tStartMs": 688350,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But Newton doesn't stop with the integers,"
+    } ]
+  }, {
+    "tStartMs": 691470,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "next he tries fractional powers\nlike one plus X to the half."
+    } ]
+  }, {
+    "tStartMs": 696850,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "So now what does it mean,"
+    } ]
+  }, {
+    "tStartMs": 697840,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "you take one plus X to the one half."
+    } ]
+  }, {
+    "tStartMs": 699370,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Well, that's the same thing\nas square root of one plus X."
+    } ]
+  }, {
+    "tStartMs": 702030,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "And he wants to understand"
+    } ]
+  }, {
+    "tStartMs": 703260,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "does that have the same expansion."
+    } ]
+  }, {
+    "tStartMs": 705430,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Putting N equals a half\ninto the binomial theorem"
+    } ]
+  }, {
+    "tStartMs": 708040,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "he gets an infinite series."
+    } ]
+  }, {
+    "tStartMs": 710810,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- That makes me think"
+    } ]
+  }, {
+    "tStartMs": 711643,
+    "dDurationMs": 2887,
+    "segs": [ {
+      "utf8": "that we could actually\ngo into Pascal's triangle"
+    } ]
+  }, {
+    "tStartMs": 714530,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "blow it up and add fractions"
+    } ]
+  }, {
+    "tStartMs": 716820,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "in between the rows that\nwe're familiar with."
+    } ]
+  }, {
+    "tStartMs": 719960,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "- Exactly, there's even a\ncontinuum of Pascal's triangles,"
+    } ]
+  }, {
+    "tStartMs": 722810,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "between zero and one there's\nthis a continuum of numbers"
+    } ]
+  }, {
+    "tStartMs": 726650,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "that you could put in for powers."
+    } ]
+  }, {
+    "tStartMs": 728280,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "- And you can think of each\nfraction like a half, a quarter,"
+    } ]
+  }, {
+    "tStartMs": 731860,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "a third as existing in its own plane"
+    } ]
+  }, {
+    "tStartMs": 735340,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "where in each plane pairs of numbers"
+    } ]
+  }, {
+    "tStartMs": 737530,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "add to make the number beneath them."
+    } ]
+  }, {
+    "tStartMs": 740290,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "And doesn't have to be a\npositive integer anymore."
+    } ]
+  }, {
+    "tStartMs": 742680,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "- It doesn't have to\nbe a positive integer,"
+    } ]
+  }, {
+    "tStartMs": 743990,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "it doesn't have to be a negative integer"
+    } ]
+  }, {
+    "tStartMs": 745120,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "it doesn't have to be an integer."
+    } ]
+  }, {
+    "tStartMs": 745980,
+    "dDurationMs": 1737,
+    "segs": [ {
+      "utf8": "So now we're gonna take N to be a half"
+    } ]
+  }, {
+    "tStartMs": 747717,
+    "dDurationMs": 1213,
+    "segs": [ {
+      "utf8": "and he works this thing out"
+    } ]
+  }, {
+    "tStartMs": 748930,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "and then he could do all kinds of things."
+    } ]
+  }, {
+    "tStartMs": 750170,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "For example, he could work\nout the square root of three"
+    } ]
+  }, {
+    "tStartMs": 753110,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "very quickly and efficiently\n'cause the square root of three"
+    } ]
+  }, {
+    "tStartMs": 756130,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "we can write three is four minus one."
+    } ]
+  }, {
+    "tStartMs": 758470,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "And if we pull out a four,\nthen we get a squire root four"
+    } ]
+  }, {
+    "tStartMs": 761000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "which is just two times the square root of"
+    } ]
+  }, {
+    "tStartMs": 764120,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "one minus a quarter."
+    } ]
+  }, {
+    "tStartMs": 765730,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "If you put in minus a\nquarter for X in this series,"
+    } ]
+  }, {
+    "tStartMs": 768430,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "you'll get a very rapidly\nconverging series expansion"
+    } ]
+  }, {
+    "tStartMs": 771740,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "that will quickly give\nyou square root of three"
+    } ]
+  }, {
+    "tStartMs": 774690,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "to high accuracy."
+    } ]
+  }, {
+    "tStartMs": 776090,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "Now, Newton is particularly\ninterested in N equals a half"
+    } ]
+  }, {
+    "tStartMs": 779950,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "because the equation for a unit circle"
+    } ]
+  }, {
+    "tStartMs": 782240,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "is X squared plus Y squared equals one."
+    } ]
+  }, {
+    "tStartMs": 785290,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "And if you solve for Y, well\nthe top part of the circle"
+    } ]
+  }, {
+    "tStartMs": 788670,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "is equal to one minus\nX squared to the half."
+    } ]
+  }, {
+    "tStartMs": 792800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "This is basically the same\nexpression he's been looking at,"
+    } ]
+  }, {
+    "tStartMs": 795680,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "he just has to replace\nX by minus X squared,"
+    } ]
+  }, {
+    "tStartMs": 799190,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "which adds in some minus signs\nand doubles the power of X"
+    } ]
+  }, {
+    "tStartMs": 802110,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "on each term."
+    } ]
+  }, {
+    "tStartMs": 803520,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "But now he's got an equation"
+    } ]
+  }, {
+    "tStartMs": 805400,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "for a circle where each term\nis just irrational number"
+    } ]
+  }, {
+    "tStartMs": 809150,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "times X raised to some power."
+    } ]
+  }, {
+    "tStartMs": 812220,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Now we have two different\nways of representing"
+    } ]
+  }, {
+    "tStartMs": 814610,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "the same thing."
+    } ]
+  }, {
+    "tStartMs": 815620,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "And whenever you have something like that"
+    } ]
+  }, {
+    "tStartMs": 817300,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "magic is about to happen,"
+    } ]
+  }, {
+    "tStartMs": 818460,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "fireworks is about to go off."
+    } ]
+  }, {
+    "tStartMs": 820090,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "- But how does he use\nthis to calculate Pi?"
+    } ]
+  }, {
+    "tStartMs": 822960,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "- Well, luckily for us, he\nhad just invented calculus"
+    } ]
+  }, {
+    "tStartMs": 825990,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "or what he called the theory of Fluxions."
+    } ]
+  }, {
+    "tStartMs": 828110,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "He realizes that if you\nintegrate under that curve"
+    } ]
+  }, {
+    "tStartMs": 831560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "as X goes from zero to one,\nyou're getting the area"
+    } ]
+  }, {
+    "tStartMs": 834840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "under the curve, which\nis a quarter circle."
+    } ]
+  }, {
+    "tStartMs": 837080,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And he knows that the\narea of a unit circle"
+    } ]
+  }, {
+    "tStartMs": 840250,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "is exactly Pi R squared except R is one,"
+    } ]
+  }, {
+    "tStartMs": 842230,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "so the area is Pi."
+    } ]
+  }, {
+    "tStartMs": 843550,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "And we want just a quarter,"
+    } ]
+  }, {
+    "tStartMs": 844810,
+    "dDurationMs": 1473,
+    "segs": [ {
+      "utf8": "so the area is Pi over four."
+    } ]
+  }, {
+    "tStartMs": 847545,
+    "dDurationMs": 2675,
+    "segs": [ {
+      "utf8": "On the other side, he has this nice series"
+    } ]
+  }, {
+    "tStartMs": 850220,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "and he knows how to\nintegrate X to some power."
+    } ]
+  }, {
+    "tStartMs": 853810,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "You just increase each power of X by one"
+    } ]
+  }, {
+    "tStartMs": 856790,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "and divide by the new power."
+    } ]
+  }, {
+    "tStartMs": 858960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And now you have an\ninfinite series of terms"
+    } ]
+  }, {
+    "tStartMs": 861240,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "which just involve simple\narithmetic with fractions."
+    } ]
+  }, {
+    "tStartMs": 864950,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "You put an X equals one"
+    } ]
+  }, {
+    "tStartMs": 866830,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "and you can calculate Pi to\nan arbitrarily high precision."
+    } ]
+  }, {
+    "tStartMs": 871620,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But Newton goes even further\nadding one final tweak."
+    } ]
+  }, {
+    "tStartMs": 875660,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "A not good math paper has zero ideas,"
+    } ]
+  }, {
+    "tStartMs": 877870,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "it's just pushing through things"
+    } ]
+  }, {
+    "tStartMs": 879080,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "that everybody already knows\nbut nobody bothered to do."
+    } ]
+  }, {
+    "tStartMs": 881530,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Then there are good math\npapers that have one new idea"
+    } ]
+  }, {
+    "tStartMs": 884220,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "that's really shockingly."
+    } ]
+  }, {
+    "tStartMs": 885330,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "New Newton's on new idea\nnumber four at this point"
+    } ]
+  }, {
+    "tStartMs": 888640,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "and he's about to have\nnew idea number five."
+    } ]
+  }, {
+    "tStartMs": 890750,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And new number five is\ninstead of integrating"
+    } ]
+  }, {
+    "tStartMs": 893310,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "from zero to one he's gonna integrate"
+    } ]
+  }, {
+    "tStartMs": 895630,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "just from zero to a half."
+    } ]
+  }, {
+    "tStartMs": 897850,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "When you have an infinite series"
+    } ]
+  }, {
+    "tStartMs": 899490,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "you want the terms to decrease\nin size, as fast as possible."
+    } ]
+  }, {
+    "tStartMs": 903980,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "That way you don't have to\ncalculate as many of them"
+    } ]
+  }, {
+    "tStartMs": 906020,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "to get a pretty good answer."
+    } ]
+  }, {
+    "tStartMs": 908080,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And Newton sees if he\nintegrates not from zero to one,"
+    } ]
+  }, {
+    "tStartMs": 911530,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "but from zero to a half,"
+    } ]
+  }, {
+    "tStartMs": 913870,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "then when he subs in a half for X,"
+    } ]
+  }, {
+    "tStartMs": 916710,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "each term will shrink in\nsize by an additional factor"
+    } ]
+  }, {
+    "tStartMs": 920810,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "of X squared, which in\nthis case is a quarter."
+    } ]
+  }, {
+    "tStartMs": 924560,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "But if you only integrate to a half,"
+    } ]
+  }, {
+    "tStartMs": 927240,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "what is the area under the\ncurve that you're computing?"
+    } ]
+  }, {
+    "tStartMs": 930730,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Well, it is this part of a circle,"
+    } ]
+  }, {
+    "tStartMs": 933690,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "which you can break into a 30\ndegree sector of the circle,"
+    } ]
+  }, {
+    "tStartMs": 937530,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "which has an area of Pi on\n12 plus a right triangle"
+    } ]
+  }, {
+    "tStartMs": 941840,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "with a base of a half and a\nheight of root three on two."
+    } ]
+  }, {
+    "tStartMs": 946300,
+    "dDurationMs": 3813,
+    "segs": [ {
+      "utf8": "So that integral should\ncome out to this expression."
+    } ]
+  }, {
+    "tStartMs": 951090,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And rearranging for Pi,\nyou get the following."
+    } ]
+  }, {
+    "tStartMs": 954540,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Now, if you evaluate\nonly the first five terms"
+    } ]
+  }, {
+    "tStartMs": 958070,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "you get Pi equals 3.14161,\nthat's off by just two parts"
+    } ]
+  }, {
+    "tStartMs": 965600,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "in a 100,000."
+    } ]
+  }, {
+    "tStartMs": 967620,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And to match the computational\npower of Van Ceulen"
+    } ]
+  }, {
+    "tStartMs": 970300,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "four quintillion sided polygon,"
+    } ]
+  }, {
+    "tStartMs": 972990,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "you would only need to compute\n50 terms in Newton series."
+    } ]
+  }, {
+    "tStartMs": 976980,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "What, before it took years\nnow would take only days."
+    } ]
+  }, {
+    "tStartMs": 981230,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So no one was bisecting\npolygons to find Pi ever again."
+    } ]
+  }, {
+    "tStartMs": 986530,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Why would you, yeah you do all that work"
+    } ]
+  }, {
+    "tStartMs": 988870,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and somebody comes along\nand beats you in a second."
+    } ]
+  }, {
+    "tStartMs": 991030,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "It's sort of like a, once\nsomeone builds a crane"
+    } ]
+  }, {
+    "tStartMs": 994920,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "and then somebody else is\nstill climbing up on a ladder"
+    } ]
+  }, {
+    "tStartMs": 997010,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "to put a brick on a house,"
+    } ]
+  }, {
+    "tStartMs": 998070,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "like that's just not how\nyou build houses anymore,"
+    } ]
+  }, {
+    "tStartMs": 1001130,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "we have new technology,\nare you out of your mind,"
+    } ]
+  }, {
+    "tStartMs": 1003680,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "we're gonna build a 100 story house,"
+    } ]
+  }, {
+    "tStartMs": 1005020,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "we're gonna build a five story thing"
+    } ]
+  }, {
+    "tStartMs": 1006640,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "that's gonna fall over."
+    } ]
+  }, {
+    "tStartMs": 1007770,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "You see it in New York city."
+    } ]
+  }, {
+    "tStartMs": 1008870,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "You see, literally we're\ntechnology came along."
+    } ]
+  }, {
+    "tStartMs": 1011880,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "There's rows and rows\nof five story buildings"
+    } ]
+  }, {
+    "tStartMs": 1014650,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "and all of a sudden here's a 20 story"
+    } ]
+  }, {
+    "tStartMs": 1016580,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "and here's the 30 story,\nand here's a 90 story."
+    } ]
+  }, {
+    "tStartMs": 1019840,
+    "dDurationMs": 2153,
+    "segs": [ {
+      "utf8": "So it's all about who has the technology."
+    } ]
+  }, {
+    "tStartMs": 1023050,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "For me, this is a story\nabout how the obvious way"
+    } ]
+  }, {
+    "tStartMs": 1025650,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "of doing things is not always the best way"
+    } ]
+  }, {
+    "tStartMs": 1029190,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "and that it's often a good idea"
+    } ]
+  }, {
+    "tStartMs": 1030550,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "to play around with patterns and push them"
+    } ]
+  }, {
+    "tStartMs": 1032670,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "beyond the bounds where\nyou expect them to work."
+    } ]
+  }, {
+    "tStartMs": 1035980,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Because a little bit of\ninsight and mathematics"
+    } ]
+  }, {
+    "tStartMs": 1039020,
+    "dDurationMs": 2647,
+    "segs": [ {
+      "utf8": "can go a very long way."
+    } ]
+  }, {
+    "tStartMs": 1041667,
+    "dDurationMs": 3373,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 1045040,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "- Hey, this video was sponsored"
+    } ]
+  }, {
+    "tStartMs": 1046490,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "by Brilliant a website\nwith interactive courses"
+    } ]
+  }, {
+    "tStartMs": 1049340,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and quizzes that let you\ndive deep into the topics"
+    } ]
+  }, {
+    "tStartMs": 1051780,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "like the ones I've shown in this video,"
+    } ]
+  }, {
+    "tStartMs": 1053980,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "calculus, neural networks,\nprogramming and python,"
+    } ]
+  }, {
+    "tStartMs": 1057280,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "they've got you covered."
+    } ]
+  }, {
+    "tStartMs": 1058710,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Now, I sometimes get asked"
+    } ]
+  }, {
+    "tStartMs": 1059900,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "why I don't get into\nthe nitty-gritty detail"
+    } ]
+  }, {
+    "tStartMs": 1062050,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "or solve numerical problems in my videos"
+    } ]
+  }, {
+    "tStartMs": 1064780,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "and the answer is because\nI don't think a video"
+    } ]
+  }, {
+    "tStartMs": 1067410,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "is the best way to learn those skills."
+    } ]
+  }, {
+    "tStartMs": 1069250,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "The best way is to engage\nyourself in problem solving"
+    } ]
+  }, {
+    "tStartMs": 1072340,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like you can on Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1074340,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "I love the way they scaffold\nyou through a topic,"
+    } ]
+  }, {
+    "tStartMs": 1076810,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "building your understanding\nand your confidence as you go."
+    } ]
+  }, {
+    "tStartMs": 1079950,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "And as someone with a\nPhD in science education,"
+    } ]
+  }, {
+    "tStartMs": 1082960,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "I can say this is the\nonly real way to learn,"
+    } ]
+  }, {
+    "tStartMs": 1086030,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "you have to be a little\nuncomfortable to gain understanding."
+    } ]
+  }, {
+    "tStartMs": 1089510,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "When I do these quizzes,\nI find that my brain"
+    } ]
+  }, {
+    "tStartMs": 1092030,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "is really working."
+    } ]
+  }, {
+    "tStartMs": 1093180,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So I can guarantee that\nwhatever level of education"
+    } ]
+  }, {
+    "tStartMs": 1095380,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "you're at, Brilliant we'll\nhave something for you."
+    } ]
+  }, {
+    "tStartMs": 1098390,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "It's the perfect compliment"
+    } ]
+  }, {
+    "tStartMs": 1099500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "to watching fun educational videos."
+    } ]
+  }, {
+    "tStartMs": 1101700,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And for viewers of this channel,"
+    } ]
+  }, {
+    "tStartMs": 1103100,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Brilliant are offering 20% off"
+    } ]
+  }, {
+    "tStartMs": 1104910,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "an annual subscription to the first 314"
+    } ]
+  }, {
+    "tStartMs": 1108280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "or Pi 100 people to sign up,"
+    } ]
+  }, {
+    "tStartMs": 1110600,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "just go to brilliant.org/.veritasium"
+    } ]
+  }, {
+    "tStartMs": 1113470,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1115610,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant"
+    } ]
+  }, {
+    "tStartMs": 1116510,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "for supporting Veritasium"
+    } ]
+  }, {
+    "tStartMs": 1117720,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

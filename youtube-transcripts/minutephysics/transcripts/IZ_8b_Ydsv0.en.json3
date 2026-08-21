@@ -1,0 +1,529 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 7200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "It seems intuitive that a more sensitive COVID \ntest is better than a less sensitive one. And yet,  "
+    } ]
+  }, {
+    "tStartMs": 12080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "you may also have seen news stories suggesting \nthat some COVID tests are too sensitive,  "
+    } ]
+  }, {
+    "tStartMs": 16160,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "or that cheaper, faster (and even less \nsensitive?) tests might be better. But  "
+    } ]
+  }, {
+    "tStartMs": 20560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "why would they be better? And better for what?\nAccording to public health experts at Harvard  "
+    } ]
+  }, {
+    "tStartMs": 25200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and Brown University, in the fall of 2020 the \nUS needed to do 8x more testing to successfully  "
+    } ]
+  }, {
+    "tStartMs": 29840,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "suppress COVID-19, India needed to do 4X more \ntesting, Brazil needed to do 66X more testing,  "
+    } ]
+  }, {
+    "tStartMs": 35920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Bolivia needed to do 140X more testing, and \nMexico needed to do over 400X more testing.  "
+    } ]
+  }, {
+    "tStartMs": 41920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The idea behind saying “COVID tests are too \nexpensive and too sensitive” is that part  "
+    } ]
+  }, {
+    "tStartMs": 46160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "of what’s kept countries from doing enough \ntesting is the kind of tests being used. "
+    } ]
+  }, {
+    "tStartMs": 50640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "The current gold-standard for COVID testing is a \nnasal swab PCR [polymerase chain reaction] test.  "
+    } ]
+  }, {
+    "tStartMs": 55120,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "This test is highly sensitive, which means \nit's able to detect the presence of the virus  "
+    } ]
+  }, {
+    "tStartMs": 58800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "even at very low levels of viral load. That’s \ngreat for a doctor who wants to know whether  "
+    } ]
+  }, {
+    "tStartMs": 63360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "their patient was infected with COVID-19. But if \nyou’re screening an entire community for COVID  "
+    } ]
+  }, {
+    "tStartMs": 67520,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "outbreaks, then PCR tests have a few downsides.\nFirst, PCR tests are expensive. To avoid breaking  "
+    } ]
+  }, {
+    "tStartMs": 74240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the bank, many places are focusing on testing only \npeople who already have COVID symptoms or who were  "
+    } ]
+  }, {
+    "tStartMs": 78640,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "recently exposed to someone with COVID. Using \nonly expensive tests means that we don’t test  "
+    } ]
+  }, {
+    "tStartMs": 84720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "(and therefore, don’t catch!) most people who \nare contagious without showing symptoms – and  "
+    } ]
+  }, {
+    "tStartMs": 88800,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "we know that a significant proportion of COVID \ntransmission comes from these asymptomatic people. "
+    } ]
+  }, {
+    "tStartMs": 93680,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Second, PCR tests take time: usually a couple of \ndays for results to come back from the lab. Here’s  "
+    } ]
+  }, {
+    "tStartMs": 99680,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "what the typical viral load in an infected person \nlooks like over time – they’re most infectious  "
+    } ]
+  }, {
+    "tStartMs": 104240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "around the peak and their infectiousness declines \nafterwards. So if test results take a few days to  "
+    } ]
+  }, {
+    "tStartMs": 108640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "come back, chances are you miss this peak – which \nmeans missing the window of time during which the  "
+    } ]
+  }, {
+    "tStartMs": 113120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "person is most likely to infect other people.\nEssentially, although PCR is very sensitive,  "
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "it’s also expensive and slow, so while it’s great \nfor diagnosis, it may not be the best test for  "
+    } ]
+  }, {
+    "tStartMs": 123200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "screening a community. And the cheaper, faster \ntesting alternatives are – no surprise – not as  "
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "sensitive as PCR. BUT - and this is a subtle point \nand maybe wouldn’t matter if PCR were cheap and  "
+    } ]
+  }, {
+    "tStartMs": 132880,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "fast, BUT when it comes to screening a community, \nPCR’s high sensitivity could itself be a downside."
+    } ]
+  }, {
+    "tStartMs": 138880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "PCR tests can detect very low viral loads, which \nis great if you happen to test somebody very  "
+    } ]
+  }, {
+    "tStartMs": 143920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "early on in an infection, or very late and you \nwant to confirm whether they were infected. But  "
+    } ]
+  }, {
+    "tStartMs": 148240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "this sensitivity also means that a person can \ntest positive for the infection when they’re  "
+    } ]
+  }, {
+    "tStartMs": 152000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "basically no longer infectious – and in fact, PCR \nis so sensitive that it can detect viral fragments  "
+    } ]
+  }, {
+    "tStartMs": 156800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and give a positive result even when there are \nno viable viruses left. So it’s likely that by  "
+    } ]
+  }, {
+    "tStartMs": 161520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "using PCR tests we’re quarantining \u0026 contact \ntracing some people when we don’t need to. "
+    } ]
+  }, {
+    "tStartMs": 166640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "It’s not that the PCR test is a bad test, in fact \nit’s a great test for what it’s designed to do,  "
+    } ]
+  }, {
+    "tStartMs": 171520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "which is to accurately and reliably detect even \nvery low viral loads. It’s just that it’s more  "
+    } ]
+  }, {
+    "tStartMs": 176800,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "expensive, slower, and perhaps even more sensitive \nthan would be ideal for screening a community. "
+    } ]
+  }, {
+    "tStartMs": 181680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "A less sensitive test could catch just \nas many highly infectious people as PCR,  "
+    } ]
+  }, {
+    "tStartMs": 185680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "but it would miss people who are post-infectious, \nwhich you could argue is a good thing for  "
+    } ]
+  }, {
+    "tStartMs": 189360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "screening purposes since those people \nare no longer a significant threat. The  "
+    } ]
+  }, {
+    "tStartMs": 193120,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "downside is that you’d also miss people who are \npre-infectious, which is undoubtedly a bad thing. "
+    } ]
+  }, {
+    "tStartMs": 198080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But the math works out that if you have a test \nthat’s just a little bit less sensitive than PCR,  "
+    } ]
+  }, {
+    "tStartMs": 201920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "but you use it a lot more frequently, \nyou’re actually more likely to detect an  "
+    } ]
+  }, {
+    "tStartMs": 205360,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "infection compared to infrequent PCR testing. \nSo can you identify more infections overall. "
+    } ]
+  }, {
+    "tStartMs": 210960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "All of this suggests that if you’re trying \nto screen a community for COVID outbreaks,  "
+    } ]
+  }, {
+    "tStartMs": 214480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "you can get more testing bang for your \nbuck with rapid testing than PCR testing;  "
+    } ]
+  }, {
+    "tStartMs": 218400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that is, you can identify more infectious \npeople more quickly for less money.  "
+    } ]
+  }, {
+    "tStartMs": 222400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "As long as the rapid tests are only slightly \nless sensitive than PCR tests but a lot cheaper. "
+    } ]
+  }, {
+    "tStartMs": 227760,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Rapid testing is not a replacement \nfor PCR testing in a clinical setting,  "
+    } ]
+  }, {
+    "tStartMs": 231120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "nor is it a replacement for masks, \nphysical distancing, handwashing,  "
+    } ]
+  }, {
+    "tStartMs": 234080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and so on. And if PCR testing cost 1/10th \nof what it does and took 1/10th the time,  "
+    } ]
+  }, {
+    "tStartMs": 238560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "we probably wouldn’t be having this discussion. \nBut if we’re going to test widely and frequently  "
+    } ]
+  }, {
+    "tStartMs": 242480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "enough to suppress COVID (and we really \nshould), then we can get more for our money  "
+    } ]
+  }, {
+    "tStartMs": 245040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "with tests that are cheaper, faster, and - perhaps \ncounter-intuitively - a little bit less sensitive. "
+    } ]
+  }, {
+    "tStartMs": 252880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Ok, so that’s the argument for rapid \ntesting, and here are the caveats. "
+    } ]
+  }, {
+    "tStartMs": 258160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "No medical tests are perfect, and a negative test \nresult isn’t a foolproof guarantee of not being  "
+    } ]
+  }, {
+    "tStartMs": 262880,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "infected. Because rapid tests are less sensitive \nthan PCR tests, this makes it more likely that  "
+    } ]
+  }, {
+    "tStartMs": 267280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "infected people will slip through the cracks \nof a test. So as long as COVID is a problem,  "
+    } ]
+  }, {
+    "tStartMs": 271280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "it's important to still take precautions \nlike wearing a mask and social distancing  "
+    } ]
+  }, {
+    "tStartMs": 274800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "even if you test negative. And for \npeople who were likely exposed to COVID,  "
+    } ]
+  }, {
+    "tStartMs": 279200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "health authorities recommend that they quarantine \nfor 14 days regardless of a negative test result,  "
+    } ]
+  }, {
+    "tStartMs": 283360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and that their negative rapid test \nresults are verified by a PCR test. "
+    } ]
+  }, {
+    "tStartMs": 288880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "When a rapid test is just a little less \nsensitive than PCR, then the downsides of  "
+    } ]
+  }, {
+    "tStartMs": 292720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "missing some infected people can be balanced out \nby the benefits of more widespread and frequent  "
+    } ]
+  }, {
+    "tStartMs": 296560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "testing. But this only works up to a point. If \nthe sensitivity of the rapid test is too low,  "
+    } ]
+  }, {
+    "tStartMs": 300880,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "the cost of missing many infections will \noutweigh the benefits of widespread testing. "
+    } ]
+  }, {
+    "tStartMs": 310400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The graph we showed for viral load was based \non measurements of patients’ viral loads,  "
+    } ]
+  }, {
+    "tStartMs": 314320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and while all else being equal, a higher viral \nload tends to mean you’re more infectious,  "
+    } ]
+  }, {
+    "tStartMs": 318160,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "there are a lot of other things that \ncan affect how infectious you are "
+    } ]
+  }, {
+    "tStartMs": 323200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "We didn’t really mention what happens when you \naren’t infected but the test gives a positive  "
+    } ]
+  }, {
+    "tStartMs": 326960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "result anyway – this isn’t likely on any given \ntest, BUT if you’re testing a huge number of  "
+    } ]
+  }, {
+    "tStartMs": 330880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "people frequently, then just by statistics alone \nyou can end up with a large number of false  "
+    } ]
+  }, {
+    "tStartMs": 334480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "positive results. The rate of false positives \nis comparable between PCR tests and rapid tests,  "
+    } ]
+  }, {
+    "tStartMs": 339040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but matters more with cheap rapid tests \nsince the whole idea is to do way more tests. "
+    } ]
+  }, {
+    "tStartMs": 345680,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Finally, vaccines. So won't all of this \nbe irrelevant once vaccines come out?  "
+    } ]
+  }, {
+    "tStartMs": 349920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Well, vaccines will certainly help, but \nunfortunately, testing will probably still  "
+    } ]
+  }, {
+    "tStartMs": 353600,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "play a major role in suppressing COVID. \nIt's really a topic for another video."
+    } ]
+  }, {
+    "tStartMs": 358160,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "A very big thankyou to Brilliant \nfor sponsoring this episode of  "
+    } ]
+  }, {
+    "tStartMs": 360640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "MinutePhysics - with MinutePhysics, I try \nto bring you deeper level explanations,  "
+    } ]
+  }, {
+    "tStartMs": 364240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "while Brilliant engages you to solve \nfascinating, challenging problems yourself,  "
+    } ]
+  }, {
+    "tStartMs": 368160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "guiding you to a deeper level understanding \nof science and mathematics. Like their course  "
+    } ]
+  }, {
+    "tStartMs": 372480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "on knowledge and uncertainty - what’s the most \nefficient way to zero in on the true criminal  "
+    } ]
+  }, {
+    "tStartMs": 376240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "from a lineup of suspects? Or, how worried \nshould you be if you know a medical test is 90%  "
+    } ]
+  }, {
+    "tStartMs": 380960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "sensitive and you get a positive result?\nTo improve your knowledge and reduce your  "
+    } ]
+  }, {
+    "tStartMs": 385200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "uncertainty, go to brilliant.org/MinutePhysics/ \nand sign up for free. The first 200 people will  "
+    } ]
+  }, {
+    "tStartMs": 390080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "get 20% off the annual Premium subscription, \nwith full access to all of Brilliant’s courses,  "
+    } ]
+  }, {
+    "tStartMs": 394240,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "puzzles, \u0026 daily challenges. Again, \nthanks to Brilliant for their support."
+    } ]
+  } ]
+}

@@ -1,0 +1,505 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 12590,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In our universe, when you change from a non-moving\nperspective to a moving one, or vice versa,"
+    } ]
+  }, {
+    "tStartMs": 17790,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "that change of perspective is represented\nby a what's called Lorentz transformation,"
+    } ]
+  }, {
+    "tStartMs": 21540,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "which is a kind of squeeze-stretch rotation\nof spacetime that I've mechanically implemented"
+    } ]
+  }, {
+    "tStartMs": 25240,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "with this spacetime globe."
+    } ]
+  }, {
+    "tStartMs": 26760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Lorentz transformations keep the speed of\nlight the same for all perspectives, since"
+    } ]
+  }, {
+    "tStartMs": 30760,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "that's an experimentally verified fact of\nour universe."
+    } ]
+  }, {
+    "tStartMs": 32470,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "For example, let's say I'm not moving – that\nis, I'm at the same position at all times,"
+    } ]
+  }, {
+    "tStartMs": 36580,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "and you're moving a third the speed of light\nto my right, and you turn on a flashlight."
+    } ]
+  }, {
+    "tStartMs": 40360,
+    "dDurationMs": 4531,
+    "segs": [ {
+      "utf8": "Then that light will move at the speed of\nlight, c, or about 300 million m/s, which"
+    } ]
+  }, {
+    "tStartMs": 44891,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "is drawn as a 45° line on this spacetime\ndiagram."
+    } ]
+  }, {
+    "tStartMs": 48160,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "And viewed from your perspective, you're not\nmoving (aka you're at the same position at"
+    } ]
+  }, {
+    "tStartMs": 51820,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "all times) but the light ray still travels\nat the speed of light."
+    } ]
+  }, {
+    "tStartMs": 54940,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "In fact, viewed from ANY moving perspective,\nthe light ray always moves along a 45° line"
+    } ]
+  }, {
+    "tStartMs": 60101,
+    "dDurationMs": 3778,
+    "segs": [ {
+      "utf8": "on a spacetime diagram (at least one with\nthe axes scaled like this)."
+    } ]
+  }, {
+    "tStartMs": 63879,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "So light speed plus your speed equals light\nspeed - it's almost more like what happens"
+    } ]
+  }, {
+    "tStartMs": 68899,
+    "dDurationMs": 3561,
+    "segs": [ {
+      "utf8": "when you add something to infinity than adding\ntogether two finite numbers."
+    } ]
+  }, {
+    "tStartMs": 72460,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "But what about speeds slower than light speed?"
+    } ]
+  }, {
+    "tStartMs": 74750,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "What if you're traveling at 60% the speed\nof light to the right, and you shoot a death-pellet"
+    } ]
+  }, {
+    "tStartMs": 78869,
+    "dDurationMs": 4211,
+    "segs": [ {
+      "utf8": "that is itself going 60% the speed of light\nto the right relative to you – how fast"
+    } ]
+  }, {
+    "tStartMs": 83080,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "is it going from my perspective?"
+    } ]
+  }, {
+    "tStartMs": 84970,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "The intuitive answer to this question is that\nif the death-pellet is going 180 million meters"
+    } ]
+  }, {
+    "tStartMs": 89030,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "per second to the right relative to you, and\nyou're going 180 million meters per second"
+    } ]
+  }, {
+    "tStartMs": 92950,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "to the right relative to me, then the death-pellet\nmust be going 360 million meters per second"
+    } ]
+  }, {
+    "tStartMs": 97220,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "to the right relative to me, which is faster\nthan light."
+    } ]
+  }, {
+    "tStartMs": 100370,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "And which is wrong."
+    } ]
+  }, {
+    "tStartMs": 101700,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "In our universe, velocities don't simply add\nup when you change perspective."
+    } ]
+  }, {
+    "tStartMs": 105399,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "They almost do for things moving much slower\nthan light (which I'll explain in a bit) but"
+    } ]
+  }, {
+    "tStartMs": 110200,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "in general that's not how our universe behaves."
+    } ]
+  }, {
+    "tStartMs": 112740,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "Here's a spacetime diagram from your perspective\nof you shooting a death-pellet to the right"
+    } ]
+  }, {
+    "tStartMs": 116459,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "at 50% the speed of light - that is, taking\n4 seconds to go as far as light would in 2"
+    } ]
+  }, {
+    "tStartMs": 121679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "seconds."
+    } ]
+  }, {
+    "tStartMs": 122679,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "And here's what happens when we shift to my\nperspective, from which you are moving to"
+    } ]
+  }, {
+    "tStartMs": 125520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "the right at 50% the speed of light."
+    } ]
+  }, {
+    "tStartMs": 127380,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "The death-pellet is still moving to the right\nrelative to you, still moving really darn"
+    } ]
+  }, {
+    "tStartMs": 131530,
+    "dDurationMs": 12760,
+    "segs": [ {
+      "utf8": "fast, but it's not moving as fast as light\n- its worldline is not quite "
+    } ]
+  }, {
+    "tStartMs": 144290,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "a 45° line."
+    } ]
+  }, {
+    "tStartMs": 150250,
+    "dDurationMs": 3439,
+    "segs": [ {
+      "utf8": "And while stuff going 60% the speed of light\nis kind of reaching the limits of what the"
+    } ]
+  }, {
+    "tStartMs": 153689,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "spacetime globe can reasonably display, if\nyou shoot a death-pellet at 60% the speed"
+    } ]
+  }, {
+    "tStartMs": 157730,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "of light and then we shift to my perspective\nfrom which you're going 60% the speed of light,"
+    } ]
+  }, {
+    "tStartMs": 161670,
+    "dDurationMs": 1971,
+    "segs": [ {
+      "utf8": "the death-pellet still isn't going faster\nthan light."
+    } ]
+  }, {
+    "tStartMs": 163641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And it can't be, which you can kind of get\na feeling for from how Lorentz transformations"
+    } ]
+  }, {
+    "tStartMs": 164641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "work – in our universe, when you change\nfrom one moving perspective to another, your"
+    } ]
+  }, {
+    "tStartMs": 165641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "perception of spacetime squeezes and stretches\nalong the 45° lines that represent the speed"
+    } ]
+  }, {
+    "tStartMs": 166641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of light, and this can only rotate worldlines\nto angles that are between those 45° lines."
+    } ]
+  }, {
+    "tStartMs": 167641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Stretching out a line on a rubber sheet makes\nthe line's angle approach the direction of"
+    } ]
+  }, {
+    "tStartMs": 168641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "stretching, but never “flip over” to be\npointing the other way."
+    } ]
+  }, {
+    "tStartMs": 169641,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So even if we shot a death-pellet going 60%\nthe speed of light FROM a death-pellet going"
+    } ]
+  }, {
+    "tStartMs": 170641,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "60% the speed of light FROM a death-pellet\ngoing 60% the speed of light and so on, the"
+    } ]
+  }, {
+    "tStartMs": 173160,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "final speed would be close to but not quite\nthe speed of light, because of how relative"
+    } ]
+  }, {
+    "tStartMs": 177440,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "velocities combine in our universe."
+    } ]
+  }, {
+    "tStartMs": 179670,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "This is one of the consequences forced upon\nus by the constancy of the speed of light:"
+    } ]
+  }, {
+    "tStartMs": 183850,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "in a universe (like ours) where changes of\nvelocity don't change the speed of light,"
+    } ]
+  }, {
+    "tStartMs": 188310,
+    "dDurationMs": 4019,
+    "segs": [ {
+      "utf8": "then changes of moving perspective can never\nmake other velocities change from a relative"
+    } ]
+  }, {
+    "tStartMs": 192329,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "speed less than the speed of light, to a relative\nspeed equal to or greater than light."
+    } ]
+  }, {
+    "tStartMs": 197079,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "If we have an object moving at a speed v relative\nto your perspective, and you're moving relative"
+    } ]
+  }, {
+    "tStartMs": 201670,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "to me with speed u, then the equation that\ndescribes precisely what speed the object"
+    } ]
+  }, {
+    "tStartMs": 205909,
+    "dDurationMs": 2651,
+    "segs": [ {
+      "utf8": "is moving relative to my perspective is"
+    } ]
+  }, {
+    "tStartMs": 208560,
+    "dDurationMs": 6830,
+    "segs": [ {
+      "utf8": "v frommyperspective equals v fromthemovingperspective\nplus u over 1+v fromthemovingperspective times"
+    } ]
+  }, {
+    "tStartMs": 215390,
+    "dDurationMs": 3049,
+    "segs": [ {
+      "utf8": "u all over c squared."
+    } ]
+  }, {
+    "tStartMs": 218439,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "You'll notice that if you put in c, the speed\nof light, for one of the velocities, the equation"
+    } ]
+  }, {
+    "tStartMs": 221859,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "always gives the answer c back, no matter\nwhat the other velocity is – which of course"
+    } ]
+  }, {
+    "tStartMs": 226189,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "jives with the whole “constant speed of\nlight” thing."
+    } ]
+  }, {
+    "tStartMs": 228939,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "And you'll notice that if both velocities\nare less than the speed of light, then the"
+    } ]
+  }, {
+    "tStartMs": 231959,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "equation always gives back an answer less\nthan the speed of light – which is what"
+    } ]
+  }, {
+    "tStartMs": 235439,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "we were describing earlier about relative\nspeeds never adding up to a speed faster than"
+    } ]
+  }, {
+    "tStartMs": 239250,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "light."
+    } ]
+  }, {
+    "tStartMs": 240250,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Which of course jives with the the whole “nothing\ncan accelerate to light speed” thing."
+    } ]
+  }, {
+    "tStartMs": 241250,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "And you'll notice that if both velocities\nare a lot lot smaller than the speed of light,"
+    } ]
+  }, {
+    "tStartMs": 244060,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "then the v times u divided by c squared term\nin the bottom is essentially zero, and so"
+    } ]
+  }, {
+    "tStartMs": 248500,
+    "dDurationMs": 5889,
+    "segs": [ {
+      "utf8": "the whole thing is essentially v+u – this\nis the sense in which, for slow speeds, velocities"
+    } ]
+  }, {
+    "tStartMs": 254389,
+    "dDurationMs": 2111,
+    "segs": [ {
+      "utf8": "DO simply add together."
+    } ]
+  }, {
+    "tStartMs": 256500,
+    "dDurationMs": 7290,
+    "segs": [ {
+      "utf8": "But not for speeds close to light speed; our\nuniverse is more subtle than that."
+    } ]
+  }, {
+    "tStartMs": 263790,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "For a deeper look into how to compare relativistic\nvelocities, I highly recommend heading over"
+    } ]
+  }, {
+    "tStartMs": 268380,
+    "dDurationMs": 2539,
+    "segs": [ {
+      "utf8": "to Brilliant.org's course on special relativity."
+    } ]
+  }, {
+    "tStartMs": 270919,
+    "dDurationMs": 4011,
+    "segs": [ {
+      "utf8": "There, you can explore custom scenarios that\nbuild off the topics in this video to get"
+    } ]
+  }, {
+    "tStartMs": 274930,
+    "dDurationMs": 4419,
+    "segs": [ {
+      "utf8": "an intuitive understanding of the mathematics\nof relativistic velocity addition - like how"
+    } ]
+  }, {
+    "tStartMs": 279349,
+    "dDurationMs": 2911,
+    "segs": [ {
+      "utf8": "to warn earth of an incoming relativistic\nalien invasion."
+    } ]
+  }, {
+    "tStartMs": 282260,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "The special relativity questions on Brilliant.org\nare specifically designed to help you take"
+    } ]
+  }, {
+    "tStartMs": 286880,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "the next step on the topics I'm including\nin this series, and you can get 20% off of"
+    } ]
+  }, {
+    "tStartMs": 290979,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "a Brilliant subscription by going to Brilliant.org/minutephysics."
+    } ]
+  }, {
+    "tStartMs": 293660,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Again, that's Brilliant.org/minutephysics\nwhich gets you 20% off premium access to all"
+    } ]
+  }, {
+    "tStartMs": 298250,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "of Brilliant's courses and puzzles, and lets\nBrilliant know you came from here."
+    } ]
+  } ]
+}

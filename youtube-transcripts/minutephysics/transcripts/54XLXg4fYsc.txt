@@ -1,0 +1,98 @@
+Hey, this is Henry (from MinutePhysics), and
+you won’t be surprised to hear that I’verecently been thinking a bit more about epidemiology
+than physics.When I see daily news reports on COVID-19
+[onscreen show total case numbers: “now15000 cases in NY state!” etc], it’s really
+difficult for me to build a coherent pictureof what’s actually going on, because the
+numbers are changing so quickly (which isexactly what you expect with exponential growth)
+that they’re almost immediately out of date.We know that epidemics tend to grow exponentially
+at first, and also that exponential growthis really really hard for our human brains
+to understand because of just how crazilyfast it is. My friend Grant Sanderson has
+a great overview video about exponential growthwhich I highly recommend.But regarding the news - I’d rather know
+where we’re headed, and if we’re makingdetectable progress. Are we winning or losing?Because of course, we can’t have exponential
+growth forever - at some point the diseasewill run out of new people to infect, either
+because most people have already been infected,or because we as a society managed to get
+it under control. But - and this is the scarypart to me - when you’re in the middle of
+an exponential, it’s essentially impossibleto tell when it’s going to end. Are we in
+for 10 times as many cases as we currentlyhave? Or 100 times as many? Or 1000? Exactly
+when exponential growth ends is important,because it hugely determines how many people
+fall ill, yet so little reporting actuallyfocuses at all on how to tell if exponential
+growth is ending (which would be a super positivesign!).After talking about this with my friend Aatish,
+he put together a new - and very useful - animatedgraph visualizing the COVID-19 epidemic on
+a global scale.This graph shows all countries travelling
+along the trajectory of exponential growth,and it makes it super obvious which ones have
+managed to stop the exponential spread ofdisease - they plummet downwards off the main
+sequence in a way that I find super compelling.And this figure also makes it abundantly clear
+that, even if a country doesn’t have lotsof cases right now, covid-19 is probably going
+to follow this same trajectory there and endup spreading & spreading & spreading - until
+that country hits the emergency eject button.If you’re planning for the future and your
+country doesn’t have a lot of cases yet,it’s nevertheless a safe bet that you’re
+probably headed down a similar path.So how did we make this graph? Well, there
+are three key ideas: the first is to ploton a logarithmic scale, since that’s the
+natural scale for exponential growth - notethat the tick marks grow by multiples of 10,
+so 10, 100, 1000, rather than 10, 20, 30.This scales up small numbers and scales down
+large numbers, making the growth equally apparenton all scales, and lets us compare the growth
+in countries with very different numbers ofcases.Which brings us to the second idea: catch
+changes early, by looking at change itself.For example, if you look at the growth of
+cases in South Korea, you can see that atfirst they’re exponential, and later, the
+growth slows down. But when you’re halfwayup this curve, it’s hard to tell by eye
+that it’s slowing down - it still looksexponential. If instead you instead chart
+the number of new cases in the last week,in other words, the rate of growth, it’s
+much easier to see that the growth is startingto slow down. When the number of new cases
+each week flattens out or goes down, you’veescaped the (scary) exponential growth zone.The third idea behind our graph is one from
+physics: don’t plot against time. Usually,when you see exponential growth, the number
+of cases is plotted versus time. But the spreadof the disease doesn’t care if it’s March
+or April; it only cares about two things:how many cases there are, and how many new
+cases there will be - that is, the growthrate. The defining feature of exponential
+growth is that the # of new cases is proportionalto the # of existing cases, which means that
+if you plot new cases vs total cases, exponentialgrowth appears as a straight line. So these
+are what we plotted on our graph: the numberof new cases (aka the growth rate) is on the
+y axis, and the cumulative number of casesis on the x axis, both on logarithmic scales.
+[visual footnote on the graph about cumulativevs current # of cases]This gives us a beautiful-horrible graph that
+shows where all countries are in their COVID-19journeys; it makes it obvious that the disease
+is spreading in the same manner everywhere- we’re all headed on the same trajectory,
+just shifted in time; and it makes it obviouswhere public health measures like testing,
+isolation, social distancing, and contacttracing have started to beat back the disease,
+and where they either aren’t working orhaven’t had time to show up in the data.
+[graph with animation]In nearly every country (*so far), the number
+of cases grows at a roughly similar rate,until it doesn’t. And that’s what I feel
+like is missing from so much COVID-19 coverage:a sense of whether or not we can see the light
+at the end of the tunnel. Are we still onthe rocketship of contagion, or have we managed
+to hit the emergency eject button?And this graph does that; it gives us some
+sense of what’s actually happening in theseuncertain times.That said, this graph also has a number of
+caveats & limitations - its main goal is toemphasize deviations from exponential growth
+- that is, to amplify the light at the endof the tunnel, so it may be less informative
+for other purposes.[Logarithmic scales distort] 10,000 looks
+really close to 1,000 on a log scale; thiskind of distortion might allow people to take
+COVID-19 less seriously. Also, the log scaleon the x axis makes it harder to see a resurgence
+of new infections after a significant downturn-- a normal plot compared with time is better
+for that.[Time is implied] Also, unlike most other
+COVID graphs you’ve probably seen, timeisn’t on the x axis, which might be confusing!
+Instead, time is shown through an animation.[“Confirmed Cases” =/= Infections] Another
+important caveat is that this graph (& basicallyevery other COVID-19 graph that you’ve seen)
+is not actually showing the true number ofcases, just the number of detected cases.
+The true number of cases is unknown but certainlymuch higher than the number detected.[True Growth Rate vs Tested Growth Rate] In
+reality, COVID-19 cases spread at a slowerrate than what the data implies. It’s a
+subtle idea, but the data reflect not justan increase in cases, but also an increase
+in the number of tests performed.[Imperfect Data] The data we’re using is
+incomplete, as it relies on daily reportsfrom overburdened healthcare systems around
+the world. Also, different countries havedramatic differences in the resources that
+are available or dedicated for testing.[Slightly Delayed] Finally, the trends in
+this plot are delayed a few days, since we’replotting the average growth rate over last
+week (there’s too much variability in thedata to plot daily growth rates). This is
+actually kind of a good thing - it means thatit’s a pessimistic graph, it doesn’t get
+too excited too soon, and so a downward trendon the graph is much more likely to be a real
+downward trend.And a real downward trend is what we want,
+for all countries!A lot of the daily news just reports recent
+data points. Yet to understand where we’reheaded, it’s not enough to know just where
+we are today - we need to be talking aboutthe trends: how many new cases there are today
+relative to the number of new cases yesterday,or last week. Charting the rate of change
+empowers us all to more clearly see what thefuture holds.A giant thanks to Aatish Bhatia who helped
+create the interactive visualization, andwrite this script - Aatish’s work has been
+a beacon to me in these hard times. And thisvideo was made possible by Brilliant.org,
+which, I don’t know if you know anyone who’slooking for interactive online math & science
+resources, courses, practice problems, anddaily puzzles right now, but Brilliant.org
+is the place to go. They cover lots of K12and college level subjects ranging from Fundamentals
+of Algebra to Calculus to Differential Equations,and of course they have sections on exponential
+and logistic growth! The first 200 peopleto go to Brilliant.org/minutephysics get 20%
+off a premium subscription to Brilliant, withaccess to all
+of Brilliant’s courses, quizzes, and puzzles.

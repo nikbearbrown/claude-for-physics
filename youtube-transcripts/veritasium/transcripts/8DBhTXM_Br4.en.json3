@@ -1,0 +1,4771 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 60,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "- Most of us tie our shoe laces wrong."
+    } ]
+  }, {
+    "tStartMs": 3000,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "There are two ways to tie\na knot in your shoe laces."
+    } ]
+  }, {
+    "tStartMs": 6030,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "In one, you go counterclockwise\naround the loop,"
+    } ]
+  }, {
+    "tStartMs": 9330,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and in the other, you go clockwise."
+    } ]
+  }, {
+    "tStartMs": 12690,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "These two methods look almost identical,"
+    } ]
+  }, {
+    "tStartMs": 15330,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "but one of these knots is\nfar superior to the other."
+    } ]
+  }, {
+    "tStartMs": 18240,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "It doesn't loosen or come\nuntied nearly as easily."
+    } ]
+  }, {
+    "tStartMs": 21660,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "To understand why,"
+    } ]
+  }, {
+    "tStartMs": 22680,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "we need to delve into knot theory."
+    } ]
+  }, {
+    "tStartMs": 26100,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "This is a whole branch of mathematics"
+    } ]
+  }, {
+    "tStartMs": 28380,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "that aims to identify,\ncategorize and understand"
+    } ]
+  }, {
+    "tStartMs": 31240,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "every possible knot that could ever exist."
+    } ]
+  }, {
+    "tStartMs": 34950,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "So far, we have discovered\nthe first 352,152,252 knots."
+    } ]
+  }, {
+    "tStartMs": 41190,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Each one has its own"
+    } ]
+  }, {
+    "tStartMs": 42270,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "particular properties and characteristics."
+    } ]
+  }, {
+    "tStartMs": 45300,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I think it's fascinating"
+    } ]
+  }, {
+    "tStartMs": 46860,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "that there's something\nlike a periodic table"
+    } ]
+  }, {
+    "tStartMs": 48870,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "for knots out there,"
+    } ]
+  }, {
+    "tStartMs": 50790,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "but it's not pure math."
+    } ]
+  }, {
+    "tStartMs": 52920,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Knot theory has turned out\nto be remarkably useful."
+    } ]
+  }, {
+    "tStartMs": 55860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It is core to the structure\nof proteins and DNA."
+    } ]
+  }, {
+    "tStartMs": 59220,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "It's leading to new materials"
+    } ]
+  }, {
+    "tStartMs": 61230,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "that could be stronger than Kevlar."
+    } ]
+  }, {
+    "tStartMs": 63360,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "It's even used to develop medicines"
+    } ]
+  }, {
+    "tStartMs": 65580,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "that save millions of lives."
+    } ]
+  }, {
+    "tStartMs": 68940,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "All of this just from trying\nto understand the humble knot."
+    } ]
+  }, {
+    "tStartMs": 78030,
+    "dDurationMs": 1773,
+    "segs": [ {
+      "utf8": "So what is a knot?"
+    } ]
+  }, {
+    "tStartMs": 80839,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "Well, in our everyday lives,"
+    } ]
+  }, {
+    "tStartMs": 82380,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "we see knots like this or this,"
+    } ]
+  }, {
+    "tStartMs": 85950,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "but if you are trying to\nrigorously study knots,"
+    } ]
+  }, {
+    "tStartMs": 88980,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "you want to be able to pull them apart"
+    } ]
+  }, {
+    "tStartMs": 91290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "so you can really see what's going on."
+    } ]
+  }, {
+    "tStartMs": 93720,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "The problem is knots like\nthis are held together"
+    } ]
+  }, {
+    "tStartMs": 95910,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "only by tension and friction."
+    } ]
+  }, {
+    "tStartMs": 97740,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So if you pull on them too hard,"
+    } ]
+  }, {
+    "tStartMs": 99510,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "they fall apart."
+    } ]
+  }, {
+    "tStartMs": 100890,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "So in order to capture\nthe knot on the rope,"
+    } ]
+  }, {
+    "tStartMs": 104310,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "mathematicians got the idea\nto connect the two ends."
+    } ]
+  }, {
+    "tStartMs": 108510,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "And now, well, you can tease\nthe knot apart to study it,"
+    } ]
+  }, {
+    "tStartMs": 113340,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but it will never fundamentally change."
+    } ]
+  }, {
+    "tStartMs": 116100,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So in knot theory, all\nknots exist on closed loops."
+    } ]
+  }, {
+    "tStartMs": 119670,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "This means the simplest knot you can have"
+    } ]
+  }, {
+    "tStartMs": 121980,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "is just a circle like this."
+    } ]
+  }, {
+    "tStartMs": 124410,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Now, admittedly, this\nis not much of a knot,"
+    } ]
+  }, {
+    "tStartMs": 126180,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "which is why it is called an unknot."
+    } ]
+  }, {
+    "tStartMs": 131250,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Here is another knot."
+    } ]
+  }, {
+    "tStartMs": 133050,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Again, it's made of a single piece of rope"
+    } ]
+  }, {
+    "tStartMs": 135150,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "that forms a closed loop."
+    } ]
+  }, {
+    "tStartMs": 137160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Here is another."
+    } ]
+  }, {
+    "tStartMs": 139200,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Two knots are only different"
+    } ]
+  }, {
+    "tStartMs": 140850,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "if you can't make one into the other"
+    } ]
+  }, {
+    "tStartMs": 142890,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "without breaking the loop."
+    } ]
+  }, {
+    "tStartMs": 144690,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "This is the simplest\nknot after the unknot."
+    } ]
+  }, {
+    "tStartMs": 147420,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "It is called the trefoil,"
+    } ]
+  }, {
+    "tStartMs": 149280,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "and you can see that there's no way"
+    } ]
+  }, {
+    "tStartMs": 150570,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "for me to turn this back into a circle"
+    } ]
+  }, {
+    "tStartMs": 153210,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "unless I actually break it open,"
+    } ]
+  }, {
+    "tStartMs": 156330,
+    "dDurationMs": 3843,
+    "segs": [ {
+      "utf8": "take out the knot and\nthen close it up again."
+    } ]
+  }, {
+    "tStartMs": 161610,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Now I have two unknots."
+    } ]
+  }, {
+    "tStartMs": 164010,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "It is surprisingly hard to\ntell two knots apart by eye."
+    } ]
+  }, {
+    "tStartMs": 168000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Here is a simple mystery knot."
+    } ]
+  }, {
+    "tStartMs": 170760,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Is it an unknot, a trefoil or neither?"
+    } ]
+  }, {
+    "tStartMs": 173820,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'll give you a second to figure it out."
+    } ]
+  }, {
+    "tStartMs": 178410,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It is in fact a trefoil,"
+    } ]
+  }, {
+    "tStartMs": 180690,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "which you can see if I just untwist this"
+    } ]
+  }, {
+    "tStartMs": 183930,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "and rearrange the knot a little bit."
+    } ]
+  }, {
+    "tStartMs": 187500,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "And our first complicated knot,"
+    } ]
+  }, {
+    "tStartMs": 190440,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "well, it is actually just the unknot."
+    } ]
+  }, {
+    "tStartMs": 193950,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "I'm going to try to disentangle\nit so you can see that."
+    } ]
+  }, {
+    "tStartMs": 200220,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "There you go."
+    } ]
+  }, {
+    "tStartMs": 201570,
+    "dDurationMs": 3393,
+    "segs": [ {
+      "utf8": "It was just a single loop."
+    } ]
+  }, {
+    "tStartMs": 205920,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "In fact, these are all unknots,"
+    } ]
+  }, {
+    "tStartMs": 209010,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and this is where the problem begins."
+    } ]
+  }, {
+    "tStartMs": 211110,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You can't just randomly tangle some rope"
+    } ]
+  }, {
+    "tStartMs": 213630,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and connect the ends."
+    } ]
+  }, {
+    "tStartMs": 215040,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "To make a new mathematical knot,"
+    } ]
+  }, {
+    "tStartMs": 216540,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "you need to prove"
+    } ]
+  }, {
+    "tStartMs": 217560,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it's not just a tangled up\nversion of another knot."
+    } ]
+  }, {
+    "tStartMs": 220560,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "So how do you tell two knots apart?"
+    } ]
+  }, {
+    "tStartMs": 224310,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "This one question,"
+    } ]
+  }, {
+    "tStartMs": 225360,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "also known as the knot\nequivalence problem,"
+    } ]
+  }, {
+    "tStartMs": 227580,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "is so famously difficult"
+    } ]
+  }, {
+    "tStartMs": 229080,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "that it's propelled the\nentire field of knot theory"
+    } ]
+  }, {
+    "tStartMs": 231330,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "for over 150 years."
+    } ]
+  }, {
+    "tStartMs": 233520,
+    "dDurationMs": 2827,
+    "segs": [ {
+      "utf8": "Alan Turing even wrote\nin his final publication,"
+    } ]
+  }, {
+    "tStartMs": 236347,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "\"No systematic method is yet known"
+    } ]
+  }, {
+    "tStartMs": 238327,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "\"by which one can tell whether\ntwo knots are the same."
+    } ]
+  }, {
+    "tStartMs": 241447,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "\"A decision problem which\nmight well be unsolvable"
+    } ]
+  }, {
+    "tStartMs": 243997,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "\"is the one concerning knots."
+    } ]
+  }, {
+    "tStartMs": 246097,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "\"The results in this\narticle set certain bounds"
+    } ]
+  }, {
+    "tStartMs": 248407,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "\"to what we can hope to\nachieve purely by reasoning.\"."
+    } ]
+  }, {
+    "tStartMs": 253830,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Previously, the most famous\nknot problem in history"
+    } ]
+  }, {
+    "tStartMs": 256410,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "was the Gordian knot."
+    } ]
+  }, {
+    "tStartMs": 258090,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "It was said that whoever untangled\nthis massive knotted rope"
+    } ]
+  }, {
+    "tStartMs": 261630,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "was destined to rule all of Asia."
+    } ]
+  }, {
+    "tStartMs": 264600,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Legend goes, Alexander the Great"
+    } ]
+  }, {
+    "tStartMs": 266220,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "simply came along and\nsliced right through it."
+    } ]
+  }, {
+    "tStartMs": 268890,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "That would not be a valid\nsolution in knot theory."
+    } ]
+  }, {
+    "tStartMs": 273090,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "And there are other\nfamous knots of history."
+    } ]
+  }, {
+    "tStartMs": 275640,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "The endless knot is seen as far back"
+    } ]
+  }, {
+    "tStartMs": 277710,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "as clay tablets from the Indus Valley,"
+    } ]
+  }, {
+    "tStartMs": 279630,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and it was used in\nMedieval Celtic designs,"
+    } ]
+  }, {
+    "tStartMs": 282240,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "Chinese knot work and\nHinduism and Buddhism."
+    } ]
+  }, {
+    "tStartMs": 286140,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "In Incan civilization,"
+    } ]
+  }, {
+    "tStartMs": 287610,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "knots were tied on chords called quipu"
+    } ]
+  }, {
+    "tStartMs": 289890,
+    "dDurationMs": 2913,
+    "segs": [ {
+      "utf8": "to track everything\nfrom taxes to calendars."
+    } ]
+  }, {
+    "tStartMs": 293880,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "You can even find a knot"
+    } ]
+  }, {
+    "tStartMs": 294920,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in the coat of arms for\nthe House of Borromeo,"
+    } ]
+  }, {
+    "tStartMs": 297480,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "an Italian noble family that\nhas existed since the 1300s."
+    } ]
+  }, {
+    "tStartMs": 301209,
+    "dDurationMs": 2811,
+    "segs": [ {
+      "utf8": "The Borromeon rings\nare technically a link,"
+    } ]
+  }, {
+    "tStartMs": 304020,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "which is just a knot with\nmultiple loops of rope."
+    } ]
+  }, {
+    "tStartMs": 307620,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The most basic link is the unlink,"
+    } ]
+  }, {
+    "tStartMs": 310260,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "two loops which aren't actually connected,"
+    } ]
+  }, {
+    "tStartMs": 312270,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "much like the unknot."
+    } ]
+  }, {
+    "tStartMs": 314190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "After that is the Hopf link."
+    } ]
+  }, {
+    "tStartMs": 316410,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Then later, the Borromeon rings and more."
+    } ]
+  }, {
+    "tStartMs": 319830,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "But the knot equivalence problem"
+    } ]
+  }, {
+    "tStartMs": 321330,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "was only encountered centuries later."
+    } ]
+  }, {
+    "tStartMs": 327270,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "In January of 1867,"
+    } ]
+  }, {
+    "tStartMs": 329340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Scottish physicist Peter Guthrie Tait"
+    } ]
+  }, {
+    "tStartMs": 331860,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "showed off his homemade smoke machine"
+    } ]
+  }, {
+    "tStartMs": 333510,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "to renowned scientist William Thomson,"
+    } ]
+  }, {
+    "tStartMs": 335610,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "later Lord Kelvin."
+    } ]
+  }, {
+    "tStartMs": 337440,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Tait had read a paper"
+    } ]
+  }, {
+    "tStartMs": 338460,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that said a vortex ring\nshould be eternally stable"
+    } ]
+  }, {
+    "tStartMs": 341820,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "in an ideal fluid."
+    } ]
+  }, {
+    "tStartMs": 343860,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So intrigued, he set up two wooden boxes"
+    } ]
+  }, {
+    "tStartMs": 346410,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "containing a kind of toxic mixture"
+    } ]
+  }, {
+    "tStartMs": 348720,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "of ammonia, sulfuric acid and salt."
+    } ]
+  }, {
+    "tStartMs": 352110,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "When he tapped a towel"
+    } ]
+  }, {
+    "tStartMs": 353190,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "stretched across the back of each box,"
+    } ]
+  }, {
+    "tStartMs": 355320,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "the chemical smoke popped\nout of a circular cutout"
+    } ]
+  }, {
+    "tStartMs": 358410,
+    "dDurationMs": 1592,
+    "segs": [ {
+      "utf8": "in perfect rings."
+    } ]
+  }, {
+    "tStartMs": 360002,
+    "dDurationMs": 3538,
+    "segs": [ {
+      "utf8": "Kelvin, watching, was\ntransfixed by the rings."
+    } ]
+  }, {
+    "tStartMs": 363540,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "He had been pondering\nthe composition of atoms,"
+    } ]
+  }, {
+    "tStartMs": 366330,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "a fundamental question of the time,"
+    } ]
+  }, {
+    "tStartMs": 368490,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and suddenly he saw an answer."
+    } ]
+  }, {
+    "tStartMs": 370920,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "He declared that atoms must be made"
+    } ]
+  }, {
+    "tStartMs": 373050,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "out of vortex rings of ether,"
+    } ]
+  }, {
+    "tStartMs": 375570,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "an invisible everywhere medium."
+    } ]
+  }, {
+    "tStartMs": 378150,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Different knots of vortex rings"
+    } ]
+  }, {
+    "tStartMs": 379980,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "would make different elements."
+    } ]
+  }, {
+    "tStartMs": 381660,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "The shape of the Hopf link"
+    } ]
+  }, {
+    "tStartMs": 383070,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "explained the double\nspectral lines of sodium."
+    } ]
+  }, {
+    "tStartMs": 385410,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "The simple unknot ring was hydrogen."
+    } ]
+  }, {
+    "tStartMs": 389610,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Tait was skeptical,"
+    } ]
+  }, {
+    "tStartMs": 391170,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "but as Kelvin's vortex model of the atom"
+    } ]
+  }, {
+    "tStartMs": 393150,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "became a leading theory,"
+    } ]
+  }, {
+    "tStartMs": 394890,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Tait began investigating knots in earnest."
+    } ]
+  }, {
+    "tStartMs": 397590,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "In his mind,"
+    } ]
+  }, {
+    "tStartMs": 398423,
+    "dDurationMs": 2137,
+    "segs": [ {
+      "utf8": "creating a periodic table of the elements"
+    } ]
+  }, {
+    "tStartMs": 400560,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "with every new knot he found."
+    } ]
+  }, {
+    "tStartMs": 402900,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "The crossing number is an\neasy way to categorize knots."
+    } ]
+  }, {
+    "tStartMs": 406050,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Just take the simplest form of a knot,"
+    } ]
+  }, {
+    "tStartMs": 408210,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "one with no extra twists or tangles,"
+    } ]
+  }, {
+    "tStartMs": 410970,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and count up all its crossings."
+    } ]
+  }, {
+    "tStartMs": 413640,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "By hand, Tait discovered a three\ncrossing knot, the trefoil,"
+    } ]
+  }, {
+    "tStartMs": 417420,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "then a four crossing\nknot, the figure eight,"
+    } ]
+  }, {
+    "tStartMs": 420000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "then two five crossing knots,"
+    } ]
+  }, {
+    "tStartMs": 421920,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "three six crossing knots and\nseven seven crossing knots."
+    } ]
+  }, {
+    "tStartMs": 426300,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "One quick note, knots are additive."
+    } ]
+  }, {
+    "tStartMs": 428850,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "You can stick multiple knots\ntogether to make a new knot,"
+    } ]
+  }, {
+    "tStartMs": 431670,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "like combining these two trefoils\ninto a six crossing knot."
+    } ]
+  }, {
+    "tStartMs": 435150,
+    "dDurationMs": 1975,
+    "segs": [ {
+      "utf8": "This is called a composite knot,"
+    } ]
+  }, {
+    "tStartMs": 437125,
+    "dDurationMs": 3695,
+    "segs": [ {
+      "utf8": "but some knots aren't\ndecomposable into simpler knots."
+    } ]
+  }, {
+    "tStartMs": 440820,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "These are known as prime knots."
+    } ]
+  }, {
+    "tStartMs": 443280,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Since all composite knots\nare just built from primes,"
+    } ]
+  }, {
+    "tStartMs": 446130,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "people mainly focus on\ntabulating prime knots."
+    } ]
+  }, {
+    "tStartMs": 451770,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Unfortunately for Tait,"
+    } ]
+  }, {
+    "tStartMs": 453390,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "warning signs were on the horizon"
+    } ]
+  }, {
+    "tStartMs": 454950,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "for Lord Kelvin's vortex\ntheory of the atom."
+    } ]
+  }, {
+    "tStartMs": 457350,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Mendeleev's first periodic table\nhad been published in 1869."
+    } ]
+  }, {
+    "tStartMs": 461190,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "The Michelson-Morley\nexperiment sowed seeds of doubt"
+    } ]
+  }, {
+    "tStartMs": 463740,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "about an ether in 1887,"
+    } ]
+  }, {
+    "tStartMs": 465780,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and the most damning result"
+    } ]
+  }, {
+    "tStartMs": 467190,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "was JJ Thomson's discovery\nof the electron in 1897."
+    } ]
+  }, {
+    "tStartMs": 471330,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So there were particles\nsmaller than the atom"
+    } ]
+  }, {
+    "tStartMs": 474000,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "which were inside atoms."
+    } ]
+  }, {
+    "tStartMs": 475960,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "But Tait was already in too\ndeep with knots to stop."
+    } ]
+  }, {
+    "tStartMs": 479670,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "He had even roped in his academic rival"
+    } ]
+  }, {
+    "tStartMs": 482220,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and close friend James Clerk Maxwell"
+    } ]
+  }, {
+    "tStartMs": 484530,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "of Maxwell's equations fame."
+    } ]
+  }, {
+    "tStartMs": 486780,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Thanks to Tait's influence,"
+    } ]
+  }, {
+    "tStartMs": 488130,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Maxwell became a knot enthusiast\nfor the rest of his life."
+    } ]
+  }, {
+    "tStartMs": 491880,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "His last poem"
+    } ]
+  }, {
+    "tStartMs": 493200,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "written shortly before his\ndeath from stomach cancer"
+    } ]
+  }, {
+    "tStartMs": 495930,
+    "dDurationMs": 3787,
+    "segs": [ {
+      "utf8": "even begins, \"My soul's\nan amphichiral knot,"
+    } ]
+  }, {
+    "tStartMs": 499717,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\"upon a liquid vortex wrought.\""
+    } ]
+  }, {
+    "tStartMs": 505590,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Assisted in part by hundreds\nof letters with Maxwell,"
+    } ]
+  }, {
+    "tStartMs": 508470,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Tait published his list"
+    } ]
+  }, {
+    "tStartMs": 509550,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "of knots up to seven crossings in 1877,"
+    } ]
+  }, {
+    "tStartMs": 512970,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "the first math paper with\nthe word knots in its title."
+    } ]
+  }, {
+    "tStartMs": 517050,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Then Tait paused his\nsearch for seven years."
+    } ]
+  }, {
+    "tStartMs": 520020,
+    "dDurationMs": 1147,
+    "segs": [ {
+      "utf8": "In a speech, he stated,"
+    } ]
+  }, {
+    "tStartMs": 521167,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\"The requisite labor increases\nwith extreme rapidity"
+    } ]
+  }, {
+    "tStartMs": 524227,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "\"as the number of crossings is increased."
+    } ]
+  }, {
+    "tStartMs": 526537,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "\"Someone with the requisite leisure"
+    } ]
+  }, {
+    "tStartMs": 528097,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "\"should try to extend this list,"
+    } ]
+  }, {
+    "tStartMs": 529837,
+    "dDurationMs": 2843,
+    "segs": [ {
+      "utf8": "\"if possible, up to 11.\""
+    } ]
+  }, {
+    "tStartMs": 532680,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Two mathematicians took him\nup on his call for help,"
+    } ]
+  }, {
+    "tStartMs": 535620,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "Thomas Kirkman and Charles Little."
+    } ]
+  }, {
+    "tStartMs": 538955,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Together, the three of them"
+    } ]
+  }, {
+    "tStartMs": 540155,
+    "dDurationMs": 3205,
+    "segs": [ {
+      "utf8": "were able to find all\n21 eight crossing knots,"
+    } ]
+  }, {
+    "tStartMs": 543360,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "all 49 nine crossing knots"
+    } ]
+  }, {
+    "tStartMs": 545490,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": "and all 166 10 crossing knots by 1899,"
+    } ]
+  }, {
+    "tStartMs": 549719,
+    "dDurationMs": 2851,
+    "segs": [ {
+      "utf8": "just two years before Tait's death."
+    } ]
+  }, {
+    "tStartMs": 552570,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "This was all done painstakingly by hand."
+    } ]
+  }, {
+    "tStartMs": 555750,
+    "dDurationMs": 1597,
+    "segs": [ {
+      "utf8": "Tait admits in his paper,"
+    } ]
+  }, {
+    "tStartMs": 557347,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "\"I cannot be absolutely certain"
+    } ]
+  }, {
+    "tStartMs": 559777,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "that all those groups are\nessentially different,"
+    } ]
+  }, {
+    "tStartMs": 561907,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "one from another.\""
+    } ]
+  }, {
+    "tStartMs": 563700,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "In the process of tabulating knots,"
+    } ]
+  }, {
+    "tStartMs": 565530,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "he had uncovered the central problem"
+    } ]
+  }, {
+    "tStartMs": 568140,
+    "dDurationMs": 1773,
+    "segs": [ {
+      "utf8": "of how to possibly tell them apart."
+    } ]
+  }, {
+    "tStartMs": 572430,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Somewhat miraculously,"
+    } ]
+  }, {
+    "tStartMs": 573930,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Tait, Kirkman and Little\nhad done a near perfect job"
+    } ]
+  }, {
+    "tStartMs": 576810,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "with their knot tables."
+    } ]
+  }, {
+    "tStartMs": 578070,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Their list stood for 75\nyears without change,"
+    } ]
+  }, {
+    "tStartMs": 581280,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "until a single correction in 1973."
+    } ]
+  }, {
+    "tStartMs": 584250,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "But more on that later."
+    } ]
+  }, {
+    "tStartMs": 587490,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "For decades after Tait's death,"
+    } ]
+  }, {
+    "tStartMs": 589320,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "little progress was made on\nthe knot equivalence problem."
+    } ]
+  }, {
+    "tStartMs": 592650,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "But in 1927,"
+    } ]
+  }, {
+    "tStartMs": 593850,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "German mathematician Kurt Reidemeister"
+    } ]
+  }, {
+    "tStartMs": 595950,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "proved a radical theorem."
+    } ]
+  }, {
+    "tStartMs": 598080,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "You only need three types of moves"
+    } ]
+  }, {
+    "tStartMs": 599910,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "to transform any two identical\nknots into each other."
+    } ]
+  }, {
+    "tStartMs": 603630,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "The twist, the poke and the slide,"
+    } ]
+  }, {
+    "tStartMs": 607140,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "where you move a string"
+    } ]
+  }, {
+    "tStartMs": 608130,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "from one side of a crossing to the other."
+    } ]
+  }, {
+    "tStartMs": 610650,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Now we can prove some knots are the same."
+    } ]
+  }, {
+    "tStartMs": 613470,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "If you can show that they're connected"
+    } ]
+  }, {
+    "tStartMs": 614760,
+    "dDurationMs": 1413,
+    "segs": [ {
+      "utf8": "by Reidemeister moves,"
+    } ]
+  }, {
+    "tStartMs": 621240,
+    "dDurationMs": 2343,
+    "segs": [ {
+      "utf8": "you've proven that they must be identical."
+    } ]
+  }, {
+    "tStartMs": 625590,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "But we still don't know"
+    } ]
+  }, {
+    "tStartMs": 626850,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "how to prove any knots\ndifferent from each other"
+    } ]
+  }, {
+    "tStartMs": 629700,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "because you could do Reidemeister moves"
+    } ]
+  }, {
+    "tStartMs": 631530,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "on one knot for centuries"
+    } ]
+  }, {
+    "tStartMs": 632820,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "without it ever looking\nlike the other knot."
+    } ]
+  }, {
+    "tStartMs": 635490,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And maybe they're actually different,"
+    } ]
+  }, {
+    "tStartMs": 637440,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "but maybe they're the same"
+    } ]
+  }, {
+    "tStartMs": 638850,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and you just never made the right move"
+    } ]
+  }, {
+    "tStartMs": 640740,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "to show that that is true."
+    } ]
+  }, {
+    "tStartMs": 642600,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "This may have been where\nTuring was coming from"
+    } ]
+  }, {
+    "tStartMs": 644790,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "when he called the knot\nequivalence problem"
+    } ]
+  }, {
+    "tStartMs": 647280,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "potentially undecidable."
+    } ]
+  }, {
+    "tStartMs": 650070,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But in 1961,"
+    } ]
+  }, {
+    "tStartMs": 653190,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "mathematician Wolfgang Haken\ncreated a computer algorithm"
+    } ]
+  }, {
+    "tStartMs": 656580,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "that solved the not equivalence\nproblem definitively"
+    } ]
+  }, {
+    "tStartMs": 660150,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "for this specific case"
+    } ]
+  }, {
+    "tStartMs": 661290,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "of distinguishing any\nknot from the unknot."
+    } ]
+  }, {
+    "tStartMs": 664470,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "That said, his paper\nwas over 130 pages long"
+    } ]
+  }, {
+    "tStartMs": 668430,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and the algorithm would've taken longer"
+    } ]
+  }, {
+    "tStartMs": 670380,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "than the age of the universe\nto run for large knots."
+    } ]
+  }, {
+    "tStartMs": 674160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "In 2001, building on Haken's work,"
+    } ]
+  }, {
+    "tStartMs": 676560,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "mathematicians found a way"
+    } ]
+  }, {
+    "tStartMs": 677640,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "to distinguish between\nany knot and the unknot"
+    } ]
+  }, {
+    "tStartMs": 680250,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "by simply setting an upper bound"
+    } ]
+  }, {
+    "tStartMs": 681990,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "on the number of Reidemeister\nmoves needed to connect them."
+    } ]
+  }, {
+    "tStartMs": 685290,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "If you check all sequences\nof Reidemeister moves"
+    } ]
+  }, {
+    "tStartMs": 687630,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "up to that number,"
+    } ]
+  }, {
+    "tStartMs": 688710,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "you can prove if the knot\nis the unknot or not."
+    } ]
+  }, {
+    "tStartMs": 694530,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "There's just one problem."
+    } ]
+  }, {
+    "tStartMs": 696060,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That upper bound was two\nto the 100 billion n moves."
+    } ]
+  }, {
+    "tStartMs": 701280,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "As of today,"
+    } ]
+  }, {
+    "tStartMs": 702150,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "the upper bound has improved dramatically"
+    } ]
+  }, {
+    "tStartMs": 704160,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "to just 236 n to the power of 11."
+    } ]
+  }, {
+    "tStartMs": 708510,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Now, while smaller than before,"
+    } ]
+  }, {
+    "tStartMs": 710220,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "checking all possible\nsequences of Reidemeister moves"
+    } ]
+  }, {
+    "tStartMs": 713130,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "up to this number is still unfathomable."
+    } ]
+  }, {
+    "tStartMs": 716400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "For a single crossing knot,"
+    } ]
+  }, {
+    "tStartMs": 718520,
+    "dDurationMs": 2282,
+    "segs": [ {
+      "utf8": "this is larger than the number of stars"
+    } ]
+  }, {
+    "tStartMs": 720802,
+    "dDurationMs": 2141,
+    "segs": [ {
+      "utf8": "in the observable universe."
+    } ]
+  }, {
+    "tStartMs": 724680,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "In 2011, mathematicians\nfound an upper bound"
+    } ]
+  }, {
+    "tStartMs": 727110,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "on the number of Reidemeister moves needed"
+    } ]
+  }, {
+    "tStartMs": 728850,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to connect any two knots or links,"
+    } ]
+  }, {
+    "tStartMs": 731490,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "solving the entire knot\nequivalence problem."
+    } ]
+  }, {
+    "tStartMs": 735630,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "This is the upper bound."
+    } ]
+  }, {
+    "tStartMs": 739020,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "First, raise two to the second power,"
+    } ]
+  }, {
+    "tStartMs": 741780,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "then raise that to the power of two again."
+    } ]
+  }, {
+    "tStartMs": 744090,
+    "dDurationMs": 3813,
+    "segs": [ {
+      "utf8": "This operation is called\ntetration, and it grows fast."
+    } ]
+  }, {
+    "tStartMs": 749042,
+    "dDurationMs": 3508,
+    "segs": [ {
+      "utf8": "Now keep doing it until you\nhave raised two to itself"
+    } ]
+  }, {
+    "tStartMs": 752550,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "10 to the million n times."
+    } ]
+  }, {
+    "tStartMs": 756120,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Cap it off with n again."
+    } ]
+  }, {
+    "tStartMs": 758820,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "This is easily the largest number"
+    } ]
+  }, {
+    "tStartMs": 760770,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "we have ever shown in a video."
+    } ]
+  }, {
+    "tStartMs": 763290,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "But even just to have a\nsolution is remarkable,"
+    } ]
+  }, {
+    "tStartMs": 766200,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "given that Turing thought the problem"
+    } ]
+  }, {
+    "tStartMs": 767670,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "was potentially undecidable\nonly 60 years earlier."
+    } ]
+  }, {
+    "tStartMs": 772101,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "If it's this hard to tell two knots apart,"
+    } ]
+  }, {
+    "tStartMs": 775890,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "how have we managed to tabulate\n350 million different knots?"
+    } ]
+  }, {
+    "tStartMs": 781440,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Well, there are some properties of a knot"
+    } ]
+  }, {
+    "tStartMs": 783240,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "that never change,"
+    } ]
+  }, {
+    "tStartMs": 784260,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "no matter how much you\ntwist or tangle it up."
+    } ]
+  }, {
+    "tStartMs": 787440,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "These are called invariants,"
+    } ]
+  }, {
+    "tStartMs": 789390,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and these invariants will\nbe different for some knots"
+    } ]
+  }, {
+    "tStartMs": 792450,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "compared to other ones."
+    } ]
+  }, {
+    "tStartMs": 793710,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So you can use them as\nhallmarks of a particular knot."
+    } ]
+  }, {
+    "tStartMs": 797190,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "They're not perfectly discriminating."
+    } ]
+  }, {
+    "tStartMs": 799290,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "I mean, some knots will share invariants,"
+    } ]
+  }, {
+    "tStartMs": 801900,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "but if two knots have different invariants"
+    } ]
+  }, {
+    "tStartMs": 803910,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "then you know for sure\nthat they are different."
+    } ]
+  }, {
+    "tStartMs": 807000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Crossing number is itself aninvariant."
+    } ]
+  }, {
+    "tStartMs": 809520,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Two knots can't be identical"
+    } ]
+  }, {
+    "tStartMs": 811080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "if they have different crossing numbers."
+    } ]
+  }, {
+    "tStartMs": 813720,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "But the crossing number"
+    } ]
+  }, {
+    "tStartMs": 814740,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is surprisingly difficult to calculate."
+    } ]
+  }, {
+    "tStartMs": 817140,
+    "dDurationMs": 2305,
+    "segs": [ {
+      "utf8": "You can put extra crossings into any knot,"
+    } ]
+  }, {
+    "tStartMs": 819445,
+    "dDurationMs": 2855,
+    "segs": [ {
+      "utf8": "like just throw in a bunch of twists."
+    } ]
+  }, {
+    "tStartMs": 822300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Different variations of the same knot"
+    } ]
+  }, {
+    "tStartMs": 824400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "are known as different\nprojections of that knot."
+    } ]
+  }, {
+    "tStartMs": 827940,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Crossing number measures the\nleast number of crossings"
+    } ]
+  }, {
+    "tStartMs": 830940,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "a knot can have,"
+    } ]
+  }, {
+    "tStartMs": 832230,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "but it only works for the\nsimplest projection of a knot,"
+    } ]
+  }, {
+    "tStartMs": 835170,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "also known as its reduced form,"
+    } ]
+  }, {
+    "tStartMs": 837780,
+    "dDurationMs": 3465,
+    "segs": [ {
+      "utf8": "but it's difficult to ensure\nthat a knot is fully reduced."
+    } ]
+  }, {
+    "tStartMs": 841245,
+    "dDurationMs": 2565,
+    "segs": [ {
+      "utf8": "Instead, we can use another invariant,"
+    } ]
+  }, {
+    "tStartMs": 843810,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "one that's true right away\nfor all projections of a knot."
+    } ]
+  }, {
+    "tStartMs": 846900,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So it'll give the same value"
+    } ]
+  }, {
+    "tStartMs": 848670,
+    "dDurationMs": 3843,
+    "segs": [ {
+      "utf8": "both for a messy trefoil\nand for a reduced trefoil."
+    } ]
+  }, {
+    "tStartMs": 853530,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "This first invariant is tricolorability"
+    } ]
+  }, {
+    "tStartMs": 856350,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "or whether or knot can be\ncolored in with three colors."
+    } ]
+  }, {
+    "tStartMs": 860220,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Take a diagram of a knot"
+    } ]
+  }, {
+    "tStartMs": 861750,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and color in each individual segment."
+    } ]
+  }, {
+    "tStartMs": 864540,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "These are just separated\nby under crossings"
+    } ]
+  }, {
+    "tStartMs": 867240,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "where you would lift\nyour pen off the page."
+    } ]
+  }, {
+    "tStartMs": 869730,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Tricolorability only has two rules."
+    } ]
+  }, {
+    "tStartMs": 872520,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "First, you must use at least two colors"
+    } ]
+  }, {
+    "tStartMs": 875130,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "because you can color any\nknot in with one color."
+    } ]
+  }, {
+    "tStartMs": 878340,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "And second, at crossings,"
+    } ]
+  }, {
+    "tStartMs": 880320,
+    "dDurationMs": 1248,
+    "segs": [ {
+      "utf8": "the three intersecting strands"
+    } ]
+  }, {
+    "tStartMs": 881568,
+    "dDurationMs": 4152,
+    "segs": [ {
+      "utf8": "must either be all the same\ncolor or all different colors."
+    } ]
+  }, {
+    "tStartMs": 885720,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Basically no two colored crossings."
+    } ]
+  }, {
+    "tStartMs": 889050,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "There are just two\ncategories of this invariant,"
+    } ]
+  }, {
+    "tStartMs": 891300,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "either a knot is tricolorable or it's not."
+    } ]
+  }, {
+    "tStartMs": 894450,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Identical knots must match."
+    } ]
+  }, {
+    "tStartMs": 896100,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So if one knot is tricolorable\nand the other one isn't,"
+    } ]
+  }, {
+    "tStartMs": 898980,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "then you know they're different knots."
+    } ]
+  }, {
+    "tStartMs": 901710,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "It's hard to believe that\ntricolorability is constant"
+    } ]
+  }, {
+    "tStartMs": 904530,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "across any possible\nprojection of the same knot,"
+    } ]
+  }, {
+    "tStartMs": 907320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "but since you only need Reidemeister moves"
+    } ]
+  }, {
+    "tStartMs": 909360,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to move between projections,"
+    } ]
+  }, {
+    "tStartMs": 911070,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "we just need to prove"
+    } ]
+  }, {
+    "tStartMs": 911910,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "that it isn't affected\nby Reidemeister moves."
+    } ]
+  }, {
+    "tStartMs": 914700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "The twist is easy."
+    } ]
+  }, {
+    "tStartMs": 916200,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Everything's one color already,"
+    } ]
+  }, {
+    "tStartMs": 917760,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and it stays that way."
+    } ]
+  }, {
+    "tStartMs": 919560,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "With the poke,"
+    } ]
+  }, {
+    "tStartMs": 920393,
+    "dDurationMs": 2947,
+    "segs": [ {
+      "utf8": "the intersection of two colors\nmeans that the loop formed"
+    } ]
+  }, {
+    "tStartMs": 923340,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "must become the third color."
+    } ]
+  }, {
+    "tStartMs": 924930,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "So we have three colors\nat every intersection."
+    } ]
+  }, {
+    "tStartMs": 927540,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "With the slide,"
+    } ]
+  }, {
+    "tStartMs": 928560,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "you never have to break tricolorability"
+    } ]
+  }, {
+    "tStartMs": 930330,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "because you start with three\ncolors at three intersections"
+    } ]
+  }, {
+    "tStartMs": 933300,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "and then switch one\nintersection to just one color."
+    } ]
+  }, {
+    "tStartMs": 936870,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "So any knot will maintain\nits tricolorability,"
+    } ]
+  }, {
+    "tStartMs": 939840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "no matter what Reidemeister moves you do."
+    } ]
+  }, {
+    "tStartMs": 942840,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "This is a good time to note"
+    } ]
+  }, {
+    "tStartMs": 944580,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "that we never actually proved\nthe trefoil and the unknot"
+    } ]
+  }, {
+    "tStartMs": 947640,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "were two different knots,"
+    } ]
+  }, {
+    "tStartMs": 949410,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "but we can do it now with tricolorability."
+    } ]
+  }, {
+    "tStartMs": 952680,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "The unknot is not tricolorable"
+    } ]
+  }, {
+    "tStartMs": 955410,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "since you can't use at least\ntwo colors to color it in,"
+    } ]
+  }, {
+    "tStartMs": 958260,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and the trefoil is easily tricolorable,"
+    } ]
+  }, {
+    "tStartMs": 960780,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "just color in each of the three\nsegments a different color."
+    } ]
+  }, {
+    "tStartMs": 964110,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "The crossings all have three colors,"
+    } ]
+  }, {
+    "tStartMs": 966000,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "so it is tricolorable."
+    } ]
+  }, {
+    "tStartMs": 968580,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Now we know"
+    } ]
+  }, {
+    "tStartMs": 969420,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "every possible projection of\nthe trefoil is tricolorable"
+    } ]
+  }, {
+    "tStartMs": 972900,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "while every possible\nprojection of the unknot isn't."
+    } ]
+  }, {
+    "tStartMs": 975870,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So these two knots must\nbe different knots."
+    } ]
+  }, {
+    "tStartMs": 978930,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "This invariant isn't very specific."
+    } ]
+  }, {
+    "tStartMs": 981300,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It only gives you two\ncategories across all knots."
+    } ]
+  }, {
+    "tStartMs": 984420,
+    "dDurationMs": 1947,
+    "segs": [ {
+      "utf8": "In fact, the next knot after the trefoil,"
+    } ]
+  }, {
+    "tStartMs": 986367,
+    "dDurationMs": 2943,
+    "segs": [ {
+      "utf8": "the figure eight knot, isn't tricolorable."
+    } ]
+  }, {
+    "tStartMs": 989310,
+    "dDurationMs": 2332,
+    "segs": [ {
+      "utf8": "There's always a crossing with two colors."
+    } ]
+  }, {
+    "tStartMs": 991642,
+    "dDurationMs": 3488,
+    "segs": [ {
+      "utf8": "So how do we prove that this\nis different from the unknot,"
+    } ]
+  }, {
+    "tStartMs": 995130,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "which also isn't tricolorable?"
+    } ]
+  }, {
+    "tStartMs": 998190,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Tricolorability expands into\na much more powerful invariant"
+    } ]
+  }, {
+    "tStartMs": 1001910,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "called p-colorability,"
+    } ]
+  }, {
+    "tStartMs": 1003770,
+    "dDurationMs": 3277,
+    "segs": [ {
+      "utf8": "where p can be any prime\nnumber besides two."
+    } ]
+  }, {
+    "tStartMs": 1007047,
+    "dDurationMs": 1703,
+    "segs": [ {
+      "utf8": "Instead of using colors,"
+    } ]
+  }, {
+    "tStartMs": 1008750,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "we'll number each strand"
+    } ]
+  }, {
+    "tStartMs": 1010400,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "with integers between\nzero and p minus one."
+    } ]
+  }, {
+    "tStartMs": 1014330,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "p-colorability has two rules."
+    } ]
+  }, {
+    "tStartMs": 1016910,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "First, you must use at\nleast two different numbers."
+    } ]
+  }, {
+    "tStartMs": 1020480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Second, at crossings,"
+    } ]
+  }, {
+    "tStartMs": 1022400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the two bottom strands added\ntogether and divided by p"
+    } ]
+  }, {
+    "tStartMs": 1026120,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "must give the same remainder"
+    } ]
+  }, {
+    "tStartMs": 1028130,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "as twice the top strand divided by p."
+    } ]
+  }, {
+    "tStartMs": 1032130,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "Tricolorability was just\na simple version of this."
+    } ]
+  }, {
+    "tStartMs": 1036261,
+    "dDurationMs": 2609,
+    "segs": [ {
+      "utf8": "If we go from three to five colorability"
+    } ]
+  }, {
+    "tStartMs": 1038870,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "for the figure eight knot,"
+    } ]
+  }, {
+    "tStartMs": 1040100,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "we can number the strands zero, one,"
+    } ]
+  }, {
+    "tStartMs": 1043760,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "and then this strand must give\na remainder of zero, so four,"
+    } ]
+  }, {
+    "tStartMs": 1048920,
+    "dDurationMs": 3693,
+    "segs": [ {
+      "utf8": "and this strand must give a\nremainder of two, so three."
+    } ]
+  }, {
+    "tStartMs": 1053690,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "This knot is five colorable,"
+    } ]
+  }, {
+    "tStartMs": 1056240,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "so it's not the unknot."
+    } ]
+  }, {
+    "tStartMs": 1058850,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "p-colorability is a huge tool."
+    } ]
+  }, {
+    "tStartMs": 1060980,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "The unknot is completely uncolorable,"
+    } ]
+  }, {
+    "tStartMs": 1063470,
+    "dDurationMs": 3723,
+    "segs": [ {
+      "utf8": "so any knot with any\ncolorability can't be the unknot."
+    } ]
+  }, {
+    "tStartMs": 1068180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "p-colorability still\ndoesn't cover everything."
+    } ]
+  }, {
+    "tStartMs": 1071360,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Some of the most powerful\ninvariants right now,"
+    } ]
+  }, {
+    "tStartMs": 1073850,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "the ones that can distinguish\nbetween the most unique knots,"
+    } ]
+  }, {
+    "tStartMs": 1077030,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "are polynomials."
+    } ]
+  }, {
+    "tStartMs": 1078650,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The Alexander polynomial\nwas the first one discovered"
+    } ]
+  }, {
+    "tStartMs": 1081770,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "back in 1923 before\neven Reidemeister moves."
+    } ]
+  }, {
+    "tStartMs": 1085730,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Like p-colorability,"
+    } ]
+  }, {
+    "tStartMs": 1087290,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "it relies on only two rules."
+    } ]
+  }, {
+    "tStartMs": 1090260,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "The first is that the Alexander\npolynomial of the unknot"
+    } ]
+  }, {
+    "tStartMs": 1093320,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "is equal to one."
+    } ]
+  }, {
+    "tStartMs": 1095090,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The second is that you can zoom in"
+    } ]
+  }, {
+    "tStartMs": 1097130,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "on any single crossing of a knot"
+    } ]
+  }, {
+    "tStartMs": 1099380,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and vary it in three possible positions,"
+    } ]
+  }, {
+    "tStartMs": 1102320,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "forward, backward and separate."
+    } ]
+  }, {
+    "tStartMs": 1105530,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "The Alexander polynomial\ngives a relationship"
+    } ]
+  }, {
+    "tStartMs": 1107840,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "between the three resulting knots."
+    } ]
+  }, {
+    "tStartMs": 1110630,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Let's do an example."
+    } ]
+  }, {
+    "tStartMs": 1112040,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "What's the Alexander\npolynomial for the unlink?"
+    } ]
+  }, {
+    "tStartMs": 1115250,
+    "dDurationMs": 2487,
+    "segs": [ {
+      "utf8": "Well, if we zoom into\nthis separate crossing"
+    } ]
+  }, {
+    "tStartMs": 1117737,
+    "dDurationMs": 1593,
+    "segs": [ {
+      "utf8": "and then vary it,"
+    } ]
+  }, {
+    "tStartMs": 1119330,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "we see that the other two knots\nformed are both the unknot,"
+    } ]
+  }, {
+    "tStartMs": 1123590,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "so we can plug in one for both of them,"
+    } ]
+  }, {
+    "tStartMs": 1125930,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and we get that the Alexander\npolynomial for the unlink"
+    } ]
+  }, {
+    "tStartMs": 1128570,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "must be zero."
+    } ]
+  }, {
+    "tStartMs": 1130370,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Then we can do the same for the Hopf link."
+    } ]
+  }, {
+    "tStartMs": 1132470,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Taking this crossing as\nthe forward crossing,"
+    } ]
+  }, {
+    "tStartMs": 1134810,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "then seeing that the backward\ncrossing gives us the unlink,"
+    } ]
+  }, {
+    "tStartMs": 1137450,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and the separate crossing is the unknot."
+    } ]
+  }, {
+    "tStartMs": 1139550,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So the Alexander polynomial\nfor the Hopf link"
+    } ]
+  }, {
+    "tStartMs": 1142100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "is minus t to the 1/2\nplus t to the minus 1/2."
+    } ]
+  }, {
+    "tStartMs": 1146270,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And now we can do the trefoil."
+    } ]
+  }, {
+    "tStartMs": 1147980,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "When we vary this crossing,"
+    } ]
+  }, {
+    "tStartMs": 1149420,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "we get that the backward\ncrossing gives us the unknot"
+    } ]
+  }, {
+    "tStartMs": 1152120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and the separate crossing\ngives the Hopf link."
+    } ]
+  }, {
+    "tStartMs": 1154640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So the Alexander polynomial is t minus one"
+    } ]
+  }, {
+    "tStartMs": 1157760,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "plus t to the negative one."
+    } ]
+  }, {
+    "tStartMs": 1160280,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "The polynomial is designed so\nthat we get separate results"
+    } ]
+  }, {
+    "tStartMs": 1163430,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "for as many knots and links as we can,"
+    } ]
+  }, {
+    "tStartMs": 1166400,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "and this is recursive."
+    } ]
+  }, {
+    "tStartMs": 1167930,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "We can calculate the polynomial forever"
+    } ]
+  }, {
+    "tStartMs": 1169970,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "for bigger and bigger knots."
+    } ]
+  }, {
+    "tStartMs": 1172760,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "The Alexander polynomial stood\nunchanged for over 60 years"
+    } ]
+  }, {
+    "tStartMs": 1176780,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "as the knot invariant of choice."
+    } ]
+  }, {
+    "tStartMs": 1178910,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "But in 1984,"
+    } ]
+  }, {
+    "tStartMs": 1180350,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "it was upended by an unlikely discovery."
+    } ]
+  }, {
+    "tStartMs": 1183140,
+    "dDurationMs": 1379,
+    "segs": [ {
+      "utf8": "Mathematician Vaughan Jones"
+    } ]
+  }, {
+    "tStartMs": 1184519,
+    "dDurationMs": 2491,
+    "segs": [ {
+      "utf8": "had been working on a type of algebra"
+    } ]
+  }, {
+    "tStartMs": 1187010,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "for statistical mechanics,"
+    } ]
+  }, {
+    "tStartMs": 1188450,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "a concept in physics,"
+    } ]
+  }, {
+    "tStartMs": 1189830,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "when he realized"
+    } ]
+  }, {
+    "tStartMs": 1190820,
+    "dDurationMs": 3543,
+    "segs": [ {
+      "utf8": "his work resembled a series\nof equations in knot theory."
+    } ]
+  }, {
+    "tStartMs": 1195230,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "He traveled to New York"
+    } ]
+  }, {
+    "tStartMs": 1196400,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "to consult knot theorist Joan\nBirman at Columbia University,"
+    } ]
+  }, {
+    "tStartMs": 1200180,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "who helped refine his equations\ninto a knot invariant."
+    } ]
+  }, {
+    "tStartMs": 1203780,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "They met again a week later"
+    } ]
+  }, {
+    "tStartMs": 1205070,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and tested it against knot diagrams"
+    } ]
+  }, {
+    "tStartMs": 1207020,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "from Birman's filing cabinet,"
+    } ]
+  }, {
+    "tStartMs": 1208790,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "quickly realizing Jones had discovered"
+    } ]
+  }, {
+    "tStartMs": 1210920,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "a brand new polynomial invariant."
+    } ]
+  }, {
+    "tStartMs": 1214520,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "He scribbled down all their\nwork in a 15 page letter."
+    } ]
+  }, {
+    "tStartMs": 1218810,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "The Jones polynomial\nis like the Alexander,"
+    } ]
+  }, {
+    "tStartMs": 1221180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "but with the more specific\nequation for the second rule"
+    } ]
+  }, {
+    "tStartMs": 1223880,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "that lets it distinguish many more knots."
+    } ]
+  }, {
+    "tStartMs": 1226220,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "For this discovery,"
+    } ]
+  }, {
+    "tStartMs": 1227660,
+    "dDurationMs": 3013,
+    "segs": [ {
+      "utf8": "Jones won the field's medal in 1990."
+    } ]
+  }, {
+    "tStartMs": 1230673,
+    "dDurationMs": 2537,
+    "segs": [ {
+      "utf8": "The first new polynomial invariant"
+    } ]
+  }, {
+    "tStartMs": 1233210,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "kicked up a fervor in knot theory."
+    } ]
+  }, {
+    "tStartMs": 1235340,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Just months after Joan's result,"
+    } ]
+  }, {
+    "tStartMs": 1237050,
+    "dDurationMs": 2122,
+    "segs": [ {
+      "utf8": "six mathematicians each independently"
+    } ]
+  }, {
+    "tStartMs": 1239172,
+    "dDurationMs": 2678,
+    "segs": [ {
+      "utf8": "found an improved\nversion of his polynomial"
+    } ]
+  }, {
+    "tStartMs": 1241850,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "with two variables instead of one."
+    } ]
+  }, {
+    "tStartMs": 1244520,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "The editors of the American Math Society"
+    } ]
+  }, {
+    "tStartMs": 1246590,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "published all their papers together,"
+    } ]
+  }, {
+    "tStartMs": 1248660,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "naming it The HOMFLY polynomial."
+    } ]
+  }, {
+    "tStartMs": 1251060,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Two Polish Mathematicians missed the news"
+    } ]
+  }, {
+    "tStartMs": 1253370,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and discovered it again\na couple months later,"
+    } ]
+  }, {
+    "tStartMs": 1255710,
+    "dDurationMs": 3563,
+    "segs": [ {
+      "utf8": "upon which it became the\nHOMFLY-PT polynomial."
+    } ]
+  }, {
+    "tStartMs": 1260870,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "None of these invariants works alone."
+    } ]
+  }, {
+    "tStartMs": 1263330,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Just like if you were\nsearching for a person,"
+    } ]
+  }, {
+    "tStartMs": 1265580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you'd start by checking a\nfirst name, then a last name,"
+    } ]
+  }, {
+    "tStartMs": 1268580,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "then a birthday and so on"
+    } ]
+  }, {
+    "tStartMs": 1270890,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "to eventually narrow your\nsearch down to just one person."
+    } ]
+  }, {
+    "tStartMs": 1274790,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Similarly, knots have\ndozens of invariants,"
+    } ]
+  }, {
+    "tStartMs": 1278060,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "which when taken together,"
+    } ]
+  }, {
+    "tStartMs": 1279650,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "uniquely identify them."
+    } ]
+  }, {
+    "tStartMs": 1281720,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "With invariants to prove\nif knots are different"
+    } ]
+  }, {
+    "tStartMs": 1284090,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and Reidemeister moves to\nprove if knots are the same,"
+    } ]
+  }, {
+    "tStartMs": 1286940,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "you can attack from two angles\nto meet the gargantuan task"
+    } ]
+  }, {
+    "tStartMs": 1290780,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "of distinguishing every single knot."
+    } ]
+  }, {
+    "tStartMs": 1294470,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "But this method isn't perfect."
+    } ]
+  }, {
+    "tStartMs": 1296690,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "These two knots were\nlisted next to each other"
+    } ]
+  }, {
+    "tStartMs": 1298820,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "in Tait's knot tables for over 75 years."
+    } ]
+  }, {
+    "tStartMs": 1301790,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "They were the same by\nall invariant accounts."
+    } ]
+  }, {
+    "tStartMs": 1304400,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "So Tait and Little likely\ntried Reidemeister moves"
+    } ]
+  }, {
+    "tStartMs": 1307250,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "to see if they could\ntransform one into the other."
+    } ]
+  }, {
+    "tStartMs": 1309440,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "And once they failed,"
+    } ]
+  }, {
+    "tStartMs": 1310790,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "they listed them as two separate knots."
+    } ]
+  }, {
+    "tStartMs": 1313940,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Kenneth Perko, a lawyer who\nhad studied knot theory,"
+    } ]
+  }, {
+    "tStartMs": 1316880,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "spotted them in 1973"
+    } ]
+  }, {
+    "tStartMs": 1318680,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "while looking through Little's\ntable of 10 crossing knots."
+    } ]
+  }, {
+    "tStartMs": 1321830,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Suspicious of their similarities,"
+    } ]
+  }, {
+    "tStartMs": 1323660,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "he pulled out a yellow legal pad"
+    } ]
+  }, {
+    "tStartMs": 1325250,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "to sketch some Reidemeister moves,"
+    } ]
+  }, {
+    "tStartMs": 1327140,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and he quickly found a way\nto connect the two knots."
+    } ]
+  }, {
+    "tStartMs": 1330200,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "These two projections now\nknown as the Perko pair"
+    } ]
+  }, {
+    "tStartMs": 1333410,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "are the same knot."
+    } ]
+  }, {
+    "tStartMs": 1335390,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So the knot tables of\nTait, Kirkman and Little"
+    } ]
+  }, {
+    "tStartMs": 1337940,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "were issued their single correction."
+    } ]
+  }, {
+    "tStartMs": 1340160,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And instead of 166 ten crossing knots,"
+    } ]
+  }, {
+    "tStartMs": 1342950,
+    "dDurationMs": 2283,
+    "segs": [ {
+      "utf8": "there are 165."
+    } ]
+  }, {
+    "tStartMs": 1346520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "It had taken decades of work\nto tabulate all 249 prime knots"
+    } ]
+  }, {
+    "tStartMs": 1350840,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "up to 10 crossings."
+    } ]
+  }, {
+    "tStartMs": 1352370,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "No one dared tackle the 11\ncrossings until John Conway."
+    } ]
+  }, {
+    "tStartMs": 1356270,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "He found all 552,"
+    } ]
+  }, {
+    "tStartMs": 1358910,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and claimed he did it\nin a single afternoon."
+    } ]
+  }, {
+    "tStartMs": 1361970,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "This was the last tabulation by hand."
+    } ]
+  }, {
+    "tStartMs": 1365060,
+    "dDurationMs": 913,
+    "segs": [ {
+      "utf8": "In the '80s,"
+    } ]
+  }, {
+    "tStartMs": 1365973,
+    "dDurationMs": 2597,
+    "segs": [ {
+      "utf8": "Dowker and Thistlethwaite\nbuilt a computer algorithm"
+    } ]
+  }, {
+    "tStartMs": 1368570,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "to count all 12 and 13 crossing knots."
+    } ]
+  }, {
+    "tStartMs": 1371840,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Thistlethwaite later joined\nforces with Hoste and Weeks"
+    } ]
+  }, {
+    "tStartMs": 1374300,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "to tabulate all 14, 15\nand 16 crossing knots"
+    } ]
+  }, {
+    "tStartMs": 1377930,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "in a paper titled \"The\nFirst 1,701,936 Knots.\""
+    } ]
+  }, {
+    "tStartMs": 1383270,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "The method they used is\nstill the one used today,"
+    } ]
+  }, {
+    "tStartMs": 1386180,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "employing a computer to\nlist all possible knots"
+    } ]
+  }, {
+    "tStartMs": 1388790,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "and then using invariants\nto weed out duplicates."
+    } ]
+  }, {
+    "tStartMs": 1391940,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "They split into two teams\nand crosscheck their results,"
+    } ]
+  }, {
+    "tStartMs": 1395150,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "aligning perfectly on all but\nfour knots on their first try."
+    } ]
+  }, {
+    "tStartMs": 1400100,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "In 2020, mathematician Ben Burton"
+    } ]
+  }, {
+    "tStartMs": 1402590,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "single-handedly tabulated all\n17, 18 and 19 crossing knots,"
+    } ]
+  }, {
+    "tStartMs": 1407450,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "bringing the total number\nof known prime knots"
+    } ]
+  }, {
+    "tStartMs": 1409880,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "to 352,152,252."
+    } ]
+  }, {
+    "tStartMs": 1415100,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "His project was so\ncomputationally intensive,"
+    } ]
+  }, {
+    "tStartMs": 1418010,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "several hundred computers\nhad to run for months"
+    } ]
+  }, {
+    "tStartMs": 1420410,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "before obtaining the final number."
+    } ]
+  }, {
+    "tStartMs": 1422960,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "The hardest part of knot tabulation"
+    } ]
+  }, {
+    "tStartMs": 1425030,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "is counting up every knot"
+    } ]
+  }, {
+    "tStartMs": 1426890,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and then carefully eliminating duplicates."
+    } ]
+  }, {
+    "tStartMs": 1429770,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "But if you just want to generate"
+    } ]
+  }, {
+    "tStartMs": 1431210,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "a huge number of distinct knots,"
+    } ]
+  }, {
+    "tStartMs": 1433100,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "you can make alternating knots,"
+    } ]
+  }, {
+    "tStartMs": 1435020,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "knots with crossings that\nalternate over, under."
+    } ]
+  }, {
+    "tStartMs": 1437960,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "This computation is much easier,"
+    } ]
+  }, {
+    "tStartMs": 1439760,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "though it leaves out most knots."
+    } ]
+  }, {
+    "tStartMs": 1441950,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "And back in 2007,"
+    } ]
+  }, {
+    "tStartMs": 1443330,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "this method was used to\nfind alternating knots"
+    } ]
+  }, {
+    "tStartMs": 1445610,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "up to an absurd 24 crossings."
+    } ]
+  }, {
+    "tStartMs": 1448640,
+    "dDurationMs": 8513,
+    "segs": [ {
+      "utf8": "So in total, we know of\n159,965,097,353 knots."
+    } ]
+  }, {
+    "tStartMs": 1457550,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Of course, we're missing\na lot in between there."
+    } ]
+  }, {
+    "tStartMs": 1461150,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Knot theory was always just pure math."
+    } ]
+  }, {
+    "tStartMs": 1464000,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "All the algorithms,\ninvariants and tabulations"
+    } ]
+  }, {
+    "tStartMs": 1467060,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "were knowledge for the sake of knowledge."
+    } ]
+  }, {
+    "tStartMs": 1469670,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But in 1989, chemist Jean-Pierre Sauvage"
+    } ]
+  }, {
+    "tStartMs": 1472250,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "tied molecules around copper ions"
+    } ]
+  }, {
+    "tStartMs": 1474350,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "to form the first ever\nsynthetic knotted molecule."
+    } ]
+  }, {
+    "tStartMs": 1478160,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "This trefoil knot restricted\nthe atoms from unfurling,"
+    } ]
+  }, {
+    "tStartMs": 1481970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "trapping them in higher energy states"
+    } ]
+  }, {
+    "tStartMs": 1483950,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "to give the molecule new properties."
+    } ]
+  }, {
+    "tStartMs": 1486740,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Any type of knot tied in a molecule"
+    } ]
+  }, {
+    "tStartMs": 1488990,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "will change its properties,"
+    } ]
+  }, {
+    "tStartMs": 1491060,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and we know of over 159 billion knots."
+    } ]
+  }, {
+    "tStartMs": 1494780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So if you can tie a molecule\ninto each of those knots,"
+    } ]
+  }, {
+    "tStartMs": 1497600,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "that's 159 billion new unique materials"
+    } ]
+  }, {
+    "tStartMs": 1501590,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "created from a single molecule."
+    } ]
+  }, {
+    "tStartMs": 1504260,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Though after the trefoil,"
+    } ]
+  }, {
+    "tStartMs": 1505430,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "chemists have only managed"
+    } ]
+  }, {
+    "tStartMs": 1506510,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to tie five other molecular knots to date."
+    } ]
+  }, {
+    "tStartMs": 1509150,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "It's a difficult task."
+    } ]
+  }, {
+    "tStartMs": 1510290,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Since they can't just nudge\nindividual ions into place,"
+    } ]
+  }, {
+    "tStartMs": 1513740,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "molecules must be built to\nself-assemble into knots."
+    } ]
+  }, {
+    "tStartMs": 1517700,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Knot theory helps identify which knots"
+    } ]
+  }, {
+    "tStartMs": 1519980,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "match available molecular templates,"
+    } ]
+  }, {
+    "tStartMs": 1522050,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "symmetric knots are easier for one,"
+    } ]
+  }, {
+    "tStartMs": 1524150,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "and how to arrange those\nto assemble the knot."
+    } ]
+  }, {
+    "tStartMs": 1529070,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "The most complex knot yet\ncreated is the 819 knot"
+    } ]
+  }, {
+    "tStartMs": 1532880,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "with 192 atoms tied around\na central chloride ion."
+    } ]
+  }, {
+    "tStartMs": 1538670,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "This molecule holds the\nGuinness World Record"
+    } ]
+  }, {
+    "tStartMs": 1541250,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "for tightest knot in the world,"
+    } ]
+  }, {
+    "tStartMs": 1543380,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "defined as the most\ncrossings per unit length,"
+    } ]
+  }, {
+    "tStartMs": 1546080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "in this case, eight\ncrossings in 20 nanometers."
+    } ]
+  }, {
+    "tStartMs": 1549320,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Since it's knotted around a chloride ion,"
+    } ]
+  }, {
+    "tStartMs": 1551780,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "once the ion is removed,"
+    } ]
+  }, {
+    "tStartMs": 1553580,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "this molecule is one of the\nstrongest chloride binders"
+    } ]
+  }, {
+    "tStartMs": 1556880,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "in existence."
+    } ]
+  }, {
+    "tStartMs": 1558350,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "The field is still new\nfor specific applications."
+    } ]
+  }, {
+    "tStartMs": 1561830,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Chemists are just focused\non creating molecular knots"
+    } ]
+  }, {
+    "tStartMs": 1564500,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "before thinking about\nmaterials development,"
+    } ]
+  }, {
+    "tStartMs": 1567110,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but they hope to eventually build things"
+    } ]
+  }, {
+    "tStartMs": 1568910,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "like durable fabrics stronger than Kevlar."
+    } ]
+  }, {
+    "tStartMs": 1575060,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Knot theory is also critical\nto biological processes"
+    } ]
+  }, {
+    "tStartMs": 1578120,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "that have saved millions of lives."
+    } ]
+  }, {
+    "tStartMs": 1581690,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Bacterial DNA consists of a single loop"
+    } ]
+  }, {
+    "tStartMs": 1584480,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "of the double helix molecule."
+    } ]
+  }, {
+    "tStartMs": 1586430,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "This shape means that it\nalways forms a knotted link"
+    } ]
+  }, {
+    "tStartMs": 1589640,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "when it replicates,"
+    } ]
+  }, {
+    "tStartMs": 1590960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and the bacteria can't\nseparate into two cells"
+    } ]
+  }, {
+    "tStartMs": 1593720,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "with their DNA tangled up like this."
+    } ]
+  }, {
+    "tStartMs": 1596060,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "So they have an enzyme called\ntype two topoisomerase,"
+    } ]
+  }, {
+    "tStartMs": 1599390,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "which snips and reconnects the DNA."
+    } ]
+  }, {
+    "tStartMs": 1602720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This turns their linked\nDNA back into an unlink"
+    } ]
+  }, {
+    "tStartMs": 1606080,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "so they can replicate cleanly."
+    } ]
+  }, {
+    "tStartMs": 1608300,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "If you inhibit type two tophi summaries,"
+    } ]
+  }, {
+    "tStartMs": 1611150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the bacteria can't replicate properly,"
+    } ]
+  }, {
+    "tStartMs": 1613460,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "and in fact they die."
+    } ]
+  }, {
+    "tStartMs": 1615262,
+    "dDurationMs": 3328,
+    "segs": [ {
+      "utf8": "This is how some of the most\ncommon antibiotics in the world"
+    } ]
+  }, {
+    "tStartMs": 1618590,
+    "dDurationMs": 2292,
+    "segs": [ {
+      "utf8": "called quinolones operate."
+    } ]
+  }, {
+    "tStartMs": 1620882,
+    "dDurationMs": 2538,
+    "segs": [ {
+      "utf8": "Human DNA, while not circular,"
+    } ]
+  }, {
+    "tStartMs": 1623420,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "is long enough to also get into tangles."
+    } ]
+  }, {
+    "tStartMs": 1626420,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Each cell in your body\ncontains two meters of DNA."
+    } ]
+  }, {
+    "tStartMs": 1629660,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "That's the equivalent"
+    } ]
+  }, {
+    "tStartMs": 1630560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of stuffing 200 kilometers of fishing line"
+    } ]
+  }, {
+    "tStartMs": 1633440,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "into a basketball."
+    } ]
+  }, {
+    "tStartMs": 1635300,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "When this mess inevitably tangles,"
+    } ]
+  }, {
+    "tStartMs": 1637670,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "human type two topoisomerases\ncome to make crossing changes."
+    } ]
+  }, {
+    "tStartMs": 1642080,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "The human version of the\nenzyme is different enough"
+    } ]
+  }, {
+    "tStartMs": 1644420,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "from the bacterial version"
+    } ]
+  }, {
+    "tStartMs": 1645650,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "that it's unaffected by antibiotics."
+    } ]
+  }, {
+    "tStartMs": 1648290,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "But human topoisomerases"
+    } ]
+  }, {
+    "tStartMs": 1650300,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "are sometimes intentionally inhibited."
+    } ]
+  }, {
+    "tStartMs": 1653060,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "This stops replication and kills cells,"
+    } ]
+  }, {
+    "tStartMs": 1656450,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "predominantly the rapidly\ndividing cancer cells."
+    } ]
+  }, {
+    "tStartMs": 1659960,
+    "dDurationMs": 3273,
+    "segs": [ {
+      "utf8": "So it's one of the most\ncommon forms of chemotherapy."
+    } ]
+  }, {
+    "tStartMs": 1664640,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Biologists needed knot theory"
+    } ]
+  }, {
+    "tStartMs": 1666590,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "to first understand the mechanism\nof type two topoisomerase."
+    } ]
+  }, {
+    "tStartMs": 1670850,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Once they observed"
+    } ]
+  }, {
+    "tStartMs": 1671810,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "it was decreasing the crossing\nnumber of knots in DNA"
+    } ]
+  }, {
+    "tStartMs": 1674600,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "two at a time,"
+    } ]
+  }, {
+    "tStartMs": 1676340,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "they realized it had to\nbe cutting and rejoining"
+    } ]
+  }, {
+    "tStartMs": 1678740,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "entire double strands of DNA."
+    } ]
+  }, {
+    "tStartMs": 1681740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "And there are many other\nobscure topoisomerases"
+    } ]
+  }, {
+    "tStartMs": 1684320,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "that act on DNA."
+    } ]
+  }, {
+    "tStartMs": 1685820,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Knot theory is used"
+    } ]
+  }, {
+    "tStartMs": 1686780,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to analyze the knots they tie or untie"
+    } ]
+  }, {
+    "tStartMs": 1689420,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and how they operate as a result."
+    } ]
+  }, {
+    "tStartMs": 1691820,
+    "dDurationMs": 2063,
+    "segs": [ {
+      "utf8": "It's not just DNA that knots."
+    } ]
+  }, {
+    "tStartMs": 1693883,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "1% of all proteins have various knots"
+    } ]
+  }, {
+    "tStartMs": 1696800,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "in their fundamental structure."
+    } ]
+  }, {
+    "tStartMs": 1698360,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "If they get misknotted, they malfunction."
+    } ]
+  }, {
+    "tStartMs": 1701300,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "So being able to\naccurately tell knots apart"
+    } ]
+  }, {
+    "tStartMs": 1704210,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "helps understand these\nproteins' mechanisms,"
+    } ]
+  }, {
+    "tStartMs": 1706760,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "as well as how to potentially\nrepair or utilize them."
+    } ]
+  }, {
+    "tStartMs": 1711500,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "When it comes to your shoe laces,"
+    } ]
+  }, {
+    "tStartMs": 1713480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "both of the common ways to tie the knot"
+    } ]
+  }, {
+    "tStartMs": 1715400,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "are composed of two trefoils\non top of each other."
+    } ]
+  }, {
+    "tStartMs": 1718760,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "I'm going to tie some rope around my leg"
+    } ]
+  }, {
+    "tStartMs": 1720950,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to make this easier to see."
+    } ]
+  }, {
+    "tStartMs": 1723470,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "When you go counterclockwise\naround the loop,"
+    } ]
+  }, {
+    "tStartMs": 1727460,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "well, then you form two identical trefoils"
+    } ]
+  }, {
+    "tStartMs": 1730640,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "on top of each other."
+    } ]
+  }, {
+    "tStartMs": 1731720,
+    "dDurationMs": 2405,
+    "segs": [ {
+      "utf8": "This is also known as a granny knot."
+    } ]
+  }, {
+    "tStartMs": 1734125,
+    "dDurationMs": 3895,
+    "segs": [ {
+      "utf8": "But when you go clockwise around the loop,"
+    } ]
+  }, {
+    "tStartMs": 1738020,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "then you get mirror imaged\ntrefoils on top of each other."
+    } ]
+  }, {
+    "tStartMs": 1742280,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "This is also known as a square knot,"
+    } ]
+  }, {
+    "tStartMs": 1744080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and it doesn't loosen as easily."
+    } ]
+  }, {
+    "tStartMs": 1746840,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So we should all be tying\nour shoelaces like this,"
+    } ]
+  }, {
+    "tStartMs": 1750620,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "clockwise around the loop."
+    } ]
+  }, {
+    "tStartMs": 1753170,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Most of us aren't."
+    } ]
+  }, {
+    "tStartMs": 1754003,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "I mean, I'm not, usually."
+    } ]
+  }, {
+    "tStartMs": 1756170,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "I normally do it like this."
+    } ]
+  }, {
+    "tStartMs": 1758540,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "A simple overhand knot\nis just the trefoil."
+    } ]
+  }, {
+    "tStartMs": 1762080,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "The bow line knot,"
+    } ]
+  }, {
+    "tStartMs": 1763160,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "the most common knot for boating"
+    } ]
+  }, {
+    "tStartMs": 1764630,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "or just holding things\ntogether is the six two knot."
+    } ]
+  }, {
+    "tStartMs": 1768170,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And any knot tied without using the ends,"
+    } ]
+  }, {
+    "tStartMs": 1770420,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "also known as in the bite,"
+    } ]
+  }, {
+    "tStartMs": 1772400,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "that is just an unknot."
+    } ]
+  }, {
+    "tStartMs": 1775010,
+    "dDurationMs": 3617,
+    "segs": [ {
+      "utf8": "So a slipknot is an example of an unknot."
+    } ]
+  }, {
+    "tStartMs": 1782600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "In 2007, researchers Dorian\nRaymer and Douglas Smith"
+    } ]
+  }, {
+    "tStartMs": 1786200,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "conducted 3,415 trials of\nspinning string in boxes"
+    } ]
+  }, {
+    "tStartMs": 1791180,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "to study how knots form in the real world."
+    } ]
+  }, {
+    "tStartMs": 1797450,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "They ended up creating 120\ndifferent types of knots,"
+    } ]
+  }, {
+    "tStartMs": 1801410,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "some as complicated as 11 crossings."
+    } ]
+  }, {
+    "tStartMs": 1806090,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "They found that longer agitation time"
+    } ]
+  }, {
+    "tStartMs": 1808160,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "led to a higher chance of knotting."
+    } ]
+  }, {
+    "tStartMs": 1810170,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Longer string did as well,"
+    } ]
+  }, {
+    "tStartMs": 1812240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "except this probability decreased"
+    } ]
+  }, {
+    "tStartMs": 1814400,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "once the string was put in a smaller box,"
+    } ]
+  }, {
+    "tStartMs": 1816530,
+    "dDurationMs": 1593,
+    "segs": [ {
+      "utf8": "which restrained its motion."
+    } ]
+  }, {
+    "tStartMs": 1819170,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So if you want to keep\nsomething like headphones"
+    } ]
+  }, {
+    "tStartMs": 1821300,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "from knotting in your pocket"
+    } ]
+  }, {
+    "tStartMs": 1822470,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "where you can't adjust string\nlength or agitation time,"
+    } ]
+  }, {
+    "tStartMs": 1825920,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "then your best bet is to confine them"
+    } ]
+  }, {
+    "tStartMs": 1827780,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "to as small a space as possible."
+    } ]
+  }, {
+    "tStartMs": 1832600,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Raymer and Smith also proposed a model"
+    } ]
+  }, {
+    "tStartMs": 1835160,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "for real world knot formation."
+    } ]
+  }, {
+    "tStartMs": 1837530,
+    "dDurationMs": 1576,
+    "segs": [ {
+      "utf8": "A series of loops are first formed"
+    } ]
+  }, {
+    "tStartMs": 1839106,
+    "dDurationMs": 3974,
+    "segs": [ {
+      "utf8": "when a string is placed into a container."
+    } ]
+  }, {
+    "tStartMs": 1843080,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Then when it's agitated,"
+    } ]
+  }, {
+    "tStartMs": 1844640,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "a free end of the string"
+    } ]
+  }, {
+    "tStartMs": 1845930,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "gets woven up and down through the loops,"
+    } ]
+  }, {
+    "tStartMs": 1848360,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "braiding itself into them to form knots."
+    } ]
+  }, {
+    "tStartMs": 1855470,
+    "dDurationMs": 4743,
+    "segs": [ {
+      "utf8": "And let's see, a knot."
+    } ]
+  }, {
+    "tStartMs": 1861170,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So coiling up your wires"
+    } ]
+  }, {
+    "tStartMs": 1862940,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "is actually setting\nyourself up for failure"
+    } ]
+  }, {
+    "tStartMs": 1865280,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "because you're forming a bunch of loops"
+    } ]
+  }, {
+    "tStartMs": 1867110,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "for a loose end to braid\nperfectly into a knot."
+    } ]
+  }, {
+    "tStartMs": 1871040,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So instead, what you want to\ndo is restrict its movement,"
+    } ]
+  }, {
+    "tStartMs": 1873710,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "whether by using a small box\nor increasing string stiffness."
+    } ]
+  }, {
+    "tStartMs": 1877880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "DNA increases its\nstiffness by super coiling,"
+    } ]
+  }, {
+    "tStartMs": 1880880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and you can do the same with your wires."
+    } ]
+  }, {
+    "tStartMs": 1883280,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "I just double it up like this,"
+    } ]
+  }, {
+    "tStartMs": 1885359,
+    "dDurationMs": 2991,
+    "segs": [ {
+      "utf8": "and then I twist from the middle."
+    } ]
+  }, {
+    "tStartMs": 1888350,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "And this is going to\nstiffen the length of wire."
+    } ]
+  }, {
+    "tStartMs": 1892760,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Now, this is naturally"
+    } ]
+  }, {
+    "tStartMs": 1893930,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "going to want to sort of coil in on itself"
+    } ]
+  }, {
+    "tStartMs": 1896300,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and it's going to look\nlike a big tangled mess,"
+    } ]
+  }, {
+    "tStartMs": 1898430,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "but all you have to do"
+    } ]
+  }, {
+    "tStartMs": 1899263,
+    "dDurationMs": 4657,
+    "segs": [ {
+      "utf8": "is take the opposite ends of\nthe headphone and pull apart,"
+    } ]
+  }, {
+    "tStartMs": 1903920,
+    "dDurationMs": 3243,
+    "segs": [ {
+      "utf8": "and there's no tangles, no knots."
+    } ]
+  }, {
+    "tStartMs": 1909200,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Their study won an Ig Nobel Prize."
+    } ]
+  }, {
+    "tStartMs": 1911450,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "It has been cited in studies\nof knots in surgical catheters,"
+    } ]
+  }, {
+    "tStartMs": 1914960,
+    "dDurationMs": 4173,
+    "segs": [ {
+      "utf8": "and even linked to an Apple\npatent for stiffer earbud wires."
+    } ]
+  }, {
+    "tStartMs": 1920630,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Knot theory began as a\nfailed theory of everything,"
+    } ]
+  }, {
+    "tStartMs": 1924350,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and for the next century,"
+    } ]
+  }, {
+    "tStartMs": 1925460,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "it was a standalone field of math"
+    } ]
+  }, {
+    "tStartMs": 1927620,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "propelled by nothing more\nthan intellectual curiosity."
+    } ]
+  }, {
+    "tStartMs": 1931220,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "But in recent years, it's\nreclaimed its original potential."
+    } ]
+  }, {
+    "tStartMs": 1935450,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Today, knot theory"
+    } ]
+  }, {
+    "tStartMs": 1936710,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "is a theory of everything\nfrom headphone tangles"
+    } ]
+  }, {
+    "tStartMs": 1939920,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "to material science to chemotherapy."
+    } ]
+  }, {
+    "tStartMs": 1943400,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "In 1889, Kelvin gave\na presidential address"
+    } ]
+  }, {
+    "tStartMs": 1946430,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to the British Institution\nof Electrical Engineers"
+    } ]
+  }, {
+    "tStartMs": 1948650,
+    "dDurationMs": 2827,
+    "segs": [ {
+      "utf8": "about his failed atomic theory of knots."
+    } ]
+  }, {
+    "tStartMs": 1951477,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "\"I am afraid I must end"
+    } ]
+  }, {
+    "tStartMs": 1953037,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "\"by saying that the\ndifficulties are so great"
+    } ]
+  }, {
+    "tStartMs": 1955257,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\"in the way of forming anything\nlike a comprehensive theory"
+    } ]
+  }, {
+    "tStartMs": 1958317,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "\"that we cannot even imagine a finger-post"
+    } ]
+  }, {
+    "tStartMs": 1960567,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "\"pointing to a way that leads\nus towards the explanation."
+    } ]
+  }, {
+    "tStartMs": 1964557,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "\"But this time next year,"
+    } ]
+  }, {
+    "tStartMs": 1966177,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "\"this time 10 years,"
+    } ]
+  }, {
+    "tStartMs": 1967857,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "\"this time 100 years,"
+    } ]
+  }, {
+    "tStartMs": 1969807,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "\"I cannot doubt"
+    } ]
+  }, {
+    "tStartMs": 1971007,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "\"but that these things which\nnow seem to us so mysterious"
+    } ]
+  }, {
+    "tStartMs": 1974337,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "\"will be no mysteries at all,"
+    } ]
+  }, {
+    "tStartMs": 1976347,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "\"that the scales will fall from our eyes,"
+    } ]
+  }, {
+    "tStartMs": 1978897,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "\"that we shall learn to look\non things in a different way"
+    } ]
+  }, {
+    "tStartMs": 1982197,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "\"when that which is now a difficulty"
+    } ]
+  }, {
+    "tStartMs": 1984027,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "\"will be the only common sense"
+    } ]
+  }, {
+    "tStartMs": 1985977,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "\"and intelligible way of\nlooking at the subject.\""
+    } ]
+  }, {
+    "tStartMs": 1995930,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Knot theory is a perfect example"
+    } ]
+  }, {
+    "tStartMs": 1997730,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "of how knowledge in one area"
+    } ]
+  }, {
+    "tStartMs": 1999230,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "can become a tool to\nunderstand countless others."
+    } ]
+  }, {
+    "tStartMs": 2002080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "From learning how to tell a\ntrefoil apart from an unknot,"
+    } ]
+  }, {
+    "tStartMs": 2005680,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "knot theorists have built all the way up"
+    } ]
+  }, {
+    "tStartMs": 2007480,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "to discovering brand new proteins."
+    } ]
+  }, {
+    "tStartMs": 2009910,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "If you want a quick and easy way"
+    } ]
+  }, {
+    "tStartMs": 2011410,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "to build out your own mental toolkit,"
+    } ]
+  }, {
+    "tStartMs": 2013240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you should absolutely check\nout this video sponsor,"
+    } ]
+  }, {
+    "tStartMs": 2015640,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "brilliant.org."
+    } ]
+  }, {
+    "tStartMs": 2017230,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Brilliant is the best way to\nlearn about almost any concept"
+    } ]
+  }, {
+    "tStartMs": 2020320,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "in math, data science,\nprogramming and more."
+    } ]
+  }, {
+    "tStartMs": 2023110,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "They even have a\ncomputational biology course"
+    } ]
+  }, {
+    "tStartMs": 2025360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "where you can apply\nconcepts from this video"
+    } ]
+  }, {
+    "tStartMs": 2027760,
+    "dDurationMs": 1943,
+    "segs": [ {
+      "utf8": "to folding protein chains."
+    } ]
+  }, {
+    "tStartMs": 2029703,
+    "dDurationMs": 2587,
+    "segs": [ {
+      "utf8": "With Brilliant, you just set your goal"
+    } ]
+  }, {
+    "tStartMs": 2032290,
+    "dDurationMs": 2164,
+    "segs": [ {
+      "utf8": "and they'll design the\nperfect learning path"
+    } ]
+  }, {
+    "tStartMs": 2034454,
+    "dDurationMs": 1196,
+    "segs": [ {
+      "utf8": "to help you reach it,"
+    } ]
+  }, {
+    "tStartMs": 2035650,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "equipping you with professional\ntools along the way."
+    } ]
+  }, {
+    "tStartMs": 2038800,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Want to harness the tools\nof a data scientist?"
+    } ]
+  }, {
+    "tStartMs": 2041440,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Brilliant's newest course\nPredicting with Probability"
+    } ]
+  }, {
+    "tStartMs": 2044020,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "is the best place to get them."
+    } ]
+  }, {
+    "tStartMs": 2045970,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The course has everything you\nneed and nothing you don't"
+    } ]
+  }, {
+    "tStartMs": 2049330,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "to start building your\ndata science skills."
+    } ]
+  }, {
+    "tStartMs": 2052150,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "There is no coding required."
+    } ]
+  }, {
+    "tStartMs": 2054220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "You'll learn easily to slice\nand dice massive data sets,"
+    } ]
+  }, {
+    "tStartMs": 2057940,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "compare distributions and\nmaster fundamental concepts"
+    } ]
+  }, {
+    "tStartMs": 2060700,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "like Bayes' theorem,"
+    } ]
+  }, {
+    "tStartMs": 2061810,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "all while working with\nreal air traffic data."
+    } ]
+  }, {
+    "tStartMs": 2064990,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "You'll learn to answer questions"
+    } ]
+  }, {
+    "tStartMs": 2066040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "like which airlines have the\nleast delays due to weather"
+    } ]
+  }, {
+    "tStartMs": 2069580,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "and how much more unruly"
+    } ]
+  }, {
+    "tStartMs": 2071050,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "passengers have gotten since the pandemic."
+    } ]
+  }, {
+    "tStartMs": 2073780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Data skills are absolutely necessary"
+    } ]
+  }, {
+    "tStartMs": 2075940,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "to navigate our world today."
+    } ]
+  }, {
+    "tStartMs": 2077470,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "And Brilliant is the\nbest place to get them."
+    } ]
+  }, {
+    "tStartMs": 2080020,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Beyond their data courses,"
+    } ]
+  }, {
+    "tStartMs": 2081280,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Brilliant also has a\nmassive content library,"
+    } ]
+  }, {
+    "tStartMs": 2083770,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "all of it highly visual, interactive,"
+    } ]
+  }, {
+    "tStartMs": 2085660,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and incredibly easy to understand."
+    } ]
+  }, {
+    "tStartMs": 2088330,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It's more than just a learning platform.,"
+    } ]
+  }, {
+    "tStartMs": 2090610,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "it's your path to understanding the world"
+    } ]
+  }, {
+    "tStartMs": 2092710,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of math, data and computer science."
+    } ]
+  }, {
+    "tStartMs": 2095350,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "By learning on Brilliant,"
+    } ]
+  }, {
+    "tStartMs": 2096970,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "you'll always be one step ahead"
+    } ]
+  }, {
+    "tStartMs": 2098920,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "as technology and the modern\nworld advances every day."
+    } ]
+  }, {
+    "tStartMs": 2102250,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "To try everything Brilliant\nhas to offer for free"
+    } ]
+  }, {
+    "tStartMs": 2104620,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "for a full 30 days,"
+    } ]
+  }, {
+    "tStartMs": 2105760,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "visit brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 2108370,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description,"
+    } ]
+  }, {
+    "tStartMs": 2110800,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and the first 200 of you to sign up"
+    } ]
+  }, {
+    "tStartMs": 2112750,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "will get 20% off Brilliant's\nannual premium subscription."
+    } ]
+  }, {
+    "tStartMs": 2116410,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "So I want to thank Brilliant\nfor sponsoring this video,"
+    } ]
+  }, {
+    "tStartMs": 2118900,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "and I want to thank you for watching."
+    } ]
+  } ]
+}

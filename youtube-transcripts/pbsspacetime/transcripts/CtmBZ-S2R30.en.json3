@@ -1,0 +1,1513 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 210,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Thank you to Private Internet Access for Supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 3580,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Neutrinos are one of the most bizarre of known particles."
+    } ]
+  }, {
+    "tStartMs": 8390,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Black holes are probably the most bizarre of astrophysical objects."
+    } ]
+  }, {
+    "tStartMs": 12940,
+    "dDurationMs": 2949,
+    "segs": [ {
+      "utf8": "So it makes sense we should use one to study the other, rig?"
+    } ]
+  }, {
+    "tStartMs": 15889,
+    "dDurationMs": 2788,
+    "segs": [ {
+      "utf8": "Well, today we’re doing just that."
+    } ]
+  }, {
+    "tStartMs": 23792,
+    "dDurationMs": 5508,
+    "segs": [ {
+      "utf8": "There’s been a lot of hype about our shiny\nnew observatories and the new windows to the"
+    } ]
+  }, {
+    "tStartMs": 29300,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "universe that they open."
+    } ]
+  }, {
+    "tStartMs": 30810,
+    "dDurationMs": 5679,
+    "segs": [ {
+      "utf8": "There’s the James Webb Space Telescope and its infrared supervision and of course LIGO"
+    } ]
+  }, {
+    "tStartMs": 36489,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "with its ability to see gravitational waves."
+    } ]
+  }, {
+    "tStartMs": 39559,
+    "dDurationMs": 2981,
+    "segs": [ {
+      "utf8": "And then there’s neutrino astronomy."
+    } ]
+  }, {
+    "tStartMs": 42540,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "It gets far less attention in the media - in\nfact it’s almost as elusive as the particle"
+    } ]
+  }, {
+    "tStartMs": 47290,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "it depends on - and yet mapping the neutrino sky will surely unlock secrets no other method"
+    } ]
+  }, {
+    "tStartMs": 53730,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "can access."
+    } ]
+  }, {
+    "tStartMs": 55129,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Today we’re going to look at some of the\nfirst neutrino astrophysics in this new astronomical"
+    } ]
+  }, {
+    "tStartMs": 59829,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "era, as we discuss a new result from the IceCube collaboration."
+    } ]
+  }, {
+    "tStartMs": 63940,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "They report seeing neutrinos produced in the colossal magnetic fields surrounding a black"
+    } ]
+  }, {
+    "tStartMs": 69330,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "hole with the mass of 10 million Suns."
+    } ]
+  }, {
+    "tStartMs": 71760,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "No big deal."
+    } ]
+  }, {
+    "tStartMs": 73180,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "First up, let’s review what neutrinos are."
+    } ]
+  }, {
+    "tStartMs": 76090,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "These elementary particles are fermions - so particles of matter rather than force-carrying"
+    } ]
+  }, {
+    "tStartMs": 80950,
+    "dDurationMs": 8380,
+    "segs": [ {
+      "utf8": "bosons like the photons of regular astronomy, and neutrino's fermion type is lepton, so they're cousins"
+    } ]
+  }, {
+    "tStartMs": 89330,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "of the electron, muon and tau particle."
+    } ]
+  }, {
+    "tStartMs": 92060,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "There’s one neutrino type corresponding\nto each of these three; with the most striking"
+    } ]
+  }, {
+    "tStartMs": 96660,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "differences being that neutrinos are electrically neutral and have much lower masses than the"
+    } ]
+  }, {
+    "tStartMs": 102060,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "charged counterparts."
+    } ]
+  }, {
+    "tStartMs": 103930,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "The extremely low mass of neutrinos means that they tend to travel at very close to the speed"
+    } ]
+  }, {
+    "tStartMs": 110140,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "of light, just because it doesn’t take much energy to get them close to the cosmic speed limit."
+    } ]
+  }, {
+    "tStartMs": 115290,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "But perhaps the most characteristic property of the neutrino is that they only interact"
+    } ]
+  }, {
+    "tStartMs": 120049,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "via the weak nuclear force and gravity."
+    } ]
+  }, {
+    "tStartMs": 122799,
+    "dDurationMs": 2621,
+    "segs": [ {
+      "utf8": "That makes them very, very difficult to detect."
+    } ]
+  }, {
+    "tStartMs": 125420,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "For reference, if you want to stop a low-energy neutrino with a wall of lead, the wall would"
+    } ]
+  }, {
+    "tStartMs": 131250,
+    "dDurationMs": 5349,
+    "segs": [ {
+      "utf8": "need to be a light year thick to have even\na 50-50 chance that the neutrino gets close"
+    } ]
+  }, {
+    "tStartMs": 136599,
+    "dDurationMs": 2191,
+    "segs": [ {
+      "utf8": "enough to a lead nucleus to interact."
+    } ]
+  }, {
+    "tStartMs": 138790,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "So you can see how doing neutrino astronomy might be challenging, given that each neutrino"
+    } ]
+  }, {
+    "tStartMs": 144140,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "has a minuscule interaction probability most of them pass straight through your detector."
+    } ]
+  }, {
+    "tStartMs": 149630,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "But miniscule isn’t zero."
+    } ]
+  }, {
+    "tStartMs": 151650,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "With enough neutrinos you will get interactions."
+    } ]
+  }, {
+    "tStartMs": 155150,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "And space does generate a lot of neutrinos."
+    } ]
+  }, {
+    "tStartMs": 158620,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "By far the brightest neutrino source on the\nsky is the Sun."
+    } ]
+  }, {
+    "tStartMs": 162150,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "It creates 10^38 - a hundred trillion trillion\ntrillion neutrinos every second in the fusion"
+    } ]
+  }, {
+    "tStartMs": 168640,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "reactions in its core."
+    } ]
+  }, {
+    "tStartMs": 170870,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "These spread out in every direction, so a\nmere 100 trillion pass through your body every"
+    } ]
+  }, {
+    "tStartMs": 176010,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "second."
+    } ]
+  }, {
+    "tStartMs": 177300,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "In fact, the vast majority pass straight through the entire planet."
+    } ]
+  }, {
+    "tStartMs": 181910,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "To have a chance of catching a neutrino you need a big detector, and the biggest neutrino detector"
+    } ]
+  }, {
+    "tStartMs": 187370,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "is IceCube."
+    } ]
+  }, {
+    "tStartMs": 189590,
+    "dDurationMs": 5179,
+    "segs": [ {
+      "utf8": "There are two famous musicians who are also astrophysicists - those are Brian May and"
+    } ]
+  }, {
+    "tStartMs": 194769,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "Brian Cox - so no, IceCube is not named after the rapper."
+    } ]
+  }, {
+    "tStartMs": 198640,
+    "dDurationMs": 3429,
+    "segs": [ {
+      "utf8": "It’s named for the fact that it’s literally\nan ice cube."
+    } ]
+  }, {
+    "tStartMs": 202069,
+    "dDurationMs": 3621,
+    "segs": [ {
+      "utf8": "It’s a full cubic kilometer of glacial ice\nat the South Pole."
+    } ]
+  }, {
+    "tStartMs": 205690,
+    "dDurationMs": 4189,
+    "segs": [ {
+      "utf8": "Let’s see how ice can be used to see neutrinos."
+    } ]
+  }, {
+    "tStartMs": 209879,
+    "dDurationMs": 5531,
+    "segs": [ {
+      "utf8": "When neutrinos pass through the ice of ice cube, one in a million interact with water"
+    } ]
+  }, {
+    "tStartMs": 215410,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "molecules via the weak force."
+    } ]
+  }, {
+    "tStartMs": 218150,
+    "dDurationMs": 6830,
+    "segs": [ {
+      "utf8": "For high-energy neutrinos, interaction are with an atomic nucleus and that interaction can transmute"
+    } ]
+  }, {
+    "tStartMs": 224980,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "the neutrino into its high-mass lepton counterpart - an electron, muon or tau."
+    } ]
+  }, {
+    "tStartMs": 230370,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "If the neutrino becomes a tau then it decays almost instantly, but an electron or muon"
+    } ]
+  }, {
+    "tStartMs": 236010,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "will continue through the ice, emitting light\nas it interacts with other charged particles."
+    } ]
+  }, {
+    "tStartMs": 241200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "This is seen as a cone of blue light that\ntrails the particle."
+    } ]
+  }, {
+    "tStartMs": 245360,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "It trails behind because the lepton is traveling faster than light."
+    } ]
+  }, {
+    "tStartMs": 250020,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "See, the speed of light is reduced in any medium inside a vacuum."
+    } ]
+  }, {
+    "tStartMs": 254670,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "In ice it’s around 25% slower."
+    } ]
+  }, {
+    "tStartMs": 257100,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "But neutrinos are not slowed down, so the electron or muon that it creates also start"
+    } ]
+  }, {
+    "tStartMs": 263410,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "out with a speed faster than the reduced speed of light in the ice."
+    } ]
+  }, {
+    "tStartMs": 268410,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "The result is the electromagnetic analog of a sonic boom."
+    } ]
+  }, {
+    "tStartMs": 272500,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "The expanding EM waves created by the charged particle expand slower than the particle itself,"
+    } ]
+  }, {
+    "tStartMs": 278340,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "so their wavefronts overlap each other and\nyou get constructive interference in this"
+    } ]
+  }, {
+    "tStartMs": 285160,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "cone shape that follows the particle."
+    } ]
+  }, {
+    "tStartMs": 287340,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "This is Cherenkov radiation, and it’s ultimately how we detect the neutrinos."
+    } ]
+  }, {
+    "tStartMs": 293190,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "The actual detectors are sensitive photomultipliers - basically extremely sensitive light detectors"
+    } ]
+  }, {
+    "tStartMs": 298910,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "- suspended in deep boreholes."
+    } ]
+  }, {
+    "tStartMs": 301330,
+    "dDurationMs": 7459,
+    "segs": [ {
+      "utf8": "A grid of over 5000 photomultiplies spans\na cubic kilometer of the glacier, starting"
+    } ]
+  }, {
+    "tStartMs": 308789,
+    "dDurationMs": 2911,
+    "segs": [ {
+      "utf8": "at a depth of 1.5km."
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "In this way, IceCube sees the Cherenkov radiation from neutrinos generating both electrons and"
+    } ]
+  }, {
+    "tStartMs": 318550,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "muons, but it’s the muons that are really\nuseful."
+    } ]
+  }, {
+    "tStartMs": 323250,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Electrons interact very strongly with the\nwater molecules and so begin to bounce around"
+    } ]
+  }, {
+    "tStartMs": 327310,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "immediately, leading to a bubble of Cherenkov near their creation point."
+    } ]
+  }, {
+    "tStartMs": 331970,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "But muons can travel for kilometers without changing course, so their Cherenkov cones"
+    } ]
+  }, {
+    "tStartMs": 337280,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "trace out a straight line in the direction\nof the original neutrino path."
+    } ]
+  }, {
+    "tStartMs": 341650,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "In this way it’s possible to figure out\nwhere on the sky the neutrino came from, and"
+    } ]
+  }, {
+    "tStartMs": 346970,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "with enough neutrinos even build up a rather blurry image."
+    } ]
+  }, {
+    "tStartMs": 352060,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We need to sort out one more thing to understand how IceCube actually takes neutrino pics of"
+    } ]
+  }, {
+    "tStartMs": 357100,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "the sky."
+    } ]
+  }, {
+    "tStartMs": 358539,
+    "dDurationMs": 4391,
+    "segs": [ {
+      "utf8": "It turns out that our environment is very\nnoisy with neutrinos."
+    } ]
+  }, {
+    "tStartMs": 362930,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "The sun produces an enormous number, but those are easy to distinguish because they come"
+    } ]
+  }, {
+    "tStartMs": 367160,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "from the direction of the Sun."
+    } ]
+  }, {
+    "tStartMs": 369610,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "More challenging are confounding particles from our own atmosphere."
+    } ]
+  }, {
+    "tStartMs": 373870,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "When cosmic rays hit molecules in our atmosphere, many different particles can be produced,"
+    } ]
+  }, {
+    "tStartMs": 378430,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "but the most annoying are muons and neutrinos."
+    } ]
+  }, {
+    "tStartMs": 381460,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "Those muons can cause Cherenkov cones, but they’re easy to sort out because almost"
+    } ]
+  }, {
+    "tStartMs": 386870,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "all of them come from above."
+    } ]
+  }, {
+    "tStartMs": 388840,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "If we only pay attention to signals from below we eliminate atmospheric muons."
+    } ]
+  }, {
+    "tStartMs": 394139,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "This makes a neutrino observatory the only type of observatory where you need to wait"
+    } ]
+  }, {
+    "tStartMs": 398949,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "until your object sets below the horizon before you can observe it."
+    } ]
+  }, {
+    "tStartMs": 404199,
+    "dDurationMs": 3571,
+    "segs": [ {
+      "utf8": "Atmospheric neutrinos are still a problem,\nbecause if they’re produced on the other"
+    } ]
+  }, {
+    "tStartMs": 407770,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "side of the planet they can still reach IceCube."
+    } ]
+  }, {
+    "tStartMs": 411060,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "In order to confidently say you detected the neutrinos of a cosmic object, you need to"
+    } ]
+  }, {
+    "tStartMs": 416550,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "collect significantly more neutrinos from\nthat particular direction than the smooth"
+    } ]
+  }, {
+    "tStartMs": 421900,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "background neutrino rate would give you."
+    } ]
+  }, {
+    "tStartMs": 425280,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Which is why it’s taken a decade of collecting neutrinos to confidently detect the amazing"
+    } ]
+  }, {
+    "tStartMs": 430680,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "space object that we’re finally ready to\ntalk about."
+    } ]
+  }, {
+    "tStartMs": 434460,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "This is the neutrino map of the sky produced by IceCube since it began operations in 2011."
+    } ]
+  }, {
+    "tStartMs": 440610,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And this spot here is the only place where\nwe see a significant over-abundance of neutrinos."
+    } ]
+  }, {
+    "tStartMs": 446210,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "There’s only about 50 neutrinos more than you would expected from cosmic rays in the atmosphere, but it’s"
+    } ]
+  }, {
+    "tStartMs": 452890,
+    "dDurationMs": 3389,
+    "segs": [ {
+      "utf8": "pretty clearly something out there in space."
+    } ]
+  }, {
+    "tStartMs": 456279,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "There’s only a 1 in 10,000 chance of getting such an over abundance anywhere on the map"
+    } ]
+  }, {
+    "tStartMs": 461509,
+    "dDurationMs": 6611,
+    "segs": [ {
+      "utf8": "by pure chance, which in science-speak means a 4.2 sigma detection."
+    } ]
+  }, {
+    "tStartMs": 468120,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "So what could it be?"
+    } ]
+  }, {
+    "tStartMs": 469320,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "Well, this blurry patch of sky in the constellation of cetus includes a lot of Milky Way stars,"
+    } ]
+  }, {
+    "tStartMs": 476010,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "a lot of very distant galaxies, but there’s\nonly one thing that is a plausible source"
+    } ]
+  }, {
+    "tStartMs": 480690,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "of neutrinos."
+    } ]
+  }, {
+    "tStartMs": 482060,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "And that’s this."
+    } ]
+  }, {
+    "tStartMs": 484099,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's M77, also known as NGC 1068."
+    } ]
+  }, {
+    "tStartMs": 488099,
+    "dDurationMs": 4151,
+    "segs": [ {
+      "utf8": "It’s a beautiful spiral galaxy 47 million\nlight years away."
+    } ]
+  }, {
+    "tStartMs": 492250,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Now a regular galaxy should not produce so many neutrinos."
+    } ]
+  }, {
+    "tStartMs": 498110,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "But M77 is not regular."
+    } ]
+  }, {
+    "tStartMs": 501970,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "At its heart it holds a terrible secret."
+    } ]
+  }, {
+    "tStartMs": 505640,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "As with most galaxies, including our own,\nthere’s a gigantic black hole at its core."
+    } ]
+  }, {
+    "tStartMs": 510780,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "In this case with a mass of around 10 million suns."
+    } ]
+  }, {
+    "tStartMs": 514800,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "But unlike most galaxies, M77's supermassive black hole is not quiet."
+    } ]
+  }, {
+    "tStartMs": 520460,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "It’s currently in a feeding phase - gas\nfrom the surrounding galaxy has been driven"
+    } ]
+  }, {
+    "tStartMs": 526140,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "to the center, forming a whirlpool of searing plasma - an accretion disk - as it falls into"
+    } ]
+  }, {
+    "tStartMs": 531960,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "the black hole."
+    } ]
+  }, {
+    "tStartMs": 533330,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "M77 has what we call an active galactic nucleus."
+    } ]
+  }, {
+    "tStartMs": 537260,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "It’s an AGN."
+    } ]
+  }, {
+    "tStartMs": 539619,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "The most powerful AGNs are called quasars, and shine out from across the universe."
+    } ]
+  }, {
+    "tStartMs": 545339,
+    "dDurationMs": 7761,
+    "segs": [ {
+      "utf8": "M77 is not that powerful, it's known as a Seyfert galaxy, and the light of its accretion disk is hidden from"
+    } ]
+  }, {
+    "tStartMs": 553100,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "us by a wreath of dust and gas surrounding the nucleus."
+    } ]
+  }, {
+    "tStartMs": 557640,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "Being one of the closest AGNs to our galaxy makes M77 a prime candidate as the source"
+    } ]
+  }, {
+    "tStartMs": 564330,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "of neutrinos."
+    } ]
+  }, {
+    "tStartMs": 566480,
+    "dDurationMs": 5859,
+    "segs": [ {
+      "utf8": "We know that AGNs have powerful magnetic fields because in many of them we see jets of high energy"
+    } ]
+  }, {
+    "tStartMs": 572339,
+    "dDurationMs": 5591,
+    "segs": [ {
+      "utf8": "particles blasted out from the vicinity of\nthe black hole, and these have all the signatures"
+    } ]
+  }, {
+    "tStartMs": 577930,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "of having been accelerated and focused by magnetic fields."
+    } ]
+  }, {
+    "tStartMs": 581680,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "They are natural particle accelerators, far more powerful than the ones we can build on"
+    } ]
+  }, {
+    "tStartMs": 586440,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "earth."
+    } ]
+  }, {
+    "tStartMs": 587510,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "And collisions of magnetic-field-accelerated particles is exactly how we make neutrinos"
+    } ]
+  }, {
+    "tStartMs": 592950,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "in our experiments."
+    } ]
+  }, {
+    "tStartMs": 594800,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "On that note, I should mention that M77 may not be the first AGN to be detected by IceCube."
+    } ]
+  }, {
+    "tStartMs": 602060,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "In 2017 a single very high energy neutrino was detected by IceCube coming from the direction of"
+    } ]
+  }, {
+    "tStartMs": 608390,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "a known blazar."
+    } ]
+  }, {
+    "tStartMs": 610110,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "Now a blazar is an AGN where a magnetically-channeled jet happens to be pointing more or less directly"
+    } ]
+  }, {
+    "tStartMs": 616500,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "at us."
+    } ]
+  }, {
+    "tStartMs": 617670,
+    "dDurationMs": 6539,
+    "segs": [ {
+      "utf8": "This leads to massive amplification of the jet’s light due to Einstein stuff."
+    } ]
+  }, {
+    "tStartMs": 624209,
+    "dDurationMs": 5351,
+    "segs": [ {
+      "utf8": "Relativistic boosting due to the jet particles racing towards us at near the speed of light."
+    } ]
+  }, {
+    "tStartMs": 629560,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "Many telescopes swiveled to the blazar after the neutrino detection and it was revealed"
+    } ]
+  }, {
+    "tStartMs": 635300,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "to be in a particularly active phase, so there’s a good chance it was spitting out high energy"
+    } ]
+  }, {
+    "tStartMs": 640770,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "neutrinos at an enhanced rate."
+    } ]
+  }, {
+    "tStartMs": 642550,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "But there’s only a 3-sigma confidence that\nthe neutrino is associated with the blazar"
+    } ]
+  }, {
+    "tStartMs": 648410,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "in this case - not enough to claim a sure\ndetection."
+    } ]
+  }, {
+    "tStartMs": 652000,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "That makes the neutrino signal from M77 far more exciting, because we’re approaching"
+    } ]
+  }, {
+    "tStartMs": 657350,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "certainty in this case."
+    } ]
+  }, {
+    "tStartMs": 660110,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "The only other sure neutrino detections from space are the Sun and the remnant of supernova 1987A"
+    } ]
+  }, {
+    "tStartMs": 667630,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "in the large magellanic cloud."
+    } ]
+  }, {
+    "tStartMs": 669520,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "So that means we can finally start doing real neutrino astrophysics."
+    } ]
+  }, {
+    "tStartMs": 675430,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "In fact, that work is already well underway."
+    } ]
+  }, {
+    "tStartMs": 678740,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "A number of studies have come out describing the possible mechanisms and environment of the"
+    } ]
+  }, {
+    "tStartMs": 684380,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "neutrino production."
+    } ]
+  }, {
+    "tStartMs": 685970,
+    "dDurationMs": 5489,
+    "segs": [ {
+      "utf8": "We stand to learn a ton about the regions\naround these gigantic black holes, and eventually"
+    } ]
+  }, {
+    "tStartMs": 691459,
+    "dDurationMs": 4461,
+    "segs": [ {
+      "utf8": "from the many other energetic environments\nthat probably produce neutrinos."
+    } ]
+  }, {
+    "tStartMs": 695920,
+    "dDurationMs": 4669,
+    "segs": [ {
+      "utf8": "Supernovae, colliding neutron stars and black holes, tidal disruption events when black"
+    } ]
+  }, {
+    "tStartMs": 700589,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "holes rip apart stars, you name it."
+    } ]
+  }, {
+    "tStartMs": 703190,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "To achieve all of this we need bigger and\nmore sensitive neutrino observatories."
+    } ]
+  }, {
+    "tStartMs": 707860,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "There are already plans to improve the sensitivity of IceCubes detectors, and also to expand"
+    } ]
+  }, {
+    "tStartMs": 714320,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "it to a full 10 cubic kilometers, which should approximately increase the detection rate"
+    } ]
+  }, {
+    "tStartMs": 719470,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "by a factor of 10."
+    } ]
+  }, {
+    "tStartMs": 721350,
+    "dDurationMs": 6299,
+    "segs": [ {
+      "utf8": "We can also look for neutrino Cherenkov radiation at radio wavelengths, which allows us to scan"
+    } ]
+  }, {
+    "tStartMs": 727649,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "vast tracks of the Antarctic glacier with\ndetectors placed above the ice."
+    } ]
+  }, {
+    "tStartMs": 733529,
+    "dDurationMs": 5331,
+    "segs": [ {
+      "utf8": "In fact we already do so, for example with\nthe ANITA balloon experiment."
+    } ]
+  }, {
+    "tStartMs": 738860,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "These experiments can also be expanded."
+    } ]
+  }, {
+    "tStartMs": 741620,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "One possibility is looking for radio-Cherenkov from the Moon."
+    } ]
+  }, {
+    "tStartMs": 746430,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So yeah, using the entire moon as a neutrino telescope."
+    } ]
+  }, {
+    "tStartMs": 750270,
+    "dDurationMs": 5001,
+    "segs": [ {
+      "utf8": "The future of neutrino astronomy is bright,\nand it’s hard to even guess what we’ll"
+    } ]
+  }, {
+    "tStartMs": 755271,
+    "dDurationMs": 6128,
+    "segs": [ {
+      "utf8": "learn as we slowly build our neutrino map\nof space time."
+    } ]
+  }, {
+    "tStartMs": 761399,
+    "dDurationMs": 3831,
+    "segs": [ {
+      "utf8": "Thank you to Private Internet Access for Supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 765230,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Private Internet Access is a 100% open source VPN."
+    } ]
+  }, {
+    "tStartMs": 767940,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "For those of you who don’t know, a VPN is\na virtual private network."
+    } ]
+  }, {
+    "tStartMs": 772670,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "When connected to VPN you can still browse the web just like normal, but because the"
+    } ]
+  }, {
+    "tStartMs": 777110,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "network activity is being routed via a private server your digital identity is protected."
+    } ]
+  }, {
+    "tStartMs": 782570,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "PIA is designed to hide your IP address and encrypt your internet data so that your digital"
+    } ]
+  }, {
+    "tStartMs": 788029,
+    "dDurationMs": 5711,
+    "segs": [ {
+      "utf8": "life is shielded from ISPs, network administrators and others you don’t want accessing your"
+    } ]
+  }, {
+    "tStartMs": 793740,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "data."
+    } ]
+  }, {
+    "tStartMs": 795270,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "Private Internet access works with all major streaming services and by having server infrastructure"
+    } ]
+  }, {
+    "tStartMs": 800460,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "in 83 countries and all 50 US states you’ll\nbe able to set your own IP address."
+    } ]
+  }, {
+    "tStartMs": 805810,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "Plus, with their “No Logs” policy, PIA\nhas a commitment to never recording or storing"
+    } ]
+  }, {
+    "tStartMs": 812180,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "their user’s data."
+    } ]
+  }, {
+    "tStartMs": 813990,
+    "dDurationMs": 5825,
+    "segs": [ {
+      "utf8": "PIA is built to let users browse securely\nand privately on up to 10 devices at the same time. "
+    } ]
+  }, {
+    "tStartMs": 819815,
+    "dDurationMs": 3565,
+    "segs": [ {
+      "utf8": "If you’d like to check it out, there’s\na special Black Friday deal for Space Time"
+    } ]
+  }, {
+    "tStartMs": 823380,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "fans at piavpn.com/SpaceTime and a link in the description."
+    } ]
+  }, {
+    "tStartMs": 829459,
+    "dDurationMs": 5331,
+    "segs": [ {
+      "utf8": "Patreon is an incredibly important source\nof support for this show, so thanks to everyone"
+    } ]
+  }, {
+    "tStartMs": 834790,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "who helps us out that way."
+    } ]
+  }, {
+    "tStartMs": 837350,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Today I want to give a very special thank\nyou to Steffen Bendel who’s supporting us"
+    } ]
+  }, {
+    "tStartMs": 841560,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "at the Big Bang level."
+    } ]
+  }, {
+    "tStartMs": 843600,
+    "dDurationMs": 4831,
+    "segs": [ {
+      "utf8": "Steffen, you clearly understand the great\nimportance of science communication, but we"
+    } ]
+  }, {
+    "tStartMs": 848431,
+    "dDurationMs": 6789,
+    "segs": [ {
+      "utf8": "thought it would also be nice if your contribution directly supported actual scientific research."
+    } ]
+  }, {
+    "tStartMs": 855220,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "So I went ahead and launched a research program in your name to address a critical question."
+    } ]
+  }, {
+    "tStartMs": 861250,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "That question is the following: Is it actually possible to see a neutrino?"
+    } ]
+  }, {
+    "tStartMs": 866980,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "And after nearly an hour of intensive investigation we have a result."
+    } ]
+  }, {
+    "tStartMs": 872500,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "The answer is yes!"
+    } ]
+  }, {
+    "tStartMs": 873740,
+    "dDurationMs": 6099,
+    "segs": [ {
+      "utf8": "There’s a tiny chance that a neutrino passing through the vitreous fluid of your eye will"
+    } ]
+  }, {
+    "tStartMs": 879839,
+    "dDurationMs": 4281,
+    "segs": [ {
+      "utf8": "interact with a nucleus and produce Cherenkov radiation."
+    } ]
+  }, {
+    "tStartMs": 884120,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "We know that this Cherenkov is potentially\nvisible based on reports of flashes by radiation"
+    } ]
+  }, {
+    "tStartMs": 889500,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "therapy patients."
+    } ]
+  }, {
+    "tStartMs": 890680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So, how likely is this for an individual human?"
+    } ]
+  }, {
+    "tStartMs": 894880,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "100 trillion neutrinos pass through your body every second, and on average one single neutrino"
+    } ]
+  }, {
+    "tStartMs": 900020,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "will be stopped by your body if you live 100 years."
+    } ]
+  }, {
+    "tStartMs": 905070,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "The human eye has a volume of around 6 cubic centermeters, which is 5,000 times smaller"
+    } ]
+  }, {
+    "tStartMs": 910880,
+    "dDurationMs": 5129,
+    "segs": [ {
+      "utf8": "than your whole body, counting both eyes - so it’ll take 100 years times 5000 to stop"
+    } ]
+  }, {
+    "tStartMs": 916009,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "a neutrino with your eyes - around a half\nmillion years."
+    } ]
+  }, {
+    "tStartMs": 919820,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Round to a million because you have to be\nawake when it happens."
+    } ]
+  }, {
+    "tStartMs": 922980,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "In other words, fewer than 1 in a million\npeople see a neutrino once in their life."
+    } ]
+  }, {
+    "tStartMs": 928630,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "But with 8 billion people on the planet, that’s a few every day."
+    } ]
+  }, {
+    "tStartMs": 932680,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "So there you go, Steffen, you’ve sponsored\nsome cutting edge scientific research."
+    } ]
+  }, {
+    "tStartMs": 937380,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "Thank you for your contribution to the growth of human knowledge."
+    } ]
+  }, {
+    "tStartMs": 940779,
+    "dDurationMs": 4511,
+    "segs": [ {
+      "utf8": "And by the way kids - if you start seeing\nmysterious flashes, you might be one of those"
+    } ]
+  }, {
+    "tStartMs": 945290,
+    "dDurationMs": 3489,
+    "segs": [ {
+      "utf8": "lucky few, but you should talk to your doctor anyway."
+    } ]
+  }, {
+    "tStartMs": 948779,
+    "dDurationMs": 5681,
+    "segs": [ {
+      "utf8": "Today’s comment responses are for our recent episode on the island of stability - the hypothetical"
+    } ]
+  }, {
+    "tStartMs": 954460,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "collection of stable-ish elements beyond the end of the current periodic table."
+    } ]
+  }, {
+    "tStartMs": 958930,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "Feynstein 100 asks if stable heavy elements like the island of stability could exist,"
+    } ]
+  }, {
+    "tStartMs": 965540,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "then shouldn't they be present on earth and be found already?"
+    } ]
+  }, {
+    "tStartMs": 969699,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Let me clarify something about the island\nof stability."
+    } ]
+  }, {
+    "tStartMs": 972509,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Those elements are unlikely to be perfectly\nstable."
+    } ]
+  }, {
+    "tStartMs": 975110,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "They’re likely to decay, but on a longer\ntimescale than the other elements between"
+    } ]
+  }, {
+    "tStartMs": 979569,
+    "dDurationMs": 3891,
+    "segs": [ {
+      "utf8": "the island and the current top of the periodic table."
+    } ]
+  }, {
+    "tStartMs": 983460,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "So any that formed naturally, say in a supernova, may have decayed by now."
+    } ]
+  }, {
+    "tStartMs": 989180,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Also, because they have such extreme masses they’d be hard to produce naturally."
+    } ]
+  }, {
+    "tStartMs": 993940,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "Extremely heavy elements are produced in supernovae or in colliding neutron stars by the R-process"
+    } ]
+  }, {
+    "tStartMs": 1000130,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "- basically bombarding lighter elements with neutrons."
+    } ]
+  }, {
+    "tStartMs": 1003020,
+    "dDurationMs": 6009,
+    "segs": [ {
+      "utf8": "These then decay into the first stable isotope, with some neutrons converting into protons"
+    } ]
+  }, {
+    "tStartMs": 1009029,
+    "dDurationMs": 1031,
+    "segs": [ {
+      "utf8": "on the way."
+    } ]
+  }, {
+    "tStartMs": 1010060,
+    "dDurationMs": 4499,
+    "segs": [ {
+      "utf8": "There’s a limit to how large a nucleus you\ncan make this way - and that’s when the"
+    } ]
+  }, {
+    "tStartMs": 1014559,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "decay timescale is shorter than the rate of\nneutron bombardment."
+    } ]
+  }, {
+    "tStartMs": 1018899,
+    "dDurationMs": 4221,
+    "segs": [ {
+      "utf8": "To get to the island of stability, you have\nto get through a region of extremely fast"
+    } ]
+  }, {
+    "tStartMs": 1023120,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "decay nuclei, and my guess is that known astrophysical processes can’t generate the neutron flux"
+    } ]
+  }, {
+    "tStartMs": 1029720,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "needed - at least, to produce enough of the\nstuff to last very long."
+    } ]
+  }, {
+    "tStartMs": 1034380,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": "Brian Diehl mentioned the prospect of a 'continent of stability’ - beyond the periodic table."
+    } ]
+  }, {
+    "tStartMs": 1039959,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Well, I had to look this one up, but you’re right."
+    } ]
+  }, {
+    "tStartMs": 1043069,
+    "dDurationMs": 4681,
+    "segs": [ {
+      "utf8": "The idea is that there may be a new way for quarks to form stable clumps."
+    } ]
+  }, {
+    "tStartMs": 1047750,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Normally quarks bid together in groups of\n3 - protons or neutrons."
+    } ]
+  }, {
+    "tStartMs": 1051640,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "But at nuclear masses much higher than the current periodic it may be possible for quarks"
+    } ]
+  }, {
+    "tStartMs": 1056780,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "to exist in a free-flowing state without the\nstandard nucleons."
+    } ]
+  }, {
+    "tStartMs": 1061360,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Originally it was thought that strange quarks were required, and we’ve been searching"
+    } ]
+  }, {
+    "tStartMs": 1066220,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "for strange quark matter since the ’80’s."
+    } ]
+  }, {
+    "tStartMs": 1069750,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "But very new work shows that this may also be possible with the regular up and down quarks of normal"
+    } ]
+  }, {
+    "tStartMs": 1076490,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "matter, and that this up-down-quark matter\nmay lead to perfectly stable “nuclei”"
+    } ]
+  }, {
+    "tStartMs": 1081110,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "with atomic masses as low as 300."
+    } ]
+  }, {
+    "tStartMs": 1084320,
+    "dDurationMs": 4109,
+    "segs": [ {
+      "utf8": "And finally, apparently I pronounced technetium incorrectly."
+    } ]
+  }, {
+    "tStartMs": 1088429,
+    "dDurationMs": 3051,
+    "segs": [ {
+      "utf8": "It’s technetium, not technetium."
+    } ]
+  }, {
+    "tStartMs": 1091480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "While you can trust much of what I say, there are a few areas where you should not entirely"
+    } ]
+  }, {
+    "tStartMs": 1097240,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "rely on some random astrophysicist on YouTube."
+    } ]
+  }, {
+    "tStartMs": 1100409,
+    "dDurationMs": 4691,
+    "segs": [ {
+      "utf8": "In fact there are a great many such areas, but most importantly don’t copy their"
+    } ]
+  }, {
+    "tStartMs": 1105100,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "pronunciation of obscure chemical elements."
+    } ]
+  } ]
+}

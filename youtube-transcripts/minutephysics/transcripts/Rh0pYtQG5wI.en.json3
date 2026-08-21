@@ -1,0 +1,1141 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 12420,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "The goal of relativity is to explain and understand\nhow motion looks from different perspectives,"
+    } ]
+  }, {
+    "tStartMs": 17450,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "and in particular, from different moving perspectives."
+    } ]
+  }, {
+    "tStartMs": 20700,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It's easy enough to describe motion itself\n– if something is moving relative to me,"
+    } ]
+  }, {
+    "tStartMs": 24260,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "that means it has different positions at different\ntimes, which I can plot on a spacetime diagram."
+    } ]
+  }, {
+    "tStartMs": 28820,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "This straight line corresponds to motion at\na constant velocity of say, v units to the"
+    } ]
+  }, {
+    "tStartMs": 33540,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "right every second."
+    } ]
+  }, {
+    "tStartMs": 34660,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "And the question we're interested in is what\ndo things look like from the moving perspective?"
+    } ]
+  }, {
+    "tStartMs": 39650,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Of course, the answer to this question is\na physical one, and is determined by experimental"
+    } ]
+  }, {
+    "tStartMs": 43600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "evidence gathered by actually moving."
+    } ]
+  }, {
+    "tStartMs": 45920,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "And that evidence will come into play, but\nfirst we need to understand what it means,"
+    } ]
+  }, {
+    "tStartMs": 49830,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "in terms of spacetime diagrams, to view something\nfrom a moving perspective."
+    } ]
+  }, {
+    "tStartMs": 54010,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "We'll start with a key property of spacetime\ndiagrams: when someone draws a spacetime diagram"
+    } ]
+  }, {
+    "tStartMs": 59080,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "from their own perspective, on that diagram\nthey're always, for all time, located at position"
+    } ]
+  }, {
+    "tStartMs": 64650,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "x=0, since they're always a distance of 0\naway from where they are."
+    } ]
+  }, {
+    "tStartMs": 70390,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Or in other words: a spacetime diagram like\nthis represents your perspective only if your"
+    } ]
+  }, {
+    "tStartMs": 75310,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "worldline is a straight vertical line that\npasses through x=0."
+    } ]
+  }, {
+    "tStartMs": 79310,
+    "dDurationMs": 5769,
+    "segs": [ {
+      "utf8": "If, on a spacetime diagram, the worldline\ndescribing your motion leaves x=0 and goes"
+    } ]
+  }, {
+    "tStartMs": 85079,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "anywhere else, that means you're moving relative\nto the perspective of that particular diagram,"
+    } ]
+  }, {
+    "tStartMs": 90150,
+    "dDurationMs": 2109,
+    "segs": [ {
+      "utf8": "and thus it's not your perspective."
+    } ]
+  }, {
+    "tStartMs": 92259,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "With this in mind, to describe how things\nlook from the perspective of a moving object,"
+    } ]
+  }, {
+    "tStartMs": 96159,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "like this cat, we simply need some way to\ntransform spacetime diagrams that makes the"
+    } ]
+  }, {
+    "tStartMs": 100979,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "worldline of the cat into a straight vertical\nline through x=0; or in other words, we want"
+    } ]
+  }, {
+    "tStartMs": 106469,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "to make the spacetime diagram where the cat\nis moving into one where the cat's worldline"
+    } ]
+  }, {
+    "tStartMs": 109590,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "coincides with the time axis."
+    } ]
+  }, {
+    "tStartMs": 111210,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "That's not something we can do just by sliding\nthe whole plot left or right or up or down,"
+    } ]
+  }, {
+    "tStartMs": 115580,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "like we've done for perspectives from different\nlocations."
+    } ]
+  }, {
+    "tStartMs": 118579,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "No, changes of velocity require some sort\nof rotationy thing to change the angle of"
+    } ]
+  }, {
+    "tStartMs": 123319,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "the worldline, and importantly, whatever this\nrotationy thing does should be generalizable"
+    } ]
+  }, {
+    "tStartMs": 127960,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "to a world line at pretty much any angle,\nsince there was nothing special about the"
+    } ]
+  }, {
+    "tStartMs": 131210,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "particular speed the cat happened to be going."
+    } ]
+  }, {
+    "tStartMs": 133510,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "There are also two important pieces of experimental\nevidence that we'll need to take into account:"
+    } ]
+  }, {
+    "tStartMs": 137310,
+    "dDurationMs": 4679,
+    "segs": [ {
+      "utf8": "first, if I measure the cat as moving at a\nspeed v away from me, then the cat will measure"
+    } ]
+  }, {
+    "tStartMs": 141989,
+    "dDurationMs": 4791,
+    "segs": [ {
+      "utf8": "me as moving at that same speed v away from\nit, and likewise if we're moving towards each"
+    } ]
+  }, {
+    "tStartMs": 146780,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "other."
+    } ]
+  }, {
+    "tStartMs": 147780,
+    "dDurationMs": 2821,
+    "segs": [ {
+      "utf8": "Which means we not only want to transform\nthe spacetime diagram in a way that the cat's"
+    } ]
+  }, {
+    "tStartMs": 150601,
+    "dDurationMs": 4418,
+    "segs": [ {
+      "utf8": "angled line becomes vertical, but we also\nwant the angle between our two lines to stay"
+    } ]
+  }, {
+    "tStartMs": 155019,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "the same after the transformation – that\nis, from the cat's perspective, I should be"
+    } ]
+  }, {
+    "tStartMs": 159610,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "moving."
+    } ]
+  }, {
+    "tStartMs": 160610,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "The second piece of evidence we'll come to\nlater."
+    } ]
+  }, {
+    "tStartMs": 163510,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "Let's focus just on the section of the cat's\nworldline from time t=0, where it's at x=0,"
+    } ]
+  }, {
+    "tStartMs": 169290,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "to t=4, where it's at x=2."
+    } ]
+  }, {
+    "tStartMs": 172150,
+    "dDurationMs": 3589,
+    "segs": [ {
+      "utf8": "This section is a straight line between those\ntwo points, and we want it to end up as a"
+    } ]
+  }, {
+    "tStartMs": 175739,
+    "dDurationMs": 5591,
+    "segs": [ {
+      "utf8": "straight vertical line, so we can simply leave\nthe t=0,x=0 point unchanged while moving the"
+    } ]
+  }, {
+    "tStartMs": 181330,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "t=4,x=2 point onto the time axis (where x=0)."
+    } ]
+  }, {
+    "tStartMs": 186690,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And there are really only three general possibilities\nfor how to do this: either this point gets"
+    } ]
+  }, {
+    "tStartMs": 190650,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "moved onto the time axis while keeping it\nat the same point in time, t=4, or it gets"
+    } ]
+  }, {
+    "tStartMs": 195810,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "moved onto the time axis at an earlier time\n(say, t=3), or a later time (like t=5)."
+    } ]
+  }, {
+    "tStartMs": 202510,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "There's a very nice geometric way to picture\nthese possibilities."
+    } ]
+  }, {
+    "tStartMs": 205670,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "If we think again of motion on a spacetime\ndiagram as a series of snapshots, like, at"
+    } ]
+  }, {
+    "tStartMs": 209629,
+    "dDurationMs": 6181,
+    "segs": [ {
+      "utf8": "time t=0 the cat is at position 0, at time\nt=1 the cat is at position 0.5, at time t=2"
+    } ]
+  }, {
+    "tStartMs": 215810,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "the cat is at position 1, etc, then the transformation\nwhere points move to the time axis and keep"
+    } ]
+  }, {
+    "tStartMs": 220849,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "the same time just looks like sliding each\nsnapshot over a corresponding amount; the"
+    } ]
+  }, {
+    "tStartMs": 225390,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "possibility where points move to the time\naxis at a later time looks kind of like some"
+    } ]
+  }, {
+    "tStartMs": 229540,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "sort of rotation around the origin; and the\npossibility where points move to the time"
+    } ]
+  }, {
+    "tStartMs": 233280,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "axis at an earlier time looks kind of like\nsome sort of squeezy rotation."
+    } ]
+  }, {
+    "tStartMs": 238230,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "The reason these last two involve rotating\nthe snapshots rather than just sliding is"
+    } ]
+  }, {
+    "tStartMs": 242220,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to make sure that the angle between the cat's\nworldline and my worldline stays the same"
+    } ]
+  }, {
+    "tStartMs": 246060,
+    "dDurationMs": 3819,
+    "segs": [ {
+      "utf8": "before and after the transformation – it's\na fun little geometry puzzle to understand"
+    } ]
+  }, {
+    "tStartMs": 249879,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "why."
+    } ]
+  }, {
+    "tStartMs": 250879,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Now, among these three, the option that makes\nthe most intuitive sense based on our everyday"
+    } ]
+  }, {
+    "tStartMs": 254409,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "experiences of the passage of time, is that\na given point in time should stay at the same"
+    } ]
+  }, {
+    "tStartMs": 258680,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "point in time, and just slide over to the\ntime axis."
+    } ]
+  }, {
+    "tStartMs": 261150,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "I mean, we don't noticeably experience time\ntravel every time we hop on a train or bike"
+    } ]
+  }, {
+    "tStartMs": 265680,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "or plane."
+    } ]
+  }, {
+    "tStartMs": 266910,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And this sliding does mathematically work\n– if we move things at time t=1 a half meter"
+    } ]
+  }, {
+    "tStartMs": 271630,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "to the left, and things at time t=2 one meter\nto the left, and so on, then we'll have a"
+    } ]
+  }, {
+    "tStartMs": 276520,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "description from the cat's perspective – the\ncat's not moving, and I'm moving to the left"
+    } ]
+  }, {
+    "tStartMs": 281170,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "half a meter every second."
+    } ]
+  }, {
+    "tStartMs": 282760,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "It works for other speeds, too."
+    } ]
+  }, {
+    "tStartMs": 284470,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "If we want the perspective of somebody who's\ngoing a meter per second to the right relative"
+    } ]
+  }, {
+    "tStartMs": 287750,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "to the cat, we can slide the snapshots over\neven farther, and now the cat's going a meter"
+    } ]
+  }, {
+    "tStartMs": 292190,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "per second to the left, and I'm going a meter\nand a half per second to the left."
+    } ]
+  }, {
+    "tStartMs": 296140,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "And of course we can slide back to my perspective\nfrom which the newcomer is going a meter and"
+    } ]
+  }, {
+    "tStartMs": 299830,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "a half per second to the right."
+    } ]
+  }, {
+    "tStartMs": 302080,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "This kind of sliding change of perspective\nis normally called a “shear transformation,”"
+    } ]
+  }, {
+    "tStartMs": 306810,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "but that's when both dimensions are space\ndimensions: since one of our dimensions is"
+    } ]
+  }, {
+    "tStartMs": 310280,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "time, a shear transformation represents a\nchange in the velocities of things, so in"
+    } ]
+  }, {
+    "tStartMs": 314700,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "physics it's called a “boost.”"
+    } ]
+  }, {
+    "tStartMs": 316790,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "As in, rocket boosters boosting you to a higher\nspeed."
+    } ]
+  }, {
+    "tStartMs": 319860,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "However, it turns out that boosts in the physical\nuniverse are not actually described by shear"
+    } ]
+  }, {
+    "tStartMs": 324610,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "transformations."
+    } ]
+  }, {
+    "tStartMs": 326140,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "This is where the second and most famous piece\nof experimental evidence comes in: the speed"
+    } ]
+  }, {
+    "tStartMs": 330190,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of light."
+    } ]
+  }, {
+    "tStartMs": 331190,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "As you've probably heard, starting in the\nlate 1800s, physicists built up mountains"
+    } ]
+  }, {
+    "tStartMs": 335350,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "of experimental and theoretical evidence that\nthe speed of light in a vacuum is always the"
+    } ]
+  }, {
+    "tStartMs": 339740,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "same, even if you measure it from a moving\nperspective."
+    } ]
+  }, {
+    "tStartMs": 342680,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "This is, of course, entirely unintuitive from\nour everyday experiences with velocities,"
+    } ]
+  }, {
+    "tStartMs": 347110,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "where if you throw a ball from a standstill\nand then from a moving vehicle, the ball thrown"
+    } ]
+  }, {
+    "tStartMs": 351240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "from the vehicle will be moving faster relative\nto the ground."
+    } ]
+  }, {
+    "tStartMs": 354600,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "And yet, experimental results show that light\ndoes not behave like everyday objects: shine"
+    } ]
+  }, {
+    "tStartMs": 359470,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "light from a standstill, or from a moving\nvehicle, and its measured speed relative to"
+    } ]
+  }, {
+    "tStartMs": 363430,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "the ground will be the same."
+    } ]
+  }, {
+    "tStartMs": 366050,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Shear transformations simply can't accomodate\nthis feature of light's behavior: they change"
+    } ]
+  }, {
+    "tStartMs": 370560,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "all velocities equally by sliding each snapshot\nan amount proportional to its time."
+    } ]
+  }, {
+    "tStartMs": 375320,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "No velocity remains unchanged – if you draw\nthe worldline of a light ray and then change"
+    } ]
+  }, {
+    "tStartMs": 379750,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "to a moving perspective using a shear transformation,\nthe speed of that light ray will change, which"
+    } ]
+  }, {
+    "tStartMs": 384380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "is wrong."
+    } ]
+  }, {
+    "tStartMs": 385380,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Luckily, one of the other two options for\nboosting to a moving perspective can accomodate"
+    } ]
+  }, {
+    "tStartMs": 389410,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "a constant speed of light: remember the transformation\nwhere the snapshots do a kind of squeeze rotation,"
+    } ]
+  }, {
+    "tStartMs": 394930,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and points move to the time axis at earlier\ntimes?"
+    } ]
+  }, {
+    "tStartMs": 397810,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "This kind of transformation can amazingly\nleave one speed unchanged, even while it changes"
+    } ]
+  }, {
+    "tStartMs": 402970,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "all other speeds."
+    } ]
+  }, {
+    "tStartMs": 404980,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "More amazingly, the unchanged speed is left\nunchanged in all directions."
+    } ]
+  }, {
+    "tStartMs": 410080,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Let's do an example."
+    } ]
+  }, {
+    "tStartMs": 411230,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Here's a set of snapshots from my perspective\nwith a slow-moving sheep and two fast-moving"
+    } ]
+  }, {
+    "tStartMs": 415990,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "cats, and let's suppose that we have experimental\nevidence that cats always move at the same"
+    } ]
+  }, {
+    "tStartMs": 419910,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "speed regardless of perspective."
+    } ]
+  }, {
+    "tStartMs": 421910,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "If we want to describe this situation from\nthe perspective of the sheep, we can't simply"
+    } ]
+  }, {
+    "tStartMs": 425680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "slide the snapshots over so the sheep isn't\nmoving and its worldline coincides with the"
+    } ]
+  }, {
+    "tStartMs": 429760,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "time axis, since that would change the speed\nof the cats."
+    } ]
+  }, {
+    "tStartMs": 432750,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "But, if we slide and rotate and stretch the\nsnapshots like this, then look – we've transformed"
+    } ]
+  }, {
+    "tStartMs": 437860,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the diagram to both describe things from the\nsheep's perspective and keep the cats moving"
+    } ]
+  }, {
+    "tStartMs": 442100,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "at the same speed they were before."
+    } ]
+  }, {
+    "tStartMs": 443960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "You might note that the various cats appear\nto be spaced out differently along their worldlines,"
+    } ]
+  }, {
+    "tStartMs": 448200,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "but that just means that the constant-time\nsnapshots from my perspective aren't constant-time"
+    } ]
+  }, {
+    "tStartMs": 452430,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "snapshots from the sheep's perspective."
+    } ]
+  }, {
+    "tStartMs": 454400,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "The important thing is that the angle of the\ncats' worldlines – which represents their"
+    } ]
+  }, {
+    "tStartMs": 458430,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "speed – has remained unchanged."
+    } ]
+  }, {
+    "tStartMs": 460940,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "It's kind of amazing to me that this works\nat all; that it's mathematically and physically"
+    } ]
+  }, {
+    "tStartMs": 464750,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "possible for all speeds except one to change!"
+    } ]
+  }, {
+    "tStartMs": 468220,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "But it is possible with these squeeze rotationy\nthings, and they're the answer to our question"
+    } ]
+  }, {
+    "tStartMs": 472380,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "of how to describe motion from a moving perspective."
+    } ]
+  }, {
+    "tStartMs": 475400,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Well, not by keeping the speed of cats constant,\nbut by keeping the speed of light constant:"
+    } ]
+  }, {
+    "tStartMs": 480080,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "by doing squeeze rotations so that a moving\nperspective's angled worldline becomes vertical"
+    } ]
+  }, {
+    "tStartMs": 485160,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "without changing the speed of light – that\nis, without changing the slope of the worldlines"
+    } ]
+  }, {
+    "tStartMs": 489260,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "for light rays."
+    } ]
+  }, {
+    "tStartMs": 490750,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "These squeeze rotationy things are called\nLorentz Transformations, named after one of"
+    } ]
+  }, {
+    "tStartMs": 495220,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "the first people to derive the correct mathematical\nexpression for them – it looks kind of like"
+    } ]
+  }, {
+    "tStartMs": 499210,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "the equation for rotations that we saw in\nthe last video, and I'll post a followup video"
+    } ]
+  }, {
+    "tStartMs": 503010,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "showing how to derive this using just a few\nsimple assumptions and experimental facts."
+    } ]
+  }, {
+    "tStartMs": 506940,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Lorentz Transformations are at the heart of\nspecial relativity – they're the thing that"
+    } ]
+  }, {
+    "tStartMs": 510930,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Lorentz and Einstein and Minkowski and others\nfigured out was the correct description of"
+    } ]
+  }, {
+    "tStartMs": 514570,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "how motion looks from moving perspectives\nin our universe, and they'll be the foundation"
+    } ]
+  }, {
+    "tStartMs": 518529,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of the rest of this series, too."
+    } ]
+  }, {
+    "tStartMs": 519529,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Now, as we've seen, Lorentz transformations\nlook different depending on what speed you're"
+    } ]
+  }, {
+    "tStartMs": 520529,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "trying to keep constant, or how you've scaled\nyour axes."
+    } ]
+  }, {
+    "tStartMs": 521529,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "Normally, physicists draw their spacetime\ndiagram tickmarks such that if every vertical"
+    } ]
+  }, {
+    "tStartMs": 523450,
+    "dDurationMs": 7771,
+    "segs": [ {
+      "utf8": "tickmark represents one second, a horizontal\ntickmark represents 299,792,458 meters, which"
+    } ]
+  }, {
+    "tStartMs": 531221,
+    "dDurationMs": 6979,
+    "segs": [ {
+      "utf8": "means that the speed of light, which is 299,792,458\nmeters per second, is drawn as a 45° line"
+    } ]
+  }, {
+    "tStartMs": 538200,
+    "dDurationMs": 4179,
+    "segs": [ {
+      "utf8": "– to the right for right-moving light, and\nto the left for left-moving light."
+    } ]
+  }, {
+    "tStartMs": 542379,
+    "dDurationMs": 4141,
+    "segs": [ {
+      "utf8": "With this scaling, a Lorentz Transformation\nthat leaves the speed of light constant simply"
+    } ]
+  }, {
+    "tStartMs": 546520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "consists of squeezing everything along one\n45° line and stretching along the other in"
+    } ]
+  }, {
+    "tStartMs": 551480,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "a particular, proportional way."
+    } ]
+  }, {
+    "tStartMs": 553279,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "You can see immediately how this changes the\nangles of all of the other worldlines, that"
+    } ]
+  }, {
+    "tStartMs": 557269,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "is, changes how we perceive their speeds,\nand yet doesn't change any of the light rays."
+    } ]
+  }, {
+    "tStartMs": 562269,
+    "dDurationMs": 4461,
+    "segs": [ {
+      "utf8": "And it turns out that it's possible to actually\nbuild a mechanical device that does Lorentz"
+    } ]
+  }, {
+    "tStartMs": 566730,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "Transformations for you: here it is!"
+    } ]
+  }, {
+    "tStartMs": 567899,
+    "dDurationMs": 4031,
+    "segs": [ {
+      "utf8": "Just like how a globe has the structure of\nrotations built into it in a fundamental way,"
+    } ]
+  }, {
+    "tStartMs": 571930,
+    "dDurationMs": 3529,
+    "segs": [ {
+      "utf8": "and you can simply turn the globe to see how\nrotations work, rather than doing a lot of"
+    } ]
+  }, {
+    "tStartMs": 575459,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "complicated math, this spacetime globe has\nLorentz Transformations built in: it does"
+    } ]
+  }, {
+    "tStartMs": 580519,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "the math of special relativity for you, allowing\nyou to focus on understanding the physics"
+    } ]
+  }, {
+    "tStartMs": 585360,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "of motion from different perspectives!"
+    } ]
+  }, {
+    "tStartMs": 587240,
+    "dDurationMs": 4409,
+    "segs": [ {
+      "utf8": "Here's a quick example: from my perspective,\nI'm always at the same position as time passes,"
+    } ]
+  }, {
+    "tStartMs": 591649,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "while the cat is moving away from me to the\nright at a third the speed of light, and the"
+    } ]
+  }, {
+    "tStartMs": 595530,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "light rays from my lightbulb are moving out\nto the right and left."
+    } ]
+  }, {
+    "tStartMs": 600060,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Using the time globe, I can do a Lorentz transformation\nto boost into the cat's perspective."
+    } ]
+  }, {
+    "tStartMs": 604820,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "And from the cat's perspective, the cat – naturally\n– stays at the same position as time passes,"
+    } ]
+  }, {
+    "tStartMs": 610800,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": "while the cat views me as moving away from\nit at a third the speed of light to the left,"
+    } ]
+  }, {
+    "tStartMs": 614939,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "and the speeds of the light rays from my lightbulb\nare still the same, still at 45° angles."
+    } ]
+  }, {
+    "tStartMs": 618829,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "I just love how tangible and hands-on this\nis – normally when people are first introduced"
+    } ]
+  }, {
+    "tStartMs": 624509,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "to special relativity and how motion looks\nfrom different perspectives, it's done with"
+    } ]
+  }, {
+    "tStartMs": 627970,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "a bunch of messy, incomplete, algebraic equations\n– but you don't need the equations to understand"
+    } ]
+  }, {
+    "tStartMs": 633060,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "the ideas of special relativity and how motion\nlooks from different perspectives."
+    } ]
+  }, {
+    "tStartMs": 637160,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "You just need an understanding of spacetime\ndiagrams, and a time globe."
+    } ]
+  }, {
+    "tStartMs": 641259,
+    "dDurationMs": 3651,
+    "segs": [ {
+      "utf8": "And so in the rest of this series, I'm going\nto be using the time globe extensively to"
+    } ]
+  }, {
+    "tStartMs": 644910,
+    "dDurationMs": 3989,
+    "segs": [ {
+      "utf8": "dive into all of the normally confusing things\nyou've heard about in Special relativity:"
+    } ]
+  }, {
+    "tStartMs": 648899,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "time dilation, length contraction, the twins\nparadox, relativity of simultaneity, why you"
+    } ]
+  }, {
+    "tStartMs": 653439,
+    "dDurationMs": 2051,
+    "segs": [ {
+      "utf8": "can't break the speed of light, and so on."
+    } ]
+  }, {
+    "tStartMs": 655490,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I have to say a huge thank you to my friend\nMark Rober for helping actually make the time"
+    } ]
+  }, {
+    "tStartMs": 659970,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "globe a reality (you may be familiar with\nhis youtube channel where he does incredible"
+    } ]
+  }, {
+    "tStartMs": 663630,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "feats of engineering, like this dartboard\nthat moves so you always hit the bullseye)."
+    } ]
+  }, {
+    "tStartMs": 667660,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "He devoted a huge amount of time, effort,\nand engineering expertise to turn my crazy"
+    } ]
+  }, {
+    "tStartMs": 671529,
+    "dDurationMs": 6031,
+    "segs": [ {
+      "utf8": "idea into this beautiful, precision, hands-on\nrepresentation of special relativity and I'm"
+    } ]
+  }, {
+    "tStartMs": 677560,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "supremely indebted to him – this series\nwouldn't be possible otherwise."
+    } ]
+  }, {
+    "tStartMs": 681970,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And if you're eager for more details, I'm\nplanning another whole video about the time"
+    } ]
+  }, {
+    "tStartMs": 686930,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "globe itself."
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "In the meanwhile, to get more hands-on with\nthe math of special relativity, or economics,"
+    } ]
+  }, {
+    "tStartMs": 692839,
+    "dDurationMs": 4711,
+    "segs": [ {
+      "utf8": "or machine learning, I highly recommend Brilliant.org,\nthis video's sponsor."
+    } ]
+  }, {
+    "tStartMs": 697550,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "In conjunction with my video series, Brilliant\nhas rolled out their own course on special"
+    } ]
+  }, {
+    "tStartMs": 701949,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "relativity with their own unique illustrative\nscenarios – like relativistic laser tag"
+    } ]
+  }, {
+    "tStartMs": 706749,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "to understand lorentz transformations."
+    } ]
+  }, {
+    "tStartMs": 708959,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "If you want to understand a mathematical topic\ndeeply, there's really nothing better than"
+    } ]
+  }, {
+    "tStartMs": 712689,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "thinking through the ideas and solving problems\nyourself."
+    } ]
+  }, {
+    "tStartMs": 715269,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "And Brilliant helps you do just that."
+    } ]
+  }, {
+    "tStartMs": 717350,
+    "dDurationMs": 4669,
+    "segs": [ {
+      "utf8": "Once you're ready to go in-depth into special\nrelativity (or perhaps linear algebra or group"
+    } ]
+  }, {
+    "tStartMs": 722019,
+    "dDurationMs": 4621,
+    "segs": [ {
+      "utf8": "theory, which are both also relevant for relativity),\nyou can get 20% off by going to Brilliant.org/minutephysics."
+    } ]
+  }, {
+    "tStartMs": 726640,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Again, that’s Brilliant.org/minutephysics\nwhich gets you 20% off premium access to all"
+    } ]
+  }, {
+    "tStartMs": 732480,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "of Brilliant's courses and puzzles, and lets\nBrilliant know you came from here."
+    } ]
+  } ]
+}

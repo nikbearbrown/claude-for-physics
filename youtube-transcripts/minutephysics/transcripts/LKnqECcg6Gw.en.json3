@@ -1,0 +1,379 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1359,
+    "dDurationMs": 4631,
+    "segs": [ {
+      "utf8": "If you put a colorful image into photoshop\nor instagram and blur it, you’ll see a weird,"
+    } ]
+  }, {
+    "tStartMs": 5990,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "dark boundary between adjacent bright colors."
+    } ]
+  }, {
+    "tStartMs": 8380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yuk!"
+    } ]
+  }, {
+    "tStartMs": 9380,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "In the real world, out of focus colors blend\nsmoothly, going from red to yellow to green"
+    } ]
+  }, {
+    "tStartMs": 14110,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "– not red to brown to green!"
+    } ]
+  }, {
+    "tStartMs": 16870,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "This color blending problem isn’t limited\nto digital photo blurring, either – pretty"
+    } ]
+  }, {
+    "tStartMs": 20860,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "much any time a computer blurs an image or\ntries to use transparent edges, you’ll see"
+    } ]
+  }, {
+    "tStartMs": 25360,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "the same hideous sludge."
+    } ]
+  }, {
+    "tStartMs": 26850,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "There’s a very simple explanation for this\nugliness – and a simple way to fix it."
+    } ]
+  }, {
+    "tStartMs": 31710,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "It all starts with how we perceive brightness."
+    } ]
+  }, {
+    "tStartMs": 34610,
+    "dDurationMs": 4581,
+    "segs": [ {
+      "utf8": "Human vision, like our hearing, works on a\nrelative, roughly logarithmic scale: this"
+    } ]
+  }, {
+    "tStartMs": 39191,
+    "dDurationMs": 4259,
+    "segs": [ {
+      "utf8": "means that flipping from one light to two\nchanges the percieved brightness a TON more"
+    } ]
+  }, {
+    "tStartMs": 43450,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "than going from a hundred and one to a hundred\nand two, despite adding the same physical"
+    } ]
+  }, {
+    "tStartMs": 47500,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "amount of light."
+    } ]
+  }, {
+    "tStartMs": 48660,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Our eyes and brains are simply better at detecting\nsmall differences in the absolute brightness"
+    } ]
+  }, {
+    "tStartMs": 52340,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "of dark scenes, and bad at detecting the same\ndifferences in bright scenes."
+    } ]
+  }, {
+    "tStartMs": 57110,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Computers and digital image sensors, on the\nother hand, detect brightness purely based"
+    } ]
+  }, {
+    "tStartMs": 60850,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "on the number of photons hitting a photodetector\n– so additional photons register the same"
+    } ]
+  }, {
+    "tStartMs": 65250,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "increase in brightness regardless of the surrounding\nscene."
+    } ]
+  }, {
+    "tStartMs": 68410,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "When a digital image is stored, the computer\nrecords a brightness value for each colors"
+    } ]
+  }, {
+    "tStartMs": 72240,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "– red, green and blue – at each point\nof the image."
+    } ]
+  }, {
+    "tStartMs": 74710,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Typically, zero represents zero brightness\nand one represents 100 percent brightness."
+    } ]
+  }, {
+    "tStartMs": 79990,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So 0.5 is half as bright as 1, right?"
+    } ]
+  }, {
+    "tStartMs": 83110,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "NOPE."
+    } ]
+  }, {
+    "tStartMs": 84110,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "This color might LOOK like it’s halfway\nbetween black and white, but that’s because"
+    } ]
+  }, {
+    "tStartMs": 86920,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "of our logarithmic vision – in terms of\nabsolute physical brightness, it’s only"
+    } ]
+  }, {
+    "tStartMs": 90820,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "one fifth as many photons as white."
+    } ]
+  }, {
+    "tStartMs": 93180,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "Even more crazy, an image value of 0.25 has\njust one twentieth the photons of white!"
+    } ]
+  }, {
+    "tStartMs": 98810,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Digital imaging has a good reason for being\ndesigned in this darker-than-the-numbers-suggest"
+    } ]
+  }, {
+    "tStartMs": 102820,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "way: remember, human vision is better at detecting\nsmall differences in the brightness of dark"
+    } ]
+  }, {
+    "tStartMs": 107520,
+    "dDurationMs": 4389,
+    "segs": [ {
+      "utf8": "scenes, which software engineers took advantage\nof as a way of saving disk space in the early"
+    } ]
+  }, {
+    "tStartMs": 111909,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "days of digital imaging."
+    } ]
+  }, {
+    "tStartMs": 113640,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "The trick is simple: when a digital camera\ncaptures an image, instead of storing the"
+    } ]
+  }, {
+    "tStartMs": 117900,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "brightness values it gives, store their square\nroots – this samples the gradations of dark"
+    } ]
+  }, {
+    "tStartMs": 122270,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "colors with more data points and bright colors\nwith fewer data points, roughly imitating"
+    } ]
+  }, {
+    "tStartMs": 126729,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "the characteristics of human vision."
+    } ]
+  }, {
+    "tStartMs": 128789,
+    "dDurationMs": 3571,
+    "segs": [ {
+      "utf8": "When you need to display the image on a monitor,\njust square the brightness back to present"
+    } ]
+  }, {
+    "tStartMs": 132360,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "the colors properly."
+    } ]
+  }, {
+    "tStartMs": 133620,
+    "dDurationMs": 3449,
+    "segs": [ {
+      "utf8": "This is all well and good – until you decide\nto modify the image file."
+    } ]
+  }, {
+    "tStartMs": 137069,
+    "dDurationMs": 4091,
+    "segs": [ {
+      "utf8": "Blurring, for example, is achieved by replacing\neach pixel with an average of the colors of"
+    } ]
+  }, {
+    "tStartMs": 141160,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "nearby pixels."
+    } ]
+  }, {
+    "tStartMs": 142620,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Simple enough."
+    } ]
+  }, {
+    "tStartMs": 143620,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "But depending on whether you take the average\nbefore or after the square-rooting gives different"
+    } ]
+  }, {
+    "tStartMs": 148270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "results!!"
+    } ]
+  }, {
+    "tStartMs": 149270,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "And unfortunately, the vast majority of computer\nsoftware does this incorrectly."
+    } ]
+  }, {
+    "tStartMs": 153290,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Like, if you want to blur a red and green\nboundary, you’d expect the middle to be"
+    } ]
+  }, {
+    "tStartMs": 156970,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "half red and half green."
+    } ]
+  }, {
+    "tStartMs": 159110,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "And most computers attempt that by lazily\naveraging the brightness values of the image"
+    } ]
+  }, {
+    "tStartMs": 162890,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "FILE, forgetting that the actual brightness\nvalues were square-rooted by the camera for"
+    } ]
+  }, {
+    "tStartMs": 167209,
+    "dDurationMs": 1151,
+    "segs": [ {
+      "utf8": "better data storage!"
+    } ]
+  }, {
+    "tStartMs": 168360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So the average ends up being too dark, precisely\nbecause an average of two square roots is"
+    } ]
+  }, {
+    "tStartMs": 173160,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "always less than the square root of an average."
+    } ]
+  }, {
+    "tStartMs": 174860,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "To correctly blend the red and green and avoid\nthe ugly dark sludge, the computer SHOULD"
+    } ]
+  }, {
+    "tStartMs": 179370,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "have first squared each of the brightnesses\nto undo the camera’s square rooting, then"
+    } ]
+  }, {
+    "tStartMs": 183900,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "averaged them, and then squared-rooted it\nback – look how much nicer it is!!"
+    } ]
+  }, {
+    "tStartMs": 188960,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "Unfortunately, the vast majority of software,\nranging from iOS to instagram to the standard"
+    } ]
+  }, {
+    "tStartMs": 194150,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "settings in Adobe Photoshop, takes the lazy,\nugly, and wrong approach to image brightness."
+    } ]
+  }, {
+    "tStartMs": 199590,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "And while there are advanced settings in photoshop\nand other professional graphics software that"
+    } ]
+  }, {
+    "tStartMs": 203680,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "let you use the mathematically and physically\ncorrect blending, shouldn’t beauty just"
+    } ]
+  }, {
+    "tStartMs": 207530,
+    "dDurationMs": 18170,
+    "segs": [ {
+      "utf8": "be "
+    } ]
+  }, {
+    "tStartMs": 225700,
+    "dDurationMs": 22090,
+    "segs": [ {
+      "utf8": "the default?"
+    } ]
+  } ]
+}

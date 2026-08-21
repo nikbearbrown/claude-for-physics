@@ -1,0 +1,199 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1140,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Magnets can be created by running currents\nthrough wires, finding a suitable material"
+    } ]
+  }, {
+    "tStartMs": 5660,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "that naturally has all the magnetic fields\nof its atoms aligned, or forcing the magnetic"
+    } ]
+  }, {
+    "tStartMs": 9910,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "fields of atoms to align."
+    } ]
+  }, {
+    "tStartMs": 11040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But there's one more kind of magnetism that\nall materials exhibit, even those whose constituent"
+    } ]
+  }, {
+    "tStartMs": 15920,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "atoms aren't magnetic - though it's so weak\nthat the other kinds of magnetism often overwhelm"
+    } ]
+  }, {
+    "tStartMs": 20460,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it."
+    } ]
+  }, {
+    "tStartMs": 21460,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "Basically, an external magnetic field causes\nthe electrons around atoms in a material to"
+    } ]
+  }, {
+    "tStartMs": 25429,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "change course, and their new motion generates\nan opposing magnetic field."
+    } ]
+  }, {
+    "tStartMs": 29560,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "This field is pretty weak, but it does cause\nthe material to be repulsed from the magnet"
+    } ]
+  }, {
+    "tStartMs": 33490,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "a little bit - for example, if you hang a\nwooden toothpick in a magnetic field, the"
+    } ]
+  }, {
+    "tStartMs": 37370,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "ends will repel the field and it will end\nup aligning across the magnetic field."
+    } ]
+  }, {
+    "tStartMs": 41310,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "This is a convenient way to remember the name\nof this kind of magnetism - diamagnetism - since"
+    } ]
+  }, {
+    "tStartMs": 46340,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "\"dia\" means across, like the \"diameter\" measured\nacross a circle."
+    } ]
+  }, {
+    "tStartMs": 50100,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": "Diamagnetic materials will repel a magnet,\nand a diamagnetic \"compass\" will point across"
+    } ]
+  }, {
+    "tStartMs": 54239,
+    "dDurationMs": 3491,
+    "segs": [ {
+      "utf8": "the magnetic field - that is, it will orient\neast/west."
+    } ]
+  }, {
+    "tStartMs": 57730,
+    "dDurationMs": 5009,
+    "segs": [ {
+      "utf8": "As weak as it is, diamagnetism is pretty darn\nawesome because it's a repulsive effect: any"
+    } ]
+  }, {
+    "tStartMs": 62739,
+    "dDurationMs": 3821,
+    "segs": [ {
+      "utf8": "diamagnetic material will levitate in a strong\nenough magnetic field!"
+    } ]
+  }, {
+    "tStartMs": 66560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Like this chunk of graphene, or, since water\nis diamagnetic, this frog."
+    } ]
+  }, {
+    "tStartMs": 70680,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "In principle, humans could also be levitated\nthis way, though the magnetic fields required"
+    } ]
+  }, {
+    "tStartMs": 74420,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "would be enormous."
+    } ]
+  }, {
+    "tStartMs": 75920,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "There are also a lot of subtleties we've skated\nover, like the fact that nitrogen is diamagnetic"
+    } ]
+  }, {
+    "tStartMs": 80049,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "even though as an atom it has unpaired electrons\n- one might think that it *should* be at the"
+    } ]
+  }, {
+    "tStartMs": 83829,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "very least paramagnetic."
+    } ]
+  }, {
+    "tStartMs": 85790,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But nitrogen atoms bond to form N2 molecules\nwhich have full outer electron shells and"
+    } ]
+  }, {
+    "tStartMs": 90190,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "are thus only diamagnetic."
+    } ]
+  }, {
+    "tStartMs": 91930,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "On the other hand, molecular O2, as we've\nseen, still has unpaired electrons, and it's"
+    } ]
+  }, {
+    "tStartMs": 96520,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "paramagnetic."
+    } ]
+  }, {
+    "tStartMs": 97799,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "You've probably also seen how superconductors\ncan levitate in a magnetic field, which is"
+    } ]
+  }, {
+    "tStartMs": 101899,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "a kind of perfect diamagnetism - not only\ndo the currents in a superconductor create"
+    } ]
+  }, {
+    "tStartMs": 106039,
+    "dDurationMs": 4381,
+    "segs": [ {
+      "utf8": "opposing magnetic fields, they expel magnetic\nfields from the material entirely."
+    } ]
+  }, {
+    "tStartMs": 110420,
+    "dDurationMs": 16879,
+    "segs": [ {
+      "utf8": "But the root cause is very very different,\nand that's a journey for another day."
+    } ]
+  } ]
+}

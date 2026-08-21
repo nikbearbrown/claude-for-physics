@@ -1,0 +1,1147 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Thank you to Brilliant for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 2940,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The weird rules of quantum mechanics lead \nto all sorts of bizarre phenomena on tiny  "
+    } ]
+  }, {
+    "tStartMs": 7080,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "scales— particles teleporting through \nwalls or being in multiple places at  "
+    } ]
+  }, {
+    "tStartMs": 11100,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "once or simultaneously existing and not. \nBut wouldn't it be cool if we could see  "
+    } ]
+  }, {
+    "tStartMs": 16260,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "some of this magical behavior on at a human \nscale. Well today I'm going to teach you how."
+    } ]
+  }, {
+    "tStartMs": 21060,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "All you need is the second most abundant \nelement in the universe and absolute cold."
+    } ]
+  }, {
+    "tStartMs": 26100,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Or if you don't have those, the corpse \nof a dead star will do just fine."
+    } ]
+  }, {
+    "tStartMs": 35640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Perpetual motion machines are all scams. \nBut perpetual motion itself is possible.  "
+    } ]
+  }, {
+    "tStartMs": 40680,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "Sort of. If you stir a cup of tea you’ll create a \nvortex that slows down over time. But there is a  "
+    } ]
+  }, {
+    "tStartMs": 46980,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "type of fluid in which the vortex will never \nstop—at least theoretically. Even unstirred,  "
+    } ]
+  }, {
+    "tStartMs": 52620,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "it will climb the walls all by itself, and \neven leak through the microscopic channels  "
+    } ]
+  }, {
+    "tStartMs": 57600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "in the otherwise watertight porcelain. \nThe fluid in question is liquid helium  "
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "cooled to near absolute zero when it becomes an \nexotic state of matter known as a superfluid."
+    } ]
+  }, {
+    "tStartMs": 68760,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Superfluidity is the most characteristic \nbehavior of the bizarre state of matter called  "
+    } ]
+  }, {
+    "tStartMs": 74760,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "the Bose-Einstein Condensate. This is a state of \nmatter in which the weirdness of the quantum world  "
+    } ]
+  }, {
+    "tStartMs": 80820,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "invades our large-scale reality. To understand \nthis, we do need a bit of background—and that  "
+    } ]
+  }, {
+    "tStartMs": 86820,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "background is our last episode where we talked \nabout how the behavior of matter depends on how  "
+    } ]
+  }, {
+    "tStartMs": 91620,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "nature counts its particles—described in the field \nof statistical mechanics. Watching that episode  "
+    } ]
+  }, {
+    "tStartMs": 98820,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "either right now or right after this episode will \nreally help your understanding of this phenomenon.  "
+    } ]
+  }, {
+    "tStartMs": 104460,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "We’ll also be referring to this episode, but \nthat you can definitely watch afterwards."
+    } ]
+  }, {
+    "tStartMs": 111060,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "First though, let's recap just a little \nof what we learned in the last episode.  "
+    } ]
+  }, {
+    "tStartMs": 115680,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "We saw that we can understand a lot of the \nbehavior of matter by counting the number  "
+    } ]
+  }, {
+    "tStartMs": 119940,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "of different ways in which particles can be \ndivvied up into the available energy states.  "
+    } ]
+  }, {
+    "tStartMs": 125940,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Particles will tend to shuffle energy between \neach other until they have the most probable  "
+    } ]
+  }, {
+    "tStartMs": 130320,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "energy distribution. The shape of that energy \ndistribution determines the thermodynamics—which  "
+    } ]
+  }, {
+    "tStartMs": 136440,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "means, how things like temperature, \npressure, volume etc. relate to each other."
+    } ]
+  }, {
+    "tStartMs": 140580,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "We also learned that there are different types of \nparticles - bosons and fermions - which shuffle  "
+    } ]
+  }, {
+    "tStartMs": 146340,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "around their energies differently. To remind you: \nno two fermions can occupy the same quantum state,  "
+    } ]
+  }, {
+    "tStartMs": 152880,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "which means they can’t have exactly \nthe same energies. On the other hand,  "
+    } ]
+  }, {
+    "tStartMs": 156840,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "any number of bosons can occupy the same state. \nIn everyday life, this difference doesn’t  "
+    } ]
+  }, {
+    "tStartMs": 162720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "matter. Everything else being equal, a cloud of \nbosons and a cloud of fermions behave the same."
+    } ]
+  }, {
+    "tStartMs": 167880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But there are circumstances where the \ndifferences become very important. And  "
+    } ]
+  }, {
+    "tStartMs": 171960,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "that includes the worlds of the very small—the \nquantum world. But also the world of the very  "
+    } ]
+  }, {
+    "tStartMs": 177060,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "cold. There the quantum behaviors of these \ndifferent particle types are as clear as day."
+    } ]
+  }, {
+    "tStartMs": 183060,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "In our other previous episode we talked about \nthe reason for the different behavior of bosons  "
+    } ]
+  }, {
+    "tStartMs": 189060,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "and fermions—we saw how quantum spin determines \nthe symmetry of the symmetry wavefunction,  "
+    } ]
+  }, {
+    "tStartMs": 195180,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "and its this symmetry that determines whether \ntwo particles are allowed to have identical  "
+    } ]
+  }, {
+    "tStartMs": 200280,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "wavefunctions. However that episode was on the \nmathy side, and also focused on fermions. For  "
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "now I want to try to give you a more intuitive \nview - and one that lets us understand the  "
+    } ]
+  }, {
+    "tStartMs": 211440,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "behavior of bosons, which, afterall, is \nwhat we need to understand superfluids."
+    } ]
+  }, {
+    "tStartMs": 215880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "In quantum mechanics, we describe particles as \nwavefunctions—mathematical objects that encode  "
+    } ]
+  }, {
+    "tStartMs": 221040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the probability that we will observe a \ncertain position, velocity, whatever,  "
+    } ]
+  }, {
+    "tStartMs": 225840,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "if we were to try to measure it. Wavefunctions are \nwell named, because they’re wavy. For simplicity,  "
+    } ]
+  }, {
+    "tStartMs": 233520,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "let’s just look at one component of \na particle’s position wavefunction,  "
+    } ]
+  }, {
+    "tStartMs": 237000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "representing its blurry quantum location \nin space, which might look like this  "
+    } ]
+  }, {
+    "tStartMs": 242280,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "wave-packet-a sine wave that tapers off on \neither side. The height of the wavefunction  "
+    } ]
+  }, {
+    "tStartMs": 247440,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "at any point represents the probability of \nthe particle actually being in that location."
+    } ]
+  }, {
+    "tStartMs": 253440,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Now let’s think about two particles moving \ntogether. At a certain point their wavefunctions  "
+    } ]
+  }, {
+    "tStartMs": 258840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "will overlap - and what happens then depends on \nthe symmetry of the wavefunction. In this context,  "
+    } ]
+  }, {
+    "tStartMs": 264840,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "when you have a symmetric wavefunction, then \nwhen they’re in the same quantum state their  "
+    } ]
+  }, {
+    "tStartMs": 270960,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "peaks and valleys line up perfectly. A pair of \nsymmetric wavefunctions can stack, doubling the  "
+    } ]
+  }, {
+    "tStartMs": 277860,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "height of the peaks and the depth of the valleys. \nIn the case of an anti-symmetric wavefunction,  "
+    } ]
+  }, {
+    "tStartMs": 283020,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "if you try to put them in the same quantum state, \nthe peaks of one will always valley line up with  "
+    } ]
+  }, {
+    "tStartMs": 288840,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "the valleys of the other, and vice versa. In \nthat case, overlapping the wavefunctions causes  "
+    } ]
+  }, {
+    "tStartMs": 294600,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "the entire thing to cancel itself out, with the \npeaks of one negated by the valleys of the other."
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The case of the symmetric wavefunction \nall of this is straightforward enough to  "
+    } ]
+  }, {
+    "tStartMs": 304200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "interpret. The fact that they can stack \nwithout canceling each other means that  "
+    } ]
+  }, {
+    "tStartMs": 308760,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "particles of this type—bosons—can be placed in \nthe same state without breaking any physics."
+    } ]
+  }, {
+    "tStartMs": 315000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Fermions, on the other hand, with their \nantisymmetric wavefunctions, appear to cancel  "
+    } ]
+  }, {
+    "tStartMs": 319200,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "each other out. If the wavefunction encodes their \npossible positions in space, then when they cancel  "
+    } ]
+  }, {
+    "tStartMs": 325680,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "out there’s zero probability of either particle \nbeing anywhere. That doesn’t mean that pairs of  "
+    } ]
+  }, {
+    "tStartMs": 332520,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "fermions destroys each other. That would break \nseveral conservation laws—from conservation of  "
+    } ]
+  }, {
+    "tStartMs": 337500,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "energy, conservation of charge, even of quantum \ninformation. A wavefunction can’t just be deleted  "
+    } ]
+  }, {
+    "tStartMs": 343320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "from the universe. So rather than telling us that \nfermionic wavefunctions cancel each other out when  "
+    } ]
+  }, {
+    "tStartMs": 348840,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "the overlap, this canceling effect actually tells \nus that fermions can’t ever overlap perfectly.  "
+    } ]
+  }, {
+    "tStartMs": 354540,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "They can not ever occupy the same state. \nIn fact if you try to push two of the same  "
+    } ]
+  }, {
+    "tStartMs": 359760,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "type of fermion into the same state, they will\nresist with a force so powerful that, for example,  "
+    } ]
+  }, {
+    "tStartMs": 366420,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "it can help a dead star resist collapsing \ninto a black hole. But that’s another story."
+    } ]
+  }, {
+    "tStartMs": 372600,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "This way of describing the difference between \nbosons and fermions is extremely heuristic—it’s  "
+    } ]
+  }, {
+    "tStartMs": 379620,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "heavy on analogy and shouldn’t be interpreted \ntoo literally. For one thing, the part of the  "
+    } ]
+  }, {
+    "tStartMs": 384660,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "wavefunction that’s symmetric or antisymmetric \ndoesn’t look like a simple sine wave—it’s the part  "
+    } ]
+  }, {
+    "tStartMs": 389640,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "of the wavefunction associated with the rotational \nstate, not the position state. It’s connected to  "
+    } ]
+  }, {
+    "tStartMs": 394800,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "particle spin. In fact, spin defines whether \na wavefunction is symmetric or antisymmetric.  "
+    } ]
+  }, {
+    "tStartMs": 401880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "All particles with values of quantum \nspin that are an integer—so 0, 1, 2,  "
+    } ]
+  }, {
+    "tStartMs": 407640,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "etc. are symmetric and are bosons. \nThose with half-integer spin—½, 3/2,  "
+    } ]
+  }, {
+    "tStartMs": 415260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "etc—and antisymmetric fermions. For a \nmore nuanced description of all of this,  "
+    } ]
+  }, {
+    "tStartMs": 420480,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "including a lot more on this spin stuff, \ncheck the episode I mentioned earlier."
+    } ]
+  }, {
+    "tStartMs": 423660,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "But for now, let’s just take one \ncritical fact from all of this:  "
+    } ]
+  }, {
+    "tStartMs": 428280,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "bosons, with their integer spins and \nsymmetric wavefunctions can be stacked,  "
+    } ]
+  }, {
+    "tStartMs": 433020,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "fermions, with their half-integer spins \nand antisymmetric wavefunctions, cannot.  "
+    } ]
+  }, {
+    "tStartMs": 438180,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "And by the way, all of the elementary matter \nparticles—everything that makes up physical  "
+    } ]
+  }, {
+    "tStartMs": 443160,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "stuff—are fermions. And the inability for them \nto perfectly overlap is why physical stuff  "
+    } ]
+  }, {
+    "tStartMs": 448980,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "is physical in the first place—for example, \natoms have structure because electrons can’t  "
+    } ]
+  }, {
+    "tStartMs": 453780,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "all fall into the lowest atomic orbital together. \nOn the other hand, photons and other bosons can  "
+    } ]
+  }, {
+    "tStartMs": 460020,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "overlap completely and that's what makes lasers \npossible—a laser beam consists of many,  "
+    } ]
+  }, {
+    "tStartMs": 465840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "many photon wavefunctions that are perfectly \noverlapping, or in phase with each other."
+    } ]
+  }, {
+    "tStartMs": 470880,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "So what would it look like if we could turn fe\nrmions into bosons? Would it be possible to make  "
+    } ]
+  }, {
+    "tStartMs": 476700,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "an electron laser? Could we make atoms that \ncollapse into super-dense states? Actually,  "
+    } ]
+  }, {
+    "tStartMs": 482280,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "we can turn fermions into bosons, and one \npossible result is the Bose-Einstein condensate,  "
+    } ]
+  }, {
+    "tStartMs": 488400,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "and this superfluid thing that I’ve been \nteasing at for the past several minutes."
+    } ]
+  }, {
+    "tStartMs": 493260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Fermion wavefunctions have half-integer \nspin. Multiple fermion wavefunctions that  "
+    } ]
+  }, {
+    "tStartMs": 498480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "are somehow connected to each other have spins \nequal to the sum of those spins. For example,  "
+    } ]
+  }, {
+    "tStartMs": 504480,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "a proton is made of three quarks, two with +½ and \none with -½, adding those up you get a proton that  "
+    } ]
+  }, {
+    "tStartMs": 512760,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "also has a spin of a ½ so is a fermion. But what \nif we could connect just two spin-½ particles?  "
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "That would give us a to spin of 1 which is \nan integer and so it should produce a boson."
+    } ]
+  }, {
+    "tStartMs": 524400,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Or take the helium-4 atom. It has two protons, \ntwo neutrons, and two electrons - all spin-½  "
+    } ]
+  }, {
+    "tStartMs": 530460,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "particles. In this case, 3 are spin +½ and \n3 spin -½, which gives the overall atom a  "
+    } ]
+  }, {
+    "tStartMs": 536760,
+    "dDurationMs": 8700,
+    "segs": [ {
+      "utf8": "spin of 0. That’s an integer, therefore Helium-4 \nmust be a boson. Its component particles remain  "
+    } ]
+  }, {
+    "tStartMs": 545460,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "fermions and behave as fermions with respect \nto each other within the atom - they have  "
+    } ]
+  }, {
+    "tStartMs": 550680,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "different internal energy states. But the entire \nhelium-4 atom acts like a boson with respect to  "
+    } ]
+  }, {
+    "tStartMs": 557640,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "its neighboring helium-4 atoms. That doesn’t mean \nthey overlap in physical or position space—their  "
+    } ]
+  }, {
+    "tStartMs": 565260,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "internal fermions would resist that. But the atoms \nas a whole can occupy identical energy states."
+    } ]
+  }, {
+    "tStartMs": 572160,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "We really only see the effect of this at extremely \nlow temperatures. So let’s do an experiment and  "
+    } ]
+  }, {
+    "tStartMs": 578460,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "cool down some helium-4. At atmospheric pressure \nand room temperature the helium is a gas.  "
+    } ]
+  }, {
+    "tStartMs": 585180,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "At this point it wouldn’t matter what the gas \nwas—the shape of this distribution would look  "
+    } ]
+  }, {
+    "tStartMs": 591420,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "the same and only depend on the temperature. But \nas temperature drops, more and more particles  "
+    } ]
+  }, {
+    "tStartMs": 597360,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "move to lower energies. At around 5.2 K \nthe gas condenses into a regular liquid.  "
+    } ]
+  }, {
+    "tStartMs": 605160,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "But as we cool things down further, \nthings start to look different.  "
+    } ]
+  }, {
+    "tStartMs": 609420,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "If this was a gas of fermions, the inability of \nparticles to occupy the same energy levels would  "
+    } ]
+  }, {
+    "tStartMs": 615600,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "prevent all particles from falling to the lowest \nenergy states. That has its own bizarre effects,  "
+    } ]
+  }, {
+    "tStartMs": 621420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "especially at very high pressures, \nbut we’re talking about bosons here."
+    } ]
+  }, {
+    "tStartMs": 624780,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "For the boson Helium-4 atoms, there’s nothing \nstopping all particles entering the lowest  "
+    } ]
+  }, {
+    "tStartMs": 630480,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "energy state. When we hit a temperature \nof 2.17 K, close to absolute zero,  "
+    } ]
+  }, {
+    "tStartMs": 636120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "that’s exactly what happens. Rather \nthan having a distribution of energies,  "
+    } ]
+  }, {
+    "tStartMs": 640440,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "all particles have the same energy—the lowest \npossible energy. In fact they can’t have any  "
+    } ]
+  }, {
+    "tStartMs": 646560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "other energy because at this low temperature, \nthere isn’t enough energy to jump to higher  "
+    } ]
+  }, {
+    "tStartMs": 651240,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "states. But they also can’t lose energy - \nthey already have the least possible energy."
+    } ]
+  }, {
+    "tStartMs": 656220,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "In normal states of matter, when two atoms \nget close to each other they repel each other,  "
+    } ]
+  }, {
+    "tStartMs": 661740,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "exchanging energy. Typically one loses energy \nand one gains it. But when all the particles  "
+    } ]
+  }, {
+    "tStartMs": 667860,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "have the same energy then interactions that \nrequire the exchange of energy aren’t possible.  "
+    } ]
+  }, {
+    "tStartMs": 674820,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "For example, a fluid made of such particles \nloses all friction. Normally, when fluids flow,  "
+    } ]
+  }, {
+    "tStartMs": 681360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "currents or streamlines within them that have \ndifferent speeds within the fluid drag on each  "
+    } ]
+  }, {
+    "tStartMs": 687360,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "other—we call that viscous drag. That drag \nis caused by particles at the streamline  "
+    } ]
+  }, {
+    "tStartMs": 692820,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "boundaries colliding and exchanging energy, \nand it causes the flows to slow down. Such a  "
+    } ]
+  }, {
+    "tStartMs": 699240,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "fluid has viscosity—the higher the viscosity, the \nmore drag, and the less easily the fluid flows.  "
+    } ]
+  }, {
+    "tStartMs": 706200,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "But the streamlines in very cold helium-4 don’t \nexchange energy with each other—they slide past  "
+    } ]
+  }, {
+    "tStartMs": 712320,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "each other without friction, and so the fluid \nhas zero viscosity. It is, in fact, a superfluid."
+    } ]
+  }, {
+    "tStartMs": 719040,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "And now finally we get back to stirring \nour cup of tea. Particle interactions with  "
+    } ]
+  }, {
+    "tStartMs": 724920,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "the walls and with each other cause the \ncircular currents to slow down and stop.  "
+    } ]
+  }, {
+    "tStartMs": 730560,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "But if your tea is superfluid helium-4, then \nthese interactions can’t happen. Stir the cup  "
+    } ]
+  }, {
+    "tStartMs": 736620,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and the vortex should last forever. In reality, \nthis would also require the walls of the cup to  "
+    } ]
+  }, {
+    "tStartMs": 742140,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "be perfectly smooth. According to this \ncool simulation, when superfluid flows  "
+    } ]
+  }, {
+    "tStartMs": 747720,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "around the microscopic bumps of a container \nwall it forms tiny perfectly-flowing vortices  "
+    } ]
+  }, {
+    "tStartMs": 753780,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "that do actually slow down the overall flow, \nbut in a different way to a regular fluid."
+    } ]
+  }, {
+    "tStartMs": 759180,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "By the way, saying that all particles \nin a superfluid have the same energy is  "
+    } ]
+  }, {
+    "tStartMs": 763440,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "a bit simplistic. Energy states can vary \na bit across the fluid due to different  "
+    } ]
+  }, {
+    "tStartMs": 768060,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "speeds of its streams, different \nheights in the gravitational field,  "
+    } ]
+  }, {
+    "tStartMs": 771540,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "etc. But the point is that particles near \neach other are extremely close to having  "
+    } ]
+  }, {
+    "tStartMs": 777120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the same energy state and so are restricted \nin how they can interact with each other."
+    } ]
+  }, {
+    "tStartMs": 781920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "There are a few other weird superfluid \nbehaviors. All fluids will creep up  "
+    } ]
+  }, {
+    "tStartMs": 786960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the walls of their containers a little \nbit due to the mild attraction between  "
+    } ]
+  }, {
+    "tStartMs": 790560,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the atoms of the fluid and container. But in \na superfluid, the frictionlessness allows the  "
+    } ]
+  }, {
+    "tStartMs": 796680,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "fluid to literally flow up the wall, at least once \nthat wall is coated with enough fluid to itself be  "
+    } ]
+  }, {
+    "tStartMs": 803100,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "frictionless. Then when the flow drops over \nthe other side, it acts like a siphon, and can  "
+    } ]
+  }, {
+    "tStartMs": 808680,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "drain your container of your precious helium-4. \nSuperfluids will also flow through microscopic  "
+    } ]
+  }, {
+    "tStartMs": 815160,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "fissures and pores in a container, causing it to \nappear to leak through apparently solid material."
+    } ]
+  }, {
+    "tStartMs": 821100,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "This Houdini-like nature of helium-4 reminds me of \nquantum tunneling—how quantum objects can teleport  "
+    } ]
+  }, {
+    "tStartMs": 828780,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "short distances through solid barriers. But \nthis superfluid thing is NOT quantum tunneling,  "
+    } ]
+  }, {
+    "tStartMs": 835020,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "however it is a true quantum effect, visible \non a macroscopic scale. All of the behaviors  "
+    } ]
+  }, {
+    "tStartMs": 842040,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "of superfluids are due to the quantized \nnature of the energy levels in the fluid."
+    } ]
+  }, {
+    "tStartMs": 847620,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "Superfluids aren’t just a novelty found in physics \nlabs. They are believed to exist for example  "
+    } ]
+  }, {
+    "tStartMs": 854220,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "inside neutrons stars, where fermionic neutrons \nteam up to act like bosons, and form these  "
+    } ]
+  }, {
+    "tStartMs": 861660,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "whirlpools trom the surface of the star to its \ncore that hold insane amounts of energy. They last  "
+    } ]
+  }, {
+    "tStartMs": 867840,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "for a long time because-superfluid-but when they \nfinally do break they are believed to cause the  "
+    } ]
+  }, {
+    "tStartMs": 873780,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "neutron starquakes that we see in the glitches of \npulsar signals. And superfluidity is basically  "
+    } ]
+  }, {
+    "tStartMs": 881460,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "what electrons are doing inside the otherwise \nsolid crystal lattices of a superconductor,  "
+    } ]
+  }, {
+    "tStartMs": 886680,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "as we showed you in our episode on quasiparticles. \nIn that case, the electrons connect with each  "
+    } ]
+  }, {
+    "tStartMs": 892800,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "other over large distances to form Cooper pairs, \nso that these fermion pairs also act as bosons,  "
+    } ]
+  }, {
+    "tStartMs": 899340,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "leading to frictionless flow of the electrons. \nThis manifests as superconductivity."
+    } ]
+  }, {
+    "tStartMs": 904440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "At a more fundamental level, the fermionic quarks \ncan join in pairs to become bosons, which allows  "
+    } ]
+  }, {
+    "tStartMs": 910680,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "them to serve as strong-force-carrying mesons. \nThe bosonic nature of the Higgs field allow its  "
+    } ]
+  }, {
+    "tStartMs": 918240,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "particle to form a slightly different kind of \ncondensate—one which fills the entire universe,  "
+    } ]
+  }, {
+    "tStartMs": 922620,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "and which is responsible for giving elementary \nparticles their mass. Now I feel like we’ve  "
+    } ]
+  }, {
+    "tStartMs": 928020,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "pointed you to earlier episodes even more than \nwe usual do in this episode. But, yeah, we have  "
+    } ]
+  }, {
+    "tStartMs": 934440,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "one on the Higgs stuff also. But by now I think \nwe’ve all realised that, just like with bosons,  "
+    } ]
+  }, {
+    "tStartMs": 940260,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "there is no limit to the number of overlapping \nreferences to past episodes of Space Time."
+    } ]
+  }, {
+    "tStartMs": 947880,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Thank you to Brilliant for supporting \nPBS. Brilliant is an online learning  "
+    } ]
+  }, {
+    "tStartMs": 952080,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "platform for STEM with hands-on, interactive \nlessons. Brilliant is for curious learners,  "
+    } ]
+  }, {
+    "tStartMs": 957060,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "both young and old, professional and \ninexperienced. Brilliant courses teach  "
+    } ]
+  }, {
+    "tStartMs": 961740,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "you how to think and solve problems \nwith interactive lessons in STEM."
+    } ]
+  }, {
+    "tStartMs": 966000,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "And if you really want to deepen your knowledge, \nMultivariate Calculus is a fundamental tool  "
+    } ]
+  }, {
+    "tStartMs": 972480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "that helps solve important problems in machine \nlearning, neural networks, engineering, quantum  "
+    } ]
+  }, {
+    "tStartMs": 977880,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "computing, and astrophysics. In Brilliant’s \nMultivariate course, you’ll begin by diving  "
+    } ]
+  }, {
+    "tStartMs": 984660,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "deeply into vectors and coordinates in 3D. And \nas you master that you’ll move onto mapping the  "
+    } ]
+  }, {
+    "tStartMs": 991260,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "bottom of a lake to understand multivariable \nfunctions graphing and contour mapping."
+    } ]
+  }, {
+    "tStartMs": 995520,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "You'll be guided through the math and develop \nintuition about how Multivariate Calculus works  "
+    } ]
+  }, {
+    "tStartMs": 1001100,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "thanks to expertly designed problems, animations, \nand interactive three-dimensional visualizations."
+    } ]
+  }, {
+    "tStartMs": 1007100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "To learn more about Brilliant, \ngo to brilliant.org/spacetime"
+    } ]
+  }, {
+    "tStartMs": 1012620,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Before we go, we’d like you to know we’re \nhaving a problem with the YouTube algorithm.  "
+    } ]
+  }, {
+    "tStartMs": 1017720,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "After our comment response live stream a few \nweeks ago, our subsequent episodes haven’t  "
+    } ]
+  }, {
+    "tStartMs": 1023900,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "been reaching nearly as many members of the \nSpace Time community and we need your help!  "
+    } ]
+  }, {
+    "tStartMs": 1029960,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "The two best ways to help are 1. click on the bell \nicon and select “ALL” notifications not “Personal”  "
+    } ]
+  }, {
+    "tStartMs": 1037280,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "notifications. By doing this you can make sure \nyou’re always getting notified of every new  "
+    } ]
+  }, {
+    "tStartMs": 1042620,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "episode of Space Time on your home page. And 2. \nJoin the early gang and watch the episode as soon  "
+    } ]
+  }, {
+    "tStartMs": 1050120,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "as you can when you see it. Early viewership is \none of the best ways to keep the algorithm happy"
+    } ]
+  }, {
+    "tStartMs": 1056360,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "which helps spread the episode to \nthe rest of the Space Time community.  "
+    } ]
+  }, {
+    "tStartMs": 1060440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "We love the community we’ve built and want to \nmake sure as many people as possible see each  "
+    } ]
+  }, {
+    "tStartMs": 1066440,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "episodes and can participate in all the \ngreat discussions in the comment section.  "
+    } ]
+  }, {
+    "tStartMs": 1071300,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Thank you for your continued support!"
+    } ]
+  } ]
+}

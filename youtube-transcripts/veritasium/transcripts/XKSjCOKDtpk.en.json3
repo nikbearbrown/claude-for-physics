@@ -1,0 +1,5545 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- Imagine you are in empty space"
+    } ]
+  }, {
+    "tStartMs": 2580,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and you fire off a stream of electrons."
+    } ]
+  }, {
+    "tStartMs": 5160,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Well then, according to\nmost physics textbooks,"
+    } ]
+  }, {
+    "tStartMs": 7230,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "the only way to change"
+    } ]
+  }, {
+    "tStartMs": 8310,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "how those electrons behave is by applying"
+    } ]
+  }, {
+    "tStartMs": 10680,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "an electric or magnetic or\ngravitational force to them."
+    } ]
+  }, {
+    "tStartMs": 14310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "But most physics textbooks are wrong."
+    } ]
+  }, {
+    "tStartMs": 17370,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "In the 1950s,"
+    } ]
+  }, {
+    "tStartMs": 18480,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "two physicists came up\nwith a clever experiment."
+    } ]
+  }, {
+    "tStartMs": 21030,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "You could have electrons\ntravel through a region"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "with no electric or\nmagnetic fields whatsoever,"
+    } ]
+  }, {
+    "tStartMs": 26700,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and yet by flipping a switch,"
+    } ]
+  }, {
+    "tStartMs": 28680,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "you could change their behavior."
+    } ]
+  }, {
+    "tStartMs": 30900,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "- The magnetic field could be just zero,"
+    } ]
+  }, {
+    "tStartMs": 33510,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "and yet the presence of some quantity"
+    } ]
+  }, {
+    "tStartMs": 36840,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "could actually lead to observable effects."
+    } ]
+  }, {
+    "tStartMs": 39300,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "That wasn't supposed to happen, right?"
+    } ]
+  }, {
+    "tStartMs": 41310,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "- This experiment split the\nphysics community in two."
+    } ]
+  }, {
+    "tStartMs": 44700,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "It made them question whether\nfields are fundamental"
+    } ]
+  }, {
+    "tStartMs": 47850,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "or whether something\nthat was supposed to be"
+    } ]
+  }, {
+    "tStartMs": 50520,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "just an abstract mathematical tool"
+    } ]
+  }, {
+    "tStartMs": 53130,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "was actually more core to reality."
+    } ]
+  }, {
+    "tStartMs": 56250,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "This tool was first introduced\nin an attempt to solve"
+    } ]
+  }, {
+    "tStartMs": 59520,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "one of the hardest unsolved\nproblems in physics,"
+    } ]
+  }, {
+    "tStartMs": 62430,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "the three-body problem."
+    } ]
+  }, {
+    "tStartMs": 65400,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "That is if you have three bodies"
+    } ]
+  }, {
+    "tStartMs": 67260,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and you know their initial\npositions and velocities,"
+    } ]
+  }, {
+    "tStartMs": 69840,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "how will they move"
+    } ]
+  }, {
+    "tStartMs": 70920,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "under the influence of\neach other's gravity?"
+    } ]
+  }, {
+    "tStartMs": 73380,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- It's a juicy, juicy problem,"
+    } ]
+  }, {
+    "tStartMs": 75090,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "which occupied literally generations,"
+    } ]
+  }, {
+    "tStartMs": 77670,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "hundreds and hundreds of years of"
+    } ]
+  }, {
+    "tStartMs": 79320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "incredibly ambitious,\ntalented mathematicians,"
+    } ]
+  }, {
+    "tStartMs": 82440,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "physicists, and astronomers, and beyond."
+    } ]
+  }, {
+    "tStartMs": 85620,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "- The fact that this problem\nis so difficult to solve"
+    } ]
+  }, {
+    "tStartMs": 88260,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "should at least be a little surprising"
+    } ]
+  }, {
+    "tStartMs": 90450,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "because if you have just two bodies,"
+    } ]
+  }, {
+    "tStartMs": 92460,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "then the solution is easy to find."
+    } ]
+  }, {
+    "tStartMs": 94710,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "In fact, the general\ncase was already solved"
+    } ]
+  }, {
+    "tStartMs": 96600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "over 300 years ago by Newton himself."
+    } ]
+  }, {
+    "tStartMs": 100560,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "- But when Newton added a third body,"
+    } ]
+  }, {
+    "tStartMs": 102780,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "well, that's when everything fell apart."
+    } ]
+  }, {
+    "tStartMs": 106020,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "In the two body case, the\nforces behaved predictably,"
+    } ]
+  }, {
+    "tStartMs": 108900,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "always pointing where the\nsystem's shared center of mass."
+    } ]
+  }, {
+    "tStartMs": 112320,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "But with three bodies,\nthis is no longer the case."
+    } ]
+  }, {
+    "tStartMs": 115710,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "When you try to calculate the forces,"
+    } ]
+  }, {
+    "tStartMs": 117210,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "they end up being extremely dynamic."
+    } ]
+  }, {
+    "tStartMs": 119670,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "In addition to worrying about\nthe magnitude of the forces,"
+    } ]
+  }, {
+    "tStartMs": 121890,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "you also have to worry\nabout their direction."
+    } ]
+  }, {
+    "tStartMs": 124170,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "So you end up with this\nchaotic mess of vectors."
+    } ]
+  }, {
+    "tStartMs": 128040,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "For the next hundred years,"
+    } ]
+  }, {
+    "tStartMs": 129480,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "everyone who tried to\nsolve this problem failed."
+    } ]
+  }, {
+    "tStartMs": 132690,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "But what if there was some\nother way to approach it,"
+    } ]
+  }, {
+    "tStartMs": 136170,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "a way to simplify the math"
+    } ]
+  }, {
+    "tStartMs": 137580,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "and not have to worry about\nthese three-dimensional vectors?"
+    } ]
+  }, {
+    "tStartMs": 141390,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "Well, that's where\nJoseph-Louis Lagrange comes in."
+    } ]
+  }, {
+    "tStartMs": 144513,
+    "dDurationMs": 1197,
+    "segs": [ {
+      "utf8": "In the 1770s,"
+    } ]
+  }, {
+    "tStartMs": 145710,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "he was also trying to solve\nthe three-body problem,"
+    } ]
+  }, {
+    "tStartMs": 148470,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and he came up with a new approach."
+    } ]
+  }, {
+    "tStartMs": 150870,
+    "dDurationMs": 1653,
+    "segs": [ {
+      "utf8": "It works something like this."
+    } ]
+  }, {
+    "tStartMs": 153420,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Say you've got a single mass like a star,"
+    } ]
+  }, {
+    "tStartMs": 156090,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Lagrange imagined assigning a value"
+    } ]
+  }, {
+    "tStartMs": 158040,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "to each point in space around the star."
+    } ]
+  }, {
+    "tStartMs": 160290,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "The value is determined by the star's mass"
+    } ]
+  }, {
+    "tStartMs": 162390,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and the distance from the star."
+    } ]
+  }, {
+    "tStartMs": 164520,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You can think of each value as a height,"
+    } ]
+  }, {
+    "tStartMs": 167040,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and if we then turn this\ninto an altitude map,"
+    } ]
+  }, {
+    "tStartMs": 169650,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "you can see how the star\ncreates this sort of well."
+    } ]
+  }, {
+    "tStartMs": 172290,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "What Lagrange had developed was"
+    } ]
+  }, {
+    "tStartMs": 174270,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the gravitational potential V."
+    } ]
+  }, {
+    "tStartMs": 176310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "And what's important to\nnote is that V is a scalar,"
+    } ]
+  }, {
+    "tStartMs": 179370,
+    "dDurationMs": 2343,
+    "segs": [ {
+      "utf8": "it has a magnitude but no direction."
+    } ]
+  }, {
+    "tStartMs": 182820,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "So the genius in Lagrange's idea is this."
+    } ]
+  }, {
+    "tStartMs": 186210,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "At any given point,"
+    } ]
+  }, {
+    "tStartMs": 187170,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "we can draw an arrow\npointing directly downhill"
+    } ]
+  }, {
+    "tStartMs": 189960,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "where the size of the arrow corresponds"
+    } ]
+  }, {
+    "tStartMs": 191610,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "to the steepness of\nthe hill at that point."
+    } ]
+  }, {
+    "tStartMs": 194040,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "We can repeat this process at every point,"
+    } ]
+  }, {
+    "tStartMs": 196050,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and if we then shift our\nperspective to two dimensions,"
+    } ]
+  }, {
+    "tStartMs": 198870,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "look, what we've got is the\ngravitational field of the star."
+    } ]
+  }, {
+    "tStartMs": 202740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Mathematically, we say that\nthe gravitational field G"
+    } ]
+  }, {
+    "tStartMs": 205320,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "is equal to the negative gradient of V."
+    } ]
+  }, {
+    "tStartMs": 209040,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- So Lagrange had found a way"
+    } ]
+  }, {
+    "tStartMs": 210420,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "to switch the problem back and forth"
+    } ]
+  }, {
+    "tStartMs": 212100,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "between one of vectors and one of scalars."
+    } ]
+  }, {
+    "tStartMs": 214650,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "And while adding up vectors is hard,"
+    } ]
+  }, {
+    "tStartMs": 216960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "adding scalars is a piece of cake."
+    } ]
+  }, {
+    "tStartMs": 219480,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "To find the combined potential landscape"
+    } ]
+  }, {
+    "tStartMs": 221520,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "of any number of bodies,"
+    } ]
+  }, {
+    "tStartMs": 222870,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you just add up their\nindividual potentials."
+    } ]
+  }, {
+    "tStartMs": 225270,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And then you can always use that"
+    } ]
+  }, {
+    "tStartMs": 226770,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "to get back to forces if you want."
+    } ]
+  }, {
+    "tStartMs": 229260,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "For a simple two body system"
+    } ]
+  }, {
+    "tStartMs": 231180,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "like the Earth orbiting the sun,"
+    } ]
+  }, {
+    "tStartMs": 233190,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "that combined potential\nlook something like this."
+    } ]
+  }, {
+    "tStartMs": 236160,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "If you look closely,"
+    } ]
+  }, {
+    "tStartMs": 237180,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "you see that there are five points"
+    } ]
+  }, {
+    "tStartMs": 238660,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "where the gradient is zero."
+    } ]
+  }, {
+    "tStartMs": 240570,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "And so Lagrange realized the\nforces there are also zero,"
+    } ]
+  }, {
+    "tStartMs": 244320,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "which means that at each of these points,"
+    } ]
+  }, {
+    "tStartMs": 246630,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "you could place a tiny third body"
+    } ]
+  }, {
+    "tStartMs": 248700,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and it would maintain a\nperfectly stable orbit."
+    } ]
+  }, {
+    "tStartMs": 251310,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "That is if it isn't disturbed."
+    } ]
+  }, {
+    "tStartMs": 253380,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "These points are now known\nas the Lagrange Points."
+    } ]
+  }, {
+    "tStartMs": 256230,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "And while they didn't help\nsolve the three-body problem,"
+    } ]
+  }, {
+    "tStartMs": 259620,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Lagrange was developing\nmore sophisticated tools."
+    } ]
+  }, {
+    "tStartMs": 262680,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "In fact,"
+    } ]
+  }, {
+    "tStartMs": 263513,
+    "dDurationMs": 2887,
+    "segs": [ {
+      "utf8": "he developed an entirely\nnew way of doing mechanics."
+    } ]
+  }, {
+    "tStartMs": 266400,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "But for that to work,"
+    } ]
+  }, {
+    "tStartMs": 267780,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "he didn't just need the potential,"
+    } ]
+  }, {
+    "tStartMs": 269370,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "he needed the potential energy\nand the kinetic energy too."
+    } ]
+  }, {
+    "tStartMs": 273660,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I think when people hear potential,"
+    } ]
+  }, {
+    "tStartMs": 275790,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "they think potential energy."
+    } ]
+  }, {
+    "tStartMs": 278010,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And while they're very similar,"
+    } ]
+  }, {
+    "tStartMs": 279930,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "there is a subtle difference."
+    } ]
+  }, {
+    "tStartMs": 281700,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "If you have the potential"
+    } ]
+  }, {
+    "tStartMs": 283230,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "that's basically the field\ncorresponding to a single body,"
+    } ]
+  }, {
+    "tStartMs": 287460,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "then it will have some\npotential field around it,"
+    } ]
+  }, {
+    "tStartMs": 290220,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "which is described as V\nequals minus G M over r,"
+    } ]
+  }, {
+    "tStartMs": 296070,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "where this is the mass of the sun."
+    } ]
+  }, {
+    "tStartMs": 298380,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "But to get the potential energy,"
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "we need to add in a second body."
+    } ]
+  }, {
+    "tStartMs": 301920,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "So let's say that's the Earth."
+    } ]
+  }, {
+    "tStartMs": 304350,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The potential energy, let's call it U,"
+    } ]
+  }, {
+    "tStartMs": 307350,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "is basically just the potential"
+    } ]
+  }, {
+    "tStartMs": 309420,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "times the mass of the second body."
+    } ]
+  }, {
+    "tStartMs": 311010,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "So they're very similar, but\nthey're slightly different."
+    } ]
+  }, {
+    "tStartMs": 314400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And the kinetic energy\nof the Earth is simple."
+    } ]
+  }, {
+    "tStartMs": 316860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "That's of course 1/2 mv squared."
+    } ]
+  }, {
+    "tStartMs": 320220,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So now we have everything we\nneed to try this new method."
+    } ]
+  }, {
+    "tStartMs": 323160,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "In fact, we made a whole\nvideo on this over a year ago,"
+    } ]
+  }, {
+    "tStartMs": 326130,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but for now, all we need to know is that"
+    } ]
+  }, {
+    "tStartMs": 327930,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "we can write down the kinetic\nminus potential energy"
+    } ]
+  }, {
+    "tStartMs": 330240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "to find what's known as the Lagrangian."
+    } ]
+  }, {
+    "tStartMs": 332640,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Then you sub that in"
+    } ]
+  }, {
+    "tStartMs": 333710,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "to the so-called Euler-Lagrange Equation,"
+    } ]
+  }, {
+    "tStartMs": 335970,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and out comes your solution."
+    } ]
+  }, {
+    "tStartMs": 338310,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "For example, predicting the\nmotion of a double pendulum"
+    } ]
+  }, {
+    "tStartMs": 341430,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "by using this standard forces\napproach is infamously hard."
+    } ]
+  }, {
+    "tStartMs": 345180,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "- Because as one pendulum is swinging,"
+    } ]
+  }, {
+    "tStartMs": 347370,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "it provides the attachment point"
+    } ]
+  }, {
+    "tStartMs": 348930,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "for the pendulum hanging below it."
+    } ]
+  }, {
+    "tStartMs": 350550,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "And so that pendulum is"
+    } ]
+  }, {
+    "tStartMs": 351540,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "in this moving reference\nframe as it's swinging."
+    } ]
+  }, {
+    "tStartMs": 354390,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- [Casper] But if you pluck the\nkinetic and potential energy"
+    } ]
+  }, {
+    "tStartMs": 356790,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "into the Euler-Lagrange Equation,"
+    } ]
+  }, {
+    "tStartMs": 358920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "then you can quickly get to a\nsolution at least numerically."
+    } ]
+  }, {
+    "tStartMs": 362160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's actually how we\nmade this simulation."
+    } ]
+  }, {
+    "tStartMs": 365160,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "- I remember thinking,"
+    } ]
+  }, {
+    "tStartMs": 366240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "man, force is like hard\nto get the right answer."
+    } ]
+  }, {
+    "tStartMs": 368880,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "You can do it if you're good,"
+    } ]
+  }, {
+    "tStartMs": 370290,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and people who are good\nat mechanics can do it."
+    } ]
+  }, {
+    "tStartMs": 372630,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "But with the Lagrangian approach,"
+    } ]
+  }, {
+    "tStartMs": 374550,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "you could just write down the energy,"
+    } ]
+  }, {
+    "tStartMs": 375990,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "which is a scalar not a vector,"
+    } ]
+  }, {
+    "tStartMs": 377760,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "plug it into the Euler-Lagrange Equation,"
+    } ]
+  }, {
+    "tStartMs": 379887,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "and you get the right equation to motion"
+    } ]
+  }, {
+    "tStartMs": 381840,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and you don't have to be a good physicist."
+    } ]
+  }, {
+    "tStartMs": 383850,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- But for all its usefulness,"
+    } ]
+  }, {
+    "tStartMs": 385680,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "the potential wasn't enough"
+    } ]
+  }, {
+    "tStartMs": 387330,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "to help Lagrange solve\nthe three-body problem."
+    } ]
+  }, {
+    "tStartMs": 389670,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "In 1887, mathematician\nHeinrich Bruns finally proved"
+    } ]
+  }, {
+    "tStartMs": 394140,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "that the three-body problem is unsolvable."
+    } ]
+  }, {
+    "tStartMs": 397830,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "There are simply too many unknowns"
+    } ]
+  }, {
+    "tStartMs": 399780,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and no way to simplify the\nproblem to reduce them."
+    } ]
+  }, {
+    "tStartMs": 402390,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "So the best we've got\nare computer simulations,"
+    } ]
+  }, {
+    "tStartMs": 404370,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "which compute the potentials\nfrom moment to moment,"
+    } ]
+  }, {
+    "tStartMs": 406410,
+    "dDurationMs": 3573,
+    "segs": [ {
+      "utf8": "and use that to predict how\nthe system will evolve in time."
+    } ]
+  }, {
+    "tStartMs": 411240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- And so that's where we come to realize"
+    } ]
+  }, {
+    "tStartMs": 413640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "that the three-body problem is beautiful"
+    } ]
+  }, {
+    "tStartMs": 415560,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "for what it's taught us."
+    } ]
+  }, {
+    "tStartMs": 417090,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Even though we now recognize"
+    } ]
+  }, {
+    "tStartMs": 419010,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "that we can't actually\nsolve for this exact problem"
+    } ]
+  }, {
+    "tStartMs": 421200,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "as many folks had hoped to do."
+    } ]
+  }, {
+    "tStartMs": 423030,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "And in doing that,"
+    } ]
+  }, {
+    "tStartMs": 423930,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "they merely gave us the machinery of"
+    } ]
+  }, {
+    "tStartMs": 425820,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "modern mathematical physics."
+    } ]
+  }, {
+    "tStartMs": 427050,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So I'm pretty happy they tried."
+    } ]
+  }, {
+    "tStartMs": 429420,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "- The potential helped simplify\na wide array of problems."
+    } ]
+  }, {
+    "tStartMs": 433080,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "For many physicists,"
+    } ]
+  }, {
+    "tStartMs": 434090,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "it even replaced forces\nas their primary tool."
+    } ]
+  }, {
+    "tStartMs": 437310,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "It became so useful that\npeople started to wonder"
+    } ]
+  }, {
+    "tStartMs": 439980,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "if other forces in nature might have"
+    } ]
+  }, {
+    "tStartMs": 441870,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "a corresponding potential,"
+    } ]
+  }, {
+    "tStartMs": 443520,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "starting with the electric force."
+    } ]
+  }, {
+    "tStartMs": 446190,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "- If you look at the formula\nfor the electric force,"
+    } ]
+  }, {
+    "tStartMs": 448800,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "you notice that it's remarkably\nsimilar to that for gravity,"
+    } ]
+  }, {
+    "tStartMs": 452490,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "just with masses and charges swapped."
+    } ]
+  }, {
+    "tStartMs": 455220,
+    "dDurationMs": 2507,
+    "segs": [ {
+      "utf8": "In the 1810s, Simeon Denis Poisson,"
+    } ]
+  }, {
+    "tStartMs": 457727,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "one of Lagrange's students\nalso noticed the similarity."
+    } ]
+  }, {
+    "tStartMs": 461250,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And he realized that you can define"
+    } ]
+  }, {
+    "tStartMs": 463260,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "an electric potential phi\nin a very similar way."
+    } ]
+  }, {
+    "tStartMs": 466590,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But there is one important difference."
+    } ]
+  }, {
+    "tStartMs": 469230,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And that is while two\nmasses can only attract,"
+    } ]
+  }, {
+    "tStartMs": 472020,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "two charges can attract or repel."
+    } ]
+  }, {
+    "tStartMs": 475290,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So now, with the potential\nyou don't only get pits,"
+    } ]
+  }, {
+    "tStartMs": 478440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "you also get hills."
+    } ]
+  }, {
+    "tStartMs": 481080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But one force was much trickier\nto find the potential for,"
+    } ]
+  }, {
+    "tStartMs": 484440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and that was the magnetic force."
+    } ]
+  }, {
+    "tStartMs": 486360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "And that's because magnetism is"
+    } ]
+  }, {
+    "tStartMs": 487920,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "a fundamentally different beast"
+    } ]
+  }, {
+    "tStartMs": 489750,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "from the gravitational and electric force."
+    } ]
+  }, {
+    "tStartMs": 492600,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Take a bar magnet,"
+    } ]
+  }, {
+    "tStartMs": 493920,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "we can draw the magnetic\nfield it produces."
+    } ]
+  }, {
+    "tStartMs": 496140,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "It looks something like this."
+    } ]
+  }, {
+    "tStartMs": 497670,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Now at first glance,"
+    } ]
+  }, {
+    "tStartMs": 498930,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "this looks very similar\nto the electric scenario"
+    } ]
+  }, {
+    "tStartMs": 501720,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "where we have a positive\nand negative charge,"
+    } ]
+  }, {
+    "tStartMs": 504300,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "but this picture doesn't\nlook at what's going on"
+    } ]
+  }, {
+    "tStartMs": 506430,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "inside the magnet."
+    } ]
+  }, {
+    "tStartMs": 507450,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So if we reveal what's inside"
+    } ]
+  }, {
+    "tStartMs": 509490,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and you see that these\nlines actually continue,"
+    } ]
+  }, {
+    "tStartMs": 511740,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "but now they point from south to north."
+    } ]
+  }, {
+    "tStartMs": 514110,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "So magnetic field lines\nare actually loops,"
+    } ]
+  }, {
+    "tStartMs": 516450,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "they don't have an origin or endpoint."
+    } ]
+  }, {
+    "tStartMs": 519090,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And that fundamentally changes things."
+    } ]
+  }, {
+    "tStartMs": 521250,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "So physicists needed a new way"
+    } ]
+  }, {
+    "tStartMs": 523230,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "to describe the magnetic potential."
+    } ]
+  }, {
+    "tStartMs": 525420,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- [Derek] The breakthrough\ncame in the 1840s"
+    } ]
+  }, {
+    "tStartMs": 527550,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "from an undergraduate student\nnamed William Thomson."
+    } ]
+  }, {
+    "tStartMs": 530400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "- His day job as an\nundergraduate was to learn"
+    } ]
+  }, {
+    "tStartMs": 532920,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "as much fancy calculus as possible."
+    } ]
+  }, {
+    "tStartMs": 534390,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "And then when he learned\nthat he invented more."
+    } ]
+  }, {
+    "tStartMs": 536700,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- Thomson found that the\nmathematics of his day"
+    } ]
+  }, {
+    "tStartMs": 538410,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "was unable to describe the relationship"
+    } ]
+  }, {
+    "tStartMs": 540450,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "between a magnetic field and\nits associated potential."
+    } ]
+  }, {
+    "tStartMs": 543570,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So he came up with an entirely\nnew function, the curl."
+    } ]
+  }, {
+    "tStartMs": 547890,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "To see how this works,"
+    } ]
+  }, {
+    "tStartMs": 549060,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "imagine the arrows of\nthis vector field are like"
+    } ]
+  }, {
+    "tStartMs": 551070,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "currents in a liquid."
+    } ]
+  }, {
+    "tStartMs": 552390,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "If we were to place a\npaddle wheel right here,"
+    } ]
+  }, {
+    "tStartMs": 554430,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "it would start to rotate\nrapidly counterclockwise."
+    } ]
+  }, {
+    "tStartMs": 557460,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "As Thomson defined it, this\nspot has high positive curl."
+    } ]
+  }, {
+    "tStartMs": 560970,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "At this spot,"
+    } ]
+  }, {
+    "tStartMs": 561840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "it would rotate clockwise\nbut not as rapidly,"
+    } ]
+  }, {
+    "tStartMs": 564480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "so it has lower negative curl."
+    } ]
+  }, {
+    "tStartMs": 566760,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "And here,"
+    } ]
+  }, {
+    "tStartMs": 567593,
+    "dDurationMs": 2617,
+    "segs": [ {
+      "utf8": "the current pushes on it\nequally in both directions,"
+    } ]
+  }, {
+    "tStartMs": 570210,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "so it wouldn't rotate at all."
+    } ]
+  }, {
+    "tStartMs": 572040,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "This spot has zero curl."
+    } ]
+  }, {
+    "tStartMs": 574350,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But Thomson realized that\nthe magnetic vector field B"
+    } ]
+  }, {
+    "tStartMs": 576990,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "could be defined as the curl\nof some other vector field,"
+    } ]
+  }, {
+    "tStartMs": 579750,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "the magnetic vector potential A."
+    } ]
+  }, {
+    "tStartMs": 582810,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Now even though they're\nboth vector fields,"
+    } ]
+  }, {
+    "tStartMs": 584610,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "it turns out that A is often\nmuch easier to work with"
+    } ]
+  }, {
+    "tStartMs": 587520,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "than the magnetic field itself,"
+    } ]
+  }, {
+    "tStartMs": 589590,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "much like the other potentials V and phi,"
+    } ]
+  }, {
+    "tStartMs": 592740,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- Thomson was showing there was a kind of"
+    } ]
+  }, {
+    "tStartMs": 594510,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "underlying mathematical\nstructure one could use"
+    } ]
+  }, {
+    "tStartMs": 597480,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "that would streamline the calculations."
+    } ]
+  }, {
+    "tStartMs": 599910,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But even Thomson thought\nthis was a kind of device,"
+    } ]
+  }, {
+    "tStartMs": 602670,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "a helpful device,"
+    } ]
+  }, {
+    "tStartMs": 603780,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and not a substitute for\nlike the real physics."
+    } ]
+  }, {
+    "tStartMs": 608100,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] Decades later,"
+    } ]
+  }, {
+    "tStartMs": 608933,
+    "dDurationMs": 1777,
+    "segs": [ {
+      "utf8": "Thomson was elevated to the House of Lords"
+    } ]
+  }, {
+    "tStartMs": 610710,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "for his contributions to science"
+    } ]
+  }, {
+    "tStartMs": 612120,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "where he received a\nnew title, Lord Kelvin."
+    } ]
+  }, {
+    "tStartMs": 615270,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "With Kelvin's latest edition,"
+    } ]
+  }, {
+    "tStartMs": 616980,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "there were now three fundamental equations"
+    } ]
+  }, {
+    "tStartMs": 618960,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "relating the potentials to\ntheir respective fields."
+    } ]
+  }, {
+    "tStartMs": 622110,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "- Thanks to each of these,"
+    } ]
+  }, {
+    "tStartMs": 623700,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "you could now solve problems much easier."
+    } ]
+  }, {
+    "tStartMs": 627090,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "And so ever since,"
+    } ]
+  }, {
+    "tStartMs": 628410,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "professional physicists\noften use potentials"
+    } ]
+  }, {
+    "tStartMs": 630810,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "instead of forces or fields"
+    } ]
+  }, {
+    "tStartMs": 632910,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to solve the problems they're working on."
+    } ]
+  }, {
+    "tStartMs": 634980,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Potentials even show up"
+    } ]
+  }, {
+    "tStartMs": 636240,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "in some of our best physical\ntheories of the universe."
+    } ]
+  }, {
+    "tStartMs": 639930,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "But that raises an important question."
+    } ]
+  }, {
+    "tStartMs": 642030,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If potentials pop up everywhere,"
+    } ]
+  }, {
+    "tStartMs": 644430,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "then do they actually\nrepresent anything physical,"
+    } ]
+  }, {
+    "tStartMs": 647340,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "that is, can they have a\ndirect influence on reality?"
+    } ]
+  }, {
+    "tStartMs": 650670,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Well, to most physicists, the\nanswer was a resounding no."
+    } ]
+  }, {
+    "tStartMs": 654870,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Take the gravitational\npotential of a single star"
+    } ]
+  }, {
+    "tStartMs": 657690,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "for example,"
+    } ]
+  }, {
+    "tStartMs": 658650,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "well, we could just add 10 to\neach value of the potential,"
+    } ]
+  }, {
+    "tStartMs": 661740,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and this would shift\nthe overall landscape."
+    } ]
+  }, {
+    "tStartMs": 664110,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But the change in landscape\nfrom one point to the next"
+    } ]
+  }, {
+    "tStartMs": 667110,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "remains the exact same."
+    } ]
+  }, {
+    "tStartMs": 669030,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So the field is the same\nas the one we had before"
+    } ]
+  }, {
+    "tStartMs": 672240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and the force an object\nwould experience at any point"
+    } ]
+  }, {
+    "tStartMs": 675120,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "would remain unchanged."
+    } ]
+  }, {
+    "tStartMs": 677130,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "In fact, we can add any constant,"
+    } ]
+  }, {
+    "tStartMs": 679320,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "10, a hundred, a million,\nand the field doesn't change."
+    } ]
+  }, {
+    "tStartMs": 683970,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And so the forces an object\nwould experience going around it"
+    } ]
+  }, {
+    "tStartMs": 687210,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "also don't change."
+    } ]
+  }, {
+    "tStartMs": 688890,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "There are an infinite number of ways"
+    } ]
+  }, {
+    "tStartMs": 690960,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "we could write the gravitational potential"
+    } ]
+  }, {
+    "tStartMs": 693090,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "for any gravitational field"
+    } ]
+  }, {
+    "tStartMs": 695040,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and get the system to\nevolve in the same way."
+    } ]
+  }, {
+    "tStartMs": 698490,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "And the same is true for\nelectricity and magnetism."
+    } ]
+  }, {
+    "tStartMs": 701520,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "The value of the field and\nthus the force is fixed,"
+    } ]
+  }, {
+    "tStartMs": 705060,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "but the value of the\npotential is arbitrary."
+    } ]
+  }, {
+    "tStartMs": 707610,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "So from this, most\nphysicists concluded that"
+    } ]
+  }, {
+    "tStartMs": 710220,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "potentials can't possibly have\nany physical significance."
+    } ]
+  }, {
+    "tStartMs": 713190,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It must just be a trick\nthat makes the math easier."
+    } ]
+  }, {
+    "tStartMs": 716550,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "But most physicists might be wrong."
+    } ]
+  }, {
+    "tStartMs": 719400,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "- [Derek] In 1942, 23-year-old\nDavid Bohm was hard at work"
+    } ]
+  }, {
+    "tStartMs": 723090,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "on his thesis in particle physics"
+    } ]
+  }, {
+    "tStartMs": 724890,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "when one day he received\nan unexpected visit."
+    } ]
+  }, {
+    "tStartMs": 727950,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [David] Robert Oppenheimer,"
+    } ]
+  }, {
+    "tStartMs": 728783,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "who was David Bohm's PhD advisor,"
+    } ]
+  }, {
+    "tStartMs": 731160,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "wanted to bring him squarely onto"
+    } ]
+  }, {
+    "tStartMs": 732480,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "the new Manhattan Project efforts."
+    } ]
+  }, {
+    "tStartMs": 734730,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- [Derek] This was a\nlife-changing opportunity."
+    } ]
+  }, {
+    "tStartMs": 736890,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Bohm would be working side by side"
+    } ]
+  }, {
+    "tStartMs": 738540,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "with some of the top minds in physics."
+    } ]
+  }, {
+    "tStartMs": 740880,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "But there was a problem."
+    } ]
+  }, {
+    "tStartMs": 742410,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "The project's military\ndirector General Leslie Groves"
+    } ]
+  }, {
+    "tStartMs": 745080,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "had to approve Oppenheimer's recruits."
+    } ]
+  }, {
+    "tStartMs": 747270,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And when he ran a\nbackground check on Bohm,"
+    } ]
+  }, {
+    "tStartMs": 749220,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "he didn't like what he saw."
+    } ]
+  }, {
+    "tStartMs": 751290,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "- He briefly joined"
+    } ]
+  }, {
+    "tStartMs": 752610,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the American branch of the Communist Party"
+    } ]
+  }, {
+    "tStartMs": 754650,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "when he was in California."
+    } ]
+  }, {
+    "tStartMs": 755730,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "By his own recollections,"
+    } ]
+  }, {
+    "tStartMs": 757290,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "he quit pretty quickly\n'cause he got bored."
+    } ]
+  }, {
+    "tStartMs": 758880,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "He said, these people just\nsit around talking all day"
+    } ]
+  }, {
+    "tStartMs": 760290,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and don't do anything."
+    } ]
+  }, {
+    "tStartMs": 761400,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "- [Derek] Even so, Groves\ndeemed Bohm a security risk"
+    } ]
+  }, {
+    "tStartMs": 764010,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and banned him from working\non the Manhattan Project."
+    } ]
+  }, {
+    "tStartMs": 766650,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "But things got even worse."
+    } ]
+  }, {
+    "tStartMs": 768810,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "- Just as he was about to finish"
+    } ]
+  }, {
+    "tStartMs": 770070,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "his dissertation in Berkeley,"
+    } ]
+  }, {
+    "tStartMs": 771630,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "the topic was then classified."
+    } ]
+  }, {
+    "tStartMs": 773700,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "He did not have clearance,"
+    } ]
+  }, {
+    "tStartMs": 775440,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "so he couldn't even\nwork on or even write up"
+    } ]
+  }, {
+    "tStartMs": 777270,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "his own dissertation."
+    } ]
+  }, {
+    "tStartMs": 778740,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So Oppenheimer had to certify\nthat Bohm had done good work."
+    } ]
+  }, {
+    "tStartMs": 782100,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And in 1943 in wartime,"
+    } ]
+  }, {
+    "tStartMs": 784140,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "that was sufficient for\nBohm to actually get a PhD."
+    } ]
+  }, {
+    "tStartMs": 787410,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] After the war,"
+    } ]
+  }, {
+    "tStartMs": 788243,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "Bohm became an assistant\nprofessor at Princeton University."
+    } ]
+  }, {
+    "tStartMs": 791400,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "But fear surrounding\nhis communist sympathies"
+    } ]
+  }, {
+    "tStartMs": 793410,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "followed him wherever he went."
+    } ]
+  }, {
+    "tStartMs": 795720,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "In 1949, he was brought before"
+    } ]
+  }, {
+    "tStartMs": 797460,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "the House Un-American Activities\nCommittee for questioning."
+    } ]
+  }, {
+    "tStartMs": 800760,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "While Bohm was under investigation,"
+    } ]
+  }, {
+    "tStartMs": 802590,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Princeton let his professorship lapse."
+    } ]
+  }, {
+    "tStartMs": 804870,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "And even after he was acquitted,"
+    } ]
+  }, {
+    "tStartMs": 806340,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "the university refused to reinstate him."
+    } ]
+  }, {
+    "tStartMs": 808710,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "It seemed that Bohm was\ndestined for obscurity."
+    } ]
+  }, {
+    "tStartMs": 812940,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And so Oppenheimer gave\nhim a firm recommendation,"
+    } ]
+  }, {
+    "tStartMs": 815940,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "leave the country and\nstart fresh somewhere else."
+    } ]
+  }, {
+    "tStartMs": 818580,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Oppenheimer was no stranger\nto political persecution,"
+    } ]
+  }, {
+    "tStartMs": 821220,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and he didn't want Bohm\nto suffer the same fate."
+    } ]
+  }, {
+    "tStartMs": 824100,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "So Bohm took the advice."
+    } ]
+  }, {
+    "tStartMs": 826170,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "His journeys brought him\nto Brazil and then Israel."
+    } ]
+  }, {
+    "tStartMs": 829680,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "And though he was free"
+    } ]
+  }, {
+    "tStartMs": 830513,
+    "dDurationMs": 2137,
+    "segs": [ {
+      "utf8": "from the political pressures\nhe had felt in America,"
+    } ]
+  }, {
+    "tStartMs": 832650,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "he still found himself an outcast."
+    } ]
+  }, {
+    "tStartMs": 834960,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Many of Bohm's academic peers"
+    } ]
+  }, {
+    "tStartMs": 836550,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "were put off by his more unorthodox ideas,"
+    } ]
+  }, {
+    "tStartMs": 839220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "including his radical\ninterpretation of quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 841860,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "and his new theory of human consciousness."
+    } ]
+  }, {
+    "tStartMs": 845100,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "But there was one student"
+    } ]
+  }, {
+    "tStartMs": 846180,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "who was enthralled by Bohm's approach,"
+    } ]
+  }, {
+    "tStartMs": 848580,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and that was Yakir Aharonov."
+    } ]
+  }, {
+    "tStartMs": 851010,
+    "dDurationMs": 2076,
+    "segs": [ {
+      "utf8": "- He was, first of all,"
+    } ]
+  }, {
+    "tStartMs": 853086,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "extremely, extremely bright,"
+    } ]
+  }, {
+    "tStartMs": 854607,
+    "dDurationMs": 4443,
+    "segs": [ {
+      "utf8": "and also had a very nice personality."
+    } ]
+  }, {
+    "tStartMs": 859050,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "So it was beautiful to interact with him."
+    } ]
+  }, {
+    "tStartMs": 863460,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- When Bohm relocated once more,"
+    } ]
+  }, {
+    "tStartMs": 865590,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "this time moving to the\nUniversity of Bristol in England,"
+    } ]
+  }, {
+    "tStartMs": 868440,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Aharonov chose to come with him."
+    } ]
+  }, {
+    "tStartMs": 870510,
+    "dDurationMs": 1998,
+    "segs": [ {
+      "utf8": "And it was there in Bristol in the 1950s"
+    } ]
+  }, {
+    "tStartMs": 872508,
+    "dDurationMs": 4542,
+    "segs": [ {
+      "utf8": "that Aharonov and Bohm\nstumbled upon something huge."
+    } ]
+  }, {
+    "tStartMs": 877050,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "- For a long time, I was\nthinking more and more"
+    } ]
+  }, {
+    "tStartMs": 880590,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "deeply about the interpretation\nof quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 884160,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "It wasn't to solve any\nproblem, it was just curiosity."
+    } ]
+  }, {
+    "tStartMs": 888450,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "- According to quantum mechanics,"
+    } ]
+  }, {
+    "tStartMs": 890040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "at the smallest scale,\nparticles behave like waves."
+    } ]
+  }, {
+    "tStartMs": 893400,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "And this behavior is governed\nby the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 897030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "The solution to this equation is called"
+    } ]
+  }, {
+    "tStartMs": 899280,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "the wave function psi."
+    } ]
+  }, {
+    "tStartMs": 901020,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "If you take its modulus squared,"
+    } ]
+  }, {
+    "tStartMs": 902940,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "you get the probability\ndensity of finding a particle"
+    } ]
+  }, {
+    "tStartMs": 906150,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "at a given point, at a given time."
+    } ]
+  }, {
+    "tStartMs": 908820,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "The left side of this equation"
+    } ]
+  }, {
+    "tStartMs": 910620,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "tells you how the wave function\nchanges over time and space."
+    } ]
+  }, {
+    "tStartMs": 914490,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And the right side tells you"
+    } ]
+  }, {
+    "tStartMs": 915990,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "that this change depends on H,"
+    } ]
+  }, {
+    "tStartMs": 918240,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "what is known as the Hamiltonian."
+    } ]
+  }, {
+    "tStartMs": 919740,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "It's basically just the\ntotal energy of the system."
+    } ]
+  }, {
+    "tStartMs": 922770,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "In the case where we have both"
+    } ]
+  }, {
+    "tStartMs": 924060,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "an electric and magnetic potential,"
+    } ]
+  }, {
+    "tStartMs": 925950,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "the solution to the Schrodinger equation"
+    } ]
+  }, {
+    "tStartMs": 927600,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "looks something like this."
+    } ]
+  }, {
+    "tStartMs": 929160,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Where this is just a constant."
+    } ]
+  }, {
+    "tStartMs": 931230,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And this term describes the complex phase."
+    } ]
+  }, {
+    "tStartMs": 934050,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "It looks complicated,"
+    } ]
+  }, {
+    "tStartMs": 935220,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "but it's actually quite\neasy to get a feel for it."
+    } ]
+  }, {
+    "tStartMs": 937680,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So let's plot it in two dimensions"
+    } ]
+  }, {
+    "tStartMs": 939780,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "for an electron moving to the right."
+    } ]
+  }, {
+    "tStartMs": 942300,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "The different colors here\nrepresent the different phases."
+    } ]
+  }, {
+    "tStartMs": 945450,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "And you can see how the phase\nevolves over time and space."
+    } ]
+  }, {
+    "tStartMs": 949440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Thank you to Richard Behiel\nfor inspiring this approach."
+    } ]
+  }, {
+    "tStartMs": 952920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Now, if you look closely\nat the original phase term,"
+    } ]
+  }, {
+    "tStartMs": 955680,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "you see A and phi,"
+    } ]
+  }, {
+    "tStartMs": 957660,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "the magnetic and electric potentials."
+    } ]
+  }, {
+    "tStartMs": 960120,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So watch what happens if we\nadd a magnetic vector potential"
+    } ]
+  }, {
+    "tStartMs": 963270,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "that points in the same direction"
+    } ]
+  }, {
+    "tStartMs": 964980,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "as the electron is traveling."
+    } ]
+  }, {
+    "tStartMs": 966900,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "You can see that the wave stretches out."
+    } ]
+  }, {
+    "tStartMs": 969030,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So now the phase changes\nmore slowly over space"
+    } ]
+  }, {
+    "tStartMs": 972090,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "than it did before."
+    } ]
+  }, {
+    "tStartMs": 973470,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And if the potential points the other way,"
+    } ]
+  }, {
+    "tStartMs": 975480,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "then now the wave gets more compressed"
+    } ]
+  }, {
+    "tStartMs": 977610,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and its phase changes faster over space."
+    } ]
+  }, {
+    "tStartMs": 980700,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "And a similar thing would happen"
+    } ]
+  }, {
+    "tStartMs": 982170,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "if you change the electric potential phi."
+    } ]
+  }, {
+    "tStartMs": 985020,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Now, this by itself,"
+    } ]
+  }, {
+    "tStartMs": 986040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I think wasn't shocking\nto most physicists."
+    } ]
+  }, {
+    "tStartMs": 988200,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Just as you would always\nuse the potentials"
+    } ]
+  }, {
+    "tStartMs": 990450,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "to make the math easier,"
+    } ]
+  }, {
+    "tStartMs": 991500,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that's also why you use it\nin the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 993960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But really what's responsible for these,"
+    } ]
+  }, {
+    "tStartMs": 996240,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "you know, even phase changes\nwere still the fields."
+    } ]
+  }, {
+    "tStartMs": 999210,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "But you spoke to Aharonov.\n- Yeah."
+    } ]
+  }, {
+    "tStartMs": 1001670,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- And that wasn't his take."
+    } ]
+  }, {
+    "tStartMs": 1003290,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "- No."
+    } ]
+  }, {
+    "tStartMs": 1004160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If you look at the Schrodinger equation,"
+    } ]
+  }, {
+    "tStartMs": 1006560,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "you can't just replace the potential phi"
+    } ]
+  }, {
+    "tStartMs": 1008750,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "with the electric field E."
+    } ]
+  }, {
+    "tStartMs": 1010310,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "- Why not?"
+    } ]
+  }, {
+    "tStartMs": 1011360,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- 'Cause you're losing information."
+    } ]
+  }, {
+    "tStartMs": 1012710,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "- Okay.\n- Because remember,"
+    } ]
+  }, {
+    "tStartMs": 1014150,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "you can define any number of potentials"
+    } ]
+  }, {
+    "tStartMs": 1017780,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "for a specific electric field"
+    } ]
+  }, {
+    "tStartMs": 1019730,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "because you can pick an arbitrary height,"
+    } ]
+  }, {
+    "tStartMs": 1021890,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "but that information is lost"
+    } ]
+  }, {
+    "tStartMs": 1023540,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "when you go and swap it\nout for the electric field."
+    } ]
+  }, {
+    "tStartMs": 1026570,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "There's another way"
+    } ]
+  }, {
+    "tStartMs": 1027403,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "to think about it.\n- Okay, okay."
+    } ]
+  }, {
+    "tStartMs": 1028236,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "It's getting real."
+    } ]
+  }, {
+    "tStartMs": 1029069,
+    "dDurationMs": 3111,
+    "segs": [ {
+      "utf8": "- So if you have an expression\nlike 5x squared plus 5,"
+    } ]
+  }, {
+    "tStartMs": 1032180,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "you think you could just write this as"
+    } ]
+  }, {
+    "tStartMs": 1033770,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "the integral of 10x dx, right?"
+    } ]
+  }, {
+    "tStartMs": 1036710,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Because the integral is 5x squared plus."
+    } ]
+  }, {
+    "tStartMs": 1040550,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "- C.\n- C."
+    } ]
+  }, {
+    "tStartMs": 1042050,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- Right.\n- C is a constant."
+    } ]
+  }, {
+    "tStartMs": 1043400,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So it includes 5, but it also\nincludes any other number."
+    } ]
+  }, {
+    "tStartMs": 1046340,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "But importantly, C is not 5,"
+    } ]
+  }, {
+    "tStartMs": 1050570,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "or at least not in every case."
+    } ]
+  }, {
+    "tStartMs": 1052010,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So you lose this specificity"
+    } ]
+  }, {
+    "tStartMs": 1053720,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "when you grow from a potential\nto an electric field."
+    } ]
+  }, {
+    "tStartMs": 1056300,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "And Aharonov wasn't comfortable with that."
+    } ]
+  }, {
+    "tStartMs": 1058970,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "So he thought, what if\nevery quantum system"
+    } ]
+  }, {
+    "tStartMs": 1062300,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "was actually influenced by the potential"
+    } ]
+  }, {
+    "tStartMs": 1064130,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "and not by the field.\n- Right."
+    } ]
+  }, {
+    "tStartMs": 1065870,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "- So it's the potential that shows up"
+    } ]
+  }, {
+    "tStartMs": 1067460,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "in the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 1068510,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "So it is what influences wave functions."
+    } ]
+  }, {
+    "tStartMs": 1070850,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "He had to find a way to prove\nthat what we're observing is"
+    } ]
+  }, {
+    "tStartMs": 1074360,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "always because of a potential\nand not because of the field."
+    } ]
+  }, {
+    "tStartMs": 1077780,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "- How do you do that?"
+    } ]
+  }, {
+    "tStartMs": 1079220,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "- Complicated."
+    } ]
+  }, {
+    "tStartMs": 1080690,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "See, Aharonov had to design an experiment"
+    } ]
+  }, {
+    "tStartMs": 1083060,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "that would send a\nparticle through a region"
+    } ]
+  }, {
+    "tStartMs": 1085250,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "where there's no electric\nor magnetic field,"
+    } ]
+  }, {
+    "tStartMs": 1088280,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "but there is a potential."
+    } ]
+  }, {
+    "tStartMs": 1090200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "In such a setup,"
+    } ]
+  }, {
+    "tStartMs": 1091400,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "if the phase of the\nparticle's wave function"
+    } ]
+  }, {
+    "tStartMs": 1093410,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "started changing slower or faster,"
+    } ]
+  }, {
+    "tStartMs": 1096290,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "that had to be the direct\nresult of the potential itself"
+    } ]
+  }, {
+    "tStartMs": 1099860,
+    "dDurationMs": 1593,
+    "segs": [ {
+      "utf8": "because there are no fields."
+    } ]
+  }, {
+    "tStartMs": 1102680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- But that's where you run into a problem"
+    } ]
+  }, {
+    "tStartMs": 1104840,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "because there's no way to directly measure"
+    } ]
+  }, {
+    "tStartMs": 1107210,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "the phase of a particle's wave function."
+    } ]
+  }, {
+    "tStartMs": 1109340,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "So how do you devise an experiment"
+    } ]
+  }, {
+    "tStartMs": 1111320,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "that can yield a measurable result?"
+    } ]
+  }, {
+    "tStartMs": 1113930,
+    "dDurationMs": 2985,
+    "segs": [ {
+      "utf8": "Well, Aharonov enlisted the\nhelp of his mentor Bohm,"
+    } ]
+  }, {
+    "tStartMs": 1116915,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "and together they came up"
+    } ]
+  }, {
+    "tStartMs": 1118250,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "with the following theoretical experiment."
+    } ]
+  }, {
+    "tStartMs": 1121100,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It starts with a beam of\nelectrons, which is split into two."
+    } ]
+  }, {
+    "tStartMs": 1124460,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "In the middle of these two beams"
+    } ]
+  }, {
+    "tStartMs": 1125840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "is a tightly coiled wire\nknown as a solenoid."
+    } ]
+  }, {
+    "tStartMs": 1128840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Now, solenoids have an\ninteresting property."
+    } ]
+  }, {
+    "tStartMs": 1131000,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "When you run a current through one,"
+    } ]
+  }, {
+    "tStartMs": 1132590,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "it produces a strong magnetic\nfield inside the coil"
+    } ]
+  }, {
+    "tStartMs": 1135290,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and a very weak field outside the coil."
+    } ]
+  }, {
+    "tStartMs": 1137750,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "The longer the solenoid,"
+    } ]
+  }, {
+    "tStartMs": 1138740,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "the weaker the field in\nthe surrounding space."
+    } ]
+  }, {
+    "tStartMs": 1140960,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "For simplicity,"
+    } ]
+  }, {
+    "tStartMs": 1141980,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Aharonov and Bohm imagined a setup"
+    } ]
+  }, {
+    "tStartMs": 1143570,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "with an ideal, infinitely long solenoid,"
+    } ]
+  }, {
+    "tStartMs": 1146420,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "one where the magnetic\nfield outside the coil"
+    } ]
+  }, {
+    "tStartMs": 1148250,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "is exactly zero."
+    } ]
+  }, {
+    "tStartMs": 1150080,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "After traveling on opposite\nsides of the solenoid,"
+    } ]
+  }, {
+    "tStartMs": 1152180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "the electron beams are redirected\nback towards each other"
+    } ]
+  }, {
+    "tStartMs": 1154880,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "by the researchers."
+    } ]
+  }, {
+    "tStartMs": 1156140,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "And here at this point, they intersect."
+    } ]
+  }, {
+    "tStartMs": 1159350,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Now since electrons behave as waves,"
+    } ]
+  }, {
+    "tStartMs": 1161450,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the waves from the\nintersecting beams overlap"
+    } ]
+  }, {
+    "tStartMs": 1163760,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and produce an interference pattern,"
+    } ]
+  }, {
+    "tStartMs": 1165740,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "bright fringes with gaps in between them."
+    } ]
+  }, {
+    "tStartMs": 1168050,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "The exact pattern depends on"
+    } ]
+  }, {
+    "tStartMs": 1169700,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "the phase of each of these waves."
+    } ]
+  }, {
+    "tStartMs": 1171680,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "When the solenoid is off,"
+    } ]
+  }, {
+    "tStartMs": 1173060,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "there is no magnetic field"
+    } ]
+  }, {
+    "tStartMs": 1174220,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "in the region the electrons\nare traveling through,"
+    } ]
+  }, {
+    "tStartMs": 1176480,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and there is no magnetic potential."
+    } ]
+  }, {
+    "tStartMs": 1178640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "The phase of the electrons changes"
+    } ]
+  }, {
+    "tStartMs": 1180560,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "in the same way across both beams,"
+    } ]
+  }, {
+    "tStartMs": 1182300,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "regardless of whether they pass\nabove or below the solenoid."
+    } ]
+  }, {
+    "tStartMs": 1185660,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "And so you get an interference\npattern that looks like this."
+    } ]
+  }, {
+    "tStartMs": 1189350,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "But when the solenoid is turned on,"
+    } ]
+  }, {
+    "tStartMs": 1191300,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "well, there is still no magnetic field"
+    } ]
+  }, {
+    "tStartMs": 1193970,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "because it's confined\nentirely within the coil,"
+    } ]
+  }, {
+    "tStartMs": 1196430,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "but there is a magnetic potential."
+    } ]
+  }, {
+    "tStartMs": 1199250,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That may sound strange, but remember,"
+    } ]
+  }, {
+    "tStartMs": 1201170,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "the magnetic field is the curl\nof the magnetic potential."
+    } ]
+  }, {
+    "tStartMs": 1204710,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "The curl of the potential\ncan be zero in some region,"
+    } ]
+  }, {
+    "tStartMs": 1207680,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "even when the potential itself is not."
+    } ]
+  }, {
+    "tStartMs": 1210380,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "And that's exactly what's happening here."
+    } ]
+  }, {
+    "tStartMs": 1213440,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Now take a closer look\nat the vector potential."
+    } ]
+  }, {
+    "tStartMs": 1216380,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "In the space the upper\nbeam passes through,"
+    } ]
+  }, {
+    "tStartMs": 1218810,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "the potential points in the\nopposite direction as the beam."
+    } ]
+  }, {
+    "tStartMs": 1221840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So here the phase changes faster."
+    } ]
+  }, {
+    "tStartMs": 1224240,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "But below the solenoid,"
+    } ]
+  }, {
+    "tStartMs": 1225350,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "it points in the same\ndirection as the beam."
+    } ]
+  }, {
+    "tStartMs": 1227450,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So the phase changes slower."
+    } ]
+  }, {
+    "tStartMs": 1229370,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "If the phase truly depends\non the potential alone"
+    } ]
+  }, {
+    "tStartMs": 1231920,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and not the field,"
+    } ]
+  }, {
+    "tStartMs": 1233120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "then the phases of the two\nbeams should evolve differently."
+    } ]
+  }, {
+    "tStartMs": 1236480,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "So as a result, the interference\npattern should shift"
+    } ]
+  }, {
+    "tStartMs": 1239390,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "when the solenoid is on\nversus when it's off."
+    } ]
+  }, {
+    "tStartMs": 1242990,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "- The magnetic field could be just zero,"
+    } ]
+  }, {
+    "tStartMs": 1245660,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "and yet the presence of\nsome vector potential"
+    } ]
+  }, {
+    "tStartMs": 1250040,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "could actually lead to observable effects."
+    } ]
+  }, {
+    "tStartMs": 1252530,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "That wasn't supposed to happen, right?"
+    } ]
+  }, {
+    "tStartMs": 1254570,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "- What I love about this story\nis that it reminds me that"
+    } ]
+  }, {
+    "tStartMs": 1257390,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "individual people can\nchallenge entire paradigms."
+    } ]
+  }, {
+    "tStartMs": 1260570,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "For nearly 200 years,"
+    } ]
+  }, {
+    "tStartMs": 1262100,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "many of the smartest minds in history"
+    } ]
+  }, {
+    "tStartMs": 1264410,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "all believed that potentials"
+    } ]
+  }, {
+    "tStartMs": 1265910,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "were nothing more than mathematical tools."
+    } ]
+  }, {
+    "tStartMs": 1268010,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "But then two outsider\nphysicists came along"
+    } ]
+  }, {
+    "tStartMs": 1270920,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and defied that interpretation."
+    } ]
+  }, {
+    "tStartMs": 1273380,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Confident in their approach,"
+    } ]
+  }, {
+    "tStartMs": 1275090,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "they took on the entire\nscientific establishment."
+    } ]
+  }, {
+    "tStartMs": 1278450,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "That same belief in the\npower of the individual is"
+    } ]
+  }, {
+    "tStartMs": 1281360,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "what motivated me to\npartner with Planet Wild."
+    } ]
+  }, {
+    "tStartMs": 1284570,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Many of us can feel helpless"
+    } ]
+  }, {
+    "tStartMs": 1286100,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "when we look at the huge\nproblems facing the Earth today."
+    } ]
+  }, {
+    "tStartMs": 1289520,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Deforestation, plastic pollution,"
+    } ]
+  }, {
+    "tStartMs": 1291740,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and the extinction of entire species."
+    } ]
+  }, {
+    "tStartMs": 1294740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "The easy solution is just to wait around"
+    } ]
+  }, {
+    "tStartMs": 1297320,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and hope someone else will\ndo something about it."
+    } ]
+  }, {
+    "tStartMs": 1300050,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Planet Wild gets boots on the ground"
+    } ]
+  }, {
+    "tStartMs": 1302060,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "to actually protect our planet,"
+    } ]
+  }, {
+    "tStartMs": 1303920,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and they make it easy for\nanyone to join the cause,"
+    } ]
+  }, {
+    "tStartMs": 1306590,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "which is one of the\nreasons I became a member."
+    } ]
+  }, {
+    "tStartMs": 1309590,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Another reason is that every month"
+    } ]
+  }, {
+    "tStartMs": 1311540,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "we as a community fund new projects"
+    } ]
+  }, {
+    "tStartMs": 1313820,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "to clean up oceans, rewild forests,"
+    } ]
+  }, {
+    "tStartMs": 1316250,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "protect endangered species\nand raise awareness."
+    } ]
+  }, {
+    "tStartMs": 1319190,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "You can think of Planet Wild\nas crowdfunding for nature."
+    } ]
+  }, {
+    "tStartMs": 1323030,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "My favorite part,"
+    } ]
+  }, {
+    "tStartMs": 1324020,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I get to see the impact\nof my contributions"
+    } ]
+  }, {
+    "tStartMs": 1326120,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "through outstanding monthly videos,"
+    } ]
+  }, {
+    "tStartMs": 1327950,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "which are published right here on YouTube."
+    } ]
+  }, {
+    "tStartMs": 1330110,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Take this for instance."
+    } ]
+  }, {
+    "tStartMs": 1331520,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "This is a Planet Wild mission in Mumbai."
+    } ]
+  }, {
+    "tStartMs": 1334130,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "It's a scalable technology that\nstops plastic at the source,"
+    } ]
+  }, {
+    "tStartMs": 1337430,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "preventing 10 tons from\nreaching the ocean every month."
+    } ]
+  }, {
+    "tStartMs": 1341120,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Planet Wild invested\nover $100,000 in this,"
+    } ]
+  }, {
+    "tStartMs": 1344450,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "and that money didn't come from\ngovernments or corporations,"
+    } ]
+  }, {
+    "tStartMs": 1347960,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "it came from ordinary\npeople like you and me."
+    } ]
+  }, {
+    "tStartMs": 1351590,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "You can sign up for whatever\namount feels right for you"
+    } ]
+  }, {
+    "tStartMs": 1354320,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and cancel any time."
+    } ]
+  }, {
+    "tStartMs": 1356300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The first 150 people to sign\nup using my code VERITASIUM1"
+    } ]
+  }, {
+    "tStartMs": 1360620,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "will get their first month paid for by me."
+    } ]
+  }, {
+    "tStartMs": 1363740,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Just scan this QR code or click\nthe link in the description."
+    } ]
+  }, {
+    "tStartMs": 1367430,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "If you're interested in the\nscience behind their projects,"
+    } ]
+  }, {
+    "tStartMs": 1370040,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "then go check out their YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 1372020,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "I'm leaving the link to\nthe plastic cleanup mission"
+    } ]
+  }, {
+    "tStartMs": 1374810,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "in the description."
+    } ]
+  }, {
+    "tStartMs": 1376340,
+    "dDurationMs": 2793,
+    "segs": [ {
+      "utf8": "And now back to the\nmystery of the potential."
+    } ]
+  }, {
+    "tStartMs": 1380306,
+    "dDurationMs": 3264,
+    "segs": [ {
+      "utf8": "Aharonov and Bohm published\ntheir findings in 1959"
+    } ]
+  }, {
+    "tStartMs": 1383570,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and the reception was mixed."
+    } ]
+  }, {
+    "tStartMs": 1386120,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- Certainly in the beginning,"
+    } ]
+  }, {
+    "tStartMs": 1387740,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "many people thought that it can't be true."
+    } ]
+  }, {
+    "tStartMs": 1390530,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So there were many people"
+    } ]
+  }, {
+    "tStartMs": 1392540,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "that tried to write articles against it."
+    } ]
+  }, {
+    "tStartMs": 1396140,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "- Even Niels Bohr,"
+    } ]
+  }, {
+    "tStartMs": 1397220,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "one of the founding fathers\nof quantum mechanics,"
+    } ]
+  }, {
+    "tStartMs": 1399080,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "found it impossible to accept"
+    } ]
+  }, {
+    "tStartMs": 1400730,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "that a particle could be\ninfluenced by a potential"
+    } ]
+  }, {
+    "tStartMs": 1402890,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "in the absence of any force."
+    } ]
+  }, {
+    "tStartMs": 1404780,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But some physicists\nsupported Aharonov and Bohm."
+    } ]
+  }, {
+    "tStartMs": 1407900,
+    "dDurationMs": 1027,
+    "segs": [ {
+      "utf8": "Richard Feynman wrote,"
+    } ]
+  }, {
+    "tStartMs": 1408927,
+    "dDurationMs": 1823,
+    "segs": [ {
+      "utf8": "\"The fact that the\nvector potential appears"
+    } ]
+  }, {
+    "tStartMs": 1410750,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "in the wave equation of quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 1412400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "was obvious from the day it was written."
+    } ]
+  }, {
+    "tStartMs": 1414200,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "It seems strange in retrospect that"
+    } ]
+  }, {
+    "tStartMs": 1415640,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "no one thought of discussing\nthis experiment until 1959,"
+    } ]
+  }, {
+    "tStartMs": 1418450,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "when Bohm and Aharonov first suggested it"
+    } ]
+  }, {
+    "tStartMs": 1420800,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and made the whole\nquestion crystal clear.\""
+    } ]
+  }, {
+    "tStartMs": 1423620,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Feynman included himself that statement."
+    } ]
+  }, {
+    "tStartMs": 1426050,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "He later wondered why he had\nnever noticed the effect."
+    } ]
+  }, {
+    "tStartMs": 1429410,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "Physicist Victor Weisskopf\nhad a similar response."
+    } ]
+  }, {
+    "tStartMs": 1432147,
+    "dDurationMs": 2573,
+    "segs": [ {
+      "utf8": "\"The first reaction to this\nwork is that it's wrong."
+    } ]
+  }, {
+    "tStartMs": 1434720,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "The second is that it's obvious.\""
+    } ]
+  }, {
+    "tStartMs": 1437480,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Ultimately, there was only\none way to settle the debate."
+    } ]
+  }, {
+    "tStartMs": 1440930,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Someone had to actually do the experiment."
+    } ]
+  }, {
+    "tStartMs": 1443900,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "The first to try was a\ncolleague of Aharonov and Bohm's"
+    } ]
+  }, {
+    "tStartMs": 1447080,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "at the University of Bristol,"
+    } ]
+  }, {
+    "tStartMs": 1448580,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Robert Chambers."
+    } ]
+  }, {
+    "tStartMs": 1450440,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Chambers experiment largely followed"
+    } ]
+  }, {
+    "tStartMs": 1452060,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "the setup Aharonov and Bohm proposed"
+    } ]
+  }, {
+    "tStartMs": 1454040,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "with one notable exception."
+    } ]
+  }, {
+    "tStartMs": 1456110,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "An ideal solenoid would\nhave to be infinitely long,"
+    } ]
+  }, {
+    "tStartMs": 1458690,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "which is physically impossible."
+    } ]
+  }, {
+    "tStartMs": 1460430,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So instead, Chambers used a\ntiny needle-like piece of iron,"
+    } ]
+  }, {
+    "tStartMs": 1464030,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "about a millionth of a meter\nthick and 500 times as long."
+    } ]
+  }, {
+    "tStartMs": 1468290,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "When this iron whisker was magnetized,"
+    } ]
+  }, {
+    "tStartMs": 1470660,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "it produced a magnetic field"
+    } ]
+  }, {
+    "tStartMs": 1472010,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "that was strong within the metal itself,"
+    } ]
+  }, {
+    "tStartMs": 1473750,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "but negligible outside of it,"
+    } ]
+  }, {
+    "tStartMs": 1475730,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "as well as a magnetic potential"
+    } ]
+  }, {
+    "tStartMs": 1477290,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "in the surrounding region of space."
+    } ]
+  }, {
+    "tStartMs": 1479510,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "To get a baseline interference pattern,"
+    } ]
+  }, {
+    "tStartMs": 1481490,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Chambers fired two beams of electrons"
+    } ]
+  }, {
+    "tStartMs": 1483350,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "around an empty region of space."
+    } ]
+  }, {
+    "tStartMs": 1485690,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "And then he added the magnetic whisker."
+    } ]
+  }, {
+    "tStartMs": 1488540,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "When he fired the beams again,"
+    } ]
+  }, {
+    "tStartMs": 1490130,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "the interference pattern shifted."
+    } ]
+  }, {
+    "tStartMs": 1492110,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "It seemed that Aharonov\nand Bohm were right."
+    } ]
+  }, {
+    "tStartMs": 1495800,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "But critics were unconvinced."
+    } ]
+  }, {
+    "tStartMs": 1498590,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "- People objected to it because"
+    } ]
+  }, {
+    "tStartMs": 1501800,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "since the whisker is finite,"
+    } ]
+  }, {
+    "tStartMs": 1504170,
+    "dDurationMs": 3257,
+    "segs": [ {
+      "utf8": "there is always some magnetic\nfield that will go out."
+    } ]
+  }, {
+    "tStartMs": 1508730,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "- Maybe a stray field was\nresponsible for the effect,"
+    } ]
+  }, {
+    "tStartMs": 1511850,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "not the potential."
+    } ]
+  }, {
+    "tStartMs": 1513440,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "- And that's showing,"
+    } ]
+  }, {
+    "tStartMs": 1514370,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "throwing no shade on their colleague"
+    } ]
+  }, {
+    "tStartMs": 1515900,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "who did these cool experiments."
+    } ]
+  }, {
+    "tStartMs": 1517010,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "It's like it's hard, right?"
+    } ]
+  }, {
+    "tStartMs": 1518000,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "It's really hard."
+    } ]
+  }, {
+    "tStartMs": 1519110,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "- And so it went for several decades."
+    } ]
+  }, {
+    "tStartMs": 1521540,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Experimentalists repeatedly\ntested the Aharonov-Bohm effect,"
+    } ]
+  }, {
+    "tStartMs": 1525110,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "but each trial had flaws"
+    } ]
+  }, {
+    "tStartMs": 1527240,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "that left the result open to debate."
+    } ]
+  }, {
+    "tStartMs": 1530240,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- Until in 1986,"
+    } ]
+  }, {
+    "tStartMs": 1531950,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "a team of Japanese researchers\nled by Akira Tonomura"
+    } ]
+  }, {
+    "tStartMs": 1535190,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "came up with a new way\nto do the experiment."
+    } ]
+  }, {
+    "tStartMs": 1537890,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "See, they used a tiny donut-shaped magnet"
+    } ]
+  }, {
+    "tStartMs": 1540710,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "to make their magnetic field."
+    } ]
+  }, {
+    "tStartMs": 1542540,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "With a perfect torus,"
+    } ]
+  }, {
+    "tStartMs": 1543560,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "all the magnetic field is\ncontained within the loop."
+    } ]
+  }, {
+    "tStartMs": 1546560,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Outside it, it's absolutely zero."
+    } ]
+  }, {
+    "tStartMs": 1549140,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And as an added layer of protection,"
+    } ]
+  }, {
+    "tStartMs": 1551300,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "the team also coated the entire magnet"
+    } ]
+  }, {
+    "tStartMs": 1553460,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "in a layer of superconducting niobium,"
+    } ]
+  }, {
+    "tStartMs": 1555800,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "which would block out any leaking fields."
+    } ]
+  }, {
+    "tStartMs": 1558890,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Now, previous experiments relied on"
+    } ]
+  }, {
+    "tStartMs": 1560600,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "turning a magnetic field on or off,"
+    } ]
+  }, {
+    "tStartMs": 1563090,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "but Tonomura's team took\non a different approach."
+    } ]
+  }, {
+    "tStartMs": 1565640,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "In their case, the magnet is always on,"
+    } ]
+  }, {
+    "tStartMs": 1568220,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "but because of its unique shape,"
+    } ]
+  }, {
+    "tStartMs": 1569780,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the potential outside\nthe torus is different"
+    } ]
+  }, {
+    "tStartMs": 1572090,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "from the one in the center."
+    } ]
+  }, {
+    "tStartMs": 1573590,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It points towards us on the outside"
+    } ]
+  }, {
+    "tStartMs": 1575660,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and away from us on the inside."
+    } ]
+  }, {
+    "tStartMs": 1578240,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "And the team realized they\ncould take advantage of this."
+    } ]
+  }, {
+    "tStartMs": 1581270,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "They started by firing\noff an electron beam,"
+    } ]
+  }, {
+    "tStartMs": 1583700,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "which was actually wide\nenough to be treated"
+    } ]
+  }, {
+    "tStartMs": 1585740,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "as two separate beams."
+    } ]
+  }, {
+    "tStartMs": 1587480,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Part of it traveled\nalong through empty space"
+    } ]
+  }, {
+    "tStartMs": 1589850,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and functioned as the control,"
+    } ]
+  }, {
+    "tStartMs": 1591680,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "whereas the other part\nwashed over the entire torus."
+    } ]
+  }, {
+    "tStartMs": 1595340,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And what's important here is\nthat the beam is wide enough"
+    } ]
+  }, {
+    "tStartMs": 1597590,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "so that part of it passes around the torus"
+    } ]
+  }, {
+    "tStartMs": 1599870,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "and part of it passes through."
+    } ]
+  }, {
+    "tStartMs": 1601640,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Then at the end,"
+    } ]
+  }, {
+    "tStartMs": 1602570,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "a biprism deflects the electron\nbeams toward each other,"
+    } ]
+  }, {
+    "tStartMs": 1606260,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "they intersect,"
+    } ]
+  }, {
+    "tStartMs": 1607340,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and this is where they create\nan interference pattern."
+    } ]
+  }, {
+    "tStartMs": 1610520,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Now think about"
+    } ]
+  }, {
+    "tStartMs": 1611660,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "what this interference\npattern should look like."
+    } ]
+  }, {
+    "tStartMs": 1614120,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Well, for starters,"
+    } ]
+  }, {
+    "tStartMs": 1615080,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "there should be a shadow of the torus,"
+    } ]
+  }, {
+    "tStartMs": 1616730,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "so we can fill that in."
+    } ]
+  }, {
+    "tStartMs": 1618410,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "But the rest,"
+    } ]
+  }, {
+    "tStartMs": 1619460,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "well, it depends on whether"
+    } ]
+  }, {
+    "tStartMs": 1621140,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "the Aharonov-Bohm effect is real or not."
+    } ]
+  }, {
+    "tStartMs": 1623690,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "If it's not real,"
+    } ]
+  }, {
+    "tStartMs": 1624590,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "we'd expect to see an interference pattern"
+    } ]
+  }, {
+    "tStartMs": 1626390,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "that looks something like this,"
+    } ]
+  }, {
+    "tStartMs": 1628190,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "where the pattern outside the torus"
+    } ]
+  }, {
+    "tStartMs": 1629720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and in the center match up."
+    } ]
+  }, {
+    "tStartMs": 1631700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "But if it is real,"
+    } ]
+  }, {
+    "tStartMs": 1633290,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "then the electrons that\ntraveled through the center"
+    } ]
+  }, {
+    "tStartMs": 1635600,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "would've experienced\na different potential,"
+    } ]
+  }, {
+    "tStartMs": 1638030,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "which would've shifted their\npattern by half a phase."
+    } ]
+  }, {
+    "tStartMs": 1641090,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So that should look something like this."
+    } ]
+  }, {
+    "tStartMs": 1644330,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Now here are the results\nfrom Tonomura's experiment."
+    } ]
+  }, {
+    "tStartMs": 1647630,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You see these are the interference fringes"
+    } ]
+  }, {
+    "tStartMs": 1649790,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "inside and outside the magnet."
+    } ]
+  }, {
+    "tStartMs": 1651050,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "And then if you follow what\nis a peak outside the torus"
+    } ]
+  }, {
+    "tStartMs": 1654140,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "it lines up with,"
+    } ]
+  }, {
+    "tStartMs": 1655070,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "- Right.\n- a trough inside the middle."
+    } ]
+  }, {
+    "tStartMs": 1656600,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "And then it's a peak\n- Yeah."
+    } ]
+  }, {
+    "tStartMs": 1657433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- outside again."
+    } ]
+  }, {
+    "tStartMs": 1658266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "- And that's exactly what they predicted."
+    } ]
+  }, {
+    "tStartMs": 1659300,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- This is exactly what they predicted."
+    } ]
+  }, {
+    "tStartMs": 1660860,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "- So it's real?"
+    } ]
+  }, {
+    "tStartMs": 1661880,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "- It's real"
+    } ]
+  }, {
+    "tStartMs": 1662870,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "- Only the Tonomura experiment was"
+    } ]
+  }, {
+    "tStartMs": 1665960,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "really the final proof, experimentally."
+    } ]
+  }, {
+    "tStartMs": 1670310,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "- And yet, soon a new debate emerged."
+    } ]
+  }, {
+    "tStartMs": 1673220,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "The effect is real, sure, but\nhow should we interpret it?"
+    } ]
+  }, {
+    "tStartMs": 1676730,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "What is it really telling us"
+    } ]
+  }, {
+    "tStartMs": 1678230,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "about the nature of the universe?"
+    } ]
+  }, {
+    "tStartMs": 1681140,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Today, physicists largely\nfall into one of two camps."
+    } ]
+  }, {
+    "tStartMs": 1684440,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "The first camp claims that"
+    } ]
+  }, {
+    "tStartMs": 1685670,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "potentials aren't just\nmathematical conveniences,"
+    } ]
+  }, {
+    "tStartMs": 1688070,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "they can influence physical reality."
+    } ]
+  }, {
+    "tStartMs": 1690320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "This is the perspective initially favored"
+    } ]
+  }, {
+    "tStartMs": 1692000,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "by Aharonov and Bohm."
+    } ]
+  }, {
+    "tStartMs": 1693410,
+    "dDurationMs": 2107,
+    "segs": [ {
+      "utf8": "As they wrote in the\nabstract of their paper,"
+    } ]
+  }, {
+    "tStartMs": 1695517,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "\"contrary to the conclusions\nof classical mechanics,"
+    } ]
+  }, {
+    "tStartMs": 1697820,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "there exist effects of\npotentials on charged particles,"
+    } ]
+  }, {
+    "tStartMs": 1700970,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "even in the region where\nall fields vanish.\""
+    } ]
+  }, {
+    "tStartMs": 1704120,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Some take this position a step further,"
+    } ]
+  }, {
+    "tStartMs": 1706670,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "since the potentials show up\nin the Schrodinger equation"
+    } ]
+  }, {
+    "tStartMs": 1709250,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "and the fields do not,"
+    } ]
+  }, {
+    "tStartMs": 1710780,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "well, they argue that the potentials are"
+    } ]
+  }, {
+    "tStartMs": 1712610,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "more fundamental to\nphysics than fields are."
+    } ]
+  }, {
+    "tStartMs": 1715970,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "Richard Feynman supported\nthis idea, he wrote,"
+    } ]
+  }, {
+    "tStartMs": 1718347,
+    "dDurationMs": 1973,
+    "segs": [ {
+      "utf8": "\"A is as real as B,"
+    } ]
+  }, {
+    "tStartMs": 1720320,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "realer, whatever that means.\""
+    } ]
+  }, {
+    "tStartMs": 1723170,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- I mean, I kind of like\nthat interpretation,"
+    } ]
+  }, {
+    "tStartMs": 1725030,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "but something about the\npotential bothers me."
+    } ]
+  }, {
+    "tStartMs": 1727460,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And that's the fact that"
+    } ]
+  }, {
+    "tStartMs": 1729410,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "you can set the potential\nat any arbitrary height."
+    } ]
+  }, {
+    "tStartMs": 1732230,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "It can be plus infinity."
+    } ]
+  }, {
+    "tStartMs": 1733280,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "It can be minus infinity."
+    } ]
+  }, {
+    "tStartMs": 1734330,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Anything in between."
+    } ]
+  }, {
+    "tStartMs": 1735740,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "So wouldn't that change, you know,"
+    } ]
+  }, {
+    "tStartMs": 1737390,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "how the potential actually\ninfluences the wave function?"
+    } ]
+  }, {
+    "tStartMs": 1739880,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "- This bothered me too."
+    } ]
+  }, {
+    "tStartMs": 1740900,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "So much so that I actually ended up"
+    } ]
+  }, {
+    "tStartMs": 1742490,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "asking a professor about this,"
+    } ]
+  }, {
+    "tStartMs": 1744530,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "but it turns out it can't."
+    } ]
+  }, {
+    "tStartMs": 1746390,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- It knows it's not just the potential"
+    } ]
+  }, {
+    "tStartMs": 1748220,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "that's entering the observable,"
+    } ]
+  }, {
+    "tStartMs": 1749660,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "it's the line integral."
+    } ]
+  }, {
+    "tStartMs": 1751310,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So it's only A that enters,\nit's not the magnetic field."
+    } ]
+  }, {
+    "tStartMs": 1754460,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "B vanishes, it's only\nA, but it's not A alone."
+    } ]
+  }, {
+    "tStartMs": 1758270,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "- It gets a little technical here,"
+    } ]
+  }, {
+    "tStartMs": 1759740,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "but you know,"
+    } ]
+  }, {
+    "tStartMs": 1761000,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "if I pull up, you know."
+    } ]
+  }, {
+    "tStartMs": 1764390,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "- As one does."
+    } ]
+  }, {
+    "tStartMs": 1765231,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "- As one does, a flip chart."
+    } ]
+  }, {
+    "tStartMs": 1767990,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Now we can actually run this."
+    } ]
+  }, {
+    "tStartMs": 1769850,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So if you look at how\nthe potential shows up,"
+    } ]
+  }, {
+    "tStartMs": 1773480,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "then what's measurable is\nnot the phase directly,"
+    } ]
+  }, {
+    "tStartMs": 1776330,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "but it's the phase shift."
+    } ]
+  }, {
+    "tStartMs": 1777530,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Call it delta theta."
+    } ]
+  }, {
+    "tStartMs": 1779900,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Then the phase shift is line\nintegral of A over the path"
+    } ]
+  }, {
+    "tStartMs": 1783110,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "or dotted with the path."
+    } ]
+  }, {
+    "tStartMs": 1784670,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "So you get this."
+    } ]
+  }, {
+    "tStartMs": 1785750,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Now you can imagine, okay,\nlet's add a constant to this."
+    } ]
+  }, {
+    "tStartMs": 1788780,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "And if our setup is roughly,\nyou know, we start here,"
+    } ]
+  }, {
+    "tStartMs": 1793070,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "one electron beam goes like this,"
+    } ]
+  }, {
+    "tStartMs": 1795140,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and the other one goes like this,"
+    } ]
+  }, {
+    "tStartMs": 1797630,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "and these are symmetric,"
+    } ]
+  }, {
+    "tStartMs": 1798800,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "then the potential here will point"
+    } ]
+  }, {
+    "tStartMs": 1801290,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "let's say in this direction."
+    } ]
+  }, {
+    "tStartMs": 1803510,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "But here, it will point in that direction."
+    } ]
+  }, {
+    "tStartMs": 1805820,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Let's say instead of A, we\ndo A plus C, some constant."
+    } ]
+  }, {
+    "tStartMs": 1810170,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Then when we're taking the path this way,"
+    } ]
+  }, {
+    "tStartMs": 1813200,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "we'll be adding that C and\nwe'll be dotting it with dx."
+    } ]
+  }, {
+    "tStartMs": 1816440,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "But because that path is the exact same"
+    } ]
+  }, {
+    "tStartMs": 1818900,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "when we go this way, which is subtracted."
+    } ]
+  }, {
+    "tStartMs": 1821990,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- Mm-hmm.\n- So it cancels out."
+    } ]
+  }, {
+    "tStartMs": 1823550,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So the potential, yeah, it does show up,"
+    } ]
+  }, {
+    "tStartMs": 1826310,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "but in such a way that"
+    } ]
+  }, {
+    "tStartMs": 1827480,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "all the arbitrariness of the potential,"
+    } ]
+  }, {
+    "tStartMs": 1830330,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "it cancels out perfectly."
+    } ]
+  }, {
+    "tStartMs": 1831650,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Okay."
+    } ]
+  }, {
+    "tStartMs": 1832483,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "- It's a geometrical quantity solving A"
+    } ]
+  }, {
+    "tStartMs": 1835520,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "that has taken care of"
+    } ]
+  }, {
+    "tStartMs": 1837410,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "for which all that residual ambiguity"
+    } ]
+  }, {
+    "tStartMs": 1839030,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "has literally canceled out."
+    } ]
+  }, {
+    "tStartMs": 1841190,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "- The potentials being\nphysical might sound strange,"
+    } ]
+  }, {
+    "tStartMs": 1844280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "but the second interpretation\nis even stranger."
+    } ]
+  }, {
+    "tStartMs": 1848120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Physicists in camp two\nmaintain that potentials"
+    } ]
+  }, {
+    "tStartMs": 1850520,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "really are just mathematical objects"
+    } ]
+  }, {
+    "tStartMs": 1852770,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and the fields are\nresponsible for the effect."
+    } ]
+  }, {
+    "tStartMs": 1855500,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "But in Tonomura's experiment,"
+    } ]
+  }, {
+    "tStartMs": 1857090,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "the magnetic field was completely confined"
+    } ]
+  }, {
+    "tStartMs": 1859250,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "within the solenoid."
+    } ]
+  }, {
+    "tStartMs": 1860780,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "For this interpretation to be true,"
+    } ]
+  }, {
+    "tStartMs": 1862220,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "its supporters are forced to assert that"
+    } ]
+  }, {
+    "tStartMs": 1863930,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "fields can act non-locally."
+    } ]
+  }, {
+    "tStartMs": 1865910,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "That is a field can influence things"
+    } ]
+  }, {
+    "tStartMs": 1867860,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "outside the region of space\nwhere the field itself exists."
+    } ]
+  }, {
+    "tStartMs": 1871430,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Many physicists find this\nidea difficult to swallow."
+    } ]
+  }, {
+    "tStartMs": 1874610,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- I think the idea of saying that"
+    } ]
+  }, {
+    "tStartMs": 1875720,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "these fields act non-locally"
+    } ]
+  }, {
+    "tStartMs": 1877760,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "undoes the reason why we\nhave field theory, right?"
+    } ]
+  }, {
+    "tStartMs": 1880460,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "The great triad of a field theory,"
+    } ]
+  }, {
+    "tStartMs": 1882080,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "which has served us so well\nfor more than 100 years,"
+    } ]
+  }, {
+    "tStartMs": 1884990,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "is this notion,"
+    } ]
+  }, {
+    "tStartMs": 1885920,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "stubborn notion that local\ncauses yield only local effects."
+    } ]
+  }, {
+    "tStartMs": 1889430,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- [Derek] And yet Aharonov's\nown perspective has shifted"
+    } ]
+  }, {
+    "tStartMs": 1891680,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "from camp one to camp two."
+    } ]
+  }, {
+    "tStartMs": 1893510,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "- When we publish the article,"
+    } ]
+  }, {
+    "tStartMs": 1895880,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "we called it the effects of potentials."
+    } ]
+  }, {
+    "tStartMs": 1898220,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "When you use local potential"
+    } ]
+  }, {
+    "tStartMs": 1901730,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and use the Schrodinger representation,"
+    } ]
+  }, {
+    "tStartMs": 1904250,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "it looks as if everything is local."
+    } ]
+  }, {
+    "tStartMs": 1906140,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But it's misleading because"
+    } ]
+  }, {
+    "tStartMs": 1908660,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "that local potential"
+    } ]
+  }, {
+    "tStartMs": 1911170,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "is really not physical."
+    } ]
+  }, {
+    "tStartMs": 1912560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Later, I decided that it should be called"
+    } ]
+  }, {
+    "tStartMs": 1915680,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "a non-local effects of the"
+    } ]
+  }, {
+    "tStartMs": 1918830,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "electric or magnetic field."
+    } ]
+  }, {
+    "tStartMs": 1921265,
+    "dDurationMs": 3445,
+    "segs": [ {
+      "utf8": "The electron can feel\nthe effect of a field"
+    } ]
+  }, {
+    "tStartMs": 1924710,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "that is not where it is."
+    } ]
+  }, {
+    "tStartMs": 1927080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "- While non-locality remains\na controversial idea,"
+    } ]
+  }, {
+    "tStartMs": 1929840,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "a sizable portion of physicists\ndo side with Aharonov."
+    } ]
+  }, {
+    "tStartMs": 1934010,
+    "dDurationMs": 2943,
+    "segs": [ {
+      "utf8": "And the debate continues to this day."
+    } ]
+  }, {
+    "tStartMs": 1937850,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- I maybe have a third interpretation."
+    } ]
+  }, {
+    "tStartMs": 1940100,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Good."
+    } ]
+  }, {
+    "tStartMs": 1940933,
+    "dDurationMs": 1447,
+    "segs": [ {
+      "utf8": "- And I would love to get your thoughts."
+    } ]
+  }, {
+    "tStartMs": 1942380,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And if it's bad, please tell me honestly."
+    } ]
+  }, {
+    "tStartMs": 1944780,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Okay."
+    } ]
+  }, {
+    "tStartMs": 1945613,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "- So we did this other video\nabout particles essentially"
+    } ]
+  }, {
+    "tStartMs": 1948980,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "exploring all possible paths all at once."
+    } ]
+  }, {
+    "tStartMs": 1952010,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "And so right now we're saying"
+    } ]
+  }, {
+    "tStartMs": 1953090,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "either the potentials are real"
+    } ]
+  }, {
+    "tStartMs": 1955550,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "or fields are acting non-locally."
+    } ]
+  }, {
+    "tStartMs": 1958490,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "But what if there's a third option"
+    } ]
+  }, {
+    "tStartMs": 1960140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "where the fields are still local"
+    } ]
+  }, {
+    "tStartMs": 1962360,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and it is the fields that\nare affecting the change,"
+    } ]
+  }, {
+    "tStartMs": 1965180,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but rather it's the particles"
+    } ]
+  }, {
+    "tStartMs": 1966680,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "that are exploring all\npossible paths all at once."
+    } ]
+  }, {
+    "tStartMs": 1969350,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "You could potentially even have"
+    } ]
+  }, {
+    "tStartMs": 1970490,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "some quantum tunneling\neffects going inside an area"
+    } ]
+  }, {
+    "tStartMs": 1973700,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "where there are fields,"
+    } ]
+  }, {
+    "tStartMs": 1975110,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "you know, as the electron or\nthe wave function at least"
+    } ]
+  }, {
+    "tStartMs": 1977300,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "explores all possible paths,"
+    } ]
+  }, {
+    "tStartMs": 1979370,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "gets influenced by those slight bits"
+    } ]
+  }, {
+    "tStartMs": 1981530,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "where the wave function\nis inside the field."
+    } ]
+  }, {
+    "tStartMs": 1984530,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "- I actually don't think\nthat's ridiculous, Casper."
+    } ]
+  }, {
+    "tStartMs": 1986420,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "That's for a strong ringing endorsement."
+    } ]
+  }, {
+    "tStartMs": 1988550,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I think there's a lot to that.\n- Okay."
+    } ]
+  }, {
+    "tStartMs": 1990680,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "- If we could think about these things as"
+    } ]
+  }, {
+    "tStartMs": 1992870,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "it is indeed the quantum phase"
+    } ]
+  }, {
+    "tStartMs": 1994520,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "that's being affected,\n- Yeah."
+    } ]
+  }, {
+    "tStartMs": 1996470,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- we can describe that phase in terms of"
+    } ]
+  }, {
+    "tStartMs": 1998390,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "quantum mechanical path integrals,"
+    } ]
+  }, {
+    "tStartMs": 1999950,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "I think that's a perfectly\nreasonable way to to frame it."
+    } ]
+  }, {
+    "tStartMs": 2003640,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So, yeah, I'd buy that."
+    } ]
+  }, {
+    "tStartMs": 2005770,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- That's awesome."
+    } ]
+  }, {
+    "tStartMs": 2006603,
+    "dDurationMs": 2437,
+    "segs": [ {
+      "utf8": "I'm pretty sure this\nisn't the complete answer,"
+    } ]
+  }, {
+    "tStartMs": 2009040,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but one thing which would be cool is"
+    } ]
+  }, {
+    "tStartMs": 2010840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "if someone else takes this idea, you know,"
+    } ]
+  }, {
+    "tStartMs": 2013270,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "or maybe it gets inspired\nby it and they're like,"
+    } ]
+  }, {
+    "tStartMs": 2015100,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "actually that doesn't work,"
+    } ]
+  }, {
+    "tStartMs": 2016630,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "but here is how it does\nwork and now we're closer."
+    } ]
+  }, {
+    "tStartMs": 2019570,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- That's right, that would\nbe the best possible outcome."
+    } ]
+  }, {
+    "tStartMs": 2021400,
+    "dDurationMs": 1677,
+    "segs": [ {
+      "utf8": "Well, the best possible\noutcome is you're just right."
+    } ]
+  }, {
+    "tStartMs": 2023077,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "But the second best\npossible outcome is that"
+    } ]
+  }, {
+    "tStartMs": 2025270,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "that nudges the community more broadly"
+    } ]
+  }, {
+    "tStartMs": 2027994,
+    "dDurationMs": 2706,
+    "segs": [ {
+      "utf8": "to ask new questions of familiar material."
+    } ]
+  }, {
+    "tStartMs": 2030700,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2032080,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- One new question the\ncommunity asked was,"
+    } ]
+  }, {
+    "tStartMs": 2034210,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "is there also a gravitational version?"
+    } ]
+  }, {
+    "tStartMs": 2036700,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "In 2022, researchers at\nStanford tested this."
+    } ]
+  }, {
+    "tStartMs": 2040390,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "A simplified version of their experiment"
+    } ]
+  }, {
+    "tStartMs": 2042430,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "works something like this."
+    } ]
+  }, {
+    "tStartMs": 2044230,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "They shot up ultracold rubidium atoms"
+    } ]
+  }, {
+    "tStartMs": 2046420,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "into a tube-shaped vacuum chamber,"
+    } ]
+  }, {
+    "tStartMs": 2048670,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "at the top of which was a tungsten mass."
+    } ]
+  }, {
+    "tStartMs": 2051580,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Now atoms like electrons are"
+    } ]
+  }, {
+    "tStartMs": 2053440,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "also governed by a wave function."
+    } ]
+  }, {
+    "tStartMs": 2055540,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So they split each rubidium\natoms wave function"
+    } ]
+  }, {
+    "tStartMs": 2058270,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "into two distinct packets,"
+    } ]
+  }, {
+    "tStartMs": 2059920,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and they launched them\nto different heights."
+    } ]
+  }, {
+    "tStartMs": 2062140,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "One was sent really high\nand got close to the mass,"
+    } ]
+  }, {
+    "tStartMs": 2064930,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "whereas the other didn't."
+    } ]
+  }, {
+    "tStartMs": 2066340,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "And then when the two\ncollided at the bottom,"
+    } ]
+  }, {
+    "tStartMs": 2068320,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "this created an interference pattern."
+    } ]
+  }, {
+    "tStartMs": 2070780,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "And when they let this interfere"
+    } ]
+  }, {
+    "tStartMs": 2072130,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and accounted for all other effects,"
+    } ]
+  }, {
+    "tStartMs": 2074080,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "they could clearly see the phase shift"
+    } ]
+  }, {
+    "tStartMs": 2076390,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "as predicted by Aharonov and Bohm."
+    } ]
+  }, {
+    "tStartMs": 2078250,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "So it seems like"
+    } ]
+  }, {
+    "tStartMs": 2079083,
+    "dDurationMs": 3517,
+    "segs": [ {
+      "utf8": "the gravitational Aharonov\nand Bohm effect is real."
+    } ]
+  }, {
+    "tStartMs": 2082600,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "If the results hold up the scrutiny,"
+    } ]
+  }, {
+    "tStartMs": 2084610,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "this is a huge finding."
+    } ]
+  }, {
+    "tStartMs": 2086200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Because it suggests that"
+    } ]
+  }, {
+    "tStartMs": 2087520,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "the electromagnetic and\ngravitational potentials"
+    } ]
+  }, {
+    "tStartMs": 2090310,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "can influence reality at\nthe most fundamental skill,"
+    } ]
+  }, {
+    "tStartMs": 2093820,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "even when all the fields are exactly zero."
+    } ]
+  }, {
+    "tStartMs": 2096880,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "So does that mean that most\nphysics textbooks are wrong"
+    } ]
+  }, {
+    "tStartMs": 2100330,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "or need updating?"
+    } ]
+  }, {
+    "tStartMs": 2101890,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "- Don't throw out all the textbooks."
+    } ]
+  }, {
+    "tStartMs": 2103420,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "They're beautiful."
+    } ]
+  }, {
+    "tStartMs": 2104253,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "We learn a lot."
+    } ]
+  }, {
+    "tStartMs": 2105220,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "But that doesn't mean we're done."
+    } ]
+  }, {
+    "tStartMs": 2106960,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "And we should be open to surprise."
+    } ]
+  }, {
+    "tStartMs": 2108790,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "And just because things haven't changed"
+    } ]
+  }, {
+    "tStartMs": 2110320,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "in let's say 200 years,"
+    } ]
+  }, {
+    "tStartMs": 2111730,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "roughly between say\nLagrange and Aharonov-Bohm,"
+    } ]
+  }, {
+    "tStartMs": 2114310,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "they still could change, right?"
+    } ]
+  }, {
+    "tStartMs": 2115960,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And they can sometimes change"
+    } ]
+  }, {
+    "tStartMs": 2117400,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "in beautiful and surprising\nand very powerful ways."
+    } ]
+  }, {
+    "tStartMs": 2121060,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- I read somewhere that"
+    } ]
+  }, {
+    "tStartMs": 2122440,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "the reason you decided\nto do the AB effect was"
+    } ]
+  }, {
+    "tStartMs": 2127330,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that you didn't really\nthink potentials were"
+    } ]
+  }, {
+    "tStartMs": 2130450,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "something that was just\na mathematical tool"
+    } ]
+  }, {
+    "tStartMs": 2132700,
+    "dDurationMs": 2196,
+    "segs": [ {
+      "utf8": "like most scientists believe."
+    } ]
+  }, {
+    "tStartMs": 2134896,
+    "dDurationMs": 1194,
+    "segs": [ {
+      "utf8": "- That is correct."
+    } ]
+  }, {
+    "tStartMs": 2136090,
+    "dDurationMs": 2437,
+    "segs": [ {
+      "utf8": "I was very ignorant, luckily."
+    } ]
+  }, {
+    "tStartMs": 2138527,
+    "dDurationMs": 2606,
+    "segs": [ {
+      "utf8": "Sometimes it's good not to know too much."
+    } ]
+  }, {
+    "tStartMs": 2142403,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(gentle music)"
+    } ]
+  } ]
+}

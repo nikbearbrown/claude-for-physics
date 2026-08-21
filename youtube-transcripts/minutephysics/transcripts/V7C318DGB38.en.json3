@@ -1,0 +1,403 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1110,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Here’s a high plateau on mars, rising up\nabove the surrounding landscape."
+    } ]
+  }, {
+    "tStartMs": 4930,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": "Or… is it a system of valleys and canyonlands\ncut into the surrounding plains?"
+    } ]
+  }, {
+    "tStartMs": 10509,
+    "dDurationMs": 12711,
+    "segs": [ {
+      "utf8": "And here’s another – is this text/image\ncut into the wood, or is it bumping out?"
+    } ]
+  }, {
+    "tStartMs": 23220,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Like the famous duck/rabbit illusion, it can\nsometimes be hard to perceive both sides of"
+    } ]
+  }, {
+    "tStartMs": 27700,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "these illusions, so let’s try one more:\na series of plateaus on earth?"
+    } ]
+  }, {
+    "tStartMs": 31920,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Or the grand canyon?"
+    } ]
+  }, {
+    "tStartMs": 32980,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "These are examples of a multistable perceptual\nillusion that often comes up when looking"
+    } ]
+  }, {
+    "tStartMs": 33980,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "at shaded relief maps or aerial and satellite\nphotos of terrain."
+    } ]
+  }, {
+    "tStartMs": 34980,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "So why do we sometimes see these features\nas popping up or out of the image, and why"
+    } ]
+  }, {
+    "tStartMs": 38579,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "do we sometimes see them as cut or dented\nin?"
+    } ]
+  }, {
+    "tStartMs": 41420,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "There are essentially two reasons: First,\nthe fact that on earth the sun is always overhead,"
+    } ]
+  }, {
+    "tStartMs": 45970,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and second, a weird symmetry of light and\nshadows."
+    } ]
+  }, {
+    "tStartMs": 49420,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Ok, so if you’re a human who grew up on\nearth, you’re used to the fact that light"
+    } ]
+  }, {
+    "tStartMs": 53100,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "mostly comes from above."
+    } ]
+  }, {
+    "tStartMs": 54320,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "I mean, the sun is always overhead, illuminating\nthings from above, or above and to the side,"
+    } ]
+  }, {
+    "tStartMs": 59750,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "but never from below the horizon, which means\nthat shadows are pretty much always on the"
+    } ]
+  }, {
+    "tStartMs": 64610,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "bottoms of things."
+    } ]
+  }, {
+    "tStartMs": 65690,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "This is so ingrained in us and our culture\nthat religion talks about falling down into"
+    } ]
+  }, {
+    "tStartMs": 69860,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "darkness and being raised up into the light,\nwestern art exhibits a “top-left lighting”"
+    } ]
+  }, {
+    "tStartMs": 74420,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "convention, as does computer interface design,\nand the international space station has lights"
+    } ]
+  }, {
+    "tStartMs": 78680,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "on one side to help give floating astronauts\na consistent sense of “up” and “down”."
+    } ]
+  }, {
+    "tStartMs": 83250,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "And “Shadows on the bottom, light on the\ntop” gives our brains a way to perceive"
+    } ]
+  }, {
+    "tStartMs": 88220,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "the 3D-ness of features just from the position\nof their shadows."
+    } ]
+  }, {
+    "tStartMs": 91850,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If there’s a bump sticking out from a wall,\nthe shadow will be on the bottom of the bump."
+    } ]
+  }, {
+    "tStartMs": 95850,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "If there’s a dent in the wall, the shadow\nwill be on the bottom of the overhang, which"
+    } ]
+  }, {
+    "tStartMs": 99560,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "means the TOP of the dent."
+    } ]
+  }, {
+    "tStartMs": 100950,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Roughly speaking, when we have no other context\nand see shadows on the bottom of a feature,"
+    } ]
+  }, {
+    "tStartMs": 105590,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "we perceive it as convex, coming towards us,\nand when we see shadows on the top of a feature,"
+    } ]
+  }, {
+    "tStartMs": 110670,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "we perceive it as concave, or dented away."
+    } ]
+  }, {
+    "tStartMs": 113100,
+    "dDurationMs": 5211,
+    "segs": [ {
+      "utf8": "But there’s a cruel symmetry in nature:\na concave feature, lit from one side, can"
+    } ]
+  }, {
+    "tStartMs": 118311,
+    "dDurationMs": 5219,
+    "segs": [ {
+      "utf8": "cast very similar shadows to its convex counterpart,\nlit from the other side . A bump lit from"
+    } ]
+  }, {
+    "tStartMs": 123530,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "above has shadows on the bottom, and a dent\nlit from below also has shadows on the bottom,"
+    } ]
+  }, {
+    "tStartMs": 128750,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "which makes it easy to misperceive a dent\nlit from below as a bump, or a bump lit from"
+    } ]
+  }, {
+    "tStartMs": 133420,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "below as a dent."
+    } ]
+  }, {
+    "tStartMs": 134920,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "Similarly, a mountain range lit from the east\nhas shadows on its western slopes, while a"
+    } ]
+  }, {
+    "tStartMs": 140070,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "valley lit from the west also has shadows\non its western slopes."
+    } ]
+  }, {
+    "tStartMs": 144120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not really a problem when you’re standing\nnext to the mountain or valley."
+    } ]
+  }, {
+    "tStartMs": 147120,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "But viewed from high enough above, all our\nbrains really have to go on for the concavity"
+    } ]
+  }, {
+    "tStartMs": 151300,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "or convexity of landscape features is their\nshadows."
+    } ]
+  }, {
+    "tStartMs": 154750,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "So we’ll tend to see these geographic features\nas mountains when the shadows are on the bottom,"
+    } ]
+  }, {
+    "tStartMs": 159050,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "and valleys when shadows are on the top."
+    } ]
+  }, {
+    "tStartMs": 160890,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Which, of course, is only correct if the light\nhappens to be coming from the top of the image."
+    } ]
+  }, {
+    "tStartMs": 165300,
+    "dDurationMs": 5269,
+    "segs": [ {
+      "utf8": "In fact, the mountain or valley illusion is\nso strong that shaded relief maps of the northern"
+    } ]
+  }, {
+    "tStartMs": 170569,
+    "dDurationMs": 4461,
+    "segs": [ {
+      "utf8": "hemisphere generally show light coming from\nthe north, a direction the sun never actually"
+    } ]
+  }, {
+    "tStartMs": 175030,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "shines in most of those places."
+    } ]
+  }, {
+    "tStartMs": 177020,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Cartographers are more than willing to sacrifice\nthe accuracy of the sun’s position to ensure"
+    } ]
+  }, {
+    "tStartMs": 181360,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "that they accurately communicate the geographic\nfeatures they’re mapping."
+    } ]
+  }, {
+    "tStartMs": 184570,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "And it’s good they do – I actually decided\nto make this video after I was looking at"
+    } ]
+  }, {
+    "tStartMs": 188590,
+    "dDurationMs": 3509,
+    "segs": [ {
+      "utf8": "a map upside down from across a table, and\nmy brain thought that all the valleys were"
+    } ]
+  }, {
+    "tStartMs": 192099,
+    "dDurationMs": 1621,
+    "segs": [ {
+      "utf8": "mountains and mountains were valleys!"
+    } ]
+  }, {
+    "tStartMs": 193720,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "I had to get up, clear my head and go around\nto the other side of the table before I could"
+    } ]
+  }, {
+    "tStartMs": 197580,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "get them to switch to being the right way\nround."
+    } ]
+  }, {
+    "tStartMs": 199750,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "So if you’re confused why a map or aerial\nor satellite photo looks weird, try rotating"
+    } ]
+  }, {
+    "tStartMs": 204520,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "it 180° to see if it makes more sense!"
+    } ]
+  }, {
+    "tStartMs": 208800,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Hey, Henry here, today I thought I’d try\nsomething different."
+    } ]
+  }, {
+    "tStartMs": 212910,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I’ve been wanting to learn how to use Adobe\ncharacter animator for ages, and it just so"
+    } ]
+  }, {
+    "tStartMs": 216810,
+    "dDurationMs": 4349,
+    "segs": [ {
+      "utf8": "happens that this video is sponsored by the\nonline learning site skillshare and they have"
+    } ]
+  }, {
+    "tStartMs": 221159,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "lessons on character animator."
+    } ]
+  }, {
+    "tStartMs": 222840,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "No joke, as of this morning I had no idea\nhow to use this software, and now you’re"
+    } ]
+  }, {
+    "tStartMs": 227020,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "seeing me, in stick figure form, animated\nin character animator."
+    } ]
+  }, {
+    "tStartMs": 230680,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "So yeah, skillshare clearly has lessons for\nlearning stuff, and not just animation: cooking,"
+    } ]
+  }, {
+    "tStartMs": 235620,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "photography, programming, etc."
+    } ]
+  }, {
+    "tStartMs": 236830,
+    "dDurationMs": 5269,
+    "segs": [ {
+      "utf8": "It’s about 10 dollars a month, but you can\nget two free months by going to skl.sh/MinutePhysics,"
+    } ]
+  }, {
+    "tStartMs": 242099,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": "which also lets skillshare know you were sent\nthere by me in animated stick figure form."
+    } ]
+  }, {
+    "tStartMs": 247190,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

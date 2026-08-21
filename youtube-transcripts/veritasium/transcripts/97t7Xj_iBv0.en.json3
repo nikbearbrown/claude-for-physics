@@ -1,0 +1,1285 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 20,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "What do this satellite thruster, plastic\ntool, and micro mechanical switch have in common?"
+    } ]
+  }, {
+    "tStartMs": 6640,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Well they all contain components\nthat bend, so-called compliant mechanisms"
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "This episode was sponsored by SimpliSafe. More about them at the end of the show."
+    } ]
+  }, {
+    "tStartMs": 15840,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Now about a month ago I was giving\na talk in Utah"
+    } ]
+  }, {
+    "tStartMs": 18750,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "hence the suit and that's where I met\nthis guy, -Larry Howell professor of mechanical engineering."
+    } ]
+  }, {
+    "tStartMs": 23540,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So it's always been considered to be bad to have"
+    } ]
+  }, {
+    "tStartMs": 26609,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "flexibility in your in your machines.\nWell we've tried to take that that thing"
+    } ]
+  }, {
+    "tStartMs": 31289,
+    "dDurationMs": 5221,
+    "segs": [ {
+      "utf8": "that everybody hates, that is trying to\navoid and say how can we use flexibility"
+    } ]
+  }, {
+    "tStartMs": 36510,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "to our advantage? how can we use that to\ndo cool stuff?"
+    } ]
+  }, {
+    "tStartMs": 40110,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Now Professor Howell literally wrote the\nbook on compliant mechanisms -that's the"
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "most cited book\n-but he's pretty nonchalant about his work"
+    } ]
+  }, {
+    "tStartMs": 48240,
+    "dDurationMs": 4049,
+    "segs": [ {
+      "utf8": "just watch how he introduces this mechanism he developed to prevent nuclear weapons"
+    } ]
+  }, {
+    "tStartMs": 52289,
+    "dDurationMs": 1671,
+    "segs": [ {
+      "utf8": "from going off accidentally:"
+    } ]
+  }, {
+    "tStartMs": 53960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "actually in safing and arming of nuclear weapons."
+    } ]
+  }, {
+    "tStartMs": 57400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And so if... \n-What?\n-Yeah"
+    } ]
+  }, {
+    "tStartMs": 59560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And so if you want....\n-Hang on, hang on hang on"
+    } ]
+  }, {
+    "tStartMs": 61920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "What-ing nuclear weapons?\n-Safing and arming"
+    } ]
+  }, {
+    "tStartMs": 65120,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Safing and arming \n-yeah so if there's anything in"
+    } ]
+  }, {
+    "tStartMs": 68790,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "the world that you want to be safe it's\nnot going to accidentally go off"
+    } ]
+  }, {
+    "tStartMs": 73920,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "I feel like this is - it doesn't even need saying\nbut yes nuclear weapons obviously you don't"
+    } ]
+  }, {
+    "tStartMs": 78630,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "want them to go off. What I don't\nunderstand how this is gonna keep the"
+    } ]
+  }, {
+    "tStartMs": 82320,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "nuclear weapons safe."
+    } ]
+  }, {
+    "tStartMs": 83380,
+    "dDurationMs": 2629,
+    "segs": [ {
+      "utf8": "Now I want to come\nback to this device and explain how it"
+    } ]
+  }, {
+    "tStartMs": 86009,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "works once we understand why compliant\nmechanisms are best suited to this task"
+    } ]
+  }, {
+    "tStartMs": 90869,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "[that's cool] So let's start with\nsomething basic."
+    } ]
+  }, {
+    "tStartMs": 93320,
+    "dDurationMs": 670,
+    "segs": [ {
+      "utf8": "Probably the first"
+    } ]
+  }, {
+    "tStartMs": 93990,
+    "dDurationMs": 6419,
+    "segs": [ {
+      "utf8": "compliant mechanism I ever designed was\nthis thing. What it is is a compliant"
+    } ]
+  }, {
+    "tStartMs": 100409,
+    "dDurationMs": 5011,
+    "segs": [ {
+      "utf8": "mechanism that is a gripper so you can\nput something in there and it will get"
+    } ]
+  }, {
+    "tStartMs": 105420,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "actually a really high force. I can put\nthat in there and and it breaks the chalk"
+    } ]
+  }, {
+    "tStartMs": 111420,
+    "dDurationMs": 3989,
+    "segs": [ {
+      "utf8": "What have you put your finger in\nthere and squeeze it? You would scream in"
+    } ]
+  }, {
+    "tStartMs": 115409,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "pain, would you like to try? -I would like\nI would actually like to feel the force"
+    } ]
+  }, {
+    "tStartMs": 119520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "OK, you need to squeeze it yourself though or it's...\n-Really?"
+    } ]
+  }, {
+    "tStartMs": 123820,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "well all right, I'll squeeze until you scream in pain"
+    } ]
+  }, {
+    "tStartMs": 127480,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Aaahh hahaha"
+    } ]
+  }, {
+    "tStartMs": 129200,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "That very quickly got incredibly painful it felt\nlike having my finger like in a in a vice."
+    } ]
+  }, {
+    "tStartMs": 136560,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "That looks suspiciously like vice\ngrips but now with these flexible"
+    } ]
+  }, {
+    "tStartMs": 142740,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "components where the hinges are."
+    } ]
+  }, {
+    "tStartMs": 145740,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "What I learned in my visit with Professor Howell"
+    } ]
+  }, {
+    "tStartMs": 147840,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "is that compliant mechanisms have a\nnumber of advantages over traditional"
+    } ]
+  }, {
+    "tStartMs": 151260,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "mechanisms but I thought he needed kind\nof a clever pithy way to remember all of"
+    } ]
+  }, {
+    "tStartMs": 156690,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "these advantages. So I came up with the\neighth P's of compliant mechanisms and"
+    } ]
+  }, {
+    "tStartMs": 162180,
+    "dDurationMs": 5309,
+    "segs": [ {
+      "utf8": "the first of those is Part count.\nCompliant mechanisms have reduced part"
+    } ]
+  }, {
+    "tStartMs": 167489,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "count because they have these bendy\nparts instead of having things like"
+    } ]
+  }, {
+    "tStartMs": 171360,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "hinges and bearings and separate springs.\nThis gripper is just a single piece of"
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "plastic but achieves a similar result to\nthe much more complicated vice grips."
+    } ]
+  }, {
+    "tStartMs": 181290,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Like how much does it amplify the force?\nThis will get about thirty to one so I"
+    } ]
+  }, {
+    "tStartMs": 186180,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "could get for one pound force in, get\nthirty pounds out. That's pretty good"
+    } ]
+  }, {
+    "tStartMs": 190560,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "It seems like that would be super cheap \n-and really inexpensive so this we just made"
+    } ]
+  }, {
+    "tStartMs": 196230,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "here in our shop but you can imagine\nalso injection molding that"
+    } ]
+  }, {
+    "tStartMs": 199359,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "- that would cost like cents \n-yep this would cost cents"
+    } ]
+  }, {
+    "tStartMs": 202280,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "the other thing is because of its shape"
+    } ]
+  }, {
+    "tStartMs": 203730,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "you could extrude it and then just chop\nthem off and that would be cool."
+    } ]
+  }, {
+    "tStartMs": 208760,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "So the simple design allows"
+    } ]
+  }, {
+    "tStartMs": 210239,
+    "dDurationMs": 5191,
+    "segs": [ {
+      "utf8": "different production processes to be\nused which lowers the price these"
+    } ]
+  }, {
+    "tStartMs": 215430,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "switches for example achieve in one\npiece of plastic what is normally done"
+    } ]
+  }, {
+    "tStartMs": 218880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "with springs, hinges and many rigid\nplastic pieces"
+    } ]
+  }, {
+    "tStartMs": 222480,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "also a good fidget device"
+    } ]
+  }, {
+    "tStartMs": 224360,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "how long can these last?"
+    } ]
+  }, {
+    "tStartMs": 226040,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "-we've had these in\nour fatigue testing machine. We've been"
+    } ]
+  }, {
+    "tStartMs": 229590,
+    "dDurationMs": 2842,
+    "segs": [ {
+      "utf8": "able to go over a million cycles without\nfailure"
+    } ]
+  }, {
+    "tStartMs": 232440,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "What have we got there?"
+    } ]
+  }, {
+    "tStartMs": 233820,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "All right, Derek I've got a quiz \n-uh oh"
+    } ]
+  }, {
+    "tStartMs": 236180,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "quiz for you okay, I'm gonna \n-elephant I'm gonna"
+    } ]
+  }, {
+    "tStartMs": 240240,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Very good!"
+    } ]
+  }, {
+    "tStartMs": 241480,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "okay I'm gonna push on elephant's rump\nthis direction okay? I'm gonna hold this"
+    } ]
+  }, {
+    "tStartMs": 245820,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "and that little dot right there, is that\ndot when I push on it, is it gonna go"
+    } ]
+  }, {
+    "tStartMs": 250440,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "left, right, up or down?"
+    } ]
+  }, {
+    "tStartMs": 253840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 256160,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "I just you know what I wanted to guess\nwithout even thinking about it?"
+    } ]
+  }, {
+    "tStartMs": 260100,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yeah, please do."
+    } ]
+  }, {
+    "tStartMs": 261220,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "I'm gonna say like up and in -okay \n-and I kind of feel like that because like"
+    } ]
+  }, {
+    "tStartMs": 265310,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "that would be a logical way for an\nelephant to hold its trunk -okay"
+    } ]
+  }, {
+    "tStartMs": 269060,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but also because like"
+    } ]
+  }, {
+    "tStartMs": 270560,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "if this is all going over then I feel like\nthis is gonna kind of extend there and"
+    } ]
+  }, {
+    "tStartMs": 274700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that's gonna get pushed up in there.\n- ah, good thinking"
+    } ]
+  }, {
+    "tStartMs": 276700,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "well I don't know is that"
+    } ]
+  }, {
+    "tStartMs": 278630,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "good thinking? that's well it's\nthinking at least so... this is designed"
+    } ]
+  }, {
+    "tStartMs": 282320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "so that when you push on that it\nactually just rotates in space it"
+    } ]
+  }, {
+    "tStartMs": 286640,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "doesn't move at all.\n-I knew you were gonna pull some sort of trick"
+    } ]
+  }, {
+    "tStartMs": 289860,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "it's a trick question!"
+    } ]
+  }, {
+    "tStartMs": 291100,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "now since I was fooled by it I\nhad to try it out on my friend the"
+    } ]
+  }, {
+    "tStartMs": 294020,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "physics girl. That's so trippy. That is so cool! I don't understand - what?!"
+    } ]
+  }, {
+    "tStartMs": 301260,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "it's modeled after the mechanisms you use in"
+    } ]
+  }, {
+    "tStartMs": 303740,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "wind tunnels where you want to have say\na model that's that's attached here but"
+    } ]
+  }, {
+    "tStartMs": 309590,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "you move it and all you want to do is is\ncontrol its its angle and move it around"
+    } ]
+  }, {
+    "tStartMs": 315410,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "in a wind tunnel. don't displace it but be able to change the angle."
+    } ]
+  }, {
+    "tStartMs": 320140,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Devices like this demonstrate that\ncompliant mechanisms are capable of"
+    } ]
+  }, {
+    "tStartMs": 323780,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "producing very precise motion, which I\npersonally found pretty counterintuitive"
+    } ]
+  }, {
+    "tStartMs": 328670,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "because these objects are made up of\nflexible parts"
+    } ]
+  }, {
+    "tStartMs": 331560,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "but maybe that shouldn't"
+    } ]
+  }, {
+    "tStartMs": 333200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "be surprising because compliant\nmechanisms don't suffer from backlash"
+    } ]
+  }, {
+    "tStartMs": 337400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "for one thing."
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "So backlash occurs when\nyou have a hinge which is basically just"
+    } ]
+  }, {
+    "tStartMs": 341390,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "a pin in a hole and it's moving in one\ndirection and now if at some point the"
+    } ]
+  }, {
+    "tStartMs": 347090,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "motion reverses it doesn't happen\ninstantaneously because there's some"
+    } ]
+  }, {
+    "tStartMs": 351200,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "give in the hinge."
+    } ]
+  }, {
+    "tStartMs": 352920,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "This also causes wear\nand requires lubricant and that is why"
+    } ]
+  }, {
+    "tStartMs": 357710,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "compliant mechanisms have better\nperformance than their traditional counterparts."
+    } ]
+  }, {
+    "tStartMs": 362920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "This one though is my favorite. \nThat is is one of my favorites too."
+    } ]
+  }, {
+    "tStartMs": 367240,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "It's just so pleasing, right?"
+    } ]
+  }, {
+    "tStartMs": 371180,
+    "dDurationMs": 2604,
+    "segs": [ {
+      "utf8": "Ahhh, that sound is so satisfying."
+    } ]
+  }, {
+    "tStartMs": 373784,
+    "dDurationMs": 4506,
+    "segs": [ {
+      "utf8": "This actually, believe it or not was inspired when we\nwere doing things at the microscopic"
+    } ]
+  }, {
+    "tStartMs": 378290,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "level, where we're building compliant\nmechanisms"
+    } ]
+  }, {
+    "tStartMs": 380590,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "on chips. We had to be able to make these\ncompliant mechanisms out of silicon,"
+    } ]
+  }, {
+    "tStartMs": 387760,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "which is as brittle as glass. \n-mm hmm"
+    } ]
+  }, {
+    "tStartMs": 389960,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "And if you're trying to make something like"
+    } ]
+  }, {
+    "tStartMs": 391930,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "this out of glass, right? it's it's crazy\nhard but that also means once we figured"
+    } ]
+  }, {
+    "tStartMs": 398080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "out the design we could make it in a\nmaterial even like PLA which is also you"
+    } ]
+  }, {
+    "tStartMs": 403360,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "know not the ideal compliant mechanism\nmaterial."
+    } ]
+  }, {
+    "tStartMs": 406260,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "So you can get on our website"
+    } ]
+  }, {
+    "tStartMs": 408010,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and get the material... and get the files to\nmake this yourself I'll put a link in"
+    } ]
+  }, {
+    "tStartMs": 413530,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "the description ya- that also has a nice\nfeel and I snap to it has a really nice"
+    } ]
+  }, {
+    "tStartMs": 418000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "snap I like when it comes out, it's like\n'gunk' you know like there's something"
+    } ]
+  }, {
+    "tStartMs": 422320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "about that that's really it's very\npleasing."
+    } ]
+  }, {
+    "tStartMs": 425040,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "So these things actually move?"
+    } ]
+  }, {
+    "tStartMs": 426370,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "oh yeah, yeah yeah \n-I need to see this"
+    } ]
+  }, {
+    "tStartMs": 429740,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "okay all right we'll do it"
+    } ]
+  }, {
+    "tStartMs": 430780,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "were those etched on there?\n- yeah those are etched and so just using the same"
+    } ]
+  }, {
+    "tStartMs": 436210,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "process as used to make computer chips."
+    } ]
+  }, {
+    "tStartMs": 438900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "So another advantage of compliant"
+    } ]
+  }, {
+    "tStartMs": 440530,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "mechanisms is that they can be made with\nsignificantly smaller proportions"
+    } ]
+  }, {
+    "tStartMs": 444250,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "because they take advantage of\nproduction processes like photo-lithography"
+    } ]
+  }, {
+    "tStartMs": 448180,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "And we have motion that we\nwant at the microscopic level -that's brilliant."
+    } ]
+  }, {
+    "tStartMs": 452880,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Plus since they simplify design\ncompliant mechanisms are much more"
+    } ]
+  }, {
+    "tStartMs": 457000,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "portable meaning lightweight which makes\nthem perfect for space applications."
+    } ]
+  }, {
+    "tStartMs": 461700,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "This here is something we did with NASA\nmaking a hinge that could replace"
+    } ]
+  }, {
+    "tStartMs": 466900,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "bearings for say deploying solar panels.\nThis is titanium, 3d printed titanium but"
+    } ]
+  }, {
+    "tStartMs": 472630,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "what's freaky about it is you get that motion\nwhich people expect but there's a"
+    } ]
+  }, {
+    "tStartMs": 478240,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "piece of titanium that can bend plus\nminus 90 degrees, 180 degree deflection"
+    } ]
+  }, {
+    "tStartMs": 483400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "that is solid titanium. -\nThat is one piece of titanium that is 3d printed"
+    } ]
+  }, {
+    "tStartMs": 488200,
+    "dDurationMs": 11420,
+    "segs": [ {
+      "utf8": "There's no alloy, nothing to make it flexible. \n-yep, this is yeah and even freakier than this"
+    } ]
+  }, {
+    "tStartMs": 499620,
+    "dDurationMs": 9580,
+    "segs": [ {
+      "utf8": "is this guy right there. So that looks\nlike a crazy beast but every part in"
+    } ]
+  }, {
+    "tStartMs": 509200,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "there has a purpose. All these flexible\nbeams"
+    } ]
+  }, {
+    "tStartMs": 513150,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "here are the two inputs and again we did\nthis with NASA for a thruster application"
+    } ]
+  }, {
+    "tStartMs": 519360,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "where you can put a thruster right there\nand now with our two motor inputs we can"
+    } ]
+  }, {
+    "tStartMs": 524250,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "direct that thruster in any direction.\nThat titanium device moves that, you"
+    } ]
+  }, {
+    "tStartMs": 529710,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "notice that's just all bending and then\nthere's no pinch points for the fuel"
+    } ]
+  }, {
+    "tStartMs": 534810,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "lines or electrical lines coming in."
+    } ]
+  }, {
+    "tStartMs": 539200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Here, this single piece of titanium allows you"
+    } ]
+  }, {
+    "tStartMs": 541500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "to use one thruster in place of two."
+    } ]
+  }, {
+    "tStartMs": 545960,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Okay, that is a clutch, so the idea is if you"
+    } ]
+  }, {
+    "tStartMs": 549990,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "spin it up really fast because it's\nflexible this outer part will actually"
+    } ]
+  }, {
+    "tStartMs": 554700,
+    "dDurationMs": 4889,
+    "segs": [ {
+      "utf8": "start coming outwards and then if\nthere's a drum around it it'll it'll"
+    } ]
+  }, {
+    "tStartMs": 559589,
+    "dDurationMs": 5491,
+    "segs": [ {
+      "utf8": "contact with that drum and spin that thing \n-oh so this like kind of oh that"
+    } ]
+  }, {
+    "tStartMs": 565080,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "kind of comes out like so \n-when it gets spinning really fast and then you're you essentially"
+    } ]
+  }, {
+    "tStartMs": 570029,
+    "dDurationMs": 4351,
+    "segs": [ {
+      "utf8": "engage this this outer drum so this is\nlike the way that a chainsaw would work"
+    } ]
+  }, {
+    "tStartMs": 574380,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "or something like that because you get\nit spinning fast enough and then it"
+    } ]
+  }, {
+    "tStartMs": 577470,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "engages the chain and then it turns it\nover"
+    } ]
+  }, {
+    "tStartMs": 579800,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "-centrifugal force\n-yeah wow that's cool so"
+    } ]
+  }, {
+    "tStartMs": 582510,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "So here this is made in plastic so that it\nyou know you can see it but in reality"
+    } ]
+  }, {
+    "tStartMs": 586890,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "it's gotta be a lot stiffer so here it is made in steel\n-What?"
+    } ]
+  }, {
+    "tStartMs": 590920,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "So hang on, you're saying"
+    } ]
+  }, {
+    "tStartMs": 592380,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "that that thing, which is made of steel\nyup"
+    } ]
+  }, {
+    "tStartMs": 596300,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "You spin it up to a certain speed"
+    } ]
+  }, {
+    "tStartMs": 598640,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and then it expands and engages a drum that is around it"
+    } ]
+  }, {
+    "tStartMs": 602540,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "-yep so idle with no"
+    } ]
+  }, {
+    "tStartMs": 605700,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "motion but then at a certain speed that\nare what we designed it for it will"
+    } ]
+  }, {
+    "tStartMs": 610140,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "speed up to that rpm"
+    } ]
+  }, {
+    "tStartMs": 611780,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You speed it up and it engages\n-Yup"
+    } ]
+  }, {
+    "tStartMs": 614300,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I had no idea like I have"
+    } ]
+  }, {
+    "tStartMs": 616220,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "learned something today"
+    } ]
+  }, {
+    "tStartMs": 617480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So let's come back to the safing and"
+    } ]
+  }, {
+    "tStartMs": 619170,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "arming device for nuclear weapons."
+    } ]
+  }, {
+    "tStartMs": 621020,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Its purpose is to ensure that no random"
+    } ]
+  }, {
+    "tStartMs": 623490,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "vibrations say from an earthquake\ninadvertently disable safeties and arm"
+    } ]
+  }, {
+    "tStartMs": 628140,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "the nuclear weapon."
+    } ]
+  }, {
+    "tStartMs": 630020,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "Now one of the\nrequirements was that this device be"
+    } ]
+  }, {
+    "tStartMs": 632370,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "made as small as possible."
+    } ]
+  }, {
+    "tStartMs": 634520,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "They had made those as small as they possibly could"
+    } ]
+  }, {
+    "tStartMs": 637410,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "using traditional methods even using things like what the"
+    } ]
+  }, {
+    "tStartMs": 641089,
+    "dDurationMs": 2471,
+    "segs": [ {
+      "utf8": "Swiss watch manufacturers were using."
+    } ]
+  }, {
+    "tStartMs": 643560,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "With compliant mechanisms they produced"
+    } ]
+  }, {
+    "tStartMs": 645410,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "a device out of hardened stainless steel\nwhere some components were the size of a"
+    } ]
+  }, {
+    "tStartMs": 649970,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "human hair."
+    } ]
+  }, {
+    "tStartMs": 651180,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "This is high-speed video, here the device"
+    } ]
+  }, {
+    "tStartMs": 653779,
+    "dDurationMs": 4381,
+    "segs": [ {
+      "utf8": "is operating at 72 Hertz meaning this\nlittle hole makes two complete"
+    } ]
+  }, {
+    "tStartMs": 658160,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "revolutions each second."
+    } ]
+  }, {
+    "tStartMs": 660040,
+    "dDurationMs": 2829,
+    "segs": [ {
+      "utf8": "The way it's\nmeant to work is an arming laser shines"
+    } ]
+  }, {
+    "tStartMs": 662869,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "on the rotor wheel and when the proper\ninput is given to the system the wheel"
+    } ]
+  }, {
+    "tStartMs": 666620,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "rotates a notch."
+    } ]
+  }, {
+    "tStartMs": 668400,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "If all the proper inputs\nare given then the hole lines up with"
+    } ]
+  }, {
+    "tStartMs": 671620,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "the laser beam and crazy things happen\nfrom there."
+    } ]
+  }, {
+    "tStartMs": 675320,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "So it is essential that this"
+    } ]
+  }, {
+    "tStartMs": 677149,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "device's performance is perfectly\npredictable even if it sits unused in a"
+    } ]
+  }, {
+    "tStartMs": 683509,
+    "dDurationMs": 1451,
+    "segs": [ {
+      "utf8": "silo for decades."
+    } ]
+  }, {
+    "tStartMs": 684960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So are these now being\nused on nuclear weapons?"
+    } ]
+  }, {
+    "tStartMs": 688080,
+    "dDurationMs": 4729,
+    "segs": [ {
+      "utf8": "You know, it turns out they don't tell us what they\ndo with their nuclear weapons and so we"
+    } ]
+  }, {
+    "tStartMs": 692809,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "design them, we made prototypes we tested\nthem and then it goes what they call"
+    } ]
+  }, {
+    "tStartMs": 696920,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "behind the fence."
+    } ]
+  }, {
+    "tStartMs": 698560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And... where it's all classified and, you know we"
+    } ]
+  }, {
+    "tStartMs": 702240,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "don't know what happened, so..."
+    } ]
+  }, {
+    "tStartMs": 707860,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "hey this episode was supported by\nviewers like you on patreon and by"
+    } ]
+  }, {
+    "tStartMs": 712230,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "SimpliSafe, incredibly effective\nreliable home security."
+    } ]
+  }, {
+    "tStartMs": 716040,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Now I started thinking seriously about home security\none day when there was this police"
+    } ]
+  }, {
+    "tStartMs": 719850,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "helicopter circling overhead and it\nturned out that the house across the"
+    } ]
+  }, {
+    "tStartMs": 723300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "street had been broken into."
+    } ]
+  }, {
+    "tStartMs": 725000,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "SimpliSafe makes it easy to protect"
+    } ]
+  }, {
+    "tStartMs": 727290,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "your home.\nthey sent me a kit including a base"
+    } ]
+  }, {
+    "tStartMs": 729420,
+    "dDurationMs": 7349,
+    "segs": [ {
+      "utf8": "station, camera and multiple sensors and\nthe setup was simple it only took me"
+    } ]
+  }, {
+    "tStartMs": 736769,
+    "dDurationMs": 1691,
+    "segs": [ {
+      "utf8": "about an hour to complete."
+    } ]
+  }, {
+    "tStartMs": 738460,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "The system is\nmonitored by professionals 24/7 and they"
+    } ]
+  }, {
+    "tStartMs": 741510,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "can call you or send police in the event\nof a break-in."
+    } ]
+  }, {
+    "tStartMs": 744480,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "So it's easy and intuitive to use."
+    } ]
+  }, {
+    "tStartMs": 746900,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "There's also these thoughtful\nfeatures that are built-in for example"
+    } ]
+  }, {
+    "tStartMs": 749550,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "it reminds you if you left the door open."
+    } ]
+  }, {
+    "tStartMs": 752240,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Pricing is fair and honest with no"
+    } ]
+  }, {
+    "tStartMs": 754050,
+    "dDurationMs": 4349,
+    "segs": [ {
+      "utf8": "contracts or hidden fees and it's\nequipped for worst-case scenarios like"
+    } ]
+  }, {
+    "tStartMs": 758400,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "if the Wi-Fi goes down or the power is\nout it still works."
+    } ]
+  }, {
+    "tStartMs": 762180,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "So to find out more"
+    } ]
+  }, {
+    "tStartMs": 763100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "go to SimpliSafe.com/veritasium"
+    } ]
+  }, {
+    "tStartMs": 765860,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I want to thank SimpliSafe for"
+    } ]
+  }, {
+    "tStartMs": 766860,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "supporting veritasium and I want to\nthank you for watching"
+    } ]
+  } ]
+}

@@ -1,0 +1,169 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 99,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "There's been some discussion about the video\nwhere I claimed that 1+2+4+8+16 and so on"
+    } ]
+  }, {
+    "tStartMs": 5470,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "is equal to negative one - apparently I'm\non my way to math jail."
+    } ]
+  }, {
+    "tStartMs": 9210,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "But actually, adding up divergent series is\nan old topic in math, and more importantly,"
+    } ]
+  }, {
+    "tStartMs": 13230,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "it's actually relevant to physics!"
+    } ]
+  }, {
+    "tStartMs": 15170,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "In physics, there are a lot of hard problems\nwhere we can't find the whole answer - but"
+    } ]
+  }, {
+    "tStartMs": 18660,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "we can find the answer to a simplified version\nof the problem, and then correct it step by"
+    } ]
+  }, {
+    "tStartMs": 22800,
+    "dDurationMs": 3149,
+    "segs": [ {
+      "utf8": "step so we get closer and closer to the real\nanswer."
+    } ]
+  }, {
+    "tStartMs": 25949,
+    "dDurationMs": 4151,
+    "segs": [ {
+      "utf8": "Check it out: we can approximate this hyperbola\nby starting with a line, adding a curve, a"
+    } ]
+  }, {
+    "tStartMs": 30100,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "wiggle, and onwards… except that our step-by-step\nprocess only works for a little part of the"
+    } ]
+  }, {
+    "tStartMs": 34949,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "curve!"
+    } ]
+  }, {
+    "tStartMs": 35949,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Outside this \"area of convergence\", we're\ntotally wrong!"
+    } ]
+  }, {
+    "tStartMs": 38749,
+    "dDurationMs": 5121,
+    "segs": [ {
+      "utf8": "Ok, back to physics - Some problems, like\nfiguring out how electrons scatter in quantum"
+    } ]
+  }, {
+    "tStartMs": 43870,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "field theory, are really hard to solve!"
+    } ]
+  }, {
+    "tStartMs": 46230,
+    "dDurationMs": 4429,
+    "segs": [ {
+      "utf8": "But we know there must be an answer, because\nwe do experiments and see that something happens."
+    } ]
+  }, {
+    "tStartMs": 50659,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "So we take the step-by-step approach - except\nthat most of the time, the corrections get"
+    } ]
+  }, {
+    "tStartMs": 54769,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "bigger and bigger, adding up to infinity!"
+    } ]
+  }, {
+    "tStartMs": 56339,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What went wrong?"
+    } ]
+  }, {
+    "tStartMs": 57339,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "We're outside the 'area of convergence'."
+    } ]
+  }, {
+    "tStartMs": 58339,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But luckily, all is not lost!"
+    } ]
+  }, {
+    "tStartMs": 59339,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "Because, just as the series 1+2+4+8+16 etc.\ncontains enough information to tell us that"
+    } ]
+  }, {
+    "tStartMs": 64580,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": "it really means negative one, physicists use\nclever techniques to tease the real answer"
+    } ]
+  }, {
+    "tStartMs": 68719,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "out of infinity."
+    } ]
+  }, {
+    "tStartMs": 70049,
+    "dDurationMs": 4091,
+    "segs": [ {
+      "utf8": "For example, they've calculated quantities,\nlike the strength of the electromagnetic force,"
+    } ]
+  }, {
+    "tStartMs": 74140,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "to incredible detail - and the calculations\nagree with experiment!"
+    } ]
+  }, {
+    "tStartMs": 78170,
+    "dDurationMs": 4059,
+    "segs": [ {
+      "utf8": "This is one of the most accurate and precise\nresults in all of science – and that's the"
+    } ]
+  }, {
+    "tStartMs": 82229,
+    "dDurationMs": 10550,
+    "segs": [ {
+      "utf8": "power of taming infinity."
+    } ]
+  } ]
+}

@@ -1,0 +1,1417 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 320,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "We’d like to thank NordVPN for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 4840,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Hey Everyone. Just letting you \nknow there’s new limited edition  "
+    } ]
+  }, {
+    "tStartMs": 7520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Merch at the Merch store. More \ninfo at the end of the episode."
+    } ]
+  }, {
+    "tStartMs": 11560,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "All particles belong to one of two large \ngroups: fermions like protons and electrons  "
+    } ]
+  }, {
+    "tStartMs": 16600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "make everything we consider \"matter\", while bosons \nlike photons and gluons transmit the fundamental  "
+    } ]
+  }, {
+    "tStartMs": 22280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "forces. And that about covers the universe: matter \nmoving through space and time under the action  "
+    } ]
+  }, {
+    "tStartMs": 26200,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "of forces. But what if we could create particles \nin between these two possibilities. Physics says  "
+    } ]
+  }, {
+    "tStartMs": 33080,
+    "dDurationMs": 14440,
+    "segs": [ {
+      "utf8": "these neither matter nor force anyons can exist, \nand they may have some pretty incredible uses."
+    } ]
+  }, {
+    "tStartMs": 47520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "We live in a conveniently simple universe. \nTwo particle types—bosons and fermions.  "
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "But what if there are actually infinitely many \nparticle types? To see how this might be true,  "
+    } ]
+  }, {
+    "tStartMs": 57120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "let's first do a quick recap \non fermions and bosons.  "
+    } ]
+  }, {
+    "tStartMs": 60800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The most obvious behavioral characteristic of \nfermions is that they can never be in the same  "
+    } ]
+  }, {
+    "tStartMs": 65760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "state as another fermion. If two electrons \nare spinning in the same direction and you  "
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "bring them close together there will \nbe a sort of force that repels them."
+    } ]
+  }, {
+    "tStartMs": 74560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "This is known as degeneracy pressure \nor just \"quantum pressure\" and it's  "
+    } ]
+  }, {
+    "tStartMs": 79040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the reason you don't fall through the \nfloor. Bosons on the other hand have  "
+    } ]
+  }, {
+    "tStartMs": 82640,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "no problem being in the same state \nas another boson, they can pile up,  "
+    } ]
+  }, {
+    "tStartMs": 86920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "and this is the reason light beams can pass \nthrough each other and that lasers are possible."
+    } ]
+  }, {
+    "tStartMs": 92320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But why can bosons share a state \nwhile fermions can't? Well,  "
+    } ]
+  }, {
+    "tStartMs": 96440,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "we explained this before in terms of the \nrelationship between particle spin and the  "
+    } ]
+  }, {
+    "tStartMs": 102200,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "exchange symmetry of the wave function. That’s a \ngreat video to watch after this one, by the way. "
+    } ]
+  }, {
+    "tStartMs": 107800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The short version is that swapping identical \nfermions introduces a phase shift to the  "
+    } ]
+  }, {
+    "tStartMs": 112120,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "combined wave function, putting the swapped wave \nfunction perfectly out of phase with the original"
+    } ]
+  }, {
+    "tStartMs": 118720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "That means if both fermions are in the same state,  "
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "then a superposition of swapped and \nunswapped wave functions cancel out,  "
+    } ]
+  }, {
+    "tStartMs": 125960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "causing the wave function to vanish. Quantum \nmechanics forbids this, so instead a type  "
+    } ]
+  }, {
+    "tStartMs": 131400,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "of force appears to arise preventing fermions \nfrom overlapping. That’s our quantum pressure."
+    } ]
+  }, {
+    "tStartMs": 137440,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "On the other hand, swapping a pair of bosons \nleaves the combined wave function unchanged,  "
+    } ]
+  }, {
+    "tStartMs": 142760,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "so you can have superpositions of pairs \nin the same state without any problems."
+    } ]
+  }, {
+    "tStartMs": 148120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The final part of that frankly awesome \nvideo was that we can connect the  "
+    } ]
+  }, {
+    "tStartMs": 152360,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "spin of the particle with this exchange \nsymmetry—but you’ll have to watch for that,  "
+    } ]
+  }, {
+    "tStartMs": 158680,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "because I don’t want to have to take my belt \noff again. This connection to spin comes from  "
+    } ]
+  }, {
+    "tStartMs": 164160,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "bringing Einstein’s relativity into the picture \nand it was discovered by Wolfgang Pauli in 1940"
+    } ]
+  }, {
+    "tStartMs": 170600,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Fermions had anti-symmetric exchange symmetry \nand half-integer spin, like ½, 3/2, 5/2,  "
+    } ]
+  }, {
+    "tStartMs": 177880,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "etc., while bosons have symmetric exchange \nsymmetry and integer spin—so 0, 1, 2, etc."
+    } ]
+  }, {
+    "tStartMs": 185480,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "This story about what happens when you \nhave particles swap places is the standard  "
+    } ]
+  }, {
+    "tStartMs": 190160,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "explanation of the difference between bosons and \nfermions and for the cause of quantum pressure.  "
+    } ]
+  }, {
+    "tStartMs": 196080,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "It's also roughly reflective of the way these \nparticle types were discovered in the math"
+    } ]
+  }, {
+    "tStartMs": 202760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "But there’s a bit of a problem with this \nexplanation. The whole idea of swapping  "
+    } ]
+  }, {
+    "tStartMs": 206920,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "particles is pretty ambiguous. We showed \nmoving two particles together and through  "
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "each other. But there’s a fundamental \nquantum limit to how precisely we can  "
+    } ]
+  }, {
+    "tStartMs": 216040,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "track the positions of the electrons, so what if \nthe particles come extremely and then retreated."
+    } ]
+  }, {
+    "tStartMs": 222480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Because the particles are indistinguishable \nit’s not possible to tell the difference  "
+    } ]
+  }, {
+    "tStartMs": 226520,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "between particles passing by each \nother to swap places versus an  "
+    } ]
+  }, {
+    "tStartMs": 231040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "extremely close approach and then a \nretreat. In fact it’s not reasonable  "
+    } ]
+  }, {
+    "tStartMs": 234800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "to even assign labels that remain \nfixed to an individual electron."
+    } ]
+  }, {
+    "tStartMs": 239920,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "This is exactly why in 1977 Jon Magne Leinaas \nand Jan Myrheim set out to find a new way to  "
+    } ]
+  }, {
+    "tStartMs": 245960,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "think about fermions and bosons that took \nseriously the fact that naming electrons is  "
+    } ]
+  }, {
+    "tStartMs": 251320,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "silly. And they succeeded, and in the process \ndiscovered a brand new type of particle—anyons"
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Let's go back to our example of \ntwo electrons moving towards and  "
+    } ]
+  }, {
+    "tStartMs": 262120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "through each other. We’ll make \nit easy by pretending that this  "
+    } ]
+  }, {
+    "tStartMs": 265480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "is a one-dimensional universe—the \nline the electrons move on is the  "
+    } ]
+  }, {
+    "tStartMs": 269920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "only space that exists. That means we can \ndescribe their positions with one variable each."
+    } ]
+  }, {
+    "tStartMs": 275520,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Every point in this plane represents a combination \nof locations for the two electrons. But we  "
+    } ]
+  }, {
+    "tStartMs": 281160,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "just said that we shouldn’t go around labeling \nelectrons. In this space it’s clear how to avoid  "
+    } ]
+  }, {
+    "tStartMs": 287360,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "that. For example, this point here has electron \n1 at position 1 and electron 2 at position 2."
+    } ]
+  }, {
+    "tStartMs": 293680,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But that’s the same physical situation \nas here, where electron 2 is at position  "
+    } ]
+  }, {
+    "tStartMs": 297720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "1 and electron 1 is at 2. In fact, this \nwhole upper half of the plane is an exact  "
+    } ]
+  }, {
+    "tStartMs": 303480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "duplicate of the lower half. So let’s \ndelete the upper half from our space."
+    } ]
+  }, {
+    "tStartMs": 307840,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "This is what we call the configuration \nspace for our two electrons, every point  "
+    } ]
+  }, {
+    "tStartMs": 311960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "represents one possible configuration of \nour system. Maybe the electrons begin here,  "
+    } ]
+  }, {
+    "tStartMs": 317560,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "but then they both move in different \nways to each other. As they move the  "
+    } ]
+  }, {
+    "tStartMs": 321520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "configuration changes, tracing a \nline through configuration space."
+    } ]
+  }, {
+    "tStartMs": 326560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "But what happens if this line reaches the \ndiagonal border of this space? This represents the  "
+    } ]
+  }, {
+    "tStartMs": 332640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "particles getting so close to each other we lose \ntrack of which is which. They could have continued  "
+    } ]
+  }, {
+    "tStartMs": 337920,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "on, passing by each other, which would look like \nthis if we hadn’t eliminated that region. Or they  "
+    } ]
+  }, {
+    "tStartMs": 344240,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "could have both been deflected, like this. As far \nas our indistinguishable electrons are concerned  "
+    } ]
+  }, {
+    "tStartMs": 349880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "these two paths have to be thought of as the \nsame thing. That means this trajectory is the  "
+    } ]
+  }, {
+    "tStartMs": 354920,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "same as this trajectory so we only keep the \npart that’s inside our configuration space."
+    } ]
+  }, {
+    "tStartMs": 361200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So it seems this boundary has a very particular \neffect on the motion of our two electron system—it  "
+    } ]
+  }, {
+    "tStartMs": 365680,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "causes it to bounce back. Because we’re trying \nto do quantum mechanics here, we need to think  "
+    } ]
+  }, {
+    "tStartMs": 370440,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "in terms of the wave function, not particles. So \nwhat happens to the wave function at the boundary?"
+    } ]
+  }, {
+    "tStartMs": 377600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "The wavefunction in quantum mechanics represents \nthe distribution of probabilities for quantum  "
+    } ]
+  }, {
+    "tStartMs": 381200,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "properties—in this case the positions \nof electrons. As the name implies,  "
+    } ]
+  }, {
+    "tStartMs": 385160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the wavefunction is wavey. It’s \na spread-out thing in which the  "
+    } ]
+  }, {
+    "tStartMs": 389800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "value at each point is influenced \nby the values at neighboring points,  "
+    } ]
+  }, {
+    "tStartMs": 393560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and the whole thing moves around over \ntime according to the Schrodinger equation"
+    } ]
+  }, {
+    "tStartMs": 397680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "We can learn a lot about the two-particle \nwavefunction by requiring that wavefunction  "
+    } ]
+  }, {
+    "tStartMs": 403360,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "to give zero probability on the other side of \nthis boundary and to reflect the wavefunction  "
+    } ]
+  }, {
+    "tStartMs": 409520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "at the boundary. The types of wavefunction \nthat satisfy these conditions get reflected  "
+    } ]
+  }, {
+    "tStartMs": 414800,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "perfectly by the boundary, but with one \nimportant change: they pick up a phase shift."
+    } ]
+  }, {
+    "tStartMs": 422360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Let’s look at a more physical analogy. When \nlight bounces off glass or the surface of  "
+    } ]
+  }, {
+    "tStartMs": 427720,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "water its phase is shifted by a half of a \nwavecycle—that’s a phase shift of pi radians,  "
+    } ]
+  }, {
+    "tStartMs": 434480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "180 degrees. We can write this as the \nphoton's electromagnetic field multiplied  "
+    } ]
+  }, {
+    "tStartMs": 440080,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "by e to the power of i times the phase shift. \nFrom now on though we’ll define the phase  "
+    } ]
+  }, {
+    "tStartMs": 446120,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "shift as the number half wavecycles that the \nwave is shifted—so e to the i pi times eta,  "
+    } ]
+  }, {
+    "tStartMs": 453680,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "where the Greek letter eta is that number \nof half cycles. So we’d say that light  "
+    } ]
+  }, {
+    "tStartMs": 458880,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "gets a phase shift of one when reflected off a \nmirror. One times pi is a half wavecycle shift."
+    } ]
+  }, {
+    "tStartMs": 466120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "The wave function of our pair of \nelectrons also gets a phase shift  "
+    } ]
+  }, {
+    "tStartMs": 469600,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "when it bounces off this abstract boundary \nin configuration space. That phase shift is  "
+    } ]
+  }, {
+    "tStartMs": 475640,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "also one for the electron pair, and for \nany fermion pair. In quantum mechanics,  "
+    } ]
+  }, {
+    "tStartMs": 481200,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "a phase shift is applied to the wavefunction \nby multiplying by e to the i times pi times the  "
+    } ]
+  }, {
+    "tStartMs": 487680,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "shift. E to the i pi times one is \nEuler’s identity—it’s equal to -1."
+    } ]
+  }, {
+    "tStartMs": 495840,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "So the combined two-electron wavefunction \ngets a minus sign on reflection. This is  "
+    } ]
+  }, {
+    "tStartMs": 501560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "exactly the same “anti-symmetric” \nquality that we talked about in  "
+    } ]
+  }, {
+    "tStartMs": 505840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the previous video—swapping electrons \nflips the sign of the wavefunction.  "
+    } ]
+  }, {
+    "tStartMs": 510360,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "But this new way of looking at it is arguably \nbetter because it explicitly accounts for the  "
+    } ]
+  }, {
+    "tStartMs": 516240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "fact that we don’t know which electron \nis which after their close approach."
+    } ]
+  }, {
+    "tStartMs": 521600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "And this also works for bosons. In their \ncase, the phase shift at the boundary is 0,  "
+    } ]
+  }, {
+    "tStartMs": 526680,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "and e to the i times 0 is 1. That means the \nboson pair bounces in configuration space with  "
+    } ]
+  }, {
+    "tStartMs": 532840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "no change. That’s equivalent to our particles \nbeing symmetric on swapping the particles."
+    } ]
+  }, {
+    "tStartMs": 537800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "OK, so we’ve recovered the basic behavior \nof bosons and fermions without pretending  "
+    } ]
+  }, {
+    "tStartMs": 541600,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "we can tell one particle from another. But \nsomething new and a bit worrying comes out  "
+    } ]
+  }, {
+    "tStartMs": 546280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "of this argument. We know what the phase \nshift has to be for bosons and fermions,  "
+    } ]
+  }, {
+    "tStartMs": 550160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "but are these the only phase shifts allowed?"
+    } ]
+  }, {
+    "tStartMs": 553800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Back to the example of light—it’s possible \nto build a mirror that causes literally any  "
+    } ]
+  }, {
+    "tStartMs": 558520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "phase shift you want in the reflected \nlight. So could there be wavefunctions  "
+    } ]
+  }, {
+    "tStartMs": 563800,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "that experience a phase shift that’s not 0 \nor pi at the configuration space boundary?  "
+    } ]
+  }, {
+    "tStartMs": 570640,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Actually yeah, in fact it’s possible to come \nup with wavefunctions that have any phase shift"
+    } ]
+  }, {
+    "tStartMs": 576600,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Any at all. And a particle with a phase \nshift of anything but 0 or pi is called  "
+    } ]
+  }, {
+    "tStartMs": 582960,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "an anyon. For bosons and fermions, the \nphase shift or symmetry on exchange is  "
+    } ]
+  }, {
+    "tStartMs": 589840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "related to their spin. The same would be \ntrue of anyons. That means anyons should  "
+    } ]
+  }, {
+    "tStartMs": 595400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "be able to have any spin, not \njust half or full integer spins."
+    } ]
+  }, {
+    "tStartMs": 601000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So if this is supposedly a more robust \nmethod for understanding particle statistics,  "
+    } ]
+  }, {
+    "tStartMs": 605560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and it predicts any conceivable spin, \nwhy does this universe only seem to have  "
+    } ]
+  }, {
+    "tStartMs": 610280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "bosons and fermions with their very \nlimited allowable spins? Actually,  "
+    } ]
+  }, {
+    "tStartMs": 615080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "this prediction we just made for \nthe existence of anyons is probably  "
+    } ]
+  }, {
+    "tStartMs": 620040,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "right - they should exist in the situation \nI just described—a one dimensional universe!"
+    } ]
+  }, {
+    "tStartMs": 627000,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "So let’s add some dimensions and see if \nanyons still exist in those universes.  "
+    } ]
+  }, {
+    "tStartMs": 633720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "If we have 2 electrons moving in \n2 dimensions we would normally  "
+    } ]
+  }, {
+    "tStartMs": 637680,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "need a 4-dimensional configuration \nspace—that’s 2-D for each electron"
+    } ]
+  }, {
+    "tStartMs": 642480,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But we have a trick to get around this. \nWe only care about the locations of the  "
+    } ]
+  }, {
+    "tStartMs": 646440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "electrons relative to each other, so imagine \nour axes move around with the electrons. All we  "
+    } ]
+  }, {
+    "tStartMs": 651320,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "need is the distance between the electrons and \ntheir orientation with respect to each other."
+    } ]
+  }, {
+    "tStartMs": 656720,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "We call this center of mass coordinates, and \nit gives us a 2-D configuration space for our  "
+    } ]
+  }, {
+    "tStartMs": 662080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "2 electrons in 2 spatial dimensions. This \nis what it looks like for the electrons to  "
+    } ]
+  }, {
+    "tStartMs": 666760,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "move around in real space and this new config \nspace. Distance between them gets smaller and  "
+    } ]
+  }, {
+    "tStartMs": 673760,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "the configuration moves towards zero seperation, \nand also the position of the center of mass rises"
+    } ]
+  }, {
+    "tStartMs": 681120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Once again, the indistinguishability \nof the particles means some of this  "
+    } ]
+  }, {
+    "tStartMs": 684560,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "new configuration space is redundant. \nWhenever they pass through zero separation  "
+    } ]
+  }, {
+    "tStartMs": 689640,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "we don’t know whether they’ve passed by each \nother or deflected back the way they came"
+    } ]
+  }, {
+    "tStartMs": 694080,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "This has the effect of eliminating half \nthe plane, because we can never tell which  "
+    } ]
+  }, {
+    "tStartMs": 698040,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "particle is to the left or to the right \nbut oddly enough when the configuration  "
+    } ]
+  }, {
+    "tStartMs": 702600,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "reaches this border it doesn't bounce back, \nbut rather it \"pacmans\" to the other side."
+    } ]
+  }, {
+    "tStartMs": 709160,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "In this case to be able to describe continuous \nnon-pac-man-like motion we do a little arts and  "
+    } ]
+  }, {
+    "tStartMs": 715440,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "crafts—we fold the remaining half of \nthe config space and join the edges."
+    } ]
+  }, {
+    "tStartMs": 721080,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Now the same motion in this space looks like \nmoving around the cone. If our 2-electron system  "
+    } ]
+  }, {
+    "tStartMs": 728600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "makes one circuit around the cone it means the \nelectrons must have passed the Pac-Man boundary,  "
+    } ]
+  }, {
+    "tStartMs": 733960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "so they passed very close to each other \nso that we lost track of which is which.  "
+    } ]
+  }, {
+    "tStartMs": 738520,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "This is the equivalent of bouncing off the \nboundary in the previous case. It also means  "
+    } ]
+  }, {
+    "tStartMs": 743840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "the 2-particle wavefunction picks up a phase \nshift if it does this. If our particles are  "
+    } ]
+  }, {
+    "tStartMs": 749400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "anyons, that phase shift could be anything."
+    } ]
+  }, {
+    "tStartMs": 752840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "If we want to reverse the phase shift \nwe just have the system retrace its  "
+    } ]
+  }, {
+    "tStartMs": 756680,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "steps. If the phase shift for a clockwise \nmotion in config space is some value eta,  "
+    } ]
+  }, {
+    "tStartMs": 764440,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "then the shift for an anti clockwise shift is \nminus that—minus eta. That has to be the case  "
+    } ]
+  }, {
+    "tStartMs": 772520,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "because rewinding things should subtract \nthe phase shift that was added. For this  "
+    } ]
+  }, {
+    "tStartMs": 778120,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "2-D case that phase shift can be anything we \nwant—therefore 2-D anyons should still exist."
+    } ]
+  }, {
+    "tStartMs": 785280,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "OK, so what about a universe like our own with 3 \nspatial dimensions? If we have 2 particles moving  "
+    } ]
+  }, {
+    "tStartMs": 792240,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "in 3 dimensions we need a 6-D configuration space \nto represent it. Even with tricks like center of  "
+    } ]
+  }, {
+    "tStartMs": 799360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "mass coordinates we still have a 4-D space, which \nisn’t going to be easy to represent on your 2-D  "
+    } ]
+  }, {
+    "tStartMs": 803800,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "screen. What we can do is restrict our particles \nto a 2-D plane in that 3-D space. If we do that,  "
+    } ]
+  }, {
+    "tStartMs": 811000,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "the configuration space looks just like the \nprevious one where the actual universe was 2-D."
+    } ]
+  }, {
+    "tStartMs": 816480,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "But there’s a difference in the case of \nthe 2-D plane embedded in a 3-D universe  "
+    } ]
+  }, {
+    "tStartMs": 821720,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "compared to an actual 2-D universe. See, in a \n2-D universe you can’t turn around to see the  "
+    } ]
+  }, {
+    "tStartMs": 827920,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "plane of motion from the other direction, but \nin a 3-D one you can. And believe it or not,  "
+    } ]
+  }, {
+    "tStartMs": 835000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "it’s your ability to do that that \nultimately makes anyons impossible."
+    } ]
+  }, {
+    "tStartMs": 840440,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "What do I mean by that? Remember the config space \nof the 2-D universe—the cone. Motion around the  "
+    } ]
+  }, {
+    "tStartMs": 846720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "cone introduces a phase shift and motion in \nthe opposite direction introduces the negative  "
+    } ]
+  }, {
+    "tStartMs": 851600,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "of the same shift. In the 2-D slice in our 3-D \nuniverse that should be exactly the same. Pass  "
+    } ]
+  }, {
+    "tStartMs": 858440,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "two indistinguishable particles through the \nsame point and they pick up one phase shift,  "
+    } ]
+  }, {
+    "tStartMs": 863920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "pass them backwards and they should pick \nup the negative to return to their initial  "
+    } ]
+  }, {
+    "tStartMs": 867760,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "state. In configuration space, the 2-D \nslice of our 3-D universe should give  "
+    } ]
+  }, {
+    "tStartMs": 872800,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "opposite phase shifts for clockwise \nversus counterclockwise motion."
+    } ]
+  }, {
+    "tStartMs": 877640,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "But now we’re in 3-D space we can do something \nwe couldn’t in 2-D space. We can rotate our  "
+    } ]
+  }, {
+    "tStartMs": 883120,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "point of view by turning around in the new \ndimension. Think of this like looking at  "
+    } ]
+  }, {
+    "tStartMs": 888200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "a transparent clock from the front and then \nlooking at it from the back. Clockwise will  "
+    } ]
+  }, {
+    "tStartMs": 892840,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "look like counterclockwsie even though the \nwatch itself is moving in the exact same way."
+    } ]
+  }, {
+    "tStartMs": 899360,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "If we change our reference frame by rotating it \n180 degrees the motion looks different—as though  "
+    } ]
+  }, {
+    "tStartMs": 906320,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "reflected in a mirror. Now if we construct \nthe configuration space with respect to our  "
+    } ]
+  }, {
+    "tStartMs": 912280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "new perspective, we see that motions are reversed. \nClockwise becomes counterclockwise and vice versa."
+    } ]
+  }, {
+    "tStartMs": 918120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "But this time we reversed the apparent particle \nmotion by changing our frame of reference,  "
+    } ]
+  }, {
+    "tStartMs": 922360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "not by moving the particles differently. \nSo really there should be no difference  "
+    } ]
+  }, {
+    "tStartMs": 925720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "to the phase shift compared to when we \nwere looking from the other direction.  "
+    } ]
+  }, {
+    "tStartMs": 929080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Why should the quantum nature of electrons \ncare about which way we’re facing? After all,  "
+    } ]
+  }, {
+    "tStartMs": 933320,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "two observers could be facing different \ndirections and should observe the same  "
+    } ]
+  }, {
+    "tStartMs": 936800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "phase shift. On the other hand, if we really \ndid cause those particles to reverse their  "
+    } ]
+  }, {
+    "tStartMs": 941400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "path we’d have counterclockwise motion on \nconfiguration space and we WOULD expect a  "
+    } ]
+  }, {
+    "tStartMs": 946280,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "negative phase shift. So it seems we have \na contradiction. How can this clockwise or  "
+    } ]
+  }, {
+    "tStartMs": 951840,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "counterclockwise motion both give opposite sign \nphase shifts and the same sign phase shifts?"
+    } ]
+  }, {
+    "tStartMs": 960160,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "Well, they can't really. But the only valid answer \nis if the ultimate effect on the wavefunction  "
+    } ]
+  }, {
+    "tStartMs": 967080,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "is the same because then there’s no way to \ndistinguish why the rotation direction flipped."
+    } ]
+  }, {
+    "tStartMs": 973200,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Remember that the effect of a phase shift on the \nwavefunction is to multiply the wavefunction by  "
+    } ]
+  }, {
+    "tStartMs": 982200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "e to the power of i times pi times the shift. \nFor the most powers, e to the i pi eta is not  "
+    } ]
+  }, {
+    "tStartMs": 985120,
+    "dDurationMs": 10280,
+    "segs": [ {
+      "utf8": "equal to e to the minus i pi eta. Unless \neta is an integer. Then the effect of a  "
+    } ]
+  }, {
+    "tStartMs": 995400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "positive or negative shift on \nthe wavefunction is identical."
+    } ]
+  }, {
+    "tStartMs": 1000400,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "Any even integer—0, 2, 4, or -2, \n-4, etc leads to multiplying the  "
+    } ]
+  }, {
+    "tStartMs": 1007160,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "wavefunction by 1–these are bosons. \nEvery odd integer—1, 3, 5, -1, -3,  "
+    } ]
+  }, {
+    "tStartMs": 1015000,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "etc—multiplies the wavefunction \nby -1–those are our fermions."
+    } ]
+  }, {
+    "tStartMs": 1020560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "So long story short: in a 3-D universe, \nthe particle exchange symmetry has to  "
+    } ]
+  }, {
+    "tStartMs": 1025800,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "work the same no matter the orientation of the \nsystem or the observer. That allows only phase  "
+    } ]
+  }, {
+    "tStartMs": 1031440,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "shifts that are multiples of pi, which in \nturn translates to only bosons or fermions  "
+    } ]
+  }, {
+    "tStartMs": 1036520,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "depending on whether it’s an even or odd \nmultiple. Any other shift is disallowed  "
+    } ]
+  }, {
+    "tStartMs": 1042240,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "because it breaks the universe. Which means \nanyons can’t exist in any universe with 3  "
+    } ]
+  }, {
+    "tStartMs": 1049000,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "or more dimensions. But in a 1- or 2-D \nuniverse there’s no way to view the particle  "
+    } ]
+  }, {
+    "tStartMs": 1054320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "motion from a different orientation \nin a way that reflects clockwise to  "
+    } ]
+  }, {
+    "tStartMs": 1059040,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "counterclockwise. Therefore non-integer shifts \ndon’t break anything and anyons are possible."
+    } ]
+  }, {
+    "tStartMs": 1066960,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "So, what is the use of all of this? Well, besides \nbeing a beautiful explanation of the origin of  "
+    } ]
+  }, {
+    "tStartMs": 1072880,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "bosons and fermions, perhaps it does allow \nus to make anyons in this universe after all."
+    } ]
+  }, {
+    "tStartMs": 1078600,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Just last year a team in France figured out that \nif you stick two very specific alloys together the  "
+    } ]
+  }, {
+    "tStartMs": 1084320,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "electrons in between them are sorta trapped and \nthey can only move through the 2D surface where  "
+    } ]
+  }, {
+    "tStartMs": 1091040,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the metals they touch. Then by carefully applying \nmagnetic fields they can give these particles  "
+    } ]
+  }, {
+    "tStartMs": 1097160,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "more or less spin than what they should normally \nhave, and as a result they behave like anyons."
+    } ]
+  }, {
+    "tStartMs": 1104280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "This team even managed to move the \nanyons in specific directions and  "
+    } ]
+  }, {
+    "tStartMs": 1108840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "make them collide with each other, and by \nanalyzing these collisions they were able  "
+    } ]
+  }, {
+    "tStartMs": 1112680,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "to prove their anyons had a spin of ⅓ \ninstead of the usual ½ for electrons."
+    } ]
+  }, {
+    "tStartMs": 1119320,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Anyons could also be useful in quantum computing. \nQuantum computers work by controlling the flow of  "
+    } ]
+  }, {
+    "tStartMs": 1124800,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "probability between two possibilities, but with \nanyons probability can flow in more directions,  "
+    } ]
+  }, {
+    "tStartMs": 1130960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "allowing quantum computers to \ndo more complex algorithms,  "
+    } ]
+  }, {
+    "tStartMs": 1134160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "or even storing quantum information in \nways that are very resistant to noise.  "
+    } ]
+  }, {
+    "tStartMs": 1139560,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "We know all of this is possible, but \nwe are still years away from a quantum  "
+    } ]
+  }, {
+    "tStartMs": 1143720,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "computer based on anyons. And there are many \nother potential applications besides these."
+    } ]
+  }, {
+    "tStartMs": 1151280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Nature intended to give us only \nfermions and bosons to work with,  "
+    } ]
+  }, {
+    "tStartMs": 1156360,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "but by looking very closely at how probability \nbehaves in lower dimensions we were able to  "
+    } ]
+  }, {
+    "tStartMs": 1162120,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "find a treasure trove of infinitely many \nparticles with strange properties. They  "
+    } ]
+  }, {
+    "tStartMs": 1167200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "cannot exist without our help, but \nwe’re now learning how to promote  "
+    } ]
+  }, {
+    "tStartMs": 1171720,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "these strange lower dimensional entities \nup into our 3+1-dimensional spacetime."
+    } ]
+  }, {
+    "tStartMs": 1178480,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "We’d like to thank Nord – makers of NordVPN – \nfor supporting PBS. Nord’s strives to make the  "
+    } ]
+  }, {
+    "tStartMs": 1184120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "internet better than it is today free from \nthreats and surveillance. If you’ve never  "
+    } ]
+  }, {
+    "tStartMs": 1189280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "used a Virtual Private Network, imagine \nVPN as an encrypted tunnel for online  "
+    } ]
+  }, {
+    "tStartMs": 1194360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "traffic to flow. Nobody can see through the \ntunnel and get their hands on your internet  "
+    } ]
+  }, {
+    "tStartMs": 1198880,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "data. And with Nord’s Threat Protection, users’ \nclicks are guarded while browsing. If you’re  "
+    } ]
+  }, {
+    "tStartMs": 1205760,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "downloading a file, threat protection checks \nit for malware. If you’re clicking a link,  "
+    } ]
+  }, {
+    "tStartMs": 1210840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "threat protection checks if it leads to \na suspicious website. And In addition to  "
+    } ]
+  }, {
+    "tStartMs": 1215880,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "its security features, Threat Protection also \nstops many types of web trackers to protect  "
+    } ]
+  }, {
+    "tStartMs": 1221360,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "your privacy. To learn more about NordVPN, \njust check out https://nordvpn.com/spacetime."
+    } ]
+  }, {
+    "tStartMs": 1228200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Twelve years ago on July 4th, 2012 the ATLAS \nand CMS collaborations announced the discovery  "
+    } ]
+  }, {
+    "tStartMs": 1234360,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "of a new particle to a packed auditorium \nat CERN. It was revealed to be the Higgs  "
+    } ]
+  }, {
+    "tStartMs": 1239040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Boson - the particle that makes the existence \nof matter and interactions as we know them  "
+    } ]
+  }, {
+    "tStartMs": 1243920,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "possible. To celebrate the fireworks of that \ncollision we’ve designed our very own limited  "
+    } ]
+  }, {
+    "tStartMs": 1249160,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "edition UV glow print Higgs T-Shirt \u0026 Hoodie. \nBoth the t-shirt and hoodie are UV charged,  "
+    } ]
+  }, {
+    "tStartMs": 1255600,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "so after being out in the sun they’ll begin \nto glow. Because of the UV printing process,  "
+    } ]
+  }, {
+    "tStartMs": 1260200,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "we only are able to print a limited number. If \nyou’d like to receive your shirt before July 4th,  "
+    } ]
+  }, {
+    "tStartMs": 1267160,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "then you’ll need to put your order in by \nJune 23rd. Check out pbsspacetime.com/shop  "
+    } ]
+  }, {
+    "tStartMs": 1273800,
+    "dDurationMs": 14720,
+    "segs": [ {
+      "utf8": "to check them out. There’s a \nlink the in the description."
+    } ]
+  } ]
+}

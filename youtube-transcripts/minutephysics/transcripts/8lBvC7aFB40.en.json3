@@ -1,0 +1,229 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1319,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "There’s lots of physics going on in raindrops:\ncohesion, adhesion, air resistance – I"
+    } ]
+  }, {
+    "tStartMs": 5859,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "mean, falling raindrops often look more like\njellyfish than teardrops – but perhaps most"
+    } ]
+  }, {
+    "tStartMs": 10269,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "fascinating is the physics that makes raindrops\nimpossible."
+    } ]
+  }, {
+    "tStartMs": 13730,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "You might think making a raindrop is easy\n– just cool water vapor in the air past"
+    } ]
+  }, {
+    "tStartMs": 17410,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "its condensation point, and it condenses into\nliquid droplets, right?"
+    } ]
+  }, {
+    "tStartMs": 20580,
+    "dDurationMs": 4939,
+    "segs": [ {
+      "utf8": "But there’s a big problem standing, almost\nliterally, in the way: the surface of the"
+    } ]
+  }, {
+    "tStartMs": 25519,
+    "dDurationMs": 1391,
+    "segs": [ {
+      "utf8": "droplets themselves."
+    } ]
+  }, {
+    "tStartMs": 26910,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Liquids hate surfaces – they're bound by\nthe laws of intermolecular attraction to pull"
+    } ]
+  }, {
+    "tStartMs": 31400,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "together in an attempt to minimize the size\nof their surfaces."
+    } ]
+  }, {
+    "tStartMs": 34260,
+    "dDurationMs": 3991,
+    "segs": [ {
+      "utf8": "That’s why small water droplets are spherical,\nwhy you can put a huge amount of water on"
+    } ]
+  }, {
+    "tStartMs": 38251,
+    "dDurationMs": 3669,
+    "segs": [ {
+      "utf8": "a penny, and why bubbles form the crazy shapes\nthey do."
+    } ]
+  }, {
+    "tStartMs": 41920,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "The technical way of saying this is that surfaces\nrequire more free energy to make than volumes."
+    } ]
+  }, {
+    "tStartMs": 47180,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "For example, when you’re condensing water\nin saturated air from a gas to a liquid, every"
+    } ]
+  }, {
+    "tStartMs": 51320,
+    "dDurationMs": 4579,
+    "segs": [ {
+      "utf8": "cubic centimeter VOLUME of water you make\nreleases energy just from its change of volume"
+    } ]
+  }, {
+    "tStartMs": 55899,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and pressure – roughly enough to lift an\napple a meter into the air."
+    } ]
+  }, {
+    "tStartMs": 56899,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "But to make each square centimeter of the\nSURFACE of that water requires an INPUT of"
+    } ]
+  }, {
+    "tStartMs": 60879,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "energy – not much, but it's equivalent to\nlifting a fortune cookie fortune 1 centimeter."
+    } ]
+  }, {
+    "tStartMs": 65610,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "For large amounts of water, the energy you\nget from the volume, which is proportional"
+    } ]
+  }, {
+    "tStartMs": 68970,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "to the radius cubed, is more than enough to\nmake up for the energy cost due to the surface"
+    } ]
+  }, {
+    "tStartMs": 72851,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "area, which is proportional to the radius\nsquared."
+    } ]
+  }, {
+    "tStartMs": 75810,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Cubing tends to make things bigger than squaring."
+    } ]
+  }, {
+    "tStartMs": 78310,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "BUT for really small radii, the opposite is\ntrue – cubing a small number makes it smaller"
+    } ]
+  }, {
+    "tStartMs": 82920,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "than squaring it."
+    } ]
+  }, {
+    "tStartMs": 84290,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "This unavoidable mathematical truth means\nthat if a water droplet is below a certain"
+    } ]
+  }, {
+    "tStartMs": 88060,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "size, then making it bigger requires more\nsurface area energy than is released from"
+    } ]
+  }, {
+    "tStartMs": 92540,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "volume energy, meaning it TAKES energy for\nthe droplet to grow, so it doesn’t – it"
+    } ]
+  }, {
+    "tStartMs": 97649,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "shrinks."
+    } ]
+  }, {
+    "tStartMs": 98649,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "For pure cubic and quadratic functions, this\nequivalence point happens at 2/3 – that’s"
+    } ]
+  }, {
+    "tStartMs": 102810,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "when x^3 starts growing faster than x^2, but\nfor water droplets it’s somewhere around"
+    } ]
+  }, {
+    "tStartMs": 107390,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "a few million molecules; way too many to randomly\nclump together in less than the age of the"
+    } ]
+  }, {
+    "tStartMs": 112090,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "universe!"
+    } ]
+  }, {
+    "tStartMs": 113090,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "And thus, raindrops are impossible for the\nprecise mathematical fact that x squared grows"
+    } ]
+  }, {
+    "tStartMs": 117430,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "faster than x cubed – for small numbers."
+    } ]
+  }, {
+    "tStartMs": 120010,
+    "dDurationMs": 4679,
+    "segs": [ {
+      "utf8": "Ok, so obviously raindrops exist, but if you\nwant to know HOW they sidestep this battle"
+    } ]
+  }, {
+    "tStartMs": 124689,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "between quadratics and cubics, you’ll have\nto go watch MinuteEarth’s video about how"
+    } ]
+  }, {
+    "tStartMs": 128090,
+    "dDurationMs": 44420,
+    "segs": [ {
+      "utf8": "raindrops form."
+    } ]
+  } ]
+}

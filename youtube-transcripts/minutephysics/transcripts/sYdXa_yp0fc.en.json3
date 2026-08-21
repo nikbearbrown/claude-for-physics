@@ -1,0 +1,457 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If you're like me, I bet you \npicture a vibrating instrument  "
+    } ]
+  }, {
+    "tStartMs": 6160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "string as something like a swinging jump \nrope, with one bump, or two, or more… "
+    } ]
+  }, {
+    "tStartMs": 9760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And sure enough when you film a plucked \nstring on your phone, it does look wavy. "
+    } ]
+  }, {
+    "tStartMs": 13440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "But... the phone video is wrong, and the \npicture in my head (and maybe yours) is  "
+    } ]
+  }, {
+    "tStartMs": 17600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "also wrong. Plucked guitar strings don't look \nlike jump ropes. They look like triangles!"
+    } ]
+  }, {
+    "tStartMs": 22960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The real shape and movement of a strummed \nor plucked string comes down to the physics  "
+    } ]
+  }, {
+    "tStartMs": 26080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "of tension, and how the string is strummed. \nIt’s not shaken like a jump rope, instead,  "
+    } ]
+  }, {
+    "tStartMs": 30320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "it’s plucked into a triangular shape and \nreleased. Which maybe isn’t that surprising,  "
+    } ]
+  }, {
+    "tStartMs": 34560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "but what happens after it’s released is weird. "
+    } ]
+  }, {
+    "tStartMs": 37040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Depending on where you pluck the string, \nit’s a triangle that flattens out,  "
+    } ]
+  }, {
+    "tStartMs": 40080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "or a triangular wave that slides \ndiagonally back and forth,  "
+    } ]
+  }, {
+    "tStartMs": 42960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "but the surprising thing is that the string \nis mostly moving as a series of straight  "
+    } ]
+  }, {
+    "tStartMs": 46080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "lines and sharp angles,  AND those straight \nlines go back and forth and back and forth."
+    } ]
+  }, {
+    "tStartMs": 51520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The reason most parts of a string stay straight \nwhen plucked is apparent if we zoom in on a single  "
+    } ]
+  }, {
+    "tStartMs": 55760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "point: at the moment it’s released the tension \nwithin the string pulls equally on both ends,  "
+    } ]
+  }, {
+    "tStartMs": 59520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "cancelling out so there are no forces on that part \nof the string, and it won’t accelerate. But right  "
+    } ]
+  }, {
+    "tStartMs": 63280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "on the pluck point, the string is bent, so the \ntension from both ends now combines to pull that  "
+    } ]
+  }, {
+    "tStartMs": 67600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "point downwards. So the pluck point flattens \nand splits into two separate corners - one on  "
+    } ]
+  }, {
+    "tStartMs": 72160,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "the left and one on the right. In between, \nthe string is again straight, so there are  "
+    } ]
+  }, {
+    "tStartMs": 75280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "no forces and therefore no acceleration, but \nit keeps moving down with the speed it gained  "
+    } ]
+  }, {
+    "tStartMs": 78640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "from being pulled straight in the first place. \nThe two corners travel downwards and outwards,  "
+    } ]
+  }, {
+    "tStartMs": 82080,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "reflecting off the string ends, and leaving \nus with a triangular wave that bounces up and  "
+    } ]
+  }, {
+    "tStartMs": 85360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "down. THIS is what a guitar string looks \nlike when it is plucked from the middle."
+    } ]
+  }, {
+    "tStartMs": 88720,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "If you pluck closer to one end, then the angles \nare slightly different, but you get a similar  "
+    } ]
+  }, {
+    "tStartMs": 92400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "(and possibly more surprising) triangular, \nzigzag-y wave bouncing back and forth."
+    } ]
+  }, {
+    "tStartMs": 96480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So why does phone camera video of strings \nlook so wavy? And aren’t guitar strings  "
+    } ]
+  }, {
+    "tStartMs": 100480,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "supposed to vibrate according to the \nfundamental sine wave-shaped harmonics  "
+    } ]
+  }, {
+    "tStartMs": 103440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "of a string? There are actually \ntwo different things going on."
+    } ]
+  }, {
+    "tStartMs": 106160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "With the camera, the waves we see are actually an \nartifact of the camera’s rolling shutter: the fact  "
+    } ]
+  }, {
+    "tStartMs": 109920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that the camera doesn’t take a single frame in a \nsingle moment, but “scans” down across the frame  "
+    } ]
+  }, {
+    "tStartMs": 113680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "taking time to capture the image, and during \nthat time the string will move back and forth,  "
+    } ]
+  }, {
+    "tStartMs": 117040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "so the waves in the image are from different \npoints in time. Even a straight bar that moves  "
+    } ]
+  }, {
+    "tStartMs": 120880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "up and down periodically during the scan will \nappear wavy. You can tell that the waviness is  "
+    } ]
+  }, {
+    "tStartMs": 124880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "just an artifact of the camera sensor by turning \nthe camera 90 degrees and the waves go away."
+    } ]
+  }, {
+    "tStartMs": 128960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "As for the sine-wave harmonics that we imagine \nare the way guitar strings vibrate - it’s true  "
+    } ]
+  }, {
+    "tStartMs": 132560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "that a guitar string will vibrate like \na sine wave if it’s passively excited  "
+    } ]
+  }, {
+    "tStartMs": 135600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "by sympathetic resonance from another \ninstrument nearby (or from speakers). "
+    } ]
+  }, {
+    "tStartMs": 138960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The reason a plucked guitar string isn’t wavy \nis because it’s composed of a superposition of  "
+    } ]
+  }, {
+    "tStartMs": 142720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "harmonics that add up and cancel out to \ncreate the weird triangle shape. If you  "
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "pluck the string closer to the middle, you get \nmore of the fundamental lowest harmonic and so  "
+    } ]
+  }, {
+    "tStartMs": 149440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "the string is closer in shape and sound to that \nfundemental, which is why the guitar plucked in  "
+    } ]
+  }, {
+    "tStartMs": 153120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "the middle sounds more “pure”. If you pluck \ncloser to the ends, the triangle you create  "
+    } ]
+  }, {
+    "tStartMs": 157040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "needs more higher harmonics in the superposition, \nso the sound is more complex and also tinnier."
+    } ]
+  }, {
+    "tStartMs": 161680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "But plucking a string is just one way to play a \nstring instrument. You can also strike a string  "
+    } ]
+  }, {
+    "tStartMs": 165200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "with a hammer, like in a piano. This gives the \nstruck point of the string an initial upwards  "
+    } ]
+  }, {
+    "tStartMs": 169200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "velocity, and the struck point moves upwards \nuntil the tension from the rest of the string  "
+    } ]
+  }, {
+    "tStartMs": 172320,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "slows it to a standstill - at which point the \nneighboring points will have been pulled upwards,  "
+    } ]
+  }, {
+    "tStartMs": 175840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "etc: the impact spreads as a pair of \npulses which travel out along the string,  "
+    } ]
+  }, {
+    "tStartMs": 179040,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "reflecting at the ends. If instead you strike \nmore off-center, one reflection happens first,  "
+    } ]
+  }, {
+    "tStartMs": 183520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "making it look like a single up-and-down pulse \nthat travels back and forth along the string."
+    } ]
+  }, {
+    "tStartMs": 187280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Or you can bow a string, like on a violin. \nInstead of releasing from a static triangle,  "
+    } ]
+  }, {
+    "tStartMs": 191520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "or imbuing a momentary impulse to the string, \na bow imparts a continuous steady pull on the  "
+    } ]
+  }, {
+    "tStartMs": 196080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "string, so the string has to oscillate \nin a way that moves in tandem with the  "
+    } ]
+  }, {
+    "tStartMs": 199200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "constant speed of the bow, then suddenly \nslips back, then sticks to the bow again,  "
+    } ]
+  }, {
+    "tStartMs": 203280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "etc. It turns out the shape that the string \ntakes to achieve this repetition of sticking  "
+    } ]
+  }, {
+    "tStartMs": 206960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and slipping is like a slightly rounded triangle \nwhose corner sweeps out something like an ellipse  "
+    } ]
+  }, {
+    "tStartMs": 211360,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "(although the geometry of real violin strings \nmakes the ellipse-like shape very narrow)."
+    } ]
+  }, {
+    "tStartMs": 215440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "In summary: instrument strings don’t actually \nlook like jump ropes. Except… they kind of do:  "
+    } ]
+  }, {
+    "tStartMs": 220800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "first, in real life the strings are moving so \nfast that the movement blurs into something  "
+    } ]
+  }, {
+    "tStartMs": 224240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that DOES kind of look like a sine-wave, \nsecond, the string isn’t just vibrating in  "
+    } ]
+  }, {
+    "tStartMs": 227600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "one plane - it can rotate around in 3D which \nmakes things more spread-out, and third,  "
+    } ]
+  }, {
+    "tStartMs": 231440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "a plucked or struck string will transfer energy \ninto the body of the instrument and back into  "
+    } ]
+  }, {
+    "tStartMs": 235200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the string so that it eventually “settles out” \ninto a jump-rope-like sine wave-y oscillation."
+    } ]
+  }, {
+    "tStartMs": 239040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So perhaps we can all be forgiven for thinking \nthat a string vibrates like a jump-rope;  "
+    } ]
+  }, {
+    "tStartMs": 242400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "because that’s what it looks like \nto our slow human eyes. But don’t  "
+    } ]
+  }, {
+    "tStartMs": 245600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "forget that hidden inside the blur is some \nprofoundly weird physics… and some triangles."
+    } ]
+  }, {
+    "tStartMs": 252000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The weird and wonderful world of acoustics can \nbe explored much further in “Acoustics Today”,  "
+    } ]
+  }, {
+    "tStartMs": 255920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the official magazine from the Acoustical Society \nof America, who are the sponsors of this video."
+    } ]
+  }, {
+    "tStartMs": 260000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Acoustics Today is full of fascinating \narticles on vibration, sound, music, and more,  "
+    } ]
+  }, {
+    "tStartMs": 264080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "going in-depth while maintaining accessible \ncoverage of acoustics topics, including the  "
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "very latest scientific discoveries, such a recent \narticle on \"How We Hear Age in the Human Voice\"."
+    } ]
+  }, {
+    "tStartMs": 272240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "If you want to explore more fascinating stories \nabout the physics of sound and acoustics,  "
+    } ]
+  }, {
+    "tStartMs": 275680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "check out Acoustics Today FOR \nFREE at acousticstoday.org."
+    } ]
+  }, {
+    "tStartMs": 279280,
+    "dDurationMs": 3617,
+    "segs": [ {
+      "utf8": "Many thanks to the Acoustical Society of \nAmerica for supporting this MinutePhysics video."
+    } ]
+  } ]
+}

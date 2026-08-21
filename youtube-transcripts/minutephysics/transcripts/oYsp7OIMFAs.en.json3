@@ -1,0 +1,475 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3880,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "So, I play fiddle in a bluegrass band."
+    } ]
+  }, {
+    "tStartMs": 10300,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Even though it's an acoustic instrument"
+    } ]
+  }, {
+    "tStartMs": 11950,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "Typically, we're amplified at our shows. Fiddle is one of the most difficult instruments to amplify."
+    } ]
+  }, {
+    "tStartMs": 16810,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Typically you either use a microphone"
+    } ]
+  }, {
+    "tStartMs": 18270,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "Which is what I have here--a little clip-on microphone--and you can hear me talking through it or you use a pickup"
+    } ]
+  }, {
+    "tStartMs": 22709,
+    "dDurationMs": 4831,
+    "segs": [ {
+      "utf8": "which is embedded here in the bridge. A microphone typically sounds kind of more like what the instrument actually sounds like in person."
+    } ]
+  }, {
+    "tStartMs": 32260,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "While a pickup sounds kind of more, I don't know, \"tin canny.\""
+    } ]
+  }, {
+    "tStartMs": 40680,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "But problem is that sometimes I don't want the sound to be coming out of them"
+    } ]
+  }, {
+    "tStartMs": 43230,
+    "dDurationMs": 4619,
+    "segs": [ {
+      "utf8": "Sometimes I want to be able to tune my instrument, or talk to my bandmates without the entire audience hearing it."
+    } ]
+  }, {
+    "tStartMs": 47850,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "It's really easy to find mute pedals for pickups."
+    } ]
+  }, {
+    "tStartMs": 49719,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "It's a little bit harder to find mute pedals for microphones, but they do exist."
+    } ]
+  }, {
+    "tStartMs": 53039,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But as far as I can tell, there's really nothing out that you can buy that mutes both a microphone and a pickup together."
+    } ]
+  }, {
+    "tStartMs": 58559,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "There are some really really expensive preamps that are like a thousand bucks that will do that also."
+    } ]
+  }, {
+    "tStartMs": 61750,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "But I didn't want to spend a thousand bucks just for a mute."
+    } ]
+  }, {
+    "tStartMs": 64049,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And, of course, probably somebody watching this will tell me right away that they know exactly how to find this"
+    } ]
+  }, {
+    "tStartMs": 67540,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "but I couldn't find it after extensive searching so I decided to make one myself."
+    } ]
+  }, {
+    "tStartMs": 72640,
+    "dDurationMs": 2059,
+    "segs": [ {
+      "utf8": "Alright, the parts are here. Let's do this."
+    } ]
+  }, {
+    "tStartMs": 77980,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So, what do you need to make a dual-channel mute pedal for a mic and a pickup?"
+    } ]
+  }, {
+    "tStartMs": 81900,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "Two guitar cable jacks, an input and output mic jack, a three channel switch, one channel for the mic, one for the pickup and one for an LED."
+    } ]
+  }, {
+    "tStartMs": 88340,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "an LED and resistor,"
+    } ]
+  }, {
+    "tStartMs": 90280,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "9-volt battery and battery connector, some small bolts, a box to put it all in, and the makerspace at your local library"
+    } ]
+  }, {
+    "tStartMs": 96210,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "which has plenty of wire, soldering irons, drill bits, and so on. All in all it's only about twenty or thirty bucks if you already"
+    } ]
+  }, {
+    "tStartMs": 101909,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "own the tools or can borrow them from friends or go to a makerspace"
+    } ]
+  }, {
+    "tStartMs": 104700,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "I started off by finding the wiring diagrams for mute switches."
+    } ]
+  }, {
+    "tStartMs": 108210,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "I don't know much about circuits beyond what you learn in high school physics, so these circuits are very very simple."
+    } ]
+  }, {
+    "tStartMs": 113400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "The pickup is the easiest one since it has only two wires"
+    } ]
+  }, {
+    "tStartMs": 116480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "One in black carrying a fixed reference voltage"
+    } ]
+  }, {
+    "tStartMs": 120000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and the other in red carrying the signal from the pickup"
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "by connecting these two wires together you stop the signal from reaching the"
+    } ]
+  }, {
+    "tStartMs": 125480,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "amplifier or PA system or whatever."
+    } ]
+  }, {
+    "tStartMs": 127679,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "I tested this all out with alligator clip cables to make sure things worked and the pickup was successfully muted."
+    } ]
+  }, {
+    "tStartMs": 132900,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So, onto the microphone"
+    } ]
+  }, {
+    "tStartMs": 134500,
+    "dDurationMs": 1829,
+    "segs": [ {
+      "utf8": "The mic has three wires"
+    } ]
+  }, {
+    "tStartMs": 136329,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "One with a fixed reference voltage and the other two carrying copies of the signal from the mic."
+    } ]
+  }, {
+    "tStartMs": 140880,
+    "dDurationMs": 5759,
+    "segs": [ {
+      "utf8": "The copies are inverted relative to each other and are later combined in a clever way to help minimize interference from other nearby"
+    } ]
+  }, {
+    "tStartMs": 146890,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "electronics. Anyway, because the copies of the signal are inverted if we connect the two signal wires together the signals interfere and don't reach the"
+    } ]
+  }, {
+    "tStartMs": 153750,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "PA system, muting the microphone. I tested this out too just to make sure it was working test 1 test 2 test"
+    } ]
+  }, {
+    "tStartMs": 161019,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "1 test 2 test 1 test :and it worked. As a theoretical physicist,"
+    } ]
+  }, {
+    "tStartMs": 166440,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "I'm constantly amazed when something actually works in real life the way you predict it should. Oh, yeah"
+    } ]
+  }, {
+    "tStartMs": 170760,
+    "dDurationMs": 3779,
+    "segs": [ {
+      "utf8": "And of course there has to be a nice red LED that lights up to show when the mute is on."
+    } ]
+  }, {
+    "tStartMs": 174670,
+    "dDurationMs": 6619,
+    "segs": [ {
+      "utf8": "The LED has a very simple circuit: just a 9-volt battery supplying power and a resistor so you don't blow out the LED. and"
+    } ]
+  }, {
+    "tStartMs": 181450,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "I tested this too, just to make sure, because I don't know what I'm doing."
+    } ]
+  }, {
+    "tStartMs": 184920,
+    "dDurationMs": 6659,
+    "segs": [ {
+      "utf8": "The combination of that click together with the light going on is so satisfying. So now to put this all into the box,"
+    } ]
+  }, {
+    "tStartMs": 191650,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "which came with no holes in it."
+    } ]
+  }, {
+    "tStartMs": 193200,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "So I spent entirely way too long measuring and re measuring to figure out exactly where each of the holes should be."
+    } ]
+  }, {
+    "tStartMs": 197940,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I only had one box and I did not want to mess it up."
+    } ]
+  }, {
+    "tStartMs": 200519,
+    "dDurationMs": 5309,
+    "segs": [ {
+      "utf8": "I learned that step drill bits like this one are good for drilling big holes and thin materials as long as you have enough space"
+    } ]
+  }, {
+    "tStartMs": 205829,
+    "dDurationMs": 2339,
+    "segs": [ {
+      "utf8": "On the other side for the bit to go through without hitting stuff."
+    } ]
+  }, {
+    "tStartMs": 208169,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Oh, and this shiny plastic box is ugly and"
+    } ]
+  }, {
+    "tStartMs": 211180,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "scratches and smudges way too easily. A quick visit to the kitchen scouring pad gave it a sleek brushed look, though"
+    } ]
+  }, {
+    "tStartMs": 217170,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "it still scratches kind of easily. Then it was time to get rid of those alligator clips and properly solder the connections together."
+    } ]
+  }, {
+    "tStartMs": 222370,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "This was my first real time soldering and I'm sure I broke all sorts of soldering rules."
+    } ]
+  }, {
+    "tStartMs": 226660,
+    "dDurationMs": 5569,
+    "segs": [ {
+      "utf8": "But I tried to look things up online and stay organized with different colors of wire and make sure I put the necessary wires through"
+    } ]
+  }, {
+    "tStartMs": 232230,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "the necessary holes before soldering them. And the heat shrink tubing maybe isn't necessary, but it is incredibly satisfying to put on."
+    } ]
+  }, {
+    "tStartMs": 238989,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Here's the LED circuit, soldered and still working and a little while later, here's the pickup being muted"
+    } ]
+  }, {
+    "tStartMs": 244739,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "and finally"
+    } ]
+  }, {
+    "tStartMs": 245459,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "I soldered the microphone connections and could actually put the switch into the box and put the LED in and test that everything was still"
+    } ]
+  }, {
+    "tStartMs": 251220,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "working. And I'm delighted to say it works. All in all this took me around eight or nine hours to build"
+    } ]
+  }, {
+    "tStartMs": 255669,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "including filming myself while building it and if I did anything differently it would be to get a metal box."
+    } ]
+  }, {
+    "tStartMs": 260250,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "The plastic one is just a tad flimsy and still too easily scratched. So here's the finished product."
+    } ]
+  }, {
+    "tStartMs": 265380,
+    "dDurationMs": 3449,
+    "segs": [ {
+      "utf8": "It has two inputs, either for my mic or my pickup or both and"
+    } ]
+  }, {
+    "tStartMs": 269080,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "one button that I can push to mute both of them together. That's all I wanted."
+    } ]
+  }, {
+    "tStartMs": 273090,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "I don't know why this doesn't exist, but I had to make it myself."
+    } ]
+  }, {
+    "tStartMs": 279220,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "I am so pleased with this. I'm really excited."
+    } ]
+  }, {
+    "tStartMs": 281460,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "It's such a simple stupid little project."
+    } ]
+  }, {
+    "tStartMs": 283169,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "But I'm super excited that I made something that didn't exist or I couldn't find and it's exactly what I want,"
+    } ]
+  }, {
+    "tStartMs": 288810,
+    "dDurationMs": 3029,
+    "segs": [ {
+      "utf8": "and that's what's so satisfying about it. I highly recommend that you try projects like this."
+    } ]
+  }, {
+    "tStartMs": 291840,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "It's really satisfying--you learn stuff and you end up with a product that you're proud of and"
+    } ]
+  }, {
+    "tStartMs": 297729,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "that you're gonna use actually in your, you know, your hobby of playing fiddle in a bluegrass band."
+    } ]
+  }, {
+    "tStartMs": 311990,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "If you're the sort of person who likes to tinker with electronics or making stuff and likes to understand how stuff like this works,"
+    } ]
+  }, {
+    "tStartMs": 316930,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "I highly recommend today's sponsor Brilliant.org. Brilliant is a website with all sorts of puzzles and problems about science and math."
+    } ]
+  }, {
+    "tStartMs": 322450,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "You can learn things through their guided courses and quizzes, or you can just do their daily puzzles."
+    } ]
+  }, {
+    "tStartMs": 326830,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "They have a ton of stuff on there--courses about circuits and electricity and magnetism how"
+    } ]
+  }, {
+    "tStartMs": 330680,
+    "dDurationMs": 5809,
+    "segs": [ {
+      "utf8": "electronics work and the first 200 people to go to Brilliant.org/minutephysics will get 20% off of a premium subscription"
+    } ]
+  }, {
+    "tStartMs": 336490,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "to Brilliant, which gives you full access to all of their courses and puzzles and the daily problems."
+    } ]
+  }, {
+    "tStartMs": 341150,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "Again, that's brilliant.org/minutephysics for 20% off a premium subscription to Brilliant and to let Brilliant know that you came from here."
+    } ]
+  }, {
+    "tStartMs": 347630,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  } ]
+}

@@ -1,0 +1,1267 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 440,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "On the quantum scale, we can see these multiple histories play out and even talk to each other."
+    } ]
+  }, {
+    "tStartMs": 6940,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "So why can't we see that happen on our familiar large scale world?"
+    } ]
+  }, {
+    "tStartMs": 11420,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Many physicists believe that the answer lies\nin a process known as quantum decoherence."
+    } ]
+  }, {
+    "tStartMs": 21380,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "The Heisenberg cut - is it the share of proceeds\nyou send to Walter White to avoid, well, getting cut?"
+    } ]
+  }, {
+    "tStartMs": 29380,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "Sure - but it’s also the elusive dividing\nline between the quantum and classical worlds."
+    } ]
+  }, {
+    "tStartMs": 35900,
+    "dDurationMs": 4369,
+    "segs": [ {
+      "utf8": "In last week’s episode we started down this\nrabbit hole exploring the measurement problem"
+    } ]
+  }, {
+    "tStartMs": 40269,
+    "dDurationMs": 6151,
+    "segs": [ {
+      "utf8": "- the question of why and where the blurry\nquantum wavefunction collapses into well-defined"
+    } ]
+  }, {
+    "tStartMs": 46420,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "measurement results."
+    } ]
+  }, {
+    "tStartMs": 48260,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "We focused on a simple question: does conscious\nobservation of a quantum system cause the"
+    } ]
+  }, {
+    "tStartMs": 54870,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "wavefunction to collapse?"
+    } ]
+  }, {
+    "tStartMs": 55960,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "If you want the full story, this would be\na good time to pause and catch that episode."
+    } ]
+  }, {
+    "tStartMs": 61060,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Or whatever, do it later."
+    } ]
+  }, {
+    "tStartMs": 63850,
+    "dDurationMs": 5009,
+    "segs": [ {
+      "utf8": "The upshot is that more and more physicists\nthink that consciousness - and even measurement"
+    } ]
+  }, {
+    "tStartMs": 68859,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "- don’t directly cause wavefunction collapse."
+    } ]
+  }, {
+    "tStartMs": 72399,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "In fact probably there is no clear Heisenberg cut."
+    } ]
+  }, {
+    "tStartMs": 76249,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "The collapse itself may be an illusion, and\nthe alternate histories that the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 81820,
+    "dDurationMs": 3389,
+    "segs": [ {
+      "utf8": "represents may continue forever."
+    } ]
+  }, {
+    "tStartMs": 85209,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "The question then becomes: why is it that\nwe can see these multiple histories play out"
+    } ]
+  }, {
+    "tStartMs": 89909,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "on the quantum scale, and why do lose sight\nof them on our macroscopic scale?"
+    } ]
+  }, {
+    "tStartMs": 96009,
+    "dDurationMs": 5261,
+    "segs": [ {
+      "utf8": "Many physicists believe that the answer lies in quantum decoherence."
+    } ]
+  }, {
+    "tStartMs": 101270,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "Quantum decoherence is a deep and developing\nsubject, and today we’re going to dip our"
+    } ]
+  }, {
+    "tStartMs": 106819,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "toes and cover one aspect of it, by thinking\nin terms of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 112149,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "So quantum systems are described by this wavefunction\nthing - it’s the mathematical object that"
+    } ]
+  }, {
+    "tStartMs": 117399,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "defines the distribution of possible outcomes\nif you were to try to make a measurement of"
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "that system."
+    } ]
+  }, {
+    "tStartMs": 124500,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "Wavefunctions evolve over time according to\nthe Schrodinger equation, and that evolution"
+    } ]
+  }, {
+    "tStartMs": 129259,
+    "dDurationMs": 3981,
+    "segs": [ {
+      "utf8": "tracks how the system’s properties might\nchange."
+    } ]
+  }, {
+    "tStartMs": 133240,
+    "dDurationMs": 5389,
+    "segs": [ {
+      "utf8": "Another way to think about it is that the\ntime-dependent wavefunction maps all possible"
+    } ]
+  }, {
+    "tStartMs": 138629,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "histories for the object."
+    } ]
+  }, {
+    "tStartMs": 140930,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "Over time the histories of a quantum system\nseparate to represent every possible future"
+    } ]
+  }, {
+    "tStartMs": 147019,
+    "dDurationMs": 1571,
+    "segs": [ {
+      "utf8": "the laws of physics allow."
+    } ]
+  }, {
+    "tStartMs": 148590,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "But those separate histories don’t just\nsplit - they can also merge."
+    } ]
+  }, {
+    "tStartMs": 154220,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The probability for a system going from one\nstate to another can be calculated by summing"
+    } ]
+  }, {
+    "tStartMs": 159980,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "all possible histories that would lead to\nexactly that final state."
+    } ]
+  }, {
+    "tStartMs": 164860,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "This fact is also reflected in Richard Feynman’s\npath integral formulation of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 170090,
+    "dDurationMs": 8729,
+    "segs": [ {
+      "utf8": "But this only works if those alternate histories - those\nbranches of the wavefunction - remain “coherent”."
+    } ]
+  }, {
+    "tStartMs": 178819,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "If decoherence occurs then those separate\nbranches are lost from each other forever"
+    } ]
+  }, {
+    "tStartMs": 183409,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "- and we lose the ability to see branches\nbeyond our own."
+    } ]
+  }, {
+    "tStartMs": 187540,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Let’s talk about what coherence and decoherence\nactually mean."
+    } ]
+  }, {
+    "tStartMs": 191969,
+    "dDurationMs": 5611,
+    "segs": [ {
+      "utf8": "In general wave mechanics, we say that a set of waves are coherent if they match in frequency"
+    } ]
+  }, {
+    "tStartMs": 197580,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "and if the shape of the waves are the same,\nand if there’s a constant phase difference"
+    } ]
+  }, {
+    "tStartMs": 202689,
+    "dDurationMs": 7141,
+    "segs": [ {
+      "utf8": "between them - the peaks and troughs either\nline up exactly or have a constant offset."
+    } ]
+  }, {
+    "tStartMs": 209830,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Laser light is an example of a coherent wave."
+    } ]
+  }, {
+    "tStartMs": 213670,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "The best way to illustrate quantum coherence\nis with the good ol’ double-slit experiment."
+    } ]
+  }, {
+    "tStartMs": 218640,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "Hopefully you remember it from last week - a\nquantum particle seems to pass through two"
+    } ]
+  }, {
+    "tStartMs": 222609,
+    "dDurationMs": 6701,
+    "segs": [ {
+      "utf8": "slits simultaneously as a probability wave\nthat ultimately “collapses” to leave it"
+    } ]
+  }, {
+    "tStartMs": 229310,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "as a single position on a screen, and multiple\nindependent particles then land in these bands"
+    } ]
+  }, {
+    "tStartMs": 235780,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "- an interference pattern, which ultimately\ntraces out the shape of the same wavefunction"
+    } ]
+  }, {
+    "tStartMs": 241440,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "- the wavefunction of each independent particle."
+    } ]
+  }, {
+    "tStartMs": 244760,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "This time we'll use particles of light - photons as our quantum particle."
+    } ]
+  }, {
+    "tStartMs": 249200,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "So imagine a single photon traveling\nto a single spot in the center of the screen."
+    } ]
+  }, {
+    "tStartMs": 255069,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "We can imagine two equally likely ways for\nit to have got there - either via the left"
+    } ]
+  }, {
+    "tStartMs": 260110,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "slit or the right slit."
+    } ]
+  }, {
+    "tStartMs": 262070,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "We can think of those paths as slices of the\nwavefunction that represent possible trajectories."
+    } ]
+  }, {
+    "tStartMs": 268130,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The probability of the photon having reached\nthis particular spot is determined by the"
+    } ]
+  }, {
+    "tStartMs": 273090,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "sum of all possible trajectories to that spot."
+    } ]
+  }, {
+    "tStartMs": 276540,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "In this case that mostly means these two paths\n- these wavefunction slices, which we can"
+    } ]
+  }, {
+    "tStartMs": 281850,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "represent with simple sine waves."
+    } ]
+  }, {
+    "tStartMs": 284590,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Because the path lengths are the same, the\npeaks of one wave line up with the peaks of"
+    } ]
+  }, {
+    "tStartMs": 288900,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "the other - the two waves are perfectly in\nphase with each other."
+    } ]
+  }, {
+    "tStartMs": 293690,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "We call this constructive interference."
+    } ]
+  }, {
+    "tStartMs": 297350,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "Because the wavefunction is amplified at that\nspot, there’s a high probability of the"
+    } ]
+  }, {
+    "tStartMs": 302370,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "particle landing there."
+    } ]
+  }, {
+    "tStartMs": 304570,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "Now, we just saw two alternate but coherent histories\nmerging into the same final outcome."
+    } ]
+  }, {
+    "tStartMs": 310780,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Now just a little left of center, these two possible paths to that spot have different lengths."
+    } ]
+  }, {
+    "tStartMs": 316640,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Here the peaks of one wave line up with the\ntroughs of the other and the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 320990,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "completely cancels out."
+    } ]
+  }, {
+    "tStartMs": 322500,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "That’s destructive interference and the\nprobability of the particle ending up there"
+    } ]
+  }, {
+    "tStartMs": 326110,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "goes to zero."
+    } ]
+  }, {
+    "tStartMs": 327110,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "And as we continue to the left we find a\nfind a new location where the peaks line up"
+    } ]
+  }, {
+    "tStartMs": 331210,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "again."
+    } ]
+  }, {
+    "tStartMs": 332240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Here the path lengths differ by exactly one\nfull wavecycle."
+    } ]
+  }, {
+    "tStartMs": 336080,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "And so on - so we ultimately see this series\nof bands - lots of particles where the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 341780,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "is amplified, few where it’s canceled."
+    } ]
+  }, {
+    "tStartMs": 344830,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "In general we can see an interference pattern\nif there is coherence between different parts"
+    } ]
+  }, {
+    "tStartMs": 350730,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "of the photon wavefunction."
+    } ]
+  }, {
+    "tStartMs": 352880,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "The key in this experiment is that all photons\nexit the slits with the same phase relationship."
+    } ]
+  }, {
+    "tStartMs": 359470,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "In this case, the phases match perfectly when\nthe wavefunction leaves the slits - peaks"
+    } ]
+  }, {
+    "tStartMs": 364550,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and troughs come out at the same time."
+    } ]
+  }, {
+    "tStartMs": 366910,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "But it still works if they don’t match exactly,\nas long as we get the same relative phase"
+    } ]
+  }, {
+    "tStartMs": 371430,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "offset between the two slits for every subsequent\nphoton."
+    } ]
+  }, {
+    "tStartMs": 375860,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "A constant phase offset will just shift the\ninterference pattern to left or right on the"
+    } ]
+  }, {
+    "tStartMs": 380170,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "screen."
+    } ]
+  }, {
+    "tStartMs": 381170,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So we have two parts of the wavefunction - two\nbranches or alternate histories"
+    } ]
+  }, {
+    "tStartMs": 385610,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "- that have a consistent phase relation between\nthem."
+    } ]
+  }, {
+    "tStartMs": 388650,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "In principle we can bring those parts of the\nwavefunction back together to cause interference."
+    } ]
+  }, {
+    "tStartMs": 393900,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "That’s the case for two separate paths that\nreach the same point on the screen in the"
+    } ]
+  }, {
+    "tStartMs": 397930,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "double slit experiment."
+    } ]
+  }, {
+    "tStartMs": 399710,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "If we see that spot, we can’t distinguish\nwhich of those histories led to it being made."
+    } ]
+  }, {
+    "tStartMs": 404540,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "In fact both did."
+    } ]
+  }, {
+    "tStartMs": 406690,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "We have to say that the photon passed equally\nthrough both slits, in what we call a superposition"
+    } ]
+  }, {
+    "tStartMs": 411710,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "of states."
+    } ]
+  }, {
+    "tStartMs": 413130,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And this is one of the weird, multiple history\naspects of quantum mechanics that we can directly"
+    } ]
+  }, {
+    "tStartMs": 418290,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "observe."
+    } ]
+  }, {
+    "tStartMs": 419290,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Let’s also think about two paths that reach\ndifferent points on the screen."
+    } ]
+  }, {
+    "tStartMs": 423690,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "These also have a known phase relation, so\nthey have quantum coherence relative to each"
+    } ]
+  }, {
+    "tStartMs": 428150,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "other."
+    } ]
+  }, {
+    "tStartMs": 429150,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "That means we could potentially bring those\nbranches back together again to produce the"
+    } ]
+  }, {
+    "tStartMs": 433750,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "same quantum state - for example by cutting\nslits in the second screen and producing an"
+    } ]
+  }, {
+    "tStartMs": 438970,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "interference pattern further down the track,\nand what seemed like completely alternate"
+    } ]
+  }, {
+    "tStartMs": 443570,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "histories could still merge."
+    } ]
+  }, {
+    "tStartMs": 445770,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "- but only as long as the wave function defining\nthose histories remains coherent."
+    } ]
+  }, {
+    "tStartMs": 450890,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "The photon remains in a superposition of states\n- it passed through both slits AND it reaches"
+    } ]
+  }, {
+    "tStartMs": 456690,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "both points on the screen - as long the wavefunctions\ndefining those outcomes remain coherent."
+    } ]
+  }, {
+    "tStartMs": 458410,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Got it?"
+    } ]
+  }, {
+    "tStartMs": 459410,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Sort of?"
+    } ]
+  }, {
+    "tStartMs": 460520,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Good."
+    } ]
+  }, {
+    "tStartMs": 461590,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "Now we’re going to talk about decoherence\n- the point where we lose our ability to distinguish"
+    } ]
+  }, {
+    "tStartMs": 467500,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "the multiple histories."
+    } ]
+  }, {
+    "tStartMs": 469530,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "To destroy coherence, all we need to do is\nto mess up that phase relation."
+    } ]
+  }, {
+    "tStartMs": 474930,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "For example, add a collection of particles\nto one of the slits."
+    } ]
+  }, {
+    "tStartMs": 478930,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "The part of the wavefunction - corresponding\nto a possible path of the photon - is now"
+    } ]
+  }, {
+    "tStartMs": 483500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "disturbed by those particles."
+    } ]
+  }, {
+    "tStartMs": 485700,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "We can think of that wavefunction slice as\nthe “possible photon” being absorbed"
+    } ]
+  }, {
+    "tStartMs": 490510,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "and reemitted by those particles, and so the\nwavefunction leaving that slit picks up a"
+    } ]
+  }, {
+    "tStartMs": 495890,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "random phase offset compared to the other\nslit."
+    } ]
+  }, {
+    "tStartMs": 498610,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Technically that emerging wavefunction\ncan still interfere with itself - the random"
+    } ]
+  }, {
+    "tStartMs": 503260,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "phase offset would just shift the pattern\nleft or right for that photon."
+    } ]
+  }, {
+    "tStartMs": 507610,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "But that shift would then change for each\nsubsequent photon - new photons land in unpredictable"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "places - so in the end we would just see a\nblur corresponding to overlapping patterns,"
+    } ]
+  }, {
+    "tStartMs": 519720,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "instead of a clean set of light and dark bands\nthat we saw in coherence."
+    } ]
+  }, {
+    "tStartMs": 525700,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "The key here is that we lost information about\nthe relative phase, and so we lost the ability"
+    } ]
+  }, {
+    "tStartMs": 531420,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "to see interference patterns."
+    } ]
+  }, {
+    "tStartMs": 534020,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "We lost the ability to distinguish the effect\nof multiple histories."
+    } ]
+  }, {
+    "tStartMs": 538380,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "From our perspective the wavefunction has\nlost coherence - decoherence has occurred."
+    } ]
+  }, {
+    "tStartMs": 544010,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "By the way, this is why any attempt to observe\nwhich slit the photon passes through destroys"
+    } ]
+  }, {
+    "tStartMs": 549750,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "the interference pattern."
+    } ]
+  }, {
+    "tStartMs": 551510,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "Any measurement device must introduce some\nlevel of decoherence to the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 556180,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "before it reaches the screen."
+    } ]
+  }, {
+    "tStartMs": 558590,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "According to the decoherence hypothesis, it’s\nnot really some magical effect whereby the"
+    } ]
+  }, {
+    "tStartMs": 563860,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "wavefunction “knows” that it has been\nobserved and so collapses."
+    } ]
+  }, {
+    "tStartMs": 567010,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "It’s something else entirely."
+    } ]
+  }, {
+    "tStartMs": 569040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And we will come back to that point."
+    } ]
+  }, {
+    "tStartMs": 571280,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "So now we have a basic understanding of coherence\nand decoherence."
+    } ]
+  }, {
+    "tStartMs": 575300,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "Let’s now leave the slits alone and let the\ncoherent photon wavefunction reach the screen"
+    } ]
+  }, {
+    "tStartMs": 581890,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "again."
+    } ]
+  }, {
+    "tStartMs": 583130,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "There the photon energizes electrons in a\npixel on the screen, which results in an electrical"
+    } ]
+  }, {
+    "tStartMs": 588820,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "signal passing along wires to a computer and\neventually into our brain."
+    } ]
+  }, {
+    "tStartMs": 594320,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "We can think about the photon wavefunction\nbecoming mixed with the wavefunctions of the"
+    } ]
+  }, {
+    "tStartMs": 599130,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "quantum particles along this chain."
+    } ]
+  }, {
+    "tStartMs": 601990,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "We can imagine separate possible histories\ncontinue, now with electrons simultaneously"
+    } ]
+  }, {
+    "tStartMs": 607380,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "excited and not excited across the screen,\nand superpositions of signals traveling from"
+    } ]
+  }, {
+    "tStartMs": 612860,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "those pixels ultimately to the brain of the\nobserver."
+    } ]
+  }, {
+    "tStartMs": 616710,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "But by now that wavefunction is getting pretty\nmessy."
+    } ]
+  }, {
+    "tStartMs": 620970,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "The electrons in the detector and in the circuits\nwill be at different locations and will have"
+    } ]
+  }, {
+    "tStartMs": 625550,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "different energies."
+    } ]
+  }, {
+    "tStartMs": 627650,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Phase differences get introduced between the\ndifferent branches of the increasingly complex"
+    } ]
+  }, {
+    "tStartMs": 632510,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "wavefunction."
+    } ]
+  }, {
+    "tStartMs": 634200,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Imagine just two potential locations for\nthe original double-slit photon."
+    } ]
+  }, {
+    "tStartMs": 638820,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Two branches of the wavefunction will represent\nhistories where the photon landed in different"
+    } ]
+  }, {
+    "tStartMs": 644020,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "locations."
+    } ]
+  }, {
+    "tStartMs": 645690,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "As those branches propagate along the wires\nthere’s still a particular phase offset"
+    } ]
+  }, {
+    "tStartMs": 650730,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "between them."
+    } ]
+  }, {
+    "tStartMs": 652120,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "If we knew what that phase offset was then we could cause these alternate histories to merge again - just"
+    } ]
+  }, {
+    "tStartMs": 657330,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "like when we cut new slits into the detector\nscreen."
+    } ]
+  }, {
+    "tStartMs": 660460,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Perhaps instead we could use that electrical\ncurrent to generate a new pair of photons,"
+    } ]
+  }, {
+    "tStartMs": 665580,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "which could then interfere."
+    } ]
+  }, {
+    "tStartMs": 667570,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "But that phase offset becomes less and less\nknowable the further the wavefunction advances,"
+    } ]
+  }, {
+    "tStartMs": 673690,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "and the chaotic nature of the system also\nensures that the phase offset changes between"
+    } ]
+  }, {
+    "tStartMs": 678610,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "one incoming signal and the next."
+    } ]
+  }, {
+    "tStartMs": 681060,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Without a consistent wave offset it’s not\npossible to map an interference pattern."
+    } ]
+  }, {
+    "tStartMs": 685670,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "The once coherent particles with their superposition\nof both separate histories that could merge,"
+    } ]
+  }, {
+    "tStartMs": 693710,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "become decoherent."
+    } ]
+  }, {
+    "tStartMs": 695080,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Ultimately, that expanding wavefunction includes\nthe circuitry of the computer, and then the"
+    } ]
+  }, {
+    "tStartMs": 700560,
+    "dDurationMs": 1219,
+    "segs": [ {
+      "utf8": "circuitry of your brain."
+    } ]
+  }, {
+    "tStartMs": 701780,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "There may still be multiple alternate histories propagating from the original double slit wavefunction,"
+    } ]
+  }, {
+    "tStartMs": 707500,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "but by now each of those wavefunction branches corresponds to a specific configuration of matter"
+    } ]
+  }, {
+    "tStartMs": 713420,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and information - in the computer and in your brain."
+    } ]
+  }, {
+    "tStartMs": 717420,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "And that particular brain configuration will\nresult in the conscious awareness consistent"
+    } ]
+  }, {
+    "tStartMs": 723090,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "with that one branch of the wavefunction - corresponding to a single location for the double-slit experiment."
+    } ]
+  }, {
+    "tStartMs": 730210,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "At this point, as far as you’re concerned,\nthe wavefunction has collapsed - decoherence"
+    } ]
+  }, {
+    "tStartMs": 735230,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "has occurred."
+    } ]
+  }, {
+    "tStartMs": 736270,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "But actually, the original double-slit wavefunction\nmay well continue to expand and complexify"
+    } ]
+  }, {
+    "tStartMs": 741470,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "as it mixes with the wavefunction of the rest\nof the universe."
+    } ]
+  }, {
+    "tStartMs": 745520,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "But there’s no way for you to see its other\nbranches - those have decohered from your"
+    } ]
+  }, {
+    "tStartMs": 750490,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "branch."
+    } ]
+  }, {
+    "tStartMs": 751490,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "So you shouldn’t think of yourself as this\ngods-eye observer, capable of seeing the whole"
+    } ]
+  }, {
+    "tStartMs": 756330,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "wavefunction and causing it to collapse."
+    } ]
+  }, {
+    "tStartMs": 759210,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "Rather you are embedded within the wavefunction\nand see only a slice of it - a slice corresponding"
+    } ]
+  }, {
+    "tStartMs": 765320,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "to a single history."
+    } ]
+  }, {
+    "tStartMs": 766690,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "It’s only on the smallest scales or in the\nmost idealized circumstances that different"
+    } ]
+  }, {
+    "tStartMs": 773020,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "different histories can still interact with\neach other due to the coherence of that part"
+    } ]
+  }, {
+    "tStartMs": 777760,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 779190,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "In order to do quantum experiments we need\nto isolate a slice of the global wavefunction"
+    } ]
+  }, {
+    "tStartMs": 784760,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "and maintain its coherence - we need to have\ninformation about the relative phases"
+    } ]
+  }, {
+    "tStartMs": 790600,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "across the parts of the wavefunction that\nwe’re interested in."
+    } ]
+  }, {
+    "tStartMs": 793850,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "And for macroscopic scales that’s not just difficult - it’s fundamentally impossible."
+    } ]
+  }, {
+    "tStartMs": 799690,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "Any contact with the external environment\ncauses the phase information to leak into"
+    } ]
+  }, {
+    "tStartMs": 805160,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "that environment."
+    } ]
+  }, {
+    "tStartMs": 806860,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "And by environment I mean anything that isn’t\nas perfectly controlled as your tiny, isolated"
+    } ]
+  }, {
+    "tStartMs": 812200,
+    "dDurationMs": 1889,
+    "segs": [ {
+      "utf8": "wavefunction slice."
+    } ]
+  }, {
+    "tStartMs": 814089,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "That includes yourself and your measuring\ndevice, unless you know the exact quantum"
+    } ]
+  }, {
+    "tStartMs": 818980,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "state of all of the particles of both."
+    } ]
+  }, {
+    "tStartMs": 823190,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "So I just described decoherence in a very\nloose way."
+    } ]
+  }, {
+    "tStartMs": 827300,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In fact the details have been worked out with\nmathematical rigor - starting with H. Dieter"
+    } ]
+  }, {
+    "tStartMs": 832300,
+    "dDurationMs": 2849,
+    "segs": [ {
+      "utf8": "Zeh’s foundational paper in 1970."
+    } ]
+  }, {
+    "tStartMs": 835149,
+    "dDurationMs": 6311,
+    "segs": [ {
+      "utf8": "There’s a lot more to discuss - including\nthe connection to quantum entanglement and"
+    } ]
+  }, {
+    "tStartMs": 841460,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "to entropy."
+    } ]
+  }, {
+    "tStartMs": 842460,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "We’ll go deeper in upcoming episodes."
+    } ]
+  }, {
+    "tStartMs": 844520,
+    "dDurationMs": 6810,
+    "segs": [ {
+      "utf8": "I should also say that this decoherence framework\nis not universally accepted - but it is increasingly"
+    } ]
+  }, {
+    "tStartMs": 851330,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "accepted."
+    } ]
+  }, {
+    "tStartMs": 852770,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Nor is it accepted that decoherence fully\nexplains the measurement problem"
+    } ]
+  }, {
+    "tStartMs": 856920,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and wavefunction collapse."
+    } ]
+  }, {
+    "tStartMs": 859260,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "But I would argue that it does - in the context of the Many Worlds interpretation"
+    } ]
+  }, {
+    "tStartMs": 864400,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "of quantum mechanics, in which there is no\nwavefunction collapses at all."
+    } ]
+  }, {
+    "tStartMs": 868440,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Decoherence then explains how we lose the\nability to see these alternate histories."
+    } ]
+  }, {
+    "tStartMs": 873590,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "The multiple branches of the wavefunction as it interacts on macroscopic scales."
+    } ]
+  }, {
+    "tStartMs": 878730,
+    "dDurationMs": 6770,
+    "segs": [ {
+      "utf8": "We only see what remains visible to us, stranded as we are on a single branch of the universal"
+    } ]
+  }, {
+    "tStartMs": 885520,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "wavefunction that itself contains so much more than our little, decohered slice of space time."
+    } ]
+  } ]
+}

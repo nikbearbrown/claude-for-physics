@@ -1,0 +1,355 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2180,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "At the 1939 world's fair in New York, the exciting new tech was the live television broadcast."
+    } ]
+  }, {
+    "tStartMs": 8700,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Roosevelt became the first president to address the nation live on TV"
+    } ]
+  }, {
+    "tStartMs": 12640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But for years leading up to this event, engineers have been working on one particular technical problem:"
+    } ]
+  }, {
+    "tStartMs": 17920,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "How to ensure the audio and video remain perfectly synced during the live broadcast ?"
+    } ]
+  }, {
+    "tStartMs": 23140,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "Without this, words and lip movements wouldn't match up, which would be annoying and distracting for viewers."
+    } ]
+  }, {
+    "tStartMs": 28800,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "So, how did they do it ?"
+    } ]
+  }, {
+    "tStartMs": 30560,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Well actually, they didn't,"
+    } ]
+  }, {
+    "tStartMs": 32400,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "instead they discovered something pretty incredible:"
+    } ]
+  }, {
+    "tStartMs": 34780,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "We are not very good at discerning whether audio and video are in sync"
+    } ]
+  }, {
+    "tStartMs": 39040,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "For example, I intentionally delayed the audio of this entire monolog"
+    } ]
+  }, {
+    "tStartMs": 43600,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "nearly a 1/10th of a second"
+    } ]
+  }, {
+    "tStartMs": 45180,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "and did you notice?"
+    } ]
+  }, {
+    "tStartMs": 46440,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "I'll clap to make it more obvious."
+    } ]
+  }, {
+    "tStartMs": 53320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "The engineers also found that there's an asymmetry in our tolerance for this misalignment,"
+    } ]
+  }, {
+    "tStartMs": 57720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "we don't really notice if a sound lags video by up to 125 milliseconds"
+    } ]
+  }, {
+    "tStartMs": 61720,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "but we can tell something is wrong if it's leading the video by more than 45 milliseconds."
+    } ]
+  }, {
+    "tStartMs": 66140,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And to understand why, take a look at this:"
+    } ]
+  }, {
+    "tStartMs": 68140,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Here I am bouncing a basketball as I walk away from the camera."
+    } ]
+  }, {
+    "tStartMs": 71740,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The sight and the sound of the bounces match up perfectly;"
+    } ]
+  }, {
+    "tStartMs": 74680,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "but as I walk away, you know the sound will be increasingly delayed due to the extra time it takes the sound"
+    } ]
+  }, {
+    "tStartMs": 81080,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "to reach the camera, but the sounds still appears synced."
+    } ]
+  }, {
+    "tStartMs": 83920,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "This is because your brain is not reporting to you each instance exactly as it happens, but rather a short interval"
+    } ]
+  }, {
+    "tStartMs": 89820,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "of time reorganised to make sense, so in this case"
+    } ]
+  }, {
+    "tStartMs": 93720,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "your brain automatically aligns the sound with"
+    } ]
+  }, {
+    "tStartMs": 96100,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "the sight of the bounce."
+    } ]
+  }, {
+    "tStartMs": 97480,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "At least, up to a point."
+    } ]
+  }, {
+    "tStartMs": 99440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Once i'm over 30 meters away, the sound is now delayed by over 100 milliseconds"
+    } ]
+  }, {
+    "tStartMs": 103840,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "and your brain no longer integrates the information from your eyes and ears."
+    } ]
+  }, {
+    "tStartMs": 107580,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Here, let me play the actual sound of the bounce together with the sound as received by the camera."
+    } ]
+  }, {
+    "tStartMs": 118160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "This explains why sound can lag video by more than it can lead."
+    } ]
+  }, {
+    "tStartMs": 122380,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "I mean imagine you were at a basketball game, and because of how far away you're sitting, the sound is delayed."
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Your brain can handle that."
+    } ]
+  }, {
+    "tStartMs": 129860,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "but if the sound precedes the sight of an event"
+    } ]
+  }, {
+    "tStartMs": 132740,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "that would look really odd"
+    } ]
+  }, {
+    "tStartMs": 134880,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "because that's something that would never happen in nature."
+    } ]
+  }, {
+    "tStartMs": 138260,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "This is why the broadcast guidelines for acceptable audio and video mismatches"
+    } ]
+  }, {
+    "tStartMs": 143120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "are skewed in favour of audio lagging behind the video,"
+    } ]
+  }, {
+    "tStartMs": 146760,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "our brains are good at aligning audio with the vision that preceded it."
+    } ]
+  }, {
+    "tStartMs": 150800,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "We can actually exploit our audio-syncing-capabilities to produce some strange results"
+    } ]
+  }, {
+    "tStartMs": 156440,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "for example, we created this computer program"
+    } ]
+  }, {
+    "tStartMs": 158860,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "where when you press the space bar a light appears on the screen."
+    } ]
+  }, {
+    "tStartMs": 163000,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "But not immediately,"
+    } ]
+  }, {
+    "tStartMs": 164580,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "there is an 80ms delay between the button push and the light coming on."
+    } ]
+  }, {
+    "tStartMs": 168860,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "In a study participants who familiarised themselves with a similar program"
+    } ]
+  }, {
+    "tStartMs": 173220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "came to believe that the light turned on immediately after they pushed the button,"
+    } ]
+  }, {
+    "tStartMs": 176940,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "just as our brains sychronized the sight and sound of the basketball bounce"
+    } ]
+  }, {
+    "tStartMs": 180480,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Press the space key once to begin"
+    } ]
+  }, {
+    "tStartMs": 183200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "This is just the section where you get the idea of what it does,"
+    } ]
+  }, {
+    "tStartMs": 185240,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "so you push the spacebar"
+    } ]
+  }, {
+    "tStartMs": 186780,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Now watch what happens when you remove the delay."
+    } ]
+  }, {
+    "tStartMs": 189320,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "That last one came up without me even pressing anything!"
+    } ]
+  }, {
+    "tStartMs": 192240,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "You didn't press anything and it just flashed up there?"
+    } ]
+  }, {
+    "tStartMs": 194620,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right!"
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Some participants were convinced that the light"
+    } ]
+  }, {
+    "tStartMs": 197200,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "came on before they pushed the button."
+    } ]
+  }, {
+    "tStartMs": 199880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "They believed that something else caused the light to come on,"
+    } ]
+  }, {
+    "tStartMs": 202400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "even though it was their action that made it happen."
+    } ]
+  } ]
+}

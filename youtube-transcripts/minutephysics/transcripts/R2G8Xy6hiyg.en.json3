@@ -1,0 +1,673 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "In my previous video on space navigation, we \ntalked about some apparent paradoxes, like how  "
+    } ]
+  }, {
+    "tStartMs": 5120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "to catch up with someone in the same orbit, you \nfirst have to slow down! Or how you have to speed  "
+    } ]
+  }, {
+    "tStartMs": 9120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "up (twice) to switch to a higher, slower orbit.\nHere are three more even weirder paradoxes of  "
+    } ]
+  }, {
+    "tStartMs": 14400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "space navigation, including the most surprising \none I’ve ever come across - which I only found  "
+    } ]
+  }, {
+    "tStartMs": 18400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "out about recently, and which is truly bonkers.\nFirst: There’s a worst orbit to get to. It seems  "
+    } ]
+  }, {
+    "tStartMs": 24000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "like the further out your destination orbit is, \nthe more fuel would be required to get there. But  "
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "in fact, after a certain point, going out begins \nto require less fuel. The worst orbit to aim for  "
+    } ]
+  }, {
+    "tStartMs": 32480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "is about 15 times farther out than your current \norbit, which for us is between Saturn and Uranus. "
+    } ]
+  }, {
+    "tStartMs": 37520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This fact is profoundly bizarre. Ultimately, it \nhas to do with the interplay between how much  "
+    } ]
+  }, {
+    "tStartMs": 41360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you slow down on the way out to the new orbit \nverses how much speed you need to stay there. "
+    } ]
+  }, {
+    "tStartMs": 44960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "The simplest method to get to a different \ncircular orbit – which we talked about in the last  "
+    } ]
+  }, {
+    "tStartMs": 48480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "video – requires two changes of speed: the first \nburn puts you onto an elliptical transfer orbit,  "
+    } ]
+  }, {
+    "tStartMs": 53280,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and the more you increase your speed with \nthat burn, the higher the high point of the  "
+    } ]
+  }, {
+    "tStartMs": 56320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "ellipse. This makes intuitive sense: the \nmore fuel you use, the faster you’ll go  "
+    } ]
+  }, {
+    "tStartMs": 59680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and the further out you’ll end up.\nExcept you’re not done - gravity  "
+    } ]
+  }, {
+    "tStartMs": 63120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "constantly pulls to slow you down as \nyou go out along the transfer orbit,  "
+    } ]
+  }, {
+    "tStartMs": 66480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "so when you arrive at your target radius, you need \nto speed up in order to get into a circular orbit  "
+    } ]
+  }, {
+    "tStartMs": 70640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "there (otherwise you’ll keep falling back to where \nyou started). And this second, re-circularising  "
+    } ]
+  }, {
+    "tStartMs": 74880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "burn is what makes things downright weird.\nThe amount you need to speed up to circularize  "
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "your orbit depends, of course, on the difference \nbetween your speed upon arriving at the top of the  "
+    } ]
+  }, {
+    "tStartMs": 83040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "elliptical orbit and the speed you need to be in \na circular orbit there. It turns out the arrival  "
+    } ]
+  }, {
+    "tStartMs": 87440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "speed at the top of the ellipse falls roughly \nlike one over r, while the target speed needed  "
+    } ]
+  }, {
+    "tStartMs": 91440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for a circular orbit falls roughly as one over \nthe square root of r, which is bigger - comparing  "
+    } ]
+  }, {
+    "tStartMs": 95520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "the two, you can see that the difference between \nthe target speed and the arrival speed initially  "
+    } ]
+  }, {
+    "tStartMs": 99280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "increases for short range transfers, then shrinks \nonce your target radius is more than around  "
+    } ]
+  }, {
+    "tStartMs": 103360,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "six times farther out than your starting point.\nYou might think that the worst orbit is therefore  "
+    } ]
+  }, {
+    "tStartMs": 107280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "around six times farther out, but this is just \nthe worst point for the second, circularizing,  "
+    } ]
+  }, {
+    "tStartMs": 111520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "burn – once we remember to add in the first \nburn (which is the speedup orbit necessary to  "
+    } ]
+  }, {
+    "tStartMs": 115280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "get onto the transfer orbit in the first place) \nwe find it’s hardest to get into an orbit around  "
+    } ]
+  }, {
+    "tStartMs": 119280,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "15 and a half times larger than your starting \norbit. Beyond 15 times, it’s easier to get there! "
+    } ]
+  }, {
+    "tStartMs": 124240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "A bizarre consequence of this ‘worst’ \norbit is that it takes less fuel to escape  "
+    } ]
+  }, {
+    "tStartMs": 127920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the solar system entirely than to go into \norbit between Saturn and Uranus. Actually,  "
+    } ]
+  }, {
+    "tStartMs": 132160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "it’s easier to escape the solar system than \nto go into a circular orbit anywhere beyond  "
+    } ]
+  }, {
+    "tStartMs": 135840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the asteroid belt; between Saturn and Uranus \nis just the hardest possible place to get to. "
+    } ]
+  }, {
+    "tStartMs": 140080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And the difference is pretty substantial - it \ntakes almost 30% more fuel to transfer to the  "
+    } ]
+  }, {
+    "tStartMs": 144240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "“worst” circular orbit than it does to go \nto infinity! This fact applies generally,  "
+    } ]
+  }, {
+    "tStartMs": 148480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "whether you’re orbiting the sun and trying to go \nout to Saturn, or orbiting earth and trying to go  "
+    } ]
+  }, {
+    "tStartMs": 151840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to the moon. Like, it takes almost the same amount \nof fuel to get into a geostationary orbit 6 and a  "
+    } ]
+  }, {
+    "tStartMs": 156080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "half times out from low earth orbit as it does to \nget to the moon, which is sixty times farther out. "
+    } ]
+  }, {
+    "tStartMs": 160480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The general inefficiency of medium-range \norbital transfers leads to - what’s to me – the  "
+    } ]
+  }, {
+    "tStartMs": 164480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "most surprising paradox of space navigation, \nand one I didn’t know about until recently:  "
+    } ]
+  }, {
+    "tStartMs": 168800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "it’s that you can actually save fuel by \ngoing out too far, and then coming back. "
+    } ]
+  }, {
+    "tStartMs": 172880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Basically, you do the orbital transfer with \nan extra step: rather than going directly  "
+    } ]
+  }, {
+    "tStartMs": 176720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "out to the destination orbit and circularizing, \nfirst, you completely overshoot your destination,  "
+    } ]
+  }, {
+    "tStartMs": 181280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "then come back and circularize. It’s called \na bi-elliptic transfer, and it saves fuel  "
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "because it does its intermediate burn out where \ngravity is really weak, AND because circularizing  "
+    } ]
+  }, {
+    "tStartMs": 190080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "an orbit is much easier when you’re arriving \nfrom above, rather than arriving from below. "
+    } ]
+  }, {
+    "tStartMs": 194320,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "For bi-elliptic magic, you first boost yourself \nonto an elliptical orbit that overshoots 100 or  "
+    } ]
+  }, {
+    "tStartMs": 200080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "1000 times further out than you need to go \n- it doesn’t cost much extra fuel vs going  "
+    } ]
+  }, {
+    "tStartMs": 204320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "directly to your final destination because \na gravitational well requires less and less  "
+    } ]
+  }, {
+    "tStartMs": 207920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "additional speed to go further and further out.\nThen when you’re at the furthest away point,  "
+    } ]
+  }, {
+    "tStartMs": 211840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you’re going so slowly and gravity is so weak \nit takes almost no effort to change orbits,  "
+    } ]
+  }, {
+    "tStartMs": 215840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "so you can speed up just a miniscule \namount to get onto a new transfer  "
+    } ]
+  }, {
+    "tStartMs": 218880,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "ellipse back down to your destination orbit.\nThen, since you’re coming from above you’ll  "
+    } ]
+  }, {
+    "tStartMs": 222560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "be going too fast and need to slow down to \ncircularize your orbit - but it turns out it’s  "
+    } ]
+  }, {
+    "tStartMs": 226240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "much easier to circularize an orbit arriving \nfrom above than below. We already mentioned  "
+    } ]
+  }, {
+    "tStartMs": 230080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that the target speed for a circular orbit is \nproportional to one over the square root of r,  "
+    } ]
+  }, {
+    "tStartMs": 233840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "while coming from below your arrival speed is \nproportional to one over r, which is much smaller,  "
+    } ]
+  }, {
+    "tStartMs": 238160,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "you might only have 1% or 5% of the target speed, \nso you need to speed up a lot to circularize from  "
+    } ]
+  }, {
+    "tStartMs": 242560,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "below. Coming from above, though, your arrival \nspeed is proportional to one over the square root  "
+    } ]
+  }, {
+    "tStartMs": 246320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "of r, just like your target speed - and in fact, \nit’s just roughly 1.4 times your target speed,  "
+    } ]
+  }, {
+    "tStartMs": 251040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "meaning you need to slow down only ~30% \nto get onto a circular orbit from above. "
+    } ]
+  }, {
+    "tStartMs": 254560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The takeaway is that when you come from \nabove and then circularize your orbit,  "
+    } ]
+  }, {
+    "tStartMs": 257680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "you don’t have to work nearly as hard as \nif you come from below and circularize.  "
+    } ]
+  }, {
+    "tStartMs": 261360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So, the genius of the bi-elliptic transfer \nis this: you do a little bit more work to go  "
+    } ]
+  }, {
+    "tStartMs": 265920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "out farther than you need, and from where \nit’s very easy to come back, in order to  "
+    } ]
+  }, {
+    "tStartMs": 269200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "save effort on circularizing the final orbit.\nAll-in-all, overshooting is more efficient when  "
+    } ]
+  }, {
+    "tStartMs": 273520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "your destination is more than around 12 times \nfarther out, but it’s not particularly big  "
+    } ]
+  }, {
+    "tStartMs": 277440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "savings. If your destination is 20 times out and \nyou overshoot to 40 times out before coming back,  "
+    } ]
+  }, {
+    "tStartMs": 281920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "then you save 1.7% compared with a direct \ntransfer. If your destination is 100 times  "
+    } ]
+  }, {
+    "tStartMs": 286640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "further out and you overshoot all the way \nto 1 million times out before coming back,  "
+    } ]
+  }, {
+    "tStartMs": 290320,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "then you save 7.6% over a direct transfer. \nNot very much… and there’s a big cost: time. "
+    } ]
+  }, {
+    "tStartMs": 297040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Overshooting so far takes a long time since \nyou slow down more and more the further out  "
+    } ]
+  }, {
+    "tStartMs": 301120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "you go (so you’d be traveling farther AND doing it \nmore slowly); going 10, 100, or 1000 times further  "
+    } ]
+  }, {
+    "tStartMs": 306560,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "out than your target takes around 600, 20,000, or \n700,000 times longer than a direct transfer. So:  "
+    } ]
+  }, {
+    "tStartMs": 312560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "what’s more valuable, your fuel or your time?\nWell, if you have a limited amount of fuel,  "
+    } ]
+  }, {
+    "tStartMs": 316960,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "but all the time in the world, then you \nmay want to hear about this last paradox:  "
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "when doing a bi-elliptic transfer, the more \nyou overshoot, the more fuel you save.  "
+    } ]
+  }, {
+    "tStartMs": 324560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Here’s the total fuel needed for a bi-elliptic \ntransfer vs how far out you overshoot,  "
+    } ]
+  }, {
+    "tStartMs": 328560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and you can see clearly that the more \nyou overshoot, the less fuel you need. "
+    } ]
+  }, {
+    "tStartMs": 331600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This fact seems ridiculous, because the further \nout you go, the more fuel is needed during the  "
+    } ]
+  }, {
+    "tStartMs": 335600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "initial burn to get out all that way, and \nthen, because you’re falling back down  "
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "from further away, you’ll arrive at your \ndestination going faster and also require  "
+    } ]
+  }, {
+    "tStartMs": 342160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "more fuel to slow down and recircularise. \nThe reason overshooting farther actually does  "
+    } ]
+  }, {
+    "tStartMs": 346480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "save you fuel is that you get a bigger saving \nfrom the middle transfer burn being really,  "
+    } ]
+  }, {
+    "tStartMs": 350400,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "really far out, than the extra fuel \nrequired to get there and return. "
+    } ]
+  }, {
+    "tStartMs": 354080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Specifically, compared to the fuel savings \nfor the middle burn, the extra fuel cost  "
+    } ]
+  }, {
+    "tStartMs": 357600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "for the final burn is roughly half as much, \nand the extra fuel cost for the first burn  "
+    } ]
+  }, {
+    "tStartMs": 360960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "is roughly half times one over the square root \nof r as much. Since a half plus a half divided  "
+    } ]
+  }, {
+    "tStartMs": 365040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "by the square root of r is less than one, that \nmeans you save more fuel the more you overshoot!  "
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The natural conclusion is that, to \nbe as fuel-efficient as possible,  "
+    } ]
+  }, {
+    "tStartMs": 372800,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "your best course of action is to \novershoot all the way to infinity!  "
+    } ]
+  }, {
+    "tStartMs": 375840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "An infinite bi-elliptic transfer is the \nmost efficient simple way to transfer  "
+    } ]
+  }, {
+    "tStartMs": 379360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "to any destination more than twelve times \nfurther away then you’re currently orbiting,  "
+    } ]
+  }, {
+    "tStartMs": 382320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "saving up to 8% of your fuel. The only problem, \nother than the savings are not that great,  "
+    } ]
+  }, {
+    "tStartMs": 387040,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "is that it takes an infinite amount of time…\nHere’s a paradox about AI: people who are more  "
+    } ]
+  }, {
+    "tStartMs": 394720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "concerned about the risks of AI are \nless likely to work at AI companies,  "
+    } ]
+  }, {
+    "tStartMs": 398480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "so then AI products are less likely to take AI \nsafety into account, making the risks even worse!  "
+    } ]
+  }, {
+    "tStartMs": 403360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Luckily, some people and organizations are \nworking to push AI in the right direction,  "
+    } ]
+  }, {
+    "tStartMs": 406960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "like BlueDot Impact, the sponsor of this video.\nBlueDot Impact is a nonprofit helping people  "
+    } ]
+  }, {
+    "tStartMs": 411520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "become informed about AI and involved in shaping \nits future. They're specifically looking for  "
+    } ]
+  }, {
+    "tStartMs": 415760,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "people who feel like they're missing something \nabout AI and want to meaningfully contribute. If  "
+    } ]
+  }, {
+    "tStartMs": 419360,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "that’s you, BlueDot Impact has created a number \nof completely free courses on AI and AI safety. "
+    } ]
+  }, {
+    "tStartMs": 423600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "The decisions being made now about how \nthis technology should be developed  "
+    } ]
+  }, {
+    "tStartMs": 426640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "are still being made by a relatively small \nnumber of people, and these decisions will  "
+    } ]
+  }, {
+    "tStartMs": 430400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "set the direction for a long time to come. \nSo it is more important than ever to get a  "
+    } ]
+  }, {
+    "tStartMs": 433840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "wide range of voices educated and involved in \nAI development from an AI safety and security  "
+    } ]
+  }, {
+    "tStartMs": 438000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "perspective to make sure it goes well for all \nof humanity, not just the super-rich. To help  "
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you understand AI and find your own place in \nshaping it, check out the free courses available  "
+    } ]
+  }, {
+    "tStartMs": 446000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "over at bluedot.org/minutephysics, \nno technical background required."
+    } ]
+  } ]
+}

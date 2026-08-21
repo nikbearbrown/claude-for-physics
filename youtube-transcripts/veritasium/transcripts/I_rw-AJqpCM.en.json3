@@ -1,0 +1,211 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 8580,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I've been driving along Australia's famous Great Ocean Road."
+    } ]
+  }, {
+    "tStartMs": 14900,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "And I'm stopped here near the Twelve Apostles, which are these big sandstone bluffs."
+    } ]
+  }, {
+    "tStartMs": 19120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Actually, there's only eight of them left because the others have eroded over time."
+    } ]
+  }, {
+    "tStartMs": 22840,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "And erosion is really what's given us this coastline the way it looks now."
+    } ]
+  }, {
+    "tStartMs": 27220,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So that brings to mind a question for me."
+    } ]
+  }, {
+    "tStartMs": 29400,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Which is \"How long is the Australian coast line?\""
+    } ]
+  }, {
+    "tStartMs": 32600,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Well, if you were to measure it out in lengths of 500 kilometers,"
+    } ]
+  }, {
+    "tStartMs": 36140,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "You would find that it's about 12 and a half thousand kilometers long."
+    } ]
+  }, {
+    "tStartMs": 40400,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "But the CIA World Factbook puts the figure at more than double that. Over 25,700 kilometers."
+    } ]
+  }, {
+    "tStartMs": 47280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But how can it be that we have two different estimates for the length of the same coastline?"
+    } ]
+  }, {
+    "tStartMs": 52260,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Well this is called \"The Coastline Paradox.\""
+    } ]
+  }, {
+    "tStartMs": 54920,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "The answer is, it depends on the length of measuring stick that you use."
+    } ]
+  }, {
+    "tStartMs": 59600,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "So, if you connect up the dots from cliff to cliff to cliff"
+    } ]
+  }, {
+    "tStartMs": 63260,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "You get a shorter length of coastline than if you measure with a smaller measuring stick"
+    } ]
+  }, {
+    "tStartMs": 68560,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And measure into every inlet."
+    } ]
+  }, {
+    "tStartMs": 70860,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So what length of measuring stick should we use?"
+    } ]
+  }, {
+    "tStartMs": 73100,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Well in theory, you can go all the way down to the size of a water molecule"
+    } ]
+  }, {
+    "tStartMs": 76360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And if you do that, then the length of Australia's coast is virtually infinite."
+    } ]
+  }, {
+    "tStartMs": 80240,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "Do you believe me that you could have finite area object like Australia bounded by an infinite perimeter?"
+    } ]
+  }, {
+    "tStartMs": 87980,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "It doesn't seem to make sense."
+    } ]
+  }, {
+    "tStartMs": 89600,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But I can give you another example of this, it's called the Koch snowflake"
+    } ]
+  }, {
+    "tStartMs": 93520,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "so what you do is you take a triangle\nwith sides of length 1"
+    } ]
+  }, {
+    "tStartMs": 97620,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and then on each side"
+    } ]
+  }, {
+    "tStartMs": 99130,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "add another triangle with sides of\nlength a third"
+    } ]
+  }, {
+    "tStartMs": 101830,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Continute doing that again and again forever"
+    } ]
+  }, {
+    "tStartMs": 104409,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "What you end up with is a shape which is\na finite area but an infinite perimeter"
+    } ]
+  }, {
+    "tStartMs": 110520,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "shapes like these are called fractals\nand many coastlines have the same"
+    } ]
+  }, {
+    "tStartMs": 115060,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "fractal structure which means they have\nsome sort of self-similarity on many"
+    } ]
+  }, {
+    "tStartMs": 119889,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "different scales so you can zoom in and\nzoom in"
+    } ]
+  }, {
+    "tStartMs": 122449,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "and the coastline looks roughly the same"
+    } ]
+  }, {
+    "tStartMs": 124659,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "so if you want to know the length of a\ncoastline you need to first specify the"
+    } ]
+  }, {
+    "tStartMs": 128769,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "length of your measuring stick"
+    } ]
+  }, {
+    "tStartMs": 130209,
+    "dDurationMs": 2941,
+    "segs": [ {
+      "utf8": "because that's what the answer depends on."
+    } ]
+  } ]
+}

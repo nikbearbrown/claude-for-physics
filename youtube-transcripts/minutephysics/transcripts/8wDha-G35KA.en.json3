@@ -1,0 +1,1207 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "I want to make a prediction about you: by the \nend of this video, you won’t know what to think. "
+    } ]
+  }, {
+    "tStartMs": 5600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "There’s a paradox where you seem to have free \nwill, while also seeming not to have free will:  "
+    } ]
+  }, {
+    "tStartMs": 10480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Newcomb’s paradox. You may have heard about \nit in the Veritasium video on the paradox:  "
+    } ]
+  }, {
+    "tStartMs": 14480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "a curious game-like scenario that splits real \npeople roughly 50/50 into contradicting but  "
+    } ]
+  }, {
+    "tStartMs": 19120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "apparently equally-valid strategies.\nDerek: Exactly! "
+    } ]
+  }, {
+    "tStartMs": 22320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Henry: You don’t want to buck the trend?\nDerek: You got me! I am a one-boxer, I will do it. "
+    } ]
+  }, {
+    "tStartMs": 27280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The thing is, the Veritasium video and many \nother articles and papers on the paradox  "
+    } ]
+  }, {
+    "tStartMs": 30480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "mostly ignore two of the questions I had when I \nfirst heard the paradox, fundamental questions  "
+    } ]
+  }, {
+    "tStartMs": 34320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "about the actual science (rather than just \nphilosophy) underpinning the paradox: first,  "
+    } ]
+  }, {
+    "tStartMs": 37920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "is the basic premise even physically possible? \nAnd if so… why does it feel so paradoxical? "
+    } ]
+  }, {
+    "tStartMs": 43120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The answers will take us through casual \ncalculus, quantum mechanics, chaos theory,  "
+    } ]
+  }, {
+    "tStartMs": 46960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and wondering if we in fact live in a simulation.\nFirst though, a recap of Newcomb's paradox:  "
+    } ]
+  }, {
+    "tStartMs": 51600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "imagine something – a being, a supercomputer, \nor an algorithm – that’s extremely good at  "
+    } ]
+  }, {
+    "tStartMs": 55760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "predicting people's behaviour, and it’s just made \na prediction about you. In a room with two boxes,  "
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "one is open and has a thousand dollars inside, the \nother is a closed jackpot box that might contain  "
+    } ]
+  }, {
+    "tStartMs": 65360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "a million dollars or might contain nothing. You \nare allowed to choose either just the jackpot box  "
+    } ]
+  }, {
+    "tStartMs": 70160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "(worth either zero or a million dollars), or both \nboxes (together worth either a thousand dollars or  "
+    } ]
+  }, {
+    "tStartMs": 75040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "a million plus a thousand dollars)… the catch \nis that the predictor-being-algorithm-thingy  "
+    } ]
+  }, {
+    "tStartMs": 79120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "is set up in a way that penalizes being \ngreedy, and before you entered the room,  "
+    } ]
+  }, {
+    "tStartMs": 82560,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "it only filled the jackpot with a million \ndollars if it predicted you’ll choose only  "
+    } ]
+  }, {
+    "tStartMs": 86080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the jackpot and not also the thousand dollars. \nIf it predicted you were going to choose both  "
+    } ]
+  }, {
+    "tStartMs": 89920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "the jackpot and the thousand dollar boxes, \nthen the being left the jackpot box empty.  "
+    } ]
+  }, {
+    "tStartMs": 93840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The set of possible outcomes is this: if the being \npredicts you’ll take just the jackpot box and so  "
+    } ]
+  }, {
+    "tStartMs": 98640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "puts a million dollars in it, either you take \njust the jackpot and get a million dollars, or  "
+    } ]
+  }, {
+    "tStartMs": 102800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "take both boxes, and get a million plus a thousand \ndollars. And if the being predicts you’ll take  "
+    } ]
+  }, {
+    "tStartMs": 107120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "both boxes and puts nothing in the jackpot, either \nyou take just the jackpot and get nothing, or take  "
+    } ]
+  }, {
+    "tStartMs": 111840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "both and get a thousand dollars. But remember \n- the being is very good at predicting: it’s  "
+    } ]
+  }, {
+    "tStartMs": 116560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "made this same prediction many times before, with \nmany different people, and is almost always right. "
+    } ]
+  }, {
+    "tStartMs": 121040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The supposed reason it’s a paradox is this: \nThere are convincing arguments that tell you  "
+    } ]
+  }, {
+    "tStartMs": 124880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "to take just one box, and to take two boxes.\nOne-boxers say that if you choose two boxes,  "
+    } ]
+  }, {
+    "tStartMs": 129920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the prediction-being will have anticipated \nit, placed zero dollars in the jackpot box,  "
+    } ]
+  }, {
+    "tStartMs": 133280,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and you’ll end up with only a thousand \ndollars. And, their argument goes, if you  "
+    } ]
+  }, {
+    "tStartMs": 136400,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "choose just the jackpot box, the prediction \nbeing will have anticipated that, and put a  "
+    } ]
+  }, {
+    "tStartMs": 139920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "million dollars into it. One-boxers think you \nshould choose just the jackpot box, and take a  "
+    } ]
+  }, {
+    "tStartMs": 143920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "million dollars rather than a thousand dollars.\nTwo-boxers say that once you’re in the room and  "
+    } ]
+  }, {
+    "tStartMs": 148000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the game has begun, the being has already \nmade its prediction and the money is already  "
+    } ]
+  }, {
+    "tStartMs": 151280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "sitting there in the boxes. No matter what \nprediction the being made, whether it got  "
+    } ]
+  }, {
+    "tStartMs": 154640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "it right or wrong - take two boxes and you \nwill walk away with a thousand dollars more  "
+    } ]
+  }, {
+    "tStartMs": 157840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "than if you took just the jackpot box. Two boxers \nthink you should choose both boxes since that’ll  "
+    } ]
+  }, {
+    "tStartMs": 162320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "always get you an extra thousand dollars.\nYou can watch Veritasium's video for some  "
+    } ]
+  }, {
+    "tStartMs": 165920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "of the usual discussion and arguments that \nsurround the paradox, and maybe pause here  "
+    } ]
+  }, {
+    "tStartMs": 169120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "to have a think about your own strategy. \nLots of papers articles declare that these  "
+    } ]
+  }, {
+    "tStartMs": 172160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "two analyses are more or less equally valid and \nfocus on arguing which one is worth adhering to.  "
+    } ]
+  }, {
+    "tStartMs": 176640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But there are scientific tools that allow us to \ntell if the setup is even possible, and if it is,  "
+    } ]
+  }, {
+    "tStartMs": 180720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "whether you should one-box or two-box.\nCausal calculus is one such tool. Causal  "
+    } ]
+  }, {
+    "tStartMs": 185440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "calculus looks at statistics, not just \nto infer correlations between things - it  "
+    } ]
+  }, {
+    "tStartMs": 189440,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "looks at statistics combined with knowledge of \nthe real world to infer causality. Here’s how. "
+    } ]
+  }, {
+    "tStartMs": 194080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We know that the being’s prediction and people’s \ndecisions are tightly correlated. This is clear  "
+    } ]
+  }, {
+    "tStartMs": 198160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "because in the past, the being correctly \npredicted everyone's decision almost every  "
+    } ]
+  }, {
+    "tStartMs": 200800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "time. Causal calculus tells us that a strong \ncorrelation like this can’t occur by chance,  "
+    } ]
+  }, {
+    "tStartMs": 204640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and it means - causality wise - either the being's \nprediction must cause your decision, or your  "
+    } ]
+  }, {
+    "tStartMs": 209040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "decision must cause the being’s prediction, \nor they both must have a shared common cause. "
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The timeline of the setup – which is that the \nbeing predicts, then you decide – tells causal  "
+    } ]
+  }, {
+    "tStartMs": 217280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "calculus that your decision can’t directly \ncause the being’s prediction, because that  "
+    } ]
+  }, {
+    "tStartMs": 220880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "would require retrocausality, AKA time travel.\nAnd the being's prediction can’t directly cause  "
+    } ]
+  }, {
+    "tStartMs": 225520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "your choice, because after deciding whether or \nnot to put the money in the jackpot box, the  "
+    } ]
+  }, {
+    "tStartMs": 228880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "being is kept entirely isolated from you.\nWhich leaves only one option: the being’s  "
+    } ]
+  }, {
+    "tStartMs": 233360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "prediction and your choice must have a shared \ncommon cause. Something both causes the being  "
+    } ]
+  }, {
+    "tStartMs": 237760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to place a million dollars in the jackpot \nbox and causes you to choose just one box,  "
+    } ]
+  }, {
+    "tStartMs": 241600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "or it causes the being to place nothing in the \nbox while causing you to choose both boxes. "
+    } ]
+  }, {
+    "tStartMs": 245920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "This simple causal calculus analysis tells \nyou the best strategy is to take just one box,  "
+    } ]
+  }, {
+    "tStartMs": 249840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "though it’s also maybe not really your choice \nbecause something in the past (like, maybe,  "
+    } ]
+  }, {
+    "tStartMs": 252960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "watching this video) convinced you it’s the only \nway to get the jackpot, and the predictor knew  "
+    } ]
+  }, {
+    "tStartMs": 256320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that and therefore put the jackpot in the box.\nWhat makes Newcomb’s paradox so bizarre and  "
+    } ]
+  }, {
+    "tStartMs": 260320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "divisive is when you introduce another \npowerful tool of causal calculus:  "
+    } ]
+  }, {
+    "tStartMs": 263600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the power of intervention. Imagine a spectator \nsitting in the room with you who saw whether or  "
+    } ]
+  }, {
+    "tStartMs": 267920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "not the predictor-being put money into the jackpot \nbox. From the spectator’s perspective, it’s an  "
+    } ]
+  }, {
+    "tStartMs": 272160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "obvious choice: no matter what the predictor did, \nregardless of whether or not there’s money in the  "
+    } ]
+  }, {
+    "tStartMs": 275600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "jackpot box, there’s still a thousand dollars in \nthe other box and the spectator will be thinking  "
+    } ]
+  }, {
+    "tStartMs": 279200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "to themself “I hope they take both boxes!”\nTo take it further, if the spectator intervened  "
+    } ]
+  }, {
+    "tStartMs": 283280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and made you take two boxes/took the two boxes \nfor you, you would always benefit, because you’d  "
+    } ]
+  }, {
+    "tStartMs": 286480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "always get an extra thousand dollars. Causal \ncalculus represents intervention by deleting  "
+    } ]
+  }, {
+    "tStartMs": 290400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the causal relationship between the common cause \n(whatever it is) and the choice of boxes, which  "
+    } ]
+  }, {
+    "tStartMs": 294880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "means that the box-choice is no longer correlated \nwith the prediction about what you would  "
+    } ]
+  }, {
+    "tStartMs": 298320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "choose - the intervener is now doing the choosing, \nand they’re free to be as greedy as they want. "
+    } ]
+  }, {
+    "tStartMs": 302880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This intervention argument has convinced \nadherents to causal calculus that the only  "
+    } ]
+  }, {
+    "tStartMs": 306240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "rational decision is to choose two boxes, because, \nthey say, once you’re in the room, you are free to  "
+    } ]
+  }, {
+    "tStartMs": 310560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "decide whatever you want - that’s the whole point \nof free will! You can intervene in your own life. "
+    } ]
+  }, {
+    "tStartMs": 314880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But the intervention argument shouldn’t convince \nyou to take two boxes: because that would assume  "
+    } ]
+  }, {
+    "tStartMs": 318640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "that you… are not you - the point is, if \nyou've made up your mind, another person  "
+    } ]
+  }, {
+    "tStartMs": 322800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "can intervene on your behalf, but YOU can’t \nintervene on your own decision process. You  "
+    } ]
+  }, {
+    "tStartMs": 327120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "ARE your own free decision process, and the being \nwould supposedly have predicted that correctly. "
+    } ]
+  }, {
+    "tStartMs": 331360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "At least, according to the setup of the paradox. \nBut that assumes the setup is even physically  "
+    } ]
+  }, {
+    "tStartMs": 335360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "possible. We need to see what physics says about \njust how accurate a predictor-being could even be  "
+    } ]
+  }, {
+    "tStartMs": 340240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "in the real physical world: is perfect (or \nclose to perfect) accuracy even possible?"
+    } ]
+  }, {
+    "tStartMs": 345200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We’ve shown that there must be a common cause \nthat results in both the being’s prediction and  "
+    } ]
+  }, {
+    "tStartMs": 349280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "also in your choice, and the most reasonable \ncommon cause is just the physical state of  "
+    } ]
+  }, {
+    "tStartMs": 352880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "your past self: in addition to whatever else \nit knows, somehow the being must know enough  "
+    } ]
+  }, {
+    "tStartMs": 356960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "about past you (and your environment) \nto predict what present-you will do."
+    } ]
+  }, {
+    "tStartMs": 360960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And while many aspects of how the brain works are \nstill uncertain, we do know that decision making  "
+    } ]
+  }, {
+    "tStartMs": 365120,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "involves several cognitive processes occurring \nsimultaneously via a complex web of billions of  "
+    } ]
+  }, {
+    "tStartMs": 369600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "neurons: so a small detail, influence, thought, \nmemory, or timing difference could in principle  "
+    } ]
+  }, {
+    "tStartMs": 374800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "tip you to change your mind, perhaps at the very \nlast second. This complexity is a major problem  "
+    } ]
+  }, {
+    "tStartMs": 379440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for the existence of a predictor being, since \nit must therefore be able to instantiate an  "
+    } ]
+  }, {
+    "tStartMs": 383520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "extraordinarily accurate copy of you (and your \nmind) in order to make reliable predictions."
+    } ]
+  }, {
+    "tStartMs": 387760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "A similar problem arises when trying to \npredict the movement of a double pendulum:  "
+    } ]
+  }, {
+    "tStartMs": 391280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "if you make a copy, the two pendulums may follow \nseemingly identical movements for a while,  "
+    } ]
+  }, {
+    "tStartMs": 395280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "until suddenly their motions diverge, because \nthere was the tiniest error in the copy. The  "
+    } ]
+  }, {
+    "tStartMs": 399600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "more accurately you copy the pendulum and \nstarting conditions, the longer you can  "
+    } ]
+  }, {
+    "tStartMs": 402720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "successfully predict the motion before it becomes \nunpredictable again, but eventually it will  "
+    } ]
+  }, {
+    "tStartMs": 406560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "become unpredictable. And the brain is FAR more \ncomplex and unpredictable than a double pendulum."
+    } ]
+  }, {
+    "tStartMs": 411280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "So the predictor-being would need an incredibly, \nincredibly, accurate copy or instantiation of you  "
+    } ]
+  }, {
+    "tStartMs": 415920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "in order to predict your choice of boxes with \ngreat accuracy. And if the predictor-being’s  "
+    } ]
+  }, {
+    "tStartMs": 420080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "copy of you is really so precise, then a \nbizarre reality arises: you can’t actually  "
+    } ]
+  }, {
+    "tStartMs": 424560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "know whether you are you or whether you are \njust the simulated experience of the copy,  "
+    } ]
+  }, {
+    "tStartMs": 428480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "because the copy must be so accurate as \nto be essentially indistinguishable from  "
+    } ]
+  }, {
+    "tStartMs": 431600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "you! And if you’re the copy, your choice is \nclear: you should pick just the jackpot box,  "
+    } ]
+  }, {
+    "tStartMs": 436320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "because that will put the million dollars \nin the real jackpot for the real you!"
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "In essence - there’s a chance that your decision \nIS directly causing what’s in the jackpot box,  "
+    } ]
+  }, {
+    "tStartMs": 444320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "not by going back in time or anything, but \nbecause the decision made by a simulated  "
+    } ]
+  }, {
+    "tStartMs": 447440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "copy of you is the source of the predictor being’s \nprediction - and you can’t tell which you you are."
+    } ]
+  }, {
+    "tStartMs": 452480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But creating a near-perfect physical simulation \nor copy of you is not just difficult in practice,  "
+    } ]
+  }, {
+    "tStartMs": 457520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "it may be physically impossible even in principle. \nIf the physical processes that go on in the brain  "
+    } ]
+  }, {
+    "tStartMs": 461680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "rely on any inherently quantum features \nof matter - even just the butterfly effect  "
+    } ]
+  }, {
+    "tStartMs": 465200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "perturbation from the underlying quantum fuzz \nof atoms - then the no cloning theorem (which  "
+    } ]
+  }, {
+    "tStartMs": 469040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "is a physical law of our universe that means \nyou can’t make a perfect copy of a quantum  "
+    } ]
+  }, {
+    "tStartMs": 472160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "state without destroying the original) - the \nno cloning theorem prevents an accurate copy  "
+    } ]
+  }, {
+    "tStartMs": 475680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "from being made, and so the predictor-being \ncouldn’t make an accurate enough prediction."
+    } ]
+  }, {
+    "tStartMs": 479280,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So quantum mechanics destroys \nthe setup of Newcomb’s paradox.  "
+    } ]
+  }, {
+    "tStartMs": 483040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But it can also save the setup of the \nparadox! There’s another quantum mechanism  "
+    } ]
+  }, {
+    "tStartMs": 487440,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "by which Newcomb's paradox could perhaps \nbe physically possible, and which even  "
+    } ]
+  }, {
+    "tStartMs": 490720,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "provides an answer for the choice you should \nmake: the mechanism is quantum entanglement."
+    } ]
+  }, {
+    "tStartMs": 494960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "If, somehow, the predictor-being were able \nto quantum mechanically entangle your choice  "
+    } ]
+  }, {
+    "tStartMs": 498720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "with the amount of money in the jackpot \nbox, they could achieve perfect accuracy."
+    } ]
+  }, {
+    "tStartMs": 502880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "If (and it’s a big if) they could put the quantum \nstates of your choice and the contents of the box  "
+    } ]
+  }, {
+    "tStartMs": 507360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "into a quantum superposition of “choose both boxes \nand the jackpot box is empty” and “choose one box  "
+    } ]
+  }, {
+    "tStartMs": 513040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and it has a million dollars”, then, to an outside \nobserver, the superposition must collapse into  "
+    } ]
+  }, {
+    "tStartMs": 517280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "one of the two possibilities: either the player \nchose only the jackpot box and it has money in it,  "
+    } ]
+  }, {
+    "tStartMs": 521840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "or they chose both boxes and the jackpot box \nis empty. Or if you subscribe to the many  "
+    } ]
+  }, {
+    "tStartMs": 526080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "worlds interpretation, these two possibilities \nhappen on different branches of the multiverse."
+    } ]
+  }, {
+    "tStartMs": 530240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Either way, entanglement means that from the \nplayer’s point of view they can make their choice  "
+    } ]
+  }, {
+    "tStartMs": 533760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "100% freely, and the prediction can still be 100% \ncorrect. It’s similar to how when you repeatedly  "
+    } ]
+  }, {
+    "tStartMs": 538640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "measure pairs of entangled electrons, the first \nelectron measured in each pair will appear to  "
+    } ]
+  }, {
+    "tStartMs": 542160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "have randomly “chosen” to be spin up or down, \nand the second one will equally appear random,  "
+    } ]
+  }, {
+    "tStartMs": 546480,
+    "dDurationMs": 3222,
+    "segs": [ {
+      "utf8": "but when you compare the two, it turns out \ntheir spins were always the same. [Screen note:  "
+    } ]
+  }, {
+    "tStartMs": 549702,
+    "dDurationMs": 166,
+    "segs": [ {
+      "utf8": "Quantum causality shows us that is doesn’t matter \nwhich spin is measured first: they will appear  "
+    } ]
+  }, {
+    "tStartMs": 549868,
+    "dDurationMs": 1892,
+    "segs": [ {
+      "utf8": "fundamentally random and always be correlated]\n\u2028In short, quantum entanglement is a viable  "
+    } ]
+  }, {
+    "tStartMs": 551760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "way where a Newcomb-like setup can be achieved \n(albeit so far only with microscopic particles),  "
+    } ]
+  }, {
+    "tStartMs": 556880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and in this case, the only way to get \na million dollars is to choose one box,  "
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because those two outcomes are entangled \ntogether - it's not causation, it's correlation."
+    } ]
+  }, {
+    "tStartMs": 564320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Well, actually physicists have proved \nthat for quantum entanglements like the  "
+    } ]
+  }, {
+    "tStartMs": 567040,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "one we’re discussing, the casual \ncalculus analysis breaks down,  "
+    } ]
+  }, {
+    "tStartMs": 569920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and you need a quantum theory of causality! \nWhich is too much for us to get into here."
+    } ]
+  }, {
+    "tStartMs": 574080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Or maybe it’s just impossible \nto set up entanglement between  "
+    } ]
+  }, {
+    "tStartMs": 576640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "your brain and the contents of the jackpot box…"
+    } ]
+  }, {
+    "tStartMs": 579360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So… what do I think? Is a game like \nthis possible? I actually think it is,  "
+    } ]
+  }, {
+    "tStartMs": 584240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "for reasons we’ve completely ignored until \nnow: basic probability and human nature. A  "
+    } ]
+  }, {
+    "tStartMs": 588880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "100% accurate prediction of all participants is \nprobably physically impossible, but a very good  "
+    } ]
+  }, {
+    "tStartMs": 593520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "prediction seems totally reasonable. You don’t \nneed to be a magic-all-knowing-being to predict  "
+    } ]
+  }, {
+    "tStartMs": 597600,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "people with super high accuracy: you just need \nto get almost everyone to do the same thing. "
+    } ]
+  }, {
+    "tStartMs": 601280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Say I guess that a die roll will land on either \na one, two, three, four, OR a five, then I’ll  "
+    } ]
+  }, {
+    "tStartMs": 605760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "be right around 83% of the time! It’s a property \nof probabilities that if a thing is very likely,  "
+    } ]
+  }, {
+    "tStartMs": 610320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "you don’t have to be good at predictions: just \nchoose the likely thing and your accuracy will  "
+    } ]
+  }, {
+    "tStartMs": 614080,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "be high, because it will be equal to the \nhigh probability of that likely thing."
+    } ]
+  }, {
+    "tStartMs": 617360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And that’s where human nature comes in: \nwe know that people can be primed or  "
+    } ]
+  }, {
+    "tStartMs": 620560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "misdirected to make choices in one direction \nor another, maybe by the design of the game,  "
+    } ]
+  }, {
+    "tStartMs": 624480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "the wording of the explanation, or even \nthe color of the room they’re in! Like,  "
+    } ]
+  }, {
+    "tStartMs": 627680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "imagine if the predictor is a five-year-old kid \nwho predicts every time that people will take both  "
+    } ]
+  }, {
+    "tStartMs": 632000,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "boxes. Most people, when faced with real boxes \ncontaining real money, would guess that a five  "
+    } ]
+  }, {
+    "tStartMs": 636140,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "year old would be bad at predicting and likely \ndoesn’t have one million dollars to give away,  "
+    } ]
+  }, {
+    "tStartMs": 639440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "so the vast majority people would choose two \nboxes, fulfilling the 5-year-old’s prediction  "
+    } ]
+  }, {
+    "tStartMs": 644800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "that they’ll take two boxes, and making the \n5-year-old a super-accurate-predictor-being! This  "
+    } ]
+  }, {
+    "tStartMs": 649040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "is an implementation of Newcomb's paradox that has \nthe same statistics but is much less paradoxical."
+    } ]
+  }, {
+    "tStartMs": 654240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "In short, I bet it would be quite easy to \nengineer a real-world scenario in which a  "
+    } ]
+  }, {
+    "tStartMs": 657680,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "majority of participants choose the same thing - \nnot by accurately predicting the behavior of any  "
+    } ]
+  }, {
+    "tStartMs": 661600,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "individual, but by understanding human nature. And \nby getting a majority of participants to make the  "
+    } ]
+  }, {
+    "tStartMs": 666080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "same choice, you can achieve falsely high accuracy \njust by always predicting the most common choice."
+    } ]
+  }, {
+    "tStartMs": 671360,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So what should you do if you actually find \nyourself in the situation of Newcomb’s paradox,  "
+    } ]
+  }, {
+    "tStartMs": 674880,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "choosing between the possibility of a million \ndollars or a thousand or both or none at all? If  "
+    } ]
+  }, {
+    "tStartMs": 679440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the predictor being really is a vast intelligence \ncapable of remarkable prediction, then causal  "
+    } ]
+  }, {
+    "tStartMs": 683920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "calculus tells us that you should always pick one \nbox, while an intervening observer should always  "
+    } ]
+  }, {
+    "tStartMs": 688320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "pick two boxes on your behalf. Simulation theory \nsays you should pick one box (because you might  "
+    } ]
+  }, {
+    "tStartMs": 693280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "be in the simulation). Quantum no-cloning says \nthat a perfect predictor-being is effectively  "
+    } ]
+  }, {
+    "tStartMs": 697200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "impossible and maybe you should greedily pick two \nboxes, while quantum entanglement leaves open the  "
+    } ]
+  }, {
+    "tStartMs": 702080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "door for perfect prediction, in which case you \nwould pick one box. Whether entanglement like this  "
+    } ]
+  }, {
+    "tStartMs": 706240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "would be possible to set up is unclear, though. \nAnd if a random five-year-old is providing the  "
+    } ]
+  }, {
+    "tStartMs": 710160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "money and doing the predicting, everyone should \npick two boxes, which allows the five-year-old  "
+    } ]
+  }, {
+    "tStartMs": 713760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to falsely achieve incredible accuracy.\nSo have you made up your mind about Newcomb’s  "
+    } ]
+  }, {
+    "tStartMs": 718000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "paradox? Would you choose one box, or two? Or are \nyou still undecided? I predicted that by the end  "
+    } ]
+  }, {
+    "tStartMs": 723040,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "of this video, you wouldn't know what to think. \nSo tell me - how accurate was my prediction? "
+    } ]
+  }, {
+    "tStartMs": 728440,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Derek: So here are some thoughts that I \nwas scribbling down as I was watching…"
+    } ]
+  }, {
+    "tStartMs": 734400,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "OK, so more from Derek in a second, but first,  "
+    } ]
+  }, {
+    "tStartMs": 736480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "instead of putting money into boxes for \nstrangers - why not support the creation  "
+    } ]
+  }, {
+    "tStartMs": 739600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "of more MinutePhysics videos like this one? \nIf you’ve enjoyed watching my videos, please  "
+    } ]
+  }, {
+    "tStartMs": 742880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "consider supporting me on Patreon and help make \nMinutePhysics sponsor free - thank you so much! "
+    } ]
+  }, {
+    "tStartMs": 747200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And now back to Derek’s thoughts.\nDerek: It is my experience with this  "
+    } ]
+  }, {
+    "tStartMs": 750960,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "problem that most people have a gut or instinctual \nresponse. And my sense is that they don't really  "
+    } ]
+  }, {
+    "tStartMs": 758640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "change that over time. I’m such a one-oxer. I \ndon't need to maximize every dollar. I don't need  "
+    } ]
+  }, {
+    "tStartMs": 764640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "to walk out of there with like, look, I got the \nmost that possibly could have been got! The prize  "
+    } ]
+  }, {
+    "tStartMs": 769520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "is the million, the thousand is the distraction. \nMaybe the prediction is much simpler than it’s  "
+    } ]
+  }, {
+    "tStartMs": 775040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "made out to be here in that you don't need a \nfull simulacrum of them and their environment  "
+    } ]
+  }, {
+    "tStartMs": 779440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "their experiences, which is obviously impossible, \nso maybe the question of, what are they going to  "
+    } ]
+  }, {
+    "tStartMs": 785120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "do is actually way simpler than we think it is.\nHenry: Yeah, that's what that's literally what  "
+    } ]
+  }, {
+    "tStartMs": 789920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "the next section of the video is about is about. \nWhich I agree with. There is plenty of ways around  "
+    } ]
+  }, {
+    "tStartMs": 794000,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "needing to perfectly clone somebody to predict.\nDerek: I do like the cleverness of bringing  "
+    } ]
+  }, {
+    "tStartMs": 802080,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "entanglement in there, which would perfectly \ndetermine the outcomes. Is the human brain a  "
+    } ]
+  }, {
+    "tStartMs": 807760,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "coherent quantum state? Like it probably isn't. \nAnd so that would be the problem. If all we were  "
+    } ]
+  }, {
+    "tStartMs": 814880,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "doing was treating electron states as choices or \nsomething, then obviously you could perfectly get  "
+    } ]
+  }, {
+    "tStartMs": 823040,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "this to work. Which is something interesting \nand I hadn't thought about that for sure."
+    } ]
+  } ]
+}

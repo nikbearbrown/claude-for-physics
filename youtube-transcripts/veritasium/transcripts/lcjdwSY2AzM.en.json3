@@ -1,0 +1,3901 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 210,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "- Imagine you are an astronaut\nout drifting in deep space"
+    } ]
+  }, {
+    "tStartMs": 3750,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "when you throw a rock as hard as you can."
+    } ]
+  }, {
+    "tStartMs": 7020,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "What's gonna happen to that rock?"
+    } ]
+  }, {
+    "tStartMs": 9270,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Well, you would think\nthat it would continue"
+    } ]
+  }, {
+    "tStartMs": 11130,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "with constant velocity in a straight line."
+    } ]
+  }, {
+    "tStartMs": 13560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "That's just Newton's first law."
+    } ]
+  }, {
+    "tStartMs": 15840,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "But what actually happens\nis it eventually slows down"
+    } ]
+  }, {
+    "tStartMs": 20550,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and stops."
+    } ]
+  }, {
+    "tStartMs": 22650,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So why does this happen?"
+    } ]
+  }, {
+    "tStartMs": 24360,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Where did all the rock's energy go?"
+    } ]
+  }, {
+    "tStartMs": 26494,
+    "dDurationMs": 1406,
+    "segs": [ {
+      "utf8": "(pensive orchestral music)"
+    } ]
+  }, {
+    "tStartMs": 27900,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "At the turn of the 20th century,"
+    } ]
+  }, {
+    "tStartMs": 29250,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "the problem of energy conservation"
+    } ]
+  }, {
+    "tStartMs": 31110,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "baffled some of the greatest minds,"
+    } ]
+  }, {
+    "tStartMs": 33690,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "including Albert Einstein."
+    } ]
+  }, {
+    "tStartMs": 35760,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Einstein came up with a possible solution,"
+    } ]
+  }, {
+    "tStartMs": 39240,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "but then a little-known\nunpaid mathematician"
+    } ]
+  }, {
+    "tStartMs": 42060,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "named Emmy Noether proved he was wrong."
+    } ]
+  }, {
+    "tStartMs": 45360,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "And in doing so,"
+    } ]
+  }, {
+    "tStartMs": 46380,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "she created a whole new\nparadigm for physics,"
+    } ]
+  }, {
+    "tStartMs": 48780,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "one that underlies all of particle physics"
+    } ]
+  }, {
+    "tStartMs": 51300,
+    "dDurationMs": 2883,
+    "segs": [ {
+      "utf8": "and explains why anything is conserved."
+    } ]
+  }, {
+    "tStartMs": 55918,
+    "dDurationMs": 1622,
+    "segs": [ {
+      "utf8": "(gentle inquisitive music)"
+    } ]
+  }, {
+    "tStartMs": 57540,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "It all started in 1915 at\nthe University of Gottingen,"
+    } ]
+  }, {
+    "tStartMs": 61260,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "where Einstein was giving six lectures"
+    } ]
+  }, {
+    "tStartMs": 63390,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "on his new theory of gravity."
+    } ]
+  }, {
+    "tStartMs": 65310,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "What would become the\ngeneral theory of relativity."
+    } ]
+  }, {
+    "tStartMs": 69210,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "The lectures were well received,"
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "but Einstein hadn't yet\nsettled on the final form"
+    } ]
+  }, {
+    "tStartMs": 74070,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "of the field equations."
+    } ]
+  }, {
+    "tStartMs": 75570,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "One problem he was facing"
+    } ]
+  }, {
+    "tStartMs": 77130,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "was how to show that\ntotal energy was conserved"
+    } ]
+  }, {
+    "tStartMs": 80100,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "in his new theory."
+    } ]
+  }, {
+    "tStartMs": 81570,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- And this is the whole\nbeginning of this story, right?"
+    } ]
+  }, {
+    "tStartMs": 83850,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Classically, they thought\nthey had this understanding"
+    } ]
+  }, {
+    "tStartMs": 85740,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "of what the energy of the\ngravitational field was."
+    } ]
+  }, {
+    "tStartMs": 88440,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "All of a sudden with these new equations,"
+    } ]
+  }, {
+    "tStartMs": 89940,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "they go, \"Where is it?"
+    } ]
+  }, {
+    "tStartMs": 91530,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "You know, is it in the curvature?"
+    } ]
+  }, {
+    "tStartMs": 93210,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "You know, is it in the\nstress-energy tensor?"
+    } ]
+  }, {
+    "tStartMs": 95460,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Where's the term that we're looking for?\""
+    } ]
+  }, {
+    "tStartMs": 98790,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- [Derek] Einstein\nsuggested that the principle"
+    } ]
+  }, {
+    "tStartMs": 100350,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "of conservation of energy,"
+    } ]
+  }, {
+    "tStartMs": 101580,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "long established as a bedrock of physics,"
+    } ]
+  }, {
+    "tStartMs": 103770,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "might hold the key to working out"
+    } ]
+  }, {
+    "tStartMs": 105360,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "the correct field equations."
+    } ]
+  }, {
+    "tStartMs": 107460,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "In the audience, legendary mathematician"
+    } ]
+  }, {
+    "tStartMs": 109290,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "David Hilbert was intrigued."
+    } ]
+  }, {
+    "tStartMs": 111780,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So he started to look for the\nenergy conservation equations"
+    } ]
+  }, {
+    "tStartMs": 114510,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "in Einstein's new theory,\nbut the best he could find"
+    } ]
+  }, {
+    "tStartMs": 117630,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "was a set of equations known\nas the Bianchi identities."
+    } ]
+  }, {
+    "tStartMs": 121380,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "They showed that energy was conserved,"
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "but only in a completely empty universe."
+    } ]
+  }, {
+    "tStartMs": 126450,
+    "dDurationMs": 4443,
+    "segs": [ {
+      "utf8": "So for one like ours filled\nwith stuff, they seemed useless."
+    } ]
+  }, {
+    "tStartMs": 131820,
+    "dDurationMs": 1353,
+    "segs": [ {
+      "utf8": "Hilbert was stumped."
+    } ]
+  }, {
+    "tStartMs": 134400,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "- Fortunately, he knew just\nthe person for the job."
+    } ]
+  }, {
+    "tStartMs": 137640,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "His new assistant, Emmy Noether."
+    } ]
+  }, {
+    "tStartMs": 140851,
+    "dDurationMs": 1019,
+    "segs": [ {
+      "utf8": "(light thoughtful music)"
+    } ]
+  }, {
+    "tStartMs": 141870,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- [Derek] From an early\nage, Noether had dreamed"
+    } ]
+  }, {
+    "tStartMs": 143640,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "of following the footsteps of her father,"
+    } ]
+  }, {
+    "tStartMs": 145530,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "a mathematics professor at\nthe University of Erlangen."
+    } ]
+  }, {
+    "tStartMs": 148290,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "She got special permission"
+    } ]
+  }, {
+    "tStartMs": 149490,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to attend lectures at the university,"
+    } ]
+  }, {
+    "tStartMs": 151710,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "but they refused to admit\nher as an official student."
+    } ]
+  }, {
+    "tStartMs": 155100,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "The Erlangen Academic Senate"
+    } ]
+  }, {
+    "tStartMs": 156870,
+    "dDurationMs": 1807,
+    "segs": [ {
+      "utf8": "held that the admission of women"
+    } ]
+  }, {
+    "tStartMs": 158677,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "\"would overthrow all academic order.\""
+    } ]
+  }, {
+    "tStartMs": 161721,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "(lively orchestral music)"
+    } ]
+  }, {
+    "tStartMs": 162554,
+    "dDurationMs": 4216,
+    "segs": [ {
+      "utf8": "So in 1903, she spent a\nsemester at Gottingen instead."
+    } ]
+  }, {
+    "tStartMs": 166770,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "There she learned about a\nnew way to approach geometry"
+    } ]
+  }, {
+    "tStartMs": 170610,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "using symmetry."
+    } ]
+  }, {
+    "tStartMs": 171811,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "(gentle thoughtful music)"
+    } ]
+  }, {
+    "tStartMs": 174690,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Symmetry is one of those\nideas that's easy to recognize"
+    } ]
+  }, {
+    "tStartMs": 177090,
+    "dDurationMs": 1413,
+    "segs": [ {
+      "utf8": "but harder to describe."
+    } ]
+  }, {
+    "tStartMs": 179550,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "- If I align a mirror on\nthis triangle like so,"
+    } ]
+  }, {
+    "tStartMs": 182670,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "then it looks the same\nas without the mirror,"
+    } ]
+  }, {
+    "tStartMs": 185370,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and that's because this\nis an axis of symmetry."
+    } ]
+  }, {
+    "tStartMs": 188370,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "The reflections about this axis"
+    } ]
+  }, {
+    "tStartMs": 190260,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "leave the triangle unchanged."
+    } ]
+  }, {
+    "tStartMs": 192090,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "And the same thing happens\nif I put the mirror like this"
+    } ]
+  }, {
+    "tStartMs": 194940,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "or if I orient the mirror like this."
+    } ]
+  }, {
+    "tStartMs": 197910,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "So this triangle has\nthree axes of symmetry."
+    } ]
+  }, {
+    "tStartMs": 202200,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Now, mathematicians generalize\nthe idea of symmetry further"
+    } ]
+  }, {
+    "tStartMs": 205410,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to be any action you can take"
+    } ]
+  }, {
+    "tStartMs": 207150,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that leaves an object unchanged."
+    } ]
+  }, {
+    "tStartMs": 209610,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So something else I could do\nis I could rotate this triangle"
+    } ]
+  }, {
+    "tStartMs": 212820,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "by 120 degrees or by 240 degrees"
+    } ]
+  }, {
+    "tStartMs": 217230,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "or by 360 degrees."
+    } ]
+  }, {
+    "tStartMs": 219960,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Together, these six actions"
+    } ]
+  }, {
+    "tStartMs": 221820,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "capture all the symmetries\nof the equilateral triangle."
+    } ]
+  }, {
+    "tStartMs": 225180,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "- [Derek] But you can also\nhave more abstract symmetries,"
+    } ]
+  }, {
+    "tStartMs": 228180,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "for example, with a mathematical function."
+    } ]
+  }, {
+    "tStartMs": 230940,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "If I shift this function up or\ndown by some constant amount,"
+    } ]
+  }, {
+    "tStartMs": 234840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "call it a, then all of\nits y values will change."
+    } ]
+  }, {
+    "tStartMs": 239040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "But if I differentiate that\nfunction, I get the slope,"
+    } ]
+  }, {
+    "tStartMs": 242280,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and that remains unchanged"
+    } ]
+  }, {
+    "tStartMs": 244260,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "regardless of whatever constant is added."
+    } ]
+  }, {
+    "tStartMs": 247200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So you can add any\nconstant to this function,"
+    } ]
+  }, {
+    "tStartMs": 250080,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and its derivative always stays the same."
+    } ]
+  }, {
+    "tStartMs": 253170,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So there is a kind of\ntranslation symmetry."
+    } ]
+  }, {
+    "tStartMs": 256320,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And unlike the symmetries of the triangle,"
+    } ]
+  }, {
+    "tStartMs": 258540,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "this is a continuous symmetry,"
+    } ]
+  }, {
+    "tStartMs": 260700,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "meaning you can shift it\nby any amount you like."
+    } ]
+  }, {
+    "tStartMs": 265920,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Over the next 12 years,"
+    } ]
+  }, {
+    "tStartMs": 267300,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Noether became a leading\nexpert on symmetry."
+    } ]
+  }, {
+    "tStartMs": 270330,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "She became only the\nsecond woman in Germany"
+    } ]
+  }, {
+    "tStartMs": 272640,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "to earn a PhD in mathematics,"
+    } ]
+  }, {
+    "tStartMs": 274950,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and she used this\nexpertise to help Hilbert"
+    } ]
+  }, {
+    "tStartMs": 277560,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "and Einstein with their\nproblem of energy conservation."
+    } ]
+  }, {
+    "tStartMs": 281070,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "The issue had bothered Einstein so much"
+    } ]
+  }, {
+    "tStartMs": 283230,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "that he proposed a new\nconservation equation."
+    } ]
+  }, {
+    "tStartMs": 287010,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "It said that if we add\ntogether the energy of matter"
+    } ]
+  }, {
+    "tStartMs": 290220,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and the energy of the gravitational field,"
+    } ]
+  }, {
+    "tStartMs": 292590,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "then that total remains constant."
+    } ]
+  }, {
+    "tStartMs": 294990,
+    "dDurationMs": 2883,
+    "segs": [ {
+      "utf8": "Its change over time and space is zero."
+    } ]
+  }, {
+    "tStartMs": 299550,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "But when Noether saw this,"
+    } ]
+  }, {
+    "tStartMs": 300750,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "she was convinced Einstein\nhad made a fundamental mistake"
+    } ]
+  }, {
+    "tStartMs": 304140,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "because this equation disregards\nthe foundational principle"
+    } ]
+  }, {
+    "tStartMs": 307320,
+    "dDurationMs": 2424,
+    "segs": [ {
+      "utf8": "that general relativity is built on."
+    } ]
+  }, {
+    "tStartMs": 309744,
+    "dDurationMs": 1926,
+    "segs": [ {
+      "utf8": "(light pensive music)"
+    } ]
+  }, {
+    "tStartMs": 311670,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "10 years earlier, in 1905,"
+    } ]
+  }, {
+    "tStartMs": 313740,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Einstein had introduced his\nspecial theory of relativity,"
+    } ]
+  }, {
+    "tStartMs": 316740,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and it was built on the idea\nthat the laws of physics"
+    } ]
+  }, {
+    "tStartMs": 319440,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "were independent of\nyour frame of reference."
+    } ]
+  }, {
+    "tStartMs": 322470,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But so far Einstein had\nonly applied this principle"
+    } ]
+  }, {
+    "tStartMs": 325230,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to inertial frames of reference."
+    } ]
+  }, {
+    "tStartMs": 327300,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Those are frames that\nmove at a constant speed."
+    } ]
+  }, {
+    "tStartMs": 330510,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "- He began wondering"
+    } ]
+  }, {
+    "tStartMs": 331350,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "what would it take to generalize that,"
+    } ]
+  }, {
+    "tStartMs": 333510,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "to consider more general states of motion."
+    } ]
+  }, {
+    "tStartMs": 335550,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "After all, trains on the\nplatform; he loved trains."
+    } ]
+  }, {
+    "tStartMs": 338730,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Trains would speed up or slow down."
+    } ]
+  }, {
+    "tStartMs": 340440,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "People, you know, moving around the world"
+    } ]
+  }, {
+    "tStartMs": 342660,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "don't only move at a single\nconstant speed forever."
+    } ]
+  }, {
+    "tStartMs": 345780,
+    "dDurationMs": 1507,
+    "segs": [ {
+      "utf8": "- In 1907, he wrote,"
+    } ]
+  }, {
+    "tStartMs": 347287,
+    "dDurationMs": 2513,
+    "segs": [ {
+      "utf8": "\"Is it conceivable that\nthe principle of relativity"
+    } ]
+  }, {
+    "tStartMs": 349800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "also applies to systems\nthat are accelerated"
+    } ]
+  }, {
+    "tStartMs": 352320,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "relative to each other?\""
+    } ]
+  }, {
+    "tStartMs": 353910,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "This made him wonder;"
+    } ]
+  }, {
+    "tStartMs": 355320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "perhaps his principle could\nalso be applied to accelerating"
+    } ]
+  }, {
+    "tStartMs": 358440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and rotating frames, frames\nthat move in any way in general."
+    } ]
+  }, {
+    "tStartMs": 362760,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "That's the \"general\"\nin general relativity."
+    } ]
+  }, {
+    "tStartMs": 365580,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "So Einstein got to work"
+    } ]
+  }, {
+    "tStartMs": 366810,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "on this largely intellectual pursuit."
+    } ]
+  }, {
+    "tStartMs": 370860,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "- But then, as he was\ndaydreaming in the patent office,"
+    } ]
+  }, {
+    "tStartMs": 373890,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "he had what he called the\nhappiest thought of his life."
+    } ]
+  }, {
+    "tStartMs": 378900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- [Derek] He imagined the window cleaner"
+    } ]
+  }, {
+    "tStartMs": 380520,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "at the top of the opposite\nbuilding falling off."
+    } ]
+  }, {
+    "tStartMs": 382900,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "(window cleaner screams)"
+    } ]
+  }, {
+    "tStartMs": 385620,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And Einstein realized that\nwhile the man was falling,"
+    } ]
+  }, {
+    "tStartMs": 388380,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "he wouldn't feel his own weight."
+    } ]
+  }, {
+    "tStartMs": 390630,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "He would be weightless,"
+    } ]
+  }, {
+    "tStartMs": 392250,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and anything he dropped on his way down"
+    } ]
+  }, {
+    "tStartMs": 393930,
+    "dDurationMs": 2283,
+    "segs": [ {
+      "utf8": "would remain stationary relative to him."
+    } ]
+  }, {
+    "tStartMs": 397200,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "It would be just as if he\nwas floating in outer space."
+    } ]
+  }, {
+    "tStartMs": 401130,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "- It's ironic, we would've said,"
+    } ]
+  }, {
+    "tStartMs": 402097,
+    "dDurationMs": 1493,
+    "segs": [ {
+      "utf8": "\"Oh, he's being pulled down to the ground"
+    } ]
+  }, {
+    "tStartMs": 403590,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "because the gravity of the\nEarth is exerting a force."
+    } ]
+  }, {
+    "tStartMs": 407250,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "But Einstein said, while\nthat person is in motion,"
+    } ]
+  }, {
+    "tStartMs": 410220,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "what we call free fall motion,"
+    } ]
+  }, {
+    "tStartMs": 412290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "they would actually\nfeel no gravity at all."
+    } ]
+  }, {
+    "tStartMs": 414720,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "There must be some equivalence\nbetween accelerated motion"
+    } ]
+  }, {
+    "tStartMs": 418260,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and the action of gravity."
+    } ]
+  }, {
+    "tStartMs": 420210,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "So Einstein arrived"
+    } ]
+  }, {
+    "tStartMs": 421770,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "at what he called the\nequivalence principle."
+    } ]
+  }, {
+    "tStartMs": 424440,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "- [Derek] If you were stuck\nin a rocket in outer space"
+    } ]
+  }, {
+    "tStartMs": 426780,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "accelerating at 9.8\nmeters per second squared,"
+    } ]
+  }, {
+    "tStartMs": 429690,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "then it would be the exact same"
+    } ]
+  }, {
+    "tStartMs": 431310,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "as if you were standing\non the surface of Earth."
+    } ]
+  }, {
+    "tStartMs": 434970,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "- And this was huge"
+    } ]
+  }, {
+    "tStartMs": 436200,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "because it meant that if\nEinstein could figure out"
+    } ]
+  }, {
+    "tStartMs": 438150,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "how to understand accelerating frames,"
+    } ]
+  }, {
+    "tStartMs": 440640,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "then he didn't just get\na more general theory;"
+    } ]
+  }, {
+    "tStartMs": 443070,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "he would also have a\nnew theory of gravity."
+    } ]
+  }, {
+    "tStartMs": 446490,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "- But to achieve this,"
+    } ]
+  }, {
+    "tStartMs": 447540,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Einstein needed to make\nsure the laws of gravity"
+    } ]
+  }, {
+    "tStartMs": 449610,
+    "dDurationMs": 2797,
+    "segs": [ {
+      "utf8": "had the same form in\nevery frame of reference."
+    } ]
+  }, {
+    "tStartMs": 452407,
+    "dDurationMs": 2573,
+    "segs": [ {
+      "utf8": "(train whooshing)"
+    } ]
+  }, {
+    "tStartMs": 454980,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This is the idea of general covariance,"
+    } ]
+  }, {
+    "tStartMs": 457380,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and it's one of the core\ntenets of general relativity."
+    } ]
+  }, {
+    "tStartMs": 460260,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "To satisfy it, Einstein knew he had to use"
+    } ]
+  }, {
+    "tStartMs": 463080,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "special mathematical\nobjects called tensors."
+    } ]
+  }, {
+    "tStartMs": 466290,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "A simple kind of tensor is a vector."
+    } ]
+  }, {
+    "tStartMs": 468510,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "You can write a vector\nas a set of components"
+    } ]
+  }, {
+    "tStartMs": 470970,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "multiplied by their basis vectors."
+    } ]
+  }, {
+    "tStartMs": 473070,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "For example, this vector can be written as"
+    } ]
+  }, {
+    "tStartMs": 475260,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "3x hat plus 2y hat."
+    } ]
+  }, {
+    "tStartMs": 477900,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "But I can also write this"
+    } ]
+  }, {
+    "tStartMs": 479280,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "using a different coordinate system."
+    } ]
+  }, {
+    "tStartMs": 481080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And with these new basis vectors,"
+    } ]
+  }, {
+    "tStartMs": 483000,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "the original vector is\nnow written as 2a plus 1b."
+    } ]
+  }, {
+    "tStartMs": 487170,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So the components, the\nnumbers in this list, changed,"
+    } ]
+  }, {
+    "tStartMs": 491010,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but the vector didn't."
+    } ]
+  }, {
+    "tStartMs": 492510,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "It stayed the same."
+    } ]
+  }, {
+    "tStartMs": 494130,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "And that's because when\nthe basis vectors change,"
+    } ]
+  }, {
+    "tStartMs": 496560,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "the components adjust\nin a complementary way"
+    } ]
+  }, {
+    "tStartMs": 499470,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to keep the vector the same."
+    } ]
+  }, {
+    "tStartMs": 501630,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "The vector itself is independent"
+    } ]
+  }, {
+    "tStartMs": 503550,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of which coordinate system you use."
+    } ]
+  }, {
+    "tStartMs": 506190,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "And the same is true for tensors,"
+    } ]
+  }, {
+    "tStartMs": 508170,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "only now instead of having\njust two components,"
+    } ]
+  }, {
+    "tStartMs": 510330,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "a general tensor can\nhave any number of them"
+    } ]
+  }, {
+    "tStartMs": 512880,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "in the form of a matrix."
+    } ]
+  }, {
+    "tStartMs": 514500,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "And just like with vectors,\nyou can change a tensor"
+    } ]
+  }, {
+    "tStartMs": 517080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "from one coordinate system to another,"
+    } ]
+  }, {
+    "tStartMs": 519240,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and the tensor stays the same."
+    } ]
+  }, {
+    "tStartMs": 521490,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So that's why Einstein had to use them"
+    } ]
+  }, {
+    "tStartMs": 523380,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "to build his new theory."
+    } ]
+  }, {
+    "tStartMs": 526350,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- And that was exactly the\nproblem that Noether found"
+    } ]
+  }, {
+    "tStartMs": 528750,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "because when she looked"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "at Einstein's proposed\nenergy conservation equation,"
+    } ]
+  }, {
+    "tStartMs": 532860,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "it contained a pseudotensor."
+    } ]
+  }, {
+    "tStartMs": 534930,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "And as the name implies,\nthat isn't quite a tensor."
+    } ]
+  }, {
+    "tStartMs": 538080,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "When you try to transform it"
+    } ]
+  }, {
+    "tStartMs": 539370,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "from one frame of reference to another,"
+    } ]
+  }, {
+    "tStartMs": 541860,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "it doesn't remain the same\nquantity in different frames."
+    } ]
+  }, {
+    "tStartMs": 544800,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "The gravitational energy you\nmight observe in one frame"
+    } ]
+  }, {
+    "tStartMs": 548010,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "completely disappears in another."
+    } ]
+  }, {
+    "tStartMs": 550770,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "- And Einstein, you know,"
+    } ]
+  }, {
+    "tStartMs": 551660,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "he had some strange thoughts about this."
+    } ]
+  }, {
+    "tStartMs": 553440,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "I mean, people were trying to\nstamp conservation of energy"
+    } ]
+  }, {
+    "tStartMs": 557810,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "into relativity by bending the rules"
+    } ]
+  }, {
+    "tStartMs": 562620,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "of mathematics."
+    } ]
+  }, {
+    "tStartMs": 564900,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "- So, Noether knew that\nEinstein's proposed solution"
+    } ]
+  }, {
+    "tStartMs": 567660,
+    "dDurationMs": 3817,
+    "segs": [ {
+      "utf8": "couldn't be the answer,\nand that made her think,"
+    } ]
+  }, {
+    "tStartMs": 571477,
+    "dDurationMs": 1463,
+    "segs": [ {
+      "utf8": "\"What if general covariance"
+    } ]
+  }, {
+    "tStartMs": 572940,
+    "dDurationMs": 3206,
+    "segs": [ {
+      "utf8": "and energy conservation\nare simply incompatible?"
+    } ]
+  }, {
+    "tStartMs": 576146,
+    "dDurationMs": 3844,
+    "segs": [ {
+      "utf8": "And if that's the case, then why?\""
+    } ]
+  }, {
+    "tStartMs": 579990,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "General covariance says\nthat laws of physics"
+    } ]
+  }, {
+    "tStartMs": 582420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "must stay the same when you\nchange reference frames."
+    } ]
+  }, {
+    "tStartMs": 585780,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "So that is a kind of symmetry,"
+    } ]
+  }, {
+    "tStartMs": 588390,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "exactly what Noether had\nspent her career studying."
+    } ]
+  }, {
+    "tStartMs": 591510,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "So she started thinking"
+    } ]
+  }, {
+    "tStartMs": 592830,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "about the symmetries of the universe,"
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "beginning with the simplest possible case,"
+    } ]
+  }, {
+    "tStartMs": 598050,
+    "dDurationMs": 2618,
+    "segs": [ {
+      "utf8": "an empty static universe."
+    } ]
+  }, {
+    "tStartMs": 600668,
+    "dDurationMs": 1462,
+    "segs": [ {
+      "utf8": "(light contemplative music)"
+    } ]
+  }, {
+    "tStartMs": 602130,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Imagine you are an\nastronaut in this universe."
+    } ]
+  }, {
+    "tStartMs": 605040,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Since it's empty, there is nothing special"
+    } ]
+  }, {
+    "tStartMs": 607860,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "about any particular point."
+    } ]
+  }, {
+    "tStartMs": 609480,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "I mean, it doesn't matter if\nyou're over here or over there;"
+    } ]
+  }, {
+    "tStartMs": 613620,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "the universe is completely symmetric"
+    } ]
+  }, {
+    "tStartMs": 615720,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "under translations in space."
+    } ]
+  }, {
+    "tStartMs": 618420,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So suppose you throw a ball;"
+    } ]
+  }, {
+    "tStartMs": 620340,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "well, it'll travel at a given speed,"
+    } ]
+  }, {
+    "tStartMs": 622830,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "and after a short amount of time,"
+    } ]
+  }, {
+    "tStartMs": 624300,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "it will have traveled some distance."
+    } ]
+  }, {
+    "tStartMs": 626250,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "But since the laws of\nphysics are the same here"
+    } ]
+  }, {
+    "tStartMs": 628410,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "as just before, we can\nshift the whole universe,"
+    } ]
+  }, {
+    "tStartMs": 631350,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and we're back to the\nsituation we started with."
+    } ]
+  }, {
+    "tStartMs": 634200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And we can keep doing this over and over,"
+    } ]
+  }, {
+    "tStartMs": 637320,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and this shows us that\nthe object will continue"
+    } ]
+  }, {
+    "tStartMs": 640140,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "with that same speed indefinitely."
+    } ]
+  }, {
+    "tStartMs": 643290,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "So what we've discovered"
+    } ]
+  }, {
+    "tStartMs": 644640,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "is that the principle of\nconservation of momentum"
+    } ]
+  }, {
+    "tStartMs": 647190,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "is a direct result"
+    } ]
+  }, {
+    "tStartMs": 648660,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "of the fact that there's\na translation symmetry"
+    } ]
+  }, {
+    "tStartMs": 651090,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "in the universe, that an\nexperiment done in one spot"
+    } ]
+  }, {
+    "tStartMs": 654420,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "will give identical results"
+    } ]
+  }, {
+    "tStartMs": 655920,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "to that same experiment\ndone somewhere else."
+    } ]
+  }, {
+    "tStartMs": 659190,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "You could move everything\nfrom one place to another,"
+    } ]
+  }, {
+    "tStartMs": 661530,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and the physics won't change."
+    } ]
+  }, {
+    "tStartMs": 663630,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Similarly, the laws of\nphysics don't depend"
+    } ]
+  }, {
+    "tStartMs": 665700,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "on whether you perform\nan experiment like this"
+    } ]
+  }, {
+    "tStartMs": 667890,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "or rotate everything by 90 degrees."
+    } ]
+  }, {
+    "tStartMs": 670740,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This universe is\nsymmetric under rotations."
+    } ]
+  }, {
+    "tStartMs": 674100,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So imagine we take a\nmetal rod and spin it."
+    } ]
+  }, {
+    "tStartMs": 677250,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "If we let it rotate for a minute,"
+    } ]
+  }, {
+    "tStartMs": 679170,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "then it will have moved\nthrough a small angle,"
+    } ]
+  }, {
+    "tStartMs": 681720,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "but we can rotate the whole universe back"
+    } ]
+  }, {
+    "tStartMs": 683970,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "by that same angle"
+    } ]
+  }, {
+    "tStartMs": 685140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and now we're at the\nstarting position again."
+    } ]
+  }, {
+    "tStartMs": 687540,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "And we can keep doing this"
+    } ]
+  }, {
+    "tStartMs": 688800,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "so that each instant\nlooks exactly the same"
+    } ]
+  }, {
+    "tStartMs": 691230,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "as the one before, which means the object"
+    } ]
+  }, {
+    "tStartMs": 694110,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "will keep rotating this way indefinitely."
+    } ]
+  }, {
+    "tStartMs": 697200,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "So the law of conservation\nof angular momentum"
+    } ]
+  }, {
+    "tStartMs": 700050,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "comes from the rotational\nsymmetry of the universe."
+    } ]
+  }, {
+    "tStartMs": 704220,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Now, another important\nsymmetry of this universe"
+    } ]
+  }, {
+    "tStartMs": 706740,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "is time symmetry."
+    } ]
+  }, {
+    "tStartMs": 708840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The laws of physics\ndon't change over time;"
+    } ]
+  }, {
+    "tStartMs": 711240,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "if you do an experiment today or tomorrow,"
+    } ]
+  }, {
+    "tStartMs": 713610,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "you will get the same result."
+    } ]
+  }, {
+    "tStartMs": 715710,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "So what does this symmetry lead to?"
+    } ]
+  }, {
+    "tStartMs": 719580,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Well, to understand this,\nwe're gonna dig into some math"
+    } ]
+  }, {
+    "tStartMs": 722970,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and a different way of doing mechanics"
+    } ]
+  }, {
+    "tStartMs": 724890,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "using the principle of least action."
+    } ]
+  }, {
+    "tStartMs": 727440,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Previously on Veritasium,"
+    } ]
+  }, {
+    "tStartMs": 728730,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "we learned that everything\nalways follows the path"
+    } ]
+  }, {
+    "tStartMs": 731130,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "that minimizes a quantity\nknown as the action."
+    } ]
+  }, {
+    "tStartMs": 733830,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "This is equivalent to the integral"
+    } ]
+  }, {
+    "tStartMs": 735510,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "of the Lagrangian L over time."
+    } ]
+  }, {
+    "tStartMs": 738090,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "In the simplest case,"
+    } ]
+  }, {
+    "tStartMs": 739110,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "that's just the kinetic\nminus potential energy."
+    } ]
+  }, {
+    "tStartMs": 742050,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Euler and Lagrange found"
+    } ]
+  }, {
+    "tStartMs": 743520,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "that the principle of\nleast action is obeyed,"
+    } ]
+  }, {
+    "tStartMs": 745650,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "so long as this set of differential\nequations is satisfied."
+    } ]
+  }, {
+    "tStartMs": 749670,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So Noether used action to see how physics"
+    } ]
+  }, {
+    "tStartMs": 752550,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "was affected by different symmetries."
+    } ]
+  }, {
+    "tStartMs": 755130,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- So suppose we do an experiment"
+    } ]
+  }, {
+    "tStartMs": 757050,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "where the result is the same now"
+    } ]
+  }, {
+    "tStartMs": 758760,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "as some tiny time interval epsilon later,"
+    } ]
+  }, {
+    "tStartMs": 761970,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "then how does this affect the action?"
+    } ]
+  }, {
+    "tStartMs": 764040,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Well, the time is going\nto change from just t"
+    } ]
+  }, {
+    "tStartMs": 767490,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "to t plus epsilon,"
+    } ]
+  }, {
+    "tStartMs": 770310,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and as a result, the Lagrangian\nis also going to change."
+    } ]
+  }, {
+    "tStartMs": 773340,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "So the new Lagrangian will be L prime,"
+    } ]
+  }, {
+    "tStartMs": 776430,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "which is equal to the old Lagrangian,"
+    } ]
+  }, {
+    "tStartMs": 778740,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "plus how much the Lagrangian\nchanges over time,"
+    } ]
+  }, {
+    "tStartMs": 782190,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "that's just dL by dt,"
+    } ]
+  }, {
+    "tStartMs": 783840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "multiplied by how long that change lasts,"
+    } ]
+  }, {
+    "tStartMs": 786000,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "so multiplied by epsilon."
+    } ]
+  }, {
+    "tStartMs": 789060,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "But now also remember that the result"
+    } ]
+  }, {
+    "tStartMs": 791310,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "is gonna be the exact same\nnow as a little while later,"
+    } ]
+  }, {
+    "tStartMs": 794670,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "which means that whatever this term is,"
+    } ]
+  }, {
+    "tStartMs": 797370,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the dL over dt, doesn't affect\nthe equations of motion,"
+    } ]
+  }, {
+    "tStartMs": 801450,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and it's from this symmetry in the action"
+    } ]
+  }, {
+    "tStartMs": 804420,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "that we're gonna be able to\nfind the conserved quantity."
+    } ]
+  }, {
+    "tStartMs": 807450,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "So let's take dL/dt and rewrite\nit using the chain rule."
+    } ]
+  }, {
+    "tStartMs": 811380,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "That gives us the partial\nderivative of L with respect to X"
+    } ]
+  }, {
+    "tStartMs": 815070,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "times dx over dt,"
+    } ]
+  }, {
+    "tStartMs": 816810,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "plus the partial derivative\nof L with respect to v"
+    } ]
+  }, {
+    "tStartMs": 819810,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "times dv over dt."
+    } ]
+  }, {
+    "tStartMs": 821730,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "But we can sub in the\npartial derivative of L"
+    } ]
+  }, {
+    "tStartMs": 824160,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "with respect to x"
+    } ]
+  }, {
+    "tStartMs": 825450,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "with this term from the\nEuler-Lagrange equation."
+    } ]
+  }, {
+    "tStartMs": 828210,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "And we can simplify this further"
+    } ]
+  }, {
+    "tStartMs": 829800,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "by writing dx over dt as v,"
+    } ]
+  }, {
+    "tStartMs": 831930,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and that gives us this expression."
+    } ]
+  }, {
+    "tStartMs": 834150,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And now notice what we've got right here."
+    } ]
+  }, {
+    "tStartMs": 836370,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "We've got the time derivative\nof some function, dL over dv,"
+    } ]
+  }, {
+    "tStartMs": 840390,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "times another function,\nplus that first function"
+    } ]
+  }, {
+    "tStartMs": 844260,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "times the time derivative\nof the second function."
+    } ]
+  }, {
+    "tStartMs": 846930,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So we can use the reverse\nof the product rule"
+    } ]
+  }, {
+    "tStartMs": 849660,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "to simplify this to the time\nderivative of dL over dv"
+    } ]
+  }, {
+    "tStartMs": 853710,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "times v."
+    } ]
+  }, {
+    "tStartMs": 855360,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Then as a final step, we can\nbring dL over dt to the right."
+    } ]
+  }, {
+    "tStartMs": 859890,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "So what we found is that"
+    } ]
+  }, {
+    "tStartMs": 860970,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "if you take the time\nderivative of this quantity,"
+    } ]
+  }, {
+    "tStartMs": 863010,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "it's equal to zero,"
+    } ]
+  }, {
+    "tStartMs": 864690,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "which means that whatever\nthis is has to be a constant."
+    } ]
+  }, {
+    "tStartMs": 868650,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "So what is it?"
+    } ]
+  }, {
+    "tStartMs": 870030,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Well, remember that in the\nsimplest case, the Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 874100,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "is just equal to the kinetic\nminus potential energy,"
+    } ]
+  }, {
+    "tStartMs": 876990,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "which we can write as\n1/2 mv squared minus v."
+    } ]
+  }, {
+    "tStartMs": 882570,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So if we take the partial\nderivative of the Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 886200,
+    "dDurationMs": 4287,
+    "segs": [ {
+      "utf8": "with respect to v, we're\njust gonna get d over dt,"
+    } ]
+  }, {
+    "tStartMs": 890487,
+    "dDurationMs": 2516,
+    "segs": [ {
+      "utf8": "m times v multiplied by v,"
+    } ]
+  }, {
+    "tStartMs": 893003,
+    "dDurationMs": 2077,
+    "segs": [ {
+      "utf8": "so this is gonna become mv squared."
+    } ]
+  }, {
+    "tStartMs": 895080,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "And then we can sub in the Lagrangian."
+    } ]
+  }, {
+    "tStartMs": 896700,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So this becomes minus\n1/2 mv squared minus v,"
+    } ]
+  }, {
+    "tStartMs": 903060,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "but also minus here."
+    } ]
+  }, {
+    "tStartMs": 904110,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "So this becomes plus v, and\nall of that's equal to zero,"
+    } ]
+  }, {
+    "tStartMs": 908490,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "which we can simplify\nto just 1/2 mv squared"
+    } ]
+  }, {
+    "tStartMs": 913350,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "plus v is equal to zero."
+    } ]
+  }, {
+    "tStartMs": 917730,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "But wait a second because\nthis is just the total energy."
+    } ]
+  }, {
+    "tStartMs": 921360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So what we've discovered is\nthat time translation symmetry"
+    } ]
+  }, {
+    "tStartMs": 924600,
+    "dDurationMs": 3284,
+    "segs": [ {
+      "utf8": "is equivalent to saying\nthat energy is conserved."
+    } ]
+  }, {
+    "tStartMs": 927884,
+    "dDurationMs": 1426,
+    "segs": [ {
+      "utf8": "(dramatic orchestral music)"
+    } ]
+  }, {
+    "tStartMs": 929310,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- The principle of conservation of energy"
+    } ]
+  }, {
+    "tStartMs": 931590,
+    "dDurationMs": 3453,
+    "segs": [ {
+      "utf8": "is a direct consequence of\ntime translation symmetry."
+    } ]
+  }, {
+    "tStartMs": 937110,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "In a theorem, Noether proved"
+    } ]
+  }, {
+    "tStartMs": 938640,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "that all of these examples\nare no coincidence."
+    } ]
+  }, {
+    "tStartMs": 942150,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "For centuries, people had no idea"
+    } ]
+  }, {
+    "tStartMs": 944400,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "where conservation laws came from."
+    } ]
+  }, {
+    "tStartMs": 946290,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But now Noether had discovered\nthe origin of all of them."
+    } ]
+  }, {
+    "tStartMs": 950130,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "She proved that anytime you\nhave a continuous symmetry,"
+    } ]
+  }, {
+    "tStartMs": 953250,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "you get a corresponding conservation law."
+    } ]
+  }, {
+    "tStartMs": 956280,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Translational symmetry gives\nyou conservation of momentum,"
+    } ]
+  }, {
+    "tStartMs": 959250,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "rotational symmetry gives you"
+    } ]
+  }, {
+    "tStartMs": 960900,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "conservation of angular momentum,"
+    } ]
+  }, {
+    "tStartMs": 962670,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "and time translation symmetry"
+    } ]
+  }, {
+    "tStartMs": 964230,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "gives you conservation of energy."
+    } ]
+  }, {
+    "tStartMs": 968010,
+    "dDurationMs": 3993,
+    "segs": [ {
+      "utf8": "But these are all symmetries\nof a static empty universe."
+    } ]
+  }, {
+    "tStartMs": 973110,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "The universe we live in is very different."
+    } ]
+  }, {
+    "tStartMs": 976470,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "In the 1920s, astronomers\nmeasured the velocities"
+    } ]
+  }, {
+    "tStartMs": 979380,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "of distant galaxies,"
+    } ]
+  }, {
+    "tStartMs": 981060,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and they realized all of\nthem are moving away from us."
+    } ]
+  }, {
+    "tStartMs": 984900,
+    "dDurationMs": 2913,
+    "segs": [ {
+      "utf8": "The farther away they are,\nthe faster they're moving."
+    } ]
+  }, {
+    "tStartMs": 988830,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "The implication was clear."
+    } ]
+  }, {
+    "tStartMs": 990120,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "In the distant past,"
+    } ]
+  }, {
+    "tStartMs": 991230,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "everything must have been\nmuch closer together."
+    } ]
+  }, {
+    "tStartMs": 994590,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "In the 1990s, precise\nmeasurements of supernovae"
+    } ]
+  }, {
+    "tStartMs": 997740,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "revealed that not only was\nthe universe expanding,"
+    } ]
+  }, {
+    "tStartMs": 1000770,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "but that expansion was speeding up."
+    } ]
+  }, {
+    "tStartMs": 1004580,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "This means over large timescales,"
+    } ]
+  }, {
+    "tStartMs": 1006200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "our universe is not symmetric in time."
+    } ]
+  }, {
+    "tStartMs": 1008900,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "It was very different\n13 billion years ago,"
+    } ]
+  }, {
+    "tStartMs": 1011390,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "and it'll be different\nbillions of years from now."
+    } ]
+  }, {
+    "tStartMs": 1015050,
+    "dDurationMs": 2073,
+    "segs": [ {
+      "utf8": "Since we don't have time symmetry,"
+    } ]
+  }, {
+    "tStartMs": 1017960,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "that also means energy,\nas we usually think of it,"
+    } ]
+  }, {
+    "tStartMs": 1020750,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "isn't conserved."
+    } ]
+  }, {
+    "tStartMs": 1022490,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "- There's no reason for\nenergy to be conserved anymore"
+    } ]
+  }, {
+    "tStartMs": 1024950,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "'cause you don't have that symmetry."
+    } ]
+  }, {
+    "tStartMs": 1027200,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "- [Derek] Think about a\nphoton of visible light"
+    } ]
+  }, {
+    "tStartMs": 1028790,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "emitted 380,000 years after the Big Bang,"
+    } ]
+  }, {
+    "tStartMs": 1032030,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "it travels through the universe unimpeded"
+    } ]
+  }, {
+    "tStartMs": 1034250,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "to arrive at our telescopes,"
+    } ]
+  }, {
+    "tStartMs": 1036350,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "not as visible light but as a microwave."
+    } ]
+  }, {
+    "tStartMs": 1039980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It has lost 99.9% of its energy."
+    } ]
+  }, {
+    "tStartMs": 1043340,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "- Where did the energy go?"
+    } ]
+  }, {
+    "tStartMs": 1045710,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Doesn't go anywhere."
+    } ]
+  }, {
+    "tStartMs": 1047300,
+    "dDurationMs": 1263,
+    "segs": [ {
+      "utf8": "Energy's not conserved."
+    } ]
+  }, {
+    "tStartMs": 1050210,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "- [Derek] And this is exactly"
+    } ]
+  }, {
+    "tStartMs": 1051470,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "what's happening to the rock as well."
+    } ]
+  }, {
+    "tStartMs": 1053570,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "It starts off with energy,"
+    } ]
+  }, {
+    "tStartMs": 1055040,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "but as it travels through\nthe expanding universe,"
+    } ]
+  }, {
+    "tStartMs": 1057710,
+    "dDurationMs": 1408,
+    "segs": [ {
+      "utf8": "it slows down and stops."
+    } ]
+  }, {
+    "tStartMs": 1059118,
+    "dDurationMs": 1712,
+    "segs": [ {
+      "utf8": "(gentle thoughtful music)"
+    } ]
+  }, {
+    "tStartMs": 1060830,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The energy doesn't really go\nanywhere; it just disappears."
+    } ]
+  }, {
+    "tStartMs": 1065390,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "- It ends up coming to rest"
+    } ]
+  }, {
+    "tStartMs": 1068120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "with regard to the other\nparticles in the universe."
+    } ]
+  }, {
+    "tStartMs": 1072140,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- This doesn't violate any laws of physics"
+    } ]
+  }, {
+    "tStartMs": 1074270,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "because energy and\nmomentum aren't conserved"
+    } ]
+  }, {
+    "tStartMs": 1076970,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "if there is no time or spatial symmetry."
+    } ]
+  }, {
+    "tStartMs": 1079370,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- So once you know that"
+    } ]
+  }, {
+    "tStartMs": 1080990,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "symmetries give you conservation laws,"
+    } ]
+  }, {
+    "tStartMs": 1082820,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and so once those symmetries are gone,"
+    } ]
+  }, {
+    "tStartMs": 1085580,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "you don't have to worry about"
+    } ]
+  }, {
+    "tStartMs": 1086413,
+    "dDurationMs": 1597,
+    "segs": [ {
+      "utf8": "those conservation laws anymore,"
+    } ]
+  }, {
+    "tStartMs": 1088010,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "then you can start dropping these concepts"
+    } ]
+  }, {
+    "tStartMs": 1090020,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "of trying to force something"
+    } ]
+  }, {
+    "tStartMs": 1092360,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "that you want to say is\nfundamental into the theory,"
+    } ]
+  }, {
+    "tStartMs": 1095540,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and you just deal with\nwhat the theory gives you."
+    } ]
+  }, {
+    "tStartMs": 1098720,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "- But if energy isn't\nconserved in our universe,"
+    } ]
+  }, {
+    "tStartMs": 1101330,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "then why does it usually seem like it is?"
+    } ]
+  }, {
+    "tStartMs": 1103940,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "(light mysterious music)"
+    } ]
+  }, {
+    "tStartMs": 1105470,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "That's because when you're\nlooking at the short timescales"
+    } ]
+  }, {
+    "tStartMs": 1107600,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "that we're used to,"
+    } ]
+  }, {
+    "tStartMs": 1108590,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "time translation symmetry\npretty much holds;"
+    } ]
+  }, {
+    "tStartMs": 1111170,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "an experiment done today\nwill give the same results"
+    } ]
+  }, {
+    "tStartMs": 1113660,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "as the same experiment done tomorrow."
+    } ]
+  }, {
+    "tStartMs": 1115580,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So that means for all\nintents and purposes,"
+    } ]
+  }, {
+    "tStartMs": 1118220,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "energy is conserved."
+    } ]
+  }, {
+    "tStartMs": 1120020,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But over large timescales on\nthe order of millions of years,"
+    } ]
+  }, {
+    "tStartMs": 1123380,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "well, then the expansion of the\nuniverse can't be neglected,"
+    } ]
+  }, {
+    "tStartMs": 1126320,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and the symmetry is broken."
+    } ]
+  }, {
+    "tStartMs": 1128390,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So only when you look\nat timescales that big"
+    } ]
+  }, {
+    "tStartMs": 1131150,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "do you notice that energy isn't conserved."
+    } ]
+  }, {
+    "tStartMs": 1135680,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Noether's first theorem\nexplains why a rock"
+    } ]
+  }, {
+    "tStartMs": 1138350,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "or a photon loses energy,"
+    } ]
+  }, {
+    "tStartMs": 1140240,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "but it didn't fully solve the problem"
+    } ]
+  }, {
+    "tStartMs": 1142220,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "of energy conservation\nin general relativity."
+    } ]
+  }, {
+    "tStartMs": 1145340,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "See, so far, Noether had only\ndealt with an empty universe"
+    } ]
+  }, {
+    "tStartMs": 1148850,
+    "dDurationMs": 1047,
+    "segs": [ {
+      "utf8": "where you could shift the whole universe"
+    } ]
+  }, {
+    "tStartMs": 1149897,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "and the laws of physics\nwould stay the same."
+    } ]
+  }, {
+    "tStartMs": 1152510,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "But this doesn't work\nin general relativity,"
+    } ]
+  }, {
+    "tStartMs": 1154730,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "where the curvature can change\nfrom one point to another."
+    } ]
+  }, {
+    "tStartMs": 1157940,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Now if you shift the whole universe,"
+    } ]
+  }, {
+    "tStartMs": 1159560,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "rotate it, or let it evolve in time,"
+    } ]
+  }, {
+    "tStartMs": 1162050,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "things don't stay exactly the same."
+    } ]
+  }, {
+    "tStartMs": 1164540,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So you no longer have\nthese global symmetries,"
+    } ]
+  }, {
+    "tStartMs": 1167600,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "but Noether realized there are\nstill other symmetries left."
+    } ]
+  }, {
+    "tStartMs": 1171980,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "See, no matter how you're moving,"
+    } ]
+  }, {
+    "tStartMs": 1173600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the laws of physics always look the same."
+    } ]
+  }, {
+    "tStartMs": 1176000,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "That's general covariance,"
+    } ]
+  }, {
+    "tStartMs": 1177560,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "and it is a kind of symmetry\nthat holds everywhere."
+    } ]
+  }, {
+    "tStartMs": 1180830,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "It means that in any small region,"
+    } ]
+  }, {
+    "tStartMs": 1182960,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "we can always change\nour frame of reference."
+    } ]
+  }, {
+    "tStartMs": 1185750,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "We can transform the\npoints of space around"
+    } ]
+  }, {
+    "tStartMs": 1188180,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "as much as we like."
+    } ]
+  }, {
+    "tStartMs": 1189470,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And since these transformations\naren't global but local,"
+    } ]
+  }, {
+    "tStartMs": 1192800,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "these are called local symmetries."
+    } ]
+  }, {
+    "tStartMs": 1195590,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "In a second theorem,"
+    } ]
+  }, {
+    "tStartMs": 1196670,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Noether proved that for\nthese local symmetries,"
+    } ]
+  }, {
+    "tStartMs": 1199310,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "you no longer get proper conservation laws"
+    } ]
+  }, {
+    "tStartMs": 1201860,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "like we're used to in classical physics."
+    } ]
+  }, {
+    "tStartMs": 1204200,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Instead, you get something\nthat only works locally:"
+    } ]
+  }, {
+    "tStartMs": 1206870,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "a continuity equation."
+    } ]
+  }, {
+    "tStartMs": 1208790,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "One example of a continuity equation"
+    } ]
+  }, {
+    "tStartMs": 1210680,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "describes the flow of\nwater through a pipe."
+    } ]
+  }, {
+    "tStartMs": 1213950,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "This first term tells you how\nthe amount of water changes"
+    } ]
+  }, {
+    "tStartMs": 1217100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "in a section of the pipe,"
+    } ]
+  }, {
+    "tStartMs": 1218600,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and the second tells you the difference"
+    } ]
+  }, {
+    "tStartMs": 1220460,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "between how much water is flowing out"
+    } ]
+  }, {
+    "tStartMs": 1222500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and how much is flowing in."
+    } ]
+  }, {
+    "tStartMs": 1224900,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "In this case, the first term is positive"
+    } ]
+  }, {
+    "tStartMs": 1226910,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "because the water level in this\npipe section is increasing,"
+    } ]
+  }, {
+    "tStartMs": 1230180,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "and the second term will be negative"
+    } ]
+  }, {
+    "tStartMs": 1231830,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "because less water is flowing\nout of the section than in."
+    } ]
+  }, {
+    "tStartMs": 1236030,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Together, the two terms\ncancel to give zero,"
+    } ]
+  }, {
+    "tStartMs": 1238550,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "which guarantees that no\nwater is created or destroyed."
+    } ]
+  }, {
+    "tStartMs": 1242300,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "If the total amount of\nwater changes in a section,"
+    } ]
+  }, {
+    "tStartMs": 1244880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "there must either be excess\nwater flowing in or out."
+    } ]
+  }, {
+    "tStartMs": 1248600,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- In the case of general relativity,"
+    } ]
+  }, {
+    "tStartMs": 1250340,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Noether found a similar\ncontinuity equation,"
+    } ]
+  }, {
+    "tStartMs": 1252770,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "but with an important difference."
+    } ]
+  }, {
+    "tStartMs": 1254780,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Imagine that now our pipes are\nlittle patches of space-time,"
+    } ]
+  }, {
+    "tStartMs": 1257990,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "and the water is energy flowing\nfrom one patch to another."
+    } ]
+  }, {
+    "tStartMs": 1262010,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "In any individual section,"
+    } ]
+  }, {
+    "tStartMs": 1263450,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "the continuity equation looks\nexactly the same as before,"
+    } ]
+  }, {
+    "tStartMs": 1266870,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "so that in any small region of space-time,"
+    } ]
+  }, {
+    "tStartMs": 1269120,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "energy is conserved."
+    } ]
+  }, {
+    "tStartMs": 1270890,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "But when we link these sections together,"
+    } ]
+  }, {
+    "tStartMs": 1273380,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "we need to take into account\nthe curvature of space-time."
+    } ]
+  }, {
+    "tStartMs": 1276650,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "And this changes the equation."
+    } ]
+  }, {
+    "tStartMs": 1278720,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Now, it's as if there are\nlittle cracks appearing"
+    } ]
+  }, {
+    "tStartMs": 1280820,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "between different sections of pipe,"
+    } ]
+  }, {
+    "tStartMs": 1283010,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "between the local patches of space-time,"
+    } ]
+  }, {
+    "tStartMs": 1285470,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "and through those cracks,\nenergy can leak out."
+    } ]
+  }, {
+    "tStartMs": 1289160,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "- In special activity,\nthe pipe is imperturbable"
+    } ]
+  }, {
+    "tStartMs": 1292340,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "because the pipe is fixed."
+    } ]
+  }, {
+    "tStartMs": 1294170,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And in general activity, you know,"
+    } ]
+  }, {
+    "tStartMs": 1296180,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "we have to account for the energy"
+    } ]
+  }, {
+    "tStartMs": 1298700,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "that goes into other\nkinds of change over time,"
+    } ]
+  }, {
+    "tStartMs": 1301850,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and that gets correspondingly more tricky."
+    } ]
+  }, {
+    "tStartMs": 1304280,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- [Derek] Now that we\nhave this new equation,"
+    } ]
+  }, {
+    "tStartMs": 1305840,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "we can see how it works"
+    } ]
+  }, {
+    "tStartMs": 1306980,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "by expanding it as a\nsum of different terms."
+    } ]
+  }, {
+    "tStartMs": 1309980,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "This first term is analogous"
+    } ]
+  }, {
+    "tStartMs": 1311660,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to the continuity equation from before,"
+    } ]
+  }, {
+    "tStartMs": 1313730,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "the one which conserves energy"
+    } ]
+  }, {
+    "tStartMs": 1315080,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "within a local patch of space-time."
+    } ]
+  }, {
+    "tStartMs": 1317660,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But now we have all these extra terms."
+    } ]
+  }, {
+    "tStartMs": 1320180,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "These describe the\ncurvature of space-time."
+    } ]
+  }, {
+    "tStartMs": 1322850,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So as energy decreases in the first term,"
+    } ]
+  }, {
+    "tStartMs": 1325520,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "these curvature terms increase."
+    } ]
+  }, {
+    "tStartMs": 1327950,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "- The energy that you lose from\nthe system you're tracking,"
+    } ]
+  }, {
+    "tStartMs": 1331070,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "we now start attributing it to things like"
+    } ]
+  }, {
+    "tStartMs": 1332870,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "the gravitational field,"
+    } ]
+  }, {
+    "tStartMs": 1334040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "which has changed 'cause the\nwhole universe is stretched."
+    } ]
+  }, {
+    "tStartMs": 1336200,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "We have to account for the energy"
+    } ]
+  }, {
+    "tStartMs": 1337460,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "that we attribute to the action"
+    } ]
+  }, {
+    "tStartMs": 1338930,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "of the gravitational field as well"
+    } ]
+  }, {
+    "tStartMs": 1341390,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "because space and time\nthemselves aren't sitting still."
+    } ]
+  }, {
+    "tStartMs": 1344690,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- And all of this can be described"
+    } ]
+  }, {
+    "tStartMs": 1346310,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "by the continuity equation\nNoether had found."
+    } ]
+  }, {
+    "tStartMs": 1348950,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "But when she looked at it,\nshe realized something."
+    } ]
+  }, {
+    "tStartMs": 1352040,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "It was exactly equivalent\nto the Bianchi identities,"
+    } ]
+  }, {
+    "tStartMs": 1355100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the half-solution Hilbert had found."
+    } ]
+  }, {
+    "tStartMs": 1357500,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "He had dismissed it\nbecause it only gave you"
+    } ]
+  }, {
+    "tStartMs": 1359960,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "proper energy conservation\nin an empty universe."
+    } ]
+  }, {
+    "tStartMs": 1362900,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But now Noether proved that\nit was the best you could do"
+    } ]
+  }, {
+    "tStartMs": 1366020,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "in general relativity."
+    } ]
+  }, {
+    "tStartMs": 1370250,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "With one paper, she had\nuncovered the source"
+    } ]
+  }, {
+    "tStartMs": 1372890,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "of all conservation laws, and\nshe had solved the problem"
+    } ]
+  }, {
+    "tStartMs": 1376280,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "in general relativity that\neluded Hilbert and Einstein."
+    } ]
+  }, {
+    "tStartMs": 1379940,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "- She was so amazing."
+    } ]
+  }, {
+    "tStartMs": 1381200,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "I mean, I would go out on a limb,"
+    } ]
+  }, {
+    "tStartMs": 1382610,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and I would say these\ntwo theorems are probably"
+    } ]
+  }, {
+    "tStartMs": 1384650,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "the most important theorems for\nphysics of the 20th century."
+    } ]
+  }, {
+    "tStartMs": 1387620,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "- [Derek] In the following years,"
+    } ]
+  }, {
+    "tStartMs": 1388670,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "the University of Gottingen"
+    } ]
+  }, {
+    "tStartMs": 1389960,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "took steps to make Noether's\nposition more official,"
+    } ]
+  }, {
+    "tStartMs": 1392690,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "allowing her to do what\nshe loved most: to teach."
+    } ]
+  }, {
+    "tStartMs": 1395810,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "They made her a professor,"
+    } ]
+  }, {
+    "tStartMs": 1396950,
+    "dDurationMs": 3393,
+    "segs": [ {
+      "utf8": "and she even got a small\nsalary starting in 1923."
+    } ]
+  }, {
+    "tStartMs": 1401510,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "But all of that changed on\nthe 30th of January, 1933,"
+    } ]
+  }, {
+    "tStartMs": 1405200,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "when Hitler became chancellor of Germany."
+    } ]
+  }, {
+    "tStartMs": 1408470,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "The Nazis banned Jewish people\nfrom working at universities,"
+    } ]
+  }, {
+    "tStartMs": 1412490,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and almost immediately,\none of her former students"
+    } ]
+  }, {
+    "tStartMs": 1415130,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "told the authorities\nof her Jewish heritage,"
+    } ]
+  }, {
+    "tStartMs": 1417740,
+    "dDurationMs": 1563,
+    "segs": [ {
+      "utf8": "and she was suspended."
+    } ]
+  }, {
+    "tStartMs": 1420590,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Despite this dismissal,"
+    } ]
+  }, {
+    "tStartMs": 1421820,
+    "dDurationMs": 2793,
+    "segs": [ {
+      "utf8": "she continued teaching in\nthe kitchen of her home."
+    } ]
+  }, {
+    "tStartMs": 1425450,
+    "dDurationMs": 2818,
+    "segs": [ {
+      "utf8": "Then one day, one of her old\nstudents knocked on her door."
+    } ]
+  }, {
+    "tStartMs": 1428268,
+    "dDurationMs": 1022,
+    "segs": [ {
+      "utf8": "(hand knocking on door)"
+    } ]
+  }, {
+    "tStartMs": 1429290,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Clothed in the brown shirt\nof the Nazi stormtroopers,"
+    } ]
+  }, {
+    "tStartMs": 1432710,
+    "dDurationMs": 1473,
+    "segs": [ {
+      "utf8": "Noether let him in."
+    } ]
+  }, {
+    "tStartMs": 1435470,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "He had come to learn math,"
+    } ]
+  }, {
+    "tStartMs": 1437060,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and Noether was happy to teach him."
+    } ]
+  }, {
+    "tStartMs": 1439670,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- I love what this sort\nof shows about Noether."
+    } ]
+  }, {
+    "tStartMs": 1441830,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "You know, she truly,\ndeeply cared about math,"
+    } ]
+  }, {
+    "tStartMs": 1445190,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and she wouldn't discriminate."
+    } ]
+  }, {
+    "tStartMs": 1446810,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Whether someone was wearing\na Nazi shirt or not;"
+    } ]
+  }, {
+    "tStartMs": 1450530,
+    "dDurationMs": 1353,
+    "segs": [ {
+      "utf8": "she taught all."
+    } ]
+  }, {
+    "tStartMs": 1452750,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "- [Derek] But staying in\nGermany became untenable."
+    } ]
+  }, {
+    "tStartMs": 1455540,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Fortunately, with the\nhelp of other academics,"
+    } ]
+  }, {
+    "tStartMs": 1457850,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "she managed to obtain a\nteaching position at Bryn Mawr,"
+    } ]
+  }, {
+    "tStartMs": 1460850,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "a woman's college in America,"
+    } ]
+  }, {
+    "tStartMs": 1462470,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "where she would teach until her death."
+    } ]
+  }, {
+    "tStartMs": 1465680,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "In an obituary for the New York Times,"
+    } ]
+  }, {
+    "tStartMs": 1467480,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Einstein wrote that \"Fraulein Noether"
+    } ]
+  }, {
+    "tStartMs": 1469370,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "was the most significant\ncreative mathematical genius"
+    } ]
+  }, {
+    "tStartMs": 1472100,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "thus far produced"
+    } ]
+  }, {
+    "tStartMs": 1473330,
+    "dDurationMs": 2607,
+    "segs": [ {
+      "utf8": "since the higher\neducation of women began.\""
+    } ]
+  }, {
+    "tStartMs": 1477050,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "- The reason that Noether's\ntheorem is so important"
+    } ]
+  }, {
+    "tStartMs": 1481220,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "is that everybody just\nchanged their state of mind."
+    } ]
+  }, {
+    "tStartMs": 1484430,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "All of a sudden, the physicists\nwere thinking about physics"
+    } ]
+  }, {
+    "tStartMs": 1487070,
+    "dDurationMs": 1593,
+    "segs": [ {
+      "utf8": "in terms of these symmetries."
+    } ]
+  }, {
+    "tStartMs": 1489560,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- Physicists started applying these ideas"
+    } ]
+  }, {
+    "tStartMs": 1491510,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "to the quantum world too,\nrealizing that charged particles"
+    } ]
+  }, {
+    "tStartMs": 1495050,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "like electrons also have symmetries."
+    } ]
+  }, {
+    "tStartMs": 1497870,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Electrons have a phase,\nwhich you can think of"
+    } ]
+  }, {
+    "tStartMs": 1500750,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "as an arrow pointing in some direction,"
+    } ]
+  }, {
+    "tStartMs": 1503330,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "but you can offset this\nphase by any arbitrary amount"
+    } ]
+  }, {
+    "tStartMs": 1507110,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "so long as you do it\nsimultaneously for all electrons."
+    } ]
+  }, {
+    "tStartMs": 1511280,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "And that doesn't change\nanything physically,"
+    } ]
+  }, {
+    "tStartMs": 1514490,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "so there's another symmetry."
+    } ]
+  }, {
+    "tStartMs": 1516620,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So what does this offset\nor gauge symmetry lead to?"
+    } ]
+  }, {
+    "tStartMs": 1521180,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Well, it leads to the\nconservation of electric charge."
+    } ]
+  }, {
+    "tStartMs": 1525620,
+    "dDurationMs": 1644,
+    "segs": [ {
+      "utf8": "In the 1960s and '70s,"
+    } ]
+  }, {
+    "tStartMs": 1527264,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Noether's insights led\ndirectly to the discovery"
+    } ]
+  }, {
+    "tStartMs": 1529730,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "of new fundamental particles"
+    } ]
+  }, {
+    "tStartMs": 1531290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "like quarks and the Higgs boson."
+    } ]
+  }, {
+    "tStartMs": 1533720,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "It taught us where the\nforces of nature come from,"
+    } ]
+  }, {
+    "tStartMs": 1536330,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and it even helped to explain\nthe origin of all mass"
+    } ]
+  }, {
+    "tStartMs": 1539330,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "in the universe."
+    } ]
+  }, {
+    "tStartMs": 1540800,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Noether's two theorems,\nalthough little known,"
+    } ]
+  }, {
+    "tStartMs": 1543470,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "are what has gotten us the\nclosest we've ever come"
+    } ]
+  }, {
+    "tStartMs": 1545900,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to a theory of everything."
+    } ]
+  }, {
+    "tStartMs": 1548360,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "But all of this and much more"
+    } ]
+  }, {
+    "tStartMs": 1549800,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "will be covered in a second video."
+    } ]
+  }, {
+    "tStartMs": 1551420,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So make sure you're subscribed"
+    } ]
+  }, {
+    "tStartMs": 1553190,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "to get notified when that video comes out."
+    } ]
+  }, {
+    "tStartMs": 1558723,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "(radio waves whizzing)"
+    } ]
+  }, {
+    "tStartMs": 1562640,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "When Emmy Noether set\nout to study mathematics,"
+    } ]
+  }, {
+    "tStartMs": 1564980,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "she was following in\nher father's footsteps,"
+    } ]
+  }, {
+    "tStartMs": 1567380,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "but from there she forged her own path."
+    } ]
+  }, {
+    "tStartMs": 1569420,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And before long, she was\ncoming up with a whole theory"
+    } ]
+  }, {
+    "tStartMs": 1571820,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that reshaped our\nunderstanding of the universe."
+    } ]
+  }, {
+    "tStartMs": 1574280,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "That is the great thing about learning."
+    } ]
+  }, {
+    "tStartMs": 1576470,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "You start by following instructions,"
+    } ]
+  }, {
+    "tStartMs": 1578150,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "building on what others\nhave done before you."
+    } ]
+  }, {
+    "tStartMs": 1580160,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But then at some point, you\nstart asking your own questions;"
+    } ]
+  }, {
+    "tStartMs": 1583280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "you start experimenting\nand making discoveries."
+    } ]
+  }, {
+    "tStartMs": 1586520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I've loved watching my own\nkids start this journey,"
+    } ]
+  }, {
+    "tStartMs": 1589760,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and my longtime sponsor, KiwiCo,\nhas been a big part of it."
+    } ]
+  }, {
+    "tStartMs": 1593360,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "This month they sent me their"
+    } ]
+  }, {
+    "tStartMs": 1594620,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Rapid-Fire Disc Launcher crate,"
+    } ]
+  }, {
+    "tStartMs": 1596330,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and at first, we followed\nthe instructions carefully,"
+    } ]
+  }, {
+    "tStartMs": 1598760,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "putting it together step by step."
+    } ]
+  }, {
+    "tStartMs": 1600650,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "But as soon as it was built,"
+    } ]
+  }, {
+    "tStartMs": 1601850,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "my kids immediately started experimenting."
+    } ]
+  }, {
+    "tStartMs": 1604040,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "- [Child] Can I launch it?"
+    } ]
+  }, {
+    "tStartMs": 1605690,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- Testing different launch techniques"
+    } ]
+  }, {
+    "tStartMs": 1607520,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "to better hit the target,\nchanging the launch angles,"
+    } ]
+  }, {
+    "tStartMs": 1609860,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and figuring out what would\nmake the discs fly farther."
+    } ]
+  }, {
+    "tStartMs": 1612620,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Without even realizing it,"
+    } ]
+  }, {
+    "tStartMs": 1614210,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "they were engaging with the\nsame questioning mindset"
+    } ]
+  }, {
+    "tStartMs": 1616700,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that drives real scientific discoveries."
+    } ]
+  }, {
+    "tStartMs": 1619160,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So who knows, maybe a simple disc launcher"
+    } ]
+  }, {
+    "tStartMs": 1621860,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "will inspire a young scientist"
+    } ]
+  }, {
+    "tStartMs": 1623420,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "who will go on to make the\nnext great breakthrough"
+    } ]
+  }, {
+    "tStartMs": 1625220,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "in science or engineering."
+    } ]
+  }, {
+    "tStartMs": 1627020,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "KiwiCo makes this easy"
+    } ]
+  }, {
+    "tStartMs": 1628310,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "by delivering everything\nyou need in a single box,"
+    } ]
+  }, {
+    "tStartMs": 1630950,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and they have projects for all ages"
+    } ]
+  }, {
+    "tStartMs": 1632810,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "designed by experts and tested by kids"
+    } ]
+  }, {
+    "tStartMs": 1634670,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to make sure they're\nnot only loads of fun,"
+    } ]
+  }, {
+    "tStartMs": 1636740,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "but they also inspire\nkids to ask questions"
+    } ]
+  }, {
+    "tStartMs": 1638840,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "and get creative with learning."
+    } ]
+  }, {
+    "tStartMs": 1640370,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So if you want to try out KiwiCo,"
+    } ]
+  }, {
+    "tStartMs": 1641870,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "click the link in the\ndescription or scan this QR code."
+    } ]
+  }, {
+    "tStartMs": 1645170,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Use my code Veritasium to get 50% off"
+    } ]
+  }, {
+    "tStartMs": 1647690,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "your first monthly crate."
+    } ]
+  }, {
+    "tStartMs": 1649370,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "I wanna thank KiwiCo for\nsponsoring this video,"
+    } ]
+  }, {
+    "tStartMs": 1651980,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

@@ -1,0 +1,1231 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Hey Everyone. We have some fun \nnew merch at the merch store,  "
+    } ]
+  }, {
+    "tStartMs": 3560,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "we’ll let you know more at the end of the episode."
+    } ]
+  }, {
+    "tStartMs": 6480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Nobel laureate Roger Penrose is widely held to \nbe one of the most brilliant living physicists  "
+    } ]
+  }, {
+    "tStartMs": 11520,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "for his wide-ranging work from black holes to \ncosmology. And then there’s his idea about how  "
+    } ]
+  }, {
+    "tStartMs": 18720,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "consciousness is caused by quantum processes. \nMost scientists have dismissed this as a cute  "
+    } ]
+  }, {
+    "tStartMs": 25360,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "eccentricity—a guy like Roger gets to \nhave at least one crazy theory without  "
+    } ]
+  }, {
+    "tStartMs": 29560,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "being demoted from the supersmartypants \nclub. The most common argument for this  "
+    } ]
+  }, {
+    "tStartMs": 34400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "dismissal is that quantum effects can’t \nsurvive long enough in an environment  "
+    } ]
+  }, {
+    "tStartMs": 38400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "as warm and chaotic as the brain. Well, \na new study has revealed that Penrose’s  "
+    } ]
+  }, {
+    "tStartMs": 43880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "prime candidate molecule for this quantum \nactivity does indeed exhibit large scale  "
+    } ]
+  }, {
+    "tStartMs": 49080,
+    "dDurationMs": 6956,
+    "segs": [ {
+      "utf8": "quantum activity. So was Penrose right \nafter all? Are you a quantum entity?"
+    } ]
+  }, {
+    "tStartMs": 62400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The story starts with Roger Penrose as \na young man attending a lecture on the  "
+    } ]
+  }, {
+    "tStartMs": 66400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Gödel incompleteness theorems. These are the \nmathematical arguments by logician Kurt Gödel,  "
+    } ]
+  }, {
+    "tStartMs": 71600,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "which prove the limits of proof. The \nfirst incompleteness theorem says that,  "
+    } ]
+  }, {
+    "tStartMs": 76360,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "for any consistent formal mathematical system \ncapable of expressing basic arithmetic,  "
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "there are true statements in that system that \ncannot be proven with the rules of that system."
+    } ]
+  }, {
+    "tStartMs": 87840,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Here’s an example of an unprovable statement: \nThis statement cannot be proved true in this  "
+    } ]
+  }, {
+    "tStartMs": 93640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "language. Now imagine there’s an algorithm \nthat can search through all combinations of  "
+    } ]
+  }, {
+    "tStartMs": 98200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "expressions in the natural language in question \nuntil it successfully found the one that proved  "
+    } ]
+  }, {
+    "tStartMs": 104920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "this statement true. That very act would \nrender the statement false, thereby showing  "
+    } ]
+  }, {
+    "tStartMs": 110040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "that the system is inconsistent. But if the \nalgorithm couldn’t find such an expression it  "
+    } ]
+  }, {
+    "tStartMs": 115640,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "would demonstrate that the statement—which \nis that this statement can’t be proved—is  "
+    } ]
+  }, {
+    "tStartMs": 120480,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "true but unprovable. So either the system is \ninconsistent or contains true but unprovable  "
+    } ]
+  }, {
+    "tStartMs": 127480,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "statements—it's incomplete. Natural \nlanguages are certainly inconsistent,  "
+    } ]
+  }, {
+    "tStartMs": 133280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "but mathematics is designed to be perfectly \nself-consistent, therefore, mathematics  "
+    } ]
+  }, {
+    "tStartMs": 138480,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "is incomplete. And since any algorithmic \nsystem is generally built on mathematics,  "
+    } ]
+  }, {
+    "tStartMs": 144600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "like classical computation, they too must \nbe incomplete, according to Kurt Gödel."
+    } ]
+  }, {
+    "tStartMs": 151000,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "But Penrose argues that humans can \n“prove” the unprovable. For example,  "
+    } ]
+  }, {
+    "tStartMs": 157280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "mathematicians seem able to be pretty sure of \nthe truth value of certain conjectures without  "
+    } ]
+  }, {
+    "tStartMs": 162640,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "any formal mathematical proof—and sometimes those \nformal proofs may not exist. According to Penrose,  "
+    } ]
+  }, {
+    "tStartMs": 169240,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "that means our conscious process of knowing \ndoes not come from a process limited by  "
+    } ]
+  }, {
+    "tStartMs": 175440,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "Gödel incompleteness—it’s not algorithmic or \ncomputational. Penrose goes further to say  "
+    } ]
+  }, {
+    "tStartMs": 182200,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "that this implies consciousness itself can’t \nemerge from purely computational processes."
+    } ]
+  }, {
+    "tStartMs": 188400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Similar ideas were articulated \nby philosopher John Lucas,  "
+    } ]
+  }, {
+    "tStartMs": 191840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "so this whole “consciousness \nisn’t classical computation  "
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "because Gödel incompleteness” thing \nis called the Penrose-Lucas argument."
+    } ]
+  }, {
+    "tStartMs": 200400,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "There are plenty of objections to this \nargument—for example, that it’s a mistake  "
+    } ]
+  }, {
+    "tStartMs": 204080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "to equate our sense of knowing to a formal \nproof. After all, it’s possible to think you  "
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "know something but be wrong. Or that even if \nwe do have super-Gödel reasoning abilities,  "
+    } ]
+  }, {
+    "tStartMs": 214160,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "it’s a stretch to connect that to consciousness. \nWe’ll leave it to you to check out Penrose’s  "
+    } ]
+  }, {
+    "tStartMs": 218920,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "books “The Emperor's New Mind” and “Shadow Of The \nMind” for further details if you’re interested."
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "OK, let’s get to the weird part. \nIf we’re not classical computers,  "
+    } ]
+  }, {
+    "tStartMs": 229560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "what are we? Penrose argues that the only place \nwe might possibly find a type of computation  "
+    } ]
+  }, {
+    "tStartMs": 235160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "or information processing or whatever that’s \nfree from the limits of Gödel incompleteness  "
+    } ]
+  }, {
+    "tStartMs": 240560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "is … maybe you guessed it, quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 244880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Quantum mechanics describes the world of \nthe tiny. Quantum objects like subatomic  "
+    } ]
+  }, {
+    "tStartMs": 250080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "particles or even molecules can have very weird \nbehaviors. Their properties like their location  "
+    } ]
+  }, {
+    "tStartMs": 254880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "or speed tend not to be well defined. They \ncan exist in multiple states or even places  "
+    } ]
+  }, {
+    "tStartMs": 259680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "at once—in what we call a quantum superposition. \nAnd these fuzzy quantum properties can also be  "
+    } ]
+  }, {
+    "tStartMs": 265520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "correlated with other quantum objects in a \nmysterious way called quantum entanglement.  "
+    } ]
+  }, {
+    "tStartMs": 270320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "This is all stuff we’ve described before."
+    } ]
+  }, {
+    "tStartMs": 272800,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "It’s not hard to force a quantum object \nto give up its quantum fuzziness and take  "
+    } ]
+  }, {
+    "tStartMs": 277080,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "on well-defined values. All you need to do \nis measure it. Measurement causes an object  "
+    } ]
+  }, {
+    "tStartMs": 282720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "in a superposition of multiple states to choose \none of those states randomly and eliminates any  "
+    } ]
+  }, {
+    "tStartMs": 288120,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "entanglement. We say that measurement “collapses \nthe wavefunction”--where the wavefunction is the  "
+    } ]
+  }, {
+    "tStartMs": 293680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "mathematical object that defines the distribution \nof possible results of that measurement. After  "
+    } ]
+  }, {
+    "tStartMs": 298560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "the measurement, one result is chosen and the \nwavefunction collapses to that single value."
+    } ]
+  }, {
+    "tStartMs": 303880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Exactly what causes this collapse or even what \nprecisely defines a measurement is not known,  "
+    } ]
+  }, {
+    "tStartMs": 309480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "even 100 years after the discovery of  "
+    } ]
+  }, {
+    "tStartMs": 311400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "quantum mechanics. We call this \nmystery the measurement problem."
+    } ]
+  }, {
+    "tStartMs": 315960,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "One thing we know about wavefunction collapse \nis that it appears to include a truly random  "
+    } ]
+  }, {
+    "tStartMs": 321080,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "factor—measurement results are chosen by the \nroll of the dice, albeit dice weighted by the  "
+    } ]
+  }, {
+    "tStartMs": 326560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "shape of the wavefunction. So, if an event is \ntruly random then almost by definition there is  "
+    } ]
+  }, {
+    "tStartMs": 331840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "no algorithm that can perfectly determine \nits outcome. Therefore, Penrose argues,  "
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the outcome of any computation or information \nprocessing performed by a quantum system involving  "
+    } ]
+  }, {
+    "tStartMs": 340960,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "wavefunction collapse is non-algorithmic, in the \nsense that the outcome cannot be predicted within  "
+    } ]
+  }, {
+    "tStartMs": 346720,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "the framework of any Gödel-esque mathematical \nsystem—and therefore is not necessarily subject  "
+    } ]
+  }, {
+    "tStartMs": 353200,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "to Gödel incompleteness. Therefore maybe \nconscious reasoning has a quantum component."
+    } ]
+  }, {
+    "tStartMs": 360640,
+    "dDurationMs": 8360,
+    "segs": [ {
+      "utf8": "There are plenty of criticisms of this reason—for \nexample, quantum computation is still algorithmic  "
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "in a sense, even if not classically algorithmic. \nAlso, it’s not clear how the injection of a random  "
+    } ]
+  }, {
+    "tStartMs": 374120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "process frees one from the constraints \nof Gödel in the way that Penrose needs."
+    } ]
+  }, {
+    "tStartMs": 379560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Another common criticism is that Penrose has \nfallen for the Holmsian fallacy. To quote the  "
+    } ]
+  }, {
+    "tStartMs": 385800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "great Sherlock Holmes—When you have eliminated \nall which is impossible, then whatever remains,  "
+    } ]
+  }, {
+    "tStartMs": 391800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "however improbable, must be the truth. In fact \nPenrose himself has quoted Holmes to justify  "
+    } ]
+  }, {
+    "tStartMs": 397800,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "the reasoning that if consciousness can’t \nbe accounted for by things we understand,  "
+    } ]
+  }, {
+    "tStartMs": 402720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "then it must be accounted for by the other big \nthing we don’t yet understand—quantum mechanics  "
+    } ]
+  }, {
+    "tStartMs": 407680,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "and the measurement problem. But that assumes \nthat Penrose has comprehensively eliminated,  "
+    } ]
+  }, {
+    "tStartMs": 412520,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "or is even aware of, all other candidate \nmysteries, which feels presumptuous. On  "
+    } ]
+  }, {
+    "tStartMs": 419080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "the other hand, this is Roger Penrose we’re \ntalking about, so maybe he really has taken  "
+    } ]
+  }, {
+    "tStartMs": 423200,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "a complete census of all mysteries and is \njustified in Sherlocking consciousness."
+    } ]
+  }, {
+    "tStartMs": 428360,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "A final objection, and the one that \nwill finally get us to the new result,  "
+    } ]
+  }, {
+    "tStartMs": 433280,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "is that quantum behavior is generally only \nobservable in the most pristine conditions.  "
+    } ]
+  }, {
+    "tStartMs": 439240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Typically for individual or smallish collections \nof subatomic particles, and carefully isolated  "
+    } ]
+  }, {
+    "tStartMs": 444520,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "from the environment. Quantum states decay \nextremely quickly unless in a vacuum and/or  "
+    } ]
+  }, {
+    "tStartMs": 451080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "at near absolute zero temperature. And the \nmore particles involved in a quantum state,  "
+    } ]
+  }, {
+    "tStartMs": 455600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the more easily the state gets destroyed. That’s \nwhy quantum computers are so hard to build."
+    } ]
+  }, {
+    "tStartMs": 461120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "The inside of the brain is far from \na pristine environment—it’s warm and  "
+    } ]
+  }, {
+    "tStartMs": 466280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "gooey and seems thoroughly macroscopic \nand classical. In order to do the sort  "
+    } ]
+  }, {
+    "tStartMs": 470920,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "of quantum information processing that \nthe Penrose-Lucas argument demands,  "
+    } ]
+  }, {
+    "tStartMs": 475040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "a coherent quantum state needs to \nbe maintained for timescales much  "
+    } ]
+  }, {
+    "tStartMs": 478560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "longer and involve far more particles than \nshould be possible in our meat computers."
+    } ]
+  }, {
+    "tStartMs": 484640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Penrose first published his idea in the Emperor’s \nNew Mind, but at the time had no idea how brains  "
+    } ]
+  }, {
+    "tStartMs": 488880,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "might do quantum processing. But then along came \nStuart Hameroff. Hameroff is an anesthesiologist  "
+    } ]
+  }, {
+    "tStartMs": 495920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "who had developed a fascination with consciousness \nfrom a young age, and subsequently with a  "
+    } ]
+  }, {
+    "tStartMs": 499200,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "molecular structure inside cells called \nmicrotubules, which he suspected may be involved."
+    } ]
+  }, {
+    "tStartMs": 505840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Microtubules are these tiny tubes that play \nmany roles in every cell in your body. They’re  "
+    } ]
+  }, {
+    "tStartMs": 511680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "a major part of Eukariot cell’s skeleton—the \ncytoskeleton—stabilizing its shape. They act  "
+    } ]
+  }, {
+    "tStartMs": 517760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "as conveyor belts, moving proteins around. They \neven play a key role pulling chromosomes apart  "
+    } ]
+  }, {
+    "tStartMs": 522640,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "when a cell divides. They’re constantly being \nassembled and disassembled and adapt to what  "
+    } ]
+  }, {
+    "tStartMs": 528240,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "the cell needs at any given moment. A given \ncell might have billions of microtubules."
+    } ]
+  }, {
+    "tStartMs": 535920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Microtubules also have an extremely regular \nstructure—almost crystal-like. They are made  "
+    } ]
+  }, {
+    "tStartMs": 541320,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "of alternating tubulin molecules of two different \ntypes. Those molecules each have a polarity which  "
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "can point one way or another. This structure \ngot Hameroff to thinking maybe microtubules  "
+    } ]
+  }, {
+    "tStartMs": 552440,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "could in some way work as molecular computers, \nor at least molecular information storage. Add  "
+    } ]
+  }, {
+    "tStartMs": 558720,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "to this two more hints: microtubules are \nmore abundant and differently structured  "
+    } ]
+  }, {
+    "tStartMs": 565000,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "in neurons than any other cell. Also, there’s \nevidence that anesthetics may act by disabling  "
+    } ]
+  }, {
+    "tStartMs": 572080,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "microtubules—thereby “disabling consciousness”. \nSo it’s not so crazy that Hameroff wondered  "
+    } ]
+  }, {
+    "tStartMs": 578000,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "whether these molecules might actually have \nsome fundamental role in consciousness."
+    } ]
+  }, {
+    "tStartMs": 583840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "And then Hameroff read the Emperor’s New \nMind and reached out to Penrose with the  "
+    } ]
+  }, {
+    "tStartMs": 589400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "idea that microtubules could be a candidate \nfor this quantum information processor inside  "
+    } ]
+  }, {
+    "tStartMs": 594400,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "neurons. That was in the early nineties. \nSince then Penrose and Hameroff and others  "
+    } ]
+  }, {
+    "tStartMs": 599720,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "have developed some fairly involved scenarios \nfor how this might work. The basic idea is that  "
+    } ]
+  }, {
+    "tStartMs": 604840,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "information gets stored across one or many \nmicrotubules, perhaps even across multiple  "
+    } ]
+  }, {
+    "tStartMs": 610320,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "neurons. The information in the form of quantum \nbits—qubits—could be stored in a variety of ways,  "
+    } ]
+  }, {
+    "tStartMs": 615560,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "for example the polarization \ndirection of individual tubulins."
+    } ]
+  }, {
+    "tStartMs": 620480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So you have these quantum states that \nare networks of entangled qubits,  "
+    } ]
+  }, {
+    "tStartMs": 624480,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "and they are in superposition. That means many \npossible configurations of the 1s and 0s in the  "
+    } ]
+  }, {
+    "tStartMs": 630600,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "qubits exist simultaneously across microtubules. \nAnd then something happens to collapse this  "
+    } ]
+  }, {
+    "tStartMs": 636960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "superposition—some type of measurement causes a \nsingle state to be chosen from the many. And it’s  "
+    } ]
+  }, {
+    "tStartMs": 642840,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "that moment of collapse that Penrose thinks is a \nsort of proto-conscious moment. So our conscious  "
+    } ]
+  }, {
+    "tStartMs": 649680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "experience would then be the sum of these \nmoments happening all the time across the brain."
+    } ]
+  }, {
+    "tStartMs": 654160,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "By the way, Penrose also has a mechanism \nfor this wavefunction collapse. It’s called  "
+    } ]
+  }, {
+    "tStartMs": 658360,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "objective reduction, and it happens when \nthe superposition of different spacetime  "
+    } ]
+  }, {
+    "tStartMs": 662480,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "curvatures corresponding to the different quantum \nstates reaches a certain threshold, causing one  "
+    } ]
+  }, {
+    "tStartMs": 668640,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "quantum state to be chosen. We did an episode \non objective reduction if you want the details."
+    } ]
+  }, {
+    "tStartMs": 675800,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "The overall theory is called orchestrated \nobjective reduction, and the idea is that  "
+    } ]
+  }, {
+    "tStartMs": 681040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the brain uses this wavefunction collapse as \npart of its information processing mechanism,  "
+    } ]
+  }, {
+    "tStartMs": 686400,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "and this leads to conscious experience and also \nthe ability to transcend classical computation."
+    } ]
+  }, {
+    "tStartMs": 693560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Orchestrated objective reduction has \nbeen around now for over 30 years,  "
+    } ]
+  }, {
+    "tStartMs": 697840,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "and frankly very few people took it seriously—and \nI’d guess most still don’t. Some don’t agree with  "
+    } ]
+  }, {
+    "tStartMs": 705080,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "the Penrose-Lucas argument, and fewer \nbelieve that coherent quantum states  "
+    } ]
+  }, {
+    "tStartMs": 710800,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "can persist for long enough inside the \nmessy environment of the cell interior."
+    } ]
+  }, {
+    "tStartMs": 716040,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "Which brings us to the reason we’re doing \nthis episode now. Evidence is emerging that  "
+    } ]
+  }, {
+    "tStartMs": 722480,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "microtubules may exhibit interesting quantum \nbehaviors after all. In 2013 evidence was found  "
+    } ]
+  }, {
+    "tStartMs": 728600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "that microtubules display large-scale \nquantum resonance, giving them unusual  "
+    } ]
+  }, {
+    "tStartMs": 733000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "long-range electrical conduction properties \nand potentially allowing them to work as memory  "
+    } ]
+  }, {
+    "tStartMs": 738400,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "switching elements. And just a few months \nago, a paper came out adding weight to this  "
+    } ]
+  }, {
+    "tStartMs": 744520,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "idea. It’s by Nathan Babcock and Phillip Kurian \nfrom Howard University and their collaborators,  "
+    } ]
+  }, {
+    "tStartMs": 749960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "and is titled “Ultraviolet Superradiance from \nMega-Networks of Tryptophan in Biological  "
+    } ]
+  }, {
+    "tStartMs": 755840,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Architectures”. Now those meganetworks of tryptophan are basically microtubules.  "
+    } ]
+  }, {
+    "tStartMs": 761960,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But to grok the rest of that title \nwe need to understand superradiance."
+    } ]
+  }, {
+    "tStartMs": 767240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So, normally, if you radiate a bunch of atoms \nor molecules with a bunch of photons, each might  "
+    } ]
+  }, {
+    "tStartMs": 772200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "absorb a photon, bumping an electron to a higher \nenergy level, and then radiate another photon as  "
+    } ]
+  }, {
+    "tStartMs": 777640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the electron loses that energy. When the emitted \nphoton has lower energy then the process is called  "
+    } ]
+  }, {
+    "tStartMs": 783880,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "fluorescence. The de-excitation of many excited \nelectrons takes a bit of time as they decay  "
+    } ]
+  }, {
+    "tStartMs": 789720,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "randomly one by one, so fluorescent materials \nglow for some time after being illuminated. "
+    } ]
+  }, {
+    "tStartMs": 795280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Superradiance is a bit different. It can occur \nwhen a group of atoms or molecules get into  "
+    } ]
+  }, {
+    "tStartMs": 799720,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "excited states as an entangled group rather than \nindividually. That can happen, for example, if the  "
+    } ]
+  }, {
+    "tStartMs": 805200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "spacing between excited particles is smaller \nthan the wavelength of the incoming photons,  "
+    } ]
+  }, {
+    "tStartMs": 809680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "then we can’t say which particle absorbed which \nphoton so we have to treat the collection of  "
+    } ]
+  }, {
+    "tStartMs": 814640,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "particles as a single quantum superposition state \nof all possibilities of the absorption matchups. "
+    } ]
+  }, {
+    "tStartMs": 820760,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "In any case, if the system of particles is in a \ncollective excited state then it tends to decay  "
+    } ]
+  }, {
+    "tStartMs": 826080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "collectively, and so photons are emitted together. \nThat results in a much brighter and shorter spike  "
+    } ]
+  }, {
+    "tStartMs": 831520,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "of radiation than regular fluorescence. Another \nway to think of this is that the emission of  "
+    } ]
+  }, {
+    "tStartMs": 836200,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "photons by one electron in the ensemble prompts \nmany identically excited electrons to decay,  "
+    } ]
+  }, {
+    "tStartMs": 842160,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "amplifying the first electromagnetic wave. \nWhich, by the way, is also exactly how lasers  "
+    } ]
+  }, {
+    "tStartMs": 847480,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "work. Superradiance is sort of a scaled \ndown example of the laser phenomenon. "
+    } ]
+  }, {
+    "tStartMs": 852400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So, superradiance is a very quantum effect, \nand these researchers claim to have observed  "
+    } ]
+  }, {
+    "tStartMs": 857200,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "it in actual microtubules. More precisely, they \nclaim to see superradiance in the tryptophan  "
+    } ]
+  }, {
+    "tStartMs": 862800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "amino acids within tubulin molecules \nwhen radiated with ultraviolet light."
+    } ]
+  }, {
+    "tStartMs": 868800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "If this is right it would require \nlarge-scale quantum entanglement of  "
+    } ]
+  }, {
+    "tStartMs": 872400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "tryptophan molecules across \na microtubule. Although the  "
+    } ]
+  }, {
+    "tStartMs": 876880,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "researchers of the paper didn’t directly \nmeasure that entanglement or its source,  "
+    } ]
+  }, {
+    "tStartMs": 881280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "according to their models the amount of light \nemitted was 100s of times that expected from  "
+    } ]
+  }, {
+    "tStartMs": 887200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "simple fluorescence, and so could have only \nbeen possible through a superradiant process."
+    } ]
+  }, {
+    "tStartMs": 892000,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "They also did a bunch of quantum \nsimulations to explore the effect,  "
+    } ]
+  }, {
+    "tStartMs": 895560,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "and found that these entangled, excited states \ncan extend a long way along microtubules—far  "
+    } ]
+  }, {
+    "tStartMs": 902400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "longer than would normally be expected in \nan environment like the brain. This implies  "
+    } ]
+  }, {
+    "tStartMs": 907200,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "that microtubules could at the very least \nserve a role in cell signaling. Finally,  "
+    } ]
+  }, {
+    "tStartMs": 912680,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "they found that this coherence was more stable the \nlarger the microtubule and microtubule network,  "
+    } ]
+  }, {
+    "tStartMs": 918720,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "which gives some hope that this effect might \nactually appear in a real neuron. On the other  "
+    } ]
+  }, {
+    "tStartMs": 925200,
+    "dDurationMs": 7880,
+    "segs": [ {
+      "utf8": "hand, Penrose and Hameroff estimate that a good \nfraction of all microtubules in all the neurons  "
+    } ]
+  }, {
+    "tStartMs": 933080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "in the brain need to be entangled to generate \nhuman consciousness—and that level of warm,  "
+    } ]
+  }, {
+    "tStartMs": 939080,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "wet, macroscopic entanglement \nis pretty hard to believe."
+    } ]
+  }, {
+    "tStartMs": 944560,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "So what are the implications of this? Well forget \nconsciousness—even if microtubules contribute to  "
+    } ]
+  }, {
+    "tStartMs": 951520,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "cognition, we may be way further from artificial \ngeneral intelligence than some believe. Brains  "
+    } ]
+  }, {
+    "tStartMs": 958600,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "have around 10^14 synapses. AGI optimists have \nsaid we’ll be able to simulate human intelligence  "
+    } ]
+  }, {
+    "tStartMs": 966040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "when we have computers capable of simulating that \nmany connections … which Moores law tells us will  "
+    } ]
+  }, {
+    "tStartMs": 971240,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "be pretty soon. However, if neurons are also \ndoing internal computation with microtubules,  "
+    } ]
+  }, {
+    "tStartMs": 977480,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "and there are a billion microtubules per neuron \ncomputing maybe a million times faster than the  "
+    } ]
+  }, {
+    "tStartMs": 983200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "neuron firing rate, then we may need to wait \nquite a bit longer to make our first AGI.  "
+    } ]
+  }, {
+    "tStartMs": 989360,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And at any rate, if orchestrated objective \nreduction or anything like it is right,  "
+    } ]
+  }, {
+    "tStartMs": 994520,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "no AI we make in the near future has any hope \nof human-like consciousness. If we want that,  "
+    } ]
+  }, {
+    "tStartMs": 1000680,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "and I’m not sure we want that, we’re going to \nhave to build our AIs on quantum computers."
+    } ]
+  }, {
+    "tStartMs": 1007640,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "After a good mix of science, philosophy, and \nspeculation, it's appropriate to finish with  "
+    } ]
+  }, {
+    "tStartMs": 1012880,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "a little disclaimer. What the microtubules \nsuperradiance really shows is that there are  "
+    } ]
+  }, {
+    "tStartMs": 1018880,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "potentially quantum processes happening in the \nbrain. There is of course no claim in the recent  "
+    } ]
+  }, {
+    "tStartMs": 1023880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "paper that this relates to consciousness at all. \nConsciousness only comes into play if you accept  "
+    } ]
+  }, {
+    "tStartMs": 1029800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the arguments of Penrose, Lucas, and Hameroff. \nWe’ll leave it up to you to take a philosophical  "
+    } ]
+  }, {
+    "tStartMs": 1035320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "stance there. But I will say that I’ve always \nbeen pretty dismissive of Penrose’s idea,  "
+    } ]
+  }, {
+    "tStartMs": 1040760,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "but this has me looking at it a bit more \nclosely—and the same is surely true of others.  "
+    } ]
+  }, {
+    "tStartMs": 1047960,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "But a lot of work needs to be done to establish that actual quantum information processing is  "
+    } ]
+  }, {
+    "tStartMs": 1052480,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "happening in microtubules and to even establish \na concrete mechanism by which this phenomenon  "
+    } ]
+  }, {
+    "tStartMs": 1058400,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "could generate our conscious experience. On the \nother hand, don’t you kind of feel like you’re a  "
+    } ]
+  }, {
+    "tStartMs": 1066800,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "massively entangled quantum state collapsing \nunder the buildup of superposed spacetime."
+    } ]
+  }, {
+    "tStartMs": 1072960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Hey Everyone. We have a few new items for sale \nat the merch store. First up is a new limited  "
+    } ]
+  }, {
+    "tStartMs": 1078000,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "edition wormhole enamel pin. If you'd like to \nshow the world that you'd rather instantly be  "
+    } ]
+  }, {
+    "tStartMs": 1083520,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "at some other patch of space time then you should \nsnap up this is a 1.5 inch enamel pin on 2x3 inch  "
+    } ]
+  }, {
+    "tStartMs": 1090160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "holo foil backing card. Next up is our Quantum \nMechanics Officially Observer design, which will  "
+    } ]
+  }, {
+    "tStartMs": 1096400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "let everyone know that you are in fact an official \nobserver of quantum mechanics. The design will  "
+    } ]
+  }, {
+    "tStartMs": 1101920,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "be featured on a t-shirt, a hoodie as well as our \nfirst ever 2.75 inch embroidered patch with velcro  "
+    } ]
+  }, {
+    "tStartMs": 1108320,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "backing. The t-shirt and hoodie will remain on the \nmerch store, but the wormhole pin and embroidered  "
+    } ]
+  }, {
+    "tStartMs": 1113560,
+    "dDurationMs": 7813,
+    "segs": [ {
+      "utf8": "patch will be a limited edition pre-sale that \nwill ship in the first week of September."
+    } ]
+  } ]
+}

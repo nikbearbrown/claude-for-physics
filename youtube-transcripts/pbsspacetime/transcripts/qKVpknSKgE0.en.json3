@@ -1,0 +1,1357 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 170,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Our universe seems pretty complicated."
+    } ]
+  }, {
+    "tStartMs": 2460,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "We have a weird zoo of elementary particles, which interact through very different fundamental"
+    } ]
+  }, {
+    "tStartMs": 7140,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "forces."
+    } ]
+  }, {
+    "tStartMs": 8140,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But some extremely subtle clues in nature\nhave led us to believe that the forces of"
+    } ]
+  }, {
+    "tStartMs": 12620,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "nature were once unified, ruled by a single,\ngrand symmetry."
+    } ]
+  }, {
+    "tStartMs": 17200,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "But how does one force separate into multiple?"
+    } ]
+  }, {
+    "tStartMs": 20550,
+    "dDurationMs": 5135,
+    "segs": [ {
+      "utf8": "And how do the forces of nature arise from mathematical symmetries in the first place?"
+    } ]
+  }, {
+    "tStartMs": 30376,
+    "dDurationMs": 4983,
+    "segs": [ {
+      "utf8": "The best way to understand how the universe went from a simpler, more symmetric state"
+    } ]
+  }, {
+    "tStartMs": 35359,
+    "dDurationMs": 4821,
+    "segs": [ {
+      "utf8": "to its current complicated condition - is\nto look at the unification that we understand"
+    } ]
+  }, {
+    "tStartMs": 40180,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the best."
+    } ]
+  }, {
+    "tStartMs": 41180,
+    "dDurationMs": 4559,
+    "segs": [ {
+      "utf8": "Today we're going to begin an exploration\nof how the electromagnetic and weak forces"
+    } ]
+  }, {
+    "tStartMs": 45739,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "were once a single thing."
+    } ]
+  }, {
+    "tStartMs": 47989,
+    "dDurationMs": 5861,
+    "segs": [ {
+      "utf8": "And this dive into electroweak unification\nwill lead us inevitably to the Higgs field"
+    } ]
+  }, {
+    "tStartMs": 53850,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "and an understanding of how particles gain mass."
+    } ]
+  }, {
+    "tStartMs": 57219,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Let’s start with the mysterious and often\nmisunderstood weak interaction."
+    } ]
+  }, {
+    "tStartMs": 62109,
+    "dDurationMs": 4771,
+    "segs": [ {
+      "utf8": "You may have heard that it’s the force responsible for some types of radioactive decay."
+    } ]
+  }, {
+    "tStartMs": 66880,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "That's Not very satisfying - but it’s how the weak force was first identified."
+    } ]
+  }, {
+    "tStartMs": 71960,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Beta decay is when a neutron turns into a\nproton by emitting an electron and neutrino."
+    } ]
+  }, {
+    "tStartMs": 77960,
+    "dDurationMs": 4769,
+    "segs": [ {
+      "utf8": "The electron was called a beta particle by\nErnest Rutherford back in 1899 before"
+    } ]
+  }, {
+    "tStartMs": 82729,
+    "dDurationMs": 1911,
+    "segs": [ {
+      "utf8": "we knew that these things were electrons."
+    } ]
+  }, {
+    "tStartMs": 84640,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "It’s one of the main ways radioactive nuclei decay - the other being alpha decay, where"
+    } ]
+  }, {
+    "tStartMs": 90820,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "the emitted “alpha particle” is really\na helium-4 nucleus."
+    } ]
+  }, {
+    "tStartMs": 94860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Fast forward to the early 30s."
+    } ]
+  }, {
+    "tStartMs": 96960,
+    "dDurationMs": 6549,
+    "segs": [ {
+      "utf8": "While the brand new field of quantum mechanics could describe the behaviour of electrons,"
+    } ]
+  }, {
+    "tStartMs": 103509,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "nuclear processes remained mysterious."
+    } ]
+  }, {
+    "tStartMs": 106439,
+    "dDurationMs": 6531,
+    "segs": [ {
+      "utf8": "Enrico Fermi made the first attempt at a full quantum description of beta decay with his"
+    } ]
+  }, {
+    "tStartMs": 112970,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "‘four fermion’ interaction."
+    } ]
+  }, {
+    "tStartMs": 114840,
+    "dDurationMs": 5809,
+    "segs": [ {
+      "utf8": "Basically, he tried to model this as a direction interaction - in which all four “fermion”"
+    } ]
+  }, {
+    "tStartMs": 120649,
+    "dDurationMs": 1871,
+    "segs": [ {
+      "utf8": "particles literally touch."
+    } ]
+  }, {
+    "tStartMs": 122520,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "So an ingoing neutron is directly converted\ninto the outgoing proton, electron and neutrino,"
+    } ]
+  }, {
+    "tStartMs": 127570,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "with all the conservation laws satisfied."
+    } ]
+  }, {
+    "tStartMs": 130470,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Fermi was motivated by the apparent extreme short range of the interaction - and that"
+    } ]
+  }, {
+    "tStartMs": 136530,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "short range is what earned it the name “weak” interaction."
+    } ]
+  }, {
+    "tStartMs": 139430,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "But Fermi’s model only worked at low energies, and neither it nor its successors explain why"
+    } ]
+  }, {
+    "tStartMs": 144930,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "the weak interaction violates charge-parity\nsymmetry."
+    } ]
+  }, {
+    "tStartMs": 148200,
+    "dDurationMs": 6349,
+    "segs": [ {
+      "utf8": "Meanwhile, there was a very different effort to explain electromagnetism that was enjoying"
+    } ]
+  }, {
+    "tStartMs": 154549,
+    "dDurationMs": 1571,
+    "segs": [ {
+      "utf8": "much more success."
+    } ]
+  }, {
+    "tStartMs": 156120,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "That effort was quantum electrodynamics, in which charged particles interact not by actually"
+    } ]
+  }, {
+    "tStartMs": 161010,
+    "dDurationMs": 9030,
+    "segs": [ {
+      "utf8": "touching - but via a mediating particle that transmits the force - the mitichlorian - I mean the photon."
+    } ]
+  }, {
+    "tStartMs": 170040,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "By the way, force-mediating particles are\nbosons, as opposed to the fermions that make"
+    } ]
+  }, {
+    "tStartMs": 174879,
+    "dDurationMs": 1341,
+    "segs": [ {
+      "utf8": "up matter."
+    } ]
+  }, {
+    "tStartMs": 176220,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "QED is what we call a gauge theory - its force-carrying fields and particles arise from the symmetries"
+    } ]
+  }, {
+    "tStartMs": 182930,
+    "dDurationMs": 2149,
+    "segs": [ {
+      "utf8": "of the quantum equations of motion."
+    } ]
+  }, {
+    "tStartMs": 185079,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "And we’ll come back to that."
+    } ]
+  }, {
+    "tStartMs": 186790,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "In 1957, Julian Schwinger proposed a set of force mediating gauge bosons for the weak"
+    } ]
+  }, {
+    "tStartMs": 191550,
+    "dDurationMs": 1389,
+    "segs": [ {
+      "utf8": "interaction."
+    } ]
+  }, {
+    "tStartMs": 192939,
+    "dDurationMs": 3781,
+    "segs": [ {
+      "utf8": "Given that the weak interaction could change a neutral particle into a pair of charged"
+    } ]
+  }, {
+    "tStartMs": 196720,
+    "dDurationMs": 3579,
+    "segs": [ {
+      "utf8": "particles this mediating particle must itself be charged."
+    } ]
+  }, {
+    "tStartMs": 200299,
+    "dDurationMs": 5751,
+    "segs": [ {
+      "utf8": "This was an early hint that somehow the electromagnetic force, which acts on charged particles, was"
+    } ]
+  }, {
+    "tStartMs": 206050,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "playing a role here."
+    } ]
+  }, {
+    "tStartMs": 207840,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "Although the involvement of the neutron and neutrino meant it couldn’t be entirely electromagnetism."
+    } ]
+  }, {
+    "tStartMs": 213890,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Not only that, but experiments at the time\nindicated that, if they existed, these new"
+    } ]
+  }, {
+    "tStartMs": 218980,
+    "dDurationMs": 7849,
+    "segs": [ {
+      "utf8": "‘weak bosons’, W bosons, had to have mass due to the short range nature of the interaction,"
+    } ]
+  }, {
+    "tStartMs": 226829,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "quite a lot of mass it in fact."
+    } ]
+  }, {
+    "tStartMs": 228319,
+    "dDurationMs": 5971,
+    "segs": [ {
+      "utf8": "The short range nature of forces with massive force carriers is usually attributed to the"
+    } ]
+  }, {
+    "tStartMs": 234290,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "energy-time uncertainty relation, and we’ve\npresented it that way previously."
+    } ]
+  }, {
+    "tStartMs": 238409,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "Though as we’ll discuss in a future episode, that’s not the full story."
+    } ]
+  }, {
+    "tStartMs": 242700,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "Anyway, this new gauge theory of the weak interaction seemed to be okay with parity"
+    } ]
+  }, {
+    "tStartMs": 248130,
+    "dDurationMs": 5189,
+    "segs": [ {
+      "utf8": "violation, and it wasn’t only accurate at low energies."
+    } ]
+  }, {
+    "tStartMs": 253319,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Problem solved."
+    } ]
+  }, {
+    "tStartMs": 254319,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Easy peasy, right?"
+    } ]
+  }, {
+    "tStartMs": 256049,
+    "dDurationMs": 2391,
+    "segs": [ {
+      "utf8": "Well, not even close."
+    } ]
+  }, {
+    "tStartMs": 258440,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "That requirement of the W bosons having mass\nwas an enormous theoretical headache."
+    } ]
+  }, {
+    "tStartMs": 264330,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Gauge bosons should just not have mass."
+    } ]
+  }, {
+    "tStartMs": 267230,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ever!"
+    } ]
+  }, {
+    "tStartMs": 268230,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "At least assuming that the symmetries of gauge theory remain intact."
+    } ]
+  }, {
+    "tStartMs": 273650,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "But, as we'll see, the simple requirement that the weak force was mediated by massive particles ultimately"
+    } ]
+  }, {
+    "tStartMs": 278480,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "unified the weak force with electromagnetism, and revealed the existence of the Higgs particle."
+    } ]
+  }, {
+    "tStartMs": 284940,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "To get all of this we need to do a quick recap of what a gauge theory actually is."
+    } ]
+  }, {
+    "tStartMs": 290910,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Let’s try an example:"
+    } ]
+  }, {
+    "tStartMs": 292960,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "In quantum mechanics, the wavefunction determines the probabilities of certain outcomes being"
+    } ]
+  }, {
+    "tStartMs": 297130,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "measured for observables like particle position and momentum."
+    } ]
+  }, {
+    "tStartMs": 301380,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Quantum mechanical equations of motion like the Schrodinger equation describe how the"
+    } ]
+  }, {
+    "tStartMs": 305340,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "wavefunction evolves through space and time."
+    } ]
+  }, {
+    "tStartMs": 307690,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "Like all waves, the wavefunction has a phase - the current position of the peaks and troughs."
+    } ]
+  }, {
+    "tStartMs": 313470,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "But that phase should be totally unobservable by any experiment."
+    } ]
+  }, {
+    "tStartMs": 318240,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Phase is what we call a degree of freedom, because it should be possible to change it"
+    } ]
+  }, {
+    "tStartMs": 322270,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "however you like at any point in space and\nstill get the same physical observables."
+    } ]
+  }, {
+    "tStartMs": 327290,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "For that to be the case, we need to add some stuff to the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 332520,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "That stuff turns out to describe the electromagnetic field."
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "When we quantize that field - when we let it oscillate with discrete packets of energy"
+    } ]
+  }, {
+    "tStartMs": 340310,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "- we get the photon."
+    } ]
+  }, {
+    "tStartMs": 342900,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "So there we go - we insisted on a symmetry - that the Schrodinger equation is invariant"
+    } ]
+  }, {
+    "tStartMs": 347910,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "to changes in the local phase of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 350570,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "That resulted in a new quantum field and a\ncorresponding particle."
+    } ]
+  }, {
+    "tStartMs": 354540,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "So that is gauge theory in a nutshell:\nit explains a force by imposing symmetries"
+    } ]
+  }, {
+    "tStartMs": 360390,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "on the equations of motion."
+    } ]
+  }, {
+    "tStartMs": 361880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Actually, a visual representation would really help here."
+    } ]
+  }, {
+    "tStartMs": 365720,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "We said that at each point in space, the physics shouldn’t change when we shift both the"
+    } ]
+  }, {
+    "tStartMs": 370530,
+    "dDurationMs": 6174,
+    "segs": [ {
+      "utf8": "real and complex parts of the wavefunction by some amount, we shift the phase, "
+    } ]
+  }, {
+    "tStartMs": 376704,
+    "dDurationMs": 4096,
+    "segs": [ {
+      "utf8": " a process which leaves the magnitude of the wavefunction unchanged."
+    } ]
+  }, {
+    "tStartMs": 380800,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "This is equivalent to considering a complex 2D vector, where the axes are the real and"
+    } ]
+  }, {
+    "tStartMs": 386740,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "imaginary components, which we can rotate but not stretch or shrink: the length of the"
+    } ]
+  }, {
+    "tStartMs": 392530,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "vector is the magnitude of the wavefunction, and the rotation amount is our local phase shift."
+    } ]
+  }, {
+    "tStartMs": 398920,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "The collection of transformations which are just rotations of 2D vectors are members of"
+    } ]
+  }, {
+    "tStartMs": 403980,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "something called the Unitary group of size\n1, written U(1)."
+    } ]
+  }, {
+    "tStartMs": 409630,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The ‘U’ stands for unitary and tells us\nthat elements of this group preserve vector"
+    } ]
+  }, {
+    "tStartMs": 414190,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "length, or in our case quantum probability."
+    } ]
+  }, {
+    "tStartMs": 417360,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "The ‘1’ just means the symmetry transformations act on states which can be completely represented"
+    } ]
+  }, {
+    "tStartMs": 423770,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "by just one function, like our single wavefunction from the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 428900,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Imposing this U(1) symmetry on our equations of motion led us to something very real and"
+    } ]
+  }, {
+    "tStartMs": 432830,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "physical - electromagnetism."
+    } ]
+  }, {
+    "tStartMs": 434890,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So it makes sense to see what other symmetries do."
+    } ]
+  }, {
+    "tStartMs": 437370,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "There, the single 2D vector could only change in its angle - its phase."
+    } ]
+  }, {
+    "tStartMs": 442110,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "It had 1 degree of freedom - corresponding to a gauge field with a single mode - the"
+    } ]
+  }, {
+    "tStartMs": 446730,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "electromagnetic field and its photon."
+    } ]
+  }, {
+    "tStartMs": 449040,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "In SU(2), each individual vector can change length, rotate, and be reflected - overall"
+    } ]
+  }, {
+    "tStartMs": 454620,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "8 degrees of freedom."
+    } ]
+  }, {
+    "tStartMs": 456210,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But if we require this transformation to now respect the SU(2) symmetry - for example requiring"
+    } ]
+  }, {
+    "tStartMs": 461490,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "unitarity - we knock out 5 degrees of freedom leaving us with only 3."
+    } ]
+  }, {
+    "tStartMs": 466950,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "If we require our equations of motion to respect SU(2) we have to introduce a new field with"
+    } ]
+  }, {
+    "tStartMs": 473710,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "3 degrees of freedom."
+    } ]
+  }, {
+    "tStartMs": 476010,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "Quantizing this field gives 3 bosons which\nare *almost* exactly what we need to make"
+    } ]
+  }, {
+    "tStartMs": 483350,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "a gauge theory of the weak field work."
+    } ]
+  }, {
+    "tStartMs": 486900,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Almost."
+    } ]
+  }, {
+    "tStartMs": 488550,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "The fields and corresponding particles produced by the pure symmetries we described are fundamentally"
+    } ]
+  }, {
+    "tStartMs": 495240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "massless."
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "The bosons of the version of SU(2) that I\njust described are simple light-speed oscillations"
+    } ]
+  }, {
+    "tStartMs": 502090,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "in their fields, just like photons."
+    } ]
+  }, {
+    "tStartMs": 504180,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "But the bosons of the weak force have to have mass."
+    } ]
+  }, {
+    "tStartMs": 507830,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So is this a bust?"
+    } ]
+  }, {
+    "tStartMs": 510390,
+    "dDurationMs": 6129,
+    "segs": [ {
+      "utf8": "Maybe, but the whole gauge field thing seemed so promising, so it's worth asking: how can"
+    } ]
+  }, {
+    "tStartMs": 516519,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "we give mass to something that seems fundamentally massless?"
+    } ]
+  }, {
+    "tStartMs": 520969,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "The perfect masslessness of these gauge fields and bosons is a direct consequence of the"
+    } ]
+  }, {
+    "tStartMs": 525640,
+    "dDurationMs": 2499,
+    "segs": [ {
+      "utf8": "perfect symmetries from which they come."
+    } ]
+  }, {
+    "tStartMs": 528139,
+    "dDurationMs": 2781,
+    "segs": [ {
+      "utf8": "Adding in mass screws up those symmetries."
+    } ]
+  }, {
+    "tStartMs": 530920,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "For example, adding mass to a photon means adding an extra term to the electromagnetic"
+    } ]
+  }, {
+    "tStartMs": 535430,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "field stuff in the Schrodinger equation so\nthat it would no longer be invariant to local"
+    } ]
+  }, {
+    "tStartMs": 540040,
+    "dDurationMs": 1409,
+    "segs": [ {
+      "utf8": "phase shifts."
+    } ]
+  }, {
+    "tStartMs": 541449,
+    "dDurationMs": 5661,
+    "segs": [ {
+      "utf8": "In order for the weak force bosons to have\nmass, we have to willingly break the symmetry"
+    } ]
+  }, {
+    "tStartMs": 547110,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "that gave us them in the first place."
+    } ]
+  }, {
+    "tStartMs": 550100,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "But wouldn't that mean we're throwing away the core idea that gave us our weak field?"
+    } ]
+  }, {
+    "tStartMs": 554970,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "Not necessarily."
+    } ]
+  }, {
+    "tStartMs": 556300,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "It's possible for the equations of motion\ndescribing a system to have a particular symmetry"
+    } ]
+  }, {
+    "tStartMs": 561390,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "- to not care about changes in some property - but at the same time, for the state of the"
+    } ]
+  }, {
+    "tStartMs": 566890,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "system those equations describe to NOT have the same symmetry."
+    } ]
+  }, {
+    "tStartMs": 571430,
+    "dDurationMs": 4449,
+    "segs": [ {
+      "utf8": "That sounds counter-intuitive, so let me give you an example."
+    } ]
+  }, {
+    "tStartMs": 575879,
+    "dDurationMs": 4931,
+    "segs": [ {
+      "utf8": "Consider a magnetic material, made up of many little magnetic dipoles, like little bar magnets"
+    } ]
+  }, {
+    "tStartMs": 580810,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that can point in different directions."
+    } ]
+  }, {
+    "tStartMs": 582810,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "The equations of motion governing the overall magnetisation of this material aren’t encoded"
+    } ]
+  }, {
+    "tStartMs": 588269,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "with some special direction - the whole system could be rotated and nothing should change."
+    } ]
+  }, {
+    "tStartMs": 593389,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "This represents the symmetry in our equations."
+    } ]
+  }, {
+    "tStartMs": 596850,
+    "dDurationMs": 5239,
+    "segs": [ {
+      "utf8": "But the individual magnetic particles interact with each other, they want to align with their"
+    } ]
+  }, {
+    "tStartMs": 602089,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "neighbours."
+    } ]
+  }, {
+    "tStartMs": 603089,
+    "dDurationMs": 5311,
+    "segs": [ {
+      "utf8": "At high enough temperatures - above the Curie temperature - thermal energy causes the particles"
+    } ]
+  }, {
+    "tStartMs": 608400,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "to rotate randomly so the overall magnetization of the material is random."
+    } ]
+  }, {
+    "tStartMs": 613970,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "However, if we cool the material down, the\ninteractions between magnetic particles can"
+    } ]
+  }, {
+    "tStartMs": 619490,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "start to come into play."
+    } ]
+  }, {
+    "tStartMs": 621250,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "They align with each other."
+    } ]
+  }, {
+    "tStartMs": 623040,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "If we cool the system enough all particles\nget frozen into one aligned state."
+    } ]
+  }, {
+    "tStartMs": 627370,
+    "dDurationMs": 3469,
+    "segs": [ {
+      "utf8": "This is a state of broken symmetry."
+    } ]
+  }, {
+    "tStartMs": 630839,
+    "dDurationMs": 4561,
+    "segs": [ {
+      "utf8": "Even though the equations of motion say one direction is not preferred to the other, the"
+    } ]
+  }, {
+    "tStartMs": 635400,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "ground state has randomly picked out a single direction."
+    } ]
+  }, {
+    "tStartMs": 639290,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "We call this spontaneous symmetry breaking."
+    } ]
+  }, {
+    "tStartMs": 643800,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "So what if something similar is happening\nwith the field that gives us the weak force?"
+    } ]
+  }, {
+    "tStartMs": 648620,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Perhaps the equations of motion respect the symmetries that give us the necessary gauge"
+    } ]
+  }, {
+    "tStartMs": 653740,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "field, but the physical system - the field\nitself - evolves into a state which no longer"
+    } ]
+  }, {
+    "tStartMs": 658680,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "respects those symmetries."
+    } ]
+  }, {
+    "tStartMs": 660579,
+    "dDurationMs": 2911,
+    "segs": [ {
+      "utf8": "That could lead to our force carriers having mass."
+    } ]
+  }, {
+    "tStartMs": 663490,
+    "dDurationMs": 2529,
+    "segs": [ {
+      "utf8": "This has been an analogy-heavy episode."
+    } ]
+  }, {
+    "tStartMs": 666019,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Spinning vectors and magnetic materials."
+    } ]
+  }, {
+    "tStartMs": 667949,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "But what specifically is happening with the\nweak field?"
+    } ]
+  }, {
+    "tStartMs": 671029,
+    "dDurationMs": 1691,
+    "segs": [ {
+      "utf8": "What is this symmetry?"
+    } ]
+  }, {
+    "tStartMs": 672720,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "And what causes it to break?"
+    } ]
+  }, {
+    "tStartMs": 674410,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Well remember that I said that the weak interaction somehow seems to involve electromagnetism?"
+    } ]
+  }, {
+    "tStartMs": 679220,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "That’s another clue."
+    } ]
+  }, {
+    "tStartMs": 681800,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "It turns out that both the weak force AND\nelectromagnetism come from the breaking of"
+    } ]
+  }, {
+    "tStartMs": 686220,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "a larger symmetry group."
+    } ]
+  }, {
+    "tStartMs": 689189,
+    "dDurationMs": 5981,
+    "segs": [ {
+      "utf8": "And actually, that larger symmetry group is\njust the combination of our U(1) and SU(2)"
+    } ]
+  }, {
+    "tStartMs": 695170,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "symmetries."
+    } ]
+  }, {
+    "tStartMs": 696260,
+    "dDurationMs": 9290,
+    "segs": [ {
+      "utf8": "The combined SU(2)xU(1) symmetry is the electroweak field, and it has 4 massless bosons, like"
+    } ]
+  }, {
+    "tStartMs": 705550,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "a well behaved symmetry should."
+    } ]
+  }, {
+    "tStartMs": 708180,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "But at low temperatures, this symmetry is\nspontaneously broken - leaving an independent,"
+    } ]
+  }, {
+    "tStartMs": 713059,
+    "dDurationMs": 7190,
+    "segs": [ {
+      "utf8": "massless s(1) field for the photon and a massive, broken SU(2) field that gives the massive"
+    } ]
+  }, {
+    "tStartMs": 720249,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "weak force bosons."
+    } ]
+  }, {
+    "tStartMs": 722499,
+    "dDurationMs": 6351,
+    "segs": [ {
+      "utf8": "By the way - by “low temperature” I mean anything below around 10^15 Kelvin."
+    } ]
+  }, {
+    "tStartMs": 728850,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "The entire universe was that hot when it was less than a trillionth of a second old."
+    } ]
+  }, {
+    "tStartMs": 733699,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "Back then, electromagnetism and photons and the weak force didn’t exist."
+    } ]
+  }, {
+    "tStartMs": 738290,
+    "dDurationMs": 5059,
+    "segs": [ {
+      "utf8": "This was the electroweak era, and we can also produce these conditions in our particle accelerators"
+    } ]
+  }, {
+    "tStartMs": 743349,
+    "dDurationMs": 6061,
+    "segs": [ {
+      "utf8": "- and in fact we’ve verified this whole\nelectroweak thing with fantastic precision."
+    } ]
+  }, {
+    "tStartMs": 749410,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Let’s take a second to remember how we got here."
+    } ]
+  }, {
+    "tStartMs": 753490,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "We just asked what would happen if the equations of motion governing nature had certain symmetries."
+    } ]
+  }, {
+    "tStartMs": 759579,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "The very existence of those symmetries requires a family of fields and particles that we now"
+    } ]
+  }, {
+    "tStartMs": 765819,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "observe in nature."
+    } ]
+  }, {
+    "tStartMs": 767860,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "But to really make this work - to give the\nweak force bosons their mass - we have to"
+    } ]
+  }, {
+    "tStartMs": 771880,
+    "dDurationMs": 5309,
+    "segs": [ {
+      "utf8": "conclude that really these fields, these symmetries, are ultimately unified."
+    } ]
+  }, {
+    "tStartMs": 777189,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "And then broken."
+    } ]
+  }, {
+    "tStartMs": 778199,
+    "dDurationMs": 2931,
+    "segs": [ {
+      "utf8": "As we’ll see soon, by the Higgs field."
+    } ]
+  }, {
+    "tStartMs": 781130,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "But it doesn’t stop there - the electroweak\nunification set us on this grand quest to"
+    } ]
+  }, {
+    "tStartMs": 786570,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "find deeper symmetries that could bring the strong nuclear force into the fold, allowing"
+    } ]
+  }, {
+    "tStartMs": 791290,
+    "dDurationMs": 8250,
+    "segs": [ {
+      "utf8": "us to collect the full Pokemon-evolution set of the standard model: U(1)xSU(2)xSU(3)."
+    } ]
+  }, {
+    "tStartMs": 799540,
+    "dDurationMs": 7180,
+    "segs": [ {
+      "utf8": "And from which arises the fantastically rich palette of particles and the complexity they"
+    } ]
+  }, {
+    "tStartMs": 806720,
+    "dDurationMs": 5989,
+    "segs": [ {
+      "utf8": "enable, inevitable consequences of the broken symmetries of spacetime."
+    } ]
+  }, {
+    "tStartMs": 812709,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Last time we talked about Singularity Theorems, and how they show that the singularities at"
+    } ]
+  }, {
+    "tStartMs": 817319,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the heart of the black hole and at the Big\nBang are inevitable if you follow only general"
+    } ]
+  }, {
+    "tStartMs": 822199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "relativity."
+    } ]
+  }, {
+    "tStartMs": 823199,
+    "dDurationMs": 1971,
+    "segs": [ {
+      "utf8": "Let’s see what you had to say."
+    } ]
+  }, {
+    "tStartMs": 825170,
+    "dDurationMs": 5719,
+    "segs": [ {
+      "utf8": "The next host of space time asks if physicists tend to be dubious about infinities, why are"
+    } ]
+  }, {
+    "tStartMs": 830889,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "we then typically ok that the size of the universe is infinite?"
+    } ]
+  }, {
+    "tStartMs": 834589,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "I think this is a fair question."
+    } ]
+  }, {
+    "tStartMs": 837300,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "There are different types of infinities, and\nsome are seen as worse than others - the singularity"
+    } ]
+  }, {
+    "tStartMs": 842030,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "type is considered a bad one - that’s when\nsome property blows up to infinite values,"
+    } ]
+  }, {
+    "tStartMs": 846509,
+    "dDurationMs": 3651,
+    "segs": [ {
+      "utf8": "like the density or curvature at the center\nof a black hole."
+    } ]
+  }, {
+    "tStartMs": 850160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "In the case of the black hole singularity,\nor the singularity of the big bang, it’s"
+    } ]
+  }, {
+    "tStartMs": 853920,
+    "dDurationMs": 4609,
+    "segs": [ {
+      "utf8": "bad because it causes unreconciled conflicts with other physics - quantum theory in this"
+    } ]
+  }, {
+    "tStartMs": 858529,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "case."
+    } ]
+  }, {
+    "tStartMs": 859529,
+    "dDurationMs": 3951,
+    "segs": [ {
+      "utf8": "An infinite universe doesn’t have the same\nproblem, and I guess it’s often accepted"
+    } ]
+  }, {
+    "tStartMs": 863480,
+    "dDurationMs": 5789,
+    "segs": [ {
+      "utf8": "because it’s actually not much more philosophically satisfying to propose a finite universe."
+    } ]
+  }, {
+    "tStartMs": 869269,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "You can as well ask why does the universe\nstop where it does, as you can ask why does"
+    } ]
+  }, {
+    "tStartMs": 874259,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "it go on forever."
+    } ]
+  }, {
+    "tStartMs": 876160,
+    "dDurationMs": 5489,
+    "segs": [ {
+      "utf8": "But hold on to your unease - these are the\nintuitions that can lead us forward."
+    } ]
+  }, {
+    "tStartMs": 881649,
+    "dDurationMs": 5951,
+    "segs": [ {
+      "utf8": "Dr Kres von Panzer asks how we know that two light rays inside a black hole converge and"
+    } ]
+  }, {
+    "tStartMs": 887600,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "don’t just perpetually pass each other."
+    } ]
+  }, {
+    "tStartMs": 889329,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Really, this is the core of Penrose’s proof."
+    } ]
+  }, {
+    "tStartMs": 891999,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "He showed that at least some light rays - null geodesics - that start parallel from any trapped"
+    } ]
+  }, {
+    "tStartMs": 897139,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "surface must converge in any positively curved spacetime."
+    } ]
+  }, {
+    "tStartMs": 901449,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "Not all of them necessarily converge, but\nyou only need some to get the singularity."
+    } ]
+  }, {
+    "tStartMs": 907189,
+    "dDurationMs": 6851,
+    "segs": [ {
+      "utf8": "In the case of the perfect spherical symmetry inside of a Schwarzschild black hole, all geodesics"
+    } ]
+  }, {
+    "tStartMs": 914040,
+    "dDurationMs": 1549,
+    "segs": [ {
+      "utf8": "do indeed converge."
+    } ]
+  }, {
+    "tStartMs": 915589,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Wannabe technician says if they became a general in the army they would definitely change their"
+    } ]
+  }, {
+    "tStartMs": 919949,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "last name to relativity."
+    } ]
+  }, {
+    "tStartMs": 921839,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That’s a good one."
+    } ]
+  }, {
+    "tStartMs": 923439,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "But why wait?"
+    } ]
+  }, {
+    "tStartMs": 924629,
+    "dDurationMs": 3381,
+    "segs": [ {
+      "utf8": "Start at Specialist Relativity and work your\nway up."
+    } ]
+  } ]
+}

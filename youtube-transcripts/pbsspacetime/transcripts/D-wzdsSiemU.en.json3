@@ -1,0 +1,1177 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Thank you to Wren for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 3440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "In around four and a half billion years the\nAndromeda galaxy and our own Milky Way will"
+    } ]
+  }, {
+    "tStartMs": 7840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "finish their long mutual plummet."
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "On a first grazing pass, the delicate spiral\narms will be yanked almost out of their sockets."
+    } ]
+  }, {
+    "tStartMs": 16720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Perhaps their denizens will look back with\nrelief as the dislocated galaxies retreat"
+    } ]
+  }, {
+    "tStartMs": 22400,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "on their future night skies."
+    } ]
+  }, {
+    "tStartMs": 24560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But then they’ll pause for a hundred thousand\nyear eye blink before falling back together."
+    } ]
+  }, {
+    "tStartMs": 30480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In a series of whirling collisions, all spiral\nstructure will be obliterated, gas will be"
+    } ]
+  }, {
+    "tStartMs": 35680,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "compacted to produce waves of supernovae,\nand the giant Milkdromeda galaxy will have"
+    } ]
+  }, {
+    "tStartMs": 41680,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "been born."
+    } ]
+  }, {
+    "tStartMs": 42480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The event I just described will happen as\nsurely as the Sun will rise tomorrow."
+    } ]
+  }, {
+    "tStartMs": 47440,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "We know this because we’ve calculated the "
+    } ]
+  }, {
+    "tStartMs": 49920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "chaotic gravitational and \nhydrodynamic interactions"
+    } ]
+  }, {
+    "tStartMs": 53040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "of countless stars and gas and dark matter\nparticles over billions of future years."
+    } ]
+  }, {
+    "tStartMs": 59840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And simulations of galaxy collisions are just\nthe beginning."
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "We routinely simulate the universe on all\nof its scales, from planets to large fractions"
+    } ]
+  }, {
+    "tStartMs": 69840,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "of the cosmos."
+    } ]
+  }, {
+    "tStartMs": 71200,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Today we’re going to see how it’s possible\nto build a universe in a computer - and to see"
+    } ]
+  }, {
+    "tStartMs": 78080,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "whether there’s a limit to what we can simulate."
+    } ]
+  }, {
+    "tStartMs": 86640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "In 1941 the Swedish astronomer Erik Holmberg \nconducted what was probably the first simulation"
+    } ]
+  }, {
+    "tStartMs": 92880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of the universe, right when the first \nprogrammable computers were being assembled."
+    } ]
+  }, {
+    "tStartMs": 98320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But Holmberg didn’t use a computer."
+    } ]
+  }, {
+    "tStartMs": 100880,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "He arrayed 37 light bulbs on a plane, each\none representing billions of stars in a spiral"
+    } ]
+  }, {
+    "tStartMs": 107760,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "galaxy disk."
+    } ]
+  }, {
+    "tStartMs": 109200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The light from each bulb was its gravity - felt\nmore strongly close to the bulb, and dropping"
+    } ]
+  }, {
+    "tStartMs": 114240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "away with the square of distance, just like\ngravity."
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "At any point on the disk, a galvanic cell\ncould determine in which direction the intensity"
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "of light was strongest."
+    } ]
+  }, {
+    "tStartMs": 124880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So the simulation went like this: Holmberg\nstarted with a pair of these light-bulb-galaxies"
+    } ]
+  }, {
+    "tStartMs": 130080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "next to each other, with the motion of each\nbulb existing only as a note on a piece of"
+    } ]
+  }, {
+    "tStartMs": 134960,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "paper."
+    } ]
+  }, {
+    "tStartMs": 135920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "He would then measure light at each bulb,\nwhich told him the summed “gravitational”"
+    } ]
+  }, {
+    "tStartMs": 141040,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "pull on that group of stars."
+    } ]
+  }, {
+    "tStartMs": 143680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "He’d then adjust the velocities of all according\nto Newton’s laws."
+    } ]
+  }, {
+    "tStartMs": 148000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Finally, he’d allow time to tick forward\n- he’d move the bulbs according to their"
+    } ]
+  }, {
+    "tStartMs": 152560,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "new velocities."
+    } ]
+  }, {
+    "tStartMs": 153840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Then, from that new configuration he’d start\nthe process again."
+    } ]
+  }, {
+    "tStartMs": 157280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "And so the two galaxies collided, just as\nwith our modern supercomputer simulations,"
+    } ]
+  }, {
+    "tStartMs": 163200,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "he witnessed the destruction of the disks,\nthe throwing-off of tidal streams, and the"
+    } ]
+  }, {
+    "tStartMs": 168320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "formation of an elliptical galaxy."
+    } ]
+  }, {
+    "tStartMs": 170480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Holmberg’s experiment was ingenious, but\nwhy go to all this effort?"
+    } ]
+  }, {
+    "tStartMs": 176080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Since the time of Isaac Newton it had been\npossible to write down equations describing"
+    } ]
+  }, {
+    "tStartMs": 180960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the trajectories of a pair of massive bodies\nmoving in each other’s gravitational fields."
+    } ]
+  }, {
+    "tStartMs": 186960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "And then to solve those equations to find\ntheir positions at any time in the future."
+    } ]
+  }, {
+    "tStartMs": 192160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "But note that I said “pairs” of bodies."
+    } ]
+  }, {
+    "tStartMs": 194960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "This only works for 2 objects."
+    } ]
+  }, {
+    "tStartMs": 197440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "For 3 or more bodies there \nis no simple set of equations  "
+    } ]
+  }, {
+    "tStartMs": 200320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "describing their future evolution under gravity."
+    } ]
+  }, {
+    "tStartMs": 204320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "This is the so-called 3-body problem, which\nwe’ve discussed in the past."
+    } ]
+  }, {
+    "tStartMs": 208880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "The 3-body problem doesn’t have an analytical \nsolution - no simple master equations - which"
+    } ]
+  }, {
+    "tStartMs": 214480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "is why Holmberg had to solve \nthe problem with light bulbs."
+    } ]
+  }, {
+    "tStartMs": 218640,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Holmberg did what we call a numerical calculation, \nin which an impossibly complex computation"
+    } ]
+  }, {
+    "tStartMs": 224720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "is broken down into a series of much simpler\nsteps."
+    } ]
+  }, {
+    "tStartMs": 227680,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "And this particular type of numerical \ncalculation is called an N-body simulation."
+    } ]
+  }, {
+    "tStartMs": 233600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "In an N-Body simulation Newton’s laws of\nmotion and gravity are applied over a series"
+    } ]
+  }, {
+    "tStartMs": 238480,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "of time steps."
+    } ]
+  }, {
+    "tStartMs": 239840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Each step is short enough that we can assume \nthat the global gravitational field is constant"
+    } ]
+  }, {
+    "tStartMs": 244560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "- it only changes in the next step, after\nall the particles have made their moves."
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The predictions of these N-body simulations\ncan be as accurate as you like, as long as"
+    } ]
+  }, {
+    "tStartMs": 255280,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "you make the time steps small enough."
+    } ]
+  }, {
+    "tStartMs": 257600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And I would hope so, because this is essentially \nhow we calculate the trajectories that place"
+    } ]
+  }, {
+    "tStartMs": 262560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "people on the moon or land robots on comets."
+    } ]
+  }, {
+    "tStartMs": 266080,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "For simulating a solar system, \nthis method is pretty reasonable."
+    } ]
+  }, {
+    "tStartMs": 269520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "In fact, the room-sized computer used \nto calculate the Apollo trajectories  "
+    } ]
+  }, {
+    "tStartMs": 274000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "had about the computing power"
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "of your smart phone."
+    } ]
+  }, {
+    "tStartMs": 277200,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "But if we want realistic simulations of say,\na galaxy with its billions of stars, we need"
+    } ]
+  }, {
+    "tStartMs": 282880,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "to do a bit better."
+    } ]
+  }, {
+    "tStartMs": 284640,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Fortunately, computing power has improved\nsomewhat since Holmberg or the Apollo missions"
+    } ]
+  }, {
+    "tStartMs": 290080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "- but actually, it’s improved nowhere\nnear enough to do N-body simulations of entire"
+    } ]
+  }, {
+    "tStartMs": 295280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "galaxies using the method that I described."
+    } ]
+  }, {
+    "tStartMs": 298480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Let’s think about what this computation\nreally needs."
+    } ]
+  }, {
+    "tStartMs": 302080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In the simplest type of N-body simulation\nyou need to compute the effect of every particle"
+    } ]
+  }, {
+    "tStartMs": 307280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "on every other particle."
+    } ]
+  }, {
+    "tStartMs": 309280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So if there are N particles \nthat’s N^2 calculations."
+    } ]
+  }, {
+    "tStartMs": 314640,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "For a modern one-million particle simulation\nof a star cluster, that’s a trillion computations"
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "per time step."
+    } ]
+  }, {
+    "tStartMs": 321280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The real challenge in astrophysics is that\nwe often have to deal with a huge ranges in"
+    } ]
+  }, {
+    "tStartMs": 325440,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "scale."
+    } ]
+  }, {
+    "tStartMs": 326560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "For example, in a cosmological simulation\nwe’re trying to watch the detailed formation"
+    } ]
+  }, {
+    "tStartMs": 330880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "of individual galaxies, as well as the evolution\nof giant clusters of galaxies."
+    } ]
+  }, {
+    "tStartMs": 336640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But if we keep enough precision to get the\nfine structure, it’s computationally impossible"
+    } ]
+  }, {
+    "tStartMs": 341520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to also produce a large enough \nvolume to also get largest scales."
+    } ]
+  }, {
+    "tStartMs": 345920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "To do these simulations, astrophysicists have\ncome up with some ingenious tricks."
+    } ]
+  }, {
+    "tStartMs": 351280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Perhaps the most important is to avoid having\nto consider every single particle pair."
+    } ]
+  }, {
+    "tStartMs": 356480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Remember, the strength of gravity drops off\nwith distance squared."
+    } ]
+  }, {
+    "tStartMs": 360320,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "For nearby particles it’s important to consider\nevery individual interaction, but for more"
+    } ]
+  }, {
+    "tStartMs": 365600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "distant locations it’s okay to clump particles "
+    } ]
+  }, {
+    "tStartMs": 368240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "together and consider only \ntheir summed gravitational"
+    } ]
+  }, {
+    "tStartMs": 371120,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "effect."
+    } ]
+  }, {
+    "tStartMs": 371840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "One of the original approaches to doing this\nis a so-called tree code."
+    } ]
+  }, {
+    "tStartMs": 376080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "It works like this: you start with a volume\nfull of particles, each with its starting"
+    } ]
+  }, {
+    "tStartMs": 380320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "position and velocity."
+    } ]
+  }, {
+    "tStartMs": 381920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Now divide up the volume into 8 sub-cubes."
+    } ]
+  }, {
+    "tStartMs": 385120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Then divide each of these into 8 more, and\nso on."
+    } ]
+  }, {
+    "tStartMs": 388480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "You stop dividing in any given part of the\nvolume when there is no more than one particle"
+    } ]
+  }, {
+    "tStartMs": 393680,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "per cube in that path."
+    } ]
+  }, {
+    "tStartMs": 396240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Next, you run an N-body simulation by calculating \nthe summed gravitational pull on each given"
+    } ]
+  }, {
+    "tStartMs": 402160,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "particle."
+    } ]
+  }, {
+    "tStartMs": 403120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But now you have a shortcut - when you calculate \nthe effect from distant locations, you don’t"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "do it for each particle - instead you do it\nfor all particles inside one of these cubes."
+    } ]
+  }, {
+    "tStartMs": 412880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The larger the distance, the larger the cube\nyou can use."
+    } ]
+  }, {
+    "tStartMs": 415760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Now this sounds like a complicated process,\nbut now the number of calculations you need"
+    } ]
+  }, {
+    "tStartMs": 419680,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "to do goes down from N^2 to N-times-log-N,\nwhich for large particle numbers is much,"
+    } ]
+  }, {
+    "tStartMs": 427200,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "much faster."
+    } ]
+  }, {
+    "tStartMs": 428320,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Another approach is the particle-mesh method, \nin which particles are converted into a density"
+    } ]
+  }, {
+    "tStartMs": 434400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "distribution and a gravitational \npotential across the grid."
+    } ]
+  }, {
+    "tStartMs": 437600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The force at each point can then be solved\nusing Fourier transform methods, which can"
+    } ]
+  }, {
+    "tStartMs": 442640,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "be very fast."
+    } ]
+  }, {
+    "tStartMs": 444800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Adaptive particle meshes can be used to add\nhigher resolution where needed - say, where"
+    } ]
+  }, {
+    "tStartMs": 450400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "the stars have higher density or structure."
+    } ]
+  }, {
+    "tStartMs": 453600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Modern mesh codes also do \nclassic particle-particle  "
+    } ]
+  }, {
+    "tStartMs": 457040,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "interactions at short ranges to improv accuracy"
+    } ]
+  }, {
+    "tStartMs": 460000,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "at small scales."
+    } ]
+  }, {
+    "tStartMs": 461280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "These mesh codes are useful for systems of\nparticles interacting under gravity."
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "But they also work for another really important \nastrophysical situation - flowing gas."
+    } ]
+  }, {
+    "tStartMs": 472400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "The universe started as an ocean of gas a\nfew hundred thousand years after the Big Bang."
+    } ]
+  }, {
+    "tStartMs": 477040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "That gas is still everywhere - it flows into\ngalaxies from beyond, where it rides the disk,"
+    } ]
+  }, {
+    "tStartMs": 482800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "fragments and collapses into stars, it forms "
+    } ]
+  }, {
+    "tStartMs": 485680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "whirlpools and jets around \nnew stars and black holes."
+    } ]
+  }, {
+    "tStartMs": 488800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "All of these processes are key parts of galaxy\nevolution and of star and planet formation,"
+    } ]
+  }, {
+    "tStartMs": 494320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and so we’d better be able to simulate this too."
+    } ]
+  }, {
+    "tStartMs": 497680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Now we call these hydrodynamic simulations\n- they simulate the flow of gas using the"
+    } ]
+  }, {
+    "tStartMs": 503760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "equations of fluid dynamics."
+    } ]
+  }, {
+    "tStartMs": 506480,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Particle-mesh approaches can do this, but these \ndays it’s more common to use an approach called"
+    } ]
+  }, {
+    "tStartMs": 511600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "smoothed-particle hydrodynamics or SPH."
+    } ]
+  }, {
+    "tStartMs": 515360,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "SPH codes don’t use a rigid grid, but rather they \ntrack tracer particles within the fluid - those"
+    } ]
+  }, {
+    "tStartMs": 522320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "particles effectively make up a constantly\nshifting grid."
+    } ]
+  }, {
+    "tStartMs": 525440,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "In astrophysics, SPH codes are used to simulate \nthe flows of gas in galaxies and around quasars,"
+    } ]
+  }, {
+    "tStartMs": 532080,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "used to simulate star and planet formation,  "
+    } ]
+  }, {
+    "tStartMs": 534560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and even star and planet destruction \nin collisions or supernovae."
+    } ]
+  }, {
+    "tStartMs": 538960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "SPH can even be used to do galaxy formation,  "
+    } ]
+  }, {
+    "tStartMs": 542160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "where the stars themselves are \ntreated as a type of fluid."
+    } ]
+  }, {
+    "tStartMs": 545440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "In practice, modern simulations often use\nan amalgam of these methods - for example"
+    } ]
+  }, {
+    "tStartMs": 551120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "SPH for large scale flows and particle-particle\nN-body for small-scale interactions."
+    } ]
+  }, {
+    "tStartMs": 557360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Astrophysicists often inject all sorts of\nother physics into their simulations."
+    } ]
+  }, {
+    "tStartMs": 562160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "In your galaxy simulation you might need a\nseparate prescription to describes how stars"
+    } ]
+  }, {
+    "tStartMs": 567520,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "age and die."
+    } ]
+  }, {
+    "tStartMs": 568880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "In your quasar disk  "
+    } ]
+  }, {
+    "tStartMs": 570560,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "you need to simulate separately how \nlight travels through the hot plasma."
+    } ]
+  }, {
+    "tStartMs": 574880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "And don’t get me started about the complexity \nof including magnetic fields, or of Einstein’s"
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "general relativity when the gravitational\nfield becomes very strong."
+    } ]
+  }, {
+    "tStartMs": 583360,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "With the techniques now available,  "
+    } ]
+  }, {
+    "tStartMs": 585200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "using parallelyzed code on \nmodern computing clusters, we can"
+    } ]
+  }, {
+    "tStartMs": 589760,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "produce some pretty insane simulations."
+    } ]
+  }, {
+    "tStartMs": 593360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "We can see how stars form in multitudes from \ncollapsing gas clouds, and how planets then"
+    } ]
+  }, {
+    "tStartMs": 599040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "coalesce in the disks surrounding those stars."
+    } ]
+  }, {
+    "tStartMs": 602480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "We can watch as galaxies form, with gas and\ndark matter interacting to produce waves of"
+    } ]
+  }, {
+    "tStartMs": 607840,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "star formation and supernovae, settling into\nspiral structures - just like we see in the"
+    } ]
+  }, {
+    "tStartMs": 613120,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "real universe."
+    } ]
+  }, {
+    "tStartMs": 614240,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "And then we have cosmological simulations \nwhich create entire virtual universes,"
+    } ]
+  }, {
+    "tStartMs": 620240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "from the moment the first \natoms formed to the modern day."
+    } ]
+  }, {
+    "tStartMs": 623680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "One of the most famous is \nthe Millennium simulation  "
+    } ]
+  }, {
+    "tStartMs": 626240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "from the Max-Planck institute in Germany."
+    } ]
+  }, {
+    "tStartMs": 628720,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "It simulated 13-billion light years wide cube\ncontaining over 300 billion particles, each"
+    } ]
+  }, {
+    "tStartMs": 635120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "representing a billion-Suns worth of dark\nmatter."
+    } ]
+  }, {
+    "tStartMs": 639440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "But the current largest cosmological simulations \nis AbacusSummit, which just last year simulated"
+    } ]
+  }, {
+    "tStartMs": 645680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "70 trillion particles on the supercomputers\nat the Center for Computational Astrophysics"
+    } ]
+  }, {
+    "tStartMs": 651280,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "in New York."
+    } ]
+  }, {
+    "tStartMs": 653120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So how far can all of this go?"
+    } ]
+  }, {
+    "tStartMs": 656000,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Can we ever simulate a real universe, in which\ncreatures evolve that can themselves simulate"
+    } ]
+  }, {
+    "tStartMs": 661840,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "universes?"
+    } ]
+  }, {
+    "tStartMs": 663440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "In fact, could we be such creatures?"
+    } ]
+  }, {
+    "tStartMs": 667040,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Probably not."
+    } ]
+  }, {
+    "tStartMs": 668320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "None of these simulations contain the full\ninformation of an actual universe - or even"
+    } ]
+  }, {
+    "tStartMs": 672240,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "a tiny part of it."
+    } ]
+  }, {
+    "tStartMs": 673200,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "As we discussed recently,  "
+    } ]
+  }, {
+    "tStartMs": 674560,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "a full quantum description of the world \ncontains unthinkably more information"
+    } ]
+  }, {
+    "tStartMs": 678320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "than is contained in a typical simulation, "
+    } ]
+  }, {
+    "tStartMs": 680640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "which just tracks particle \npositions and velocities."
+    } ]
+  }, {
+    "tStartMs": 683920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "No conceivable technology could \nfully simulate a quantum universe,  "
+    } ]
+  }, {
+    "tStartMs": 688560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "except perhaps a cosmically-sized"
+    } ]
+  }, {
+    "tStartMs": 691120,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "quantum computer."
+    } ]
+  }, {
+    "tStartMs": 692640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Which is kind of what the universe is anyway."
+    } ]
+  }, {
+    "tStartMs": 695920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "We’ve talked about this simulation hypothesis\nstuff before, and maybe we’ll come back"
+    } ]
+  }, {
+    "tStartMs": 700080,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "to it."
+    } ]
+  }, {
+    "tStartMs": 700400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "But for now let’s just be proud of the science\nthat we can get from modern simulations."
+    } ]
+  }, {
+    "tStartMs": 706000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Because we’ve come an awful long way since\nErik Holmberg pushed some light bulbs around"
+    } ]
+  }, {
+    "tStartMs": 710400,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "on his table."
+    } ]
+  }, {
+    "tStartMs": 711840,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And the fidelity and size of our simulations\nwill only get better as computing power continues"
+    } ]
+  }, {
+    "tStartMs": 717440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "its exponential growth, and as we \ninvent better and better algorithms."
+    } ]
+  }, {
+    "tStartMs": 721760,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Perhaps there’s no limit to what we can\nlearn about the outside universe by rebuilding"
+    } ]
+  }, {
+    "tStartMs": 727120,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "it inside our computers, and then \npeering into that simulated space time."
+    } ]
+  }, {
+    "tStartMs": 733600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Thank you to Wren for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 735920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Wren is a website where you calculate your\ncarbon footprint, then offset it by funding"
+    } ]
+  }, {
+    "tStartMs": 741040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "projects that plant trees, protect rainforests,\nand suck carbon from the sky."
+    } ]
+  }, {
+    "tStartMs": 745920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "By answering a few questions about your lifestyle, \nyou can find out your carbon footprint and"
+    } ]
+  }, {
+    "tStartMs": 750320,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "how you can reduce it."
+    } ]
+  }, {
+    "tStartMs": 752080,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "No one can reduce their carbon footprint to\nzero, so you can offset what you have left"
+    } ]
+  }, {
+    "tStartMs": 757120,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "after reducing."
+    } ]
+  }, {
+    "tStartMs": 758560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Subscribers receive monthly updates from the\ntree planting, rainforest protection, and"
+    } ]
+  }, {
+    "tStartMs": 763360,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "carbon removal projects they support."
+    } ]
+  }, {
+    "tStartMs": 766080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "You get to see the trees you planted, and\nwhat your money is spent on."
+    } ]
+  }, {
+    "tStartMs": 771040,
+    "dDurationMs": 14800,
+    "segs": [ {
+      "utf8": "You can learn more about Wren’s climate\nprojects at Wren.co"
+    } ]
+  } ]
+}

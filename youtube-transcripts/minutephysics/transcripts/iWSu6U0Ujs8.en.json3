@@ -1,0 +1,247 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1110,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Physics, at its most basic, is just a description\nof the motion of the stuff in our universe."
+    } ]
+  }, {
+    "tStartMs": 5540,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "“This planet goes this way, that rocket\ngoes that way” – except that some – in"
+    } ]
+  }, {
+    "tStartMs": 9830,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "fact, many – objects move without moving.\nOr, more precisely, they move without going"
+    } ]
+  }, {
+    "tStartMs": 14690,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "anywhere."
+    } ]
+  }, {
+    "tStartMs": 15690,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "I’m talking objects that spin, revolve,\nrotate, pirouette, orbit, circle, gyrate,"
+    } ]
+  }, {
+    "tStartMs": 20050,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "whirl, twirl, cartwheel, and so on. Like a\nplanet around a star, an electron in an atom,"
+    } ]
+  }, {
+    "tStartMs": 24620,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "or even our solar system going around the\ngravitational center of the milky way: from"
+    } ]
+  }, {
+    "tStartMs": 28470,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "up close they’re certainly moving, but in\nthe grand scheme of things, that motion doesn’t"
+    } ]
+  }, {
+    "tStartMs": 32980,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "take them anywhere."
+    } ]
+  }, {
+    "tStartMs": 33980,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "We can still talk about it, though: just like\n“momentum” is a concept that describes"
+    } ]
+  }, {
+    "tStartMs": 37410,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "how much oomph an object has when it moves\nin a straight line, “angular momentum”"
+    } ]
+  }, {
+    "tStartMs": 41160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "is a way to account for how much oomph objects\nhave when they’re going in circles – figuratively,"
+    } ]
+  }, {
+    "tStartMs": 45800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "or literally."
+    } ]
+  }, {
+    "tStartMs": 46800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And angular momentum is simple, in theory:\npick a point, any point. Pretend your object"
+    } ]
+  }, {
+    "tStartMs": 51360,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "is moving in a circle around that point. Figure\nout how fast the object is moving along the"
+    } ]
+  }, {
+    "tStartMs": 55470,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "circle (never mind that it probably isn’t\nmoving exactly along the circle, and that"
+    } ]
+  }, {
+    "tStartMs": 58790,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "the circle might have to change size over\ntime to follow the object), then multiply"
+    } ]
+  }, {
+    "tStartMs": 62500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "that speed times the size of the circle and\nthe object’s mass, and there you have it:"
+    } ]
+  }, {
+    "tStartMs": 66580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "angular momentum."
+    } ]
+  }, {
+    "tStartMs": 67580,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "For example, a 2 kilogram 60 cm-diameter bicycle\nwheel going 20 km per hour would have an angular"
+    } ]
+  }, {
+    "tStartMs": 73630,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "momentum of about 7 kilogram meters squared\nper second."
+    } ]
+  }, {
+    "tStartMs": 78550,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "The reason we care about angular momentum\nis that if you take a bunch of objects that"
+    } ]
+  }, {
+    "tStartMs": 81890,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "are interacting electromagnetically or gravitationally\nor whatever, and add up all of their angular"
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "momenta into one number, then that total value\nwon’t change over time (unless some other"
+    } ]
+  }, {
+    "tStartMs": 90940,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "objects from outside come in and mess things\nup)."
+    } ]
+  }, {
+    "tStartMs": 93299,
+    "dDurationMs": 5231,
+    "segs": [ {
+      "utf8": "So earth, which is 150 million kilometers\nfrom the sun, orbits at 30 km/s and has a"
+    } ]
+  }, {
+    "tStartMs": 98530,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "mass of 6*10^24 kilograms, has an angular\nmomentum of 2.7 * 10^40 kilogram meters squared"
+    } ]
+  }, {
+    "tStartMs": 105020,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "per second. That’s four thousand quintillion\nquintillion bicycle wheels! And this angular"
+    } ]
+  }, {
+    "tStartMs": 109940,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "momentum stays roughly constant over the course\nof the earth’s orbit year in and year out."
+    } ]
+  }, {
+    "tStartMs": 114810,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "But what’s amazing is that even if the sun\nand the rest of the solar system were to suddenly"
+    } ]
+  }, {
+    "tStartMs": 118300,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "disappear, the earth would STILL have that\nsame angular momentum about the point where"
+    } ]
+  }, {
+    "tStartMs": 122270,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the sun WAS. Without the sun’s gravity,\nthe earth would of course now move in a straight"
+    } ]
+  }, {
+    "tStartMs": 126670,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "line, requiring an ever-larger imaginary circle\nas it got farther from the point where the"
+    } ]
+  }, {
+    "tStartMs": 130670,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "sun used to be. But as the earth continued\nthrough space, its 30km/s velocity would also"
+    } ]
+  }, {
+    "tStartMs": 136090,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "point less and less along the circle, so when\nyou calculated the angular momentum, the decrease"
+    } ]
+  }, {
+    "tStartMs": 140980,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "in velocity would exactly cancel out the increase\nin the size of the circle, and you’d always"
+    } ]
+  }, {
+    "tStartMs": 145220,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "get the same answer. 2.7 * 10^40 kilogram\nmeters squared per second."
+    } ]
+  }, {
+    "tStartMs": 149920,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "So even when nothing is rotating at all, angular\nmomentum is still conserved. And that’s"
+    } ]
+  }, {
+    "tStartMs": 154090,
+    "dDurationMs": 41570,
+    "segs": [ {
+      "utf8": "the beauty of a law of physics – it works\neven when you try to break it!"
+    } ]
+  } ]
+}

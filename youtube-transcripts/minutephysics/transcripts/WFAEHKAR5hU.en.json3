@@ -1,0 +1,715 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 12599,
+    "dDurationMs": 4181,
+    "segs": [ {
+      "utf8": "I started this series saying that relativity\nis about understanding how things look from"
+    } ]
+  }, {
+    "tStartMs": 16780,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "different perspectives, and in particular,\nunderstanding what does and doesn't look different"
+    } ]
+  }, {
+    "tStartMs": 20750,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "from different perspectives."
+    } ]
+  }, {
+    "tStartMs": 21970,
+    "dDurationMs": 3809,
+    "segs": [ {
+      "utf8": "And at this point you'd be justified to feel\nlike we've kind of just trashed a bunch of"
+    } ]
+  }, {
+    "tStartMs": 25779,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "the foundational concepts of physical reality:\nwe've shown how our perceptions of lengths"
+    } ]
+  }, {
+    "tStartMs": 29529,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "and spatial distances, time intervals, the\nnotion of simultaneous events, and so on,"
+    } ]
+  }, {
+    "tStartMs": 34170,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "are not absolute: they're different when viewed\nfrom different moving perspectives, and so"
+    } ]
+  }, {
+    "tStartMs": 38660,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "aren't universal truths."
+    } ]
+  }, {
+    "tStartMs": 40670,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "And if we can't agree on the length of something,\nwhat can we agree on?"
+    } ]
+  }, {
+    "tStartMs": 44340,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "Anyway, the point is, this relativity thing\nso far kind of just feels like it's leaving"
+    } ]
+  }, {
+    "tStartMs": 48379,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "us hanging."
+    } ]
+  }, {
+    "tStartMs": 49379,
+    "dDurationMs": 3791,
+    "segs": [ {
+      "utf8": "I mean, all we've really got is the fact that\nthe speed of light in a vacuum is constant"
+    } ]
+  }, {
+    "tStartMs": 53170,
+    "dDurationMs": 4659,
+    "segs": [ {
+      "utf8": "from all perspectives – which, while it's\ntrue, doesn't feel nearly as helpful in describing"
+    } ]
+  }, {
+    "tStartMs": 57829,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "objects and events the way that lengths and\ntimes are."
+    } ]
+  }, {
+    "tStartMs": 61489,
+    "dDurationMs": 4931,
+    "segs": [ {
+      "utf8": "Luckily, there is a version of length and\ntime intervals that's the same from all moving"
+    } ]
+  }, {
+    "tStartMs": 66420,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "perspectives, the way the speed of light is."
+    } ]
+  }, {
+    "tStartMs": 68330,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "You know how if you have a stick that's 10\nmeters long and you rotate it slightly and"
+    } ]
+  }, {
+    "tStartMs": 71520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "measure its length, it won't be 10 meters\nlong in the x direction any more - it'll be"
+    } ]
+  }, {
+    "tStartMs": 75360,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "shorter?"
+    } ]
+  }, {
+    "tStartMs": 76360,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Now, if you know some math you'll tell me\nit's not actually shorter, and you can still"
+    } ]
+  }, {
+    "tStartMs": 79780,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "calculate its true length using the pythagorean\ntheorem as the square root of its horizontal"
+    } ]
+  }, {
+    "tStartMs": 83939,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "length squared plus its vertical length squared."
+    } ]
+  }, {
+    "tStartMs": 86780,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "And yes, this is the case."
+    } ]
+  }, {
+    "tStartMs": 88680,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "You can use the pythagorean theorem to calculate\nthe true length of the stick regardless of"
+    } ]
+  }, {
+    "tStartMs": 92600,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "how it's rotated."
+    } ]
+  }, {
+    "tStartMs": 93930,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "But you don't need to use the pythagorean\ntheorem at all - if you just rotate the stick"
+    } ]
+  }, {
+    "tStartMs": 97490,
+    "dDurationMs": 4449,
+    "segs": [ {
+      "utf8": "back so that it's a hundred percent lying\nin the x direction, then you just measure"
+    } ]
+  }, {
+    "tStartMs": 101939,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "it as 10 meters long and that's that."
+    } ]
+  }, {
+    "tStartMs": 104420,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "No pythagorean theorem necessary."
+    } ]
+  }, {
+    "tStartMs": 106560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "In some sense, this is what gives us justification\nto use the pythagorean theorem to calculate"
+    } ]
+  }, {
+    "tStartMs": 110840,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "the length of rotated things – sure, it's\nimportant that the pythagorean theorem always"
+    } ]
+  }, {
+    "tStartMs": 114810,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "gives the same answer regardless of the rotation,\nbut it's critical that it agrees with the"
+    } ]
+  }, {
+    "tStartMs": 119509,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "actual length we measure when the object isn't\nrotated."
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And it turns out there's a version of the\npythagorean theorem for lengths and times"
+    } ]
+  }, {
+    "tStartMs": 126250,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "in spacetime that allows us to measure the\ntrue lengths and durations of things - the"
+    } ]
+  }, {
+    "tStartMs": 130950,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "lengths and durations they have when they're\nnot rotated."
+    } ]
+  }, {
+    "tStartMs": 133720,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "Except, as you know from Lorentz transformations,\nrotations of spacetime correspond to changes"
+    } ]
+  }, {
+    "tStartMs": 138870,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "between moving perspectives, so true length\nand true duration in spacetime correspond"
+    } ]
+  }, {
+    "tStartMs": 143750,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "to the length and duration measured when the\nobject in question isn't moving - that is,"
+    } ]
+  }, {
+    "tStartMs": 148340,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "true length and true time are those measured\nfrom the perspective of the object in question."
+    } ]
+  }, {
+    "tStartMs": 153650,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "For example, suppose I'm not moving and I\nhave a lightbulb with me which I turn off"
+    } ]
+  }, {
+    "tStartMs": 157360,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "after four seconds."
+    } ]
+  }, {
+    "tStartMs": 158780,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "As we know, any perspective moving relative\nto me will say I left my lightbulb on for"
+    } ]
+  }, {
+    "tStartMs": 162640,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "more than four seconds – like, you, moving\na third the speed of light to my left, will"
+    } ]
+  }, {
+    "tStartMs": 166140,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "say I left it on for 4.24 seconds – that's\ntime dilation."
+    } ]
+  }, {
+    "tStartMs": 170430,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "However, this is where the spacetime pythagorean\ntheorem comes in – it's like the regular"
+    } ]
+  }, {
+    "tStartMs": 174540,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "pythagorean theorem, but where instead of\ntaking the square root of the sum of the squares"
+    } ]
+  }, {
+    "tStartMs": 178640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of the space and time intervals, you take\nthe square root of their difference (\\sqrt{\\Delta"
+    } ]
+  }, {
+    "tStartMs": 182400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "t^{2}-\\Delta x^{2}})."
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Now we need a quick aside here to talk about\nhow to add and subtract space and time intervals"
+    } ]
+  }, {
+    "tStartMs": 187210,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "from each other – I mean, one is in meters\nand the other seconds, so at first it seems"
+    } ]
+  }, {
+    "tStartMs": 191070,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "impossible to compare them to each other."
+    } ]
+  }, {
+    "tStartMs": 192730,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "But in our daily lives we directly compare\ndistances and times all the time – we say"
+    } ]
+  }, {
+    "tStartMs": 196980,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "that the grocery store is five minutes away,\neven though what we actually mean is that"
+    } ]
+  }, {
+    "tStartMs": 200570,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "it's 1 km away; it just takes us 5 minutes\nto bike 1 km, so we use that speed to convert"
+    } ]
+  }, {
+    "tStartMs": 205650,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "distance to time."
+    } ]
+  }, {
+    "tStartMs": 207100,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "In special relativity, however, we convert\nnot with bike speed but with light speed - that"
+    } ]
+  }, {
+    "tStartMs": 211870,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "is, how long it would take light to go a given\ndistance."
+    } ]
+  }, {
+    "tStartMs": 214880,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "For example, light goes roughly 300 million\nmeters in one second, so a light-second is"
+    } ]
+  }, {
+    "tStartMs": 219750,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "a way to compare one second of time with one\nmeter (and second is WAAAAAAY bigger!)."
+    } ]
+  }, {
+    "tStartMs": 224970,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So, back in our example situation, where from\nmy not-moving perspective I had my lightbulb"
+    } ]
+  }, {
+    "tStartMs": 228490,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "on for 4 seconds - from your perspective it\nwas on for 4.24 seconds before I turned it"
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "off, in which time I had traveled 1.4 light-seconds\nto your right."
+    } ]
+  }, {
+    "tStartMs": 237510,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "And the spacetime version of the pythagorean\ntheorem simply tells you to square the time,"
+    } ]
+  }, {
+    "tStartMs": 242010,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "subtract the square of the distance (measured\nusing light-seconds), and take the square"
+    } ]
+  }, {
+    "tStartMs": 245120,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "root of the whole thing."
+    } ]
+  }, {
+    "tStartMs": 246840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Voilá - 4 seconds!"
+    } ]
+  }, {
+    "tStartMs": 250680,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "We used observations from your perspective\nto successfully calculate the true duration"
+    } ]
+  }, {
+    "tStartMs": 255850,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "I had my light on - the duration that I, not\nmoving, experienced."
+    } ]
+  }, {
+    "tStartMs": 260209,
+    "dDurationMs": 2251,
+    "segs": [ {
+      "utf8": "And it works for any moving reference frame."
+    } ]
+  }, {
+    "tStartMs": 262460,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Here, from a perspective in which I'm moving\n60\\% the speed of light to the right, I left"
+    } ]
+  }, {
+    "tStartMs": 266650,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "my lightbulb on for 5 seconds, during which\ntime I moved 3 light seconds to the right."
+    } ]
+  }, {
+    "tStartMs": 271710,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Square the time, subtract the distance squared,\ntake the square root, and again, we've got"
+    } ]
+  }, {
+    "tStartMs": 275970,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "4 seconds: the true, proper duration of time\nfor which my lightbulb was on."
+    } ]
+  }, {
+    "tStartMs": 281590,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "This all works similarly for true, proper\nlengths, too: here are two boxes that spontaneously"
+    } ]
+  }, {
+    "tStartMs": 285930,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "combust 1200 million meters apart – at least,\nit's 1200 million meters from my perspective,"
+    } ]
+  }, {
+    "tStartMs": 290970,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "in which the boxes aren't moving."
+    } ]
+  }, {
+    "tStartMs": 292750,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "From your perspective, in which the boxes\nand I are moving a third the speed of light"
+    } ]
+  }, {
+    "tStartMs": 296130,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "to the right, the distance between the combusting\nboxes is now 1273 million meters, and the"
+    } ]
+  }, {
+    "tStartMs": 301160,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "time between when they spontaneously combust\nis now 1.41 seconds, which converts, using"
+    } ]
+  }, {
+    "tStartMs": 307120,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "the speed of light, to 425 million meters."
+    } ]
+  }, {
+    "tStartMs": 309800,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "We're again ready for the spacetime pythagorean\ntheorem: square the distance, subtract the"
+    } ]
+  }, {
+    "tStartMs": 314810,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "square of the time (measured in light-meters),\nand take the square root of the whole thing"
+    } ]
+  }, {
+    "tStartMs": 318720,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "to get..."
+    } ]
+  }, {
+    "tStartMs": 319720,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "you guessed it, 1200 million meters."
+    } ]
+  }, {
+    "tStartMs": 321910,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Specifically, what we just did was use Lorentz-transformed\nobservations from your perspective to calculate"
+    } ]
+  }, {
+    "tStartMs": 327560,
+    "dDurationMs": 3009,
+    "segs": [ {
+      "utf8": "the true distance between the boxes from their\n(and my) perspective."
+    } ]
+  }, {
+    "tStartMs": 330569,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "And it would work from any other moving perspective,\ntoo."
+    } ]
+  }, {
+    "tStartMs": 334500,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "The bottom line is that in special relativity,\nwhile distances and time intervals are different"
+    } ]
+  }, {
+    "tStartMs": 339240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "from different perspectives, there is still\nan absolute sense of the true length and true"
+    } ]
+  }, {
+    "tStartMs": 343560,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "duration of things that's the same from everyone's\nperspective: anyone can take the distances"
+    } ]
+  }, {
+    "tStartMs": 348330,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "and times as measured from their perspective\nand use the spacetime pythagorean theorem"
+    } ]
+  }, {
+    "tStartMs": 353150,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "to calculate the distance and time experienced\nby the thing whose distance or time you're"
+    } ]
+  }, {
+    "tStartMs": 357730,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "talking about."
+    } ]
+  }, {
+    "tStartMs": 358730,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Perhaps it should be called “egalitarian\ndistance” and “egalitarian time”."
+    } ]
+  }, {
+    "tStartMs": 359730,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "But sadly no, these true distances and times\nare typically called “proper length” and"
+    } ]
+  }, {
+    "tStartMs": 362740,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "“proper time”."
+    } ]
+  }, {
+    "tStartMs": 364050,
+    "dDurationMs": 4619,
+    "segs": [ {
+      "utf8": "And the spacetime pythagorean theorem, because\nit combines intervals in space and time together,"
+    } ]
+  }, {
+    "tStartMs": 368669,
+    "dDurationMs": 3561,
+    "segs": [ {
+      "utf8": "has the incredibly creative name “spacetime\ninterval”."
+    } ]
+  }, {
+    "tStartMs": 372230,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "But don't let that get you down: spacetime\nintervals allow us to be self-centered and"
+    } ]
+  }, {
+    "tStartMs": 376300,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "lazy!"
+    } ]
+  }, {
+    "tStartMs": 377610,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Spacetime intervals allow fast-moving people\nto understand what life is like from our own,"
+    } ]
+  }, {
+    "tStartMs": 382620,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "non-moving perspectives."
+    } ]
+  }, {
+    "tStartMs": 385680,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "The astute among you may have noticed that\nthere was some funny business going on regarding"
+    } ]
+  }, {
+    "tStartMs": 389550,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "whether or not we subtracted distance from\ntime or time from distance - the short story"
+    } ]
+  }, {
+    "tStartMs": 394860,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "is that it just depends on whether you're\ndealing with a proper length or a proper time."
+    } ]
+  }, {
+    "tStartMs": 399139,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "The long story is an age-old debate about\nwhat's called “the signature of the metric”."
+    } ]
+  }, {
+    "tStartMs": 403870,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "And if you want practice using proper time\nand spacetime intervals to understand real-world"
+    } ]
+  }, {
+    "tStartMs": 407800,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "problems, I highly recommend Brilliant.org's\ncourse on special relativity."
+    } ]
+  }, {
+    "tStartMs": 412070,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "There, you can apply the ideas from this video\nto scenarios in the natural world where special"
+    } ]
+  }, {
+    "tStartMs": 416390,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "relativity really affects outcomes, like the\napparently paradoxical survival of cosmic"
+    } ]
+  }, {
+    "tStartMs": 420810,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "ray muons streaming through Earth's atmosphere."
+    } ]
+  }, {
+    "tStartMs": 423620,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The special relativity questions on Brilliant.org\nare specifically designed to help you go deeper"
+    } ]
+  }, {
+    "tStartMs": 427760,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "on the topics I'm including in this series,\nand you can get 20% off of a Brilliant subscription"
+    } ]
+  }, {
+    "tStartMs": 432190,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "by going to Brilliant.org/minutephysics."
+    } ]
+  }, {
+    "tStartMs": 434260,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "Again, that's Brilliant.org/minutephysics\nwhich gets you 20% off premium access to all"
+    } ]
+  }, {
+    "tStartMs": 438889,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "of Brilliant's courses and puzzles, and lets\nBrilliant know you came from here."
+    } ]
+  } ]
+}

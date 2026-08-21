@@ -1,0 +1,265 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 450,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Shh..."
+    } ]
+  }, {
+    "tStartMs": 1450,
+    "dDurationMs": 5609,
+    "segs": [ {
+      "utf8": "I've snuck into minutephysics' studio to explain\nhow a wing actually works"
+    } ]
+  }, {
+    "tStartMs": 7059,
+    "dDurationMs": 3141,
+    "segs": [ {
+      "utf8": "Hang on, something doesn't feel right."
+    } ]
+  }, {
+    "tStartMs": 10200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Ah, that's better."
+    } ]
+  }, {
+    "tStartMs": 13120,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Now everyone knows that a wing generates lift\ndue to its characteristic shape"
+    } ]
+  }, {
+    "tStartMs": 17590,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Since air travels farther over top of the\nwing, it must go faster than the air underneath"
+    } ]
+  }, {
+    "tStartMs": 22040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "so that both streams meet up simultaneously\nat the trailing edge"
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "And according to Bernoulli's principle, faster\nflowing air exerts less pressure than the"
+    } ]
+  }, {
+    "tStartMs": 30230,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "slower air beneath the wing\nThis pressure difference creates an upward"
+    } ]
+  }, {
+    "tStartMs": 33890,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "force -- lift."
+    } ]
+  }, {
+    "tStartMs": 35620,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Job done."
+    } ]
+  }, {
+    "tStartMs": 36710,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 37710,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Nope\nThis simple explanation taught in many textbooks"
+    } ]
+  }, {
+    "tStartMs": 40620,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "and classrooms has obvious problems\nLike how could a plane fly upside down?"
+    } ]
+  }, {
+    "tStartMs": 45430,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "Some planes like the Wright brothers' had\nnearly flat wings."
+    } ]
+  }, {
+    "tStartMs": 48810,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So presumably air would travel the same speed\nover both sides and there would be no lift"
+    } ]
+  }, {
+    "tStartMs": 53130,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Plus experiments show that air streams don't\nmeet up at the back of the wing."
+    } ]
+  }, {
+    "tStartMs": 57290,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Air over the top goes significantly faster,\nreaching the trailing edge first."
+    } ]
+  }, {
+    "tStartMs": 61250,
+    "dDurationMs": 3309,
+    "segs": [ {
+      "utf8": "So how does a wing actually generate lift?"
+    } ]
+  }, {
+    "tStartMs": 64559,
+    "dDurationMs": 3151,
+    "segs": [ {
+      "utf8": "Well the key is the wing must deflect air\ndownwards"
+    } ]
+  }, {
+    "tStartMs": 67710,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "This can be achieved using asymmetric or cambered\nair foils"
+    } ]
+  }, {
+    "tStartMs": 71210,
+    "dDurationMs": 4609,
+    "segs": [ {
+      "utf8": "Or by increasing the angle of attack\nAir under the wing is deflected down"
+    } ]
+  }, {
+    "tStartMs": 75819,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "And by the coanda effect\nair above the wing is guided along its surface"
+    } ]
+  }, {
+    "tStartMs": 79399,
+    "dDurationMs": 3691,
+    "segs": [ {
+      "utf8": "and down as well\nSince the air is slowed and deflected down"
+    } ]
+  }, {
+    "tStartMs": 83090,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "by the wing,\nit pushes the wing up and back."
+    } ]
+  }, {
+    "tStartMs": 86459,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Lift, and drag."
+    } ]
+  }, {
+    "tStartMs": 88469,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "This is in accordance with Newton's Third\nLaw of Motion"
+    } ]
+  }, {
+    "tStartMs": 90939,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "But hang on, if you can explain lift only\nusing the deflection of air and Newton's laws,"
+    } ]
+  }, {
+    "tStartMs": 96310,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "then the Bernoulli explanation must be completely\nwrong"
+    } ]
+  }, {
+    "tStartMs": 98509,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Well, no,\nair over the top of the wing does go faster"
+    } ]
+  }, {
+    "tStartMs": 102859,
+    "dDurationMs": 2731,
+    "segs": [ {
+      "utf8": "than air beneath, creating a pressure difference\nthat generates lift"
+    } ]
+  }, {
+    "tStartMs": 105590,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "Then this Newtonian explanation is unnecessary\nrubbish and the original explanation was right!"
+    } ]
+  }, {
+    "tStartMs": 111229,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "That's not true either."
+    } ]
+  }, {
+    "tStartMs": 112329,
+    "dDurationMs": 5051,
+    "segs": [ {
+      "utf8": "The original explanation incorrectly assumed\nthat air over and under the wing must reconnect"
+    } ]
+  }, {
+    "tStartMs": 117380,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "at the trailing edge, and there was no mention\nof deflecting air down."
+    } ]
+  }, {
+    "tStartMs": 121040,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "Each explanation, done correctly, completely\naccounts for the lift generated by a wing."
+    } ]
+  }, {
+    "tStartMs": 125999,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "They're just two different ways of looking\nat the same thing."
+    } ]
+  }, {
+    "tStartMs": 128840,
+    "dDurationMs": 4509,
+    "segs": [ {
+      "utf8": "So next time someone brings up the standard\nmisconception, you can tell them that explanation"
+    } ]
+  }, {
+    "tStartMs": 133349,
+    "dDurationMs": 3411,
+    "segs": [ {
+      "utf8": "just doesn't fly."
+    } ]
+  }, {
+    "tStartMs": 136760,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "And if you liked that, you've gotta check\nout MinutePhysics."
+    } ]
+  }, {
+    "tStartMs": 139250,
+    "dDurationMs": 3489,
+    "segs": [ {
+      "utf8": "I've got total respect for a guy who does\nthis every week."
+    } ]
+  }, {
+    "tStartMs": 142739,
+    "dDurationMs": 15310,
+    "segs": [ {
+      "utf8": "Sincerely, a collection of particles known\nas Derek."
+    } ]
+  } ]
+}

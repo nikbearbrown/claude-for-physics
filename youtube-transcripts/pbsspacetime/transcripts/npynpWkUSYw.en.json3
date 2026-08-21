@@ -1,0 +1,1261 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "Superconductive materials seem miraculous.\nTheir resistanceless flow of electricity has"
+    } ]
+  }, {
+    "tStartMs": 6900,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "been exploited in some powerful ways—like for \nsuper-strong magnets used in MRIs, particle"
+    } ]
+  }, {
+    "tStartMs": 12360,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "accelerators and fusion plants. And then there’s,\ntheir bizarre ability to levitate in magnetic"
+    } ]
+  }, {
+    "tStartMs": 18420,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "fields. But the broader use of superconductors\nis limited because they need to be cooled"
+    } ]
+  }, {
+    "tStartMs": 24240,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "to extremely low temperatures to work. But\nwhat if we could produce superconductivity"
+    } ]
+  }, {
+    "tStartMs": 30120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "at room temperature? It would change the world."
+    } ]
+  }, {
+    "tStartMs": 39600,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Recently there has been a flurry of activity\naround the material known as LK-99. A group"
+    } ]
+  }, {
+    "tStartMs": 46080,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "of researchers claimed to have discovered\na phenomenon as coveted as cold fusion, perpetual"
+    } ]
+  }, {
+    "tStartMs": 52020,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "motion machines, and decent frozen pizza.\nThey claim it exhibits superconductivity"
+    } ]
+  }, {
+    "tStartMs": 57720,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "at room temperature. Now a superconductive \nmaterial has zero electrical resistance, but it"
+    } ]
+  }, {
+    "tStartMs": 64920,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "normally requires extremely low temperatures\nto work. A room temperature superconductor would"
+    } ]
+  }, {
+    "tStartMs": 70500,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "have incredible implications. Levitating cars\non magnetic highways, super powerful magnets"
+    } ]
+  }, {
+    "tStartMs": 76740,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "in every-day applications, and overclocking\nyour computer to ridiculous degrees without"
+    } ]
+  }, {
+    "tStartMs": 81180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "melting it and that’s just off the top\nof my head."
+    } ]
+  }, {
+    "tStartMs": 84660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Sadly, LK-99 did not turn \nout to be a room-temperature "
+    } ]
+  }, {
+    "tStartMs": 88860,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "superconductor. It was sort of faking it."
+    } ]
+  }, {
+    "tStartMs": 91980,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "But does that mean the dream is dead? How\nplausible is room-temperature superconductivity?"
+    } ]
+  }, {
+    "tStartMs": 97380,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "How did LK-99 managed to mimic the phenomenon\nwell enough to trick its research team?"
+    } ]
+  }, {
+    "tStartMs": 104700,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Now we talked about the underlying phenomenon \nbehind superconductivity when we talked about"
+    } ]
+  }, {
+    "tStartMs": 111060,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "quasi-particles and Bose-Einstein condensates,\nbut we never got to the really cool stuff,"
+    } ]
+  }, {
+    "tStartMs": 116460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "so it’s worth a deeper dive \ninto superconductivity. "
+    } ]
+  }, {
+    "tStartMs": 121140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But before even that, let’s remind ourselves"
+    } ]
+  }, {
+    "tStartMs": 123540,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "about regular, non-super conductivity.\nSo a conductor is just a material in which"
+    } ]
+  }, {
+    "tStartMs": 129660,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "some of the electrons are free to move. Normally\nwe think of electrons as being bound into"
+    } ]
+  }, {
+    "tStartMs": 134220,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "their atomic orbitals. Sometimes the outer\nshell electrons are shared between atoms in"
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "molecular bonds. In conductors, there are\neither extra outer-shell electrons or electron"
+    } ]
+  }, {
+    "tStartMs": 146040,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "holes that can jump pretty freely between "
+    } ]
+  }, {
+    "tStartMs": 148620,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "adjacent atoms. Add a charge \nor voltage differential"
+    } ]
+  }, {
+    "tStartMs": 152580,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "across the coxnductor and a stream of electric\ncharge—a current—will flow."
+    } ]
+  }, {
+    "tStartMs": 157560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "In a regular conductor, current doesn’t\nflow completely freely. The conduction electrons"
+    } ]
+  }, {
+    "tStartMs": 163800,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "can interact with each other, or with the\nnon-conducting layers of electrons. All that"
+    } ]
+  }, {
+    "tStartMs": 168780,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "bumping around manifests as heat—atoms begin \njiggling, electrons move randomly. This"
+    } ]
+  }, {
+    "tStartMs": 176160,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "saps energy from the current and results in\nresistance. In fact, the hotter the material"
+    } ]
+  }, {
+    "tStartMs": 181320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "gets the higher the resistance because the\nrandom motion inhibits a nice smooth flow"
+    } ]
+  }, {
+    "tStartMs": 187320,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "of electrons."
+    } ]
+  }, {
+    "tStartMs": 188820,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "And cooling a conductor decreases resistance.\nIt might be reasonable, then, to wonder how"
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "low resistance can get. For example, if you \nget to zero temperature—zero jiggling—do you"
+    } ]
+  }, {
+    "tStartMs": 200640,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "get zero resistance. The universe rarely satisfies\nour most simplistic extrapolations. Except"
+    } ]
+  }, {
+    "tStartMs": 208440,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "in this case—near-zero \nresistance IS possible—although "
+    } ]
+  }, {
+    "tStartMs": 212700,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "it’s not for simple reasons."
+    } ]
+  }, {
+    "tStartMs": 214860,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "In 1911, the Dutch physicist Heike Kamerlingh\nOnnes followed exactly this intuition. He"
+    } ]
+  }, {
+    "tStartMs": 220980,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "managed to cool a wire or mercury below 4.2K\n- roughly the temperature of deep space. At"
+    } ]
+  }, {
+    "tStartMs": 227280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "that temperature all resistance in the mercury\nwire vanished. This was the first observation"
+    } ]
+  }, {
+    "tStartMs": 232800,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "of superconductivity. Onnes also discovered\nsuperfluidity in helium on the way to making"
+    } ]
+  }, {
+    "tStartMs": 239340,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "temperatures low enough for superconductivity,\nand scored a Nobel prize for his foundational"
+    } ]
+  }, {
+    "tStartMs": 244080,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "work in low temperature physics."
+    } ]
+  }, {
+    "tStartMs": 246960,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "Superconductivity and superfluidity are closely\nrelated—both enable resistantless or frictionless"
+    } ]
+  }, {
+    "tStartMs": 254520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "flow. And they can lead to cool things\nlike permanent vortices—whether physical"
+    } ]
+  }, {
+    "tStartMs": 259560,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "whirlpools in superfluids or permanent electrical\neddies in superconductors."
+    } ]
+  }, {
+    "tStartMs": 263700,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "Zero electrical resistance by itself is quite\nnice, but it’s not as flashy as the fact"
+    } ]
+  }, {
+    "tStartMs": 270600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "that superconductors can make things fly. "
+    } ]
+  }, {
+    "tStartMs": 274080,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Well, can make them hover. \nFast forward to 1933. Lots of"
+    } ]
+  }, {
+    "tStartMs": 279300,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "people were messing around with this fun new\nphysics toy, including Walther Meißner and"
+    } ]
+  }, {
+    "tStartMs": 284700,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Robert Ochsenfeld. They were the first to\nmake a superconductor float above a magnet."
+    } ]
+  }, {
+    "tStartMs": 290400,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "This is the Meissner-Ochsenfeld effect, or\nmore commonly just the Meissner effect - sorry"
+    } ]
+  }, {
+    "tStartMs": 296700,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "Robert."
+    } ]
+  }, {
+    "tStartMs": 297000,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "OK, so what’s really happening here? We\ncan predict what’ll happen to a superconductor"
+    } ]
+  }, {
+    "tStartMs": 302940,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "inside a magnetic field if we know just a\nfew things: 1) electric currents generate"
+    } ]
+  }, {
+    "tStartMs": 309720,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "magnetic fields 2) magnetic fields also cause\nelectric currents and 3) the electric current"
+    } ]
+  }, {
+    "tStartMs": 317160,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "caused by magnetic field will itself generate\nanother magnetic field that works to counteract"
+    } ]
+  }, {
+    "tStartMs": 323340,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "the original field."
+    } ]
+  }, {
+    "tStartMs": 324480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "If you apply a magnetic field across a normal\nmaterial, the induced electric current will"
+    } ]
+  }, {
+    "tStartMs": 329880,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "somewhat counteract that field, but\nthere’s a limit because the resistance of"
+    } ]
+  }, {
+    "tStartMs": 334980,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "the material will limit the strength of the\ninduced electric current."
+    } ]
+  }, {
+    "tStartMs": 338700,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "But if you apply a magnetic field across a\nmedium with no resistance, the induced electric"
+    } ]
+  }, {
+    "tStartMs": 344400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "current can get strong enough to completely\ncancel out the initial magnetic field. In"
+    } ]
+  }, {
+    "tStartMs": 349920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "fact, all free electrons in the superconductor\nwill quickly spiral along the magnetic field"
+    } ]
+  }, {
+    "tStartMs": 355320,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "lines and set up vortices of current at the\nsurface—persistent currents. Those little"
+    } ]
+  }, {
+    "tStartMs": 361740,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "current loops don’t take any energy to maintain. \nThey act like little electromagnets that"
+    } ]
+  }, {
+    "tStartMs": 366960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "exactly cancel the incoming magnetic field "
+    } ]
+  }, {
+    "tStartMs": 369240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "within the material and we \ncall these shielding currents."
+    } ]
+  }, {
+    "tStartMs": 373920,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "OK, so far so good. But why all the floating?\nWell, push together the same pole of a pair"
+    } ]
+  }, {
+    "tStartMs": 381240,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "of bar magnets and they’ll repel, and we\ncan think of the surface of the superconductor"
+    } ]
+  }, {
+    "tStartMs": 386340,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "as being layered with electromagnets. Another\nway to think about it is that the magnetic"
+    } ]
+  }, {
+    "tStartMs": 391080,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "field lines expelled from the superconductor\npile up on the outside, causing an intense"
+    } ]
+  }, {
+    "tStartMs": 396420,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "magnetic pressure."
+    } ]
+  }, {
+    "tStartMs": 397260,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "This effect is nicely described by the London\nequations, figured out by the German brothers"
+    } ]
+  }, {
+    "tStartMs": 403320,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "Fritz and Heinz London in 1935. They found\nthat in a material with zero resistance, magnetic"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "field had to exponentially decay inside it.\nThese guys were able to explain the Meissner"
+    } ]
+  }, {
+    "tStartMs": 416400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "effect based on the assumption of perfect\nconductivity, without having any idea why"
+    } ]
+  }, {
+    "tStartMs": 421440,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "superconductors have no resistance."
+    } ]
+  }, {
+    "tStartMs": 423420,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "One other subtle assumption in the London\nbrothers’ theory is that the system should be in"
+    } ]
+  }, {
+    "tStartMs": 429900,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "an equilibrium state. They figured out how\nthings should look after the electrons finish"
+    } ]
+  }, {
+    "tStartMs": 435180,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "rearranging themselves into whatever final\nconfiguration of currents the magnetic field"
+    } ]
+  }, {
+    "tStartMs": 440580,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "induced. They took time out of the equation.\nThe next advance was made by putting it back"
+    } ]
+  }, {
+    "tStartMs": 448500,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "in. In particular, by \nthinking about the transition "
+    } ]
+  }, {
+    "tStartMs": 451920,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "into and out of the superconducting state."
+    } ]
+  }, {
+    "tStartMs": 454500,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "That change is what we call \na phase transition—closely "
+    } ]
+  }, {
+    "tStartMs": 458160,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "related to the more familiar state transitions"
+    } ]
+  }, {
+    "tStartMs": 460680,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "between solids, liquids and gases. Russian\nphysicists Vitaly Ginzburg and Lev Landau"
+    } ]
+  }, {
+    "tStartMs": 466500,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "realised that there are certain general rules\nthat all systems undergoing a phase transition"
+    } ]
+  }, {
+    "tStartMs": 472200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "have to obey, even if we still don’t know\nthe actual nature of the post-transition state."
+    } ]
+  }, {
+    "tStartMs": 477840,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "So, in 1950, still not knowing what caused\nsuperconductivity, we got the Ginzburg-Landau"
+    } ]
+  }, {
+    "tStartMs": 484500,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "theory. This new mathematical description\nof superconductivity predicted everything"
+    } ]
+  }, {
+    "tStartMs": 489300,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "that the London theory predicted, but also\nsome new weird stuff. And this new way"
+    } ]
+  }, {
+    "tStartMs": 494820,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "of looking at superconductors yielded another\nNobel prize, shared between a few contributors."
+    } ]
+  }, {
+    "tStartMs": 499920,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "To start with, they predicted that there are\ntwo types of superconductor that behave very"
+    } ]
+  }, {
+    "tStartMs": 504900,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "differently around the phase transition. For\nregular states of matter, the phase transition"
+    } ]
+  }, {
+    "tStartMs": 510240,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "point depends on both \ntemperature and pressure—water "
+    } ]
+  }, {
+    "tStartMs": 513300,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "boils at a lower temperature on a mountain"
+    } ]
+  }, {
+    "tStartMs": 515880,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "top. But the phase transition \npoint into superconductivity "
+    } ]
+  }, {
+    "tStartMs": 519660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "depends on temperature, pressure AND magnetic"
+    } ]
+  }, {
+    "tStartMs": 523200,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "field. They have to be below a certain critical\ntemperature, above a critical pressure, and"
+    } ]
+  }, {
+    "tStartMs": 529620,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "below a critical magnetic field. The old London\ntheory allowed any amount of magnetic field"
+    } ]
+  }, {
+    "tStartMs": 536040,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "to be expelled by the superconductor, but\nthe new Ginzberg-Landau theory said that if"
+    } ]
+  }, {
+    "tStartMs": 541920,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "the field gets too strong then superconductivity\nwill break down. And fair enough—any material"
+    } ]
+  }, {
+    "tStartMs": 548880,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "only has so many free electrons, so there’s\na limit to the strength of the shielding current."
+    } ]
+  }, {
+    "tStartMs": 553500,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "With this new understanding came the prediction\nof brand new superconductor behaviours. For"
+    } ]
+  }, {
+    "tStartMs": 559440,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "example, that there should be two broad types\nof superconductor—Type I and Type II."
+    } ]
+  }, {
+    "tStartMs": 563880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Type 1s are the delicate \nsnowflakes of superconductor "
+    } ]
+  }, {
+    "tStartMs": 567960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "world. If you put one in a magnetic field"
+    } ]
+  }, {
+    "tStartMs": 570960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and crank the field just a tiny bit over the "
+    } ]
+  }, {
+    "tStartMs": 573600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "critical value for that \nmaterial, its superconductivity"
+    } ]
+  }, {
+    "tStartMs": 576240,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "will vanish almost entirely and instantaneously.\nType IIs on the other hand are stubborn and"
+    } ]
+  }, {
+    "tStartMs": 583260,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "have trouble letting go of the past. When\nyou crank their magnetic field beyond the"
+    } ]
+  }, {
+    "tStartMs": 587460,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "critical value they cling to some of their\nsuperconductivity by entering an intermediate"
+    } ]
+  }, {
+    "tStartMs": 592200,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "state called a vortex state. Remember the\nvortices of electrons that made up the shield"
+    } ]
+  }, {
+    "tStartMs": 598500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "current on the surface of a superconductor? These  "
+    } ]
+  }, {
+    "tStartMs": 601800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "descend into the material again, \nthreaded by growing magnetic"
+    } ]
+  }, {
+    "tStartMs": 605640,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "field lines. This leads to a \ncool new phenomenon called flux "
+    } ]
+  }, {
+    "tStartMs": 610560,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "pinning."
+    } ]
+  }, {
+    "tStartMs": 612120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "In this vortex state, the magnetic field can "
+    } ]
+  }, {
+    "tStartMs": 615240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "penetrate the material, \nbut only in very restricted"
+    } ]
+  }, {
+    "tStartMs": 618600,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "ways because it has to line up the vortices\nwithin the material. A superconductor in a"
+    } ]
+  }, {
+    "tStartMs": 624300,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "vortex state will both levitate and be fixed\nin a particular orientation in a magnetic"
+    } ]
+  }, {
+    "tStartMs": 630240,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "field, as if suspended by wire in an art gallery."
+    } ]
+  }, {
+    "tStartMs": 634440,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "It’s worth taking a second to appreciate\nthat all of these insights and predictions"
+    } ]
+  }, {
+    "tStartMs": 639420,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "about the behaviour of superconductors came\nwithout knowing why superconductivity happens"
+    } ]
+  }, {
+    "tStartMs": 643980,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "in the first place. They came from thinking\nabout how the universe must behave in order"
+    } ]
+  }, {
+    "tStartMs": 650400,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "to be internally consistent. But I guess that\nsort of describes all of physics. It’s incredible"
+    } ]
+  }, {
+    "tStartMs": 655740,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "how far we can get by just insisting that\nthe universe behave itself."
+    } ]
+  }, {
+    "tStartMs": 660720,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "But still, it sure would be nice to know how\nconductivity actually gets super. Because"
+    } ]
+  }, {
+    "tStartMs": 667560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "if we know that maybe we can figure out whether\nroom temperature versions are possible."
+    } ]
+  }, {
+    "tStartMs": 674220,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "And if you watched our quasi-particle episode\nyou may remember the answer, but let me give"
+    } ]
+  }, {
+    "tStartMs": 679920,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "you a refresher. So we’re now in 1957— John \nBardeen, Leon Cooper, and John Robert Schrieffer"
+    } ]
+  }, {
+    "tStartMs": 687660,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "came along and changed everything. Together\nthese three developed what is now known as"
+    } ]
+  }, {
+    "tStartMs": 693360,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "the BCS theory of superconductivity, for which \nthey won the 1972 Nobel prize and if you weren’t"
+    } ]
+  }, {
+    "tStartMs": 699780,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "counting, this is the 3rd superconductor-related\nNobel."
+    } ]
+  }, {
+    "tStartMs": 704040,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "Remember that resistance is caused by electrons\nbeing jostled out of a nice streamline flow—random"
+    } ]
+  }, {
+    "tStartMs": 710580,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "collisions leading to exchanges of energy.\nSuperconductors are in a strange state that"
+    } ]
+  }, {
+    "tStartMs": 718140,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "makes those energy exchanges impossible. As\nthe material is cooled down, traveling electrons"
+    } ]
+  }, {
+    "tStartMs": 724980,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "set up these patterns of oscillations in the\nnuclei of the material’s crystal lattice."
+    } ]
+  }, {
+    "tStartMs": 730920,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "The electrons sort of ride these waves in\npairs—what we call Cooper pairs. Now electrons"
+    } ]
+  }, {
+    "tStartMs": 737340,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "are of the Fermion particle type which means\nno two electrons can occupy the same quantum"
+    } ]
+  }, {
+    "tStartMs": 742260,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "state. That type is determined \nby the electron spin—any "
+    } ]
+  }, {
+    "tStartMs": 746640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "half-integer spin particles is a Fermion,"
+    } ]
+  }, {
+    "tStartMs": 749040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "so that covers the spin-half electrons"
+    } ]
+  }, {
+    "tStartMs": 752520,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "But Cooper pairs typically have spins of 0\nor one: ½ + ½ or ½ - ½, which makes"
+    } ]
+  }, {
+    "tStartMs": 759540,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "them Bosons, and bosons behave very differently\nto fermions. Any number of bosons can occupy"
+    } ]
+  }, {
+    "tStartMs": 766020,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "the same quantum state. So our material\ngets cold enough and these coherent oscillations"
+    } ]
+  }, {
+    "tStartMs": 771840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "allow Cooper pairs to form,  "
+    } ]
+  }, {
+    "tStartMs": 774540,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "all of the Cooper pairs drop down \nto the lowest energy level. Now from"
+    } ]
+  }, {
+    "tStartMs": 779940,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "there it should be possible \nto excite a Cooper pair back  "
+    } ]
+  }, {
+    "tStartMs": 782820,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "up to a higher energy state through a collision."
+    } ]
+  }, {
+    "tStartMs": 785940,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "But in a cold material, collisions aren’t\nenergetic enough to allow that transition."
+    } ]
+  }, {
+    "tStartMs": 792060,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "In quantum mechanics you can’t excite a\nparticle only halfway to a new energy state—it is"
+    } ]
+  }, {
+    "tStartMs": 797640,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "all or nothing. In the case of the superconductors\nit’s nothing. No excitations are possible,"
+    } ]
+  }, {
+    "tStartMs": 804720,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "so no collisions happen. Hence,\nno resistance."
+    } ]
+  }, {
+    "tStartMs": 808740,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "So finally we understand how superconductors\nbehave, and why they behave that way. Maybe"
+    } ]
+  }, {
+    "tStartMs": 815160,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "we can figure out whether room temperature\nsuperconductors are even possible. At first"
+    } ]
+  }, {
+    "tStartMs": 820140,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "glance it doesn’t look good. Coldness seems\nnecessary to get electrons into a Bose-Einstein"
+    } ]
+  }, {
+    "tStartMs": 827220,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "condensate of Cooper pairs and to avoid knocking\nthem out of that state. And for a while it"
+    } ]
+  }, {
+    "tStartMs": 833100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "was thought that superconductivity could only\noccur in pretty extreme cold."
+    } ]
+  }, {
+    "tStartMs": 837300,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "But then in 1986 a couple of IBM researchers,\nGeorg Bednorz and K. Alex Müller , managed"
+    } ]
+  }, {
+    "tStartMs": 844320,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "to create superconductivity in a ceramic material\nat 35 Kelvin, and others soon managed to get"
+    } ]
+  }, {
+    "tStartMs": 852060,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "the critical temperature up to 93K. That was\na game-changer because it meant superconductivity"
+    } ]
+  }, {
+    "tStartMs": 858240,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "could be produced using liquid nitrogen rather\nthan liquid helium—a much cheaper option"
+    } ]
+  }, {
+    "tStartMs": 863760,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "that opened up the technology to industrial\nuse. Bednorz and Muller got the Nobel for"
+    } ]
+  }, {
+    "tStartMs": 870540,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "their demonstration of the newly emerging\nfield of high-temperature superconductivity."
+    } ]
+  }, {
+    "tStartMs": 875520,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "And we've actully stopped counting superconductor \nnobel prizes and this wasn't even the last."
+    } ]
+  }, {
+    "tStartMs": 881700,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "We’ve now managed to induce superconductivity\nin exotic ceramics with temperatures as high"
+    } ]
+  }, {
+    "tStartMs": 888060,
+    "dDurationMs": 8700,
+    "segs": [ {
+      "utf8": "as 133 K — and higher still for materials under \nextreme pressure. But this is way colder than"
+    } ]
+  }, {
+    "tStartMs": 896760,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "the room temperature superconductivity claimed\nby the recent result, so it still requires"
+    } ]
+  }, {
+    "tStartMs": 902460,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "expensive and cumbersome cooling apparatus.\nSo is room temperature superconductivity"
+    } ]
+  }, {
+    "tStartMs": 908400,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "possible? We don’t actually know, because\nwe don’t fully understand how any high-temperature"
+    } ]
+  }, {
+    "tStartMs": 915000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "superconductivity works."
+    } ]
+  }, {
+    "tStartMs": 916500,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It’s certainly not quite as simple as Cooper\npairs riding waves of oscillating nuclei."
+    } ]
+  }, {
+    "tStartMs": 921960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "For example, a common class of high temperature\nsuperconductor involves thin layers of copper"
+    } ]
+  }, {
+    "tStartMs": 927840,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "oxides interspersed with other materials that\nprovide free electrons. There are different"
+    } ]
+  }, {
+    "tStartMs": 933120,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "stories for how the Cooper pairs form, and\na single mechanism hasn’t been settled on yet."
+    } ]
+  }, {
+    "tStartMs": 939540,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "That means it’s very difficult to know the\nmaximum temperature for which superconductivity"
+    } ]
+  }, {
+    "tStartMs": 944820,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "is possible."
+    } ]
+  }, {
+    "tStartMs": 945540,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "OK, so you and I now know quite \na lot about superconductors.  "
+    } ]
+  }, {
+    "tStartMs": 948960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Maybe it’s time to debunk the recent claim of"
+    } ]
+  }, {
+    "tStartMs": 952440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "this phenomenom in LK99.  "
+    } ]
+  }, {
+    "tStartMs": 955380,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So the team claimed a massive\ndrop in resistance below a temperature of"
+    } ]
+  }, {
+    "tStartMs": 960060,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "127 Celsius —so actually quite a \nbit hotter than room temperature.  "
+    } ]
+  }, {
+    "tStartMs": 965160,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And the material also appeared to partially"
+    } ]
+  }, {
+    "tStartMs": 967620,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "levitate in a magnetic field. But since then,\na number of teams have synthesized the same"
+    } ]
+  }, {
+    "tStartMs": 973740,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "material and report no \nevidence of superconductivity. "
+    } ]
+  }, {
+    "tStartMs": 978120,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Speculations about why the original team thought"
+    } ]
+  }, {
+    "tStartMs": 981360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "otherwise include—that their sample had "
+    } ]
+  }, {
+    "tStartMs": 984000,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "an impurity that made it just very \nconductive (regular conductive),"
+    } ]
+  }, {
+    "tStartMs": 988920,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but not superconductive.  "
+    } ]
+  }, {
+    "tStartMs": 991320,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "And that the levitation was probably just \nregular ferromagnetism, not the Meissner"
+    } ]
+  }, {
+    "tStartMs": 997200,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "effect. Not that the original researchers\nshould be criticized for this—they found"
+    } ]
+  }, {
+    "tStartMs": 1003260,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "something cool and reported it. If anyone\nis to blame for the hysteria it’s the media,"
+    } ]
+  }, {
+    "tStartMs": 1009200,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "who went crazy for a paper that hadn’t even\nbeen peer reviewed. But overall this was a"
+    } ]
+  }, {
+    "tStartMs": 1015440,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "good thing, because it gave us a change to "
+    } ]
+  }, {
+    "tStartMs": 1017780,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "talk about superconductivity— \nwhich is surely one of the"
+    } ]
+  }, {
+    "tStartMs": 1021200,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "coolest-no pun-phenomena in our generally\nphenomenal space time."
+    } ]
+  }, {
+    "tStartMs": 1026780,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Hey Everyone. We wanted to let you know about our \nPatreon. It’s an incredibly helpful way to support  "
+    } ]
+  }, {
+    "tStartMs": 1031940,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "this show and ensure our survival long-term. If \nyou join there’s lots of amazing perks including  "
+    } ]
+  }, {
+    "tStartMs": 1037400,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "monthly Q\u0026A livestreams, access to episode \nscripts, and even a private chat with me depending  "
+    } ]
+  }, {
+    "tStartMs": 1042740,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "on level. And every level includes access to \nour discord where you can interact with other  "
+    } ]
+  }, {
+    "tStartMs": 1047720,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "community members 24/7. Another way to support \nthe show is by visiting our merch store where  "
+    } ]
+  }, {
+    "tStartMs": 1054140,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "you can score some sweet Space Time swag. And as \nalways, subscribing, hitting the bell notification  "
+    } ]
+  }, {
+    "tStartMs": 1059540,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "and joining the early gang when new episodes \ndrop is a great way to support the community."
+    } ]
+  } ]
+}

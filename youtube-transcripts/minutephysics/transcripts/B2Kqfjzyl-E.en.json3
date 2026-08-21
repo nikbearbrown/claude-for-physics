@@ -1,0 +1,25 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 840,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Radio Detection And Ranging (RADAR) works by broadcasting radio waves out and then detecting reflections off of objects."
+    } ]
+  }, {
+    "tStartMs": 6360,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "The time it takes the signal to return tells us the distance, and the Doppler shift tells how fast the object is moving relative to us."
+    } ]
+  } ]
+}

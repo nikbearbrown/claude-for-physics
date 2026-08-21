@@ -1,0 +1,607 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Draining the oceans is hard. Like normally when \npeople talk about draining the oceans, they  "
+    } ]
+  }, {
+    "tStartMs": 5440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "mean what would happen if sea level were lowered \neverywhere equally, like what we're showing here,  "
+    } ]
+  }, {
+    "tStartMs": 9600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "which is what would happen if you emptied the \noceans by, say, evaporating them. But draining  "
+    } ]
+  }, {
+    "tStartMs": 13760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "doesn't work like that. The ocean has topography. \nSo even if you put your drain in the deepest part  "
+    } ]
+  }, {
+    "tStartMs": 17680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "of the ocean, eventually some of the water, \nactually a lot of it, will get cut off from  "
+    } ]
+  }, {
+    "tStartMs": 21120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the drain and stick around as landlock seas. This \nwould be a total headache. You'll have to build  "
+    } ]
+  }, {
+    "tStartMs": 25360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "new drains or dig giant ditches or mop up the \nseas with giant sponges or something. And it's  "
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "tricky to figure out where the new drains would \neven go. Which areas become landlocked is hard  "
+    } ]
+  }, {
+    "tStartMs": 34320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to figure out because a erosion might wear away \nsome of the land during the draining process and  "
+    } ]
+  }, {
+    "tStartMs": 38480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "therefore partially or fully drain some otherwise \nlandlocked seas. And b even if you ignore erosion,  "
+    } ]
+  }, {
+    "tStartMs": 43280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "it's hard to figure out if any given point will \nbe underwater or not because draining a basin is  "
+    } ]
+  }, {
+    "tStartMs": 47280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "in general a non-local phenomenon. Let me explain. \nIf you have a seafloor whose elevation is always  "
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "either constant or increasing as you go away from \nthe drain, then whether or not a given location  "
+    } ]
+  }, {
+    "tStartMs": 56560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "is underwater is easy to figure out. You just look \nat the height of the location and compare it with  "
+    } ]
+  }, {
+    "tStartMs": 60240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the water level. If it's lower than the level of \nthe water, then it's underwater. If it's higher,  "
+    } ]
+  }, {
+    "tStartMs": 63840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "then it's dry because the water has a path to \nflow all the way downhill to the drain or the  "
+    } ]
+  }, {
+    "tStartMs": 67520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "sea. We call this a local phenomenon since what's \nhappening at any given point just depends on the  "
+    } ]
+  }, {
+    "tStartMs": 72080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "situation at that point. In this case, the local \nelevation. Emptying the oceans by evaporation is  "
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "also local since the water level everywhere \nwill be the same and you can just compare the  "
+    } ]
+  }, {
+    "tStartMs": 80240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "elevation of any given location with the water \nlevel at that location. That's how we made the  "
+    } ]
+  }, {
+    "tStartMs": 83920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "evaporating oceans map. take an elevation map \nof the ocean and check each pixel to see if  "
+    } ]
+  }, {
+    "tStartMs": 87760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "it's above the water level, in which case we show \nthe map, or below it, in which case we color the  "
+    } ]
+  }, {
+    "tStartMs": 91840,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "pixel blue. But draining real oceans with a drain \nis more complicated. Whether or not water escapes  "
+    } ]
+  }, {
+    "tStartMs": 96720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "from a given location depends on whether or not \nthere's a path for water to travel between that  "
+    } ]
+  }, {
+    "tStartMs": 100080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "location and the drain. And that drainage path \ncould be circuitous and travel far away from  "
+    } ]
+  }, {
+    "tStartMs": 103840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "both the location and the drain itself, which is \nthe case for lots of real world rivers. In 2D,  "
+    } ]
+  }, {
+    "tStartMs": 108400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "draining realistic looking oceans is still pretty \neasy, even if it's non-local. You just check if  "
+    } ]
+  }, {
+    "tStartMs": 112880,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "every point between the location and the drain \nis below the height of that location. If so, then  "
+    } ]
+  }, {
+    "tStartMs": 116560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "voila, water can drain from that location. And \nif not, if there's a high point between a given  "
+    } ]
+  }, {
+    "tStartMs": 120640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "location and the drain, then you have a landlocked \nbasin. We call this a non-local phenomenon because  "
+    } ]
+  }, {
+    "tStartMs": 125360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "what's happening at any given point depends \nnot just on the situation at that point, but  "
+    } ]
+  }, {
+    "tStartMs": 128800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "also what's going on elsewhere. In 3D, draining \noceans is more complicated because even if there  "
+    } ]
+  }, {
+    "tStartMs": 133360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "are mountains all around you, all it takes is \none path that has no high point between your  "
+    } ]
+  }, {
+    "tStartMs": 137120,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "location and the drain to drain your location. \nAnd there are essentially infinite possible paths  "
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "you'd have to check to know for sure you're in a \nlandlocked sea. But we can use a clever trick that  "
+    } ]
+  }, {
+    "tStartMs": 144640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "doesn't require separately checking all paths. If \nyou're interested in puzzles, now is the time to  "
+    } ]
+  }, {
+    "tStartMs": 148480,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "pause the video and see if you can figure it out. \nOkay, here comes the solution in 3 2 1. The trick  "
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "is to realize that in 3D filling is easier than \ndraining. There are efficient flooding algorithms  "
+    } ]
+  }, {
+    "tStartMs": 159120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "which are essentially the same as the magic wand \nor paint bucket tool in image editing software  "
+    } ]
+  }, {
+    "tStartMs": 162720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "that allow you to select or fill up to a certain \ndepth. They work by starting with an initial point  "
+    } ]
+  }, {
+    "tStartMs": 166560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "instead of a drain. Think of it like a water \nspigot and flooding outwards by comparing the  "
+    } ]
+  }, {
+    "tStartMs": 169840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "colors or height in our case at neighboring points \nand filling them in and keeping going as long  "
+    } ]
+  }, {
+    "tStartMs": 173680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "as the height or color difference stays within a \ngiven amount called the threshold of the height of  "
+    } ]
+  }, {
+    "tStartMs": 177360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the initial point. Once the threshold is passed, \nthe algorithm stops expanding in that direction  "
+    } ]
+  }, {
+    "tStartMs": 181200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and any points that you've reached are considered \nflooded or filled. There's a whole field of  "
+    } ]
+  }, {
+    "tStartMs": 184880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "physics and math called percolation theory that \nyou can get into just by pondering the paint  "
+    } ]
+  }, {
+    "tStartMs": 188400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "bucket tool. But anyway, if you keep flooding or \npaint bucketing with higher and higher thresholds,  "
+    } ]
+  }, {
+    "tStartMs": 192400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "i.e. higher water levels, then eventually you'll \nfill in landlocked areas as well as regular  "
+    } ]
+  }, {
+    "tStartMs": 196640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "seafloor. But there's a big difference in how they \nget covered with water since landlock sees fill  "
+    } ]
+  }, {
+    "tStartMs": 200320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "all at once when the water level gets high enough \nto flood into the basin, while regular seafloor  "
+    } ]
+  }, {
+    "tStartMs": 203920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "is just gradually covered up as the water level \nrises. One way to visualize basins is to look at  "
+    } ]
+  }, {
+    "tStartMs": 208240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "just the new area that gets flooded each time you \nincrease the water level. I think this time lapse  "
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "is mesmerizing and is reminiscent of bacterial \ngrowth or the spread of wildfire or disease or  "
+    } ]
+  }, {
+    "tStartMs": 216240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "something. The big flashes are the basins getting \nfilled in. By comparing the water level necessary  "
+    } ]
+  }, {
+    "tStartMs": 220880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "to inundate a location for the first time with \nthe elevation of that location, you can find what  "
+    } ]
+  }, {
+    "tStartMs": 224960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "points are in landlocked seas. If the elevation \nof the location is equal to the water level that  "
+    } ]
+  }, {
+    "tStartMs": 229280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "inundates it, it's not landlocked. While if the \nelevation of the location is below the necessary  "
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "water level, it must have been landlocked. And \nthat necessary water level is the water level of  "
+    } ]
+  }, {
+    "tStartMs": 236960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the landlocked sea that would form there, ignoring \nerosion. Once you've completely flooded everything  "
+    } ]
+  }, {
+    "tStartMs": 241280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and found all the landlocked seas, you can play \nthe flooding in reverse, but keep the landlock  "
+    } ]
+  }, {
+    "tStartMs": 245280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "seas. And voila, you have successfully drained the \noceans. There are a few subtleties here. For one,  "
+    } ]
+  }, {
+    "tStartMs": 250080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the world is a sphere, not a rectangle. So, you \nhave to allow the flooding, aka the paint bucket  "
+    } ]
+  }, {
+    "tStartMs": 253920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "tool, to extend around from one side of the map to \nthe other. Second, the elevation map needs to be  "
+    } ]
+  }, {
+    "tStartMs": 258080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "sufficiently high resolution to account for narrow \ndrainage paths. Like, if we try to fill the oceans  "
+    } ]
+  }, {
+    "tStartMs": 262160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "at too low of a resolution, the Mediterranean and \nBlack Seas don't flood. Using a higher resolution  "
+    } ]
+  }, {
+    "tStartMs": 267040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "allows the paint bucket tool to pass through the \nstraight of Jibralar and the Turkish straits. And  "
+    } ]
+  }, {
+    "tStartMs": 270880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "third, it's surprisingly hard to get a good \ndepth map of the real oceans. In part because  "
+    } ]
+  }, {
+    "tStartMs": 274800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "ocean depths are less important than land-based \nelevations, so accurate maps aren't as highly  "
+    } ]
+  }, {
+    "tStartMs": 278320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "prioritized. And in part because ocean depths are \nway harder to measure. There are large swats of  "
+    } ]
+  }, {
+    "tStartMs": 282720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the ocean whose depths we don't know about in \nmuch detail at all. But if you can get a good  "
+    } ]
+  }, {
+    "tStartMs": 286800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "ocean depth map, and remember that the Earth is \na sphere, the best way to chart the drained ocean  "
+    } ]
+  }, {
+    "tStartMs": 291120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and landlock seas is this. Start in reverse, \nmapping out what would happen if you filled the  "
+    } ]
+  }, {
+    "tStartMs": 295120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "ocean up by plugging the drain and flooding it \nfrom that location. Any point that gets covered  "
+    } ]
+  }, {
+    "tStartMs": 298880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "with water for the first time when the water level \nreaches the same elevation as that point will  "
+    } ]
+  }, {
+    "tStartMs": 302640,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "always drain to the drain. But if a point first \nbecomes covered with water only after the water  "
+    } ]
+  }, {
+    "tStartMs": 306560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "is already higher than that point, then that point \nis in a landlocked sea. And now you know where to  "
+    } ]
+  }, {
+    "tStartMs": 311200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "put the secondary drains so that when you pull \nthe plugs, the ocean will finally be fully Wait,  "
+    } ]
+  }, {
+    "tStartMs": 316240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "there are new landlock seas that appeared inside \nthe previously landlocked seas when we drained  "
+    } ]
+  }, {
+    "tStartMs": 320560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "them. I give up. If someone actually drains \nthe oceans tomorrow, you'll certainly hear  "
+    } ]
+  }, {
+    "tStartMs": 326080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "about it on the news with some outlets reporting \noceans drained due to human activity. One human,  "
+    } ]
+  }, {
+    "tStartMs": 330880,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "his name is Randall, and others saying oceans may \nor may not be drained, but if so, it's part of  "
+    } ]
+  }, {
+    "tStartMs": 335440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Earth's natural ocean draining cycle. And yet \nothers with headlines like what is an ocean?  "
+    } ]
+  }, {
+    "tStartMs": 340320,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "No one knows. If any of that happens, you'll want \nto use Ground News, this video's sponsor, to help  "
+    } ]
+  }, {
+    "tStartMs": 345200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "battle your news over stimulation and understand \nhow news coverage differs across different parts  "
+    } ]
+  }, {
+    "tStartMs": 349840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of our actual reality spectrum. In my personal \nlife, I often open up the Fox News homepage just  "
+    } ]
+  }, {
+    "tStartMs": 354800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to have a sense of how things are being reported \nthere and what news stories they're making a big  "
+    } ]
+  }, {
+    "tStartMs": 358640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "or little deal out of compared to my normal news \nsources, which are not Fox News. Because, as you  "
+    } ]
+  }, {
+    "tStartMs": 363360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "can see with Ground News's factuality ratings, Fox \nhas mixed factual reliability, and I'd rather get  "
+    } ]
+  }, {
+    "tStartMs": 368080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "my news from places with high factual reliability. \nGround News's blind spot feature also highlights  "
+    } ]
+  }, {
+    "tStartMs": 373280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "what news is or isn't being reported across \ndifferent news sources, like how this recent  "
+    } ]
+  }, {
+    "tStartMs": 377600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "article about a large iceberg off Antarctica \nisn't being covered much by left-leaning US  "
+    } ]
+  }, {
+    "tStartMs": 381760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "media. Perhaps because they're biased against \nicebergs, or perhaps because they've decided they  "
+    } ]
+  }, {
+    "tStartMs": 385520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "have other more pressing things to report on. And \nGround News's factuality and ownership tools help  "
+    } ]
+  }, {
+    "tStartMs": 389520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "you know how accurate a news source tends to be \nand who owns it, and therefore who has a stake in  "
+    } ]
+  }, {
+    "tStartMs": 393680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "how the news is reported. Go to ground.news/phy \nnews/phy and get 40% off unlimited access to  "
+    } ]
+  }, {
+    "tStartMs": 398800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Ground News's coverage and features. And thanks \nto Ground News for supporting Minute Physics.  "
+    } ]
+  }, {
+    "tStartMs": 402720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "PS. If you were hoping that this video would have \nmore real world detail, you're in luck. This video  "
+    } ]
+  }, {
+    "tStartMs": 406880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "is the direct result of me creating some of the \nvisuals for XKCD's what if videos. What if you  "
+    } ]
+  }, {
+    "tStartMs": 411120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "drained the oceans and what if we teleported \nthe ocean to Mars? Definitely go check them"
+    } ]
+  } ]
+}

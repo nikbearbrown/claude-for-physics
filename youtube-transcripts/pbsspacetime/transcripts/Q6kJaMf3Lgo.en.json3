@@ -1,0 +1,1165 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "One of my favorite fictional astrophysics catastrophe scenarios is the sun being consumed by a black hole. "
+    } ]
+  }, {
+    "tStartMs": 6000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Fortunately, the chance of a black hole randomly wandering \ninto our solar system is pretty tiny. That’s  "
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "good news. But what if it’s already here, hiding \nin the core of the Sun and slowly eating it from  "
+    } ]
+  }, {
+    "tStartMs": 18360,
+    "dDurationMs": 1426,
+    "segs": [ {
+      "utf8": "the inside out?"
+    } ]
+  }, {
+    "tStartMs": 25080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Once upon a time we really did think there \njust might be a black hole in the heart of  "
+    } ]
+  }, {
+    "tStartMs": 29600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "the Sun. And by “we” I mean a small handful \nof scientists that, at least for a minute,  "
+    } ]
+  }, {
+    "tStartMs": 35680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "included Stephen Hawking. In a 1971 paper, \nHawking pointed out that we wouldn’t even  "
+    } ]
+  }, {
+    "tStartMs": 41360,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "know if the Sun was hiding a black hole with \na mass of up to 10^14 kg. Sounds unlikely  "
+    } ]
+  }, {
+    "tStartMs": 48320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "given that black holes are supposed to have \nmasses at least 20 trillion times larger,  "
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "or a few times larger than our Sun. But in \nthat same 1971 paper Hawking also alerted  "
+    } ]
+  }, {
+    "tStartMs": 59560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "us to the possibility that countless much \nsmaller black holes might have been created  "
+    } ]
+  }, {
+    "tStartMs": 64080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "in the very early universe—what we now \ncall primordial black holes—which we’ve  "
+    } ]
+  }, {
+    "tStartMs": 68280,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "discussed on multiple occasions. So what if \none of those somehow ended up inside the Sun?"
+    } ]
+  }, {
+    "tStartMs": 75920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Today we’re going to talk about whether \nor not our Sun, or indeed any star,  "
+    } ]
+  }, {
+    "tStartMs": 79840,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "might harbor a captured primordial black \nhole—what this would do to the star, how we  "
+    } ]
+  }, {
+    "tStartMs": 84960,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "might figure out its presence, and why this could \ntell us the nature of dark matter, of all things."
+    } ]
+  }, {
+    "tStartMs": 92200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "First up, let’s talk about why Hawking’s \nidle speculation captured the imagination  "
+    } ]
+  }, {
+    "tStartMs": 96680,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "of a number of astrophysicists. It’s \nbecause a black hole in the sun’s core  "
+    } ]
+  }, {
+    "tStartMs": 102080,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "offered a solution to a major conundrum about \nour star’s behavior. By the the middle of the last centruy we thought  "
+    } ]
+  }, {
+    "tStartMs": 108720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "we understood the fusion reactions that power \nthe Sun very well—under the temperatures and  "
+    } ]
+  }, {
+    "tStartMs": 114040,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "pressures that we knew must exist in the Sun’s \ncore, hydrogen should fuse into helium at just  "
+    } ]
+  }, {
+    "tStartMs": 119280,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "the right rate to produce the amount of energy needed to \npower the Sun. Those reactions must also spray a  "
+    } ]
+  }, {
+    "tStartMs": 126280,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "ludicrous number of neutrinos out into space, \nand checking that the Sun was blasting out  "
+    } ]
+  }, {
+    "tStartMs": 131880,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "the right number of neutrinos was to be our nail in the coffin \nconfirmation of our model of the Sun’s interior."
+    } ]
+  }, {
+    "tStartMs": 139320,
+    "dDurationMs": 4764,
+    "segs": [ {
+      "utf8": "The first neutrino detectors \ncame online in the mid 60s,  "
+    } ]
+  }, {
+    "tStartMs": 144084,
+    "dDurationMs": 6196,
+    "segs": [ {
+      "utf8": "but the number of neutrinos came up short—by a \nlot. Only about a third of the expected number  "
+    } ]
+  }, {
+    "tStartMs": 150280,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "of neutrinos were observed. This was the solar \nneutrino problem. One proposed solution was  "
+    } ]
+  }, {
+    "tStartMs": 157160,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "that the Sun does not generate all its energy \nthrough fusion—perhaps some of its radiation  "
+    } ]
+  }, {
+    "tStartMs": 162680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "came from a non-neutrino-producing source. \nThen a few years later came Hawking’s idea  "
+    } ]
+  }, {
+    "tStartMs": 168520,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "of black holes inside stars, and with it \na potential new power source for the Sun."
+    } ]
+  }, {
+    "tStartMs": 173220,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Now you might think that a black hole would suck \nenergy out of a star rather than provide energy,  "
+    } ]
+  }, {
+    "tStartMs": 178520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "but that’s not the case. Black holes \nare actually at the hearts of the most  "
+    } ]
+  }, {
+    "tStartMs": 182680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "efficient engines in the entire universe. \nWhile matter and energy that crosses a black  "
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "hole event horizon is lost forever, matter \napproaching the black hole can reach speeds  "
+    } ]
+  }, {
+    "tStartMs": 193080,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "close to the speed of light. This results \nin crazy friction between infalling streams  "
+    } ]
+  }, {
+    "tStartMs": 197840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "and correspondingly crazy temperatures. So a \nfeeding black hole glows bright. For example,  "
+    } ]
+  }, {
+    "tStartMs": 204240,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "quasars—powered by truly vast black holes in a \nfeeding frenzy—these are among the brightest objects  "
+    } ]
+  }, {
+    "tStartMs": 210520,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "in the universe. A black hole in the heart of the \nSun would gobble up some of the matter, but plenty  "
+    } ]
+  }, {
+    "tStartMs": 217880,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "more would be blasted outwards as radiation. That \nway the Sun wouldn’t need to be fusing nearly as  "
+    } ]
+  }, {
+    "tStartMs": 225240,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "much hydrogen to reach its energy output, and \nso also wouldn’t produce as many neutrinos."
+    } ]
+  }, {
+    "tStartMs": 230720,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Cool idea, except then we figured out \nthe real reason for the solar neutrino  "
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "problem. It turns out the Sun is producing \nexactly as many neutrinos as we predicted—we  "
+    } ]
+  }, {
+    "tStartMs": 242320,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "just weren’t detecting all of them. Neutrinos \noscillate between their three different types,  "
+    } ]
+  }, {
+    "tStartMs": 247560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and our detectors were only sensitive to one \nof those types. With neutrinos accounted for,  "
+    } ]
+  }, {
+    "tStartMs": 252920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "the black hole engine was no longer needed."
+    } ]
+  }, {
+    "tStartMs": 255960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "OK, that sounds like good news. But \nthere’s still the nagging issue that  "
+    } ]
+  }, {
+    "tStartMs": 259840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "if primordial black holes exist they \ncould still end up inside stars and  "
+    } ]
+  }, {
+    "tStartMs": 264800,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "we would never know it. And in the \ndecades following Hawking’s paper,  "
+    } ]
+  }, {
+    "tStartMs": 269080,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "we only found more and more motivations \nfor primordial black holes really existing."
+    } ]
+  }, {
+    "tStartMs": 275160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Let me talk about those motivations real quick \nbefore we get to the meat of black holes inside  "
+    } ]
+  }, {
+    "tStartMs": 279720,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "stars. The first is another big conundrum like the \nsolar neutrino problem—except this one hasn’t been  "
+    } ]
+  }, {
+    "tStartMs": 287080,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "solved yet. It’s dark matter. Most of the mass in \nthe universe is something completely invisible,  "
+    } ]
+  }, {
+    "tStartMs": 293360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and while the mainstream idea is that dark \nmatter is some kind of undiscovered particle,  "
+    } ]
+  }, {
+    "tStartMs": 297880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "it’s also possible that it’s lots and lots of \nprimordial black holes. This isn’t a new idea,  "
+    } ]
+  }, {
+    "tStartMs": 302760,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "and in fact we’ve managed to rule out most of \nthe mass ranges at which these PBHs could account  "
+    } ]
+  }, {
+    "tStartMs": 309360,
+    "dDurationMs": 9640,
+    "segs": [ {
+      "utf8": "for dark matter. But t here is a mass window \nremaining—PHBs with masses of 10^14-10^20 kg,  "
+    } ]
+  }, {
+    "tStartMs": 319000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "or a medium to largish asteroid, \naren’t ruled out by observations,  "
+    } ]
+  }, {
+    "tStartMs": 324040,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "and so might account for dark matter. And if \ndark matter is made of PBHs then the black holes would need to  "
+    } ]
+  }, {
+    "tStartMs": 331840,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "exist in such enormous numbers that it’s not \ncrazy that some would end up inside stars."
+    } ]
+  }, {
+    "tStartMs": 338120,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "The other motivating factor is gravitational \nwaves. We’ve now observed 100s mergers of  "
+    } ]
+  }, {
+    "tStartMs": 343520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "black holes by the tiny ripples in the fabric of \nspacetime generated in the last second of their  "
+    } ]
+  }, {
+    "tStartMs": 348560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "inspiral. These mergers were probably of black \nholes created in the deaths of massive stars,  "
+    } ]
+  }, {
+    "tStartMs": 353880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "but there are some niggling inconsistencies \nwith the sort of black holes we expect from  "
+    } ]
+  }, {
+    "tStartMs": 358760,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "stellar deaths that might be explained if some of \nthese mergers are instead primordial black holes."
+    } ]
+  }, {
+    "tStartMs": 365640,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "OK, so there’s some frankly pretty tenuous reasons \nto think there might be lots of primordial black  "
+    } ]
+  }, {
+    "tStartMs": 370400,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "holes out there. But the implications of one \nof them getting into the Sun are pretty fun,  "
+    } ]
+  }, {
+    "tStartMs": 376800,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "so let’s dig into it. In fact, two papers appeared \non the arXiv this week that do the digging for us.  "
+    } ]
+  }, {
+    "tStartMs": 383320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "They’re by the same team, with the first led \nby Earl Bellinger at Yale and the Max Planck  "
+    } ]
+  }, {
+    "tStartMs": 388120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "institute and the second by Matt Caplan \nat Illinois State. Now full disclosure—Matt  "
+    } ]
+  }, {
+    "tStartMs": 393800,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "co-wrote this episode with me—all the \ngood parts probably. He’s worked with us a bunch  "
+    } ]
+  }, {
+    "tStartMs": 399360,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "in the past on a range of topics, and I really \nwanted to shout out his team’s awesome idea."
+    } ]
+  }, {
+    "tStartMs": 405440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So both papers contain new state \nof the art simulations of Sun-like  "
+    } ]
+  }, {
+    "tStartMs": 408960,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "stars that capture primordial \nblack holes during formation,  "
+    } ]
+  }, {
+    "tStartMs": 412520,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and follow their evolution all the way through \nsome pretty unique life phases until they’re  "
+    } ]
+  }, {
+    "tStartMs": 417120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "ultimately swallowed by their black holes. \nThey refer to these black-hole-harboring stars  "
+    } ]
+  }, {
+    "tStartMs": 422560,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "as Hawking stars after the guy who first \nset us down this crazy line of reasoning."
+    } ]
+  }, {
+    "tStartMs": 428200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The evolution of stars without black holes \nhas been well understood for many decades.  "
+    } ]
+  }, {
+    "tStartMs": 433160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "A giant cloud of gas collapses under its \nown gravity until the core reaches a high  "
+    } ]
+  }, {
+    "tStartMs": 438760,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "enough pressure and temperature to fuse \nhydrogen into helium. The star is born,  "
+    } ]
+  }, {
+    "tStartMs": 444320,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "and that core self-regulates to fuse somewhat \nconsistently for billions of years. Once the fuel  "
+    } ]
+  }, {
+    "tStartMs": 450280,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "for that fusion is used up the star goes through \na series of death-throes. For a Sun-like star that  "
+    } ]
+  }, {
+    "tStartMs": 455920,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "means puffing up to red giant then entering \na helium-fusing stage then ripping itself to  "
+    } ]
+  }, {
+    "tStartMs": 461080,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "pieces by overdoing the fusion energy production \nto leave behind its exposed core as a white dwarf."
+    } ]
+  }, {
+    "tStartMs": 468480,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Let’s now add a black hole into the \nmix. The papers in question simulate  "
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "what happens if a primordial black hole \nwith the mass of a medium-sized asteroid  "
+    } ]
+  }, {
+    "tStartMs": 477760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "happens to be in the cloud of gas so \nthe star forms around it. This stuff  "
+    } ]
+  }, {
+    "tStartMs": 483480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "also works for a star that captures \na black hole after its formation."
+    } ]
+  }, {
+    "tStartMs": 487400,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "A black hole with the mass in question \nis miniscule—the size of an atom,  "
+    } ]
+  }, {
+    "tStartMs": 492160,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "and its gravitational reach is limited. As a \nresult it has no effect on the formation and  "
+    } ]
+  }, {
+    "tStartMs": 498040,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "early life of the star. It sinks to the center \nof the star and begins slowly feeding. Energy  "
+    } ]
+  }, {
+    "tStartMs": 503760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "produced by the superheated infalling material \nradiates outwards. This alters the state of a  "
+    } ]
+  }, {
+    "tStartMs": 509400,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "tiny pocket in the center of the core that’s \naround 1% of the star’s radius—roughly the size  "
+    } ]
+  }, {
+    "tStartMs": 514160,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "of the Earth. Within this region the normally \nrelatively static material of the core begins  "
+    } ]
+  }, {
+    "tStartMs": 519960,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "churning wildly—it becomes convective. This \nseething ball grows as the black hole grows,  "
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and will eventually subsume the \nentire star—but not for a long time."
+    } ]
+  }, {
+    "tStartMs": 531640,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "You might think that with the endless supply of \nmatter might cause the black hole to grow fast,  "
+    } ]
+  }, {
+    "tStartMs": 537480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "but that’s not the case. The energy \nradiated from near the black hole  "
+    } ]
+  }, {
+    "tStartMs": 541400,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "actually pushes back against new infalling \nmaterial, severely limiting the growth rate  "
+    } ]
+  }, {
+    "tStartMs": 545840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of the black hole. The tiny size of the \nblack hole also makes it a choke-point.  "
+    } ]
+  }, {
+    "tStartMs": 551200,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "There’s a limit to how fast you can cram \nmatter into an atom-sized black hole."
+    } ]
+  }, {
+    "tStartMs": 556040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "That starting rate is something \nlike a hundred tonnes per second,  "
+    } ]
+  }, {
+    "tStartMs": 561480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "which may sound like a lot but it’s \nbasically nothing. For some perspective,  "
+    } ]
+  }, {
+    "tStartMs": 566880,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "the sun loses almost a million \ntonnes a second to the solar wind."
+    } ]
+  }, {
+    "tStartMs": 571640,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But as the black hole gains mass \nits gravitational pull increases,  "
+    } ]
+  }, {
+    "tStartMs": 575440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "as does its size. The choke-point widens and \nmatter flows in more easily. It also blasts  "
+    } ]
+  }, {
+    "tStartMs": 581120,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "out more energy, providing some limit to its \ngrowing appetite—but the rate of star-guzzling  "
+    } ]
+  }, {
+    "tStartMs": 586920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "nonetheless increases. At the same time, the \nrate of fusion reactions through the rest of  "
+    } ]
+  }, {
+    "tStartMs": 592320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "the core stay roughly constant. That \nmeans the energy provided by the black  "
+    } ]
+  }, {
+    "tStartMs": 596360,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "hole represents an increasing fraction \nof the star’s total energy production."
+    } ]
+  }, {
+    "tStartMs": 601480,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Over a few billion years, that atom-sized \nblack hole grows to around 10 cm across,  "
+    } ]
+  }, {
+    "tStartMs": 607360,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "with a mass around that of the planet Uranus. \nAt that point an important transition happens.  "
+    } ]
+  }, {
+    "tStartMs": 613640,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "The energy output from the infalling matter now \nroughly equals the output from fusion across the  "
+    } ]
+  }, {
+    "tStartMs": 619200,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "rest of the core. As we approach and pass this \npoint, the effects of our Hawking star’s dark  "
+    } ]
+  }, {
+    "tStartMs": 624960,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "secret become very obvious. The additional energy \ndisrupts the delicate balance between gravity and  "
+    } ]
+  }, {
+    "tStartMs": 631840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "outward energy flow, causing the star’s outer \nlayers to bloat. It would look like the star  "
+    } ]
+  }, {
+    "tStartMs": 637520,
+    "dDurationMs": 7960,
+    "segs": [ {
+      "utf8": "had entered its giant phase billions of years too \nearly. In a regular giant-phase, the star’s core  "
+    } ]
+  }, {
+    "tStartMs": 645480,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "remains compact. But in this phase for a Hawking \nstar, even the core expands. The core density  "
+    } ]
+  }, {
+    "tStartMs": 651800,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "drops so much that fusion cuts off altogether. Now \nthe star is running entirely on black hole power."
+    } ]
+  }, {
+    "tStartMs": 658720,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Although the black hole would still fit in the \nroom with you, the bubble of churning plasma  "
+    } ]
+  }, {
+    "tStartMs": 665120,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "encompasses the entire star. During this phase \nthe Hawking star looks like a regular dying star,  "
+    } ]
+  }, {
+    "tStartMs": 671360,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "at least to start. Our Sun will ultimately \nexpand to maybe 100 times or so its current radius  "
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "and be 1000 times it brightness. But a \nHawking star stalls before getting  "
+    } ]
+  }, {
+    "tStartMs": 683840,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "that big. The initial expansion actually makes \nit harder for the central black hole to feed,  "
+    } ]
+  }, {
+    "tStartMs": 689240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "limiting the growth of both the black hole and \nthe surrounding star. It reaches a maximum size  "
+    } ]
+  }, {
+    "tStartMs": 694360,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "of 4 or 5 times the current size of the Sun, \nglowing about 10 times as bright. It can spend  "
+    } ]
+  }, {
+    "tStartMs": 701520,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "as much as ten billion years looking like a \nrelatively rare type of star - a ‘sub-subgiant’  "
+    } ]
+  }, {
+    "tStartMs": 707720,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "or a ‘red straggler’ - before the black \nhole finally finishes consuming the star."
+    } ]
+  }, {
+    "tStartMs": 713360,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So I guess there’s at least one upside to the Sun \ncontaining a secret central black hole.  "
+    } ]
+  }, {
+    "tStartMs": 718440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "While it gets less time as a normal-looking star \ndominated by fusion, when it finally does expand  "
+    } ]
+  }, {
+    "tStartMs": 723800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "it won’t actually swallow the Earth—which will \nprobably be the case during the Sun’s regular  "
+    } ]
+  }, {
+    "tStartMs": 729320,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "red giant phase. We would still fry, but let’s \ntry to find silver linings where we can."
+    } ]
+  }, {
+    "tStartMs": 736520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So those are the simulations. To take \nthis out of the realm of pure speculation,  "
+    } ]
+  }, {
+    "tStartMs": 741720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "let’s see what we can say about potential \nblack holes inside our Sun and the prospects  "
+    } ]
+  }, {
+    "tStartMs": 746520,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "of detecting Hawking stars. Well, in general if \nthere’s one in the Sun then it has to be less  "
+    } ]
+  }, {
+    "tStartMs": 753160,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "massive than the transition-point —less \nthan the mass of Uranus—or one-10,000th  "
+    } ]
+  }, {
+    "tStartMs": 758080,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "the mass of the Sun. Any more than that \nand the Sun would be expanding already."
+    } ]
+  }, {
+    "tStartMs": 763240,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "But what about a smaller secret black hole? \nWell, it would need to be quite a bit less  "
+    } ]
+  }, {
+    "tStartMs": 769200,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "massive than Uranus or we’d have noticed signs \nthat the Sun’s behavior is not consistent with  "
+    } ]
+  }, {
+    "tStartMs": 774280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "all of its energy being produced by fusion. For \nexample we now know that the Sun is producing  "
+    } ]
+  }, {
+    "tStartMs": 779800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "basically the right amount of neutrinos if \nall of its energy is coming from fusion. But  "
+    } ]
+  }, {
+    "tStartMs": 785000,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "there’s some wiggle-room in the uncertainty of \nour neutrino measurements. Up to 1/1000th of the  "
+    } ]
+  }, {
+    "tStartMs": 790960,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "Sun’s energy could come from a non-fusion source. \nAn embedded black hole would also alter the core’s  "
+    } ]
+  }, {
+    "tStartMs": 799160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "temperature and pressure and so its fusion \nrate, which would in turn affect the neutrino  "
+    } ]
+  }, {
+    "tStartMs": 803720,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "production. Add these together and the team \nfinds that any black hole in the Sun would have  "
+    } ]
+  }, {
+    "tStartMs": 809960,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "to have a mass less than Mercury’s or we would \nhave noticed its effect on its neutrino output."
+    } ]
+  }, {
+    "tStartMs": 815960,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "There’s another way to look for Hawking \nstars that isn’t even restricted to the Sun,  "
+    } ]
+  }, {
+    "tStartMs": 821440,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "and that’s by watching how they vibrate. Powered \nby the vast currents of convective plasma sloshing  "
+    } ]
+  }, {
+    "tStartMs": 827840,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "around inside, all stars vibrate. Different \ntypes of waves bounce around inside, setting  "
+    } ]
+  }, {
+    "tStartMs": 830920,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "up these global oscillations like in \na musical instrument. The vibrational  "
+    } ]
+  }, {
+    "tStartMs": 835280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "modes that an instrument can sustain define \nthe characteristic sound of the instrument,  "
+    } ]
+  }, {
+    "tStartMs": 840720,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "and depend on its materials and its structure. \nSame with a star—different internal composition  "
+    } ]
+  }, {
+    "tStartMs": 847240,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "means different global oscillations. Now the \nfield of asteroseismology, which of course  "
+    } ]
+  }, {
+    "tStartMs": 853120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "we’ve discussed before, studies how seismic \nwaves can teach us about stellar interiors."
+    } ]
+  }, {
+    "tStartMs": 858880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "In the case of the Sun, its global oscillations \nsuggest that there’s relatively little movement  "
+    } ]
+  }, {
+    "tStartMs": 863840,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "of material—relatively little sloshing—in the \ncore and surrounding regions, while in regions  "
+    } ]
+  }, {
+    "tStartMs": 870400,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "closer to the surface there are great currents \nof plasma carrying heat outwards. But a Hawking  "
+    } ]
+  }, {
+    "tStartMs": 876960,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "star that otherwise looked just like the Sun would \nalso have this region deep inside the core where  "
+    } ]
+  }, {
+    "tStartMs": 883520,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "material was in motion. Seismic waves traveling \nthrough that region would propagate differently,  "
+    } ]
+  }, {
+    "tStartMs": 890120,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "leading to a shift in the harmonics that the \nstar could sustain—just as a drum would sound  "
+    } ]
+  }, {
+    "tStartMs": 895920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "different if you replaced even a small patch \non the drum skin with a different material."
+    } ]
+  }, {
+    "tStartMs": 900840,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Current asteroseismology studies of the \nSun don’t show any evidence of unexpected  "
+    } ]
+  }, {
+    "tStartMs": 906640,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "regions of convection in the interior. \nHowever those studies also don’t probe  "
+    } ]
+  }, {
+    "tStartMs": 911640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "to the deepest regions of the core so \nwe wouldn’t have noticed the effect of  "
+    } ]
+  }, {
+    "tStartMs": 916040,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "a black hole about a millionth the mass \nof the sun based on current observations."
+    } ]
+  }, {
+    "tStartMs": 921760,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "However the real power of asteroseismology \nin this context is that it might enable us to  "
+    } ]
+  }, {
+    "tStartMs": 927880,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "detect Hawking stars out there in the galaxy. The \nchance that our Sun contains a black hole is very,  "
+    } ]
+  }, {
+    "tStartMs": 934480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "very small. But as long as primordial black \nholes actually exist in the right mass range  "
+    } ]
+  }, {
+    "tStartMs": 939920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "then there’s a fair chance that at least \nsome of the 100s of billions of stars in  "
+    } ]
+  }, {
+    "tStartMs": 944720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "the Milky Way may have caught one. If \nso, some of those stars should be in  "
+    } ]
+  }, {
+    "tStartMs": 950040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "the bloated phase of a Hawking star’s life. \nFrom Earth they would be indistinguishable  "
+    } ]
+  }, {
+    "tStartMs": 956200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "from certain rare types of giant-phase \nstars, at least from their colours and  "
+    } ]
+  }, {
+    "tStartMs": 960440,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "sizes. But these bloated Hawking stars would \nvibrate differently to their lookalikes."
+    } ]
+  }, {
+    "tStartMs": 967000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "At that stage in their lives, a Hawking star \nis just a big ball of churning plasma with no  "
+    } ]
+  }, {
+    "tStartMs": 972760,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "core. Its vibrational modes would be much \nsimpler than other visually similar stars,  "
+    } ]
+  }, {
+    "tStartMs": 978720,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "whose layered interiors lead to complex \nmixtures of vibrational modes. Now we  "
+    } ]
+  }, {
+    "tStartMs": 984760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "haven’t found candidates for this yet, but \nthe data that might contain such signals  "
+    } ]
+  }, {
+    "tStartMs": 989640,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "already exists in the latest release by \nESO’s Gaia satellite. The team promised  "
+    } ]
+  }, {
+    "tStartMs": 997040,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "to get right onto that as soon as its \nasteroseismology analysis is released."
+    } ]
+  }, {
+    "tStartMs": 1002440,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Whether or not they end up finding Hawking \nstars we will learn something. If primordial  "
+    } ]
+  }, {
+    "tStartMs": 1007520,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "black holes exist some should end up in stars, so \nif Hawking stars are not detected then it gives us  "
+    } ]
+  }, {
+    "tStartMs": 1013600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "another limit on the number of primordial black \nholes that might be out there. Perhaps we’ll be  "
+    } ]
+  }, {
+    "tStartMs": 1018480,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "able to rule these things out as the culprit \nbehind dark matter. Or if a detection is made,  "
+    } ]
+  }, {
+    "tStartMs": 1023960,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "rule them in. And this is actually the stated \npoint of this work—less about worrying if the Sun  "
+    } ]
+  }, {
+    "tStartMs": 1030520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "harbors a black hole, and more about using stars \nas detectors of primordial black hole dark matter."
+    } ]
+  }, {
+    "tStartMs": 1036520,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "I would bet my life that the sun \ndoesn’t contain a tiny black hole,  "
+    } ]
+  }, {
+    "tStartMs": 1040880,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "even if it's impossible to prove otherwise. \nBut I wouldn’t be at all surprised if at  "
+    } ]
+  }, {
+    "tStartMs": 1046280,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "least some stars out there are shining \njust a bit brighter than they should be,  "
+    } ]
+  }, {
+    "tStartMs": 1051120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "eaten from the inside out by a \ngrowing engine of warped space time."
+    } ]
+  }, {
+    "tStartMs": 1056960,
+    "dDurationMs": 4458,
+    "segs": [ {
+      "utf8": "Hey Everyone. We wanted to thank you for the amazing year we've had here at Space Time"
+    } ]
+  }, {
+    "tStartMs": 1061418,
+    "dDurationMs": 5218,
+    "segs": [ {
+      "utf8": " and to remind you that we still have 15% off at our the merch store until the end of the December."
+    } ]
+  }, {
+    "tStartMs": 1066636,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Just click the link in the description and use the code: PBS at checkout. "
+    } ]
+  }, {
+    "tStartMs": 1071206,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Have a great holiday season and new episodes will return on January 10th."
+    } ]
+  } ]
+}

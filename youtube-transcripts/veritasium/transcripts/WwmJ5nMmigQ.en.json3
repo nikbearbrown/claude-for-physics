@@ -1,0 +1,229 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2100,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "In science, we often have to deal with some\nvery large numbers. For example, the mass"
+    } ]
+  }, {
+    "tStartMs": 8660,
+    "dDurationMs": 12020,
+    "segs": [ {
+      "utf8": "of the sun."
+    } ]
+  }, {
+    "tStartMs": 20680,
+    "dDurationMs": 9100,
+    "segs": [ {
+      "utf8": "That is the mass of the sun. Two followed\nby thirty zeros in units of kilograms. That"
+    } ]
+  }, {
+    "tStartMs": 29780,
+    "dDurationMs": 9820,
+    "segs": [ {
+      "utf8": "is two thousand billion billion billion kilograms.\nThere has got to be a better way to write"
+    } ]
+  }, {
+    "tStartMs": 39600,
+    "dDurationMs": 8029,
+    "segs": [ {
+      "utf8": "that. Can you imagine if there wasn't? And\nso we find that the mass of the sun is two"
+    } ]
+  }, {
+    "tStartMs": 47629,
+    "dDurationMs": 12980,
+    "segs": [ {
+      "utf8": "zero zero zero zero zero zero zero zero zero.\nYes? Sorry could you repeat that? I was with"
+    } ]
+  }, {
+    "tStartMs": 60609,
+    "dDurationMs": 17211,
+    "segs": [ {
+      "utf8": "you up to two zero zero zero zero zero? Ahh?\nIt was ahh... two zero zero. So to represent"
+    } ]
+  }, {
+    "tStartMs": 77820,
+    "dDurationMs": 7810,
+    "segs": [ {
+      "utf8": "large numbers easily, we use something called\nscientific notation. Scientific notation takes"
+    } ]
+  }, {
+    "tStartMs": 85630,
+    "dDurationMs": 11290,
+    "segs": [ {
+      "utf8": "advantage of powers of ten. For example, ten\nto the power of two means take two tens and"
+    } ]
+  }, {
+    "tStartMs": 96920,
+    "dDurationMs": 9119,
+    "segs": [ {
+      "utf8": "multiply them together. And you get 100. Ten\nto the power of three means multiply three"
+    } ]
+  }, {
+    "tStartMs": 106039,
+    "dDurationMs": 12120,
+    "segs": [ {
+      "utf8": "tens together. And you get 1000. Ten to the\npower of four means take four tens and multiply"
+    } ]
+  }, {
+    "tStartMs": 118159,
+    "dDurationMs": 8740,
+    "segs": [ {
+      "utf8": "them together. And you get 10,000. So you\nshould notice a pattern developing. When it's"
+    } ]
+  }, {
+    "tStartMs": 126899,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "ten to the power of two, our final answer\nhas a one followed by two zeros. Ten to the"
+    } ]
+  }, {
+    "tStartMs": 132470,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "power of three, our final answer has a one\nfollowed by three zeros. Ten to the power"
+    } ]
+  }, {
+    "tStartMs": 136610,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "of four, again, four zeros. So if we wanted\nto represent the mass of the sun in scientific"
+    } ]
+  }, {
+    "tStartMs": 143670,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "notation, we would need thirty zeros. So we\nrepresent that using ten to the power of thirty."
+    } ]
+  }, {
+    "tStartMs": 150080,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "This means that we're multiplying ten by itself\nthirty times, which gives us a one followed"
+    } ]
+  }, {
+    "tStartMs": 156250,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "by thirty zeros. But the mass of the sun is\nactually twice that. It's two followed by"
+    } ]
+  }, {
+    "tStartMs": 163030,
+    "dDurationMs": 7470,
+    "segs": [ {
+      "utf8": "thirty zeros so we can multiply two by ten\nto the thirty in units of kilograms and that"
+    } ]
+  }, {
+    "tStartMs": 170500,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "is the mass of the sun. It's much easier to\nwrite and it takes up much less space on the"
+    } ]
+  }, {
+    "tStartMs": 175560,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "page. The other problem is we have to deal\nwith some tiny numbers. For example the mass"
+    } ]
+  }, {
+    "tStartMs": 183840,
+    "dDurationMs": 14600,
+    "segs": [ {
+      "utf8": "of a proton is...\nThat is the mass of a proton. Zero point,"
+    } ]
+  }, {
+    "tStartMs": 198440,
+    "dDurationMs": 8360,
+    "segs": [ {
+      "utf8": "and there there are 26 zeros, and then 1673\nkilograms. A truly tiny number so how do we"
+    } ]
+  }, {
+    "tStartMs": 206800,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "deal with this? Well again it's using a similar\ntrick. If we raise ten to the power of minus"
+    } ]
+  }, {
+    "tStartMs": 213130,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "one, it means divide by ten, not multiply\nby ten. So this means divide by ten which"
+    } ]
+  }, {
+    "tStartMs": 220410,
+    "dDurationMs": 8420,
+    "segs": [ {
+      "utf8": "gives you zero point one. Ten to the power\nof minus two means divide by ten twice, which"
+    } ]
+  }, {
+    "tStartMs": 228830,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "gives us zero point zero one, a hundredth.\nTen to the power of minus three means divide"
+    } ]
+  }, {
+    "tStartMs": 234530,
+    "dDurationMs": 10450,
+    "segs": [ {
+      "utf8": "by ten three times, or zero point zero zero\none. So again you see a pattern developing."
+    } ]
+  }, {
+    "tStartMs": 244980,
+    "dDurationMs": 7130,
+    "segs": [ {
+      "utf8": "The exponent here tells you how many places\nto the right of the decimal that the one is."
+    } ]
+  }, {
+    "tStartMs": 252110,
+    "dDurationMs": 6990,
+    "segs": [ {
+      "utf8": "So in this case, ten to the minus two, the\none is two places to the right of the decimal."
+    } ]
+  }, {
+    "tStartMs": 259100,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "Here, ten to the minus three, the one is three\nplaces to the right of the decimal. So in"
+    } ]
+  }, {
+    "tStartMs": 264510,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "this case I actually have a one that is 27\nplaces to the right of the decimal. So I can"
+    } ]
+  }, {
+    "tStartMs": 270690,
+    "dDurationMs": 13150,
+    "segs": [ {
+      "utf8": "write the mass of a proton as 1.673 times\nten to the minus 27 kilograms. And this ten"
+    } ]
+  }, {
+    "tStartMs": 283840,
+    "dDurationMs": 8470,
+    "segs": [ {
+      "utf8": "to the minus 27 has the function of putting\nthis number, 1.673, 27 decimal places to the"
+    } ]
+  }, {
+    "tStartMs": 292310,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "right of the decimal point. So as a challenge\nquestion to see if you've understood it: if"
+    } ]
+  }, {
+    "tStartMs": 299350,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "the sun were made entirely of protons, how\nmany protons would there be in the sun?"
+    } ]
+  } ]
+}

@@ -1,0 +1,271 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "When water freezes, it expands - that's \nwhy ice floats and why cans and jars  "
+    } ]
+  }, {
+    "tStartMs": 6120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "bulge or explode in the freezer. On the \nother hand, when water is compressed,  "
+    } ]
+  }, {
+    "tStartMs": 9600,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "it melts. You need a lot of pressure - an ice \ncube that's 4 degrees celsius below freezing  "
+    } ]
+  }, {
+    "tStartMs": 14100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "can withstand around 500 times atmospheric \npressure before it'll melt - but it will melt! "
+    } ]
+  }, {
+    "tStartMs": 18900,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "So if when you freeze water, it expands, and \nwhen you compress it, it melts... what happens  "
+    } ]
+  }, {
+    "tStartMs": 24540,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "if you try to freeze it while it's compressed? \nLike, what if you cool water below 0 degrees  "
+    } ]
+  }, {
+    "tStartMs": 29220,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "celsius inside a super strong pressure vessel that \ncan't bulge or stretch? If the water is liquid,  "
+    } ]
+  }, {
+    "tStartMs": 34200,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "it's not under pressure, so below 0 celsius it \nshould freeze. But if it's frozen, it expands,  "
+    } ]
+  }, {
+    "tStartMs": 39360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "creating pressure, and so it should melt. Which \nmeans it should freeze. Which means it should  "
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "melt. You see the problem. The pressure \nthat causes melting is being generated  "
+    } ]
+  }, {
+    "tStartMs": 48480,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "by expansion that requires being frozen... \nit seems like we've arrived at a paradox. "
+    } ]
+  }, {
+    "tStartMs": 52980,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "If by \"paradox\" you mean \"phase diagram\"! - \nyou know, those pictures that tell you whether  "
+    } ]
+  }, {
+    "tStartMs": 57960,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "a substance is solid, liquid, or gas - aka, its \nphase of matter - for different combinations of  "
+    } ]
+  }, {
+    "tStartMs": 61500,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "temperature and pressure. On the phase diagram for \nwater, you can see here that at normal atmospheric  "
+    } ]
+  }, {
+    "tStartMs": 66120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "pressure, when you cool water down, it goes from \na liquid to a solid, as you'd expect. And while at  "
+    } ]
+  }, {
+    "tStartMs": 70320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "minus 4 degrees celsius and atmospheric pressure \nwater is frozen solid, when you increase the  "
+    } ]
+  }, {
+    "tStartMs": 74520,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "pressure, the solid water goes back to a liquid.\nSo - what if you don't let the water expand when  "
+    } ]
+  }, {
+    "tStartMs": 78660,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "it freezes? Well, when water's below 0 degrees \ncelsius, it wants to freeze - but only some of  "
+    } ]
+  }, {
+    "tStartMs": 83580,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it can, because any bits that freeze, expand, \nwhich pressurizes the container, and eventually  "
+    } ]
+  }, {
+    "tStartMs": 87900,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "the pressure builds up enough to keep any more \nliquid water from freezing at that temperature!  "
+    } ]
+  }, {
+    "tStartMs": 91380,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "On the phase diagram, we follow the line between \nliquid and solid in the direction of colder  "
+    } ]
+  }, {
+    "tStartMs": 95580,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "temperature \u0026 higher pressure. If you cool the \ncontainer even more, then slightly more bits of  "
+    } ]
+  }, {
+    "tStartMs": 99960,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "water will be able to freeze and expand, until the \npressure again builds up enough to keep any more  "
+    } ]
+  }, {
+    "tStartMs": 104100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "liquid water from freezing. And so on. The colder \nyou make the container, the higher the percentage  "
+    } ]
+  }, {
+    "tStartMs": 108900,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "of ice, and the higher the pressure in the \ncontainer. This graph shows the percentage of ice  "
+    } ]
+  }, {
+    "tStartMs": 113160,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "vs liquid water when you cool a fixed volume of \nwater to different temperatures, and I've labeled  "
+    } ]
+  }, {
+    "tStartMs": 117420,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "pressures generated at each temperature, too.\nAs for whether the container ever completely  "
+    } ]
+  }, {
+    "tStartMs": 121500,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "turns to ice... Well, looking at the phase diagram \nagain, we see that once the temperature is low  "
+    } ]
+  }, {
+    "tStartMs": 125940,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "enough and the pressure high enough, the remaining \nliquid water can freeze into a different phase of  "
+    } ]
+  }, {
+    "tStartMs": 129900,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "ice, called ice III. And ice III contracts and \nbecomes denser when it freezes, creating more  "
+    } ]
+  }, {
+    "tStartMs": 135180,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "space and allowing the entire container to freeze \nsolid - though some will still be our normal ice  "
+    } ]
+  }, {
+    "tStartMs": 139380,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "(called ice Ih) and some will be ice III.\nSo there is no paradox - the phase of water,  "
+    } ]
+  }, {
+    "tStartMs": 145440,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "it turns out, can be non-binary.\nWait! Water - water you doing? Don't click  "
+    } ]
+  }, {
+    "tStartMs": 151080,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "away - ice suspect you might be interested in this \nvideo's sponsor, Brilliant. Brilliant is a fun,  "
+    } ]
+  }, {
+    "tStartMs": 155700,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "interactive science and math learning platform \nfor curious people young and old, professional  "
+    } ]
+  }, {
+    "tStartMs": 159480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and beginner. Brilliant is based off the principle \nthat learning by doing is the fastest path towards  "
+    } ]
+  }, {
+    "tStartMs": 164040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "mastery of a new concept or skill - not just \nlectures - and they have interactive courses  "
+    } ]
+  }, {
+    "tStartMs": 168000,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "ranging from logic to fundamentals of computer \nscience to quantum mechanics to infinity and  "
+    } ]
+  }, {
+    "tStartMs": 172020,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "beyond (literally - they have courses about \ninfinity)! To gain a deeper understanding  "
+    } ]
+  }, {
+    "tStartMs": 176220,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of science and mathematics and to sign up for \nfree, go to Brilliant.org/MinutePhysics. The  "
+    } ]
+  }, {
+    "tStartMs": 180780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "first 200 people will get 20% off an annual \nPremium subscription with full access to  "
+    } ]
+  }, {
+    "tStartMs": 184620,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "all of Brilliant’s courses and puzzles, with \nmore exclusive content added monthly. Again,  "
+    } ]
+  }, {
+    "tStartMs": 186720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "that's Brilliant.org/MinutePhysics - and \nthanks to Brilliant for their support."
+    } ]
+  } ]
+}

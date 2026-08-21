@@ -1,0 +1,1381 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2220,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Henry:  If you have polarized sunglasses,\nyou have a quantum measurement device."
+    } ]
+  }, {
+    "tStartMs": 5920,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "Grant: Each of these pieces of glass is what's\ncalled a \"polarizing filter\", which means"
+    } ]
+  }, {
+    "tStartMs": 9639,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "when a photon of light reaches the glass,\nit either passes through, or it doesn’t."
+    } ]
+  }, {
+    "tStartMs": 13800,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "And whether or not it passes through is effectively\na measurement of whether that photon is polarized"
+    } ]
+  }, {
+    "tStartMs": 18880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "in a given direction."
+    } ]
+  }, {
+    "tStartMs": 19880,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "Henry:  Try this: Find yourself several sets\nof polarized sunglasses."
+    } ]
+  }, {
+    "tStartMs": 23749,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Look through one set of sunglasses at some\nlight source, like a lamp, then hold a second"
+    } ]
+  }, {
+    "tStartMs": 28439,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "polarizing filter, between you and the light."
+    } ]
+  }, {
+    "tStartMs": 30529,
+    "dDurationMs": 3501,
+    "segs": [ {
+      "utf8": "As you rotate that second filter, the lamp\nwill look lighter and darker."
+    } ]
+  }, {
+    "tStartMs": 34030,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "It should look darkest when the second filter\nis oriented 90 degrees off from the first."
+    } ]
+  }, {
+    "tStartMs": 38300,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "What you're observing is that the photons\nwith polarization that allows them to pass"
+    } ]
+  }, {
+    "tStartMs": 41320,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "through a filter along one axis have a much\nlower probability of passing through a second"
+    } ]
+  }, {
+    "tStartMs": 44990,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "filter along a perpendicular axis – in principle\n0%."
+    } ]
+  }, {
+    "tStartMs": 48350,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Grant: Here's where things get quantum-ly\nbizarre."
+    } ]
+  }, {
+    "tStartMs": 51600,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "All these filters do is remove light – they\n“filter” it out."
+    } ]
+  }, {
+    "tStartMs": 55190,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "But if you take a third filter, orient it\n45 degrees off from the first filter, and"
+    } ]
+  }, {
+    "tStartMs": 59960,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "put it between the two, the lamp will actually\nlook brighter."
+    } ]
+  }, {
+    "tStartMs": 63329,
+    "dDurationMs": 4991,
+    "segs": [ {
+      "utf8": "This is not the middle filter generating more\nlight – somehow introducing another filter"
+    } ]
+  }, {
+    "tStartMs": 68320,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "actually lets more light through."
+    } ]
+  }, {
+    "tStartMs": 70140,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "With perfect filters, if you keep adding\nmore and more in between at in-between angles,"
+    } ]
+  }, {
+    "tStartMs": 74470,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "this trend continues – more light!"
+    } ]
+  }, {
+    "tStartMs": 76740,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Henry:  This feels super weird."
+    } ]
+  }, {
+    "tStartMs": 79220,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "But it’s not just weird that more light\ncomes through; when you dig in quantitatively"
+    } ]
+  }, {
+    "tStartMs": 82860,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "to exactly how much more comes through, the\nnumbers don’t just seem too high, they seem"
+    } ]
+  }, {
+    "tStartMs": 87650,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "impossibly high."
+    } ]
+  }, {
+    "tStartMs": 88910,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "And when we tug at this thread, it leads to\nan experiment a little more sophisticated"
+    } ]
+  }, {
+    "tStartMs": 92620,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "than this sunglasses demo that forces us to\nquestion some very basic assumptions we have"
+    } ]
+  }, {
+    "tStartMs": 96630,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "about the way the universe works – like,\nthat the results of experiments describe properties"
+    } ]
+  }, {
+    "tStartMs": 100330,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "of the thing you’re experimenting on, and\nthat cause and effect don’t travel faster"
+    } ]
+  }, {
+    "tStartMs": 103520,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "than the speed of light."
+    } ]
+  }, {
+    "tStartMs": 104770,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Grant:  Where we're headed is Bell’s theorem:\none of the most thought-provoking discoveries"
+    } ]
+  }, {
+    "tStartMs": 109660,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "in modern physics."
+    } ]
+  }, {
+    "tStartMs": 110810,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "To appreciate it, it’s worth understanding\na little of the math used to represent quantum"
+    } ]
+  }, {
+    "tStartMs": 115370,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "states, like the polarization of a photon."
+    } ]
+  }, {
+    "tStartMs": 117690,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "We actually made a second video showing\nmore of the details for how this works, which"
+    } ]
+  }, {
+    "tStartMs": 121340,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "you can find on 3blue1brown, but for now let’s\njust hit the main points."
+    } ]
+  }, {
+    "tStartMs": 125799,
+    "dDurationMs": 5031,
+    "segs": [ {
+      "utf8": "First, photons are waves in a thing called\nthe electromagnetic field, and polarization"
+    } ]
+  }, {
+    "tStartMs": 130830,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "just means the direction in which that wave\nis wiggling."
+    } ]
+  }, {
+    "tStartMs": 133690,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 134690,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Grant: Polarizing filters absorb this wiggling\nenergy in one direction, so the wave coming"
+    } ]
+  }, {
+    "tStartMs": 138740,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "out the other side is wiggling purely in the\ndirection perpendicular to the one where energy"
+    } ]
+  }, {
+    "tStartMs": 143920,
+    "dDurationMs": 1289,
+    "segs": [ {
+      "utf8": "absorption is happening."
+    } ]
+  }, {
+    "tStartMs": 145209,
+    "dDurationMs": 5261,
+    "segs": [ {
+      "utf8": "But unlike a water or sound wave, photons\nare quantum objects, and as such they either"
+    } ]
+  }, {
+    "tStartMs": 150470,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "pass through a polarizer completely, or not\nat all, and this is apparently probabilistic,"
+    } ]
+  }, {
+    "tStartMs": 155430,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "like how we don’t know whether or not Schrodinger’s\nCat will be alive or dead until we look in"
+    } ]
+  }, {
+    "tStartMs": 159349,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the box."
+    } ]
+  }, {
+    "tStartMs": 160349,
+    "dDurationMs": 3821,
+    "segs": [ {
+      "utf8": "Henry: For anyone uncomfortable with the nondeterminism\nof quantum mechanics, it’s tempting to imagine"
+    } ]
+  }, {
+    "tStartMs": 164170,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "that a probabilistic event like this might\nhave some deeper cause that we just don’t"
+    } ]
+  }, {
+    "tStartMs": 168090,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "know yet."
+    } ]
+  }, {
+    "tStartMs": 169090,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "That there is some “hidden variable”\ndescribing the photon’s state that would"
+    } ]
+  }, {
+    "tStartMs": 171950,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "tell us with certainty whether it should pass\nthrough a given filter or not, and maybe that"
+    } ]
+  }, {
+    "tStartMs": 176330,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "variable is just too subtle for us to probe\nwithout deeper theories and better measuring"
+    } ]
+  }, {
+    "tStartMs": 179920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "devices."
+    } ]
+  }, {
+    "tStartMs": 180920,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Or maybe it’s somehow fundamentally unknowable,\nbut still there."
+    } ]
+  }, {
+    "tStartMs": 184690,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Henry:  The possibility of such a hidden\nvariable seems beyond the scope of experiment."
+    } ]
+  }, {
+    "tStartMs": 189110,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I mean, what measurements could possibly\nprobe at a deeper explanation that might or"
+    } ]
+  }, {
+    "tStartMs": 193590,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "might not exist?"
+    } ]
+  }, {
+    "tStartMs": 194730,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "And yet, we can do just that."
+    } ]
+  }, {
+    "tStartMs": 196700,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Grant:...With sunglasses and polarization\nof light."
+    } ]
+  }, {
+    "tStartMs": 199150,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Grant: Let’s lay down some numbers here."
+    } ]
+  }, {
+    "tStartMs": 201200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "When light passes through a polarizing filter\noriented vertically, then comes to another"
+    } ]
+  }, {
+    "tStartMs": 205400,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "polarizing filter oriented the same way, experiments\nshow that it’s essentially guaranteed to"
+    } ]
+  }, {
+    "tStartMs": 210750,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "make it through the second filter."
+    } ]
+  }, {
+    "tStartMs": 212280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "If that second filter is tilted 90 degrees\nfrom the first, then each photon has a 0%"
+    } ]
+  }, {
+    "tStartMs": 217560,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "chance of passing through."
+    } ]
+  }, {
+    "tStartMs": 219060,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "And at 45 degrees, there’s a 50/50 chance."
+    } ]
+  }, {
+    "tStartMs": 222090,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Henry: What’s more, these probabilities\nseem to only depend on the angle between the"
+    } ]
+  }, {
+    "tStartMs": 225870,
+    "dDurationMs": 3949,
+    "segs": [ {
+      "utf8": "two filters in question, and nothing else\nthat happened to the photon before, including"
+    } ]
+  }, {
+    "tStartMs": 229819,
+    "dDurationMs": 2151,
+    "segs": [ {
+      "utf8": "potentially having passed through a different\nfilter."
+    } ]
+  }, {
+    "tStartMs": 231970,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Grant: But the real numerical weirdness happens\nwith filters oriented less than 45° apart."
+    } ]
+  }, {
+    "tStartMs": 236680,
+    "dDurationMs": 7279,
+    "segs": [ {
+      "utf8": "For example, at 22.5 degrees, any photon which\npasses through the first filter has an 85%"
+    } ]
+  }, {
+    "tStartMs": 243959,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "chance of passing through the second filter."
+    } ]
+  }, {
+    "tStartMs": 245690,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "To see where all these numbers come from,\nby the way, check out the second video."
+    } ]
+  }, {
+    "tStartMs": 248959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 249959,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "Henry: What’s strange about that last number\nis that you might expect it to be more like"
+    } ]
+  }, {
+    "tStartMs": 253120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "halfway between 50% and 100% since 22.5°\nis halfway between 0° and 45° – but it’s"
+    } ]
+  }, {
+    "tStartMs": 259280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "significantly higher."
+    } ]
+  }, {
+    "tStartMs": 260280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Henry: To see concretely how strange this\nis, let’s look at a particular arrangement"
+    } ]
+  }, {
+    "tStartMs": 264160,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "of our three filters:  A, oriented vertically,\nB, oriented 22.5 degrees from vertical, and"
+    } ]
+  }, {
+    "tStartMs": 270060,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "C, oriented 45 degrees from vertical."
+    } ]
+  }, {
+    "tStartMs": 272020,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "We’re going to compare just how many photons\nget blocked when B isn’t there with how"
+    } ]
+  }, {
+    "tStartMs": 276280,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "many get blocked when B is there."
+    } ]
+  }, {
+    "tStartMs": 278190,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "When B is not there, half of those passing\nthrough A get blocked at C.  That is, filter"
+    } ]
+  }, {
+    "tStartMs": 283410,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "C makes the lamp look half as bright as it\nwould with just filter A."
+    } ]
+  }, {
+    "tStartMs": 286650,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Henry: But once you insert B, like we said,\n85% of those passing through A pass through"
+    } ]
+  }, {
+    "tStartMs": 291610,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "B, which means 15% are blocked at B.  And\n15% of those that pass through B are blocked"
+    } ]
+  }, {
+    "tStartMs": 297220,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "at C. But how on earth does blocking 15% twice\nadd up to the 50% blocked if B isn’t there?"
+    } ]
+  }, {
+    "tStartMs": 303150,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Well, it doesn’t, which is why the lamp\nlooks brighter when you insert filter B, but"
+    } ]
+  }, {
+    "tStartMs": 307500,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "it really makes you wonder how the universe\nis deciding which photons to let through and"
+    } ]
+  }, {
+    "tStartMs": 311690,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "which ones to block."
+    } ]
+  }, {
+    "tStartMs": 312840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Grant: In fact, these numbers suggest that\nit’s impossible for there to be some hidden"
+    } ]
+  }, {
+    "tStartMs": 316840,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "variable determining each photon’s state\nwith respect to each filter."
+    } ]
+  }, {
+    "tStartMs": 320690,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "That is, if each one has some definite answers\nto the three questions “Would it pass through"
+    } ]
+  }, {
+    "tStartMs": 327080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "A”, “Would it pass through B” and “Would\nit pass through C”, even before those measurements"
+    } ]
+  }, {
+    "tStartMs": 331400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "are made."
+    } ]
+  }, {
+    "tStartMs": 332400,
+    "dDurationMs": 5359,
+    "segs": [ {
+      "utf8": "Grant: We’ll do a proof by contradiction,\nwhere we imagine 100 photons who do have some"
+    } ]
+  }, {
+    "tStartMs": 337759,
+    "dDurationMs": 4631,
+    "segs": [ {
+      "utf8": "hidden variable which, through whatever crazy\nunderlying mechanism you might imagine, determines"
+    } ]
+  }, {
+    "tStartMs": 342390,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "their answers to these questions."
+    } ]
+  }, {
+    "tStartMs": 343770,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "And let’s say all of these will definitely\npass through A, which I’ll show by putting"
+    } ]
+  }, {
+    "tStartMs": 348040,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "all 100 inside this circle representing photons\nthat pass through A."
+    } ]
+  }, {
+    "tStartMs": 351990,
+    "dDurationMs": 5032,
+    "segs": [ {
+      "utf8": "Grant: To produce the results we see in experiments,\nabout 85 of these photons would have to have"
+    } ]
+  }, {
+    "tStartMs": 357022,
+    "dDurationMs": 4568,
+    "segs": [ {
+      "utf8": "a hidden variable determining that they pass\nthrough B, so let’s put 85 of these guys"
+    } ]
+  }, {
+    "tStartMs": 361590,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "in the intersection of A and B, leaving 15\nin this crescent moon section representing"
+    } ]
+  }, {
+    "tStartMs": 367320,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "photons that pass A but not B. Similarly,\namong those 85 that would pass through B,"
+    } ]
+  }, {
+    "tStartMs": 374720,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "about 15% would get blocked by C, which is\nrepresented in this little section inside"
+    } ]
+  }, {
+    "tStartMs": 380500,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "the A and B circles, but outside the C circle."
+    } ]
+  }, {
+    "tStartMs": 383560,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "So the actual number whose hidden variable\nhas them passing through both A and B but"
+    } ]
+  }, {
+    "tStartMs": 388590,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "not C is certainly no more than 15."
+    } ]
+  }, {
+    "tStartMs": 391860,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Grant: But think of what Henry was just saying,\nwhat was weird was that when you remove filter"
+    } ]
+  }, {
+    "tStartMs": 396510,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "B, never asking the photons what they think\nabout 22.5 degree angles, the number that"
+    } ]
+  }, {
+    "tStartMs": 402080,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "get blocked at C seems much too high."
+    } ]
+  }, {
+    "tStartMs": 405310,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "So look back at our Venn diagram, what does\nit mean if a photon has some hidden variable"
+    } ]
+  }, {
+    "tStartMs": 410419,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "determining that it passes A but is blocked\nat C?"
+    } ]
+  }, {
+    "tStartMs": 414530,
+    "dDurationMs": 5609,
+    "segs": [ {
+      "utf8": "It means it’s somewhere in this crescent\nmoon region inside circle A and outside circle"
+    } ]
+  }, {
+    "tStartMs": 420139,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "C."
+    } ]
+  }, {
+    "tStartMs": 421139,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Grant: Now, experiments show that a full 50\nof these 100 photons that pass through A should"
+    } ]
+  }, {
+    "tStartMs": 426759,
+    "dDurationMs": 5891,
+    "segs": [ {
+      "utf8": "get blocked at C, but if we take into account\nhow these photons would behave with B there,"
+    } ]
+  }, {
+    "tStartMs": 432650,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "that seems impossible."
+    } ]
+  }, {
+    "tStartMs": 434580,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Either those photons would have passed through\nB, meaning they’re somewhere in this region"
+    } ]
+  }, {
+    "tStartMs": 439580,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "we talked about of passing both A and B but\ngetting blocked at C, which includes fewer"
+    } ]
+  }, {
+    "tStartMs": 444680,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "than 15 photons."
+    } ]
+  }, {
+    "tStartMs": 446540,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Or they would have been blocked by B, which\nputs them in a subset of this other crescent"
+    } ]
+  }, {
+    "tStartMs": 451300,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "moon region representing those passing A and\ngetting blocked at B, which has 15 photons."
+    } ]
+  }, {
+    "tStartMs": 457660,
+    "dDurationMs": 6940,
+    "segs": [ {
+      "utf8": "So the number passing A and getting blocked\nat C should be strictly smaller than 15 +"
+    } ]
+  }, {
+    "tStartMs": 464600,
+    "dDurationMs": 2379,
+    "segs": [ {
+      "utf8": "15...but at the same time it’s supposed\nto be 50?"
+    } ]
+  }, {
+    "tStartMs": 466979,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "How does that work?"
+    } ]
+  }, {
+    "tStartMs": 468639,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "Grant: Remember, that number 50 is coming\nfrom the case where the photon is never measured"
+    } ]
+  }, {
+    "tStartMs": 473210,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "at B, and all we’re doing is asking what\nwould have happened if it was measured at"
+    } ]
+  }, {
+    "tStartMs": 478250,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "B, assuming that it has some definite state\neven when we don’t make the measurement,"
+    } ]
+  }, {
+    "tStartMs": 484000,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and that gives this numerical contradiction."
+    } ]
+  }, {
+    "tStartMs": 486360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Grant: For comparison, think of any other,\nnon-quantum questions you might ask."
+    } ]
+  }, {
+    "tStartMs": 491080,
+    "dDurationMs": 3941,
+    "segs": [ {
+      "utf8": "Like, take a hundred people, and ask them\nif they like minutephysics, if they have a"
+    } ]
+  }, {
+    "tStartMs": 495021,
+    "dDurationMs": 2229,
+    "segs": [ {
+      "utf8": "beard, and if they wear glasses."
+    } ]
+  }, {
+    "tStartMs": 497250,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Well, obviously everyone likes minutephysics."
+    } ]
+  }, {
+    "tStartMs": 499430,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Then among those, take the number that don’t\nhave beards, plus the number who do have a"
+    } ]
+  }, {
+    "tStartMs": 504350,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "beard but not glasses."
+    } ]
+  }, {
+    "tStartMs": 505900,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "That should greater than or equal to the\nnumber who don’t have glasses."
+    } ]
+  }, {
+    "tStartMs": 509580,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I mean, one is a superset of the other."
+    } ]
+  }, {
+    "tStartMs": 511860,
+    "dDurationMs": 6169,
+    "segs": [ {
+      "utf8": "But as absurdly reasonable as that is, some\nquestions about quantum states seem to violate"
+    } ]
+  }, {
+    "tStartMs": 518029,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "this inequality, which contradicts the premise\nthat these questions could have definite answers,"
+    } ]
+  }, {
+    "tStartMs": 522919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 523919,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Henry:  Well...Unfortunately, there’s a\nhole in that argument."
+    } ]
+  }, {
+    "tStartMs": 527699,
+    "dDurationMs": 4151,
+    "segs": [ {
+      "utf8": "Drawing those Venn diagrams assumes that\nthe answer to each question is static and"
+    } ]
+  }, {
+    "tStartMs": 531850,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "unchanging."
+    } ]
+  }, {
+    "tStartMs": 532850,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "But what if the act of passing through one\nfilter changes how the photon will later interact"
+    } ]
+  }, {
+    "tStartMs": 536160,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "with other filters?"
+    } ]
+  }, {
+    "tStartMs": 537230,
+    "dDurationMs": 3229,
+    "segs": [ {
+      "utf8": "Then you could easily explain the results\nof the experiment, so we haven’t proved"
+    } ]
+  }, {
+    "tStartMs": 540459,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "hidden variable theories are impossible; just\nthat any hidden variable theory would have"
+    } ]
+  }, {
+    "tStartMs": 543790,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "to have the interaction of the particle with\none filter affect the interaction of the particle"
+    } ]
+  }, {
+    "tStartMs": 547920,
+    "dDurationMs": 1089,
+    "segs": [ {
+      "utf8": "with other filters."
+    } ]
+  }, {
+    "tStartMs": 549009,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Henry:  We can, however, rig up an experiment\nwhere the interactions cannot affect each"
+    } ]
+  }, {
+    "tStartMs": 552709,
+    "dDurationMs": 4391,
+    "segs": [ {
+      "utf8": "other without faster than light communication,\nbut where the same impossible numerical weirdness"
+    } ]
+  }, {
+    "tStartMs": 557100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "persists."
+    } ]
+  }, {
+    "tStartMs": 558100,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "The key is to make photons pass not through\nfilters at different points in time, but at"
+    } ]
+  }, {
+    "tStartMs": 561829,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "different points in space at the same time."
+    } ]
+  }, {
+    "tStartMs": 564089,
+    "dDurationMs": 1451,
+    "segs": [ {
+      "utf8": "And for this, you need entanglement."
+    } ]
+  }, {
+    "tStartMs": 565540,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Henry: For this video, what we'll mean when\nwe say two photons are \"entangled\" is that"
+    } ]
+  }, {
+    "tStartMs": 569040,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "if you were to pass each one of them through\nfilters oriented the same way, either both"
+    } ]
+  }, {
+    "tStartMs": 572829,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "pass through, or both get blocked."
+    } ]
+  }, {
+    "tStartMs": 574550,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "That is, they behave the same way when measured\nalong the same axis."
+    } ]
+  }, {
+    "tStartMs": 577749,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "And this correlated behavior persists no matter\nhow far away the photons and filters are from"
+    } ]
+  }, {
+    "tStartMs": 582009,
+    "dDurationMs": 3221,
+    "segs": [ {
+      "utf8": "each other, even if there's no way for one\nphoton to influence the other."
+    } ]
+  }, {
+    "tStartMs": 585230,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Unless, somehow, it did so faster than the\nspeed of light."
+    } ]
+  }, {
+    "tStartMs": 587920,
+    "dDurationMs": 1109,
+    "segs": [ {
+      "utf8": "But that would be crazy."
+    } ]
+  }, {
+    "tStartMs": 589029,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Grant:  So now here’s what you do for the\nentangled version of our photon-filter experiment."
+    } ]
+  }, {
+    "tStartMs": 593579,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Instead of sending one photon through multiple\npolarizing filters, you’ll send entangled"
+    } ]
+  }, {
+    "tStartMs": 598189,
+    "dDurationMs": 5251,
+    "segs": [ {
+      "utf8": "pairs of photons to two far away locations,\nand simultaneously at each location, randomly"
+    } ]
+  }, {
+    "tStartMs": 603440,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "choose one filter to put in the path of that\nphoton."
+    } ]
+  }, {
+    "tStartMs": 606639,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "Doing this many times, you’ll collect a\nlot of data about how often both photons in"
+    } ]
+  }, {
+    "tStartMs": 611010,
+    "dDurationMs": 3329,
+    "segs": [ {
+      "utf8": "an entangled pair pass through the different\ncombinations of filters."
+    } ]
+  }, {
+    "tStartMs": 614339,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Henry:  But the thing is, you still see all\nthe same numbers as before."
+    } ]
+  }, {
+    "tStartMs": 617589,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "When you use filter A at one site and filter\nB at the other, among all those that pass"
+    } ]
+  }, {
+    "tStartMs": 622059,
+    "dDurationMs": 4751,
+    "segs": [ {
+      "utf8": "through filter A, about 15% have an entangled\npartner that gets blocked at B.  Likewise,"
+    } ]
+  }, {
+    "tStartMs": 626810,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "if they’re set to B and C, about 15% of\nthose that do pass through B have an entangled"
+    } ]
+  }, {
+    "tStartMs": 631470,
+    "dDurationMs": 4349,
+    "segs": [ {
+      "utf8": "partner that gets blocked by C.  And with\nsettings A and C, half of those that through"
+    } ]
+  }, {
+    "tStartMs": 635819,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "A get blocked at C."
+    } ]
+  }, {
+    "tStartMs": 637239,
+    "dDurationMs": 3611,
+    "segs": [ {
+      "utf8": "Grant: Again, if you think carefully about\nthese numbers, they seem to contradict the"
+    } ]
+  }, {
+    "tStartMs": 640850,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "idea that there can be some hidden variable\ndetermining the photon’s states."
+    } ]
+  }, {
+    "tStartMs": 644529,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "Here, draw the same Venn Diagram as before,\nwhich assumes that each photon actually does"
+    } ]
+  }, {
+    "tStartMs": 649709,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "have some definite answers to the questions\n“Would it pass through A”, “Would it"
+    } ]
+  }, {
+    "tStartMs": 653410,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "pass through B” and “Would it pass through\nC”."
+    } ]
+  }, {
+    "tStartMs": 655610,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "Grant: If, as Henry said, 15% of those that\npass through A get blocked at B, we should"
+    } ]
+  }, {
+    "tStartMs": 660089,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "nudge these circles a bit so that only 15%\nof the area of circle A is outside circle"
+    } ]
+  }, {
+    "tStartMs": 666059,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "B.  Likewise, based on the data from entangled\npairs measured at B and C, only 15% of the"
+    } ]
+  }, {
+    "tStartMs": 672009,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "photons which pass through B would get blocked\nat C, so this region here inside B and outside"
+    } ]
+  }, {
+    "tStartMs": 677019,
+    "dDurationMs": 2091,
+    "segs": [ {
+      "utf8": "C needs to be sufficiently small."
+    } ]
+  }, {
+    "tStartMs": 679110,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Grant: But that really limits the number of\nphotons that would pass through A and get"
+    } ]
+  }, {
+    "tStartMs": 683900,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "blocked by C.  Why?"
+    } ]
+  }, {
+    "tStartMs": 685350,
+    "dDurationMs": 6909,
+    "segs": [ {
+      "utf8": "Well the region representing photons passing\nA and blocked at C is entirely contained inside"
+    } ]
+  }, {
+    "tStartMs": 692259,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the previous two."
+    } ]
+  }, {
+    "tStartMs": 693259,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "And yet, what quantum mechanics predicts,\nand what these entanglement experiments verify,"
+    } ]
+  }, {
+    "tStartMs": 697449,
+    "dDurationMs": 5271,
+    "segs": [ {
+      "utf8": "is that a full 50% of those measured to pass\nthrough A should have an entangled partner"
+    } ]
+  }, {
+    "tStartMs": 702720,
+    "dDurationMs": 1309,
+    "segs": [ {
+      "utf8": "getting blocked at C."
+    } ]
+  }, {
+    "tStartMs": 704029,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Grant: If you assume that all these circles\nhave the same size, which means any previously"
+    } ]
+  }, {
+    "tStartMs": 708749,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "unmeasured photon has no preference for one\nof these filters over the others, there is"
+    } ]
+  }, {
+    "tStartMs": 712889,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "literally no way to accurately represent all\nthree of these proportions in a diagram like"
+    } ]
+  }, {
+    "tStartMs": 717879,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "this, so it’s not looking good for hidden\nvariable theories."
+    } ]
+  }, {
+    "tStartMs": 721569,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Henry:  Again, for a hidden variable theory\nto survive, this can only be explained if"
+    } ]
+  }, {
+    "tStartMs": 726069,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "the photons are able to influence each other\nbased on which filters they passed through."
+    } ]
+  }, {
+    "tStartMs": 729709,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "But now we have a much stronger result,\nbecause in the case of entangled photons,"
+    } ]
+  }, {
+    "tStartMs": 733959,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "this influence would have to be faster than\nlight."
+    } ]
+  }, {
+    "tStartMs": 736359,
+    "dDurationMs": 3861,
+    "segs": [ {
+      "utf8": "Henry: The assumption that there is some deeper\nunderlying state to a particle even if it’s"
+    } ]
+  }, {
+    "tStartMs": 740220,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "not being probed is called “realism”."
+    } ]
+  }, {
+    "tStartMs": 742459,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "And the assumption that faster than light\ninfluence is not possible is called “locality”."
+    } ]
+  }, {
+    "tStartMs": 747220,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "What this experiment shows is that either\nrealism is not how the universe works, or"
+    } ]
+  }, {
+    "tStartMs": 752480,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "locality is not how the universe works, or\nsome combination (whatever that means)."
+    } ]
+  }, {
+    "tStartMs": 757060,
+    "dDurationMs": 3689,
+    "segs": [ {
+      "utf8": "Henry: Specifically, it’s not that quantum\nentanglement appears to violate realism or"
+    } ]
+  }, {
+    "tStartMs": 760749,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "the speed of light while actually being locally\nreal at some underlying level - it the contradictions"
+    } ]
+  }, {
+    "tStartMs": 765089,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "in this experiment show it CANNOT be locally\nreal, period."
+    } ]
+  }, {
+    "tStartMs": 768179,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "Grant: What we’ve described here is one\nexample of what's called a Bell inequality."
+    } ]
+  }, {
+    "tStartMs": 772290,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "It's a simple counting relationship that\nmust be obeyed by a set of questions with"
+    } ]
+  }, {
+    "tStartMs": 777170,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "definite answers, but which quantum states\nseem to disobey."
+    } ]
+  }, {
+    "tStartMs": 780170,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "Grant: In fact, the mathematics of quantum\ntheory predicts that entangled quantum states"
+    } ]
+  }, {
+    "tStartMs": 784569,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "should violate Bell inequalities in exactly\nthis way."
+    } ]
+  }, {
+    "tStartMs": 787769,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "John Bell originally put out the inequalities\nand the observation that quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 791959,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "would violate them in 1964."
+    } ]
+  }, {
+    "tStartMs": 793709,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "Henry: Since then, numerous experiments have\nput it into practice, but it turns out it’s"
+    } ]
+  }, {
+    "tStartMs": 797790,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "quite difficult to get all your entangled\nparticles and detectors to behave just right,"
+    } ]
+  }, {
+    "tStartMs": 801269,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "which can mean observed violations of this\ninequality might end with certain “loopholes”"
+    } ]
+  }, {
+    "tStartMs": 804959,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "that might leave room for locality and realism\nto both be true."
+    } ]
+  }, {
+    "tStartMs": 808369,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "The first loophole-free test happened only\nin 2015."
+    } ]
+  }, {
+    "tStartMs": 811359,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "Grant: There have also been numerous theoretical\ndevelopments in the intervening years, strengthening"
+    } ]
+  }, {
+    "tStartMs": 815730,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "Bell’s and other similar results (that is,\nstrengthening the case against local realism)."
+    } ]
+  }, {
+    "tStartMs": 820689,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Henry: In the end, here’s what I find crazy:\nBell’s Theorem is an incredibly deep result"
+    } ]
+  }, {
+    "tStartMs": 825299,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "upending what we know about how our universe\nworks that humanity has only just recently"
+    } ]
+  }, {
+    "tStartMs": 828879,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "come to know, and yet the math at its heart\nis a simple counting argument, and the underlying"
+    } ]
+  }, {
+    "tStartMs": 832939,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "physical principles can be seen in action\nwith a cheap home demo!"
+    } ]
+  }, {
+    "tStartMs": 836209,
+    "dDurationMs": 4791,
+    "segs": [ {
+      "utf8": "It’s frankly surprising more people don’t know about it"
+    } ]
+  } ]
+}

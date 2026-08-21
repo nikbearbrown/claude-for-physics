@@ -1,0 +1,1021 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 290,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "Ever wish you could travel backwards in time and do things differently? Good news: the"
+    } ]
+  }, {
+    "tStartMs": 5120,
+    "dDurationMs": 4889,
+    "segs": [ {
+      "utf8": "laws of physics seem to say traveling backwards in time is the same as traveling forwards."
+    } ]
+  }, {
+    "tStartMs": 10009,
+    "dDurationMs": 6541,
+    "segs": [ {
+      "utf8": "So why do we seem to be stuck in this inexorable flow towards the future? It's time to begin"
+    } ]
+  }, {
+    "tStartMs": 16550,
+    "dDurationMs": 3561,
+    "segs": [ {
+      "utf8": "our journey towards really understanding time."
+    } ]
+  }, {
+    "tStartMs": 24880,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "The laws of physics describe how the universe at one instant evolves into the universe at"
+    } ]
+  }, {
+    "tStartMs": 29590,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "the next. But those laws don’t distinguish\nbetween the future and the past. Reverse the flow"
+    } ]
+  }, {
+    "tStartMs": 34240,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "of time and their equations work exactly the same to describe a universe in rewind. That’s"
+    } ]
+  }, {
+    "tStartMs": 40110,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "true from the subatomic realm of quantum mechanics to the cosmic realm of Einstein’s general"
+    } ]
+  }, {
+    "tStartMs": 44420,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "relativity. But if time doesn’t have a preferred direction in physics, why does time seem to"
+    } ]
+  }, {
+    "tStartMs": 49300,
+    "dDurationMs": 4779,
+    "segs": [ {
+      "utf8": "drag us with it, and only in one direction?\nWhy is there an arrow of time?"
+    } ]
+  }, {
+    "tStartMs": 54079,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "There are two distinct ways in which we perceive the unidirectionality of time. One is external:"
+    } ]
+  }, {
+    "tStartMs": 59280,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "an egg might splatter when you drop it, but\nwill never spontaneously reassemble. Our whole"
+    } ]
+  }, {
+    "tStartMs": 64870,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "universe decays in the inexorable rise in\nentropy as time ticks forward. The other place"
+    } ]
+  }, {
+    "tStartMs": 71100,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "we perceive the arrow of time is internal:\nwe lay down our memories in an ordered sequence"
+    } ]
+  }, {
+    "tStartMs": 76670,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "of prior events. We remember the past, but\nnot the future."
+    } ]
+  }, {
+    "tStartMs": 81010,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Today we’re going to dive into the first\npart of this - How does entropy break the"
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "symmetry of time, and cause the future to\ndiffer from the past. We’ll follow with"
+    } ]
+  }, {
+    "tStartMs": 89090,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "an episode exploring why this breaking of\ntime symmetry on the cosmic scale defines"
+    } ]
+  }, {
+    "tStartMs": 93650,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "the experience of time that we experience\nin our own brains."
+    } ]
+  }, {
+    "tStartMs": 98720,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "So what exactly do we mean when we say the laws of physics don’t care about the direction"
+    } ]
+  }, {
+    "tStartMs": 102490,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "of time? Basically, if you reversed the motion of all particles in the universe - sent them"
+    } ]
+  }, {
+    "tStartMs": 106960,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "back exactly in the direction they came, and used the laws of physics to calculate what"
+    } ]
+  }, {
+    "tStartMs": 111580,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "would happen - you’d predict that those particles should perfectly retrace their steps,"
+    } ]
+  }, {
+    "tStartMs": 116650,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "all the way to the Big Bang if you calculated that far."
+    } ]
+  }, {
+    "tStartMs": 118850,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Let’s look at a simple example. We’re\ngoing to use our good-old block universe picture,"
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "where we have 2-dimensions of space and one dimension of time, with time flowing upwards."
+    } ]
+  }, {
+    "tStartMs": 128420,
+    "dDurationMs": 7099,
+    "segs": [ {
+      "utf8": "The block universe just sort of exists a-temporally. The experience of time is had by looking at"
+    } ]
+  }, {
+    "tStartMs": 135519,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "time-slices in a particular sequence, like\na flip book. OK, so imagine two particles"
+    } ]
+  }, {
+    "tStartMs": 140379,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "moving towards each other - let’s say, electrons. They move up in time and towards each other"
+    } ]
+  }, {
+    "tStartMs": 145319,
+    "dDurationMs": 4741,
+    "segs": [ {
+      "utf8": "in space. When they get close they deflect\ndue to the repulsive electrostatic force between"
+    } ]
+  }, {
+    "tStartMs": 150060,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "them."
+    } ]
+  }, {
+    "tStartMs": 151060,
+    "dDurationMs": 5489,
+    "segs": [ {
+      "utf8": "Newton’s laws of motion combined with Coulomb’s law perfectly describe how the electrons’"
+    } ]
+  }, {
+    "tStartMs": 156549,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "positions change over time. But if we flip\nthis diagram on its head - reverse the flow"
+    } ]
+  }, {
+    "tStartMs": 162049,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "of time, it still looks like two electrons\nbouncing off each other. The same equations"
+    } ]
+  }, {
+    "tStartMs": 166519,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "perfectly describe the bounce in both directions, and those equations don’t seem to prefer"
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 2109,
+    "segs": [ {
+      "utf8": "one direction or the other."
+    } ]
+  }, {
+    "tStartMs": 173109,
+    "dDurationMs": 3371,
+    "segs": [ {
+      "utf8": "So the laws of physics don’t care about\nthe direction of time. They just describe"
+    } ]
+  }, {
+    "tStartMs": 176480,
+    "dDurationMs": 5619,
+    "segs": [ {
+      "utf8": "the relationship between time slices of our\nblock universe. Time has a symmetry in the"
+    } ]
+  }, {
+    "tStartMs": 182099,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "sense that the past and future aren’t differentiated by the laws of physics. And those laws don’t"
+    } ]
+  }, {
+    "tStartMs": 187139,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "even require time to “flow” - it’s just\nanother dimension like space."
+    } ]
+  }, {
+    "tStartMs": 192079,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "There is a powerful exception to this. The\nsecond law of thermodynamics states that this"
+    } ]
+  }, {
+    "tStartMs": 196499,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "stuff called entropy must always increase\nor stay constant - entropy never decreases"
+    } ]
+  }, {
+    "tStartMs": 201230,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "over time. So the 2nd law does dictate a direction for time - it breaks the symmetry. To see"
+    } ]
+  }, {
+    "tStartMs": 207200,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "why, we’ll need to review entropy. We’ve\ntalked about it before, and this is a great"
+    } ]
+  }, {
+    "tStartMs": 211799,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "episode for a refresher. There are actually\nseveral ways to think about entropy. Today"
+    } ]
+  }, {
+    "tStartMs": 215859,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "we’ll talk about it in terms of distribution\nof energy. Energy can take many forms, and"
+    } ]
+  }, {
+    "tStartMs": 220609,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "can be transferred between forms and between objects. For example, kinetic energy is transferred"
+    } ]
+  }, {
+    "tStartMs": 225169,
+    "dDurationMs": 2621,
+    "segs": [ {
+      "utf8": "between our electrons when they collide."
+    } ]
+  }, {
+    "tStartMs": 227790,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Over time, energy tends to get shared out\nas evenly as possible due to, say, collisions."
+    } ]
+  }, {
+    "tStartMs": 233030,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "So if you had many ele ctrons in a box, and\nhalf of them had a lot of kinetic energy - were"
+    } ]
+  }, {
+    "tStartMs": 237329,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "moving fast, while the others had none - pretty quick energy would be shared out and it would"
+    } ]
+  }, {
+    "tStartMs": 243639,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "stay shared out. It’s very unlikely that\nthrough random collisions, half the electrons"
+    } ]
+  }, {
+    "tStartMs": 248449,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "would get all the energy and the other half\nend up with none."
+    } ]
+  }, {
+    "tStartMs": 253189,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "So if you start from a situation where energy is not perfectly randomly spread out, then"
+    } ]
+  }, {
+    "tStartMs": 257730,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "over time it’ll become more spread out.\nEntropy measures how randomly distributed"
+    } ]
+  }, {
+    "tStartMs": 262280,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "the energy in a system is. Higher entropy\nmeans more random. The second law of thermodynamics"
+    } ]
+  }, {
+    "tStartMs": 267980,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "tells us that entropy must increase over time - which just means that a system that starts"
+    } ]
+  }, {
+    "tStartMs": 273070,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "out in a very specific, non-random state will tend to become more random. It’s a statistical"
+    } ]
+  }, {
+    "tStartMs": 279530,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "effect - it’s possible for small fluctuations\nto happen, local drops in entropy, but the"
+    } ]
+  }, {
+    "tStartMs": 285100,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "larger the system the less likely it is for\nentropy to reverse."
+    } ]
+  }, {
+    "tStartMs": 290380,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "So how does this set the forward direction\nof time? Actually, it doesn’t. The 2nd law"
+    } ]
+  }, {
+    "tStartMs": 296820,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "just tells us how a system is likely to change from a position of low entropy - in either"
+    } ]
+  }, {
+    "tStartMs": 302760,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "time direction. To understand why one particular direction ends up being chosen, we need to"
+    } ]
+  }, {
+    "tStartMs": 308260,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "return to the block universe."
+    } ]
+  }, {
+    "tStartMs": 310190,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Let’s start with a handful of particles\nwith low entropy. You can do low entropy by"
+    } ]
+  }, {
+    "tStartMs": 315550,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "having a weird distribution of velocities,\nbut you can also do it by clustering the particles"
+    } ]
+  }, {
+    "tStartMs": 320720,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "in one spot in the available space. Let’s\ngive those particles random velocities and"
+    } ]
+  }, {
+    "tStartMs": 325820,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "see what happens in the following time steps.Even though the velocities pointed in random"
+    } ]
+  }, {
+    "tStartMs": 331740,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "directions, the cluster will inevitably disperse. Entropy increases as energy spreads out to"
+    } ]
+  }, {
+    "tStartMs": 337830,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "all possible states - in this case towards\nall possible locations the particles could"
+    } ]
+  }, {
+    "tStartMs": 342380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "occupy."
+    } ]
+  }, {
+    "tStartMs": 343380,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "In this case, we defined the “up” time\ndirection in the block universe as “towards"
+    } ]
+  }, {
+    "tStartMs": 347360,
+    "dDurationMs": 7410,
+    "segs": [ {
+      "utf8": "the future”. But what does this look like\ngoing backwards in time? Uh, exactly the same"
+    } ]
+  }, {
+    "tStartMs": 354770,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "actually. Random velocity directions will\ntend to spread this cluster apart in both"
+    } ]
+  }, {
+    "tStartMs": 359490,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "time directions."
+    } ]
+  }, {
+    "tStartMs": 360890,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "Again: if you take any low-entropy system\nand look at steps either before or after it"
+    } ]
+  }, {
+    "tStartMs": 366740,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "in time, entropy is likely to be higher. Entropy actually doesn’t care about the direction"
+    } ]
+  }, {
+    "tStartMs": 372390,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "of time any more than the other laws of physics - it just wants to increase in adjacent time-steps,"
+    } ]
+  }, {
+    "tStartMs": 378250,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "in either direction."
+    } ]
+  }, {
+    "tStartMs": 379490,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "But if you live on either side of the starting,\nlow-entropy point, you perceive an asymmetry"
+    } ]
+  }, {
+    "tStartMs": 384450,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "in time - particles expanding, entropy increasing on one side, or particles converging,and entropy"
+    } ]
+  }, {
+    "tStartMs": 391420,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "decreasing on the other. Zoom in to individual particle interactions and you see perfect"
+    } ]
+  }, {
+    "tStartMs": 396860,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "reversibility of the laws of physics, but\nzoom out and time’s arrow emerges. The presence"
+    } ]
+  }, {
+    "tStartMs": 402560,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "of an entropy minimum dictates the arrow of time - on either side of that minimum, the universe is overwhelmingly"
+    } ]
+  }, {
+    "tStartMs": 409140,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "likely to evolve in a very particular way."
+    } ]
+  }, {
+    "tStartMs": 412710,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "The real-world situation represented by this diagram is called an entropy fluctuation."
+    } ]
+  }, {
+    "tStartMs": 417700,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "We experience entropy decrease very occasionally and, typically, on very small scales due to"
+    } ]
+  }, {
+    "tStartMs": 424180,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "random alignments of particle trajectories\nor however else energy is moving around. Entropy"
+    } ]
+  }, {
+    "tStartMs": 430300,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "can decrease, reach a minimum, and then will be seen to increase - now on both sides of"
+    } ]
+  }, {
+    "tStartMs": 435180,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "the point in time of that minimum."
+    } ]
+  }, {
+    "tStartMs": 437390,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "OK, what does all of this mean for our universe and the universal arrow of time? Well it’s"
+    } ]
+  }, {
+    "tStartMs": 442610,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "no accident I chose “expanding particles”\nto illustrate evolving entropy. When we measure"
+    } ]
+  }, {
+    "tStartMs": 448090,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "the velocities of particles across our universe - in the form of galaxies"
+    } ]
+  }, {
+    "tStartMs": 452660,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "- we don’t see random motion. We see galaxies racing away from each other, which means they"
+    } ]
+  }, {
+    "tStartMs": 457650,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "were once more closely clustered. This is\nthe expansion of the universe, and it’s"
+    } ]
+  }, {
+    "tStartMs": 462400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the manifestation of the 2nd law on the largest of scales. We know that entropy was lower"
+    } ]
+  }, {
+    "tStartMs": 467920,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "in the past because we can trace the positions of galaxies and the particles that comprise"
+    } ]
+  }, {
+    "tStartMs": 472030,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "them back and calculate a much denser, more “special” arrangement - in fact an incredibly"
+    } ]
+  }, {
+    "tStartMs": 478510,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "low entropy arrangement. That would be the Big Bang. Given that knowledge, it’s not"
+    } ]
+  }, {
+    "tStartMs": 483760,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "surprising that entropy is increasing in what we now think of as the forward direction of"
+    } ]
+  }, {
+    "tStartMs": 489190,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "time in our universe."
+    } ]
+  }, {
+    "tStartMs": 491750,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "So this is one argument for the direction\nof the arrow of time. If we think of time"
+    } ]
+  }, {
+    "tStartMs": 495890,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "as just a series of instances - slices of\nthe block universe connected by the laws of"
+    } ]
+  }, {
+    "tStartMs": 500760,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "physics, then we can break the symmetry in\nthe direction of time if one of those slices"
+    } ]
+  }, {
+    "tStartMs": 506160,
+    "dDurationMs": 6909,
+    "segs": [ {
+      "utf8": "has a very unusual arrangement. The universe must get less special in either direction,"
+    } ]
+  }, {
+    "tStartMs": 513069,
+    "dDurationMs": 8010,
+    "segs": [ {
+      "utf8": "so someone looking at the universe from either side would see a directionality to time. OK,"
+    } ]
+  }, {
+    "tStartMs": 521079,
+    "dDurationMs": 4881,
+    "segs": [ {
+      "utf8": "so in our universe, what caused this initial\nspecial arrangement, this extreme density of"
+    } ]
+  }, {
+    "tStartMs": 525960,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "the Big Bang and its corresponding ridiculously low entropy? This is actually an open question"
+    } ]
+  }, {
+    "tStartMs": 532720,
+    "dDurationMs": 4589,
+    "segs": [ {
+      "utf8": "in physics, and we’re not going to address\nit right now. But one possible consequence"
+    } ]
+  }, {
+    "tStartMs": 537309,
+    "dDurationMs": 4441,
+    "segs": [ {
+      "utf8": "is that if you trace all particles backwards\nin time to this original “special” slice,"
+    } ]
+  }, {
+    "tStartMs": 541750,
+    "dDurationMs": 5589,
+    "segs": [ {
+      "utf8": "at which velocities are all random, and keep tracing out the other side then you should"
+    } ]
+  }, {
+    "tStartMs": 547339,
+    "dDurationMs": 6541,
+    "segs": [ {
+      "utf8": "see entropy increasing again, but now backwards in time. It’s not crazy to imagine a symmetric"
+    } ]
+  }, {
+    "tStartMs": 553880,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "universe in which those particles fan out\nagain like a reverse Big Bang. This might"
+    } ]
+  }, {
+    "tStartMs": 559300,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "be the case if the Big Bang resulted from\nan insanely improbable, universe-sized entropy"
+    } ]
+  }, {
+    "tStartMs": 564540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "fluctuation."
+    } ]
+  }, {
+    "tStartMs": 565540,
+    "dDurationMs": 3529,
+    "segs": [ {
+      "utf8": "There’s no evidence that this is true - but\nif it was true we’re presented with a fun"
+    } ]
+  }, {
+    "tStartMs": 569069,
+    "dDurationMs": 4691,
+    "segs": [ {
+      "utf8": "scenario. If entropy increases backwards in time before the big bang, does that mean time"
+    } ]
+  }, {
+    "tStartMs": 573760,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "runs in reverse back then? Would that reverse Big Bang lead to a time-reversed universe?"
+    } ]
+  }, {
+    "tStartMs": 579060,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "It’s not entirely crazy to think so - but\nfirst you need to explain one thing. How is"
+    } ]
+  }, {
+    "tStartMs": 583459,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the thermodynamic arrow of time - the flow of time defined by increasing entropy -connected"
+    } ]
+  }, {
+    "tStartMs": 587699,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "to our sense of the flow of time? Why do we experience time sequences passes in the same order"
+    } ]
+  }, {
+    "tStartMs": 594139,
+    "dDurationMs": 6541,
+    "segs": [ {
+      "utf8": "as increasing entropy? To understand why we only remember the past, not the future, we"
+    } ]
+  }, {
+    "tStartMs": 600680,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "need to delve deeper. In fact it involves\ninformation theory and quantum entanglement,"
+    } ]
+  }, {
+    "tStartMs": 606639,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "so we need another episode. Or more than one. Because on Space Time we’ve always given"
+    } ]
+  }, {
+    "tStartMs": 612389,
+    "dDurationMs": 4831,
+    "segs": [ {
+      "utf8": "plenty of time to space, but it’s timely\nto spend time on that fascinating dimension"
+    } ]
+  }, {
+    "tStartMs": 617220,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "that deserves more space: time."
+    } ]
+  }, {
+    "tStartMs": 620240,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "Hey Guys. So we're going to be taking a short release break for Thanksgiving here in in the US,"
+    } ]
+  }, {
+    "tStartMs": 625139,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "for right now we’re looking at comments\nfrom the last two episodes - electroweak theory"
+    } ]
+  }, {
+    "tStartMs": 630149,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and our discussion on free will in physics."
+    } ]
+  }, {
+    "tStartMs": 634089,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "On electroweak theory Marik Zilberman has a really good comment. If the current fundamental"
+    } ]
+  }, {
+    "tStartMs": 639779,
+    "dDurationMs": 8100,
+    "segs": [ {
+      "utf8": "forces that were once combined, could they be broken further? Honestly, I think the answer"
+    } ]
+  }, {
+    "tStartMs": 647879,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "has to be yes, at least to some degree. The\nHiggs field sits at a non-zero vacuum energy"
+    } ]
+  }, {
+    "tStartMs": 653329,
+    "dDurationMs": 5431,
+    "segs": [ {
+      "utf8": "so could potentially decay to zero, or even\nto a lower non-zero state non-zero state."
+    } ]
+  }, {
+    "tStartMs": 658760,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "IF the universe went thorugh another phase transition - a vacuum decay - then the weak"
+    } ]
+  }, {
+    "tStartMs": 663790,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "interaction would fundamentally change - to become a different force with different bosons."
+    } ]
+  }, {
+    "tStartMs": 669459,
+    "dDurationMs": 6341,
+    "segs": [ {
+      "utf8": "given we hgaven't actually done a vacuum decay eposide yet I'll save my deep dive into this"
+    } ]
+  }, {
+    "tStartMs": 675800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "for then."
+    } ]
+  }, {
+    "tStartMs": 676800,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "Vacuum Diagrams dropped a lot of wisdom as always. I’m going to try to restate one"
+    } ]
+  }, {
+    "tStartMs": 680779,
+    "dDurationMs": 6141,
+    "segs": [ {
+      "utf8": "point to see if I understood. Dr. Diagrams\ncan correct me if I mess it up. So the idea"
+    } ]
+  }, {
+    "tStartMs": 686920,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "is that that new information doesn’t need\nto arise in the decision-making patch of the"
+    } ]
+  }, {
+    "tStartMs": 692970,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "universe - AKA our brain - in order for us\nto consider that region the origin of a choice"
+    } ]
+  }, {
+    "tStartMs": 698190,
+    "dDurationMs": 6379,
+    "segs": [ {
+      "utf8": "AKA grant it some version of free will. In\na deterministic universe, we imagine all information"
+    } ]
+  }, {
+    "tStartMs": 704569,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "as being generated at the beginning and then just rearranged as the universe evolves. But"
+    } ]
+  }, {
+    "tStartMs": 710619,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "we can think of that initial event as a random number generator whose gigantic store of random"
+    } ]
+  }, {
+    "tStartMs": 716939,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "numbers are then used by, like, physics and stuff for the rest of time. And our brains"
+    } ]
+  }, {
+    "tStartMs": 722769,
+    "dDurationMs": 5341,
+    "segs": [ {
+      "utf8": "use those random numbers as part of their\nchoice-making mechanics. They become informational"
+    } ]
+  }, {
+    "tStartMs": 728110,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "fuel for our choices.. Now if those random\nnumbers are not even in principle learnable"
+    } ]
+  }, {
+    "tStartMs": 734320,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "by some snooping entity, then it doesn’t\nmatter whether they were generated in our"
+    } ]
+  }, {
+    "tStartMs": 739390,
+    "dDurationMs": 5229,
+    "segs": [ {
+      "utf8": "brains or in the big bang. The effect is the\nsame: effective free will, in the sense that"
+    } ]
+  }, {
+    "tStartMs": 744619,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "our choices have fundamental unpredictability. Dr Diagrams also points us to Scott Aaronson’s"
+    } ]
+  }, {
+    "tStartMs": 751519,
+    "dDurationMs": 4471,
+    "segs": [ {
+      "utf8": "essay \"The Ghost in the Quantum Turing Machine”, which I’m going to go and read now."
+    } ]
+  }, {
+    "tStartMs": 755990,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Dave Jacob asks why the terms \"compatibilistism\" and \"incompatibilistism\" weren’t mentioned,"
+    } ]
+  }, {
+    "tStartMs": 761870,
+    "dDurationMs": 4889,
+    "segs": [ {
+      "utf8": "given that they define the the philosophical\npositions we discussed. Well I wanted to make"
+    } ]
+  }, {
+    "tStartMs": 766759,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "sure it was more of a physics episode than\na philosophy episode. But I also may have"
+    } ]
+  }, {
+    "tStartMs": 772059,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "a personal distaste for overuse of philosophical-isms. I find that neat labels encompassing"
+    } ]
+  }, {
+    "tStartMs": 778649,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "entire philosophical positions are helpful\nin verbal shortcuts in highly academic discussions,"
+    } ]
+  }, {
+    "tStartMs": 785069,
+    "dDurationMs": 5841,
+    "segs": [ {
+      "utf8": "but can also generate an illusion of understanding. They’ are very static entities by nature of"
+    } ]
+  }, {
+    "tStartMs": 790910,
+    "dDurationMs": 5529,
+    "segs": [ {
+      "utf8": "being a handful of syllables - but are meant to represent a whole family positions whose"
+    } ]
+  }, {
+    "tStartMs": 796439,
+    "dDurationMs": 5621,
+    "segs": [ {
+      "utf8": "subtle variations are important. Are these\nterms essential to discussion the question?"
+    } ]
+  }, {
+    "tStartMs": 802060,
+    "dDurationMs": 5259,
+    "segs": [ {
+      "utf8": "No - they’re useful for discussing it efficiently if we’re confident that everyone understands"
+    } ]
+  }, {
+    "tStartMs": 807319,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "all the content and nuance embedded in a term. Anyway, they’ve been mentioned now, and"
+    } ]
+  }, {
+    "tStartMs": 812019,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "wikipedia awaits those keen to expand their philosophy vocab."
+    } ]
+  }, {
+    "tStartMs": 816290,
+    "dDurationMs": 7310,
+    "segs": [ {
+      "utf8": "And back to matters quantum. Zahaquiel reminded us of the best proof regarding quantum electrodynamics,"
+    } ]
+  }, {
+    "tStartMs": 823600,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "which comes from ontology:\n1. A physics theory with a cool abbreviation"
+    } ]
+  }, {
+    "tStartMs": 829119,
+    "dDurationMs": 4611,
+    "segs": [ {
+      "utf8": "is inherently better than a physics theory\nwithout a cool abbreviation."
+    } ]
+  }, {
+    "tStartMs": 833730,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "2. Quantum electrodynamics has a pretty cool abbreviation."
+    } ]
+  }, {
+    "tStartMs": 838790,
+    "dDurationMs": 4579,
+    "segs": [ {
+      "utf8": "therefore Quantum electrodynamics is better than other physics theories."
+    } ]
+  }, {
+    "tStartMs": 843369,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Q.E.D."
+    } ]
+  } ]
+}

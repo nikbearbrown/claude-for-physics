@@ -1,0 +1,3169 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- For hundreds of years,"
+    } ]
+  }, {
+    "tStartMs": 1350,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "analog computers were the most\npowerful computers on Earth,"
+    } ]
+  }, {
+    "tStartMs": 5100,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "predicting eclipses, tides,\nand guiding anti-aircraft guns."
+    } ]
+  }, {
+    "tStartMs": 9720,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "Then, with the advent of\nsolid-state transistors,"
+    } ]
+  }, {
+    "tStartMs": 12650,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "digital computers took off."
+    } ]
+  }, {
+    "tStartMs": 14500,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Now, virtually every\ncomputer we use is digital."
+    } ]
+  }, {
+    "tStartMs": 18080,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "But today, a perfect storm of\nfactors is setting the scene"
+    } ]
+  }, {
+    "tStartMs": 21730,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "for a resurgence of analog technology."
+    } ]
+  }, {
+    "tStartMs": 24900,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "This is an analog computer,"
+    } ]
+  }, {
+    "tStartMs": 27530,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "and by connecting these\nwires in particular ways,"
+    } ]
+  }, {
+    "tStartMs": 30430,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I can program it to solve a whole range"
+    } ]
+  }, {
+    "tStartMs": 32670,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "of differential equations."
+    } ]
+  }, {
+    "tStartMs": 34870,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "For example, this setup\nallows me to simulate"
+    } ]
+  }, {
+    "tStartMs": 37740,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "a damped mass oscillating on a spring."
+    } ]
+  }, {
+    "tStartMs": 40800,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So on the oscilloscope, you\ncan actually see the position"
+    } ]
+  }, {
+    "tStartMs": 43720,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "of the mass over time."
+    } ]
+  }, {
+    "tStartMs": 45750,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "And I can vary the damping,"
+    } ]
+  }, {
+    "tStartMs": 48940,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "or the spring constant,"
+    } ]
+  }, {
+    "tStartMs": 51900,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "or the mass, and we can\nsee how the amplitude"
+    } ]
+  }, {
+    "tStartMs": 54740,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and duration of the oscillations change."
+    } ]
+  }, {
+    "tStartMs": 57740,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Now what makes this an analog computer"
+    } ]
+  }, {
+    "tStartMs": 60060,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "is that there are no\nzeros and ones in here."
+    } ]
+  }, {
+    "tStartMs": 63440,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Instead, there's actually\na voltage that oscillates"
+    } ]
+  }, {
+    "tStartMs": 66810,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "up and down exactly\nlike a mass on a spring."
+    } ]
+  }, {
+    "tStartMs": 70260,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "The electrical circuitry is an analog"
+    } ]
+  }, {
+    "tStartMs": 72770,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "for the physical problem,"
+    } ]
+  }, {
+    "tStartMs": 74330,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "it just takes place much faster."
+    } ]
+  }, {
+    "tStartMs": 76660,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Now, if I change the\nelectrical connections,"
+    } ]
+  }, {
+    "tStartMs": 79120,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "I can program this computer"
+    } ]
+  }, {
+    "tStartMs": 80300,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "to solve other differential equations,"
+    } ]
+  }, {
+    "tStartMs": 82270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "like the Lorenz system,"
+    } ]
+  }, {
+    "tStartMs": 84010,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "which is a basic model of\nconvection in the atmosphere."
+    } ]
+  }, {
+    "tStartMs": 87290,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Now the Lorenz system is\nfamous because it was one"
+    } ]
+  }, {
+    "tStartMs": 89460,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "of the first discovered examples of chaos."
+    } ]
+  }, {
+    "tStartMs": 92270,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "And here, you can see the Lorenz attractor"
+    } ]
+  }, {
+    "tStartMs": 95520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "with its beautiful butterfly shape."
+    } ]
+  }, {
+    "tStartMs": 98400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And on this analog computer,"
+    } ]
+  }, {
+    "tStartMs": 99900,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "I can change the parameters"
+    } ]
+  }, {
+    "tStartMs": 102360,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "and see their effects in real time."
+    } ]
+  }, {
+    "tStartMs": 106410,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "So these examples illustrate some"
+    } ]
+  }, {
+    "tStartMs": 107980,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "of the advantages of analog computers."
+    } ]
+  }, {
+    "tStartMs": 110650,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "They are incredibly\npowerful computing devices,"
+    } ]
+  }, {
+    "tStartMs": 113260,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and they can complete a\nlot of computations fast."
+    } ]
+  }, {
+    "tStartMs": 116580,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "Plus, they don't take much power to do it."
+    } ]
+  }, {
+    "tStartMs": 121520,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "With a digital computer,"
+    } ]
+  }, {
+    "tStartMs": 122900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "if you wanna add two eight-bit numbers,"
+    } ]
+  }, {
+    "tStartMs": 125600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "you need around 50 transistors,"
+    } ]
+  }, {
+    "tStartMs": 128120,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "whereas with an analog computer,"
+    } ]
+  }, {
+    "tStartMs": 129760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "you can add two currents,"
+    } ]
+  }, {
+    "tStartMs": 132240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "just by connecting two wires."
+    } ]
+  }, {
+    "tStartMs": 135760,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "With a digital computer\nto multiply two numbers,"
+    } ]
+  }, {
+    "tStartMs": 138380,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "you need on the order of 1,000 transistors"
+    } ]
+  }, {
+    "tStartMs": 140970,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "all switching zeros and ones,"
+    } ]
+  }, {
+    "tStartMs": 143600,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "whereas with an analog computer,"
+    } ]
+  }, {
+    "tStartMs": 144960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "you can pass a current through a resistor,"
+    } ]
+  }, {
+    "tStartMs": 148480,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "and then the voltage across this resistor"
+    } ]
+  }, {
+    "tStartMs": 151850,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "will be I times R."
+    } ]
+  }, {
+    "tStartMs": 154290,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "So effectively,"
+    } ]
+  }, {
+    "tStartMs": 155700,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "you have multiplied two numbers together."
+    } ]
+  }, {
+    "tStartMs": 160010,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But analog computers also\nhave their drawbacks."
+    } ]
+  }, {
+    "tStartMs": 162930,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "For one thing,"
+    } ]
+  }, {
+    "tStartMs": 163763,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "they are not general-purpose\ncomputing devices."
+    } ]
+  }, {
+    "tStartMs": 166430,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I mean, you're not gonna run\nMicrosoft Word on this thing."
+    } ]
+  }, {
+    "tStartMs": 169430,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And also, since the inputs\nand outputs are continuous,"
+    } ]
+  }, {
+    "tStartMs": 172990,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "I can't input exact values."
+    } ]
+  }, {
+    "tStartMs": 175920,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "So if I try to repeat\nthe same calculation,"
+    } ]
+  }, {
+    "tStartMs": 178980,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "I'm never going to get\nthe exact same answer."
+    } ]
+  }, {
+    "tStartMs": 181870,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Plus, think about\nmanufacturing analog computers."
+    } ]
+  }, {
+    "tStartMs": 184660,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "There's always gonna be some variation"
+    } ]
+  }, {
+    "tStartMs": 186300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "in the exact value of components,"
+    } ]
+  }, {
+    "tStartMs": 188200,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "like resistors or capacitors."
+    } ]
+  }, {
+    "tStartMs": 190370,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So as a general rule of thumb,"
+    } ]
+  }, {
+    "tStartMs": 192260,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "you can expect about a 1% error."
+    } ]
+  }, {
+    "tStartMs": 195540,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So when you think of analog computers,"
+    } ]
+  }, {
+    "tStartMs": 197340,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "you can think powerful,\nfast, and energy-efficient,"
+    } ]
+  }, {
+    "tStartMs": 200820,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "but also single-purpose,\nnon-repeatable, and inexact."
+    } ]
+  }, {
+    "tStartMs": 205730,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "And if those sound like deal-breakers,"
+    } ]
+  }, {
+    "tStartMs": 208140,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "it's because they probably are."
+    } ]
+  }, {
+    "tStartMs": 210010,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I think these are the major reasons"
+    } ]
+  }, {
+    "tStartMs": 211850,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "why analog computers fell out of favor"
+    } ]
+  }, {
+    "tStartMs": 213610,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "as soon as digital\ncomputers became viable."
+    } ]
+  }, {
+    "tStartMs": 216900,
+    "dDurationMs": 4418,
+    "segs": [ {
+      "utf8": "Now, here's why analog computers\nmay be making a comeback."
+    } ]
+  }, {
+    "tStartMs": 221318,
+    "dDurationMs": 2482,
+    "segs": [ {
+      "utf8": "(computers beeping)"
+    } ]
+  }, {
+    "tStartMs": 223800,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It all starts with\nartificial intelligence."
+    } ]
+  }, {
+    "tStartMs": 226500,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "- [Narrator] A machine\nhas been programmed to see"
+    } ]
+  }, {
+    "tStartMs": 228710,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "and to move objects."
+    } ]
+  }, {
+    "tStartMs": 231330,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "- AI isn't new."
+    } ]
+  }, {
+    "tStartMs": 232940,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "The term was coined back in 1956."
+    } ]
+  }, {
+    "tStartMs": 235690,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "In 1958, Cornell University psychologist,"
+    } ]
+  }, {
+    "tStartMs": 238760,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Frank Rosenblatt, built the perceptron,"
+    } ]
+  }, {
+    "tStartMs": 241290,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "designed to mimic how\nneurons fire in our brains."
+    } ]
+  }, {
+    "tStartMs": 245150,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So here's a basic model of how\nneurons in our brains work."
+    } ]
+  }, {
+    "tStartMs": 248930,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "An individual neuron\ncan either fire or not,"
+    } ]
+  }, {
+    "tStartMs": 252160,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "so its level of activation\ncan be represented"
+    } ]
+  }, {
+    "tStartMs": 254380,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "as a one or a zero."
+    } ]
+  }, {
+    "tStartMs": 256480,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "The input to one neuron"
+    } ]
+  }, {
+    "tStartMs": 258370,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "is the output from a bunch other neurons,"
+    } ]
+  }, {
+    "tStartMs": 261130,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "but the strength of these connections"
+    } ]
+  }, {
+    "tStartMs": 262820,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "between neurons varies,"
+    } ]
+  }, {
+    "tStartMs": 264410,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "so each one can be given\na different weight."
+    } ]
+  }, {
+    "tStartMs": 267420,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Some connections are excitatory,"
+    } ]
+  }, {
+    "tStartMs": 269410,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "so they have positive weights,"
+    } ]
+  }, {
+    "tStartMs": 270910,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "while others are inhibitory,"
+    } ]
+  }, {
+    "tStartMs": 272840,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "so they have negative weights."
+    } ]
+  }, {
+    "tStartMs": 274550,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "And the way to figure out"
+    } ]
+  }, {
+    "tStartMs": 275470,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "whether a particular neuron fires,"
+    } ]
+  }, {
+    "tStartMs": 277670,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "is to take the activation\nof each input neuron"
+    } ]
+  }, {
+    "tStartMs": 280380,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and multiply by its weight,"
+    } ]
+  }, {
+    "tStartMs": 282600,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "and then add these all together."
+    } ]
+  }, {
+    "tStartMs": 284370,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "If their sum is greater than\nsome number called the bias,"
+    } ]
+  }, {
+    "tStartMs": 287490,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "then the neuron fires,"
+    } ]
+  }, {
+    "tStartMs": 289050,
+    "dDurationMs": 2913,
+    "segs": [ {
+      "utf8": "but if it's less than that,\nthe neuron doesn't fire."
+    } ]
+  }, {
+    "tStartMs": 293460,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "As input, Rosenblatt's\nperceptron had 400 photocells"
+    } ]
+  }, {
+    "tStartMs": 297190,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "arranged in a square grid,"
+    } ]
+  }, {
+    "tStartMs": 299080,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "to capture a 20 by 20-pixel image."
+    } ]
+  }, {
+    "tStartMs": 302160,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "You can think of each\npixel as an input neuron,"
+    } ]
+  }, {
+    "tStartMs": 304670,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "with its activation being\nthe brightness of the pixel."
+    } ]
+  }, {
+    "tStartMs": 307780,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Although strictly speaking,"
+    } ]
+  }, {
+    "tStartMs": 309020,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "the activation should\nbe either zero or one,"
+    } ]
+  }, {
+    "tStartMs": 311910,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "we can let it take any\nvalue between zero and one."
+    } ]
+  }, {
+    "tStartMs": 315960,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "All of these neurons are connected"
+    } ]
+  }, {
+    "tStartMs": 318090,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "to a single output neuron,"
+    } ]
+  }, {
+    "tStartMs": 320130,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "each via its own adjustable weight."
+    } ]
+  }, {
+    "tStartMs": 323140,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "So to see if the output neuron will fire,"
+    } ]
+  }, {
+    "tStartMs": 325370,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "you multiply the activation\nof each neuron by its weight,"
+    } ]
+  }, {
+    "tStartMs": 328840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and add them together."
+    } ]
+  }, {
+    "tStartMs": 330440,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "This is essentially a vector dot product."
+    } ]
+  }, {
+    "tStartMs": 333260,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "If the answer is larger than\nthe bias, the neuron fires,"
+    } ]
+  }, {
+    "tStartMs": 336600,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "and if not, it doesn't."
+    } ]
+  }, {
+    "tStartMs": 338890,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Now the goal of the perceptron"
+    } ]
+  }, {
+    "tStartMs": 340590,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "was to reliably distinguish\nbetween two images,"
+    } ]
+  }, {
+    "tStartMs": 343690,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "like a rectangle and a circle."
+    } ]
+  }, {
+    "tStartMs": 345970,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "For example,"
+    } ]
+  }, {
+    "tStartMs": 346803,
+    "dDurationMs": 1797,
+    "segs": [ {
+      "utf8": "the output neuron could always fire"
+    } ]
+  }, {
+    "tStartMs": 348600,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "when presented with a circle,"
+    } ]
+  }, {
+    "tStartMs": 349950,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "but never when presented with a rectangle."
+    } ]
+  }, {
+    "tStartMs": 352930,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "To achieve this, the\nperception had to be trained,"
+    } ]
+  }, {
+    "tStartMs": 355890,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that is, shown a series\nof different circles"
+    } ]
+  }, {
+    "tStartMs": 358410,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and rectangles, and have its\nweights adjusted accordingly."
+    } ]
+  }, {
+    "tStartMs": 362490,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "We can visualize the weights as an image,"
+    } ]
+  }, {
+    "tStartMs": 365350,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "since there's a unique weight\nfor each pixel of the image."
+    } ]
+  }, {
+    "tStartMs": 369440,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Initially, Rosenblatt set\nall the weights to zero."
+    } ]
+  }, {
+    "tStartMs": 372470,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "If the perceptron's output is correct,"
+    } ]
+  }, {
+    "tStartMs": 374530,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "for example, here it's shown a rectangle"
+    } ]
+  }, {
+    "tStartMs": 376820,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "and the output neuron doesn't fire,"
+    } ]
+  }, {
+    "tStartMs": 379000,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "no change is made to the weights."
+    } ]
+  }, {
+    "tStartMs": 381260,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "But if it's wrong, then\nthe weights are adjusted."
+    } ]
+  }, {
+    "tStartMs": 383910,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "The algorithm for updating the weights"
+    } ]
+  }, {
+    "tStartMs": 385920,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "is remarkably simple."
+    } ]
+  }, {
+    "tStartMs": 387640,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Here, the output neuron didn't\nfire when it was supposed to"
+    } ]
+  }, {
+    "tStartMs": 390730,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "because it was shown a circle."
+    } ]
+  }, {
+    "tStartMs": 392370,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "So to modify the weights,"
+    } ]
+  }, {
+    "tStartMs": 393890,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "you simply add the input\nactivations to the weights."
+    } ]
+  }, {
+    "tStartMs": 398210,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "If the output neuron\nfires when it shouldn't,"
+    } ]
+  }, {
+    "tStartMs": 400540,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "like here, when shown a rectangle,"
+    } ]
+  }, {
+    "tStartMs": 402890,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "well, then you subtract\nthe input activations"
+    } ]
+  }, {
+    "tStartMs": 405670,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "from the weights, and you keep doing this"
+    } ]
+  }, {
+    "tStartMs": 408280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "until the perceptron correctly identifies"
+    } ]
+  }, {
+    "tStartMs": 410840,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "all the training images."
+    } ]
+  }, {
+    "tStartMs": 412630,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "It was shown that this\nalgorithm will always converge,"
+    } ]
+  }, {
+    "tStartMs": 415520,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "so long as it's possible\nto map the two categories"
+    } ]
+  }, {
+    "tStartMs": 418180,
+    "dDurationMs": 1855,
+    "segs": [ {
+      "utf8": "into distinct groups."
+    } ]
+  }, {
+    "tStartMs": 420035,
+    "dDurationMs": 2205,
+    "segs": [ {
+      "utf8": "(footsteps thumping)"
+    } ]
+  }, {
+    "tStartMs": 422240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The perceptron was\ncapable of distinguishing"
+    } ]
+  }, {
+    "tStartMs": 424960,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "between different shapes,\nlike rectangles and triangles,"
+    } ]
+  }, {
+    "tStartMs": 427900,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "or between different letters."
+    } ]
+  }, {
+    "tStartMs": 429220,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "And according to Rosenblatt,"
+    } ]
+  }, {
+    "tStartMs": 430650,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "it could even tell the\ndifference between cats and dogs."
+    } ]
+  }, {
+    "tStartMs": 434020,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "He said the machine was capable"
+    } ]
+  }, {
+    "tStartMs": 435910,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "of what amounts to original thought,"
+    } ]
+  }, {
+    "tStartMs": 438940,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "and the media lapped it up."
+    } ]
+  }, {
+    "tStartMs": 440880,
+    "dDurationMs": 2007,
+    "segs": [ {
+      "utf8": "The \"New York Times\" called the perceptron"
+    } ]
+  }, {
+    "tStartMs": 442887,
+    "dDurationMs": 2393,
+    "segs": [ {
+      "utf8": "\"the embryo of an electronic computer"
+    } ]
+  }, {
+    "tStartMs": 445280,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "that the Navy expects will\nbe able to walk, talk,"
+    } ]
+  }, {
+    "tStartMs": 448350,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "see, write, reproduce itself,"
+    } ]
+  }, {
+    "tStartMs": 450890,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "and be conscious of its existence.\""
+    } ]
+  }, {
+    "tStartMs": 454750,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "- [Narrator] After training\non lots of examples,"
+    } ]
+  }, {
+    "tStartMs": 456950,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "it's given new faces it has never seen,"
+    } ]
+  }, {
+    "tStartMs": 459533,
+    "dDurationMs": 3947,
+    "segs": [ {
+      "utf8": "and is able to successfully\ndistinguish male from female."
+    } ]
+  }, {
+    "tStartMs": 463480,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "It has learned."
+    } ]
+  }, {
+    "tStartMs": 465020,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "- In reality, the perceptron\nwas pretty limited"
+    } ]
+  }, {
+    "tStartMs": 467530,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "in what it could do."
+    } ]
+  }, {
+    "tStartMs": 468730,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "It could not, in fact,\ntell apart dogs from cats."
+    } ]
+  }, {
+    "tStartMs": 472050,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "This and other critiques were raised"
+    } ]
+  }, {
+    "tStartMs": 473950,
+    "dDurationMs": 4237,
+    "segs": [ {
+      "utf8": "in a book by MIT giants,\nMinsky and Papert, in 1969."
+    } ]
+  }, {
+    "tStartMs": 478187,
+    "dDurationMs": 2143,
+    "segs": [ {
+      "utf8": "And that led to a bust period"
+    } ]
+  }, {
+    "tStartMs": 480330,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "for artificial neural\nnetworks and AI in general."
+    } ]
+  }, {
+    "tStartMs": 483530,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "It's known as the first AI winter."
+    } ]
+  }, {
+    "tStartMs": 486720,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Rosenblatt did not survive this winter."
+    } ]
+  }, {
+    "tStartMs": 489370,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "He drowned while sailing in Chesapeake Bay"
+    } ]
+  }, {
+    "tStartMs": 492200,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "on his 43rd birthday."
+    } ]
+  }, {
+    "tStartMs": 494118,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "(mellow upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 497330,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "- [Narrator] The NAV Lab\nis a road-worthy truck,"
+    } ]
+  }, {
+    "tStartMs": 499660,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "modified so that researchers or computers"
+    } ]
+  }, {
+    "tStartMs": 502290,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "can control the vehicle\nas occasion demands."
+    } ]
+  }, {
+    "tStartMs": 505360,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "- [Derek] In the 1980s,\nthere was an AI resurgence"
+    } ]
+  }, {
+    "tStartMs": 508090,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "when researchers at\nCarnegie Mellon created one"
+    } ]
+  }, {
+    "tStartMs": 510090,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "of the first self-driving cars."
+    } ]
+  }, {
+    "tStartMs": 512470,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "The vehicle was steered"
+    } ]
+  }, {
+    "tStartMs": 513860,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "by an artificial neural\nnetwork called ALVINN."
+    } ]
+  }, {
+    "tStartMs": 516900,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "It was similar to the perceptron,"
+    } ]
+  }, {
+    "tStartMs": 517950,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "except it had a hidden\nlayer of artificial neurons"
+    } ]
+  }, {
+    "tStartMs": 521080,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "between the input and output."
+    } ]
+  }, {
+    "tStartMs": 523300,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "As input, ALVINN received\n30 by 32-pixel images"
+    } ]
+  }, {
+    "tStartMs": 527060,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "of the road ahead."
+    } ]
+  }, {
+    "tStartMs": 528400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Here, I'm showing them as 60 by 64 pixels."
+    } ]
+  }, {
+    "tStartMs": 531600,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "But each of these input\nneurons was connected"
+    } ]
+  }, {
+    "tStartMs": 534020,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "via an adjustable weight to a\nhidden layer of four neurons."
+    } ]
+  }, {
+    "tStartMs": 537950,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "These were each connected\nto 32 output neurons."
+    } ]
+  }, {
+    "tStartMs": 541600,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "So to go from one layer of\nthe network to the next,"
+    } ]
+  }, {
+    "tStartMs": 544180,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "you perform a matrix multiplication:"
+    } ]
+  }, {
+    "tStartMs": 546860,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "the input activation times the weights."
+    } ]
+  }, {
+    "tStartMs": 550120,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "The output neuron with\nthe greatest activation"
+    } ]
+  }, {
+    "tStartMs": 552580,
+    "dDurationMs": 1903,
+    "segs": [ {
+      "utf8": "determines the steering angle."
+    } ]
+  }, {
+    "tStartMs": 555540,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "To train the neural net,"
+    } ]
+  }, {
+    "tStartMs": 556920,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "a human drove the vehicle,"
+    } ]
+  }, {
+    "tStartMs": 558550,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "providing the correct steering angle"
+    } ]
+  }, {
+    "tStartMs": 560900,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "for a given input image."
+    } ]
+  }, {
+    "tStartMs": 562720,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "All the weights in the\nneural network were adjusted"
+    } ]
+  }, {
+    "tStartMs": 564810,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "through the training"
+    } ]
+  }, {
+    "tStartMs": 565643,
+    "dDurationMs": 2207,
+    "segs": [ {
+      "utf8": "so that ALVINN's output\nbetter matched that"
+    } ]
+  }, {
+    "tStartMs": 567850,
+    "dDurationMs": 1213,
+    "segs": [ {
+      "utf8": "of the human driver."
+    } ]
+  }, {
+    "tStartMs": 570270,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "The method for adjusting the weights"
+    } ]
+  }, {
+    "tStartMs": 571780,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "is called backpropagation,"
+    } ]
+  }, {
+    "tStartMs": 573390,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "which I won't go into here,"
+    } ]
+  }, {
+    "tStartMs": 574930,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "but Welch Labs has a great series on this,"
+    } ]
+  }, {
+    "tStartMs": 577350,
+    "dDurationMs": 1903,
+    "segs": [ {
+      "utf8": "which I'll link to in the description."
+    } ]
+  }, {
+    "tStartMs": 580090,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Again, you can visualize the weights"
+    } ]
+  }, {
+    "tStartMs": 581900,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "for the four hidden neurons as images."
+    } ]
+  }, {
+    "tStartMs": 584500,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "The weights are initially\nset to be random,"
+    } ]
+  }, {
+    "tStartMs": 586720,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "but as training progresses,"
+    } ]
+  }, {
+    "tStartMs": 588210,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "the computer learns to pick\nup on certain patterns."
+    } ]
+  }, {
+    "tStartMs": 591760,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "You can see the road markings\nemerge in the weights."
+    } ]
+  }, {
+    "tStartMs": 594890,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Simultaneously, the output\nsteering angle coalesces"
+    } ]
+  }, {
+    "tStartMs": 598190,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "onto the human steering angle."
+    } ]
+  }, {
+    "tStartMs": 600620,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "The computer drove the\nvehicle at a top speed"
+    } ]
+  }, {
+    "tStartMs": 603080,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "of around one or two kilometers per hour."
+    } ]
+  }, {
+    "tStartMs": 606350,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "It was limited by the speed"
+    } ]
+  }, {
+    "tStartMs": 607830,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "at which the computer could\nperform matrix multiplication."
+    } ]
+  }, {
+    "tStartMs": 612250,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Despite these advances,"
+    } ]
+  }, {
+    "tStartMs": 613700,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "artificial neural networks still struggled"
+    } ]
+  }, {
+    "tStartMs": 615810,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "with seemingly simple tasks,"
+    } ]
+  }, {
+    "tStartMs": 617550,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "like telling apart cats and dogs."
+    } ]
+  }, {
+    "tStartMs": 619920,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "And no one knew whether hardware"
+    } ]
+  }, {
+    "tStartMs": 622250,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "or software was the weak link."
+    } ]
+  }, {
+    "tStartMs": 624210,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "I mean, did we have a good\nmodel of intelligence,"
+    } ]
+  }, {
+    "tStartMs": 626560,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "we just needed more computer power?"
+    } ]
+  }, {
+    "tStartMs": 628590,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Or, did we have the wrong idea"
+    } ]
+  }, {
+    "tStartMs": 630470,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "about how to make intelligence\nsystems altogether?"
+    } ]
+  }, {
+    "tStartMs": 633550,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "So artificial intelligence\nexperienced another lull"
+    } ]
+  }, {
+    "tStartMs": 636140,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "in the 1990s."
+    } ]
+  }, {
+    "tStartMs": 638150,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "By the mid 2000s,"
+    } ]
+  }, {
+    "tStartMs": 639440,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "most AI researchers were\nfocused on improving algorithms."
+    } ]
+  }, {
+    "tStartMs": 643250,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "But one researcher, Fei-Fei Li,"
+    } ]
+  }, {
+    "tStartMs": 645870,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "thought maybe there was\na different problem."
+    } ]
+  }, {
+    "tStartMs": 648260,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Maybe these artificial neural networks"
+    } ]
+  }, {
+    "tStartMs": 650350,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "just needed more data to train on."
+    } ]
+  }, {
+    "tStartMs": 652540,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So she planned to map out\nthe entire world of objects."
+    } ]
+  }, {
+    "tStartMs": 656170,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "From 2006 to 2009, she created ImageNet,"
+    } ]
+  }, {
+    "tStartMs": 659220,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "a database of 1.2 million\nhuman-labeled images,"
+    } ]
+  }, {
+    "tStartMs": 662550,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "which at the time,"
+    } ]
+  }, {
+    "tStartMs": 663383,
+    "dDurationMs": 2947,
+    "segs": [ {
+      "utf8": "was the largest labeled image\ndataset ever constructed."
+    } ]
+  }, {
+    "tStartMs": 666330,
+    "dDurationMs": 1928,
+    "segs": [ {
+      "utf8": "And from 2010 to 2017,"
+    } ]
+  }, {
+    "tStartMs": 668258,
+    "dDurationMs": 2142,
+    "segs": [ {
+      "utf8": "ImageNet ran an annual contest:"
+    } ]
+  }, {
+    "tStartMs": 670400,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "the ImageNet Large Scale\nVisual Recognition Challenge,"
+    } ]
+  }, {
+    "tStartMs": 673740,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "where software programs\ncompeted to correctly detect"
+    } ]
+  }, {
+    "tStartMs": 676380,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "and classify images."
+    } ]
+  }, {
+    "tStartMs": 677970,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Images were classified into\n1,000 different categories,"
+    } ]
+  }, {
+    "tStartMs": 681110,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "including 90 different dog breeds."
+    } ]
+  }, {
+    "tStartMs": 683520,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "A neural network competing\nin this competition"
+    } ]
+  }, {
+    "tStartMs": 685460,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "would have an output\nlayer of 1,000 neurons,"
+    } ]
+  }, {
+    "tStartMs": 688220,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "each corresponding to a category of object"
+    } ]
+  }, {
+    "tStartMs": 690460,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "that could appear in the image."
+    } ]
+  }, {
+    "tStartMs": 692230,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "If the image contains,\nsay, a German shepherd,"
+    } ]
+  }, {
+    "tStartMs": 694500,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "then the output neuron\ncorresponding to German shepherd"
+    } ]
+  }, {
+    "tStartMs": 697430,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "should have the highest activation."
+    } ]
+  }, {
+    "tStartMs": 699770,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Unsurprisingly, it turned\nout to be a tough challenge."
+    } ]
+  }, {
+    "tStartMs": 703120,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "One way to judge the performance of an AI"
+    } ]
+  }, {
+    "tStartMs": 705130,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "is to see how often the five\nhighest neuron activations"
+    } ]
+  }, {
+    "tStartMs": 708360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "do not include the correct category."
+    } ]
+  }, {
+    "tStartMs": 710920,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "This is the so-called top-5 error rate."
+    } ]
+  }, {
+    "tStartMs": 713840,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "In 2010, the best performer\nhad a top-5 error rate"
+    } ]
+  }, {
+    "tStartMs": 716920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "of 28.2%, meaning that\nnearly 1/3 of the time,"
+    } ]
+  }, {
+    "tStartMs": 721080,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "the correct answer was not\namong its top five guesses."
+    } ]
+  }, {
+    "tStartMs": 724570,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "In 2011, the error rate of\nthe best performer was 25.8%,"
+    } ]
+  }, {
+    "tStartMs": 729270,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "a substantial improvement."
+    } ]
+  }, {
+    "tStartMs": 731360,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "But the next year,"
+    } ]
+  }, {
+    "tStartMs": 732370,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "an artificial neural network"
+    } ]
+  }, {
+    "tStartMs": 733620,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "from the University of\nToronto, called AlexNet,"
+    } ]
+  }, {
+    "tStartMs": 736220,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "blew away the competition"
+    } ]
+  }, {
+    "tStartMs": 737870,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "with a top-5 error rate of just 16.4%."
+    } ]
+  }, {
+    "tStartMs": 742410,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "What set AlexNet apart\nwas its size and depth."
+    } ]
+  }, {
+    "tStartMs": 745840,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "The network consisted of eight layers,"
+    } ]
+  }, {
+    "tStartMs": 747720,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "and in total, 500,000 neurons."
+    } ]
+  }, {
+    "tStartMs": 750700,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "To train AlexNet,"
+    } ]
+  }, {
+    "tStartMs": 751533,
+    "dDurationMs": 4047,
+    "segs": [ {
+      "utf8": "60 million weights and biases\nhad to be carefully adjusted"
+    } ]
+  }, {
+    "tStartMs": 755580,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "using the training database."
+    } ]
+  }, {
+    "tStartMs": 757500,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Because of all the big\nmatrix multiplications,"
+    } ]
+  }, {
+    "tStartMs": 760040,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "processing a single image\nrequired 700 million"
+    } ]
+  }, {
+    "tStartMs": 763570,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "individual math operations."
+    } ]
+  }, {
+    "tStartMs": 765330,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "So training was computationally intensive."
+    } ]
+  }, {
+    "tStartMs": 768280,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "The team managed it by\npioneering the use of GPUs,"
+    } ]
+  }, {
+    "tStartMs": 771330,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "graphical processing units,"
+    } ]
+  }, {
+    "tStartMs": 772910,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "which are traditionally used\nfor driving displays, screens."
+    } ]
+  }, {
+    "tStartMs": 776330,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So they're specialized for\nfast parallel computations."
+    } ]
+  }, {
+    "tStartMs": 780110,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "The AlexNet paper\ndescribing their research"
+    } ]
+  }, {
+    "tStartMs": 782520,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "is a blockbuster."
+    } ]
+  }, {
+    "tStartMs": 784260,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "It's now been cited over 100,000 times,"
+    } ]
+  }, {
+    "tStartMs": 787680,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "and it identifies the\nscale of the neural network"
+    } ]
+  }, {
+    "tStartMs": 790390,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "as key to its success."
+    } ]
+  }, {
+    "tStartMs": 792980,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "It takes a lot of computation\nto train and run the network,"
+    } ]
+  }, {
+    "tStartMs": 796160,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "but the improvement in\nperformance is worth it."
+    } ]
+  }, {
+    "tStartMs": 799290,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "With others following their lead,"
+    } ]
+  }, {
+    "tStartMs": 800740,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "the top-5 error rate"
+    } ]
+  }, {
+    "tStartMs": 802010,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "on the ImageNet competition plummeted"
+    } ]
+  }, {
+    "tStartMs": 803900,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "in the years that followed,\ndown to 3.6% in 2015."
+    } ]
+  }, {
+    "tStartMs": 808210,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "That is better than human performance."
+    } ]
+  }, {
+    "tStartMs": 811160,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "The neural network that achieved this"
+    } ]
+  }, {
+    "tStartMs": 812730,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "had 100 layers of neurons."
+    } ]
+  }, {
+    "tStartMs": 815030,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "So the future is clear:"
+    } ]
+  }, {
+    "tStartMs": 816490,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "We will see ever increasing demand"
+    } ]
+  }, {
+    "tStartMs": 818390,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "for ever larger neural networks."
+    } ]
+  }, {
+    "tStartMs": 820820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And this is a problem for several reasons:"
+    } ]
+  }, {
+    "tStartMs": 823040,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "One is energy consumption."
+    } ]
+  }, {
+    "tStartMs": 825150,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "Training a neural network\nrequires an amount"
+    } ]
+  }, {
+    "tStartMs": 827060,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "of electricity similar\nto the yearly consumption"
+    } ]
+  }, {
+    "tStartMs": 829460,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "of three households."
+    } ]
+  }, {
+    "tStartMs": 830990,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Another issue is the so-called\nVon Neumann Bottleneck."
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Virtually every modern digital computer"
+    } ]
+  }, {
+    "tStartMs": 835870,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "stores data in memory,"
+    } ]
+  }, {
+    "tStartMs": 837200,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and then accesses it as needed over a bus."
+    } ]
+  }, {
+    "tStartMs": 840360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "When performing the huge\nmatrix multiplications required"
+    } ]
+  }, {
+    "tStartMs": 842840,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "by deep neural networks,"
+    } ]
+  }, {
+    "tStartMs": 844230,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "most of the time and energy goes"
+    } ]
+  }, {
+    "tStartMs": 845670,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "into fetching those weight values rather"
+    } ]
+  }, {
+    "tStartMs": 847960,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "than actually doing the computation."
+    } ]
+  }, {
+    "tStartMs": 850490,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And finally, there are the\nlimitations of Moore's Law."
+    } ]
+  }, {
+    "tStartMs": 853250,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "For decades, the number of transistors"
+    } ]
+  }, {
+    "tStartMs": 854960,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "on a chip has been doubling\napproximately every two years,"
+    } ]
+  }, {
+    "tStartMs": 858190,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "but now the size of a transistor"
+    } ]
+  }, {
+    "tStartMs": 860130,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "is approaching the size of an atom."
+    } ]
+  }, {
+    "tStartMs": 861910,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "So there are some fundamental\nphysical challenges"
+    } ]
+  }, {
+    "tStartMs": 864690,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "to further miniaturization."
+    } ]
+  }, {
+    "tStartMs": 866880,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "So this is the perfect\nstorm for analog computers."
+    } ]
+  }, {
+    "tStartMs": 870270,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Digital computers are\nreaching their limits."
+    } ]
+  }, {
+    "tStartMs": 872640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Meanwhile, neural networks\nare exploding in popularity,"
+    } ]
+  }, {
+    "tStartMs": 875880,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and a lot of what they do boils down"
+    } ]
+  }, {
+    "tStartMs": 878000,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "to a single task: matrix multiplication."
+    } ]
+  }, {
+    "tStartMs": 881350,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Best of all, neural networks\ndon't need the precision"
+    } ]
+  }, {
+    "tStartMs": 884070,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "of digital computers."
+    } ]
+  }, {
+    "tStartMs": 885350,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Whether the neural net\nis 96% or 98% confident"
+    } ]
+  }, {
+    "tStartMs": 888990,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "the image contains a chicken,"
+    } ]
+  }, {
+    "tStartMs": 890410,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it doesn't really matter,\nit's still a chicken."
+    } ]
+  }, {
+    "tStartMs": 892810,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "So slight variability in components"
+    } ]
+  }, {
+    "tStartMs": 894870,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "or conditions can be tolerated."
+    } ]
+  }, {
+    "tStartMs": 897372,
+    "dDurationMs": 1438,
+    "segs": [ {
+      "utf8": "(upbeat rock music)"
+    } ]
+  }, {
+    "tStartMs": 898810,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I went to an analog\ncomputing startup in Texas,"
+    } ]
+  }, {
+    "tStartMs": 901370,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "called Mythic AI."
+    } ]
+  }, {
+    "tStartMs": 903370,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Here, they're creating analog\nchips to run neural networks."
+    } ]
+  }, {
+    "tStartMs": 906820,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "And they demonstrated\nseveral AI algorithms for me."
+    } ]
+  }, {
+    "tStartMs": 910980,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Oh, there you go."
+    } ]
+  }, {
+    "tStartMs": 911813,
+    "dDurationMs": 1477,
+    "segs": [ {
+      "utf8": "See, it's getting you.\n(Derek laughs)"
+    } ]
+  }, {
+    "tStartMs": 913290,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Yeah.\n- That's fascinating."
+    } ]
+  }, {
+    "tStartMs": 914770,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "- The biggest use case is\naugmented in virtual reality."
+    } ]
+  }, {
+    "tStartMs": 917630,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "If your friend is in a different,"
+    } ]
+  }, {
+    "tStartMs": 919150,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "they're at their house\nand you're at your house,"
+    } ]
+  }, {
+    "tStartMs": 920710,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "you can actually render each\nother in the virtual world."
+    } ]
+  }, {
+    "tStartMs": 924120,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So it needs to really\nquickly capture your pose,"
+    } ]
+  }, {
+    "tStartMs": 927280,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and then render it in the VR world."
+    } ]
+  }, {
+    "tStartMs": 929350,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "- So, hang on, is this\nfor the metaverse thing?"
+    } ]
+  }, {
+    "tStartMs": 931333,
+    "dDurationMs": 4307,
+    "segs": [ {
+      "utf8": "- Yeah, this is a very\nmetaverse application."
+    } ]
+  }, {
+    "tStartMs": 935640,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "This is depth estimation\nfrom just a single webcam."
+    } ]
+  }, {
+    "tStartMs": 938630,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "It's just taking this scene,"
+    } ]
+  }, {
+    "tStartMs": 939950,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and then it's doing a heat map."
+    } ]
+  }, {
+    "tStartMs": 941360,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "So if it's bright, it means it's close."
+    } ]
+  }, {
+    "tStartMs": 943750,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "And if it's far away, it makes it black."
+    } ]
+  }, {
+    "tStartMs": 945980,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "- [Derek] Now all these\nalgorithms can be run"
+    } ]
+  }, {
+    "tStartMs": 947560,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "on digital computers,"
+    } ]
+  }, {
+    "tStartMs": 948850,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "but here, the matrix multiplication\nis actually taking place"
+    } ]
+  }, {
+    "tStartMs": 952250,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "in the analog domain.\n(light music)"
+    } ]
+  }, {
+    "tStartMs": 954420,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "To make this possible,"
+    } ]
+  }, {
+    "tStartMs": 955800,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Mythic has repurposed\ndigital flash storage cells."
+    } ]
+  }, {
+    "tStartMs": 959490,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Normally these are used as memory"
+    } ]
+  }, {
+    "tStartMs": 961210,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "to store either a one or a zero."
+    } ]
+  }, {
+    "tStartMs": 963630,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "If you apply a large positive\nvoltage to the control gate,"
+    } ]
+  }, {
+    "tStartMs": 967460,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "electrons tunnel up through\nan insulating barrier"
+    } ]
+  }, {
+    "tStartMs": 970210,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "and become trapped on the floating gate."
+    } ]
+  }, {
+    "tStartMs": 972440,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "Remove the voltage,"
+    } ]
+  }, {
+    "tStartMs": 973570,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "and the electrons can\nremain on the floating gate"
+    } ]
+  }, {
+    "tStartMs": 975440,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "for decades, preventing the\ncell from conducting current."
+    } ]
+  }, {
+    "tStartMs": 978609,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "And that's how you can store\neither a one or a zero."
+    } ]
+  }, {
+    "tStartMs": 981320,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "You can read out the stored value"
+    } ]
+  }, {
+    "tStartMs": 982960,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "by applying a small voltage."
+    } ]
+  }, {
+    "tStartMs": 985060,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "If there are electrons\non the floating gate,"
+    } ]
+  }, {
+    "tStartMs": 986970,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "no current flows, so that's a zero."
+    } ]
+  }, {
+    "tStartMs": 989580,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "If there aren't electrons,"
+    } ]
+  }, {
+    "tStartMs": 990940,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "then current does flow, and that's a one."
+    } ]
+  }, {
+    "tStartMs": 993920,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "Now Mythic's idea is to use these cells"
+    } ]
+  }, {
+    "tStartMs": 996030,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "not as on/off switches,\nbut as variable resistors."
+    } ]
+  }, {
+    "tStartMs": 1000000,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "They do this by putting a\nspecific number of electrons"
+    } ]
+  }, {
+    "tStartMs": 1002900,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "on each floating gate,\ninstead of all or nothing."
+    } ]
+  }, {
+    "tStartMs": 1005670,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "The greater the number of electrons,"
+    } ]
+  }, {
+    "tStartMs": 1007330,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "the higher the resistance of the channel."
+    } ]
+  }, {
+    "tStartMs": 1009810,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "When you later apply a small voltage,"
+    } ]
+  }, {
+    "tStartMs": 1012000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the current that flows\nis equal to V over R."
+    } ]
+  }, {
+    "tStartMs": 1015720,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "But you can also think of this\nas voltage times conductance,"
+    } ]
+  }, {
+    "tStartMs": 1019250,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "where conductance is just\nthe reciprocal of resistance."
+    } ]
+  }, {
+    "tStartMs": 1022510,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "So a single flash cell can be used"
+    } ]
+  }, {
+    "tStartMs": 1024470,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "to multiply two values together,\nvoltage times conductance."
+    } ]
+  }, {
+    "tStartMs": 1029130,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So to use this to run an\nartificial neural network,"
+    } ]
+  }, {
+    "tStartMs": 1031860,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "well they first write all the\nweights to the flash cells"
+    } ]
+  }, {
+    "tStartMs": 1034750,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "as each cell's conductance."
+    } ]
+  }, {
+    "tStartMs": 1036870,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Then, they input the activation values"
+    } ]
+  }, {
+    "tStartMs": 1039270,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "as the voltage on the cells."
+    } ]
+  }, {
+    "tStartMs": 1041490,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "And the resulting current is the product"
+    } ]
+  }, {
+    "tStartMs": 1043630,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "of voltage times conductance,"
+    } ]
+  }, {
+    "tStartMs": 1045500,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "which is activation times weight."
+    } ]
+  }, {
+    "tStartMs": 1048300,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The cells are wired together in such a way"
+    } ]
+  }, {
+    "tStartMs": 1050860,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "that the current from each\nmultiplication adds together,"
+    } ]
+  }, {
+    "tStartMs": 1054000,
+    "dDurationMs": 2607,
+    "segs": [ {
+      "utf8": "completing the matrix multiplication."
+    } ]
+  }, {
+    "tStartMs": 1056607,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "(light music)"
+    } ]
+  }, {
+    "tStartMs": 1059040,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "- So this is our first product."
+    } ]
+  }, {
+    "tStartMs": 1060920,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "This can do 25 trillion\nmath operations per second."
+    } ]
+  }, {
+    "tStartMs": 1065860,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "- [Derek] 25 trillion."
+    } ]
+  }, {
+    "tStartMs": 1067040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "- Yep, 25 trillion math\noperations per second,"
+    } ]
+  }, {
+    "tStartMs": 1069400,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "in this little chip here,"
+    } ]
+  }, {
+    "tStartMs": 1070540,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "burning about three watts of power."
+    } ]
+  }, {
+    "tStartMs": 1072620,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "- [Derek] How does it\ncompare to a digital chip?"
+    } ]
+  }, {
+    "tStartMs": 1074930,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "- The newer digital\nsystems can do anywhere"
+    } ]
+  }, {
+    "tStartMs": 1077900,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "from 25 to 100 trillion\noperations per second,"
+    } ]
+  }, {
+    "tStartMs": 1080680,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "but they are big, thousand-dollar systems"
+    } ]
+  }, {
+    "tStartMs": 1082780,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "that are spitting out 50\nto 100 watts of power."
+    } ]
+  }, {
+    "tStartMs": 1086590,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "- [Derek] Obviously this isn't"
+    } ]
+  }, {
+    "tStartMs": 1087680,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "like an apples apples comparison, right?"
+    } ]
+  }, {
+    "tStartMs": 1089460,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "- No, it's not apples to apples."
+    } ]
+  }, {
+    "tStartMs": 1090580,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I mean, training those algorithms,"
+    } ]
+  }, {
+    "tStartMs": 1093660,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "you need big hardware like this."
+    } ]
+  }, {
+    "tStartMs": 1095510,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "You can just do all sorts\nof stuff on the GPU,"
+    } ]
+  }, {
+    "tStartMs": 1097610,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "but if you specifically\nare doing AI workloads"
+    } ]
+  }, {
+    "tStartMs": 1100360,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and you wanna deploy 'em,\nyou could use this instead."
+    } ]
+  }, {
+    "tStartMs": 1102720,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "You can imagine them in security cameras,"
+    } ]
+  }, {
+    "tStartMs": 1105170,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "autonomous systems,"
+    } ]
+  }, {
+    "tStartMs": 1106690,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "inspection equipment for manufacturing."
+    } ]
+  }, {
+    "tStartMs": 1109120,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Every time they make a Frito-Lay chip,"
+    } ]
+  }, {
+    "tStartMs": 1110880,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "they inspect it with a camera,"
+    } ]
+  }, {
+    "tStartMs": 1112200,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "and the bad Fritos get blown\noff of the conveyor belt."
+    } ]
+  }, {
+    "tStartMs": 1116170,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "But they're using artificial intelligence"
+    } ]
+  }, {
+    "tStartMs": 1117750,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "to spot which Fritos are good and bad."
+    } ]
+  }, {
+    "tStartMs": 1120410,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "- Some have proposed\nusing analog circuitry"
+    } ]
+  }, {
+    "tStartMs": 1122650,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "in smart home speakers,"
+    } ]
+  }, {
+    "tStartMs": 1123920,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "solely to listen for the wake\nword, like Alexa or Siri."
+    } ]
+  }, {
+    "tStartMs": 1127650,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "They would use a lot less\npower and be able to quickly"
+    } ]
+  }, {
+    "tStartMs": 1129940,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "and reliably turn on the\ndigital circuitry of the device."
+    } ]
+  }, {
+    "tStartMs": 1133310,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "But you still have to deal\nwith the challenges of analog."
+    } ]
+  }, {
+    "tStartMs": 1136420,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "- So for one of the popular networks,"
+    } ]
+  }, {
+    "tStartMs": 1138120,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "there would be 50 sequences"
+    } ]
+  }, {
+    "tStartMs": 1140740,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "of matrix multiplies that you're doing."
+    } ]
+  }, {
+    "tStartMs": 1142670,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Now, if you did that entirely\nin the analog domain,"
+    } ]
+  }, {
+    "tStartMs": 1145040,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "by the time it gets to the output,"
+    } ]
+  }, {
+    "tStartMs": 1146340,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "it's just so distorted"
+    } ]
+  }, {
+    "tStartMs": 1147810,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "that you don't have any result at all."
+    } ]
+  }, {
+    "tStartMs": 1150260,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "So you convert it from the analog domain,"
+    } ]
+  }, {
+    "tStartMs": 1152130,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "back to the digital domain,"
+    } ]
+  }, {
+    "tStartMs": 1154090,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "send it to the next processing block,"
+    } ]
+  }, {
+    "tStartMs": 1155970,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "and then you convert it into\nthe analog domain again."
+    } ]
+  }, {
+    "tStartMs": 1158360,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And that allows you to\npreserve the signal."
+    } ]
+  }, {
+    "tStartMs": 1160490,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "- You know, when Rosenblatt\nwas first setting"
+    } ]
+  }, {
+    "tStartMs": 1162640,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "up his perceptron,"
+    } ]
+  }, {
+    "tStartMs": 1163750,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "he used a digital IBM computer."
+    } ]
+  }, {
+    "tStartMs": 1166700,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Finding it too slow,"
+    } ]
+  }, {
+    "tStartMs": 1168330,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "he built a custom analog computer,"
+    } ]
+  }, {
+    "tStartMs": 1170840,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "complete with variable resistors"
+    } ]
+  }, {
+    "tStartMs": 1172570,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and little motors to drive them."
+    } ]
+  }, {
+    "tStartMs": 1175290,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Ultimately, his idea of neural networks"
+    } ]
+  }, {
+    "tStartMs": 1177810,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "turned out to be right."
+    } ]
+  }, {
+    "tStartMs": 1179400,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "Maybe he was right about analog, too."
+    } ]
+  }, {
+    "tStartMs": 1183250,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Now, I can't say whether\nanalog computers will take"
+    } ]
+  }, {
+    "tStartMs": 1186170,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "off the way digital did last century,"
+    } ]
+  }, {
+    "tStartMs": 1188690,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "but they do seem to be better suited"
+    } ]
+  }, {
+    "tStartMs": 1191360,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "to a lot of the tasks\nthat we want computers"
+    } ]
+  }, {
+    "tStartMs": 1193550,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "to perform today,"
+    } ]
+  }, {
+    "tStartMs": 1195210,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "which is a little bit funny"
+    } ]
+  }, {
+    "tStartMs": 1196240,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "because I always thought of digital"
+    } ]
+  }, {
+    "tStartMs": 1198080,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "as the optimal way of\nprocessing information."
+    } ]
+  }, {
+    "tStartMs": 1201530,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Everything from music to pictures,"
+    } ]
+  }, {
+    "tStartMs": 1203770,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "to video has all gone\ndigital in the last 50 years."
+    } ]
+  }, {
+    "tStartMs": 1207860,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "But maybe in a 100 years,"
+    } ]
+  }, {
+    "tStartMs": 1209670,
+    "dDurationMs": 1437,
+    "segs": [ {
+      "utf8": "we will look back on digital,"
+    } ]
+  }, {
+    "tStartMs": 1211107,
+    "dDurationMs": 3953,
+    "segs": [ {
+      "utf8": "not not as the end point\nof information technology,"
+    } ]
+  }, {
+    "tStartMs": 1215060,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "but as a starting point."
+    } ]
+  }, {
+    "tStartMs": 1217320,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Our brains are digital"
+    } ]
+  }, {
+    "tStartMs": 1219070,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "in that a neuron either\nfires or it doesn't,"
+    } ]
+  }, {
+    "tStartMs": 1221930,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "but they're also analog"
+    } ]
+  }, {
+    "tStartMs": 1224040,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "in that thinking takes place\neverywhere, all at once."
+    } ]
+  }, {
+    "tStartMs": 1228220,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "So maybe what we need"
+    } ]
+  }, {
+    "tStartMs": 1230070,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "to achieve true artificial intelligence,"
+    } ]
+  }, {
+    "tStartMs": 1232490,
+    "dDurationMs": 4644,
+    "segs": [ {
+      "utf8": "machines that think like\nus, is the power of analog."
+    } ]
+  }, {
+    "tStartMs": 1237134,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(gentle music)"
+    } ]
+  }, {
+    "tStartMs": 1242040,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Hey, I learned a lot\nwhile making this video,"
+    } ]
+  }, {
+    "tStartMs": 1244310,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "much of it by playing with\nan actual analog computer."
+    } ]
+  }, {
+    "tStartMs": 1247280,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "You know, trying things out for yourself"
+    } ]
+  }, {
+    "tStartMs": 1248810,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "is really the best way to learn,"
+    } ]
+  }, {
+    "tStartMs": 1250300,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "and you can do that with this\nvideo sponsor, Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1253470,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Brilliant is a website and app"
+    } ]
+  }, {
+    "tStartMs": 1254830,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "that gets you thinking deeply"
+    } ]
+  }, {
+    "tStartMs": 1256060,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "by engaging you in problem-solving."
+    } ]
+  }, {
+    "tStartMs": 1258200,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "They have a great course\non neural networks,"
+    } ]
+  }, {
+    "tStartMs": 1260050,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "where you can test how\nit works for yourself."
+    } ]
+  }, {
+    "tStartMs": 1262460,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "It gives you an excellent intuition"
+    } ]
+  }, {
+    "tStartMs": 1264290,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "about how neural networks can\nrecognize numbers and shapes,"
+    } ]
+  }, {
+    "tStartMs": 1267390,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and it also allows you to\nexperience the importance"
+    } ]
+  }, {
+    "tStartMs": 1269550,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "of good training data and hidden layers"
+    } ]
+  }, {
+    "tStartMs": 1271850,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "to understand why more sophisticated"
+    } ]
+  }, {
+    "tStartMs": 1274040,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "neural networks work better."
+    } ]
+  }, {
+    "tStartMs": 1275860,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "What I love about Brilliant"
+    } ]
+  }, {
+    "tStartMs": 1276940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "is it tests your knowledge as you go."
+    } ]
+  }, {
+    "tStartMs": 1279320,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "The lessons are highly interactive,"
+    } ]
+  }, {
+    "tStartMs": 1280810,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "and they get progressively\nharder as you go on."
+    } ]
+  }, {
+    "tStartMs": 1283460,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And if you get stuck, there\nare always helpful hints."
+    } ]
+  }, {
+    "tStartMs": 1286620,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "For viewers of this video,"
+    } ]
+  }, {
+    "tStartMs": 1287770,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Brilliant is offering the first 200 people"
+    } ]
+  }, {
+    "tStartMs": 1289570,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "20% off an annual premium subscription."
+    } ]
+  }, {
+    "tStartMs": 1292100,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Just go to brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1295210,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1297430,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor supporting Veritasium,"
+    } ]
+  }, {
+    "tStartMs": 1300030,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

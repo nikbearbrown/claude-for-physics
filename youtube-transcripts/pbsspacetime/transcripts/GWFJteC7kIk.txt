@@ -1,0 +1,160 @@
+In particle physics we try to understand reality
+by looking for smaller and smaller building blocks.But what if that has been the wrong philosophy
+all along?The year is 1925 and the young Werner Heisenberg
+is striving to understand the mechanics ofthe newly-discovered electron orbitals of
+hydrogen.His approach is strange and radical - rather
+than trying to map the detailed inner workingsof the invisible atomic structure - the traditional
+reductionist approach - he sought a modelthat ignored the fundamentally unobservable
+internal mechanics.His mathematical description should depend
+only on observable quantities - in this case,the mysterious frequencies of light produced
+as electrons jump between orbitals.This philosophy led to a series of seemingly
+miraculous mathematical insights, with thefinal result being the birth of modern quantum
+theory and first complete formulation of quantummechanics - matrix mechanics.Other representations of quantum mechanics
+soon followed - for example, the wave mechanicsdriven by the Schrodinger equation and Paul
+Dirac’s notation representing evolution in  a space ofquantum states.These became better known than matrix mechanics,
+but the underlying philosophy of the Heisenbergrepresentation was not forgotten.In fact the great Neils Bohr passionately
+advocated it, insisting that matters are theobservables - the measurable start and end
+points of an experiment.According to this philosophy, the unobservable
+details that happen in between are not onlyirrelevant, it may be meaningless to even
+talk about those details as real, physical events.Despite its importance in the foundation of
+quantum mechanics, and being championed byBohr and Heisenberg, most physicists over
+the following decades did not subscribe tothis philosophy - at least not in practice.They remained reductionists, and the quest
+continued for a detailed, mechanical descriptionof the hidden inner workings of atoms and
+of the universe.This search for the underlying clockwork of
+reality led to quantum field theory, in whichall particles are described by vibrations
+in elementary fields that fill the universe,and all interactions are calculated by adding
+up the exchanges of infinite number of virtualparticles.But one ignores the wisdom of Heisenberg and
+Bohr at great peril.Early quantum theory was plagued by
+problems - for example, how do you computeinfinite interactions?And how do you avoid the infinite interaction
+strengths produced by some of those infinitesums?Some clever hacks - perturbation theory and
+renormalization - worked in many cases totame the infinities and yielded the incredibly
+accurate predictions of quantum electrodynamics,which describes the interactions of the electromagnetic
+field.But problems returned when we started to peer
+into the atomic nucleus.At the beginning of the 1960s the atom was
+understood as fuzzy, quantum electron orbitssurrounding a nucleus of protons and neutrons.Those nuclear particles were originally thought
+to be elementary - to have no internal structure,just like the electron.But new experiments were revealing that they
+seemed to have some real size - as thoughthey were made of yet-smaller particles.These were scattering experiments - particles
+were shot into atomic nuclei, and the internalstructure was probed by the way those or other
+particles emerged.Such experiments revealed that the forces
+binding these sub-nuclear particles togethermust be so strong that space and time should
+break down at those scales, and our even bestfield theory hacks seemed to fail.And so a number of physicists turned back
+to Heisenberg’s old idea.What if it was possible to understand a scattering
+experiment - like those used to probe the atomicnucleus - not by modeling all the cogs and
+wheels of the field theory of the internalnucleus, but rather by understanding the observables
+only.In this case the observables were the particles
+that entered and left the nucleus in a scatteringexperiment.In fact, Heisenberg himself was way ahead of the game.He’d already laid the groundwork in the
+early 40s with his work on something calledthe scattering matrix, or S-matrix.The S-matrix is a map of the probabilities
+of all possible outgoing particles, or out-states,for a given set colliding particles - in-states.The idea was invented by John Archibald Wheeler
+in the late 30s as a convenient way to expressthe possible results of a quantum interaction.In fact, it's still a very important tool in
+quantum mechanics today.But Heisenberg took it in a very different
+direction.In standard use, the S-matrix can be calculated
+if you understand the forces in the interactionregion - for example, in the nucleus of an
+atom.But what if you don’t know those internal
+interaction forces?Heisenberg sought a way to ignore that internal
+structure and, rather, treat the S-matrixitself as fundamental.The S-matrix was to become the physics of
+the interaction, rather than an emergent propertyof more fundamental, internal physics.Heisenberg’s made some progress in the 40s,
+but the approach came into its own 20 yearslater when the atomic nucleus refused to give
+up its mysteries.Through the 60s and 70s Geoffrey Chew and
+others took Heisenberg’s work on the S-matrixand his anti-reductionist philosophy and developed
+S-matrix theory.At the time, nuclear scattering experiments
+were producing a startling variety of different particles.For example, many different mesons were discovered,
+which we now know to be composed of two elementaryquarks.But at the time, prior to the discovery of
+quarks, no point-like, elementary nuclearparticles were known.Rather than searching for smaller and smaller
+particles, Chew and collaborators promoteda “nuclear democracy”, in which no nuclear
+particle is more elementary than any other.They attempted to build scattering matrices
+with no elementary particles at all, and withno details of nuclear structure.But how is this even possible?Remember, that quantum field theory fastidiously
+adds together a complete set of virtual interactionsthat contribute to the real interaction.S-matrix theory sought to avoid this, and
+instead tries to model a scattering experiment- to build an S-matrix - by applying some
+general consistency conditions and then lookingfor the only scattering results consistent
+with those conditions.These conditions include things like conservation
+of energy and momentum, the behavior of quantumproperties like spin, and the assumption of
+a family of particles that can be involvedin the interaction.But in order to avoid those sums of Feynman
+diagrams, S-matrix theory also relies on symmetriesbetween those virtual interactions.In particular something called crossing symmetry.An example of this is the fact that antimatter
+can be treated as matter traveling backwardsin time - that folds together large sets of
+Feynman diagram and helps us ignore the actualcausal structure within the interaction region.And here’s another example of crossing symmetry.Imagine two particles scattering off each
+other.Two go in, and two go out - the out particles
+could be the different to the in particles,or they could be the same just with different
+momenta.There are two broad ways this can happen as follows:
+1) the ingoing particles exchange a virtualparticle which deflects or transforms them
+into the outgoing particles - this is calledthe S-channel; or 2) the particles annihilate
+each other, briefly forming a virtual particle,which then creates the two outgoing particles
+- that’s the T-channel.In regular quantum field theory you’d need
+to add up all the different versions of boththese two channels separately.Before quarks and their interactions were
+properly understood, doing that sum seemedimpossible in the case of strong force interactions.But in 1968, italian physicist Gabriele Veneziano
+figured out a hack.It had been postulated that the S-channel
+and the T-channel should lead to identicalscattering amplitudes.That fact enabled Veneziano to ignore the
+fiddly details of the separate channels andderive a scattering matrix, which in turn
+allowed him to explain the peculiar relationshipbetween the mass and the spin of mesons.The S-matrix approach to solving problems
+in quantum mechanics based on these globalconsistency conditions and taking advantage
+of symmetries is also called a bootstrap model- from expression “pull yourself up by the
+bootstraps” - the idea of raising yourselfup without concrete starting point to push
+off of.So S-matrix theory looked extremely promising
+… until it didn’t.It presented severe challenges on par with
+those plaguing quantum field theory - and,as it happened, physicists solved the QFT
+challenges first.Breakthroughs in our understanding of the
+behavior of quarks and gluons revealed thatthe strong nuclear force does not actually
+approach infinite strength as was once feared,and so a full quantum field theoretic description
+of the strong nuclear force was possible afterall.The result is quantum chromodynamics - our
+modern description of sub-nuclear physics.QCD deserves its own episode, so I’ll skip
+the details for now.But the results was that S-matrix theory was
+sidelined, and quantum field theory reignssupreme to this day as our reductionist description
+of the subatomic world.So do we really now have a perfect mechanical
+description of the smallest scales of reality?Well, not so fast.Standard QCD employs sums over large numbers
+of intermediate virtual states.And as we discussed in our episode on virtual
+particles, the physical-ness of these statesare questionable at best.Quantum field theories like QCD surely gives
+us insights into the nature of the fundamentalworkings of the universe.Given their astounding predictive success,
+S-matrix theory now seems less fundamental- it seems like an emergent set of relationships
+- what we call an “effective” theory - butit turns out that it has led to deep insights
+that even quantum field theories couldnot reach.So I said that S-matrix theory got sidelined
+- that’s not exactly true.Remember that clever little bit of work by
+Gabriele Veneziano?It turned out that the Veneziano amplitude
+for meson scattering represents somethingrather more profound that just predicting
+the results a scattering experiment.Other physicists quickly realised that it
+was telling us that mesons could be describedby a very particular type physical system:
+a vibrating string.And so string theory was born - at first as
+a description of strong nuclear force interactionsbefore quantum chromodynamics took over - but
+then as a theory of quantum gravity.So our leading, and perhaps only current contender
+for a theory of everything was first derivedas a bootstrap model, an S-matrix theory.Oh another example of bootstrapping a scattering
+experiment without understanding the internalphysics, Steven Hawking's derivation of Hawking
+Radiation.And physicists are bringing the S-matrix back.Here’s an especially awesome example.We think that the largest structures in the
+universe today - galaxies and galaxy clusters -as collapsed from quantum fluctuations in the
+extremely early universe.Those fluctuations sometimes caused by individual particles.Princeton’s Nima Arkani-Hamed and collaborators
+have performed what they call a cosmologicalbootstrap to understand the nature of those
+early subatomic scale interactions based onlyon current observations - which in this case is the distribution of gigantic galaxies on the sky.That’s a cool result, but Arkani-Hamed’s
+work on something called the amplituhedronhas hinted that the S-matrix approach can
+be taken much, much further.The amplituhedron takes Heisenberg’s old
+philosophy to the extreme - “only considerthe observables”- the amplituhedron doesn’t
+just eliminate the fiddly mechanics of quantumfield theory, it removes the very concepts
+of space and time.These only emerge later as a consequence of
+spaceless, timeless particle scattering.But all of these new efforts deserve their
+own episodes, then we’ll see how a simpleinsight by a young scientist back in 1925
+allowed us to pull ourselves up by our bootstrapstowards a better understanding of the quantum
+weirdness of space time.Before we jump your questions, I just want
+to mention that the best and fastest way toget smart people answering your questions
+is to join the Space Time discord channel.It's hopping with lively conversations about
+everything space, physics, or things thatspacey physicsy people are into.The discord is open to anyone who joins us
+on Patreon, even at the lowest $2 a monthtier.OK, so previously we talked about a compelling
+new idea for how black holes might merge - perhapsthey're captured and then brought together
+in the searing hot accretion disks of quasars.Persona non grata asks whether migration traps
+are like Lagrange points.Not really - in fact we covered Lagrange points
+last week.Migration traps are different.If you place any massive body in an accretion
+disk it will both tug on and be tugged bythe surrounding gas.In some places it gives up angular momentum
+- it's orbital energy - to the gas, causingit to migrate inwards, while in other places
+it steals angular momentum, migrating outwards.And between these inward and outward migration
+regions are places where no angular momentumis exchanged. And, well, the black hole is trapped.Adam Wulg asks whether gas surrounding a pair
+of merging black holes might significantlyaffect the gravitational wave signature.Well, the answer is that those waves would be affected - but not by much.Gas causes the black holes to merge faster,
+so that should increase the frequency of thethose waves and to a lesser extend the actual shape
+of the waves.But the fact is, almost all gas is going to
+be ejected from the near region of these mergingblack holes before they actually collide,
+and LIGO only sees the merger in the lastsecond, so the effect would be weak.LIGO is unlikely to have the sensitivity to
+distinguish a gassy from a non-gassy mergerfor any individual merger.It may be easier with neutron star mergers,
+which we see a LIGO signal up to a minutebefore the merger."Q" suggests that it's oxymoronic to say that
+“All you need is a little quasar" to catchblack holes. Suggesting that there's no such thing as a little quasar.Well actually, that's not quite true.Active galactic nuclei come in many sizes
+- quasar is the name we use for the largestand most powerful, where you can actually
+see the accretion disk.Full-blown quasars our powered by supermassive
+black holes a few tens of millions to 10 billiontimes the mass of the sun - and the small
+end of that range is indeed a "little" comparedto the insane top end.And below the quasar range we have weaker
+active nuclei.Those "little" accretion disks are still very
+capable of capturing even smaller black holes - and mayin fact be better at it because densities
+can be higher in the centers of smallgalaxies where those weaker active nuclei
+are found.But you should take all of this with a grain of salt; as rjw elsinga notes:there are a lot of holes in this theory

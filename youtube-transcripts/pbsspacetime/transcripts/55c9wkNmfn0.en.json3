@@ -1,0 +1,1813 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 5598,
+    "segs": [ {
+      "utf8": "If you used every particle in the observable\nuniverse to solve the schrodinger equation"
+    } ]
+  }, {
+    "tStartMs": 5838,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "and do full quantum simulation of some chunk of the universe, how big would that chunk be?"
+    } ]
+  }, {
+    "tStartMs": 10738,
+    "dDurationMs": 4732,
+    "segs": [ {
+      "utf8": "Would it be: a solar system, a planet, a cat?"
+    } ]
+  }, {
+    "tStartMs": 15470,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "It would be at best a large molecule."
+    } ]
+  }, {
+    "tStartMs": 18000,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "That’s how insanely information dense the\nquantum wavefunction really is."
+    } ]
+  }, {
+    "tStartMs": 23620,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "And yet we routinely simulate systems with thousands, or even millions of particles."
+    } ]
+  }, {
+    "tStartMs": 27670,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How?"
+    } ]
+  }, {
+    "tStartMs": 28670,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "By cheating."
+    } ]
+  }, {
+    "tStartMs": 30750,
+    "dDurationMs": 2685,
+    "segs": [ {
+      "utf8": "Let’s learn how to cheat the universe."
+    } ]
+  }, {
+    "tStartMs": 38543,
+    "dDurationMs": 4127,
+    "segs": [ {
+      "utf8": "Quantum mechanics allows us to predict the\nbehavior of the subatomic world with truly"
+    } ]
+  }, {
+    "tStartMs": 42670,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "incredible precision."
+    } ]
+  }, {
+    "tStartMs": 44450,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "For example, let’s say you want to know\nthe intricate behavior of an electron, whether"
+    } ]
+  }, {
+    "tStartMs": 49060,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "it’s bouncing around inside a box, or part\nof a hydrogen atom, or moving through a double"
+    } ]
+  }, {
+    "tStartMs": 53680,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "slit experiment."
+    } ]
+  }, {
+    "tStartMs": 54680,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "You just scratch the good ol’ Schrodinger\nequation on the blackboard and solve it to"
+    } ]
+  }, {
+    "tStartMs": 59670,
+    "dDurationMs": 4729,
+    "segs": [ {
+      "utf8": "learn the probability distribution of the\nelectron locations, or the energy levels of"
+    } ]
+  }, {
+    "tStartMs": 64399,
+    "dDurationMs": 1811,
+    "segs": [ {
+      "utf8": "the system, or whatever."
+    } ]
+  }, {
+    "tStartMs": 66210,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "That’s neat if you’re really, really interested\nin only that single electron."
+    } ]
+  }, {
+    "tStartMs": 72140,
+    "dDurationMs": 4769,
+    "segs": [ {
+      "utf8": "But for almost every practical use you’d\nneed to do that math for multiple quantum"
+    } ]
+  }, {
+    "tStartMs": 76909,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "particles interacting - and then the blackboard\ndoesn’t cut it."
+    } ]
+  }, {
+    "tStartMs": 81450,
+    "dDurationMs": 5229,
+    "segs": [ {
+      "utf8": "You need exponentially more computing power and more storage the more particles you have."
+    } ]
+  }, {
+    "tStartMs": 86679,
+    "dDurationMs": 1411,
+    "segs": [ {
+      "utf8": "It gets pretty bad."
+    } ]
+  }, {
+    "tStartMs": 88090,
+    "dDurationMs": 4979,
+    "segs": [ {
+      "utf8": "In fact you need more particles than exist in the solar system to store the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 93069,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "of the electrons in a single iron atom."
+    } ]
+  }, {
+    "tStartMs": 96740,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "And yet we can do this for thousands of atoms."
+    } ]
+  }, {
+    "tStartMs": 99577,
+    "dDurationMs": 5053,
+    "segs": [ {
+      "utf8": "To understand how, first up, let’s take a look at the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 104630,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "This is the time-independent version."
+    } ]
+  }, {
+    "tStartMs": 108359,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "It describes how the wavefunction of a quantum particle - that’s this psi thing - changes"
+    } ]
+  }, {
+    "tStartMs": 112939,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "over space, assuming the particle is in some\nenvironment described by a sum of potential"
+    } ]
+  }, {
+    "tStartMs": 118729,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "energies - that’s the V. V could result\nfrom the electromagnetic field inside the hydrogen"
+    } ]
+  }, {
+    "tStartMs": 123509,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "atom, or the EM fields defining the walls\nof a box, etc."
+    } ]
+  }, {
+    "tStartMs": 128009,
+    "dDurationMs": 2771,
+    "segs": [ {
+      "utf8": "And this E is just the total energy of the\nsystem."
+    } ]
+  }, {
+    "tStartMs": 130780,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "For an electron in a box or in a hydrogen\natom, the different possible values of E that"
+    } ]
+  }, {
+    "tStartMs": 135420,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "form solutions to this equation define the\nenergy levels of the system."
+    } ]
+  }, {
+    "tStartMs": 139840,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "You can also solve the Schrodinger equation\nto find the wavefunction, and the square of"
+    } ]
+  }, {
+    "tStartMs": 144130,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "that wavefunction gives the the probability\ndistribution for where you’ll find the electron"
+    } ]
+  }, {
+    "tStartMs": 148890,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "if you try to measure it."
+    } ]
+  }, {
+    "tStartMs": 150090,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "The time independent Schrodinger equation\nisn’t the be all and end all of quantum"
+    } ]
+  }, {
+    "tStartMs": 154260,
+    "dDurationMs": 4651,
+    "segs": [ {
+      "utf8": "mechanics - it’s an approximation that works\nfor slower moving particles that don’t change"
+    } ]
+  }, {
+    "tStartMs": 158911,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "over time."
+    } ]
+  }, {
+    "tStartMs": 159911,
+    "dDurationMs": 4389,
+    "segs": [ {
+      "utf8": "But it’s where we start learning quantum\nmechanics, and it works for a lot of simple"
+    } ]
+  }, {
+    "tStartMs": 164300,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "cases."
+    } ]
+  }, {
+    "tStartMs": 165300,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "There’s one other complexity we avoided."
+    } ]
+  }, {
+    "tStartMs": 166850,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Our Schrodinger equation just dealt with one\ndimension of space, x."
+    } ]
+  }, {
+    "tStartMs": 170960,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "That’s nice because then the wavefunction\nis just a 1-D array of values."
+    } ]
+  }, {
+    "tStartMs": 175390,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "That array stores the wavefunction\n- the distribution of possible locations - it"
+    } ]
+  }, {
+    "tStartMs": 180470,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "doesn’t store the actual location, which\nisn’t even defined until you look."
+    } ]
+  }, {
+    "tStartMs": 185060,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "Of course the real universe has 3 spatial\ndimensions, so for most real applications"
+    } ]
+  }, {
+    "tStartMs": 189990,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "we’d want Psi(x,y,z)."
+    } ]
+  }, {
+    "tStartMs": 192440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "That’s a big increase in the information\n- literally the cube of the 1-D case."
+    } ]
+  }, {
+    "tStartMs": 197400,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Let’s say we have a fairly crude grid of\n10 data points in 1-D."
+    } ]
+  }, {
+    "tStartMs": 201820,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "The 3-D equivalent would need 10^3 - 1,000\ndata points."
+    } ]
+  }, {
+    "tStartMs": 205800,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "OK, now let’s say we want to do the 26 electrons in an iron atom instead of the 1 electron"
+    } ]
+  }, {
+    "tStartMs": 212840,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "in hydrogen."
+    } ]
+  }, {
+    "tStartMs": 214060,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "That’s 26 times the data right?"
+    } ]
+  }, {
+    "tStartMs": 217510,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 218510,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "Those electrons are all interacting with each\nother, and that increases the information"
+    } ]
+  }, {
+    "tStartMs": 222600,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "content just a tad."
+    } ]
+  }, {
+    "tStartMs": 224640,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Each new electron doesn’t just add a new set of values to the same 3-D array."
+    } ]
+  }, {
+    "tStartMs": 230280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Every new electron adds 3 new entire dimensions."
+    } ]
+  }, {
+    "tStartMs": 233880,
+    "dDurationMs": 8970,
+    "segs": [ {
+      "utf8": "So 26 electrons means 78 dimensions, which\nfor our 10-point grid is 10^78 numbers."
+    } ]
+  }, {
+    "tStartMs": 242850,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "This little estimation came from the physicist\nDouglas Hartree."
+    } ]
+  }, {
+    "tStartMs": 246340,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "He’s the one who pointed out that to describe\nthe iron atom on a course grid, you’d"
+    } ]
+  }, {
+    "tStartMs": 251220,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "need to store more numbers than there are\nparticles in the solar system."
+    } ]
+  }, {
+    "tStartMs": 254830,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Let’s dig into why we really need this much\ninformation."
+    } ]
+  }, {
+    "tStartMs": 257720,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "We’ll do it with an analogy."
+    } ]
+  }, {
+    "tStartMs": 260430,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Roll a single six-sided die."
+    } ]
+  }, {
+    "tStartMs": 262470,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "We know we can get outcomes 1-6."
+    } ]
+  }, {
+    "tStartMs": 265590,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "That’s a 1-dimensional space of possibilities."
+    } ]
+  }, {
+    "tStartMs": 269270,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Now roll a second die, again giving you 1-6."
+    } ]
+  }, {
+    "tStartMs": 272400,
+    "dDurationMs": 6269,
+    "segs": [ {
+      "utf8": "Our total outcome space includes 6 possible\noutcomes of the second die for each of the"
+    } ]
+  }, {
+    "tStartMs": 278669,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "6 possible outcomes of the first - so 36 outcomes."
+    } ]
+  }, {
+    "tStartMs": 282960,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "We can represent this by first drawing a line\nto represent the 1-D outcome space of the"
+    } ]
+  }, {
+    "tStartMs": 287759,
+    "dDurationMs": 1141,
+    "segs": [ {
+      "utf8": "first die."
+    } ]
+  }, {
+    "tStartMs": 288900,
+    "dDurationMs": 3419,
+    "segs": [ {
+      "utf8": "The second die expands this space to 2-D."
+    } ]
+  }, {
+    "tStartMs": 292319,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "Adding particles to the Schrodinger equation\nis like adding dice to this system- every"
+    } ]
+  }, {
+    "tStartMs": 296290,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "time we add a particle we increase the dimensionality of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 300360,
+    "dDurationMs": 6019,
+    "segs": [ {
+      "utf8": "The x, y, and z in the Psi of the first electron\nisn’t the same x, y, and z in the Psi in"
+    } ]
+  }, {
+    "tStartMs": 306379,
+    "dDurationMs": 1211,
+    "segs": [ {
+      "utf8": "the second."
+    } ]
+  }, {
+    "tStartMs": 307590,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "For every coordinate point for electron one,\nwe need to consider separately every coordinate"
+    } ]
+  }, {
+    "tStartMs": 313930,
+    "dDurationMs": 1889,
+    "segs": [ {
+      "utf8": "point for electron two."
+    } ]
+  }, {
+    "tStartMs": 315819,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "And for a given pair of coordinate points\nfor electrons one and two, we need to consider"
+    } ]
+  }, {
+    "tStartMs": 320300,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "every possible point for electron 3 … and\nso on to electron 26."
+    } ]
+  }, {
+    "tStartMs": 325210,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "So it seems like even for a single atom of\niron, a fairly run of the mill element, we"
+    } ]
+  }, {
+    "tStartMs": 329529,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "can’t even store the wavefunction let alone\ncalculate it."
+    } ]
+  }, {
+    "tStartMs": 333370,
+    "dDurationMs": 2386,
+    "segs": [ {
+      "utf8": "So, do we pack up and go home?"
+    } ]
+  }, {
+    "tStartMs": 335756,
+    "dDurationMs": 4023,
+    "segs": [ {
+      "utf8": "Well, what if we can cheat?"
+    } ]
+  }, {
+    "tStartMs": 339779,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "Cheating in quantum mechanics often means finding a solution to a  problem that’s much simpler than"
+    } ]
+  }, {
+    "tStartMs": 345469,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "the one you’re actually interested in, and then finding ways to tweak that solution to"
+    } ]
+  }, {
+    "tStartMs": 350099,
+    "dDurationMs": 2145,
+    "segs": [ {
+      "utf8": "get what we really want."
+    } ]
+  }, {
+    "tStartMs": 352244,
+    "dDurationMs": 5785,
+    "segs": [ {
+      "utf8": "Now to solve the impossible case of many interacting quantum particles, we should start by thinking"
+    } ]
+  }, {
+    "tStartMs": 358029,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "about the completely solvable case of many\nnon-quantum or classical particles."
+    } ]
+  }, {
+    "tStartMs": 363629,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "In other words, Newtonian mechanics."
+    } ]
+  }, {
+    "tStartMs": 366559,
+    "dDurationMs": 6031,
+    "segs": [ {
+      "utf8": "When we use Newton to solve, say, the three-body problem, we can solve the equations for each"
+    } ]
+  }, {
+    "tStartMs": 372590,
+    "dDurationMs": 2219,
+    "segs": [ {
+      "utf8": "of the 3 particles separately."
+    } ]
+  }, {
+    "tStartMs": 374809,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "We don’t need a 3-cubed or 9 dimensional\nequation."
+    } ]
+  }, {
+    "tStartMs": 378539,
+    "dDurationMs": 6108,
+    "segs": [ {
+      "utf8": "In fact astrophysicists do huge galaxy simulations of millions of particles without doing "
+    } ]
+  }, {
+    "tStartMs": 384647,
+    "dDurationMs": 2608,
+    "segs": [ {
+      "utf8": "millions-of-dimension calculations."
+    } ]
+  }, {
+    "tStartMs": 387255,
+    "dDurationMs": 2064,
+    "segs": [ {
+      "utf8": "So why is that possible?"
+    } ]
+  }, {
+    "tStartMs": 389319,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "Well, these systems do sort of exist in a\nmany-dimensional space called configuration"
+    } ]
+  }, {
+    "tStartMs": 395779,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "space."
+    } ]
+  }, {
+    "tStartMs": 397169,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "But for the classical case we can throw away most of configuration space and consider"
+    } ]
+  }, {
+    "tStartMs": 401770,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "just the few points in that space where the particles actually exist at a given point"
+    } ]
+  }, {
+    "tStartMs": 406689,
+    "dDurationMs": 1471,
+    "segs": [ {
+      "utf8": "in time."
+    } ]
+  }, {
+    "tStartMs": 408160,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "In quantum mechanics, we’re dealing with\nthe wavefunction, and the wavefunction fills"
+    } ]
+  }, {
+    "tStartMs": 413550,
+    "dDurationMs": 2109,
+    "segs": [ {
+      "utf8": "all of configuration space."
+    } ]
+  }, {
+    "tStartMs": 415659,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "For perfect precision we can’t throw any of it away."
+    } ]
+  }, {
+    "tStartMs": 419919,
+    "dDurationMs": 6691,
+    "segs": [ {
+      "utf8": "Not only that, but quantum mechanics contains non-local correlations which arise because the position of one quantum"
+    } ]
+  }, {
+    "tStartMs": 426610,
+    "dDurationMs": 5209,
+    "segs": [ {
+      "utf8": "particle can restrict the set of possible\npositions for the other particles, for example"
+    } ]
+  }, {
+    "tStartMs": 431819,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "through the Pauli exclusion principle and\nthrough quantum entanglement."
+    } ]
+  }, {
+    "tStartMs": 435569,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "In the Newtonian case, particles only interact locally, and that means the Newtonian equations"
+    } ]
+  }, {
+    "tStartMs": 441779,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "of motion are what we call separable."
+    } ]
+  }, {
+    "tStartMs": 445550,
+    "dDurationMs": 4941,
+    "segs": [ {
+      "utf8": "An equation is separable if the solution along one axis - in one dimension - doesn’t depend"
+    } ]
+  }, {
+    "tStartMs": 450491,
+    "dDurationMs": 3288,
+    "segs": [ {
+      "utf8": "on the solutions on any other axis."
+    } ]
+  }, {
+    "tStartMs": 453779,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "If this is true then we can take an equation for N particles in 3D and reduce it from a"
+    } ]
+  }, {
+    "tStartMs": 460249,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "3^N dimensional equation to simply N coupled equations each in 3D."
+    } ]
+  }, {
+    "tStartMs": 466469,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "In fact in Newtonian mechanics we can not only write down the equations of motion for"
+    } ]
+  }, {
+    "tStartMs": 470870,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "each particle separately, we can write the x, y, and z equations of motion separately also."
+    } ]
+  }, {
+    "tStartMs": 476870,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "That gives us a sufficiently sane number of coupled equations that we can actually solve."
+    } ]
+  }, {
+    "tStartMs": 482810,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "But if we want to keep the quantum behaviour of quantum mechanics we can’t throw away"
+    } ]
+  }, {
+    "tStartMs": 487289,
+    "dDurationMs": 4451,
+    "segs": [ {
+      "utf8": "most of configuration space like we do in Newtonian mechanics."
+    } ]
+  }, {
+    "tStartMs": 491740,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "We need to know the wavefunction for every particle everywhere."
+    } ]
+  }, {
+    "tStartMs": 495810,
+    "dDurationMs": 3939,
+    "segs": [ {
+      "utf8": "And we can’t reduce the dimensionality by\ntreating particles separately because the"
+    } ]
+  }, {
+    "tStartMs": 499749,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "Schrodinger equation can’t be made “separable”."
+    } ]
+  }, {
+    "tStartMs": 502960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Doing so destroys quantum correlations."
+    } ]
+  }, {
+    "tStartMs": 506240,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "And yet despite the apparent impossibility\nof solving the Schrodinger equation for more"
+    } ]
+  }, {
+    "tStartMs": 510949,
+    "dDurationMs": 5861,
+    "segs": [ {
+      "utf8": "than a few particles, researchers still manage to do quantum simulations of some extremely"
+    } ]
+  }, {
+    "tStartMs": 516810,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "complex systems."
+    } ]
+  }, {
+    "tStartMs": 518300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And that’s because they have the cheat code."
+    } ]
+  }, {
+    "tStartMs": 521800,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "That code is D-F-T."
+    } ]
+  }, {
+    "tStartMs": 526300,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Now, make sure you get the order right or it won’t work."
+    } ]
+  }, {
+    "tStartMs": 529510,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "It stands for density functional theory, and\nit’s perhaps the most successful approach"
+    } ]
+  }, {
+    "tStartMs": 535320,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "to tackling the extreme dimensionality problem when solving realistic quantum systems."
+    } ]
+  }, {
+    "tStartMs": 541279,
+    "dDurationMs": 4411,
+    "segs": [ {
+      "utf8": "As an example, here’s a quantum simulation of the millions of atoms comprising the capsid"
+    } ]
+  }, {
+    "tStartMs": 545690,
+    "dDurationMs": 5889,
+    "segs": [ {
+      "utf8": "of a virus done using density functional theory, and here’s resonant excitation in the many"
+    } ]
+  }, {
+    "tStartMs": 551579,
+    "dDurationMs": 2671,
+    "segs": [ {
+      "utf8": "electrons of a molecule ."
+    } ]
+  }, {
+    "tStartMs": 554250,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "So how does DFT do a calculation that should need to manipulate vastly more bits of information"
+    } ]
+  }, {
+    "tStartMs": 561200,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "than there are particles in the entire universe?"
+    } ]
+  }, {
+    "tStartMs": 565150,
+    "dDurationMs": 5129,
+    "segs": [ {
+      "utf8": "Remember what we talked about - try to solve a problem that you CAN solve, and then tweak"
+    } ]
+  }, {
+    "tStartMs": 570279,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "it to the more challenging case."
+    } ]
+  }, {
+    "tStartMs": 572709,
+    "dDurationMs": 6281,
+    "segs": [ {
+      "utf8": "In the case of DFT, what you do is just pretend the electrons aren’t interacting with each"
+    } ]
+  }, {
+    "tStartMs": 578990,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "other and solve for that case."
+    } ]
+  }, {
+    "tStartMs": 581279,
+    "dDurationMs": 5131,
+    "segs": [ {
+      "utf8": "And through a very mysterious quality of the quantum world, it's possible to map that fake"
+    } ]
+  }, {
+    "tStartMs": 586410,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "solution to real answers."
+    } ]
+  }, {
+    "tStartMs": 588880,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Let me try to give you a sense of how this\nis done."
+    } ]
+  }, {
+    "tStartMs": 592050,
+    "dDurationMs": 4659,
+    "segs": [ {
+      "utf8": "The “mysterious quality” is expressed\nin a set of theorems devised by the physicists"
+    } ]
+  }, {
+    "tStartMs": 596709,
+    "dDurationMs": 2721,
+    "segs": [ {
+      "utf8": "Walter Kohn and Pierre Hohenberg."
+    } ]
+  }, {
+    "tStartMs": 599430,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "The first theorem basically states that if\nyou have a system of electrons in their ground"
+    } ]
+  }, {
+    "tStartMs": 603550,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "state, no matter how complicated, the properties of that system are uniquely determined by"
+    } ]
+  }, {
+    "tStartMs": 609160,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "position density of those electrons."
+    } ]
+  }, {
+    "tStartMs": 611860,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "The position density - or more commonly the charge density - is just a tiny fragment of"
+    } ]
+  }, {
+    "tStartMs": 616530,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "the information held in the total wavefunction of all of those electrons."
+    } ]
+  }, {
+    "tStartMs": 621100,
+    "dDurationMs": 7950,
+    "segs": [ {
+      "utf8": "It’s a 3-D entity - just a map of how much\n“electron-ness” exists through space."
+    } ]
+  }, {
+    "tStartMs": 629050,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "The Hohenberg-Kohn theorems say that you can map from this charge density to the interesting"
+    } ]
+  }, {
+    "tStartMs": 635100,
+    "dDurationMs": 4419,
+    "segs": [ {
+      "utf8": "observables - like the energy of the system, without having to go through the impossibly"
+    } ]
+  }, {
+    "tStartMs": 639519,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "complex many-electron wavefunction."
+    } ]
+  }, {
+    "tStartMs": 642509,
+    "dDurationMs": 5421,
+    "segs": [ {
+      "utf8": "So we start with a bad guess at the ground\nstate charge distribution and then iterate"
+    } ]
+  }, {
+    "tStartMs": 647930,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "closer to the truth, and we do this for the\ntotally unrealistic case of non-interacting"
+    } ]
+  }, {
+    "tStartMs": 653600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "electrons."
+    } ]
+  }, {
+    "tStartMs": 654600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Because they aren’t interacting, the equations of motion for these electrons are separable,"
+    } ]
+  }, {
+    "tStartMs": 659880,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "just like in Newtonian mechanics."
+    } ]
+  }, {
+    "tStartMs": 662940,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "Instead of using the Schrodinger equation,\nyou use an analog called the Kohn-Sham equations."
+    } ]
+  }, {
+    "tStartMs": 668399,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": "There’s that Kohn guy again - he got the\nNobel prize in chemistry for this stuff."
+    } ]
+  }, {
+    "tStartMs": 673490,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "These equations basically let you translate\nbetween a realistic interacting system and"
+    } ]
+  }, {
+    "tStartMs": 679170,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "the fictitious non-interacting case."
+    } ]
+  }, {
+    "tStartMs": 683360,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Solving those equations becomes possible, and it gets you the ground state energy for"
+    } ]
+  }, {
+    "tStartMs": 687720,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "your guess at the charge density."
+    } ]
+  }, {
+    "tStartMs": 690009,
+    "dDurationMs": 4971,
+    "segs": [ {
+      "utf8": "Then iterate until everything is consistent\n- when the ground state energy, the potential,"
+    } ]
+  }, {
+    "tStartMs": 694980,
+    "dDurationMs": 2789,
+    "segs": [ {
+      "utf8": "and the charge density converge."
+    } ]
+  }, {
+    "tStartMs": 697769,
+    "dDurationMs": 5481,
+    "segs": [ {
+      "utf8": "And according to the theorem that we started with, that ground state charge distribution is unique"
+    } ]
+  }, {
+    "tStartMs": 703250,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "- it corresponds both to the fake non-interacting and to the true interacting case."
+    } ]
+  }, {
+    "tStartMs": 710420,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "From there you can go ahead and calculate whatever observable you’re interested in."
+    } ]
+  }, {
+    "tStartMs": 714200,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "The secret sauce that makes this work is something called the energy functional - it’s the"
+    } ]
+  }, {
+    "tStartMs": 719540,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "functional in density functional theory."
+    } ]
+  }, {
+    "tStartMs": 722690,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "When given a ground state density, it let’s\nus construct this fictitious non-interacting"
+    } ]
+  }, {
+    "tStartMs": 727140,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "“Kohn-Sham” system and figure out its\ntotal energy."
+    } ]
+  }, {
+    "tStartMs": 730980,
+    "dDurationMs": 3849,
+    "segs": [ {
+      "utf8": "DFT is all about finding the energy functional."
+    } ]
+  }, {
+    "tStartMs": 734829,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "We never know the exact functional, just that it exists - and so we have to approximate it."
+    } ]
+  }, {
+    "tStartMs": 740279,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "So yeah, that’s a very crude summary."
+    } ]
+  }, {
+    "tStartMs": 742990,
+    "dDurationMs": 4889,
+    "segs": [ {
+      "utf8": "The main takeaway is that physicists realised that a tiny sliver of the full wavefunction"
+    } ]
+  }, {
+    "tStartMs": 747879,
+    "dDurationMs": 5181,
+    "segs": [ {
+      "utf8": "- the density distribution - could be mapped to all sorts of useful observables."
+    } ]
+  }, {
+    "tStartMs": 753060,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Without taking, like, the entire age of the universe and a solar-system sized computer."
+    } ]
+  }, {
+    "tStartMs": 757500,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "The key is understanding that the final solution must be self-consistent - basically, it has"
+    } ]
+  }, {
+    "tStartMs": 763240,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "to obey the Schrodinger equation - and the\ncheat is finding a way to inch your way to"
+    } ]
+  }, {
+    "tStartMs": 769230,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "that solution."
+    } ]
+  }, {
+    "tStartMs": 771100,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Density functional theory has now been used to model the intricate quantum-level behavior"
+    } ]
+  }, {
+    "tStartMs": 775290,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "of chemical reactions, of complex molecules even as far as DNA or that viral capsid from"
+    } ]
+  }, {
+    "tStartMs": 781130,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "earlier, and many advanced materials like semiconductors, nanostructures, etc."
+    } ]
+  }, {
+    "tStartMs": 785850,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Being able to calculate this stuff is nice."
+    } ]
+  }, {
+    "tStartMs": 788940,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "I mean, it’s essential for our technological\nadvancement."
+    } ]
+  }, {
+    "tStartMs": 792009,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "But what does DFT actually tell us about the universe?"
+    } ]
+  }, {
+    "tStartMs": 795290,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "What does it mean that there exists a map\nbetween the low-information slice of the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 801040,
+    "dDurationMs": 3549,
+    "segs": [ {
+      "utf8": "and really all the information we want to\nget from it?"
+    } ]
+  }, {
+    "tStartMs": 804589,
+    "dDurationMs": 3565,
+    "segs": [ {
+      "utf8": "It’s like the ultimate compression algorithm."
+    } ]
+  }, {
+    "tStartMs": 808154,
+    "dDurationMs": 3286,
+    "segs": [ {
+      "utf8": "For one thing, it’s good news if we ever\nwant to simulate another universe."
+    } ]
+  }, {
+    "tStartMs": 811440,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "We won’t need a computer bigger than the\nuniverse."
+    } ]
+  }, {
+    "tStartMs": 815240,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "But there are no doubt deeper truths to be\nfound by understanding how the universal wavefunction"
+    } ]
+  }, {
+    "tStartMs": 821060,
+    "dDurationMs": 7149,
+    "segs": [ {
+      "utf8": "with its insane hyper dimensionality is connected to the narrow sliver of that wavefunction"
+    } ]
+  }, {
+    "tStartMs": 828209,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "that represents our observed reality."
+    } ]
+  }, {
+    "tStartMs": 831269,
+    "dDurationMs": 7151,
+    "segs": [ {
+      "utf8": "Our computationally tractable reality, due\nto its very few dimensions of spacetime."
+    } ]
+  }, {
+    "tStartMs": 838420,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "You know what really helps this show?"
+    } ]
+  }, {
+    "tStartMs": 840149,
+    "dDurationMs": 3761,
+    "segs": [ {
+      "utf8": "Subscribing and hitting that little bell button to make sure you’re notified when we upload"
+    } ]
+  }, {
+    "tStartMs": 843910,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "a new episode."
+    } ]
+  }, {
+    "tStartMs": 845290,
+    "dDurationMs": 5529,
+    "segs": [ {
+      "utf8": "Watching soon after release helps the YouTube algorithm know it should share the vid."
+    } ]
+  }, {
+    "tStartMs": 850819,
+    "dDurationMs": 4811,
+    "segs": [ {
+      "utf8": "Another thing that is enormously helpful is the support that we receive on Patreon - so if"
+    } ]
+  }, {
+    "tStartMs": 855630,
+    "dDurationMs": 2939,
+    "segs": [ {
+      "utf8": "you donate there, thank you so much."
+    } ]
+  }, {
+    "tStartMs": 858569,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "And today I’d like to give a special shoutout to Peter Barrett, who’s supporting us on"
+    } ]
+  }, {
+    "tStartMs": 863209,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "patreon at the big bang level."
+    } ]
+  }, {
+    "tStartMs": 865269,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "Peter, the infinite dimensional universal\nwavefunction barely contains enough information"
+    } ]
+  }, {
+    "tStartMs": 870310,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "to describe your generosity."
+    } ]
+  }, {
+    "tStartMs": 872009,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "Thanks for keeping us functional, and for\nhelping us realize our true potential."
+    } ]
+  }, {
+    "tStartMs": 877189,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "OK, we have a couple of episodes worth of\ncomments to catch up on - both of them pretty"
+    } ]
+  }, {
+    "tStartMs": 882339,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "speculative."
+    } ]
+  }, {
+    "tStartMs": 883339,
+    "dDurationMs": 4821,
+    "segs": [ {
+      "utf8": "First we have the one about black holes puncturing the Earth, and then the one about how we might"
+    } ]
+  }, {
+    "tStartMs": 888160,
+    "dDurationMs": 4549,
+    "segs": [ {
+      "utf8": "search for Dyson spheres or other alien megastructures."
+    } ]
+  }, {
+    "tStartMs": 892709,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Black holes first."
+    } ]
+  }, {
+    "tStartMs": 893889,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We told you that an asteroid-mass, atom-sized black hole would pass straight through the"
+    } ]
+  }, {
+    "tStartMs": 898529,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "earth if it impacted."
+    } ]
+  }, {
+    "tStartMs": 901019,
+    "dDurationMs": 5391,
+    "segs": [ {
+      "utf8": "Pizzacrusher asks whether that’s only true\nif it was moving fast enough."
+    } ]
+  }, {
+    "tStartMs": 906410,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Absolutely right."
+    } ]
+  }, {
+    "tStartMs": 907410,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "The assumption in this calculation is that\nthe black hole came from interstellar space"
+    } ]
+  }, {
+    "tStartMs": 911790,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "and fell into the solar system."
+    } ]
+  }, {
+    "tStartMs": 914560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "The minimum velocity it could have on reaching the Earth is the solar system’s escape velocity"
+    } ]
+  }, {
+    "tStartMs": 919160,
+    "dDurationMs": 4102,
+    "segs": [ {
+      "utf8": "at Earth’s orbit, or around 42 km/s."
+    } ]
+  }, {
+    "tStartMs": 923262,
+    "dDurationMs": 5127,
+    "segs": [ {
+      "utf8": "The the fast-moving\nblack hole slows-down inside the Earth because exchanges momentum with or eats"
+    } ]
+  }, {
+    "tStartMs": 928389,
+    "dDurationMs": 2981,
+    "segs": [ {
+      "utf8": "stationary material on its way through."
+    } ]
+  }, {
+    "tStartMs": 931370,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "But the narrow column carved by the black\nhole has a mass much lower than the black"
+    } ]
+  }, {
+    "tStartMs": 935051,
+    "dDurationMs": 2898,
+    "segs": [ {
+      "utf8": "hole itself, so it doesn’t slow down much."
+    } ]
+  }, {
+    "tStartMs": 937949,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "Most likely the black hole was moving faster than 42 km/s - that would only be the case"
+    } ]
+  }, {
+    "tStartMs": 943139,
+    "dDurationMs": 3231,
+    "segs": [ {
+      "utf8": "if it had exactly the same galactic orbit\nas the sun."
+    } ]
+  }, {
+    "tStartMs": 946370,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "It could be moving at up to a couple of hundred km/s."
+    } ]
+  }, {
+    "tStartMs": 949069,
+    "dDurationMs": 6991,
+    "segs": [ {
+      "utf8": "Either way, it’ll still have solar system\nescape velocity after the passage through the earth and we would"
+    } ]
+  }, {
+    "tStartMs": 956060,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "never see it again."
+    } ]
+  }, {
+    "tStartMs": 957100,
+    "dDurationMs": 4609,
+    "segs": [ {
+      "utf8": "It’s possible to imagine a scenario where\nthe black hole had multiple interactions on"
+    } ]
+  }, {
+    "tStartMs": 961709,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "its way to the Earth - perhaps it punctured\nthe Sun, swung around Jupiter, etc, and lost"
+    } ]
+  }, {
+    "tStartMs": 966829,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "speed that way."
+    } ]
+  }, {
+    "tStartMs": 968399,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "But it would need to reach Earth’s surface moving at 10 or so km/s to get stuck in the planet"
+    } ]
+  }, {
+    "tStartMs": 973659,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "- perhaps after a couple of passes."
+    } ]
+  }, {
+    "tStartMs": 976110,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I’m told that this scenario is incredibly\nunlikely."
+    } ]
+  }, {
+    "tStartMs": 979550,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "So sorry to disappoint."
+    } ]
+  }, {
+    "tStartMs": 981730,
+    "dDurationMs": 3769,
+    "segs": [ {
+      "utf8": "And speaking of black holes hitting the Sun, Christian asks whether that would be"
+    } ]
+  }, {
+    "tStartMs": 985499,
+    "dDurationMs": 1111,
+    "segs": [ {
+      "utf8": "detectable."
+    } ]
+  }, {
+    "tStartMs": 986610,
+    "dDurationMs": 6039,
+    "segs": [ {
+      "utf8": "And for that matter, what about Jupiter. don’t read this\nasks about impacts on the Moon?"
+    } ]
+  }, {
+    "tStartMs": 992649,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Well for the sun and Jupiter it’s marginally possible that if you were looking at the right spot"
+    } ]
+  }, {
+    "tStartMs": 996829,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "you’d see a flash of X-rays - as the thing\nentered - but at least for the Sun, the Sun is quite X-ray"
+    } ]
+  }, {
+    "tStartMs": 1003749,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "bright on its own, so you’d really have\nto be trained on the spot and I don’t think"
+    } ]
+  }, {
+    "tStartMs": 1008519,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "our current X-ray satellites could do it."
+    } ]
+  }, {
+    "tStartMs": 1010480,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "I did see a paper that claimed we might be\nable see the high-frequency seismic fluctuations"
+    } ]
+  }, {
+    "tStartMs": 1016550,
+    "dDurationMs": 3849,
+    "segs": [ {
+      "utf8": "set up inside a star after a black hole passage."
+    } ]
+  }, {
+    "tStartMs": 1020399,
+    "dDurationMs": 4621,
+    "segs": [ {
+      "utf8": "But as far as I know this has not been spotted yet."
+    } ]
+  }, {
+    "tStartMs": 1025020,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "As for looking for impact evidence on the\nMoon - yes, in principle these impacts leave"
+    } ]
+  }, {
+    "tStartMs": 1029100,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "weird-shaped craters that we might be able to distinguish if we were to look."
+    } ]
+  }, {
+    "tStartMs": 1034020,
+    "dDurationMs": 5269,
+    "segs": [ {
+      "utf8": "Oromandias asks whether the scenario of the Neil Stephenson's book Seveneves is plausible"
+    } ]
+  }, {
+    "tStartMs": 1039289,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "- in which a primordial black hole destroyed the moon."
+    } ]
+  }, {
+    "tStartMs": 1043220,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "We actually interviewed Stephenson on this show about the book back in the day, and at the time I was"
+    } ]
+  }, {
+    "tStartMs": 1049380,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "too polite to say - absolutely not possible."
+    } ]
+  }, {
+    "tStartMs": 1053900,
+    "dDurationMs": 3889,
+    "segs": [ {
+      "utf8": "The black hole could never deposit enough\nenergy on its passage through the moon to"
+    } ]
+  }, {
+    "tStartMs": 1057789,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "break it apart."
+    } ]
+  }, {
+    "tStartMs": 1058789,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "It would need to grant the entire moon enough energy to overcome its own self-gravity."
+    } ]
+  }, {
+    "tStartMs": 1063830,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Not remotely conceivable."
+    } ]
+  }, {
+    "tStartMs": 1065760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "To be fair though, the book wasn’t really\nabout this event."
+    } ]
+  }, {
+    "tStartMs": 1068600,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "Ok, moving on to searching for Dyson spheres."
+    } ]
+  }, {
+    "tStartMs": 1071809,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Krkrunner speculates that if a civilization\nis advanced enough to create a Dyson sphere"
+    } ]
+  }, {
+    "tStartMs": 1076059,
+    "dDurationMs": 2591,
+    "segs": [ {
+      "utf8": "they might also be able to mask it from detection."
+    } ]
+  }, {
+    "tStartMs": 1078650,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "That might be the case, but it’s likely\nthat the 2nd law of thermodynamics rules out"
+    } ]
+  }, {
+    "tStartMs": 1083360,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "perfect masking."
+    } ]
+  }, {
+    "tStartMs": 1084730,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "Energy becomes useful when it’s moved between a low entropy to a high entropy configuration."
+    } ]
+  }, {
+    "tStartMs": 1090860,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "A Dyson sphere reprocessing a sun’s visible light into infrared, ultimately releasing"
+    } ]
+  }, {
+    "tStartMs": 1096260,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "exactly as much energy as it absorbed, but\nin a much higher entropy state."
+    } ]
+  }, {
+    "tStartMs": 1101590,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "If it weren’t releasing as much energy as\nit absorbsd then the interior of the sphere"
+    } ]
+  }, {
+    "tStartMs": 1106160,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "would have to heat up until the input-output equilibrium is reached."
+    } ]
+  }, {
+    "tStartMs": 1110690,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "So our aliens do have to shed their heat somehow."
+    } ]
+  }, {
+    "tStartMs": 1114419,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "It’s conceivable that they could channel\nit into a less visible form - perhaps microwave"
+    } ]
+  }, {
+    "tStartMs": 1119090,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "beams sent to hopefully-empty patches of the sky."
+    } ]
+  }, {
+    "tStartMs": 1123940,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "Such a beam has a lower entropy than isotropic thermal radiation, and so less energy is made"
+    } ]
+  }, {
+    "tStartMs": 1129990,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "available for the aliens."
+    } ]
+  }, {
+    "tStartMs": 1131770,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "But sure, if they really want to avoid the\nReapers then that might be doing just that. "
+    } ]
+  }, {
+    "tStartMs": 1137030,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Defeshh points out that it’s scary to imagine an alien civilization that would need the"
+    } ]
+  }, {
+    "tStartMs": 1141580,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "amount of energy generated by a Dyson sphere."
+    } ]
+  }, {
+    "tStartMs": 1144230,
+    "dDurationMs": 5319,
+    "segs": [ {
+      "utf8": "I completely agree. Especially if they're still scared of bigger aliens. "
+    } ]
+  }, {
+    "tStartMs": 1149549,
+    "dDurationMs": 5451,
+    "segs": [ {
+      "utf8": "Now the discussion that followed several people speculating on what they might need all that"
+    } ]
+  }, {
+    "tStartMs": 1155000,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "energy for."
+    } ]
+  }, {
+    "tStartMs": 1156220,
+    "dDurationMs": 6171,
+    "segs": [ {
+      "utf8": "Phudlow may have hit on the biggest potential energy sink - FTL travel, if possible, will"
+    } ]
+  }, {
+    "tStartMs": 1162391,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "certainly take a ridiculous amount of energy."
+    } ]
+  }, {
+    "tStartMs": 1164680,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "As in the rest masses of entire planets."
+    } ]
+  }, {
+    "tStartMs": 1167720,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "One Dyson sphere wouldn’t actually cut it But actually, even nearly-light-speed travel can be a real"
+    } ]
+  }, {
+    "tStartMs": 1173450,
+    "dDurationMs": 7756,
+    "segs": [ {
+      "utf8": "gas guzzler, so perhaps Dyson spheres are made to power light sail lasers that accelerate craft to"
+    } ]
+  }, {
+    "tStartMs": 1181206,
+    "dDurationMs": 3394,
+    "segs": [ {
+      "utf8": "99.9999blahblah% the speed of light speed."
+    } ]
+  }, {
+    "tStartMs": 1184600,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "And actually there’s a way to shed your\nexcess energy, and you have an escape route"
+    } ]
+  }, {
+    "tStartMs": 1189850,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "when the Reapers arrive."
+    } ]
+  }, {
+    "tStartMs": 1190850,
+    "dDurationMs": 4518,
+    "segs": [ {
+      "utf8": "Another potential energy need is matrioskha brain."
+    } ]
+  }, {
+    "tStartMs": 1195368,
+    "dDurationMs": 5125,
+    "segs": [ {
+      "utf8": "Basically, this is a planet-sized computer that could run a virtual world supporting our uploaded"
+    } ]
+  }, {
+    "tStartMs": 1200493,
+    "dDurationMs": 2717,
+    "segs": [ {
+      "utf8": "minds as virtual intelligences."
+    } ]
+  }, {
+    "tStartMs": 1203210,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "And that would presumably take quite a bit of energy, depending on the frame rate."
+    } ]
+  }, {
+    "tStartMs": 1207100,
+    "dDurationMs": 7410,
+    "segs": [ {
+      "utf8": "And Angelbar points out the other thing we might do with a matryoshka brain powered by a a Dyson Sphere. "
+    } ]
+  }, {
+    "tStartMs": 1214510,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Which somehow seems, horrifyingly more likely."
+    } ]
+  }, {
+    "tStartMs": 1217370,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "That is to mine bitcoin."
+    } ]
+  }, {
+    "tStartMs": 1219900,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "In fact, will we even have a choice in the matter after the bitcoin mining AIs take over and cannibalize the world "
+    } ]
+  }, {
+    "tStartMs": 1226470,
+    "dDurationMs": 3897,
+    "segs": [ {
+      "utf8": "to build Dyson Spheres to power a hash cashing matryoshka brain.    "
+    } ]
+  }, {
+    "tStartMs": 1230367,
+    "dDurationMs": 6332,
+    "segs": [ {
+      "utf8": "Our awesome space-faring, megastructure-building\nfuture suddenly sounds a lot more stupid."
+    } ]
+  } ]
+}

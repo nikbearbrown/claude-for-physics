@@ -1,0 +1,4435 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 690,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "- [Derek] Say you wanna drive"
+    } ]
+  }, {
+    "tStartMs": 1680,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "from New York to San Francisco."
+    } ]
+  }, {
+    "tStartMs": 3600,
+    "dDurationMs": 2883,
+    "segs": [ {
+      "utf8": "How could you calculate\nthe absolute shortest path?"
+    } ]
+  }, {
+    "tStartMs": 7710,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "There are over 64 million intersections"
+    } ]
+  }, {
+    "tStartMs": 10260,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "in the North American road system,"
+    } ]
+  }, {
+    "tStartMs": 11790,
+    "dDurationMs": 4726,
+    "segs": [ {
+      "utf8": "so a simplified estimate gives around\n10 to the 220 possible routes."
+    } ]
+  }, {
+    "tStartMs": 16516,
+    "dDurationMs": 2829,
+    "segs": [ {
+      "utf8": "Even if you could check a\nbillion routes per second,"
+    } ]
+  }, {
+    "tStartMs": 19345,
+    "dDurationMs": 1115,
+    "segs": [ {
+      "utf8": "testing all of them"
+    } ]
+  }, {
+    "tStartMs": 20460,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "would still take over 10 to the 200 years."
+    } ]
+  }, {
+    "tStartMs": 24390,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "And this isn't just a problem\nfor navigation software."
+    } ]
+  }, {
+    "tStartMs": 27330,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Any independent system like a robot"
+    } ]
+  }, {
+    "tStartMs": 29430,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "or a video game character\nthat needs to navigate a maze,"
+    } ]
+  }, {
+    "tStartMs": 32220,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "or obstacle course\nfaces this same problem."
+    } ]
+  }, {
+    "tStartMs": 35790,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And yet, Google or Apple\nMaps will find you the route"
+    } ]
+  }, {
+    "tStartMs": 38550,
+    "dDurationMs": 1653,
+    "segs": [ {
+      "utf8": "in only four seconds."
+    } ]
+  }, {
+    "tStartMs": 41190,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "So how is that possible?"
+    } ]
+  }, {
+    "tStartMs": 44520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Well, we teamed up with the channel 2swap,"
+    } ]
+  }, {
+    "tStartMs": 46380,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "who creates incredible\nsimulations and animations"
+    } ]
+  }, {
+    "tStartMs": 48990,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "to show you step by step,\nhow these algorithms work."
+    } ]
+  }, {
+    "tStartMs": 53010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "They trace their origins\nback to a shopping trip"
+    } ]
+  }, {
+    "tStartMs": 55560,
+    "dDurationMs": 2364,
+    "segs": [ {
+      "utf8": "in Amsterdam in 1956."
+    } ]
+  }, {
+    "tStartMs": 57924,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(jaunty music)"
+    } ]
+  }, {
+    "tStartMs": 61517,
+    "dDurationMs": 2383,
+    "segs": [ {
+      "utf8": "Edsger Dijkstra needed a problem."
+    } ]
+  }, {
+    "tStartMs": 63900,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "He was working on software for ARMAC,"
+    } ]
+  }, {
+    "tStartMs": 66060,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "an early computer developed\nat the mathematical center"
+    } ]
+  }, {
+    "tStartMs": 68430,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "in the Netherlands."
+    } ]
+  }, {
+    "tStartMs": 69510,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And it was almost ready to debut."
+    } ]
+  }, {
+    "tStartMs": 71460,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But at the time, the general\npublic considered computers"
+    } ]
+  }, {
+    "tStartMs": 73740,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to be practically useless."
+    } ]
+  }, {
+    "tStartMs": 75900,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "So useless, in fact,"
+    } ]
+  }, {
+    "tStartMs": 76830,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "that Dijkstra ran into issues\nfiling his marriage license."
+    } ]
+  }, {
+    "tStartMs": 80070,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "- [Casper's Dijkstra Impression] \nDutch marriage rights require you"
+    } ]
+  }, {
+    "tStartMs": 82110,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "to state your profession,"
+    } ]
+  }, {
+    "tStartMs": 83700,
+    "dDurationMs": 3085,
+    "segs": [ {
+      "utf8": "and I said that I was a programmer."
+    } ]
+  }, {
+    "tStartMs": 86785,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "But the municipal authorities\nof the town of Amsterdam"
+    } ]
+  }, {
+    "tStartMs": 90660,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "didn't accept it on the ground"
+    } ]
+  }, {
+    "tStartMs": 92340,
+    "dDurationMs": 1743,
+    "segs": [ {
+      "utf8": "that there was no such profession."
+    } ]
+  }, {
+    "tStartMs": 95220,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And believe it or not, that\nunder the heading \"profession,\""
+    } ]
+  }, {
+    "tStartMs": 98580,
+    "dDurationMs": 3007,
+    "segs": [ {
+      "utf8": "my marriage act shows\nthe ridiculous entry,"
+    } ]
+  }, {
+    "tStartMs": 101587,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "\"theoretical physicist.\""
+    } ]
+  }, {
+    "tStartMs": 105930,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "- [Derek] And so Dijkstra was\nlooking for a specific demo"
+    } ]
+  }, {
+    "tStartMs": 108540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "to prove just how powerful ARMAC\nwas, even to the layperson."
+    } ]
+  }, {
+    "tStartMs": 112680,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "- ['Dijkstra'] The problem of course,"
+    } ]
+  }, {
+    "tStartMs": 113970,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "is that for a demonstration\nfor non-computing people,"
+    } ]
+  }, {
+    "tStartMs": 117480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "you have to have a problem statement"
+    } ]
+  }, {
+    "tStartMs": 119160,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "that non-mathematicians can understand."
+    } ]
+  }, {
+    "tStartMs": 122340,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "And they have to understand the answer."
+    } ]
+  }, {
+    "tStartMs": 125370,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "- [Derek] And during that shopping trip,"
+    } ]
+  }, {
+    "tStartMs": 126780,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "he thought of the perfect problem."
+    } ]
+  }, {
+    "tStartMs": 129510,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "- ['Dijkstra'] What's the shortest way"
+    } ]
+  }, {
+    "tStartMs": 130650,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "to travel from Rotterdam to Groningen?"
+    } ]
+  }, {
+    "tStartMs": 133380,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "- [Derek] In other words,\na shortest path algorithm."
+    } ]
+  }, {
+    "tStartMs": 136620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Here's a simplified\ngraph of the Netherlands."
+    } ]
+  }, {
+    "tStartMs": 139140,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "The nodes represent the cities,"
+    } ]
+  }, {
+    "tStartMs": 140760,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and the edges connecting\nthem are the roads."
+    } ]
+  }, {
+    "tStartMs": 143340,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "The simplest way to find the shortest path"
+    } ]
+  }, {
+    "tStartMs": 145050,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "from Rotterdam to\nGroningen looks like this."
+    } ]
+  }, {
+    "tStartMs": 148050,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Starting from Rotterdam,"
+    } ]
+  }, {
+    "tStartMs": 149220,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "we're first going to\nexplore all its neighbors"
+    } ]
+  }, {
+    "tStartMs": 151560,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "looking for Groningen."
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Since Groningen isn't one\nof these neighboring nodes,"
+    } ]
+  }, {
+    "tStartMs": 155160,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "we'll mark Rotterdam as\nexplored, and keep searching."
+    } ]
+  }, {
+    "tStartMs": 158850,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So now we'll branch out\nfrom these four nodes"
+    } ]
+  }, {
+    "tStartMs": 161400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "to explore all of their neighbors."
+    } ]
+  }, {
+    "tStartMs": 163800,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "And we keep branching out this way,"
+    } ]
+  }, {
+    "tStartMs": 165660,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "exploring all neighboring nodes,"
+    } ]
+  }, {
+    "tStartMs": 167280,
+    "dDurationMs": 2073,
+    "segs": [ {
+      "utf8": "until we stumble upon Groningen."
+    } ]
+  }, {
+    "tStartMs": 170670,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "This algorithm is known\nas Breadth-First Search."
+    } ]
+  }, {
+    "tStartMs": 173100,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It will always find the shortest path"
+    } ]
+  }, {
+    "tStartMs": 174780,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "because it checks all nodes one step away,"
+    } ]
+  }, {
+    "tStartMs": 177330,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and then two steps away, and so on."
+    } ]
+  }, {
+    "tStartMs": 180240,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So if there were a path\nfrom Rotterdam to Groningen"
+    } ]
+  }, {
+    "tStartMs": 182940,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "in four steps,"
+    } ]
+  }, {
+    "tStartMs": 183773,
+    "dDurationMs": 4447,
+    "segs": [ {
+      "utf8": "we would've found it on the\nfourth iteration, but we didn't."
+    } ]
+  }, {
+    "tStartMs": 188220,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So the shortest path must be five steps."
+    } ]
+  }, {
+    "tStartMs": 191160,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "But there's a problem with this approach."
+    } ]
+  }, {
+    "tStartMs": 193140,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "I mean, the algorithm\nconsiders all these roads"
+    } ]
+  }, {
+    "tStartMs": 195330,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "to be the same length,\nwhich is obviously not true."
+    } ]
+  }, {
+    "tStartMs": 199140,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "So let's add weights\nto represent distances"
+    } ]
+  }, {
+    "tStartMs": 201600,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "between these nodes."
+    } ]
+  }, {
+    "tStartMs": 203040,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Now the shortest path is\nmuch harder to figure out."
+    } ]
+  }, {
+    "tStartMs": 206130,
+    "dDurationMs": 2073,
+    "segs": [ {
+      "utf8": "So Dijkstra needed a better method."
+    } ]
+  }, {
+    "tStartMs": 209220,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- ['Dijkstra'] One morning I\nwas shopping in Amsterdam"
+    } ]
+  }, {
+    "tStartMs": 211620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "with my young fiance, and tired,"
+    } ]
+  }, {
+    "tStartMs": 214140,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "we sat down on the cafe terrace\nto drink a cup of coffee."
+    } ]
+  }, {
+    "tStartMs": 217500,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "And I was just thinking about\nwhether I could do this."
+    } ]
+  }, {
+    "tStartMs": 221820,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "- [Henry] His idea was this."
+    } ]
+  }, {
+    "tStartMs": 223230,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "First he wanted to keep track\nof the shortest distance"
+    } ]
+  }, {
+    "tStartMs": 225690,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "from the source to each node."
+    } ]
+  }, {
+    "tStartMs": 227400,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "This is also known as its cost."
+    } ]
+  }, {
+    "tStartMs": 230370,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "His goal, well, if he could\nfind the shortest path"
+    } ]
+  }, {
+    "tStartMs": 232980,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "from the source to one node,"
+    } ]
+  }, {
+    "tStartMs": 234660,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "then he could build up\nother shortest paths"
+    } ]
+  }, {
+    "tStartMs": 236430,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "starting from this new node,"
+    } ]
+  }, {
+    "tStartMs": 237930,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "and then the next, and on and on."
+    } ]
+  }, {
+    "tStartMs": 241110,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Now, the cost of the\nstarting node was zero."
+    } ]
+  }, {
+    "tStartMs": 243390,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "But since he hadn't actually explored"
+    } ]
+  }, {
+    "tStartMs": 245010,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "the rest of the graph yet,"
+    } ]
+  }, {
+    "tStartMs": 246150,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "he set all the other nodes\nto a cost of infinity."
+    } ]
+  }, {
+    "tStartMs": 249540,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Then just like breadth-first search,"
+    } ]
+  }, {
+    "tStartMs": 251430,
+    "dDurationMs": 1305,
+    "segs": [ {
+      "utf8": "Dijkstra started from the source,"
+    } ]
+  }, {
+    "tStartMs": 252735,
+    "dDurationMs": 2655,
+    "segs": [ {
+      "utf8": "and explored each of\nits neighboring nodes."
+    } ]
+  }, {
+    "tStartMs": 255390,
+    "dDurationMs": 1387,
+    "segs": [ {
+      "utf8": "At every step he'd ask,"
+    } ]
+  }, {
+    "tStartMs": 256777,
+    "dDurationMs": 1613,
+    "segs": [ {
+      "utf8": "\"Is the current path to this node"
+    } ]
+  }, {
+    "tStartMs": 258390,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "the shortest we've seen so far?\""
+    } ]
+  }, {
+    "tStartMs": 260580,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "For example, this edge\nonly has a weight of one,"
+    } ]
+  }, {
+    "tStartMs": 262860,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "while the node's current cost is infinity."
+    } ]
+  }, {
+    "tStartMs": 265200,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So this path is the\nshortest yet to that node."
+    } ]
+  }, {
+    "tStartMs": 267930,
+    "dDurationMs": 2073,
+    "segs": [ {
+      "utf8": "So Dijkstra updated its cost to one."
+    } ]
+  }, {
+    "tStartMs": 271920,
+    "dDurationMs": 3483,
+    "segs": [ {
+      "utf8": "Likewise, these nodes were\nupdated to three, two, and four."
+    } ]
+  }, {
+    "tStartMs": 276930,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "After checking all of\nRotterdam's neighboring nodes,"
+    } ]
+  }, {
+    "tStartMs": 279330,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Dijkstra marked it as explored."
+    } ]
+  }, {
+    "tStartMs": 281610,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Then since this node had the lowest cost"
+    } ]
+  }, {
+    "tStartMs": 283620,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "out of all the unexplored nodes,\nDijkstra explored it next."
+    } ]
+  }, {
+    "tStartMs": 287670,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Like before, he checked each of its edges"
+    } ]
+  }, {
+    "tStartMs": 289650,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "to reduce the neighbor's costs."
+    } ]
+  }, {
+    "tStartMs": 291780,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Dijkstra could update this neighbor"
+    } ]
+  }, {
+    "tStartMs": 293160,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "from infinity down to six,"
+    } ]
+  }, {
+    "tStartMs": 294900,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "a total path length of five plus one,"
+    } ]
+  }, {
+    "tStartMs": 297540,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "but he couldn't update this one."
+    } ]
+  }, {
+    "tStartMs": 299370,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "The current path has a cost of five,"
+    } ]
+  }, {
+    "tStartMs": 301170,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "but the nodes' cost was three."
+    } ]
+  }, {
+    "tStartMs": 303360,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "That meant there was\nalready a shorter path,"
+    } ]
+  }, {
+    "tStartMs": 305580,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "this one directly from the source."
+    } ]
+  }, {
+    "tStartMs": 307680,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "So there was no need to update the cost."
+    } ]
+  }, {
+    "tStartMs": 311130,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The next node to explore is\nthis one with a cost of two,"
+    } ]
+  }, {
+    "tStartMs": 314490,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "which would update its neighbor to five."
+    } ]
+  }, {
+    "tStartMs": 316710,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Then this one with a cost of three"
+    } ]
+  }, {
+    "tStartMs": 318330,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "would update its neighbors, and so on."
+    } ]
+  }, {
+    "tStartMs": 320490,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Sometimes Dijkstra had to update\na node's cost a few times."
+    } ]
+  }, {
+    "tStartMs": 323670,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "For example, he first reached\nthis node through this path"
+    } ]
+  }, {
+    "tStartMs": 326280,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "with edge weights four, and then three,"
+    } ]
+  }, {
+    "tStartMs": 328290,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "for a total cost of seven."
+    } ]
+  }, {
+    "tStartMs": 329850,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "But later he found this path was cost six."
+    } ]
+  }, {
+    "tStartMs": 332700,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "So he updated the nodes cost again."
+    } ]
+  }, {
+    "tStartMs": 335290,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "(gentle music)"
+    } ]
+  }, {
+    "tStartMs": 338460,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "The first time Dijkstra reached Groningen,"
+    } ]
+  }, {
+    "tStartMs": 339690,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "it had a cost of 19."
+    } ]
+  }, {
+    "tStartMs": 341820,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "But it didn't have the lowest cost"
+    } ]
+  }, {
+    "tStartMs": 343380,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "out of all the unexplored nodes."
+    } ]
+  }, {
+    "tStartMs": 345300,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "There was still this\nnode with a cost of 16,"
+    } ]
+  }, {
+    "tStartMs": 347730,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "which could be hiding a\nshorter path to our goal."
+    } ]
+  }, {
+    "tStartMs": 350760,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "So he continued exploring\nnodes in cost order,"
+    } ]
+  }, {
+    "tStartMs": 353850,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and found this path with cost 18."
+    } ]
+  }, {
+    "tStartMs": 356280,
+    "dDurationMs": 1477,
+    "segs": [ {
+      "utf8": "Now, out of all unexplored nodes,"
+    } ]
+  }, {
+    "tStartMs": 357757,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "Groningen had the next lowest cost."
+    } ]
+  }, {
+    "tStartMs": 360480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So Dijkstra was confident that\nhe'd found the shortest path."
+    } ]
+  }, {
+    "tStartMs": 364350,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Here's why."
+    } ]
+  }, {
+    "tStartMs": 366330,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "If the lowest cost among\nthe unexplored nodes is 18,"
+    } ]
+  }, {
+    "tStartMs": 369540,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "then Dijkstra must have\nexplored all the paths"
+    } ]
+  }, {
+    "tStartMs": 371670,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "with cost 16, 14, 13,\nevery path less than 18."
+    } ]
+  }, {
+    "tStartMs": 376830,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "And none of those paths reached Groningen."
+    } ]
+  }, {
+    "tStartMs": 379320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It's just like breadth-first search,"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "searching every step away from the source."
+    } ]
+  }, {
+    "tStartMs": 383280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "By exploring from lowest to highest cost,"
+    } ]
+  }, {
+    "tStartMs": 385440,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Dijkstra's algorithm\nguaranteed the shortest path"
+    } ]
+  }, {
+    "tStartMs": 387870,
+    "dDurationMs": 873,
+    "segs": [ {
+      "utf8": "to any target."
+    } ]
+  }, {
+    "tStartMs": 390810,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "- ['Dijkstra'] It was a 20-minute invention."
+    } ]
+  }, {
+    "tStartMs": 393150,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "I designed it without pencil and paper."
+    } ]
+  }, {
+    "tStartMs": 395730,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "I learned later that one of the advantages"
+    } ]
+  }, {
+    "tStartMs": 398100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "of designing without pencil and paper"
+    } ]
+  }, {
+    "tStartMs": 400860,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "is that you are almost forced"
+    } ]
+  }, {
+    "tStartMs": 402540,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "to avoid all avoidable complexities."
+    } ]
+  }, {
+    "tStartMs": 405540,
+    "dDurationMs": 2918,
+    "segs": [ {
+      "utf8": "- [Derek] During ARMAC's\nofficial inauguration in 1956,"
+    } ]
+  }, {
+    "tStartMs": 408458,
+    "dDurationMs": 2632,
+    "segs": [ {
+      "utf8": "Dijkstra asked the audience\nmembers for two towns"
+    } ]
+  }, {
+    "tStartMs": 411090,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "on a simplified map of the Netherlands."
+    } ]
+  }, {
+    "tStartMs": 413460,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "ARMAC then printed the\nshortest route town by town."
+    } ]
+  }, {
+    "tStartMs": 416730,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "It ran perfectly."
+    } ]
+  }, {
+    "tStartMs": 418740,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "The computer was such a success"
+    } ]
+  }, {
+    "tStartMs": 420450,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "that the center immediately\nstarted the next generation."
+    } ]
+  }, {
+    "tStartMs": 423960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And as for his algorithm, well,"
+    } ]
+  }, {
+    "tStartMs": 426000,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "it just sat in his papers for years."
+    } ]
+  }, {
+    "tStartMs": 428610,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Algorithms weren't respectable enough"
+    } ]
+  }, {
+    "tStartMs": 430800,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "for mathematics journals,"
+    } ]
+  }, {
+    "tStartMs": 432180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and there weren't very many\ncomputing journals yet."
+    } ]
+  }, {
+    "tStartMs": 435000,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "But in 1959, he published his\nwork in Numerische Mathematik,"
+    } ]
+  }, {
+    "tStartMs": 438750,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "or Numerical Mathematics,\na brand new German journal"
+    } ]
+  }, {
+    "tStartMs": 441480,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "that needed some help getting established."
+    } ]
+  }, {
+    "tStartMs": 444180,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "And that was the beginning."
+    } ]
+  }, {
+    "tStartMs": 446370,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- ['Dijkstra'] Eventually,\nthat algorithm became,"
+    } ]
+  }, {
+    "tStartMs": 448470,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "to my great amazement, one of\nthe cornerstones of my fame."
+    } ]
+  }, {
+    "tStartMs": 452940,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "I found it in the early '60s"
+    } ]
+  }, {
+    "tStartMs": 454680,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "in a German book on management science,"
+    } ]
+  }, {
+    "tStartMs": 456930,
+    "dDurationMs": 1353,
+    "segs": [ {
+      "utf8": "Das Dijktra'sche Verfahren."
+    } ]
+  }, {
+    "tStartMs": 459690,
+    "dDurationMs": 2173,
+    "segs": [ {
+      "utf8": "Suddenly there was a\nmethod named after me."
+    } ]
+  }, {
+    "tStartMs": 461863,
+    "dDurationMs": 1872,
+    "segs": [ {
+      "utf8": "Dijkstra's algorithm is still regarded"
+    } ]
+  }, {
+    "tStartMs": 463735,
+    "dDurationMs": 2495,
+    "segs": [ {
+      "utf8": "as one of the most elegant,\nshortest path algorithms."
+    } ]
+  }, {
+    "tStartMs": 466230,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But it isn't good enough for Google Maps."
+    } ]
+  }, {
+    "tStartMs": 470630,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Let's say I want to get from\nNewark Airport in New Jersey"
+    } ]
+  }, {
+    "tStartMs": 473180,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "over to the Central Park Zoo."
+    } ]
+  }, {
+    "tStartMs": 474950,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "First, Dijkstra's algorithm"
+    } ]
+  }, {
+    "tStartMs": 476150,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "checks all the 10-kilometer journeys,"
+    } ]
+  }, {
+    "tStartMs": 478310,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and then all the 20 kilometer journeys,"
+    } ]
+  }, {
+    "tStartMs": 480140,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "and so on until it reaches\nall the 28 kilometer journeys,"
+    } ]
+  }, {
+    "tStartMs": 483290,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "which includes the zoo."
+    } ]
+  }, {
+    "tStartMs": 485540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "The search frontier\ncovers over 65,000 nodes,"
+    } ]
+  }, {
+    "tStartMs": 488510,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and includes places that are way off,"
+    } ]
+  }, {
+    "tStartMs": 490430,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "like Staten Island, and\nlarge swaths of New Jersey."
+    } ]
+  }, {
+    "tStartMs": 494420,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "But even though it searched\nin a illogical directions,"
+    } ]
+  }, {
+    "tStartMs": 496970,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "the runtime was about a 10th of a second,"
+    } ]
+  }, {
+    "tStartMs": 499760,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "which is incredibly fast."
+    } ]
+  }, {
+    "tStartMs": 501980,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "And for anyone wanting"
+    } ]
+  }, {
+    "tStartMs": 502880,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to set up their own pathfinding tests,"
+    } ]
+  }, {
+    "tStartMs": 504590,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "we were able to get a\nfeel for these algorithms"
+    } ]
+  }, {
+    "tStartMs": 506480,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "using some Python scripts"
+    } ]
+  }, {
+    "tStartMs": 507770,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and actual maps from OpenStreetMaps."
+    } ]
+  }, {
+    "tStartMs": 510140,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Solving problems using code like this"
+    } ]
+  }, {
+    "tStartMs": 511730,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "is as much about the journey\nas it is about the destination."
+    } ]
+  }, {
+    "tStartMs": 514700,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "You get to understand how\nDijkstra works under the hood."
+    } ]
+  }, {
+    "tStartMs": 517460,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Along the way, you also brush\nup on your coding skills."
+    } ]
+  }, {
+    "tStartMs": 520130,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "If that's something you wanna try out,"
+    } ]
+  }, {
+    "tStartMs": 521510,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "I strongly recommend\ntoday's sponsor, Boot.dev."
+    } ]
+  }, {
+    "tStartMs": 524120,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Instead of blinding you with code,"
+    } ]
+  }, {
+    "tStartMs": 525440,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "their courses drill in the fundamentals"
+    } ]
+  }, {
+    "tStartMs": 527300,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "by giving you actual problems to solve."
+    } ]
+  }, {
+    "tStartMs": 529340,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Designing an RPG game,\nbuilding a payment app,"
+    } ]
+  }, {
+    "tStartMs": 532040,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "or yes, running Dijkstra's algorithm."
+    } ]
+  }, {
+    "tStartMs": 534410,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Their courses start with overview videos"
+    } ]
+  }, {
+    "tStartMs": 536180,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "and steadily feed in terminology"
+    } ]
+  }, {
+    "tStartMs": 537740,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to make sure that you\nactually understand it."
+    } ]
+  }, {
+    "tStartMs": 539810,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "They even cover pronunciation.\nYou ever heard of SQL?"
+    } ]
+  }, {
+    "tStartMs": 543530,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Okay, it's SQL."
+    } ]
+  }, {
+    "tStartMs": 544850,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Well, it's a programming language"
+    } ]
+  }, {
+    "tStartMs": 546260,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "that's become a bottleneck\nfor certain jobs."
+    } ]
+  }, {
+    "tStartMs": 548240,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Take data science."
+    } ]
+  }, {
+    "tStartMs": 549110,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "60% of US job listings last\nyear required you to know SQL."
+    } ]
+  }, {
+    "tStartMs": 552650,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "That's almost 80% for Python."
+    } ]
+  }, {
+    "tStartMs": 554360,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Boot.dev is geared up to teach\nyou the languages and tools"
+    } ]
+  }, {
+    "tStartMs": 557210,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "that you'll need for\nbackend and DevOps roles."
+    } ]
+  }, {
+    "tStartMs": 559550,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "From Go in Docker to Linux and AWS."
+    } ]
+  }, {
+    "tStartMs": 562490,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "You can start from scratch,"
+    } ]
+  }, {
+    "tStartMs": 563540,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "or jump into more advanced topics."
+    } ]
+  }, {
+    "tStartMs": 565250,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "See, DevOps engineers in the US"
+    } ]
+  }, {
+    "tStartMs": 566870,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "are still some of the\nhighest paid tech roles."
+    } ]
+  }, {
+    "tStartMs": 568880,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Because these skills are\ngenuinely hard to learn."
+    } ]
+  }, {
+    "tStartMs": 571250,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "And that's the point."
+    } ]
+  }, {
+    "tStartMs": 572270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "To get started, go to Boot.dev"
+    } ]
+  }, {
+    "tStartMs": 573890,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and use our code \"Veritasium\""
+    } ]
+  }, {
+    "tStartMs": 575210,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "to get 25% off your entire\nfirst year on the annual plan."
+    } ]
+  }, {
+    "tStartMs": 578600,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "I wanna thank Boot.dev"
+    } ]
+  }, {
+    "tStartMs": 579740,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "for sponsoring this part of the video."
+    } ]
+  }, {
+    "tStartMs": 581300,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Now less than 100 milliseconds\nseems pretty fast."
+    } ]
+  }, {
+    "tStartMs": 584390,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "So what's the problem?"
+    } ]
+  }, {
+    "tStartMs": 586790,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, things slow down a lot\nwith bigger and bigger graphs."
+    } ]
+  }, {
+    "tStartMs": 589790,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Like the North America network."
+    } ]
+  }, {
+    "tStartMs": 591860,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "One way we can compare search algorithms"
+    } ]
+  }, {
+    "tStartMs": 593630,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "is by their average query speed."
+    } ]
+  }, {
+    "tStartMs": 595160,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "First we pick lots of random points."
+    } ]
+  }, {
+    "tStartMs": 597350,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Then we run Dijkstra's\nalgorithm on each pair of points"
+    } ]
+  }, {
+    "tStartMs": 600110,
+    "dDurationMs": 1949,
+    "segs": [ {
+      "utf8": "and average all the runtimes."
+    } ]
+  }, {
+    "tStartMs": 602059,
+    "dDurationMs": 1111,
+    "segs": [ {
+      "utf8": "On the North American network,"
+    } ]
+  }, {
+    "tStartMs": 603170,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "a well-tuned Dijkstra takes\naround seven seconds per path."
+    } ]
+  }, {
+    "tStartMs": 607400,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "And for a lot of these searches,"
+    } ]
+  }, {
+    "tStartMs": 608480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "the algorithm has to explore\nmost of those 64 million nodes."
+    } ]
+  }, {
+    "tStartMs": 612920,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "One note, most of the\nqueries in this average"
+    } ]
+  }, {
+    "tStartMs": 615080,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "are for very long journeys,"
+    } ]
+  }, {
+    "tStartMs": 616550,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "since it's unlikely that\ntwo randomly picked points"
+    } ]
+  }, {
+    "tStartMs": 618890,
+    "dDurationMs": 1243,
+    "segs": [ {
+      "utf8": "will be close together."
+    } ]
+  }, {
+    "tStartMs": 620133,
+    "dDurationMs": 2477,
+    "segs": [ {
+      "utf8": "Now we've seen that\nDijkstra runs much faster"
+    } ]
+  }, {
+    "tStartMs": 622610,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "within one city, but this\naverage is a good way"
+    } ]
+  }, {
+    "tStartMs": 625040,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to compare pathfinding algorithms."
+    } ]
+  }, {
+    "tStartMs": 627260,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "But still, I can wait seven seconds."
+    } ]
+  }, {
+    "tStartMs": 629000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I mean it took about\nfour seconds on my phone."
+    } ]
+  }, {
+    "tStartMs": 631280,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "But the thing is, it's not just me."
+    } ]
+  }, {
+    "tStartMs": 633110,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I'm waiting in a line behind Derek,"
+    } ]
+  }, {
+    "tStartMs": 634910,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Gregor, Casper, and all of you."
+    } ]
+  }, {
+    "tStartMs": 637280,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "There can be millions of people"
+    } ]
+  }, {
+    "tStartMs": 638270,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "asking for directions all at once."
+    } ]
+  }, {
+    "tStartMs": 640700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "And while Google has a lot\nof servers, there's a limit."
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If we want Google Maps to\nrun in a couple of seconds,"
+    } ]
+  }, {
+    "tStartMs": 646400,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "we actually need the algorithm"
+    } ]
+  }, {
+    "tStartMs": 647480,
+    "dDurationMs": 1539,
+    "segs": [ {
+      "utf8": "to run in less than a millisecond,"
+    } ]
+  }, {
+    "tStartMs": 649019,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "something 7,000 times\nfaster than Dijkstra's."
+    } ]
+  }, {
+    "tStartMs": 652549,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "(whooshing sound)"
+    } ]
+  }, {
+    "tStartMs": 655850,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Well, one problem with Dijkstra's"
+    } ]
+  }, {
+    "tStartMs": 657200,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "is it searches in the opposite\ndirection of the target."
+    } ]
+  }, {
+    "tStartMs": 659450,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "So if we know the rough direction,"
+    } ]
+  }, {
+    "tStartMs": 661040,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "is there a way that we can\npunish a illogical route?"
+    } ]
+  }, {
+    "tStartMs": 663830,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Let's go back to our problem,"
+    } ]
+  }, {
+    "tStartMs": 664790,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "getting from Newark to\nthe Central Park Zoo."
+    } ]
+  }, {
+    "tStartMs": 668030,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "We'd like to prioritize nodes\nthat are closer to the zoo."
+    } ]
+  }, {
+    "tStartMs": 671120,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So using longitudes and latitudes,"
+    } ]
+  }, {
+    "tStartMs": 672890,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "we can easily calculate\nthe straight line distance"
+    } ]
+  }, {
+    "tStartMs": 675230,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "between any node and our target."
+    } ]
+  }, {
+    "tStartMs": 677390,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "We'll order the nodes by their cost,"
+    } ]
+  }, {
+    "tStartMs": 679280,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "plus this straight line distance."
+    } ]
+  }, {
+    "tStartMs": 681710,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "A great way to visualize this"
+    } ]
+  }, {
+    "tStartMs": 683180,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "comes from the channel Polylog."
+    } ]
+  }, {
+    "tStartMs": 685520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "We can represent each node's\nstraight line distance"
+    } ]
+  }, {
+    "tStartMs": 687920,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "to the target as its height,"
+    } ]
+  }, {
+    "tStartMs": 689330,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "so the graph stretches into 3D space."
+    } ]
+  }, {
+    "tStartMs": 692120,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "The further a node is from\nthe zoo, the higher it is."
+    } ]
+  }, {
+    "tStartMs": 695300,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "So the algorithm penalizes\nmoves that climb up the graph."
+    } ]
+  }, {
+    "tStartMs": 698840,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "That way nodes in the opposite direction"
+    } ]
+  }, {
+    "tStartMs": 701030,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "aren't explored early on."
+    } ]
+  }, {
+    "tStartMs": 703070,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "So while Dijkstra's search frontier"
+    } ]
+  }, {
+    "tStartMs": 704810,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "spreads out in all directions,"
+    } ]
+  }, {
+    "tStartMs": 706460,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "this modified Dijkstra's,\nalso called A-star,"
+    } ]
+  }, {
+    "tStartMs": 709310,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "immediately heads toward the zoo."
+    } ]
+  }, {
+    "tStartMs": 711470,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "It only checks around 7,000 nodes,"
+    } ]
+  }, {
+    "tStartMs": 713810,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "which is almost a 10 times\nimprovement over Dijkstra's."
+    } ]
+  }, {
+    "tStartMs": 717140,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And by changing this penalty,\nalso called a heuristic,"
+    } ]
+  }, {
+    "tStartMs": 720020,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "we can tweak how aggressively\nA-star targets the zoo."
+    } ]
+  }, {
+    "tStartMs": 723530,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "The steeper the slope, the\nless A-star spreads out."
+    } ]
+  }, {
+    "tStartMs": 726800,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "It's a more human approach\nto finding the shortest path,"
+    } ]
+  }, {
+    "tStartMs": 729860,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "since we're only exploring"
+    } ]
+  }, {
+    "tStartMs": 731360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "in the rough direction of the target."
+    } ]
+  }, {
+    "tStartMs": 734000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "That's why A-star is one of\nthe most popular algorithms"
+    } ]
+  }, {
+    "tStartMs": 736520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "behind video game NPCs."
+    } ]
+  }, {
+    "tStartMs": 738620,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "For example, many of the mobs in Minecraft"
+    } ]
+  }, {
+    "tStartMs": 740540,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "use a version of A-star\nwith extra penalties"
+    } ]
+  }, {
+    "tStartMs": 743030,
+    "dDurationMs": 1854,
+    "segs": [ {
+      "utf8": "for dangerous zones."
+    } ]
+  }, {
+    "tStartMs": 744884,
+    "dDurationMs": 3156,
+    "segs": [ {
+      "utf8": "It's also a popular\nmaze-solving algorithm."
+    } ]
+  }, {
+    "tStartMs": 748040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "At worst, A-star checks\nas many nodes as Dijkstra."
+    } ]
+  }, {
+    "tStartMs": 751160,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "But on the right maze,"
+    } ]
+  }, {
+    "tStartMs": 752180,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "it can cut down the search\nspace by more than half."
+    } ]
+  }, {
+    "tStartMs": 756860,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "But when I'm trying to get somewhere,"
+    } ]
+  }, {
+    "tStartMs": 758420,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I don't care about\nminimizing the distance."
+    } ]
+  }, {
+    "tStartMs": 760550,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "I just wanna get there the fastest."
+    } ]
+  }, {
+    "tStartMs": 762318,
+    "dDurationMs": 2672,
+    "segs": [ {
+      "utf8": "(Henry laughing)"
+    } ]
+  }, {
+    "tStartMs": 764990,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "To optimize for time, we divide\nthe straight line distance"
+    } ]
+  }, {
+    "tStartMs": 767780,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "by the maximum speed allowed on the graph."
+    } ]
+  }, {
+    "tStartMs": 770240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "This gives us the minimum travel time."
+    } ]
+  }, {
+    "tStartMs": 772880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But this heuristic is an\nextreme underestimate."
+    } ]
+  }, {
+    "tStartMs": 775880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "- If you wanna go for the shortest path"
+    } ]
+  }, {
+    "tStartMs": 778760,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "in the sense that shortest\ngeographic distance,"
+    } ]
+  }, {
+    "tStartMs": 781730,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you will gain some\nadvantages using A-star,"
+    } ]
+  }, {
+    "tStartMs": 784130,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "compared to Dijkstra."
+    } ]
+  }, {
+    "tStartMs": 785840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "If you go for travel time, A-star,"
+    } ]
+  }, {
+    "tStartMs": 788720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "from my experience, loses\nagainst a well-tuned Dijkstra."
+    } ]
+  }, {
+    "tStartMs": 794330,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "You explore fewer nodes,\nbut not that many."
+    } ]
+  }, {
+    "tStartMs": 797563,
+    "dDurationMs": 3517,
+    "segs": [ {
+      "utf8": "But you now also have to\nevaluate quite a few heuristics"
+    } ]
+  }, {
+    "tStartMs": 801080,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "that you would not need to evaluate"
+    } ]
+  }, {
+    "tStartMs": 803090,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "when doing pure Dijkstra."
+    } ]
+  }, {
+    "tStartMs": 805100,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "And those heuristic contain a\nnasty square root computation."
+    } ]
+  }, {
+    "tStartMs": 809000,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- [Henry] On our New York City graph,"
+    } ]
+  }, {
+    "tStartMs": 810380,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Dijkstra's algorithm explored\naround 9.5 times more nodes"
+    } ]
+  }, {
+    "tStartMs": 813860,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "than A-star, to find the\nshortest path by distance."
+    } ]
+  }, {
+    "tStartMs": 816860,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "But if we switch that to\nthe shortest travel time,"
+    } ]
+  }, {
+    "tStartMs": 819230,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "the number of nodes\nA-star explores triples,"
+    } ]
+  }, {
+    "tStartMs": 822050,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "while Dijkstra only increases by 10%."
+    } ]
+  }, {
+    "tStartMs": 824750,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And it only gets worse on larger graphs."
+    } ]
+  }, {
+    "tStartMs": 827540,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "So Google Maps need something better"
+    } ]
+  }, {
+    "tStartMs": 829520,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "that works well for travel time."
+    } ]
+  }, {
+    "tStartMs": 832130,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "What if we ran the search\nin both directions?"
+    } ]
+  }, {
+    "tStartMs": 834410,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "From the source to the target,"
+    } ]
+  }, {
+    "tStartMs": 835790,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and from the target to the source?"
+    } ]
+  }, {
+    "tStartMs": 837770,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "If two points are a distance R away,"
+    } ]
+  }, {
+    "tStartMs": 840080,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Dijkstra searches most of the nodes"
+    } ]
+  }, {
+    "tStartMs": 841490,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "roughly within a circle\nof area pi R-squared."
+    } ]
+  }, {
+    "tStartMs": 844670,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "But with two searches,"
+    } ]
+  }, {
+    "tStartMs": 845960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the frontiers will\noverlap around R over two,"
+    } ]
+  }, {
+    "tStartMs": 848960,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and cover an area of half pi R-squared,"
+    } ]
+  }, {
+    "tStartMs": 851690,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "half that of the single search."
+    } ]
+  }, {
+    "tStartMs": 853880,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "And depending on the graph,"
+    } ]
+  }, {
+    "tStartMs": 854900,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "it can sometimes be better than half."
+    } ]
+  }, {
+    "tStartMs": 857360,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "A basic Dijkstra search from\nCarnegie Hall to Wall Street"
+    } ]
+  }, {
+    "tStartMs": 860180,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "explored over 7,200 nodes."
+    } ]
+  }, {
+    "tStartMs": 864237,
+    "dDurationMs": 1343,
+    "segs": [ {
+      "utf8": "But a bi-directional Dijkstra"
+    } ]
+  }, {
+    "tStartMs": 865580,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "explored a little over 2,600 nodes,"
+    } ]
+  }, {
+    "tStartMs": 868400,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "close to a three times improvement."
+    } ]
+  }, {
+    "tStartMs": 871370,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "But even a bi-directional\nsearch doesn't take advantage"
+    } ]
+  }, {
+    "tStartMs": 873710,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "of the logic built into road networks."
+    } ]
+  }, {
+    "tStartMs": 875750,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "- They still do things"
+    } ]
+  }, {
+    "tStartMs": 876770,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "that you wouldn't necessarily conceive"
+    } ]
+  }, {
+    "tStartMs": 879320,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "as a good idea, right?"
+    } ]
+  }, {
+    "tStartMs": 880460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Like they still look at the\ndrive-through at In-N-Out"
+    } ]
+  }, {
+    "tStartMs": 884300,
+    "dDurationMs": 2532,
+    "segs": [ {
+      "utf8": "and see if there isn't\nperhaps a shorter path"
+    } ]
+  }, {
+    "tStartMs": 886832,
+    "dDurationMs": 2028,
+    "segs": [ {
+      "utf8": "if you drive halfway into it,"
+    } ]
+  }, {
+    "tStartMs": 888860,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and then some clever way out of it, right?"
+    } ]
+  }, {
+    "tStartMs": 890990,
+    "dDurationMs": 3357,
+    "segs": [ {
+      "utf8": "So maybe that is the intuition\nbetween why kind of Dijkstra"
+    } ]
+  }, {
+    "tStartMs": 894347,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "and A-star itself don't suffice."
+    } ]
+  }, {
+    "tStartMs": 896720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Both of them still kind\nof don't have a good sense"
+    } ]
+  }, {
+    "tStartMs": 900080,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "of the hierarchy of the road network."
+    } ]
+  }, {
+    "tStartMs": 904790,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- When I think about how to\nget from one place to another,"
+    } ]
+  }, {
+    "tStartMs": 906920,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "I know that I'm probably\ngonna meander around"
+    } ]
+  }, {
+    "tStartMs": 908870,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "some local roads, then hop on a highway,"
+    } ]
+  }, {
+    "tStartMs": 911450,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "and then when I'm close to my destination,"
+    } ]
+  }, {
+    "tStartMs": 912830,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "I'm gonna hop off the highway and meander"
+    } ]
+  }, {
+    "tStartMs": 914210,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "around some more local roads."
+    } ]
+  }, {
+    "tStartMs": 916220,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "There's a hierarchy to road networks,"
+    } ]
+  }, {
+    "tStartMs": 918500,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "but these algorithms can't\ntake advantage of them."
+    } ]
+  }, {
+    "tStartMs": 921050,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So they're as likely to\nsearch a twisty local road"
+    } ]
+  }, {
+    "tStartMs": 923930,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "as an interstate highway,"
+    } ]
+  }, {
+    "tStartMs": 925700,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "as long as they have the same weight."
+    } ]
+  }, {
+    "tStartMs": 927650,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "So how do we actually\nencode that human intuition"
+    } ]
+  }, {
+    "tStartMs": 930740,
+    "dDurationMs": 1698,
+    "segs": [ {
+      "utf8": "into an algorithm?"
+    } ]
+  }, {
+    "tStartMs": 932438,
+    "dDurationMs": 2292,
+    "segs": [ {
+      "utf8": "- If you look at kind of\nindustry implementations"
+    } ]
+  }, {
+    "tStartMs": 934730,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "in the '90s, for instance,"
+    } ]
+  }, {
+    "tStartMs": 935840,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "like in these early in-car GPS systems,"
+    } ]
+  }, {
+    "tStartMs": 938540,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "they had like a pre-computed road class"
+    } ]
+  }, {
+    "tStartMs": 942290,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "that they annotated on the roads."
+    } ]
+  }, {
+    "tStartMs": 944770,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "- So here was the basic idea."
+    } ]
+  }, {
+    "tStartMs": 946640,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Surveyors would go out and\ntake notes about a road."
+    } ]
+  }, {
+    "tStartMs": 949130,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Like its speed limit, how wide it was,"
+    } ]
+  }, {
+    "tStartMs": 951560,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "whether it was a highway."
+    } ]
+  }, {
+    "tStartMs": 952880,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And then they would send\nthat to the mapping companies"
+    } ]
+  }, {
+    "tStartMs": 954590,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "who would manually categorize\nit into hierarchies."
+    } ]
+  }, {
+    "tStartMs": 956930,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "An example of a hierarchy\nmight be express highway,"
+    } ]
+  }, {
+    "tStartMs": 959660,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "local major road, or\nnarrow road like this."
+    } ]
+  }, {
+    "tStartMs": 962750,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Once it had the maps,"
+    } ]
+  }, {
+    "tStartMs": 963800,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "GPS would run a bi-directional Dijkstra,"
+    } ]
+  }, {
+    "tStartMs": 966303,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "but there was a catch."
+    } ]
+  }, {
+    "tStartMs": 968180,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "It first searched all the narrow roads"
+    } ]
+  }, {
+    "tStartMs": 970130,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "within a candidate area."
+    } ]
+  }, {
+    "tStartMs": 971810,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "If it didn't find the target,"
+    } ]
+  }, {
+    "tStartMs": 973070,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "it mapped the path to the next hierarchy,"
+    } ]
+  }, {
+    "tStartMs": 975530,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "the major local roads."
+    } ]
+  }, {
+    "tStartMs": 976940,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Then search all of the major local roads"
+    } ]
+  }, {
+    "tStartMs": 978860,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "within the new candidate area."
+    } ]
+  }, {
+    "tStartMs": 980810,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "If it still didn't find the target,"
+    } ]
+  }, {
+    "tStartMs": 982370,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "it moved up again to the highway level."
+    } ]
+  }, {
+    "tStartMs": 984920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The two searches would\noverlap at some point,"
+    } ]
+  }, {
+    "tStartMs": 986960,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "and return the final path."
+    } ]
+  }, {
+    "tStartMs": 988610,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "This way, a little pre-processing"
+    } ]
+  }, {
+    "tStartMs": 990410,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "could reduce the search area"
+    } ]
+  }, {
+    "tStartMs": 991850,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and take advantage of the road hierarchy."
+    } ]
+  }, {
+    "tStartMs": 994700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- One obvious downside here is that"
+    } ]
+  }, {
+    "tStartMs": 997100,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "how do you correctly compute\nthose levels of hierarchy?"
+    } ]
+  }, {
+    "tStartMs": 1001270,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And how can you prove to\nyourself that they're correct"
+    } ]
+  }, {
+    "tStartMs": 1004390,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "in the sense that you are not\nmissing any shortest paths?"
+    } ]
+  }, {
+    "tStartMs": 1007180,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "- For example, if the\ncandidate area is too small,"
+    } ]
+  }, {
+    "tStartMs": 1009520,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "there's a chance the algorithm\nreturns a highway path,"
+    } ]
+  }, {
+    "tStartMs": 1012220,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "when a series of local\nroads really is better."
+    } ]
+  }, {
+    "tStartMs": 1015010,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "A much larger candidate area"
+    } ]
+  }, {
+    "tStartMs": 1016390,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "might always find the shortest\npath, but at some point,"
+    } ]
+  }, {
+    "tStartMs": 1019570,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "that's not much better than Dijkstra."
+    } ]
+  }, {
+    "tStartMs": 1022180,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "If Google wanted to map the world,"
+    } ]
+  }, {
+    "tStartMs": 1023770,
+    "dDurationMs": 1859,
+    "segs": [ {
+      "utf8": "they need a better routing algorithm."
+    } ]
+  }, {
+    "tStartMs": 1025629,
+    "dDurationMs": 1531,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 1027160,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Using a pre-processed hierarchy"
+    } ]
+  }, {
+    "tStartMs": 1028660,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "gives us way faster query runtimes."
+    } ]
+  }, {
+    "tStartMs": 1030790,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "But, there's a trade-off."
+    } ]
+  }, {
+    "tStartMs": 1032380,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Our brute force algorithm from earlier"
+    } ]
+  }, {
+    "tStartMs": 1034030,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "where we just calculated all the paths"
+    } ]
+  }, {
+    "tStartMs": 1035980,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "to get the shortest one\nis a perfect example."
+    } ]
+  }, {
+    "tStartMs": 1038590,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "If we had a massive lookup\ntable of all the shortest paths"
+    } ]
+  }, {
+    "tStartMs": 1041050,
+    "dDurationMs": 873,
+    "segs": [ {
+      "utf8": "from any two points,"
+    } ]
+  }, {
+    "tStartMs": 1041923,
+    "dDurationMs": 3297,
+    "segs": [ {
+      "utf8": "then we would get insanely\nfast query runtimes."
+    } ]
+  }, {
+    "tStartMs": 1045220,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "But building that list\nwould take way too long."
+    } ]
+  }, {
+    "tStartMs": 1048430,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Here I have a graph. On the\nvertical axis is query runtime."
+    } ]
+  }, {
+    "tStartMs": 1051580,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "And on the horizontal axis\nis pre-processing time."
+    } ]
+  }, {
+    "tStartMs": 1054130,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "In the case of our massive lookup table,"
+    } ]
+  }, {
+    "tStartMs": 1055840,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "it would be right about here."
+    } ]
+  }, {
+    "tStartMs": 1057760,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Even running Dijkstra"
+    } ]
+  }, {
+    "tStartMs": 1058810,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "from every one of those\n64 million intersections,"
+    } ]
+  }, {
+    "tStartMs": 1061660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "that's more than a decade\nof compute on a single core."
+    } ]
+  }, {
+    "tStartMs": 1065200,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "And the entire table"
+    } ]
+  }, {
+    "tStartMs": 1066220,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "would be more than eight\npetabytes of raw data."
+    } ]
+  }, {
+    "tStartMs": 1068590,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "That's like storing all of\nWikipedia, 16 times over."
+    } ]
+  }, {
+    "tStartMs": 1072850,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "And even if we had the table,"
+    } ]
+  }, {
+    "tStartMs": 1074440,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "we'd have to rebuild entire\nportions whenever a road closes,"
+    } ]
+  }, {
+    "tStartMs": 1077710,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "a new bridge opens, and for\nevery small traffic adjustment."
+    } ]
+  }, {
+    "tStartMs": 1081070,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Now in reality it would probably\nnot even fit on this chart."
+    } ]
+  }, {
+    "tStartMs": 1083890,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "But for now, we're just gonna put it here."
+    } ]
+  }, {
+    "tStartMs": 1085570,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "On the other hand,"
+    } ]
+  }, {
+    "tStartMs": 1086410,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Dijkstra's algorithm requires\nno pre-processing at all."
+    } ]
+  }, {
+    "tStartMs": 1089350,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "But it takes a long time to run."
+    } ]
+  }, {
+    "tStartMs": 1091180,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "So on our graph, it would fit about here."
+    } ]
+  }, {
+    "tStartMs": 1095350,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Google Maps need something in between."
+    } ]
+  }, {
+    "tStartMs": 1097390,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Very fast query run times,"
+    } ]
+  }, {
+    "tStartMs": 1098950,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "but not too much pre-processing."
+    } ]
+  }, {
+    "tStartMs": 1101050,
+    "dDurationMs": 2493,
+    "segs": [ {
+      "utf8": "In that case, we want\nto be in this region."
+    } ]
+  }, {
+    "tStartMs": 1107050,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Now the idea is very similar\nto the manual hierarchies,"
+    } ]
+  }, {
+    "tStartMs": 1109840,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "but with two major changes."
+    } ]
+  }, {
+    "tStartMs": 1111730,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "First, we'll automatically\npre-process our graph"
+    } ]
+  }, {
+    "tStartMs": 1113950,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "to order nodes by how important they are."
+    } ]
+  }, {
+    "tStartMs": 1116327,
+    "dDurationMs": 2963,
+    "segs": [ {
+      "utf8": "An exit connecting two\nhighways, quite important."
+    } ]
+  }, {
+    "tStartMs": 1119290,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "The intersection to a tiny\ncul-de-sac, well, not as much."
+    } ]
+  }, {
+    "tStartMs": 1122440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "No more categorizing roads by hand."
+    } ]
+  }, {
+    "tStartMs": 1124840,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "We'll still use a bi-directional Dijkstras"
+    } ]
+  }, {
+    "tStartMs": 1126760,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "that only searches up the\nhierarchy from both directions."
+    } ]
+  }, {
+    "tStartMs": 1129580,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "But if we build it clever enough,"
+    } ]
+  }, {
+    "tStartMs": 1130960,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "we can get rid of candidate areas"
+    } ]
+  }, {
+    "tStartMs": 1132460,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and still guarantee the shortest path."
+    } ]
+  }, {
+    "tStartMs": 1134650,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So phase one is building this hierarchy."
+    } ]
+  }, {
+    "tStartMs": 1137470,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "How do we pick the most\nimportant nodes though?"
+    } ]
+  }, {
+    "tStartMs": 1140710,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Let's take a look at\nthese two small towns."
+    } ]
+  }, {
+    "tStartMs": 1142870,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "We're gonna throw away\neverything in one town"
+    } ]
+  }, {
+    "tStartMs": 1144580,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "except for this house for right now."
+    } ]
+  }, {
+    "tStartMs": 1146380,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "If someone in that house\nwants to get anywhere,"
+    } ]
+  }, {
+    "tStartMs": 1148390,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "they have to pass\nthrough this intersection"
+    } ]
+  }, {
+    "tStartMs": 1149980,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "at the end of the bridge."
+    } ]
+  }, {
+    "tStartMs": 1151720,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "All of the shortest paths\nto and from their house"
+    } ]
+  }, {
+    "tStartMs": 1154060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "include that node, so it's\npretty important to them."
+    } ]
+  }, {
+    "tStartMs": 1157420,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But that node isn't as important\nto the rest of the town."
+    } ]
+  }, {
+    "tStartMs": 1160420,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "After all, the only\nreason to cross the bridge"
+    } ]
+  }, {
+    "tStartMs": 1162400,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "is to get to that one house."
+    } ]
+  }, {
+    "tStartMs": 1164140,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But with more and more\nhouses on the other side,"
+    } ]
+  }, {
+    "tStartMs": 1166780,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "the bridge node gets\nmore and more important."
+    } ]
+  }, {
+    "tStartMs": 1169900,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Any trip from one side to\nthe other needs to use it."
+    } ]
+  }, {
+    "tStartMs": 1173290,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "It's the most important when the two towns"
+    } ]
+  }, {
+    "tStartMs": 1175180,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "are roughly the same size, when\nit splits the graph in half."
+    } ]
+  }, {
+    "tStartMs": 1179230,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "That's when the maximum\nnumber of shortest paths"
+    } ]
+  }, {
+    "tStartMs": 1181480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "include that bridge."
+    } ]
+  }, {
+    "tStartMs": 1183400,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "There are other sets of nodes\nthat split the graph in half,"
+    } ]
+  }, {
+    "tStartMs": 1185830,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "like this main street,"
+    } ]
+  }, {
+    "tStartMs": 1187060,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "but there's far more\nintersections along that street"
+    } ]
+  }, {
+    "tStartMs": 1189130,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "than just the one bridge node."
+    } ]
+  }, {
+    "tStartMs": 1190780,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "So a small set of nodes,\nor a small cut of nodes"
+    } ]
+  }, {
+    "tStartMs": 1193810,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "is important when it roughly\nsplits the graph in half."
+    } ]
+  }, {
+    "tStartMs": 1197140,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Let's bring back the\nNorth American network."
+    } ]
+  }, {
+    "tStartMs": 1200560,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "These blue nodes roughly\nsplit the graph in half."
+    } ]
+  }, {
+    "tStartMs": 1203260,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "If you wanted to get from\nanywhere on the east coast,"
+    } ]
+  }, {
+    "tStartMs": 1205210,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "to anywhere on the west coast,"
+    } ]
+  }, {
+    "tStartMs": 1206500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you'd have to go through\none of these 102 nodes."
+    } ]
+  }, {
+    "tStartMs": 1209500,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "It's just like the bridge\nconnecting the two towns."
+    } ]
+  }, {
+    "tStartMs": 1212650,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "- That's really small."
+    } ]
+  }, {
+    "tStartMs": 1213940,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "But if you look at where\ndoes this thing go,"
+    } ]
+  }, {
+    "tStartMs": 1216070,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "that's essentially the Mississippi River."
+    } ]
+  }, {
+    "tStartMs": 1218140,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "And bridges over the Mississippi\nare expensive to build."
+    } ]
+  }, {
+    "tStartMs": 1221410,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- [Henry] These are the\nbiggest bottlenecks."
+    } ]
+  }, {
+    "tStartMs": 1223030,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Out of all the 64 million plus nodes,"
+    } ]
+  }, {
+    "tStartMs": 1225490,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "these 102 get the highest\nrank, so the biggest numbers."
+    } ]
+  }, {
+    "tStartMs": 1229360,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now let's find the next\nmost important nodes."
+    } ]
+  }, {
+    "tStartMs": 1231550,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- Well, what can we do on both sides?"
+    } ]
+  }, {
+    "tStartMs": 1233830,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Well, we can do the same thing."
+    } ]
+  }, {
+    "tStartMs": 1235150,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "We again, search for small cuts."
+    } ]
+  }, {
+    "tStartMs": 1237640,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- The next cut on the east coast"
+    } ]
+  }, {
+    "tStartMs": 1239020,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "follows the Ohio River."
+    } ]
+  }, {
+    "tStartMs": 1240520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And then it loosely traces\nup the Appalachian Mountains"
+    } ]
+  }, {
+    "tStartMs": 1243400,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "before heading back south\nalong the Potomac River."
+    } ]
+  }, {
+    "tStartMs": 1246070,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "On the west coast, the cut\nmostly follows the Rockies,"
+    } ]
+  }, {
+    "tStartMs": 1248980,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and then the Colorado River."
+    } ]
+  }, {
+    "tStartMs": 1250960,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "These two sets get the next\nhighest ranks for their sides,"
+    } ]
+  }, {
+    "tStartMs": 1254260,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "and we can split these in half\nagain and rank those nodes."
+    } ]
+  }, {
+    "tStartMs": 1257830,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And again, and on and on,"
+    } ]
+  }, {
+    "tStartMs": 1260350,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "until we've ranked all 64 million nodes."
+    } ]
+  }, {
+    "tStartMs": 1263410,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "This is called nested dissection."
+    } ]
+  }, {
+    "tStartMs": 1266230,
+    "dDurationMs": 2411,
+    "segs": [ {
+      "utf8": "This pre-processing step has two goals."
+    } ]
+  }, {
+    "tStartMs": 1268641,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "We want an algorithm that\ndoesn't search a lot of nodes,"
+    } ]
+  }, {
+    "tStartMs": 1271960,
+    "dDurationMs": 1705,
+    "segs": [ {
+      "utf8": "so the runtime is really fast,"
+    } ]
+  }, {
+    "tStartMs": 1273665,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "but also will always\nreturn the shortest path."
+    } ]
+  }, {
+    "tStartMs": 1276790,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "The hierarchy we build now"
+    } ]
+  }, {
+    "tStartMs": 1278140,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "needs to support both of these goals."
+    } ]
+  }, {
+    "tStartMs": 1280450,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Let's test this out on a smaller graph."
+    } ]
+  }, {
+    "tStartMs": 1282969,
+    "dDurationMs": 2314,
+    "segs": [ {
+      "utf8": "We ignore the edge weights\nfor the first step."
+    } ]
+  }, {
+    "tStartMs": 1286300,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "These two nodes split the\ngraph roughly in half,"
+    } ]
+  }, {
+    "tStartMs": 1288640,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "so we give them the highest rank."
+    } ]
+  }, {
+    "tStartMs": 1291190,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Looking at one side, this node\nsplits the subset in half,"
+    } ]
+  }, {
+    "tStartMs": 1294220,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "so it has the highest rank of the three."
+    } ]
+  }, {
+    "tStartMs": 1296410,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "We can rank the remaining\ntwo nodes in any order."
+    } ]
+  }, {
+    "tStartMs": 1299230,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Now, on the other side,"
+    } ]
+  }, {
+    "tStartMs": 1300220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "these two nodes split this subset in half."
+    } ]
+  }, {
+    "tStartMs": 1302860,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So they have the next highest rank."
+    } ]
+  }, {
+    "tStartMs": 1304990,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "And then again,"
+    } ]
+  }, {
+    "tStartMs": 1305823,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "we rank the final two nodes\nwith the remaining numbers."
+    } ]
+  }, {
+    "tStartMs": 1308740,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "But what about this ranking?"
+    } ]
+  }, {
+    "tStartMs": 1310300,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "We split the graph the same,"
+    } ]
+  }, {
+    "tStartMs": 1311860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "but the rankings within the\nsame cut are all swapped around."
+    } ]
+  }, {
+    "tStartMs": 1315280,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Or if we split the graph differently,"
+    } ]
+  }, {
+    "tStartMs": 1316810,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "we could get this ranking."
+    } ]
+  }, {
+    "tStartMs": 1318670,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "It even splits the\ngraph perfectly in half."
+    } ]
+  }, {
+    "tStartMs": 1321160,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Isn't that better? And these\nrankings are all valid."
+    } ]
+  }, {
+    "tStartMs": 1325360,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "We'll see in a bit why we\ncould use any one of them."
+    } ]
+  }, {
+    "tStartMs": 1327670,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "But for now, we'll just take this one."
+    } ]
+  }, {
+    "tStartMs": 1329860,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The best way to visualize\nthis ranking is to pull down,"
+    } ]
+  }, {
+    "tStartMs": 1332500,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "or contract the nodes in order."
+    } ]
+  }, {
+    "tStartMs": 1334480,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "One is the furthest down,\ntwo is next up, and so on."
+    } ]
+  }, {
+    "tStartMs": 1338170,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Now we can bring in a search algorithm."
+    } ]
+  }, {
+    "tStartMs": 1340090,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "To speed up the runtime,"
+    } ]
+  }, {
+    "tStartMs": 1341200,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "we limit the search space by\nonly moving up the hierarchy."
+    } ]
+  }, {
+    "tStartMs": 1345651,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "And that's why it's so important"
+    } ]
+  }, {
+    "tStartMs": 1346671,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "to use a bi-directional Dijkstra."
+    } ]
+  }, {
+    "tStartMs": 1348380,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "If the algorithm couldn't\nsearch in both directions,"
+    } ]
+  }, {
+    "tStartMs": 1350510,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "it would get stuck on a lot of pairs."
+    } ]
+  }, {
+    "tStartMs": 1352730,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So instead, the two\nsearches meet in the middle"
+    } ]
+  }, {
+    "tStartMs": 1354890,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "at the top of the hierarchy."
+    } ]
+  }, {
+    "tStartMs": 1356960,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Now let's add the edge weights back."
+    } ]
+  }, {
+    "tStartMs": 1358730,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Okay, what's the shortest path\nfrom node four to node eight?"
+    } ]
+  }, {
+    "tStartMs": 1361940,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Well, starting from\nnode four, we search up,"
+    } ]
+  }, {
+    "tStartMs": 1364160,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and reach node nine with a cost of 10,"
+    } ]
+  }, {
+    "tStartMs": 1367010,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "From node eight, we also search up,"
+    } ]
+  }, {
+    "tStartMs": 1368660,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and get to node nine with a cost of five."
+    } ]
+  }, {
+    "tStartMs": 1371450,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So that must be the shortest\npath with a cost of 15. Done."
+    } ]
+  }, {
+    "tStartMs": 1376130,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Except, there's a problem.\nThat's not the shortest path."
+    } ]
+  }, {
+    "tStartMs": 1379820,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Using this path only costs three."
+    } ]
+  }, {
+    "tStartMs": 1382370,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "This search doesn't check paths"
+    } ]
+  }, {
+    "tStartMs": 1383810,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "that go through lower rank nodes."
+    } ]
+  }, {
+    "tStartMs": 1385850,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But we can fix it with a\nlittle more pre-processing."
+    } ]
+  }, {
+    "tStartMs": 1388970,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Start from the lowest rank."
+    } ]
+  }, {
+    "tStartMs": 1390380,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Does this node connect to\nat least two higher nodes?"
+    } ]
+  }, {
+    "tStartMs": 1393440,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "On this graph, node one\nconnects to three and eight."
+    } ]
+  }, {
+    "tStartMs": 1396380,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "This is called a lower triangle."
+    } ]
+  }, {
+    "tStartMs": 1398450,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "And while there's a chance this path"
+    } ]
+  }, {
+    "tStartMs": 1399710,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "is actually the shortest between\nnode three and node eight,"
+    } ]
+  }, {
+    "tStartMs": 1402530,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "our search will never consider it."
+    } ]
+  }, {
+    "tStartMs": 1404510,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So we'll add a shortcut between\nnodes three and node eight."
+    } ]
+  }, {
+    "tStartMs": 1407390,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That's just the cost\nof this lower triangle."
+    } ]
+  }, {
+    "tStartMs": 1410150,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Now, this edge doesn't\ncorrespond to anything real"
+    } ]
+  }, {
+    "tStartMs": 1412520,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "on the road network."
+    } ]
+  }, {
+    "tStartMs": 1413450,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "It's just a way to keep\ntrack of shortest paths."
+    } ]
+  }, {
+    "tStartMs": 1416030,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "We move on to the next lowest\nnode and run the same test."
+    } ]
+  }, {
+    "tStartMs": 1419480,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "But there could be\nmultiple lower triangles,"
+    } ]
+  }, {
+    "tStartMs": 1421610,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "or there might already be an edge"
+    } ]
+  }, {
+    "tStartMs": 1422990,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "between the two higher nodes."
+    } ]
+  }, {
+    "tStartMs": 1424820,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "In those cases, the shortcut represents"
+    } ]
+  }, {
+    "tStartMs": 1426620,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "whichever path has the minimum cost."
+    } ]
+  }, {
+    "tStartMs": 1429260,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "A path that only uses lower ranked nodes"
+    } ]
+  }, {
+    "tStartMs": 1431300,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "is like a path that only\nuses smaller local roads."
+    } ]
+  }, {
+    "tStartMs": 1434330,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "We don't want the algorithm\nto return a highway route"
+    } ]
+  }, {
+    "tStartMs": 1436670,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "if a local road is shorter."
+    } ]
+  }, {
+    "tStartMs": 1438500,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Building shortcuts from the bottom up"
+    } ]
+  }, {
+    "tStartMs": 1440120,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "makes sure we don't miss these paths,"
+    } ]
+  }, {
+    "tStartMs": 1441830,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "while also ignoring them\nif they aren't needed."
+    } ]
+  }, {
+    "tStartMs": 1444230,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "This way, we both limit the search space,"
+    } ]
+  }, {
+    "tStartMs": 1446300,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and never miss the shortest path."
+    } ]
+  }, {
+    "tStartMs": 1448610,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "But there's another benefit to shortcuts."
+    } ]
+  }, {
+    "tStartMs": 1451070,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "We don't need to worry too much about"
+    } ]
+  }, {
+    "tStartMs": 1452420,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "getting a perfect ranking."
+    } ]
+  }, {
+    "tStartMs": 1454010,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "We can roughly cut the graph in half,"
+    } ]
+  }, {
+    "tStartMs": 1455840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and rank nodes in the\nsame cut in any order."
+    } ]
+  }, {
+    "tStartMs": 1458720,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "If the ranking overlooks\nthe shortest path,"
+    } ]
+  }, {
+    "tStartMs": 1460640,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "well, we'll add it back\nlater with a shortcut."
+    } ]
+  }, {
+    "tStartMs": 1462890,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "That's why we were able to\nget three valid rankings"
+    } ]
+  }, {
+    "tStartMs": 1465110,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "using the same instructions earlier."
+    } ]
+  }, {
+    "tStartMs": 1467360,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "But while any ranking will\nstill find the shortest path,"
+    } ]
+  }, {
+    "tStartMs": 1469970,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "a bad one will go really slow,"
+    } ]
+  }, {
+    "tStartMs": 1471770,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "or it'll quickly blow the graph up."
+    } ]
+  }, {
+    "tStartMs": 1474350,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "For example, with a series\nof nodes in a straight line,"
+    } ]
+  }, {
+    "tStartMs": 1477260,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "we don't need to add any shortcuts"
+    } ]
+  }, {
+    "tStartMs": 1478820,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "if we just contract the\nnodes from left to right."
+    } ]
+  }, {
+    "tStartMs": 1481790,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "But when we search between the two ends,"
+    } ]
+  }, {
+    "tStartMs": 1483860,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "we have to explore every node and edge."
+    } ]
+  }, {
+    "tStartMs": 1486362,
+    "dDurationMs": 2808,
+    "segs": [ {
+      "utf8": "And that's no improvement over Dijkstra's."
+    } ]
+  }, {
+    "tStartMs": 1489170,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Here's another possible ranking"
+    } ]
+  }, {
+    "tStartMs": 1490400,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "with the necessary shortcuts."
+    } ]
+  }, {
+    "tStartMs": 1492320,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "End-to-end, we only need\nto search two edges,"
+    } ]
+  }, {
+    "tStartMs": 1494870,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "but we need a lot of shortcuts."
+    } ]
+  }, {
+    "tStartMs": 1496520,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And in some sections, we still\nhave to check all the edges."
+    } ]
+  }, {
+    "tStartMs": 1499310,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Manageable, but not very efficient."
+    } ]
+  }, {
+    "tStartMs": 1502310,
+    "dDurationMs": 2922,
+    "segs": [ {
+      "utf8": "- And so you want to have this trade-off"
+    } ]
+  }, {
+    "tStartMs": 1505232,
+    "dDurationMs": 1998,
+    "segs": [ {
+      "utf8": "between the number of\nshortcuts that you introduce"
+    } ]
+  }, {
+    "tStartMs": 1507230,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and how much faster the query gets."
+    } ]
+  }, {
+    "tStartMs": 1509630,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Henry] In practice,"
+    } ]
+  }, {
+    "tStartMs": 1510463,
+    "dDurationMs": 2497,
+    "segs": [ {
+      "utf8": "the nested dissection method\ngets a decent node ordering"
+    } ]
+  }, {
+    "tStartMs": 1512960,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and doesn't take too long."
+    } ]
+  }, {
+    "tStartMs": 1516050,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "This entire algorithm is called"
+    } ]
+  }, {
+    "tStartMs": 1517790,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "a customizable contraction hierarchy."
+    } ]
+  }, {
+    "tStartMs": 1520730,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And Ben tested it out on\nthe North American network"
+    } ]
+  }, {
+    "tStartMs": 1522980,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to give us a sense of the runtimes."
+    } ]
+  }, {
+    "tStartMs": 1525440,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "In phase one, we order the\nnodes and add shortcuts."
+    } ]
+  }, {
+    "tStartMs": 1528290,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "This doesn't change unless\nthe graph itself changes,"
+    } ]
+  }, {
+    "tStartMs": 1530660,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "like a new bridge, or a road closure."
+    } ]
+  }, {
+    "tStartMs": 1532670,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "It's by far the most\nexpensive part of the process."
+    } ]
+  }, {
+    "tStartMs": 1535040,
+    "dDurationMs": 3046,
+    "segs": [ {
+      "utf8": "But once it's done, it\nhardly ever changes."
+    } ]
+  }, {
+    "tStartMs": 1538086,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "- I think it would ended up at an hour 40"
+    } ]
+  }, {
+    "tStartMs": 1541653,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "or something like that."
+    } ]
+  }, {
+    "tStartMs": 1542486,
+    "dDurationMs": 1914,
+    "segs": [ {
+      "utf8": "You can spend more time,\nyou get better results."
+    } ]
+  }, {
+    "tStartMs": 1544400,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "So it's an argument to make\nthat that's a good idea."
+    } ]
+  }, {
+    "tStartMs": 1548540,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] In phase two,"
+    } ]
+  }, {
+    "tStartMs": 1549373,
+    "dDurationMs": 2197,
+    "segs": [ {
+      "utf8": "we calculate the weights\nfor all the shortcuts."
+    } ]
+  }, {
+    "tStartMs": 1551570,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Whenever there's traffic updates,"
+    } ]
+  }, {
+    "tStartMs": 1552710,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "we'll have to rerun this step."
+    } ]
+  }, {
+    "tStartMs": 1554090,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "So it needs to be relatively quick,"
+    } ]
+  }, {
+    "tStartMs": 1556070,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "- I think seven, eight seconds\nwithout parallelization"
+    } ]
+  }, {
+    "tStartMs": 1559490,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and take it down to about a second,"
+    } ]
+  }, {
+    "tStartMs": 1562370,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and then that's where the\nmemory starts setting."
+    } ]
+  }, {
+    "tStartMs": 1565340,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "- [Derek] Finally, phase\nthree is the actual search."
+    } ]
+  }, {
+    "tStartMs": 1568400,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Remember, for a long path on\nthe North American network,"
+    } ]
+  }, {
+    "tStartMs": 1571310,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "a well-tuned Dijkstra needs to explore"
+    } ]
+  }, {
+    "tStartMs": 1573230,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "most of the 64 million nodes"
+    } ]
+  }, {
+    "tStartMs": 1575330,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and takes around seven seconds per path."
+    } ]
+  }, {
+    "tStartMs": 1578180,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "For this contraction hierarchy,"
+    } ]
+  }, {
+    "tStartMs": 1580220,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "the query runtime was\naround 200 microseconds."
+    } ]
+  }, {
+    "tStartMs": 1583910,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- Depending on how you configure stuff,"
+    } ]
+  }, {
+    "tStartMs": 1585650,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "you can get down to like\n100 microseconds or so."
+    } ]
+  }, {
+    "tStartMs": 1589390,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "But for practical purposes,"
+    } ]
+  }, {
+    "tStartMs": 1591890,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "below a millisecond is all you need."
+    } ]
+  }, {
+    "tStartMs": 1594830,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "- [Henry] That's 35,000\ntimes faster than Dijkstra"
+    } ]
+  }, {
+    "tStartMs": 1597350,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "in just this experiment."
+    } ]
+  }, {
+    "tStartMs": 1599060,
+    "dDurationMs": 4107,
+    "segs": [ {
+      "utf8": "And on average, it only\nneeded to explore 1,450 nodes,"
+    } ]
+  }, {
+    "tStartMs": 1603167,
+    "dDurationMs": 4804,
+    "segs": [ {
+      "utf8": "cutting the search space by\na factor of around 44,000."
+    } ]
+  }, {
+    "tStartMs": 1607971,
+    "dDurationMs": 2009,
+    "segs": [ {
+      "utf8": "A Dijkstra search from\nSan Francisco to Montreal"
+    } ]
+  }, {
+    "tStartMs": 1609980,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "would need to check all the\nnodes roughly in this area."
+    } ]
+  }, {
+    "tStartMs": 1613070,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "On a customizable contraction hierarchy,"
+    } ]
+  }, {
+    "tStartMs": 1615470,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "it only needs to search these 1,236 nodes."
+    } ]
+  }, {
+    "tStartMs": 1619490,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Most of the nodes cluster\naround the source and target."
+    } ]
+  }, {
+    "tStartMs": 1622370,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Once it gets far enough up the hierarchy,"
+    } ]
+  }, {
+    "tStartMs": 1624320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it only needs to check\nthe most important cuts,"
+    } ]
+  }, {
+    "tStartMs": 1626720,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "like the Mississippi."
+    } ]
+  }, {
+    "tStartMs": 1628220,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "While we don't know exactly\nwhat Google maps, Apple maps,"
+    } ]
+  }, {
+    "tStartMs": 1630950,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "or any of these big routing applications"
+    } ]
+  }, {
+    "tStartMs": 1632810,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "actually use under the hood,"
+    } ]
+  }, {
+    "tStartMs": 1634730,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "they all could be built with\ncontraction hierarchies."
+    } ]
+  }, {
+    "tStartMs": 1637880,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And customizable contraction hierarchies"
+    } ]
+  }, {
+    "tStartMs": 1639980,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "is just one variation,"
+    } ]
+  }, {
+    "tStartMs": 1641600,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and there are even more routing algorithms"
+    } ]
+  }, {
+    "tStartMs": 1643730,
+    "dDurationMs": 1503,
+    "segs": [ {
+      "utf8": "that we haven't covered."
+    } ]
+  }, {
+    "tStartMs": 1646160,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "But if you think about it,"
+    } ]
+  }, {
+    "tStartMs": 1647270,
+    "dDurationMs": 3573,
+    "segs": [ {
+      "utf8": "its core search is still\nDijkstras, a 70-year-old algorithm."
+    } ]
+  }, {
+    "tStartMs": 1651770,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Four decades after\nDijkstra publishes article,"
+    } ]
+  }, {
+    "tStartMs": 1654200,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Danish computer scientist Mikkel Thorup"
+    } ]
+  }, {
+    "tStartMs": 1656210,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "said that all theoretical developments"
+    } ]
+  }, {
+    "tStartMs": 1658130,
+    "dDurationMs": 1438,
+    "segs": [ {
+      "utf8": "in single source shortest paths"
+    } ]
+  }, {
+    "tStartMs": 1659568,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "have been based on Dijkstra's algorithm."
+    } ]
+  }, {
+    "tStartMs": 1663020,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And since 2000, many of the\nnewest shortest path algorithms"
+    } ]
+  }, {
+    "tStartMs": 1666350,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "still use bits and pieces of Dijkstras."
+    } ]
+  }, {
+    "tStartMs": 1669050,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "From variations on\ncontraction hierarchies,"
+    } ]
+  }, {
+    "tStartMs": 1671390,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "all the way to a recent\ntheoretical breakthrough"
+    } ]
+  }, {
+    "tStartMs": 1673670,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "for an even faster\nshortest path algorithm."
+    } ]
+  }, {
+    "tStartMs": 1677900,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "All of this, based on\na 20-minute invention."
+    } ]
+  }, {
+    "tStartMs": 1683480,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Part of Dijkstra's enduring success"
+    } ]
+  }, {
+    "tStartMs": 1685250,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "comes down to just how simple it is."
+    } ]
+  }, {
+    "tStartMs": 1687350,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "As he said, \"Simplicity is\nprerequisite for reliability.\""
+    } ]
+  }, {
+    "tStartMs": 1691310,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Dijkstra thought deeply about problems"
+    } ]
+  }, {
+    "tStartMs": 1692780,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "before ever touching a pen."
+    } ]
+  }, {
+    "tStartMs": 1694490,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Because at the end of the\nday, it would be a programmer"
+    } ]
+  }, {
+    "tStartMs": 1696680,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "who is accountable for\ntheir work, not the machine."
+    } ]
+  }, {
+    "tStartMs": 1700142,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "(speaking foreign language)"
+    } ]
+  }, {
+    "tStartMs": 1710838,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "(speaking foreign language)"
+    } ]
+  }, {
+    "tStartMs": 1721674,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "(speaking foreign language)"
+    } ]
+  }, {
+    "tStartMs": 1732537,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "(speaking foreign language)"
+    } ]
+  }, {
+    "tStartMs": 1737150,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- So with those two ideas,"
+    } ]
+  }, {
+    "tStartMs": 1738500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "he hoped to have one lasting legacy."
+    } ]
+  }, {
+    "tStartMs": 1740600,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "He said, \"If 10 years from now,"
+    } ]
+  }, {
+    "tStartMs": 1742160,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "when you're doing\nsomething quick and dirty,"
+    } ]
+  }, {
+    "tStartMs": 1743660,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "you suddenly visualize that I'm here,"
+    } ]
+  }, {
+    "tStartMs": 1745250,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "looking over your shoulders,\nand say to yourself,"
+    } ]
+  }, {
+    "tStartMs": 1747620,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "'Dijkstra would not have liked this.'"
+    } ]
+  }, {
+    "tStartMs": 1749480,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Well, that'd be enough\nimmortality for me.\""
+    } ]
+  }, {
+    "tStartMs": 1751910,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "So even if you can only control"
+    } ]
+  }, {
+    "tStartMs": 1753440,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "your little corner of the world,"
+    } ]
+  }, {
+    "tStartMs": 1755060,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "you can still make it as elegant\nand thoughtful as possible."
+    } ]
+  }, {
+    "tStartMs": 1758150,
+    "dDurationMs": 1975,
+    "segs": [ {
+      "utf8": "For you, and all the\npeople who come after."
+    } ]
+  }, {
+    "tStartMs": 1760125,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(bright music)"
+    } ]
+  }, {
+    "tStartMs": 1765393,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Before we go, I just wanted to\nsay thanks again to Boot.dev"
+    } ]
+  }, {
+    "tStartMs": 1768560,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "for sponsoring this video."
+    } ]
+  }, {
+    "tStartMs": 1769820,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "If you guys wanna check 'em out,"
+    } ]
+  }, {
+    "tStartMs": 1770900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "you can check the link in our description,"
+    } ]
+  }, {
+    "tStartMs": 1772520,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "or scan this QR code right here,"
+    } ]
+  }, {
+    "tStartMs": 1774290,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and make sure to use that\ncheckout code \"Veritasium\""
+    } ]
+  }, {
+    "tStartMs": 1776630,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "for 25% off."
+    } ]
+  }, {
+    "tStartMs": 1778010,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "So thanks to Boot.dev,"
+    } ]
+  }, {
+    "tStartMs": 1779600,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and I also wanted to\nthank you for watching."
+    } ]
+  }, {
+    "tStartMs": 1782510,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "- [Speaker] You have\narrived at your destination."
+    } ]
+  }, {
+    "tStartMs": 1786307,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(bright music)"
+    } ]
+  } ]
+}

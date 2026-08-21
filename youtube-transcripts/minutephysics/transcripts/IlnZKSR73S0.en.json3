@@ -1,0 +1,223 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1130,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "This is a neodymium magnet - it's pretty darn\nstrong."
+    } ]
+  }, {
+    "tStartMs": 4590,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "And now, after heating it in a flame..."
+    } ]
+  }, {
+    "tStartMs": 6560,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "it's no longer magnetic."
+    } ]
+  }, {
+    "tStartMs": 8570,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What just happened?"
+    } ]
+  }, {
+    "tStartMs": 9570,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Well, to build a magnet, all you need to do\nis find a bunch of magnetic atoms (that's"
+    } ]
+  }, {
+    "tStartMs": 13820,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "easy - they're the ones with half-filled electron\nshells in the middle of any of the major blocks"
+    } ]
+  }, {
+    "tStartMs": 16990,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "of the periodic table) and then make a compound\nwhere the magnetic fields of the atoms align"
+    } ]
+  }, {
+    "tStartMs": 21230,
+    "dDurationMs": 5509,
+    "segs": [ {
+      "utf8": "in the same direction - this is Ferromagnetism,\nnamed after Iron, which is pretty darn magnetic."
+    } ]
+  }, {
+    "tStartMs": 26739,
+    "dDurationMs": 4311,
+    "segs": [ {
+      "utf8": "However, it's not so easy - sometimes the\natoms actually want to align their magnetic"
+    } ]
+  }, {
+    "tStartMs": 31050,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "fields in alternating directions - this is\ncalled \"anti-ferromagnetism,\" and it means"
+    } ]
+  }, {
+    "tStartMs": 35660,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "the bulk material won't have a magnetic field\nat all."
+    } ]
+  }, {
+    "tStartMs": 38350,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Or, sometimes the tendency of the atomic magnets\nto align (or anti-align) is just too weak"
+    } ]
+  }, {
+    "tStartMs": 43030,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "to overcome their intrinsic jiggling - that\nis, their temperature!"
+    } ]
+  }, {
+    "tStartMs": 46110,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "In which case, even though all the individual\natoms in the material are magnetic, once more"
+    } ]
+  }, {
+    "tStartMs": 50170,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "the material as a whole isn't."
+    } ]
+  }, {
+    "tStartMs": 51990,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "However, in a strong external magnetic field,\nthe atoms do tend to align with each other"
+    } ]
+  }, {
+    "tStartMs": 56560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "in the direction parallel to the field."
+    } ]
+  }, {
+    "tStartMs": 58680,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "This is called \"para-magnetism,\" and liquid\noxygen is a great example - it's attracted"
+    } ]
+  }, {
+    "tStartMs": 63220,
+    "dDurationMs": 3149,
+    "segs": [ {
+      "utf8": "by a magnet, though it doesn't stay magnetized\nafterwards."
+    } ]
+  }, {
+    "tStartMs": 66369,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "But let's get back to the question - how do\nyou destroy a magnet?"
+    } ]
+  }, {
+    "tStartMs": 69450,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "Well, a material can only be ferromagnetic\nif its temperature is low enough: above a"
+    } ]
+  }, {
+    "tStartMs": 73729,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "certain point, the nicely ordered atomic magnetic\nfields \"melt\" into disorder, just as ice crystals"
+    } ]
+  }, {
+    "tStartMs": 79009,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "melt into water when heated past zero celsius."
+    } ]
+  }, {
+    "tStartMs": 82090,
+    "dDurationMs": 4029,
+    "segs": [ {
+      "utf8": "So to destroy a magnet, you just need to heat\nit up past its \"magnetic melting point\", called"
+    } ]
+  }, {
+    "tStartMs": 86119,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "the \"Curie Temperature\" - it probably won't\nlook like much is happening, but once the"
+    } ]
+  }, {
+    "tStartMs": 89590,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "atoms are jiggling around enough, when they\ncool off, their magnetic fields will no longer"
+    } ]
+  }, {
+    "tStartMs": 92450,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "all point in the same direction."
+    } ]
+  }, {
+    "tStartMs": 94649,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Magnet destroyed!"
+    } ]
+  }, {
+    "tStartMs": 95889,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "And just as different elements melt from solid\nto liquid at different temperatures, they"
+    } ]
+  }, {
+    "tStartMs": 99790,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "also melt from being ferromagnetic to paramagnetic\nat different temperatures, which you can explore"
+    } ]
+  }, {
+    "tStartMs": 104490,
+    "dDurationMs": 2549,
+    "segs": [ {
+      "utf8": "in this sweet interactive periodic table."
+    } ]
+  }, {
+    "tStartMs": 107039,
+    "dDurationMs": 11530,
+    "segs": [ {
+      "utf8": "Which also plays all "
+    } ]
+  }, {
+    "tStartMs": 118569,
+    "dDurationMs": 15291,
+    "segs": [ {
+      "utf8": "of "
+    } ]
+  }, {
+    "tStartMs": 133860,
+    "dDurationMs": 13090,
+    "segs": [ {
+      "utf8": "the Periodic Table "
+    } ]
+  }, {
+    "tStartMs": 146950,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "of Videos."
+    } ]
+  } ]
+}

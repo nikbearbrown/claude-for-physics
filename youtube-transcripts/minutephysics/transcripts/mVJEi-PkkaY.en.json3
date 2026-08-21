@@ -1,0 +1,31 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1440,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Because gravity gets weaker at longer distances, the moon pulls the near-side ocean more than the Earth"
+    } ]
+  }, {
+    "tStartMs": 5980,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "and the Earth more than the far-side ocean."
+    } ]
+  }, {
+    "tStartMs": 7820,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "When the Earth spins relative to the moon, the water sloshes, and we call it the tides."
+    } ]
+  } ]
+}

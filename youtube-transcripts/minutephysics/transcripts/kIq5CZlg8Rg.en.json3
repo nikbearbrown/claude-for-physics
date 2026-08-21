@@ -1,0 +1,73 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1500,
+    "dDurationMs": 4779,
+    "segs": [ {
+      "utf8": "Suppose you add up one plus two plus four\nplus eight plus sixteen plus…"
+    } ]
+  }, {
+    "tStartMs": 6279,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "well, you get the point."
+    } ]
+  }, {
+    "tStartMs": 7680,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Each number is twice as big as the previous\none, so it's pretty obvious that this sum"
+    } ]
+  }, {
+    "tStartMs": 11050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "is infinite…"
+    } ]
+  }, {
+    "tStartMs": 12050,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "But wait a second!"
+    } ]
+  }, {
+    "tStartMs": 13630,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "We can multiply the whole thing by one and\nit'll be the same, right?"
+    } ]
+  }, {
+    "tStartMs": 16940,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "And one is the same as two minus one… so\nwe have two plus four plus eight plus sixteen"
+    } ]
+  }, {
+    "tStartMs": 22970,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "etc., minus one minus two minus four minus\neight minus sixteen…"
+    } ]
+  }, {
+    "tStartMs": 27630,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "So almost everything on the right side cancels,\nand voila: 1+2+4+8+16, and so on, is negative"
+    } ]
+  }, {
+    "tStartMs": 34710,
+    "dDurationMs": 10580,
+    "segs": [ {
+      "utf8": "one!"
+    } ]
+  } ]
+}

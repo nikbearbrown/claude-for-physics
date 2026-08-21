@@ -1,0 +1,169 @@
+Thank you to Brilliant.org
+for supporting PBS Digital Studios.Black holes are crazy enough on their own –but crash two together
+and you end up with this roiling blobof inescapable space
+that vibrates like a beaten drum.And the rich harmonics of those vibrations,
+seen through gravitational waves,could hold the secrets to the nature
+of the fabric of spacetime itself.Today on space time journal club
+we’ll explore two papersthat claim to have detected
+black hole harmonics.We’ll also give you the latest updates
+on the most recent– and in some cases quite bizarre -
+LIGO detections.When physicists talk about black holes
+they’re usually referringto highly theoretical objects –
+static, unchanging black holesviewed from “infinitely” far away.This makes everything clean and simple
+enough to attempt the already notoriouslycomplex calculations of black hole physics.But real black holes are created
+in the violent deathsof massive stars, and there’s
+nothing clean about that.We now know
+that black holes also merge –and in the process produce
+gravitational radiationthat we’ve only just managed
+to detect with the miraculous workof the LIGO and VIRGO gravitational
+wave observatories.In the instant after its merger, the new,joined black hole looks nothing
+like the idealized theoretical black hole.Imagine it: two event horizons –two roughly spherical black surfaces
+that are literal boundaries to our universe.They spiral together and touch
+– instantly becoming a single surface.Technically, in that instant
+we go from two black holes to one.But in the beginning this new black
+hole looks nothing like its progenitors.It’s not even close to spherical
+– it’s dumbbell-shaped,and then it’s an elongated blob,
+and then it’s an oscillating spheroid –like a ball of water wriggling in space.But what exactly is oscillating here?The event horizon seems to define
+the surface of the black hole,but really it’s the fabric of spacetime
+itself that’s vibrating.The two inspiralling black holes
+make powerful spacetime ripples– gravitational waves –which intensify as the black holes approach merger,only becoming observable
+in the last fraction of a second.And then the merged black hole continues
+to radiate these spacetime ripples as it oscillates,but these quickly die away as the black
+hole settles into its final static form.This final phase is called the ring-down– an expression comes
+from the analogy with a bell.When struck, a bell vibrates
+with many different frequencies– many overlapping harmonics.As those vibrations give up their energy– in this case to sound waves –the vibrations fade.
+The bell rings down.A “struck” black hole also vibrates
+with many different harmonic frequencies.The harmonics of a vibrating sphere– be it a blob of water
+in zero-g or a black hole –are analogous to the harmonics
+of a vibrating guitar string or piano wire.In the latter cases
+we can describe a vibrating stringas a series of standing
+sine waves of different frequencies,all happening at the same time.The lowest frequency the string
+can support is called the fundamental mode– it’s usually the strongest or loudest,
+and defines the note– middle-c, f-sharp, whatever -
+played by that string.Higher frequency modes are called overtones,
+and they provide richness and texture to the sound.The full set of possible frequencies
+a string can support are called its harmonics.The harmonic oscillations of 2-D surfaces– like drum skins, bells,
+or the event horizons of black holes –are a good bit more complex than in 1-D.In the case of the event horizon,
+or any spherical-ish surface,we break down the oscillations not into
+sine waves but into spherical harmonics.These are a set of functions pretty
+analogous to 2-D sine wave on the surfaceof a sphere, and each spherical
+harmonic can represent a single,pure oscillation on that
+spherical surface with a set frequency.A harmonic oscillation that decays
+over time is called a quasinormal mode.For a black hole, another way
+to think of its quasinormal modesis as a set of gravitational waves
+trapped in orbit around the black hole.They leak away over time, but while present
+they warp the shape of the event horizon.OK, so a black hole can ring like a bell
+when struck– in that case a black hole merger
+is the biggest hammer strike of all.But what does the ring-down
+of a black hole really look like?Well, we can answer that be asking what
+harmonics are present in that oscillation,and how quickly do each
+of those harmonics fade away.Many scientists had assumed
+that in order to see the overtonesyou’d need to look at the tail
+end of the ring-down,when the black hole was approaching
+a more spherical shape.They thought that right after merger
+the black hole would be too chaotic– the oscillations should be “non-linear”or in other words not well represented by
+adding together a simple set of spherical harmonics.The problem is, at the tail-end
+of the ring-down the LIGO signalsare probably too weak to detect the overtones.Matthew Giesler, Max Isi, Mark Scheel
+and Saul Teukolsky of CalTech and MITwent against this these prior
+assumptions in their recent paper.They looked for overtones in the ring-down
+from right at the point of black hole merger.Now this wasn’t a real black hole merger
+– we’ll get to that shortly.Giesler and team first they found
+the harmonics in a fake black hole merger.Specifically, a simulated merger by the SXS
+– Simulating Extreme Spacetimes - projectbasically the result of teaching
+a supercomputer general relativityand, among other things, telling it
+to collide thousands of black holes.The advantage of first trying this
+with a simulation is1) you don’t have to use a signal
+degraded by a billion years of travel,and 2) you know exactly
+what parameters went into the signal– in particular black hole mass and spin,so you know if you got the right answer
+when you try to predict these values.The researchers found
+a few very surprising things.First, the waveform was nicely simulated
+by spherical harmonic oscillationsright from the point of merger, so it was
+not the chaotic mess previously assumed.Second, when the ringdown begins some
+of the overtones are actually strongerthan the fundamental mode,
+even though they do tend to die out more quickly.This means that these overtones
+are potentially detectablein the real merger signals
+from LIGO and VIRGO.And THAT has some
+very exciting implications.The rich structure of overtones
+in a musical instrumentcan tell you what instrument
+you’re listening to.Similarly, the overtone structure
+of a black hole ringdowncan identify the fundamental properties
+of that black hole – namely its mass and spin.The researchers found that
+they could pinpoint the mass and spinof the simulated black holes with much
+greater precision than if they’d just usedthe gravitational wave signal
+from the lead-up to the merger.In astronomy, the analysis of the different
+frequencies of light is called spectroscopy.So this sort of frequency
+analysis of gravitational wavesis being called gravitational wave spectroscopy.Now for this to be useful probably we’d want
+to look at some real black hole mergers.And yes - The team totally did this –and reported the results in a follow-up paper,adding Will Farr to the team
+for this one. Isi et al.looked at the merger and ring-down signal
+from the largest black hole merger we’ve seen.Which, in fact, was also the first
+one LIGO reported: GW150914– a pair of black holes, each 30
+or so times the mass of the sun,spiraling into each other
+one and a half billion light years away.The team analyzed the harmonics
+in the gravitational wave ring-downfrom this event and claim a likely
+detection of at least one overtone– detected with a confidence of 3.6 sigma.That means it seems very likely
+they really detected the overtone,but to effectively eliminate
+doubt we’d want more observations.By analyzing the harmonics,
+the team calculates the massof the final black hole as 68.5 solar masses.They also get a spin for the final black hole– a so-called dimensionless
+spin magnitude of .69– where the spin magnitude
+can vary between 0– not spinning at allor 1
+– spinning as fast as possible..69 means this is a rapidly
+rotating black hole,which is unsurprising seeing as it just absorbed
+the orbital angular momentum of two black holes.Both the mass and spin derived
+from the ringdown are consistentwith the estimate that
+was previously obtained by analyzingthe entire waveform but ignoring the
+overtones.This is important, because the overtone
+analysis ONLY looked at the ringdown,so this tells us that all information
+on the nature of the final black holeproperties is embedded
+in those final oscillations.And that brings us to the last,
+and perhaps coolest application of this technique –testing Einstein.General relativity predicts that black
+holes should be completely definedby three properties –
+their mass, spin, and electric charge.It doesn’t matter what fell in
+to make the black hole– atoms, photons, dark matter, monkeys –all that information should be lost,
+leaving only 3 properties.And this is the no-hair theorem
+– black holes have no hair.Well, at most 3 hairs.And astrophysical black holes
+are also expected to have no electric charge,so mass and spin should define everything– including the nature of the
+oscillations during ring-down.The researchers test the no-hair theorem
+by checking whether the frequencyof oscillations and the time
+for the decay of those oscillationsagrees perfectly with Einstein’s predictions.They do – at least within
+the uncertainties of the experiment.The oscillations are consistent with a
+black hole purely defined by its mass and spin.The authors claim this as tentative
+support for the no-hair theorem.It’s a long way from
+the confirmation of the theorem– but with the analysis of more black hole mergers,any deviations from the pure-general
+relativity, hairless black holewill either become apparent or become
+less and less likely to exist.But for now, Einstein reigns supreme.And what about those new mergers? It’s been
+a while since we saw a big press release from LIGO.The last was the incredible binary
+neutron star merger that was alsodetected across the electromagnetic
+spectrum as a giant explosion.Well, rest assured that detections have continued.LIGO and VIRGO have been in their
+3rd observing run since April 1stafter massive upgrades to sensitivity,
+and this run will last for one year.The LIGO team typically waits until the run
+is complete to announce findingsbecause it takes a while
+to fully confirm each signal.But the team isn’t nearly
+as secretive as they once were.LIGO has a publicly available
+alert system so that astronomerscan follow up gravitational
+wave detections with other telescopes.LIGO’s gravitational-wave candidate event
+database reveals many, many candidate detections– many of which will prove to be real.So far the list of high-confidence events includes
+around 20 new black hole-black hole mergers,a few black hole-neutron star,
+and neutron star-neutron star mergers.The observatories are seeing a new
+event roughly every 5 days on average,but sometimes on multiple days in a row.And on August 28th, two black hole
+mergers were seen separatedby only 20 minutes, and potentially
+in the same part of the sky.This is currently looking
+like just a coincidence,but if not it’ll be hard to come up
+with a plausible explanationfor why two pairs of binary black holes
+should merge near each other at the same time.So, long story short –
+the initial promise of LIGO and the firstdetection of gravitational waves
+really seems to be panning out.Gravitational wave astronomy
+is now really a thing.We’re seeing many, many mergers
+of black holes and neutron stars,and we’re learning an awful lot
+about these objects.And with the new subfield
+of gravitational wave spectroscopy,we can now listen to the harmonics
+of ringing black holes,and through them better understand the
+fundamental nature of extreme spacetime.Whether you want to know the number of
+possible multiverses or the likelihood of aliens,to challenge yourself
+in the advanced levels of scienceyou’re going to need to have a solid
+understanding of probability.Brillaint.org has a new course
+on probability fundamentalsthat include interactive challenges
+and problems to solve.Honestly, that's the only way
+to get math - to do it.You can Learn probabilistic basics,
+such as fairness,expected value, and symmetry,
+in their course Probability Fundamentals.Effective learning is about problem solving.To learn more about Brilliant,
+go to brilliant.org/Spacetime.

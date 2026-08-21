@@ -1,0 +1,1363 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 520,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It’s time we talked about loop quantum gravity."
+    } ]
+  }, {
+    "tStartMs": 4000,
+    "dDurationMs": 1509,
+    "segs": [ {
+      "utf8": "What exactly is it?"
+    } ]
+  }, {
+    "tStartMs": 5509,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "What are the loops?"
+    } ]
+  }, {
+    "tStartMs": 6990,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "And can it really defeat string theory in\nour quest for a Theory of Everything?"
+    } ]
+  }, {
+    "tStartMs": 16680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The holy grail of physics is to connect our understanding"
+    } ]
+  }, {
+    "tStartMs": 19580,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "of the tiny scales of atoms and subatomic\nparticles with that of the vast scales of"
+    } ]
+  }, {
+    "tStartMs": 25039,
+    "dDurationMs": 3061,
+    "segs": [ {
+      "utf8": "planets, galaxies, and the entire universe."
+    } ]
+  }, {
+    "tStartMs": 28100,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "To connect quantum physics with Einstein’s\ngeneral theory of relativity."
+    } ]
+  }, {
+    "tStartMs": 32820,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Our search for a theory of quantum gravity\nis a century old, and we’ve talked about it quite"
+    } ]
+  }, {
+    "tStartMs": 37630,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "a bit already, including what’s\nprobably the lead contender - string theory."
+    } ]
+  }, {
+    "tStartMs": 42460,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "But string theory isn’t the only game in\ntown - or so some physicists believe."
+    } ]
+  }, {
+    "tStartMs": 47710,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "There may be another way to reconcile the\nphysics of the tiny and the gigantic - another"
+    } ]
+  }, {
+    "tStartMs": 53550,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "way to a theory of quantum gravity that avoids\na lot of conceptual baggage like tiny wiggling"
+    } ]
+  }, {
+    "tStartMs": 59780,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "strings made of coiled up extra dimensions."
+    } ]
+  }, {
+    "tStartMs": 63210,
+    "dDurationMs": 6670,
+    "segs": [ {
+      "utf8": "That other way would be loop quantum gravity,\nand today we’re going to find out exactly what it is."
+    } ]
+  }, {
+    "tStartMs": 69880,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Back in the day we talked about why combining\nquantum mechanics with general relativity"
+    } ]
+  }, {
+    "tStartMs": 74469,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "was so hard."
+    } ]
+  }, {
+    "tStartMs": 76079,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "For example, there’s the fact that general\nrelativity - or perhaps quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 80160,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "breaks down when we think about the extreme\ndensities of the black hole or the big bang singularities."
+    } ]
+  }, {
+    "tStartMs": 86770,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "But there are more fundamental conflicts:\nnamely, background independence and the problem of time."
+    } ]
+  }, {
+    "tStartMs": 94140,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Now, I’ll mention the problem of time briefly in a little bit,\nbut the real focus is going to be on this"
+    } ]
+  }, {
+    "tStartMs": 99189,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "background independence thing because this is what really inspired the invention of loop quantum gravity."
+    } ]
+  }, {
+    "tStartMs": 104759,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "So what is it?"
+    } ]
+  }, {
+    "tStartMs": 106159,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "Quantum mechanics, and indeed most theories\nin physics, involve a set of equations describing"
+    } ]
+  }, {
+    "tStartMs": 111829,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "how stuff moves around, exerts force, etc.\non some background coordinate system."
+    } ]
+  }, {
+    "tStartMs": 118109,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "Like actors on a stage, where the actors are\nparticles and wavefunctions and fields and"
+    } ]
+  }, {
+    "tStartMs": 123319,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the stage is the coordinates of space and\ntime."
+    } ]
+  }, {
+    "tStartMs": 126679,
+    "dDurationMs": 5141,
+    "segs": [ {
+      "utf8": "In quantum mechanics that stage is flat and\nstatic and isn’t influenced by the actors."
+    } ]
+  }, {
+    "tStartMs": 131820,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "It requires some giant hacks to even attempt\nregular quantum calculations in a non-flat geometry."
+    } ]
+  }, {
+    "tStartMs": 138860,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In short: quantum mechanics is NOT background\nindependent."
+    } ]
+  }, {
+    "tStartMs": 143860,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "General relativity, on the other hand, has\nto be background independent - because that’s"
+    } ]
+  }, {
+    "tStartMs": 148270,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "what its equations do - they change the background."
+    } ]
+  }, {
+    "tStartMs": 151740,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "They describe how the presence of mass and\nenergy warp the fabric of spacetime."
+    } ]
+  }, {
+    "tStartMs": 156250,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "Our background coordinate system itself becomes\na dynamic entity."
+    } ]
+  }, {
+    "tStartMs": 161300,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "More precisely, the metric - the object encapsulating\nthe geometry and causal structure of spacetime"
+    } ]
+  }, {
+    "tStartMs": 167340,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "- evolves in the equations of GR. So those\nequations need to work regardless of that"
+    } ]
+  }, {
+    "tStartMs": 173480,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "background."
+    } ]
+  }, {
+    "tStartMs": 174550,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "In string theory, a type of background independence\nemerges in an abstract space of moving strings"
+    } ]
+  }, {
+    "tStartMs": 181100,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "and with that comes a gravitational field."
+    } ]
+  }, {
+    "tStartMs": 184150,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But for that to work first you need those\nstrings to exist - and we don’t know if"
+    } ]
+  }, {
+    "tStartMs": 188270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "they do."
+    } ]
+  }, {
+    "tStartMs": 190010,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "Loop quantum gravity tries to quantize general\nrelativity with no strings attached, while"
+    } ]
+  }, {
+    "tStartMs": 195750,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "preserving the background independence already\ninherent to GR."
+    } ]
+  }, {
+    "tStartMs": 200020,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But why is quantizing general relativity so\ndifficult in the first place?"
+    } ]
+  }, {
+    "tStartMs": 204900,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "The challenge really gets us to the fundamentals\nof what a quantum theory actually is."
+    } ]
+  }, {
+    "tStartMs": 210330,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So just quickly, let’s review all of quantum\nmechanics."
+    } ]
+  }, {
+    "tStartMs": 213060,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "In classical physics, we have variables like\nposition, time, momentum, energy - mathematical"
+    } ]
+  }, {
+    "tStartMs": 218870,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "expressions that represent the observable\nproperties of the object or system that you’re"
+    } ]
+  }, {
+    "tStartMs": 223499,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "trying to describe."
+    } ]
+  }, {
+    "tStartMs": 225040,
+    "dDurationMs": 5529,
+    "segs": [ {
+      "utf8": "Some of these - say, position and time - also\nform our background coordinate system."
+    } ]
+  }, {
+    "tStartMs": 230569,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "But in quantum mechanics, things aren’t\nso straightforward."
+    } ]
+  }, {
+    "tStartMs": 234340,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Certain properties have an in-built uncertainty\nand only take concrete values after measurement."
+    } ]
+  }, {
+    "tStartMs": 240300,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Absent measurement, they exist in a fuzzy\nspace of possibilities called a wavefunction."
+    } ]
+  }, {
+    "tStartMs": 246660,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "In the first formulations of quantum mechanics,\nthat wavefunction describes the distribution"
+    } ]
+  }, {
+    "tStartMs": 252290,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "of possible positions and momenta of, say,\na particle."
+    } ]
+  }, {
+    "tStartMs": 256690,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "These can then be resolved into concrete,\nmeasured values by acting on the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 261329,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "with so-called position and momentum operators."
+    } ]
+  }, {
+    "tStartMs": 265189,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "The wavefunction and operators are fundamentally\ntied to the coordinate system."
+    } ]
+  }, {
+    "tStartMs": 270080,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "After all, the position and momentum of quantum\nmechanics literally describes location on"
+    } ]
+  }, {
+    "tStartMs": 275590,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "a spatial coordinate system and the change\nin that location over time."
+    } ]
+  }, {
+    "tStartMs": 280419,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "That makes it highly background dependent."
+    } ]
+  }, {
+    "tStartMs": 283460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "There are other ways to formulate quantum\nmechanics, like quantum field theory, but"
+    } ]
+  }, {
+    "tStartMs": 287300,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "these ultimately have the same issue"
+    } ]
+  }, {
+    "tStartMs": 289340,
+    "dDurationMs": 2579,
+    "segs": [ {
+      "utf8": "But it gets worse actually."
+    } ]
+  }, {
+    "tStartMs": 291920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "In quantum mechanics, time is treated completely\nseparately to other variables -"
+    } ]
+  }, {
+    "tStartMs": 296560,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "there is no “time wavefunction” or “time operator”."
+    } ]
+  }, {
+    "tStartMs": 300389,
+    "dDurationMs": 6541,
+    "segs": [ {
+      "utf8": "This is completely at odds with general relativity,\nin which time is treated as just another dimension."
+    } ]
+  }, {
+    "tStartMs": 306930,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "This is the “problem of time” that I mentioned,\nand it’s strongly connected to background independence."
+    } ]
+  }, {
+    "tStartMs": 313100,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "A quantum theory of gravity needs to fix both\nof these issues - but we’re going to focus"
+    } ]
+  }, {
+    "tStartMs": 317620,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "on background independence for now."
+    } ]
+  }, {
+    "tStartMs": 319800,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "The equations of quantum mechanics let you\ncalculate changing properties of a particle-"
+    } ]
+  }, {
+    "tStartMs": 324580,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "- like its position or momentum - relative\nto the background coordinate system."
+    } ]
+  }, {
+    "tStartMs": 328840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The equations of general relativity let you\ncalculate the changing shape of the coordinate"
+    } ]
+  }, {
+    "tStartMs": 332600,
+    "dDurationMs": 2809,
+    "segs": [ {
+      "utf8": "system itself, encapsulated in the metric."
+    } ]
+  }, {
+    "tStartMs": 335409,
+    "dDurationMs": 5811,
+    "segs": [ {
+      "utf8": "So maybe instead of thinking about the quantum\nfuzziness of position and momentum we can"
+    } ]
+  }, {
+    "tStartMs": 341220,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "think about the quantum fuzziness of the metric\nitself."
+    } ]
+  }, {
+    "tStartMs": 345100,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "And instead of an equation that describes\nthe quantum evolution of the properties of"
+    } ]
+  }, {
+    "tStartMs": 350490,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "an object in spacetime, maybe there’s an\nequation that describes the quantum evolution"
+    } ]
+  }, {
+    "tStartMs": 356120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "of the geometry of space."
+    } ]
+  }, {
+    "tStartMs": 358480,
+    "dDurationMs": 2619,
+    "segs": [ {
+      "utf8": "Well, there is - or at least an attempt at one."
+    } ]
+  }, {
+    "tStartMs": 361099,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "It’s called the Wheeler-deWitt equation,\nbased on something called the ADM Formalism."
+    } ]
+  }, {
+    "tStartMs": 367259,
+    "dDurationMs": 9060,
+    "segs": [ {
+      "utf8": "ADM starts by defining this abstract space\nof spaces - 3-D spatial metrics, 3-D space"
+    } ]
+  }, {
+    "tStartMs": 376319,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "slices cut out of 4-D spacetime."
+    } ]
+  }, {
+    "tStartMs": 380060,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "It then gives a sort of equation of motion\nfor how these metrics evolve through time."
+    } ]
+  }, {
+    "tStartMs": 385680,
+    "dDurationMs": 5099,
+    "segs": [ {
+      "utf8": "You can imagine a funky coordinate system\ndescribing where you are in this abstract"
+    } ]
+  }, {
+    "tStartMs": 390779,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "space of metrics."
+    } ]
+  }, {
+    "tStartMs": 392530,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "As you move through this coordinate system,\nthe geometry of space changes."
+    } ]
+  }, {
+    "tStartMs": 397580,
+    "dDurationMs": 5649,
+    "segs": [ {
+      "utf8": "You can also imagine analogies of the position\nand momentum in this space of metrics."
+    } ]
+  }, {
+    "tStartMs": 403229,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "So the Wheeler-deWitt equation quantizes these - turns\nthem into quantum operators."
+    } ]
+  }, {
+    "tStartMs": 408919,
+    "dDurationMs": 3661,
+    "segs": [ {
+      "utf8": "The result is a quantum equation for the fabric\nof space."
+    } ]
+  }, {
+    "tStartMs": 412580,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "A contender for a theory of quantum gravity."
+    } ]
+  }, {
+    "tStartMs": 417020,
+    "dDurationMs": 5609,
+    "segs": [ {
+      "utf8": "The Wheeler-deWitt equation was promising,\nbut turned out to be … unsolvable."
+    } ]
+  }, {
+    "tStartMs": 422629,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Which makes it not so useful, and impossible\nto verify as correct."
+    } ]
+  }, {
+    "tStartMs": 428129,
+    "dDurationMs": 6641,
+    "segs": [ {
+      "utf8": "So perhaps this whole path of using abstract\ncoordinates is a dead end, or perhaps we just"
+    } ]
+  }, {
+    "tStartMs": 434770,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "haven’t gone down it far enough."
+    } ]
+  }, {
+    "tStartMs": 436889,
+    "dDurationMs": 5221,
+    "segs": [ {
+      "utf8": "That’s what loop quantum gravity does - it\ntakes us down the abstraction rabbit hole"
+    } ]
+  }, {
+    "tStartMs": 442110,
+    "dDurationMs": 7150,
+    "segs": [ {
+      "utf8": "- past our space of metrics into a space of\nsomething called connections."
+    } ]
+  }, {
+    "tStartMs": 449260,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And these connections are going to give us\nour loops."
+    } ]
+  }, {
+    "tStartMs": 453380,
+    "dDurationMs": 5319,
+    "segs": [ {
+      "utf8": "Connections are mathematical functions that\ntell you how something, like a vector, changes"
+    } ]
+  }, {
+    "tStartMs": 458699,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "as it moves between two points in a space."
+    } ]
+  }, {
+    "tStartMs": 461469,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "We saw an example way back in the day when\nwe looked at parallel transport."
+    } ]
+  }, {
+    "tStartMs": 466630,
+    "dDurationMs": 5679,
+    "segs": [ {
+      "utf8": "As you move the base of a vector along a path\nin curved space, the vector rotates."
+    } ]
+  }, {
+    "tStartMs": 472309,
+    "dDurationMs": 5811,
+    "segs": [ {
+      "utf8": "And the amount of rotation encodes information\nabout the changes in geometry along the path."
+    } ]
+  }, {
+    "tStartMs": 478120,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "If connections contain all the information\nabout spacetime, them maybe we can represent"
+    } ]
+  }, {
+    "tStartMs": 483380,
+    "dDurationMs": 4589,
+    "segs": [ {
+      "utf8": "spacetime with these connections instead of\nwith regular coordinates."
+    } ]
+  }, {
+    "tStartMs": 487969,
+    "dDurationMs": 6771,
+    "segs": [ {
+      "utf8": "In the 1950s Einstein himself tried to rewrite\ngeneral relativity in terms of these parallel"
+    } ]
+  }, {
+    "tStartMs": 494740,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "transport vector connections, but the result\nwas a mess."
+    } ]
+  }, {
+    "tStartMs": 500240,
+    "dDurationMs": 7319,
+    "segs": [ {
+      "utf8": "The breakthrough came in the 80s when Abey\nAshketar tried a different type of connection:"
+    } ]
+  }, {
+    "tStartMs": 507559,
+    "dDurationMs": 6701,
+    "segs": [ {
+      "utf8": "one in which you parallel transport not a\nvector but something called a spinor - a vector-like"
+    } ]
+  }, {
+    "tStartMs": 514260,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "thing that also represents a quantum of angular\nmomentum - or spin."
+    } ]
+  }, {
+    "tStartMs": 519580,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Ashketar rewrote general relativity in terms\nof these spin-connections -"
+    } ]
+  }, {
+    "tStartMs": 524240,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "now known as Ashketar variables."
+    } ]
+  }, {
+    "tStartMs": 527200,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "In this formalism, the “space of metrics”\nlooks just like a space of fields in"
+    } ]
+  }, {
+    "tStartMs": 532440,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "quantum field theory."
+    } ]
+  }, {
+    "tStartMs": 534220,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "Quantized gravity suddenly looked to be in\nreach."
+    } ]
+  }, {
+    "tStartMs": 539750,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "And now we get to the loops of loop quantum\ngravity."
+    } ]
+  }, {
+    "tStartMs": 544450,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "Lee Smolin and Carlo Rovelli realized they\ncould fully solve the Wheeler-deWitt equation"
+    } ]
+  }, {
+    "tStartMs": 551180,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "by representing spatial metrics using Ashketar's\nspin connections."
+    } ]
+  }, {
+    "tStartMs": 556680,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "But they needed one more trick - one layer\ndeeper in abstraction."
+    } ]
+  }, {
+    "tStartMs": 562390,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "They evaluated these connections over closed\nloops – so each point connected back to"
+    } ]
+  }, {
+    "tStartMs": 568390,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "itself."
+    } ]
+  }, {
+    "tStartMs": 569530,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "They realized it was possible to define any\ngeometry of 3-D space out of a sort of weave"
+    } ]
+  }, {
+    "tStartMs": 575780,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "of these closed loops, with each loop like\nan elementary closed circuit of gravitational field."
+    } ]
+  }, {
+    "tStartMs": 582580,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "So now you have a space of loops with which\nto construct the fabric of space - and that"
+    } ]
+  }, {
+    "tStartMs": 588550,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "space of loops can be quantized rather neatly,\nand in a background independent way."
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "After all, there IS no background until these\nnow-quantum loop states build it."
+    } ]
+  }, {
+    "tStartMs": 601050,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The result, of course, is loop quantum gravity."
+    } ]
+  }, {
+    "tStartMs": 603850,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "It’s general relativity – our modern theory\nof gravity – cast in terms of very abstract"
+    } ]
+  }, {
+    "tStartMs": 609130,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "building blocks."
+    } ]
+  }, {
+    "tStartMs": 610700,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Not with chunks of spacetime but with quantum\ncircuits of gravitational field."
+    } ]
+  }, {
+    "tStartMs": 615580,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "3-D space can be sort of woven from these\nloops into something called a spin-network"
+    } ]
+  }, {
+    "tStartMs": 621120,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "- which is a concept too abstract for even\nthis episode."
+    } ]
+  }, {
+    "tStartMs": 626430,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "But the resulting 3-D space looks normal on\nlarge scales - it looks like space."
+    } ]
+  }, {
+    "tStartMs": 632630,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "But on the tiniest of scales – the Planck\nscale - it’s sort of pixelated."
+    } ]
+  }, {
+    "tStartMs": 638510,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "At the nexuses of this weave you have quantized\nvolume elements – irreducible grains of"
+    } ]
+  }, {
+    "tStartMs": 644740,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "space - connected by quantized area faces\nlike facets."
+    } ]
+  }, {
+    "tStartMs": 650120,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But even that description is too space-like - probably\nthe underlying weave of the fabric of space"
+    } ]
+  }, {
+    "tStartMs": 658120,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "doesn't resemble anything intuitive at all."
+    } ]
+  }, {
+    "tStartMs": 661620,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "The big success of loop quantum gravity is\nthat it manages to combine general relativity"
+    } ]
+  }, {
+    "tStartMs": 666140,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and quantum mechanics in their currently accepted forms, without taking away"
+    } ]
+  }, {
+    "tStartMs": 671100,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "their most important foundational principles."
+    } ]
+  }, {
+    "tStartMs": 673660,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And without adding big assumptions – like\nthe existence of strings or extra dimensions"
+    } ]
+  }, {
+    "tStartMs": 678660,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "or supersymmetry."
+    } ]
+  }, {
+    "tStartMs": 680220,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "The theory has some other successes, for example,\nthe theory seems to predict Hawking radiation"
+    } ]
+  }, {
+    "tStartMs": 686460,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "and black hole entropy consistent with Hawking\nand Bekenstein’s equations."
+    } ]
+  }, {
+    "tStartMs": 691640,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "However there are also many who identify serious,\nfundamental issues the theory."
+    } ]
+  }, {
+    "tStartMs": 697340,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "While LQG has background independence\nin terms of different 3-D spatial geometries,"
+    } ]
+  }, {
+    "tStartMs": 704020,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "it’s not actually clear that this independence extends\nto 4-D spacetime."
+    } ]
+  }, {
+    "tStartMs": 709440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And connected to this, LQG doesn’t solve\nthe problem of time."
+    } ]
+  }, {
+    "tStartMs": 714400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "More generally, for this theory to be successful\nit needs give you the equations of good old"
+    } ]
+  }, {
+    "tStartMs": 720560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "general relativity on large, non-quantum scales\n- in the so-called classical limit."
+    } ]
+  }, {
+    "tStartMs": 725800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "But it’s not clear that it can do that."
+    } ]
+  }, {
+    "tStartMs": 728100,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "This is still a hotly debated topic."
+    } ]
+  }, {
+    "tStartMs": 730780,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Some researchers think that the method and\nfoundations are sound and that the current"
+    } ]
+  }, {
+    "tStartMs": 735200,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "criticisms and shortcomings can be resolved\nwith more research"
+    } ]
+  }, {
+    "tStartMs": 739380,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and extensions to the existing formalism."
+    } ]
+  }, {
+    "tStartMs": 742440,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Others argue that the problems are fundamental\nand that no amount of tinkering and extending"
+    } ]
+  }, {
+    "tStartMs": 748560,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "will resolve them."
+    } ]
+  }, {
+    "tStartMs": 750140,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "A lot more exploration is needed on the theoretical\nside."
+    } ]
+  }, {
+    "tStartMs": 753580,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But what about experiments?"
+    } ]
+  }, {
+    "tStartMs": 756940,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Surprisingly, some experiments have actually\nbeen proposed."
+    } ]
+  }, {
+    "tStartMs": 761000,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "Loop quantum gravity seems to predict that\nthe speed of light should depend very slightly"
+    } ]
+  }, {
+    "tStartMs": 767460,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "on the energy of the photon, with, for example,\nhigh-energy gamma rays travelling a wee bit"
+    } ]
+  }, {
+    "tStartMs": 773580,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "slower than low energy radio waves due to\nthe way they propagate through the graininess"
+    } ]
+  }, {
+    "tStartMs": 778780,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "of a loop quantum gravity spacetime."
+    } ]
+  }, {
+    "tStartMs": 782140,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "This was tested in 2009 by looking for differences\nin the arrival time of light from a"
+    } ]
+  }, {
+    "tStartMs": 787140,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "gamma ray burst nearly a billion light years away."
+    } ]
+  }, {
+    "tStartMs": 790420,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "If there was any difference it was barely\nmeasurable, and that doesn't look great for"
+    } ]
+  }, {
+    "tStartMs": 795220,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "loop quantum gravity."
+    } ]
+  }, {
+    "tStartMs": 796980,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Loop quantum gravity is an intriguing alternative\nto the more popular string theory."
+    } ]
+  }, {
+    "tStartMs": 802620,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Both currently live deep in their respective\ntheoretical rabbit-holes, not yet able to"
+    } ]
+  }, {
+    "tStartMs": 807140,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "make experimental contact with the real universe."
+    } ]
+  }, {
+    "tStartMs": 811740,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "But the mathematics have yielded intriguing\nclues to the nature of the fabric of the universe"
+    } ]
+  }, {
+    "tStartMs": 817560,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "– and that nature is very weird."
+    } ]
+  }, {
+    "tStartMs": 820420,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "One way or another, we live in a seriously\nloopy space time."
+    } ]
+  }, {
+    "tStartMs": 826180,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "As always, a huge thanks to our Patreon contributors."
+    } ]
+  }, {
+    "tStartMs": 829460,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Your help makes an enormous difference."
+    } ]
+  }, {
+    "tStartMs": 832300,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "Today I want to give an extra special\nthanks to David Barnholdt, a new Big Bang"
+    } ]
+  }, {
+    "tStartMs": 837680,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "level supporter."
+    } ]
+  }, {
+    "tStartMs": 838960,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "David, we already spent all of your money\n... on aspirin, after loop quantum gravity"
+    } ]
+  }, {
+    "tStartMs": 843960,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "broke our brains."
+    } ]
+  }, {
+    "tStartMs": 845420,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Honestly, we can't thank you enough."
+    } ]
+  }, {
+    "tStartMs": 847780,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Though it does still hurt a bit."
+    } ]
+  }, {
+    "tStartMs": 849560,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Now, last time we talked about Black Hole Harmonics,\nlet's see what you had to say."
+    } ]
+  }, {
+    "tStartMs": 855180,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "David Bennack likes the idea of gravitational\nlensing of gravitational waves. Well so do I, David."
+    } ]
+  }, {
+    "tStartMs": 860620,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "But first the context: this year LIGO detected\ntwo black hole merger signals within 20 minutes"
+    } ]
+  }, {
+    "tStartMs": 866600,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "of each other and in similar patches of the\nsky."
+    } ]
+  }, {
+    "tStartMs": 870120,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Now, it's really really really hard to come up with a\nscenario for two actual black hole pairs to"
+    } ]
+  }, {
+    "tStartMs": 875240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "colliding at the same time in the same general\nlocation."
+    } ]
+  }, {
+    "tStartMs": 878400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "An alternative possibility is that it was\njust one black hole merger, but the gravitational"
+    } ]
+  }, {
+    "tStartMs": 883200,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "wave from it was deflected by a galaxy or\nsomething on its way to us - it was gravitationally"
+    } ]
+  }, {
+    "tStartMs": 889420,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "lensed so as to arrive via two separate paths\nthrough space."
+    } ]
+  }, {
+    "tStartMs": 893800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "If those paths were different lengths we'd\nsee the same signal separated by a small time delay."
+    } ]
+  }, {
+    "tStartMs": 899160,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "We do see this effect in the light from gravitationally\nlensed quasars and supernovae."
+    } ]
+  }, {
+    "tStartMs": 903820,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Gravitational waves should be lensed in the\nsame way as light, so it's a plausible explanation."
+    } ]
+  }, {
+    "tStartMs": 909680,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "But in the case of this particular example it's\nnot really the favored explanation - the signals"
+    } ]
+  }, {
+    "tStartMs": 915040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "don't look like they were from quite the same\nlocation after all, and they were different"
+    } ]
+  }, {
+    "tStartMs": 919000,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "enough not to have been the same source."
+    } ]
+  }, {
+    "tStartMs": 922080,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Still, we'll probably see a lensed gravitational\nwave at some point."
+    } ]
+  }, {
+    "tStartMs": 926220,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "I talked about the maximum rate of spin of\na back hole, and so Lucas rightly"
+    } ]
+  }, {
+    "tStartMs": 932620,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "asks how fast is that maximum rate?"
+    } ]
+  }, {
+    "tStartMs": 935840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So there's a limit to the rotation of a black\nhole which comes from the fact that the outward"
+    } ]
+  }, {
+    "tStartMs": 941040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "centrifugal force of rotation partially counters\nthe gravitatinally attraction -"
+    } ]
+  }, {
+    "tStartMs": 946720,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "if you'll forgive my crude Newtonian speak."
+    } ]
+  }, {
+    "tStartMs": 949800,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "If the black hole rotates more than a certain\namount then the event horizon evaporates,"
+    } ]
+  }, {
+    "tStartMs": 955900,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "exposing the singularity to the universe - or\nin the case of a rotating black hole, an infinite"
+    } ]
+  }, {
+    "tStartMs": 961180,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "density ring."
+    } ]
+  }, {
+    "tStartMs": 962960,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Such naked singularities are expected to be\nimpossible, and so we expect a maximum rotation"
+    } ]
+  }, {
+    "tStartMs": 968580,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "rate for black holes. The details of all\nthis need their own episode, so"
+    } ]
+  }, {
+    "tStartMs": 973920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I'll leave it at that."
+    } ]
+  }, {
+    "tStartMs": 976120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "A few of you asked a really on-point question:\nif the fabric of space and time can be stretched"
+    } ]
+  }, {
+    "tStartMs": 981160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and if can have waves, that means it must\nhave a sort of elasticity and resistance to"
+    } ]
+  }, {
+    "tStartMs": 985600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "stretching."
+    } ]
+  }, {
+    "tStartMs": 986620,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So just how resilient is the fabric of spacetime?"
+    } ]
+  }, {
+    "tStartMs": 989460,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Well, the answer lies in the Einstein field equation\nof general relativity"
+    } ]
+  }, {
+    "tStartMs": 993040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "That equation says that the amount stretching\nof spacetime is proportional to the mass and"
+    } ]
+  }, {
+    "tStartMs": 997880,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and energy contained by that spacetime."
+    } ]
+  }, {
+    "tStartMs": 1000220,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "The constant of proportionality can be thought\nof as the tensile strength of space -"
+    } ]
+  }, {
+    "tStartMs": 1005280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "the resistance to stretching."
+    } ]
+  }, {
+    "tStartMs": 1007600,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The smaller the number, the more energy is\nneeded to stretch spacetime."
+    } ]
+  }, {
+    "tStartMs": 1011740,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "And that constant is very, very small - 2\nby 10^-43."
+    } ]
+  }, {
+    "tStartMs": 1018320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Spacetime is a very, very stiff fabric."
+    } ]
+  }, {
+    "tStartMs": 1021320,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "A few of you noticed we missed a huge opportunity\nby not calling quasinormal modes quasimodos."
+    } ]
+  }, {
+    "tStartMs": 1027860,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Especially given that I kept saying a struck black\nhole rings like a bell."
+    } ]
+  }, {
+    "tStartMs": 1032140,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I had a hunch someone would notice that. Notre Damn."
+    } ]
+  } ]
+}

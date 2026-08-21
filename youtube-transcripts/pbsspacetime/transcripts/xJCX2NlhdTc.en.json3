@@ -1,0 +1,943 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Every astronomy textbook tells us that soon after the Big Bang there was this period"
+    } ]
+  }, {
+    "tStartMs": 4820,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "of exponentially accelerating expansion called Cosmic Inflation."
+    } ]
+  }, {
+    "tStartMs": 9440,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "In a tiny fraction of a second, inflationary expansion multiplied the size of the universe"
+    } ]
+  }, {
+    "tStartMs": 14760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "by a larger factor than in the following 13 and a half billion years of regular expansion."
+    } ]
+  }, {
+    "tStartMs": 20980,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "This story seems like a bit of a..."
+    } ]
+  }, {
+    "tStartMs": 23100,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "...stretch."
+    } ]
+  }, {
+    "tStartMs": 24420,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Is there really any mechanism that could cause something like this to happen?"
+    } ]
+  }, {
+    "tStartMs": 28780,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Well, that's what we're covering today: the real physics of cosmic inflation."
+    } ]
+  }, {
+    "tStartMs": 39480,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Most cosmologists buy some variation of the inflation hypothesis."
+    } ]
+  }, {
+    "tStartMs": 43820,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "It seems to have very neatly solve some of the biggest questions in cosmology,"
+    } ]
+  }, {
+    "tStartMs": 48340,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "those being: why is matter and energy so smoothly spread out across the entire observable universe?"
+    } ]
+  }, {
+    "tStartMs": 55000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "- and why is the geometry of the universe so flat?"
+    } ]
+  }, {
+    "tStartMs": 58780,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Neither should be expected unless the universe expanded much more rapidly early on."
+    } ]
+  }, {
+    "tStartMs": 64540,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Another problem fixed by inflation is the absence of magnetic monopoles."
+    } ]
+  }, {
+    "tStartMs": 69660,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "And these are strange particles predicted to have been produced in the early universe."
+    } ]
+  }, {
+    "tStartMs": 74520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "We'll come back to those another time."
+    } ]
+  }, {
+    "tStartMs": 77140,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "The inflation hypothesis solves these problems with a single simple idea."
+    } ]
+  }, {
+    "tStartMs": 82360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "In addition, inflation gives us an explanation for why the universe is expanding in the first place."
+    } ]
+  }, {
+    "tStartMs": 88760,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "It puts the 'bang' in Big Bang."
+    } ]
+  }, {
+    "tStartMs": 91740,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "After the exponential expansion ended the universe would have continued to coast outwards just like a thrown ball"
+    } ]
+  }, {
+    "tStartMs": 98840,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "continues to rise after it leaves your hand. This is the Hubble expansion that we observe today."
+    } ]
+  }, {
+    "tStartMs": 104980,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Inflation trades four mysteries for one: the problems of smoothness,"
+    } ]
+  }, {
+    "tStartMs": 109920,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "flatness, missing monopoles, and expansion are all solved if we assume a single phenomenon."
+    } ]
+  }, {
+    "tStartMs": 116340,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "But physicists are a skeptical bunch and most of the time they don't just make up stories and start believing them without good reason."
+    } ]
+  }, {
+    "tStartMs": 124820,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Especially something as extravagant as inflation."
+    } ]
+  }, {
+    "tStartMs": 129160,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "For a hypothesis like this to be taken seriously, the physics also has to make sense."
+    } ]
+  }, {
+    "tStartMs": 134540,
+    "dDurationMs": 8660,
+    "segs": [ {
+      "utf8": "In the case of inflation part of the appeal is that it fits extremely nicely into our modern understanding of gravity and quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 143200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Let's dig into each of these one at a time."
+    } ]
+  }, {
+    "tStartMs": 146940,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "First up, the equations of Einstein's general theory of relativity."
+    } ]
+  }, {
+    "tStartMs": 151560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Our modern theory of gravity can be used to predict the behavior of the universe as a whole."
+    } ]
+  }, {
+    "tStartMs": 157000,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "They describe how its expansion or contraction depend on the matter and energy it contains."
+    } ]
+  }, {
+    "tStartMs": 163020,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Mostly, the stuff in the universe pulls the universe back together;"
+    } ]
+  }, {
+    "tStartMs": 166940,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "resists the expansion with a positive gravitational effect."
+    } ]
+  }, {
+    "tStartMs": 170720,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "But there's one type of energy that can have an anti gravitational effect."
+    } ]
+  }, {
+    "tStartMs": 174940,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Anything that causes the fabric of space itself to have energy -"
+    } ]
+  }, {
+    "tStartMs": 179160,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "anything that has a constant energy density pushes rather than pulls."
+    } ]
+  }, {
+    "tStartMs": 184680,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Now, we know that something like this exists because we've observed it in the accelerating expansion"
+    } ]
+  }, {
+    "tStartMs": 191760,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "produced by dark energy."
+    } ]
+  }, {
+    "tStartMs": 193780,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "We've covered how this works for dark energy"
+    } ]
+  }, {
+    "tStartMs": 196880,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "in a lot of detail. Check out the playlist if you want to get an insight into the actual math."
+    } ]
+  }, {
+    "tStartMs": 203300,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But the upshot is that if the vacuum of space has a constant energy density,"
+    } ]
+  }, {
+    "tStartMs": 208020,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "then Einstein's equations end up having a term that we call the cosmological constant -"
+    } ]
+  }, {
+    "tStartMs": 213580,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "A positive value for the cosmological constant means a constant doubling rate for the size of the universe."
+    } ]
+  }, {
+    "tStartMs": 219620,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "That means exponential expansion."
+    } ]
+  }, {
+    "tStartMs": 222420,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "The speed of that exponential expansion depends on the strength of the vacuum energy density."
+    } ]
+  }, {
+    "tStartMs": 228240,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "For dark energy, that number is incredibly small and so dark energy only works"
+    } ]
+  }, {
+    "tStartMs": 233640,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "because it adds up over an enormous amount of space. On the other hand, in order to solve the"
+    } ]
+  }, {
+    "tStartMs": 240220,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "smoothness, flatness, and monopole problems"
+    } ]
+  }, {
+    "tStartMs": 243060,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "inflation needs to expand the universe by"
+    } ]
+  }, {
+    "tStartMs": 246480,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "a factor of 10 to the power of 25 in less than 10 to the power of negative 30 seconds."
+    } ]
+  }, {
+    "tStartMs": 253600,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "To do this, the energy density of the vacuum during inflation would need to be vastly"
+    } ]
+  }, {
+    "tStartMs": 259260,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "stronger than dark energy. Also, for inflation to make sense"
+    } ]
+  }, {
+    "tStartMs": 263480,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "presumably the universe also needed to stop inflating at some point giving way to"
+    } ]
+  }, {
+    "tStartMs": 268900,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "the regular Hubble expansion that we see today."
+    } ]
+  }, {
+    "tStartMs": 272360,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "So, the vacuum energy would need to drop from a very high value to basically zero."
+    } ]
+  }, {
+    "tStartMs": 278180,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "To see how this could happen we need to move beyond Einstein's general relativity."
+    } ]
+  }, {
+    "tStartMs": 282780,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "We need some quantum physics. In fact, we need some quantum field theory."
+    } ]
+  }, {
+    "tStartMs": 288140,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "QFT can explain how a vacuum can have energy, which - surprise surprise - we also covered in a playlist."
+    } ]
+  }, {
+    "tStartMs": 295360,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "There's some more homework for you. For now, a review: the universe is filled with quantum fields."
+    } ]
+  }, {
+    "tStartMs": 302120,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Now, a field is just some property that takes on a numerical value at every point in space."
+    } ]
+  }, {
+    "tStartMs": 307340,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "We call that the \"field strength\"."
+    } ]
+  }, {
+    "tStartMs": 309980,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "The field strength determines how much force a quantum field exerts on other fields and particles."
+    } ]
+  }, {
+    "tStartMs": 316820,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "A familiar example is the magnetic field. The stronger the field, the more it pulls or pushes."
+    } ]
+  }, {
+    "tStartMs": 322880,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "By the way,"
+    } ]
+  }, {
+    "tStartMs": 323740,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "an elementary particle is just an oscillation in this field strength - a little packet of energy"
+    } ]
+  }, {
+    "tStartMs": 329080,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "held by the field. If a quantum field has energy in the form of particles and if space is"
+    } ]
+  }, {
+    "tStartMs": 335060,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "expanding - as is the case for our universe - then that energy gets more and more spread out over time."
+    } ]
+  }, {
+    "tStartMs": 341060,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Particles get dispersed"
+    } ]
+  }, {
+    "tStartMs": 342220,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and so the energy density goes down."
+    } ]
+  }, {
+    "tStartMs": 345240,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "A quantum field can contain an intrinsic energy even without particles. In that case,"
+    } ]
+  }, {
+    "tStartMs": 350940,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "it will always try to drop to the lowest energy state and typically that means"
+    } ]
+  }, {
+    "tStartMs": 355340,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "losing all energy besides whatever is bound up in particles. For example, a magnetic field will quickly fade away"
+    } ]
+  }, {
+    "tStartMs": 362700,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "if we take away the electric currents that created it."
+    } ]
+  }, {
+    "tStartMs": 365840,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Now, a field doesn't just jump to the lowest energy state,"
+    } ]
+  }, {
+    "tStartMs": 368980,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "it makes its way there by changing the field strength one step at a time."
+    } ]
+  }, {
+    "tStartMs": 374220,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "If we graph a quantum field potential energy versus field strength, it might look something like this:"
+    } ]
+  }, {
+    "tStartMs": 381660,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "If the field finds itself at a high energy - high field strength state, it'll sort of roll down to the minimum and stay there."
+    } ]
+  }, {
+    "tStartMs": 389400,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "And by the way, the lowest energy state of a field is called its vacuum state."
+    } ]
+  }, {
+    "tStartMs": 395160,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "But sometimes, the energy contained by a field has a more complex relationship with the field strength."
+    } ]
+  }, {
+    "tStartMs": 402780,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "I'm gonna have to save the how and why of these potential energy curves for another video."
+    } ]
+  }, {
+    "tStartMs": 407880,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "For now, let's just go with it. One possibility is that the field could have what we call a local energy minimum."
+    } ]
+  }, {
+    "tStartMs": 415060,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "If such a quantum field found itself near that local minimum"
+    } ]
+  }, {
+    "tStartMs": 418880,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "then it would roll to the bottom and get stuck there."
+    } ]
+  }, {
+    "tStartMs": 422420,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "It would have a lot of energy but no particles."
+    } ]
+  }, {
+    "tStartMs": 426100,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "We would call this a false vacuum and it gives us exactly the constant vacuum energy density"
+    } ]
+  }, {
+    "tStartMs": 432040,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "needed for inflation."
+    } ]
+  }, {
+    "tStartMs": 433860,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "There are other ways for a field to end up with a positive vacuum energy density and I'll come back to these."
+    } ]
+  }, {
+    "tStartMs": 439780,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "But for now, let's just assume that such a field exists and give it a name: \"the inflaton field\"."
+    } ]
+  }, {
+    "tStartMs": 446980,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "The original idea for inflation proposed by Alan Guth in 1979 goes something like this:"
+    } ]
+  }, {
+    "tStartMs": 454640,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "In the early universe this mysterious in flattened field has a high field strength due to the extreme"
+    } ]
+  }, {
+    "tStartMs": 460860,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "temperatures of that time. As the universe cools the field loses strength and energy."
+    } ]
+  }, {
+    "tStartMs": 466580,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But then, it gets stuck in this local energy minima."
+    } ]
+  }, {
+    "tStartMs": 470400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The universe keeps cooling, but the inflaton field can't lose more strength."
+    } ]
+  }, {
+    "tStartMs": 474780,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It would have to get over this potential energy barrier to do that."
+    } ]
+  }, {
+    "tStartMs": 479380,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Stuck at a constant very high energy density,"
+    } ]
+  }, {
+    "tStartMs": 482300,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "inflation takes hold; the exponential nature of inflation quickly blows up the volume of the universe,"
+    } ]
+  }, {
+    "tStartMs": 488700,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "rendering it, basically, empty and cools it to a low temperature. In fact, it super cools the inflaton field."
+    } ]
+  }, {
+    "tStartMs": 496900,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "The field remains in a vacuum state that doesn't matches temperature - in the same way that water can become a supercooled liquid,"
+    } ]
+  }, {
+    "tStartMs": 504100,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "much colder than ice. If you cool it prevent ice crystals from forming."
+    } ]
+  }, {
+    "tStartMs": 509100,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Inflation and the corresponding super cooling would go on forever"
+    } ]
+  }, {
+    "tStartMs": 513700,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "if the inflaton field stays stuck. But quantum fields have a tendency to randomly fluctuate to different values,"
+    } ]
+  }, {
+    "tStartMs": 520960,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "thanks to the Heisenberg uncertainty principle."
+    } ]
+  }, {
+    "tStartMs": 523420,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Somewhere in the inflating universe,"
+    } ]
+  }, {
+    "tStartMs": 525800,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "the inflaton field is going to fluctuate to the other side of this local minimum barrier."
+    } ]
+  }, {
+    "tStartMs": 531140,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "It's going to quantum tunnel and on that other side, it sees a deeper truer minimum -"
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "perhaps the true vacuum state - and suddenly starts to lose energy again racing towards that minimum."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Inflation would stop at that point."
+    } ]
+  }, {
+    "tStartMs": 547160,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Regions of space adjacent to that point would also be dragged out of the local minimum"
+    } ]
+  }, {
+    "tStartMs": 551980,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "towards the true vacuum and so the entire inflaton field would cascade down in energy."
+    } ]
+  }, {
+    "tStartMs": 558320,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "The analogy with supercooled water still works."
+    } ]
+  }, {
+    "tStartMs": 561900,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "Introduce an ice crystal or even a speck of dust to the water and it will quickly turn to ice. Now, that's a phase transition."
+    } ]
+  }, {
+    "tStartMs": 570060,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "The inflaton field also undergoes a phase transition"
+    } ]
+  }, {
+    "tStartMs": 573680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "towards the new vacuum state."
+    } ]
+  }, {
+    "tStartMs": 575800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And just like a growing ice crystal,"
+    } ]
+  }, {
+    "tStartMs": 578800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "this effect will propagate outwards from the starting point, which we call a nucleation point, by analogy."
+    } ]
+  }, {
+    "tStartMs": 586220,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "This bubble would grow into the surrounding inflating regions at the speed of light."
+    } ]
+  }, {
+    "tStartMs": 590760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And inside the bubble, inflation would end."
+    } ]
+  }, {
+    "tStartMs": 593880,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Inside the bubble, space would still be expanding out whatever speed it had at the end of inflation,"
+    } ]
+  }, {
+    "tStartMs": 599520,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "but that expansion would no longer be exponentially accelerating."
+    } ]
+  }, {
+    "tStartMs": 604800,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "The energy that existed in the inflaton field doesn't just go away,"
+    } ]
+  }, {
+    "tStartMs": 609660,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "it remains in that field very briefly, but now in the form of inflaton particles."
+    } ]
+  }, {
+    "tStartMs": 614940,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It's like the entire floor of the field is shifted down at every point in space;"
+    } ]
+  }, {
+    "tStartMs": 619740,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "what was once pure inflaton field is converted to a stack of inflaton particles."
+    } ]
+  }, {
+    "tStartMs": 626020,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Those particles are unstable and they very quickly"
+    } ]
+  }, {
+    "tStartMs": 629220,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "disperse their energy into the other quantum fields. The inflatons decay into the familiar particles of the standard model"
+    } ]
+  }, {
+    "tStartMs": 636900,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "- quarks, electrons, etc."
+    } ]
+  }, {
+    "tStartMs": 639200,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "So, the vacuum of inflation is converted into an extremely hot ocean of particles."
+    } ]
+  }, {
+    "tStartMs": 644780,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "We say the universe was 'rethermalized' or reheated by this process."
+    } ]
+  }, {
+    "tStartMs": 650700,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "In fact, this process would reheat the universe to the extreme energies that we expect existed right after the Big Bang."
+    } ]
+  }, {
+    "tStartMs": 659040,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "At this point, the universe should evolve as the rest of the Big Bang story predicts:"
+    } ]
+  }, {
+    "tStartMs": 664040,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "An extremely hot dense ocean of matter and radiation that slowly cools"
+    } ]
+  }, {
+    "tStartMs": 668380,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and disperses and forms structure as the universe expands."
+    } ]
+  }, {
+    "tStartMs": 672960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This is the rough sequence laid out in Alan Guth's original paper."
+    } ]
+  }, {
+    "tStartMs": 677700,
+    "dDurationMs": 8600,
+    "segs": [ {
+      "utf8": "But, right from the start Guth admits a number of problems with his story. The big one is about how inflation stops."
+    } ]
+  }, {
+    "tStartMs": 686300,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "See, when these non inflating bubbles form, all of the energy gets released at their boundaries;"
+    } ]
+  }, {
+    "tStartMs": 692720,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "their expanding spherical fire walls - that are otherwise empty - which isn't exactly what our universe looks like."
+    } ]
+  }, {
+    "tStartMs": 700320,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "The only way to get the sort of evenly distributed temperature we see in the Cosmic Microwave Background,"
+    } ]
+  }, {
+    "tStartMs": 706640,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "is if lots of these bubbles collide and then have time to mix."
+    } ]
+  }, {
+    "tStartMs": 711000,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "But in order for inflation to last long enough to do its job, the probability for the appearance of a bubble"
+    } ]
+  }, {
+    "tStartMs": 717610,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "can't be too high and that rules out sufficient collisions."
+    } ]
+  }, {
+    "tStartMs": 722380,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "The upshot is that the lumpiness of the CMB is not consistent with lots of colliding bubbles."
+    } ]
+  }, {
+    "tStartMs": 729100,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Guth's idea is now called old inflation."
+    } ]
+  }, {
+    "tStartMs": 732440,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "It solved several problems in cosmology and it also inspired other physicists to find even better solutions,"
+    } ]
+  }, {
+    "tStartMs": 739100,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "mostly by changing the nature of the in flattened field"
+    } ]
+  }, {
+    "tStartMs": 741980,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "so that allows a smooth exit from inflation across the universe rather than in a series of bubbles."
+    } ]
+  }, {
+    "tStartMs": 748900,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "bThese new inflation models are much more successful and we'll get into them in an upcoming episode."
+    } ]
+  }, {
+    "tStartMs": 754680,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "But, by delving deeper into the physics of inflation, physicists discovered some pretty crazy predictions."
+    } ]
+  }, {
+    "tStartMs": 761640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "If inflation happened at all, that it's hard to avoid two conclusions:"
+    } ]
+  }, {
+    "tStartMs": 766300,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Once started,"
+    } ]
+  }, {
+    "tStartMs": 767460,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "inflation should continue..."
+    } ]
+  }, {
+    "tStartMs": 769900,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "eternally -"
+    } ]
+  }, {
+    "tStartMs": 771080,
+    "dDurationMs": 8020,
+    "segs": [ {
+      "utf8": "Only stopping in patches where a bubble universe forms. And once started, inflation should produce infinite such universes."
+    } ]
+  }, {
+    "tStartMs": 779480,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "But these will have to wait for a follow-up episode"
+    } ]
+  }, {
+    "tStartMs": 783260,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "when we step into the multiverse of an infinitely inflating..."
+    } ]
+  }, {
+    "tStartMs": 788180,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Space Time."
+    } ]
+  } ]
+}

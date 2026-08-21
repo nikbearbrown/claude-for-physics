@@ -1,0 +1,1591 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 89,
+    "dDurationMs": 2391,
+    "segs": [ {
+      "utf8": "That Einstein guy had some pretty wacky ideas."
+    } ]
+  }, {
+    "tStartMs": 2480,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Black holes, gravitational waves, he was even the first to realize that friggin lasers could"
+    } ]
+  }, {
+    "tStartMs": 7170,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "be a thing."
+    } ]
+  }, {
+    "tStartMs": 8340,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "But that all came later."
+    } ]
+  }, {
+    "tStartMs": 9680,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Way back in 1905, when Einstein was just getting started - he was already rocking our understanding"
+    } ]
+  }, {
+    "tStartMs": 14210,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "of the universe with his special theory of\nrelativity."
+    } ]
+  }, {
+    "tStartMs": 17400,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "The theory started with the simple assumption that the speed of light was the fastest speed"
+    } ]
+  }, {
+    "tStartMs": 21279,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "possible, and that all observers should measure the same speed of light, regardless of their"
+    } ]
+  }, {
+    "tStartMs": 25440,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "velocities."
+    } ]
+  }, {
+    "tStartMs": 26940,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "But from that can the inevitable conclusion that space and time themselves were relative - depended"
+    } ]
+  }, {
+    "tStartMs": 32230,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "on the velocity of the observer."
+    } ]
+  }, {
+    "tStartMs": 34260,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "The result?"
+    } ]
+  }, {
+    "tStartMs": 35300,
+    "dDurationMs": 2618,
+    "segs": [ {
+      "utf8": "A cascade of seeming paradoxes."
+    } ]
+  }, {
+    "tStartMs": 43190,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Today we’re going to delve into a couple\nof the most famous paradoxes of special relativity"
+    } ]
+  }, {
+    "tStartMs": 46780,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "and see why, against our intuition, the universe really does work in this seemingly nonsensical"
+    } ]
+  }, {
+    "tStartMs": 52550,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "way."
+    } ]
+  }, {
+    "tStartMs": 53550,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "But the point of this episode is to go much\nfurther - we’re going to try to break the"
+    } ]
+  }, {
+    "tStartMs": 57720,
+    "dDurationMs": 3499,
+    "segs": [ {
+      "utf8": "universe by pushing these paradoxes beyond the limit."
+    } ]
+  }, {
+    "tStartMs": 61219,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Let’s lay some relativistic groundwork."
+    } ]
+  }, {
+    "tStartMs": 64059,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "Say we have a spaceship traveling from Earth to a nearby star at a good fraction of the"
+    } ]
+  }, {
+    "tStartMs": 68429,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "speed of light."
+    } ]
+  }, {
+    "tStartMs": 69659,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "Special relativity tells us that the clocks\non the spaceship will appear to tick more"
+    } ]
+  }, {
+    "tStartMs": 73530,
+    "dDurationMs": 3509,
+    "segs": [ {
+      "utf8": "slowly from the point of view of a stationary\nobserver back on the Earth."
+    } ]
+  }, {
+    "tStartMs": 77039,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "This is called time dilation."
+    } ]
+  }, {
+    "tStartMs": 78740,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "And the spaceship would also appear squished in the direction of its motion in what we"
+    } ]
+  }, {
+    "tStartMs": 82459,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "call length contraction."
+    } ]
+  }, {
+    "tStartMs": 83789,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "But in relativity, every non-accelerating\nframe of reference should be considered equal."
+    } ]
+  }, {
+    "tStartMs": 88009,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "The spaceship can think of itself as stationary - it perceives the Earth as racing away from"
+    } ]
+  }, {
+    "tStartMs": 92210,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "it and its destination star racing towards it."
+    } ]
+  }, {
+    "tStartMs": 95479,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "That means it sees clocks back on the Earth ticking more slowly, and the Earth and the"
+    } ]
+  }, {
+    "tStartMs": 99439,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "distance traveled being squished."
+    } ]
+  }, {
+    "tStartMs": 102119,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "These seeming contradictions only become paradoxes if the different observers - on the spaceship"
+    } ]
+  }, {
+    "tStartMs": 107249,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "and on Earth - can compare the results of\nan experiment and get unresolvable conflicts."
+    } ]
+  }, {
+    "tStartMs": 112029,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "For example, there IS a disagreement between the astronaut and an observer back on Earth"
+    } ]
+  }, {
+    "tStartMs": 117539,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "about the relative passage of time and the\ndistance traveled - but those aren’t paradoxes"
+    } ]
+  }, {
+    "tStartMs": 122270,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "because both agree about when the astronaut arrives at their destination, and how much"
+    } ]
+  }, {
+    "tStartMs": 127119,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "they age on that journey."
+    } ]
+  }, {
+    "tStartMs": 128840,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "The observer on Earth thinks the astronaut’s clock ticked slow, but the astronaut thinks"
+    } ]
+  }, {
+    "tStartMs": 133140,
+    "dDurationMs": 4429,
+    "segs": [ {
+      "utf8": "they traveled a shorter distance - and the two conspire to give the same age for the"
+    } ]
+  }, {
+    "tStartMs": 137569,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "astronaut on arrival."
+    } ]
+  }, {
+    "tStartMs": 138739,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Let me give you an example of a trickier apparent paradox."
+    } ]
+  }, {
+    "tStartMs": 143329,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "Imagine our spaceship can travel very, very\nclose to the speed of light."
+    } ]
+  }, {
+    "tStartMs": 146730,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "So close that the distance across the entire\nuniverse contracts to a size smaller than"
+    } ]
+  }, {
+    "tStartMs": 152030,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the spaceship itself."
+    } ]
+  }, {
+    "tStartMs": 153030,
+    "dDurationMs": 5849,
+    "segs": [ {
+      "utf8": "Let’s also imagine that we live in a\nclosed universe - one that loops back on itself,"
+    } ]
+  }, {
+    "tStartMs": 158879,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "so by traveling far enough you can get back\nto where you started."
+    } ]
+  }, {
+    "tStartMs": 161659,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "In the frame of a spaceship moving at near\nlight-speed, the universe could contract to"
+    } ]
+  }, {
+    "tStartMs": 165760,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "the point that the spaceship wraps all the\nway around and its nose smashes into its tail,"
+    } ]
+  }, {
+    "tStartMs": 170879,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "presumably puncturing the matter-antimatter tanks and destroying the ship."
+    } ]
+  }, {
+    "tStartMs": 174239,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "But in the frame of a stationary observer,\nthe ship is just moving ridiculously fast,"
+    } ]
+  }, {
+    "tStartMs": 178830,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "and doesn’t destroy itself."
+    } ]
+  }, {
+    "tStartMs": 180730,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "That would be an unresolvable conflict in\nthe observations - a paradox."
+    } ]
+  }, {
+    "tStartMs": 185340,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "This paradox was actually presented to me\nby one of our Patreon supporters - and it"
+    } ]
+  }, {
+    "tStartMs": 190450,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "stumped me for a while."
+    } ]
+  }, {
+    "tStartMs": 191900,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "But I think I figured it out."
+    } ]
+  }, {
+    "tStartMs": 193690,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "However the resolution requires us to think\nabout two much more famous paradoxes in relativity"
+    } ]
+  }, {
+    "tStartMs": 198519,
+    "dDurationMs": 3271,
+    "segs": [ {
+      "utf8": "- the twin paradox and the ladder paradox."
+    } ]
+  }, {
+    "tStartMs": 201790,
+    "dDurationMs": 2229,
+    "segs": [ {
+      "utf8": "Let’s start with the twin paradox."
+    } ]
+  }, {
+    "tStartMs": 204019,
+    "dDurationMs": 3531,
+    "segs": [ {
+      "utf8": "One of a pair of twin hops in a spaceship\nand travels at a good fraction of the speed"
+    } ]
+  }, {
+    "tStartMs": 207550,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "of light to a nearby star and then turns around\nand heads back to Earth."
+    } ]
+  }, {
+    "tStartMs": 211360,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "According to the twin back on Earth, his sister’s clock has been ticking slower than his own."
+    } ]
+  }, {
+    "tStartMs": 216980,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "But according to the traveling twin, Earth\nappears to have raced away and then raced"
+    } ]
+  }, {
+    "tStartMs": 221050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "back again."
+    } ]
+  }, {
+    "tStartMs": 222050,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "And during that time she sees her brother’s\nclock ticking slower."
+    } ]
+  }, {
+    "tStartMs": 225480,
+    "dDurationMs": 7890,
+    "segs": [ {
+      "utf8": "So if both perceive the other’s clocks ticking slow, who has experienced less time by the time they reunite?"
+    } ]
+  }, {
+    "tStartMs": 233370,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "The answer is - the astronaut has aged less."
+    } ]
+  }, {
+    "tStartMs": 237079,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The resolution to the paradox lies in the\nfact that the traveling twin hasn’t been"
+    } ]
+  }, {
+    "tStartMs": 241279,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "in a single moving frame of reference, but\nrather in two separate moving frames "
+    } ]
+  }, {
+    "tStartMs": 245719,
+    "dDurationMs": 2261,
+    "segs": [ {
+      "utf8": "- one moving away and one moving towards the Earth."
+    } ]
+  }, {
+    "tStartMs": 247980,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "The best way to see this is on a space-time\ndiagram."
+    } ]
+  }, {
+    "tStartMs": 252010,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "We have time on the y-axis and just one dimension of space on the x."
+    } ]
+  }, {
+    "tStartMs": 255340,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Let’s say we’re in Earth’s reference\nframe so the Earth doesn’t move in space - just"
+    } ]
+  }, {
+    "tStartMs": 259750,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "straight up, which means forward in time."
+    } ]
+  }, {
+    "tStartMs": 262300,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "The spaceship moves in both space and time - first away from the earth and then back"
+    } ]
+  }, {
+    "tStartMs": 266110,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "towards it."
+    } ]
+  }, {
+    "tStartMs": 267110,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "One of the consequences of special relativity is that different observers give different"
+    } ]
+  }, {
+    "tStartMs": 270330,
+    "dDurationMs": 3339,
+    "segs": [ {
+      "utf8": "accounts of what events are simultaneous."
+    } ]
+  }, {
+    "tStartMs": 273669,
+    "dDurationMs": 5451,
+    "segs": [ {
+      "utf8": "On the spacetime diagram, the set of simultaneous events for a motionless observer lie on a"
+    } ]
+  }, {
+    "tStartMs": 279120,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "horizontal line - all events corresponding to your notion of a given tick on the time"
+    } ]
+  }, {
+    "tStartMs": 284030,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "axis."
+    } ]
+  }, {
+    "tStartMs": 285030,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "But someone moving relative to you has a totally different sense of “now”."
+    } ]
+  }, {
+    "tStartMs": 289960,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Their lines of simultaneous events are tilted."
+    } ]
+  }, {
+    "tStartMs": 293530,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "For the details on why this is the case, check\nout this episode."
+    } ]
+  }, {
+    "tStartMs": 297289,
+    "dDurationMs": 4061,
+    "segs": [ {
+      "utf8": "We can use these lines of simultaneity to solve the twin paradox because they allow"
+    } ]
+  }, {
+    "tStartMs": 301350,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "us to track the apparent passage of time back on Earth from the point of view of the astronaut."
+    } ]
+  }, {
+    "tStartMs": 307160,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "She counts every time a new years day happens on Earth according to her calculations."
+    } ]
+  }, {
+    "tStartMs": 312780,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "On the spacetime diagram, that’s whenever\none of these lines of constant time extending"
+    } ]
+  }, {
+    "tStartMs": 316190,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "from January 1st on earth crosses the spaceship’s path - its worldline."
+    } ]
+  }, {
+    "tStartMs": 320870,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "But those lines are tilted due to that motion, and they tilt one way on the outward journey"
+    } ]
+  }, {
+    "tStartMs": 325940,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and the opposite way on the return."
+    } ]
+  }, {
+    "tStartMs": 328550,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "In total, the traveler counts fewer Earth\nyears because she misses some time in the"
+    } ]
+  }, {
+    "tStartMs": 334240,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "middle corresponding to the turn-around point."
+    } ]
+  }, {
+    "tStartMs": 336910,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Those years do happen back on earth, but they don’t correspond to any time point that"
+    } ]
+  }, {
+    "tStartMs": 341120,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "happens to the astronaut."
+    } ]
+  }, {
+    "tStartMs": 342940,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "Ergo, the twin returns younger."
+    } ]
+  }, {
+    "tStartMs": 346229,
+    "dDurationMs": 3742,
+    "segs": [ {
+      "utf8": "Our ultimate question is about a spaceship\ncrashing into itself in a closed universe"
+    } ]
+  }, {
+    "tStartMs": 349971,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "- and trust me we’re getting there."
+    } ]
+  }, {
+    "tStartMs": 351730,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "But baby steps."
+    } ]
+  }, {
+    "tStartMs": 353060,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Let’s first look at the twin paradox in a closed universe."
+    } ]
+  }, {
+    "tStartMs": 356760,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "In that case, the traveling twin would not\nneed to turn around in order to get back to"
+    } ]
+  }, {
+    "tStartMs": 361370,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Earth to compare ages."
+    } ]
+  }, {
+    "tStartMs": 363539,
+    "dDurationMs": 3951,
+    "segs": [ {
+      "utf8": "She could keep traveling in a straight line\nall the way around the universe."
+    } ]
+  }, {
+    "tStartMs": 367490,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "And if she travels in a straight line she\nsticks to a single reference frame."
+    } ]
+  }, {
+    "tStartMs": 371380,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "Both twins still perceive the other’s clock\nto be ticking slower - so which twin is older"
+    } ]
+  }, {
+    "tStartMs": 376830,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "when they reunite?"
+    } ]
+  }, {
+    "tStartMs": 378220,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Again, it’s the traveling twin."
+    } ]
+  }, {
+    "tStartMs": 380600,
+    "dDurationMs": 4059,
+    "segs": [ {
+      "utf8": "But to see why we need a much weirder version of the spacetime diagram."
+    } ]
+  }, {
+    "tStartMs": 384659,
+    "dDurationMs": 3991,
+    "segs": [ {
+      "utf8": "We’re still just doing one dimension of\nspace, but now that dimension loops back on"
+    } ]
+  }, {
+    "tStartMs": 388650,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "itself."
+    } ]
+  }, {
+    "tStartMs": 389650,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "We end up with a spacetime cylinder."
+    } ]
+  }, {
+    "tStartMs": 392080,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "The earth-bound twin moves straight up as\nusual, but the traveling twin now does a single"
+    } ]
+  }, {
+    "tStartMs": 397410,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "loop of a helix to intercept her brother’s\nupward path."
+    } ]
+  }, {
+    "tStartMs": 401960,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "A line of constant time for the former is\njust a circle around the cylinder."
+    } ]
+  }, {
+    "tStartMs": 405759,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "But for the traveling twin “now” takes\non much weirdness."
+    } ]
+  }, {
+    "tStartMs": 410699,
+    "dDurationMs": 6231,
+    "segs": [ {
+      "utf8": "Again, we tilt the line, but on a cylinder\nthat leads to a line of simultaneous events"
+    } ]
+  }, {
+    "tStartMs": 416930,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "that spirals up and down the cylinder as a\nhelix."
+    } ]
+  }, {
+    "tStartMs": 420229,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "The traveling twin declares that multiple\npoints in the stationary twin’s past and"
+    } ]
+  }, {
+    "tStartMs": 424509,
+    "dDurationMs": 3341,
+    "segs": [ {
+      "utf8": "future are all happening in her present."
+    } ]
+  }, {
+    "tStartMs": 427850,
+    "dDurationMs": 3439,
+    "segs": [ {
+      "utf8": "So by traveling around the universe, she’s\nactually traveling towards one of those future"
+    } ]
+  }, {
+    "tStartMs": 431289,
+    "dDurationMs": 1231,
+    "segs": [ {
+      "utf8": "versions."
+    } ]
+  }, {
+    "tStartMs": 432520,
+    "dDurationMs": 4821,
+    "segs": [ {
+      "utf8": "And those future versions are older - by just\nenough to agree with the time dilation that"
+    } ]
+  }, {
+    "tStartMs": 437341,
+    "dDurationMs": 2568,
+    "segs": [ {
+      "utf8": "the stationary twin would calculate."
+    } ]
+  }, {
+    "tStartMs": 439909,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "The traveler returns younger than the stay-at-home\ntwin."
+    } ]
+  }, {
+    "tStartMs": 443599,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "There appears to be a little issue here."
+    } ]
+  }, {
+    "tStartMs": 445669,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "It seems that in this closed universe there\nIS a fundamental difference between frames"
+    } ]
+  }, {
+    "tStartMs": 450159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of reference."
+    } ]
+  }, {
+    "tStartMs": 451159,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "There’s a stationary frame of reference\nwhere lines of constant time are closed loops,"
+    } ]
+  }, {
+    "tStartMs": 455539,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "while in every other frame they are endless\nhelices."
+    } ]
+  }, {
+    "tStartMs": 458919,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "Doesn’t that violate the fundamental tenet\nof relativity?"
+    } ]
+  }, {
+    "tStartMs": 463810,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Actually, no."
+    } ]
+  }, {
+    "tStartMs": 465729,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Relativity tells us that there’s not a preferred LOCAL frame of reference."
+    } ]
+  }, {
+    "tStartMs": 470379,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But the universe as a whole can have a special frame."
+    } ]
+  }, {
+    "tStartMs": 474379,
+    "dDurationMs": 5641,
+    "segs": [ {
+      "utf8": "In the case of the closed universe, that closed topology DOES pick out a special frame - it’s"
+    } ]
+  }, {
+    "tStartMs": 480020,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the one with these closed constant time loops."
+    } ]
+  }, {
+    "tStartMs": 482300,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Our own universe also has a special frame\n- whether it’s closed or infinite."
+    } ]
+  }, {
+    "tStartMs": 486250,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "That’s the frame of reference in which the\ncosmic microwave background appears still"
+    } ]
+  }, {
+    "tStartMs": 490520,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "- or un-Doppler-shifted."
+    } ]
+  }, {
+    "tStartMs": 491599,
+    "dDurationMs": 3141,
+    "segs": [ {
+      "utf8": "Ok, enough with the twin paradox."
+    } ]
+  }, {
+    "tStartMs": 494740,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "We need one more paradox before we can wrap this up."
+    } ]
+  }, {
+    "tStartMs": 497870,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "Let’s zoom in from the whole universe to\njust a simple barn and a simple ladder."
+    } ]
+  }, {
+    "tStartMs": 502789,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "This is the famous ladder paradox."
+    } ]
+  }, {
+    "tStartMs": 504540,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Our ladder is slightly longer than our barn,\nso if we move the ladder through the barn"
+    } ]
+  }, {
+    "tStartMs": 508950,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "at least one end always sticks out."
+    } ]
+  }, {
+    "tStartMs": 511290,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "Remember, length contraction causes moving\nobjects to appear foreshortened in the direction"
+    } ]
+  }, {
+    "tStartMs": 515200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of motion."
+    } ]
+  }, {
+    "tStartMs": 516200,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "So if you move the ladder through the barn\nat a significant fraction of the speed of"
+    } ]
+  }, {
+    "tStartMs": 519380,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "light, then to someone standing still relative\nto the barn the ladder may be length-contracted"
+    } ]
+  }, {
+    "tStartMs": 524690,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "enough to fit in the barn."
+    } ]
+  }, {
+    "tStartMs": 526350,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "We’ll also open and close the barn doors,\ntimed so that the ladder has just enough time"
+    } ]
+  }, {
+    "tStartMs": 531130,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "to pass through each."
+    } ]
+  }, {
+    "tStartMs": 532320,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "At some point, the ladder appears to be inside the barn with both doors closed."
+    } ]
+  }, {
+    "tStartMs": 537010,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Let’s switch to the point of view of someone moving with the ladder."
+    } ]
+  }, {
+    "tStartMs": 540360,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "They perceive the barn to be moving so the\nbarn is shortened."
+    } ]
+  }, {
+    "tStartMs": 544280,
+    "dDurationMs": 5084,
+    "segs": [ {
+      "utf8": "If the ladder didn’t fit in the barn to\nstart with, it most certainly doesn’t fit now."
+    } ]
+  }, {
+    "tStartMs": 549364,
+    "dDurationMs": 3576,
+    "segs": [ {
+      "utf8": "One observer says the ladder fits, the other\nsays no."
+    } ]
+  }, {
+    "tStartMs": 552940,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "The solution to the ladder paradox also relies on the relativity of simultaneity."
+    } ]
+  }, {
+    "tStartMs": 558500,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "In this case, the different observers disagree on when the ends of the ladder enter and exit"
+    } ]
+  }, {
+    "tStartMs": 563350,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the barn."
+    } ]
+  }, {
+    "tStartMs": 564350,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "In the frame of the barn, there’s this single\ninstant when the base of the ladder has just"
+    } ]
+  }, {
+    "tStartMs": 569910,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "entered the barn and the front of the ladder\nis just about to exit, but the door hasn’t"
+    } ]
+  }, {
+    "tStartMs": 576210,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "opened yet."
+    } ]
+  }, {
+    "tStartMs": 577210,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "But in the ladder’s frame, those two events\nare NOT simultaneous."
+    } ]
+  }, {
+    "tStartMs": 581600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The ladder’s observer perceives the front\nof the ladder exiting the barn before the"
+    } ]
+  }, {
+    "tStartMs": 585920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "base enters."
+    } ]
+  }, {
+    "tStartMs": 586920,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Again, the best way to see this is on a spacetime diagram."
+    } ]
+  }, {
+    "tStartMs": 590730,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This is in the barn’s frame."
+    } ]
+  }, {
+    "tStartMs": 593130,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "The doors of the barn are a certain separation apart in space - solid lines in the diagram."
+    } ]
+  }, {
+    "tStartMs": 599180,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "We’ll open gaps to indicate the period when the doors are open."
+    } ]
+  }, {
+    "tStartMs": 603580,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "The ladder also has a certain length in the\nspatial direction - initially longer than"
+    } ]
+  }, {
+    "tStartMs": 608330,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "the barn, but when the ladder starts moving\nit shortens so that it neatly fits inside"
+    } ]
+  }, {
+    "tStartMs": 613120,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "the barn before emerging again."
+    } ]
+  }, {
+    "tStartMs": 614890,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "But the ladder sees things differently."
+    } ]
+  }, {
+    "tStartMs": 617430,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "The ladder’s sense of “simultaneous”\nis represented by these sloped lines."
+    } ]
+  }, {
+    "tStartMs": 622790,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "Those lines are the x-axis in the ladder’s\nframe of reference, which means the ladder"
+    } ]
+  }, {
+    "tStartMs": 627660,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "sees its present state as this line."
+    } ]
+  }, {
+    "tStartMs": 631180,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "So the ladder sees itself moving through the\nbarn like this."
+    } ]
+  }, {
+    "tStartMs": 635120,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "At no point is it entirely inside the barn."
+    } ]
+  }, {
+    "tStartMs": 638280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So does the ladder fit in the barn or not?"
+    } ]
+  }, {
+    "tStartMs": 641040,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yes AND no."
+    } ]
+  }, {
+    "tStartMs": 642390,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "The answer is entirely relative."
+    } ]
+  }, {
+    "tStartMs": 644170,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "OK - we’re finally at the point where we\ncan answer the money question."
+    } ]
+  }, {
+    "tStartMs": 648620,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "Does a near-light-speed spaceship smash into it’s own rear-end in a closed universe?"
+    } ]
+  }, {
+    "tStartMs": 654430,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "This is a variant of the ladder paradox, but\nhere the doors of the barn map to each other,"
+    } ]
+  }, {
+    "tStartMs": 660220,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "pacman style."
+    } ]
+  }, {
+    "tStartMs": 661620,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "What happens to a ladder in a pacman barn,\nor a spaceship in a closed universe, when"
+    } ]
+  }, {
+    "tStartMs": 666610,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "the barn or universe are length contracted\nto be smaller than the ladder or spaceship?"
+    } ]
+  }, {
+    "tStartMs": 672170,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "The answer is in our looped spacetime diagram."
+    } ]
+  }, {
+    "tStartMs": 675200,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Remember that the line of constant time is a helix."
+    } ]
+  }, {
+    "tStartMs": 678340,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "So that’s also the line on which we lay\ndown points along the length of our spaceship."
+    } ]
+  }, {
+    "tStartMs": 683110,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "That’s the “current” spaceship as it\nsees itself."
+    } ]
+  }, {
+    "tStartMs": 686520,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "And look - the spaceship DOES cross this point in space - our seam - and sort of exists there"
+    } ]
+  }, {
+    "tStartMs": 693230,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "simultaneously."
+    } ]
+  }, {
+    "tStartMs": 694290,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "But there’s no collision, because the nose\nof the spaceship exists in the future, and"
+    } ]
+  }, {
+    "tStartMs": 699140,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "the tail in the past."
+    } ]
+  }, {
+    "tStartMs": 700660,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "They exist at the same point in space at different points in time."
+    } ]
+  }, {
+    "tStartMs": 704260,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "And no matter how fast the spaceship travels, it will only elongate along this helix - safe"
+    } ]
+  }, {
+    "tStartMs": 709730,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "from collision even if it wraps around the\nuniverse multiple times."
+    } ]
+  }, {
+    "tStartMs": 714180,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Long story short -near-light-speed spaceships in closed universes or ladders in pacman barns"
+    } ]
+  }, {
+    "tStartMs": 719300,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "are safe from colliding with their own asses."
+    } ]
+  }, {
+    "tStartMs": 721410,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Relativity is weird, but its seeming paradoxes always have resolutions."
+    } ]
+  }, {
+    "tStartMs": 725680,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "You just need to follow the logic and the\nparadoxes evaporate, and so we make sense"
+    } ]
+  }, {
+    "tStartMs": 730410,
+    "dDurationMs": 6269,
+    "segs": [ {
+      "utf8": "of this deeply strange, but unfailingly self-consistent theory of Einstein’s spacetime."
+    } ]
+  }, {
+    "tStartMs": 736679,
+    "dDurationMs": 3851,
+    "segs": [ {
+      "utf8": "I want to thank two of our Patreon supporters - Hank and Mark - who actually asked the very"
+    } ]
+  }, {
+    "tStartMs": 740530,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "similar questions regarding length-contracting closed geometries that inspired this episode"
+    } ]
+  }, {
+    "tStartMs": 745210,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "- guys, i hope this helped clarify matters\na bit."
+    } ]
+  }, {
+    "tStartMs": 748710,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "And in general thanks to all of our Patreon\nsupporters - for the support and for the really"
+    } ]
+  }, {
+    "tStartMs": 752880,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "active engagement, especially on our discord channel."
+    } ]
+  }, {
+    "tStartMs": 756590,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "But today's extra special thank you goes to Clinton Robinson who's supporting us at the"
+    } ]
+  }, {
+    "tStartMs": 760400,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "big bang level."
+    } ]
+  }, {
+    "tStartMs": 761630,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Clinton, we took your contributions and accelerated them to near the speed of light, causing them"
+    } ]
+  }, {
+    "tStartMs": 766070,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "to wrap around the universe several times and multiply."
+    } ]
+  }, {
+    "tStartMs": 768500,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Then we bought bitcoin with the money and\nforgot the password - but we learned a lot"
+    } ]
+  }, {
+    "tStartMs": 772990,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "in the process!"
+    } ]
+  }, {
+    "tStartMs": 774400,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Thanks you, we couldn't engage in so much beautiful frivolous science without you."
+    } ]
+  }, {
+    "tStartMs": 779030,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "See you at pineapple motel."
+    } ]
+  }, {
+    "tStartMs": 781990,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "And speaking of crypto, today's comment responses are for two episodes - how cryptochromes - the"
+    } ]
+  }, {
+    "tStartMs": 788190,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "protein not the browser bitcoin wallet - may\ngive birds quantum magnetovision."
+    } ]
+  }, {
+    "tStartMs": 793580,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And also our episode on what happens during quantum jumps."
+    } ]
+  }, {
+    "tStartMs": 797380,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "We'll start with the latter."
+    } ]
+  }, {
+    "tStartMs": 800360,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Regarding the experiment which showed that quantum jumps could be predicted, tracked,"
+    } ]
+  }, {
+    "tStartMs": 804500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "and even reversed in an artificial atom."
+    } ]
+  }, {
+    "tStartMs": 807400,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "David Robinson and Drakinite asked the same question: how can we be sure that the artificial"
+    } ]
+  }, {
+    "tStartMs": 814130,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "atom is really a useful analogy to a real\natom."
+    } ]
+  }, {
+    "tStartMs": 818370,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "So the answer I think is that we don't yet\nknow - but it's important to point out that"
+    } ]
+  }, {
+    "tStartMs": 823620,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "the system used in the experiment IS a genuine quantum system."
+    } ]
+  }, {
+    "tStartMs": 828220,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "The energy levels are represented by a very\nsmall number of photons in a cavity - 0 to"
+    } ]
+  }, {
+    "tStartMs": 833240,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "5 - so quite quantum."
+    } ]
+  }, {
+    "tStartMs": 836100,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Transitions involve quantum tunneling in a\nsuperconducting circuit - so entirely quantum."
+    } ]
+  }, {
+    "tStartMs": 841750,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "But I take your point - can we really be sure that the same underlying complexity exists"
+    } ]
+  }, {
+    "tStartMs": 846860,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "in real atoms?"
+    } ]
+  }, {
+    "tStartMs": 848680,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "This experiment should be taken as motivation to look deeper, rather than a final answer."
+    } ]
+  }, {
+    "tStartMs": 855170,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "Gerry R asks the most insightful possible\nquestion: Could it be that asking which interpretation"
+    } ]
+  }, {
+    "tStartMs": 861360,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "of quantum mechanics is \"true\" is like asking if light is made up of particles or if light"
+    } ]
+  }, {
+    "tStartMs": 866880,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "is a wave?"
+    } ]
+  }, {
+    "tStartMs": 868570,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "The more we probe the fundamentals of reality the more we realize that the stories we tell"
+    } ]
+  }, {
+    "tStartMs": 872470,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "to make sense of the math are just models to help our intuition, and that strikingly"
+    } ]
+  }, {
+    "tStartMs": 878500,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "different-seeming interpretations map to the same theoretical frameworks."
+    } ]
+  }, {
+    "tStartMs": 883190,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "This doesn't mean the models and the stories and the interpretations are meaningless because"
+    } ]
+  }, {
+    "tStartMs": 887800,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "they guide us deeper - but I don't think anyone\nhas given a satisfactory answer as to WHY"
+    } ]
+  }, {
+    "tStartMs": 893420,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "contrary-seeming interpretations can be simultaneously \"correct\"."
+    } ]
+  }, {
+    "tStartMs": 898020,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "This could be one of the weirdest things about the universe."
+    } ]
+  }, {
+    "tStartMs": 901470,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "And a question from Mishel from Hamburg, Jörn, will you marry me?"
+    } ]
+  }, {
+    "tStartMs": 905440,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "... hmm, welll I know what my answer would\nbe, but I don't think I'm actually qualified"
+    } ]
+  }, {
+    "tStartMs": 908950,
+    "dDurationMs": 1092,
+    "segs": [ {
+      "utf8": "to answer this one."
+    } ]
+  }, {
+    "tStartMs": 910042,
+    "dDurationMs": 2154,
+    "segs": [ {
+      "utf8": "And on to quantum magneto reception in birds."
+    } ]
+  }, {
+    "tStartMs": 912196,
+    "dDurationMs": 2788,
+    "segs": [ {
+      "utf8": "Actually, I have research update here. "
+    } ]
+  }, {
+    "tStartMs": 914984,
+    "dDurationMs": 2206,
+    "segs": [ {
+      "utf8": "Right after the release of that episode some researchers"
+    } ]
+  }, {
+    "tStartMs": 917190,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "from the university of Tokyo reported on a\nnew experiment that helped validate this theory."
+    } ]
+  }, {
+    "tStartMs": 923130,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "They managed to get a culture of cells containing cryptochromes to autoflouresce -to glow - in"
+    } ]
+  }, {
+    "tStartMs": 928870,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "a way that changed depending on the direction and strength of a very weak magnetic field."
+    } ]
+  }, {
+    "tStartMs": 933890,
+    "dDurationMs": 7070,
+    "segs": [ {
+      "utf8": "This was done with human cells, but the mechanism is exactly that proposed one for bird magnetoreception."
+    } ]
+  }, {
+    "tStartMs": 940960,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "This is the first time the flourescence has\nbeen directly observed, so it lends credence"
+    } ]
+  }, {
+    "tStartMs": 945740,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "to the theory."
+    } ]
+  }, {
+    "tStartMs": 946910,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Does it also mean that humans could develop this superpower?"
+    } ]
+  }, {
+    "tStartMs": 950260,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "Maybe, but my cellphone has a compass, and I choose to think of that as cyborg magnetoreception,"
+    } ]
+  }, {
+    "tStartMs": 956600,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "which is just as cool."
+    } ]
+  }, {
+    "tStartMs": 957850,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "I wish I had more questions on bird magnetoreception - but there were more bird puns than"
+    } ]
+  }, {
+    "tStartMs": 963540,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "bird questions in the comments."
+    } ]
+  }, {
+    "tStartMs": 965110,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "I don'thave time to go through all of them,\nso I'll just give Matteo Alessandro's summary:"
+    } ]
+  }, {
+    "tStartMs": 970700,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Even though all these bird puns just fly\nover my head, toucan play at this game!"
+    } ]
+  }, {
+    "tStartMs": 975350,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "It'd try to wing in with my own put, but "
+    } ]
+  }, {
+    "tStartMs": 978110,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "instead I'll swallow my pride and instead congratulate your impeckable and emu-sing humor."
+    } ]
+  }, {
+    "tStartMs": 983530,
+    "dDurationMs": 2593,
+    "segs": [ {
+      "utf8": "You all quack me up."
+    } ]
+  } ]
+}

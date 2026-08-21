@@ -1,0 +1,913 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 210,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Quantum mechanics forbids us from measuringthe universe beyond a certain level of precision."
+    } ]
+  }, {
+    "tStartMs": 5330,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But that doesn’t stop us from trying."
+    } ]
+  }, {
+    "tStartMs": 7850,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "And in some cases succeeding, by squeezing the Heisenberg uncertainty principle to its"
+    } ]
+  }, {
+    "tStartMs": 13700,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "breaking point."
+    } ]
+  }, {
+    "tStartMs": 20090,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Engineers have gifted physicists with some pretty incredible machines for measuring the"
+    } ]
+  }, {
+    "tStartMs": 24390,
+    "dDurationMs": 1129,
+    "segs": [ {
+      "utf8": "universe."
+    } ]
+  }, {
+    "tStartMs": 25519,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "For example, the recent g-2 experiment for measuring the muon’s interaction with quantum fields is good to"
+    } ]
+  }, {
+    "tStartMs": 32079,
+    "dDurationMs": 6061,
+    "segs": [ {
+      "utf8": "to one part in a billion And also pretty recently we have the measurement of gravitational waves"
+    } ]
+  }, {
+    "tStartMs": 38140,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "by LIGO."
+    } ]
+  }, {
+    "tStartMs": 39750,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "In that case, the lengths of LIGO’s 4km\nlong arms changed by less than 1-10,000th"
+    } ]
+  }, {
+    "tStartMs": 45600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "the width of a single proton."
+    } ]
+  }, {
+    "tStartMs": 47400,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "Our measurements have become so precise that we’re starting to run up against the absolute"
+    } ]
+  }, {
+    "tStartMs": 52249,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "quantum limit - the limit defined by the Heisenberg Uncertainty Principle."
+    } ]
+  }, {
+    "tStartMs": 57089,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "But neither engineers nor the physicists are content to let mere fundamental laws"
+    } ]
+  }, {
+    "tStartMs": 62989,
+    "dDurationMs": 2191,
+    "segs": [ {
+      "utf8": "of nature stand in their way."
+    } ]
+  }, {
+    "tStartMs": 65180,
+    "dDurationMs": 5009,
+    "segs": [ {
+      "utf8": "Today we’re going to see how the uncertainty principle can be hacked to make measurements"
+    } ]
+  }, {
+    "tStartMs": 70189,
+    "dDurationMs": 2991,
+    "segs": [ {
+      "utf8": "more precisely than should ever be possible."
+    } ]
+  }, {
+    "tStartMs": 73180,
+    "dDurationMs": 6049,
+    "segs": [ {
+      "utf8": "The Heisenberg uncertainty principle tells\nus that there exists a fundamental unknowability"
+    } ]
+  }, {
+    "tStartMs": 79229,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "to nature - an absolute limit to how precisely we can measure the universe."
+    } ]
+  }, {
+    "tStartMs": 84600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "It says there are pairs of properties that\ncan’t simultaneously known to perfect"
+    } ]
+  }, {
+    "tStartMs": 90120,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "precision."
+    } ]
+  }, {
+    "tStartMs": 91210,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "Perfect knowledge of a particle’s position\nmeans its momentum is undefined."
+    } ]
+  }, {
+    "tStartMs": 96329,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Exact measurement of its energy means its location in time is blurred."
+    } ]
+  }, {
+    "tStartMs": 101689,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "In quantum mechanics, we call these pairs\nof properties complementary variables, and"
+    } ]
+  }, {
+    "tStartMs": 106649,
+    "dDurationMs": 5991,
+    "segs": [ {
+      "utf8": "the uncertainty principle tells us that the\nuncertainties in our knowledge of such a pair,"
+    } ]
+  }, {
+    "tStartMs": 112640,
+    "dDurationMs": 5659,
+    "segs": [ {
+      "utf8": "when multiplied together, must always be greater than a particular very tiny number."
+    } ]
+  }, {
+    "tStartMs": 118299,
+    "dDurationMs": 4581,
+    "segs": [ {
+      "utf8": "Werner Heisenberg discovered the uncertainty principle when he was inventing his version"
+    } ]
+  }, {
+    "tStartMs": 122880,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "of quantum mechanics back in the 1920s."
+    } ]
+  }, {
+    "tStartMs": 125620,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "That version is called matrix mechanics, but we get the same uncertainty principle"
+    } ]
+  }, {
+    "tStartMs": 130030,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "using the wave mechanics of Schrodinger."
+    } ]
+  }, {
+    "tStartMs": 133250,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And actually that’s probably the most intuitive way to think about it - so to get an idea"
+    } ]
+  }, {
+    "tStartMs": 138050,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "of the fundamental source of the uncertainty principle, you can watch our episode on how"
+    } ]
+  }, {
+    "tStartMs": 142620,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "it comes about from thinking about waves."
+    } ]
+  }, {
+    "tStartMs": 146080,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "But when Heisenberg first came up with the relation he didn’t realize it was so fundamental."
+    } ]
+  }, {
+    "tStartMs": 151890,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "He hit on it while considering what would\nhappen if he wanted to measure the position"
+    } ]
+  }, {
+    "tStartMs": 155550,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "of a particle with a photon."
+    } ]
+  }, {
+    "tStartMs": 157780,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "He reasoned that the photon would give the particle a momentum kick, which would account"
+    } ]
+  }, {
+    "tStartMs": 163110,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "for a greater uncertainty in its momentum\nafter the measurement."
+    } ]
+  }, {
+    "tStartMs": 167450,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "And to measure the position more precisely, you would need a higher energy photon, which"
+    } ]
+  }, {
+    "tStartMs": 171830,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "would kick the object even harder, causing an even greater uncertainty in the momentum."
+    } ]
+  }, {
+    "tStartMs": 176340,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Basically, he thought the uncertainty principle arose as a result of the measurement disturbing"
+    } ]
+  }, {
+    "tStartMs": 181290,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the system."
+    } ]
+  }, {
+    "tStartMs": 182290,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Heisenberg took his new idea to Niels Bohr\n- his mentor and one of the co-founders of"
+    } ]
+  }, {
+    "tStartMs": 186760,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 188510,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "Bohr was excited by the discovery, but vehemently disagreed with Heisenberg’s interpretation."
+    } ]
+  }, {
+    "tStartMs": 193940,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "He thought the uncertainty principle was hinting at a far more fundamental law of the universe."
+    } ]
+  }, {
+    "tStartMs": 198700,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "He viewed it as an example of a principle\nof reality that he called “complementarity.”"
+    } ]
+  }, {
+    "tStartMs": 204680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Bohr developed this principle when trying to reconcile the perplexing apparent contradictions"
+    } ]
+  }, {
+    "tStartMs": 209560,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "in quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 211240,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "For example, how can a quantum object sometimes be a “wave” and some times be a “particle?”"
+    } ]
+  }, {
+    "tStartMs": 216530,
+    "dDurationMs": 6041,
+    "segs": [ {
+      "utf8": "In a sense it is both, and in a sense it is\nneither - rather, there are the impressions"
+    } ]
+  }, {
+    "tStartMs": 222571,
+    "dDurationMs": 2849,
+    "segs": [ {
+      "utf8": "we receive as large-scale, classical creatures."
+    } ]
+  }, {
+    "tStartMs": 225420,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "A quantum object can project its nature up\nto our classical world in one way or another,"
+    } ]
+  }, {
+    "tStartMs": 230560,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "but not both."
+    } ]
+  }, {
+    "tStartMs": 231800,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "It depends on our choice of how to measure it."
+    } ]
+  }, {
+    "tStartMs": 234750,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The universe only reveals to us the answers to the questions that we ask it, and there"
+    } ]
+  }, {
+    "tStartMs": 240190,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "are certain questions that we can’t ask\nsimultaneously."
+    } ]
+  }, {
+    "tStartMs": 244629,
+    "dDurationMs": 3411,
+    "segs": [ {
+      "utf8": "This is a very deep topic that we’re going to come back to."
+    } ]
+  }, {
+    "tStartMs": 248040,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "For now, let’s return the topic of the day."
+    } ]
+  }, {
+    "tStartMs": 250810,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "The Heisenberg uncertainty principle prevents us from being able to know everything about"
+    } ]
+  }, {
+    "tStartMs": 254450,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "a quantum state all at once."
+    } ]
+  }, {
+    "tStartMs": 256200,
+    "dDurationMs": 5819,
+    "segs": [ {
+      "utf8": "But we can sometimes game Heisenberg’s limit because sometimes we care a lot more about"
+    } ]
+  }, {
+    "tStartMs": 262019,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "one property than the other."
+    } ]
+  }, {
+    "tStartMs": 263620,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "Remember, the uncertainty principle places a lower limit on the product of the uncertainties"
+    } ]
+  }, {
+    "tStartMs": 268449,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "of pairs of complementary properties."
+    } ]
+  }, {
+    "tStartMs": 270440,
+    "dDurationMs": 5069,
+    "segs": [ {
+      "utf8": "So, for example, if we only care about a particle’s position we can in principle measure it to"
+    } ]
+  }, {
+    "tStartMs": 275509,
+    "dDurationMs": 4511,
+    "segs": [ {
+      "utf8": "extreme precision as long as we’re happy\nto have no knowledge of its momentum."
+    } ]
+  }, {
+    "tStartMs": 280020,
+    "dDurationMs": 4911,
+    "segs": [ {
+      "utf8": "That’s not as easy as it sounds - normal\nquantum states tend to share the uncertainty"
+    } ]
+  }, {
+    "tStartMs": 284931,
+    "dDurationMs": 2629,
+    "segs": [ {
+      "utf8": "between complementary partners fairly evenly."
+    } ]
+  }, {
+    "tStartMs": 287560,
+    "dDurationMs": 5829,
+    "segs": [ {
+      "utf8": "But over the past few decades we’ve developed theoretical and engineering tricks that enable"
+    } ]
+  }, {
+    "tStartMs": 293389,
+    "dDurationMs": 4351,
+    "segs": [ {
+      "utf8": "us to manipulate quantum states to push the limits of the uncertainty principle."
+    } ]
+  }, {
+    "tStartMs": 297740,
+    "dDurationMs": 3389,
+    "segs": [ {
+      "utf8": "We’re going to focus on LIGO as an example."
+    } ]
+  }, {
+    "tStartMs": 301129,
+    "dDurationMs": 4051,
+    "segs": [ {
+      "utf8": "The Laser Interferometer Gravitational Wave Observatory measures ripples in the fabric"
+    } ]
+  }, {
+    "tStartMs": 305180,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "of space caused by cataclysmic events up to billions of light years away."
+    } ]
+  }, {
+    "tStartMs": 310310,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Those ripples are tiny by the time they reach Earth - they change lengths by something like"
+    } ]
+  }, {
+    "tStartMs": 314830,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "1 part in a billion trillion in the most powerful cases."
+    } ]
+  }, {
+    "tStartMs": 319949,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "For fainter gravitational waves we quickly\nrun up against the Heisenberg limit."
+    } ]
+  }, {
+    "tStartMs": 324939,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "Let’s quickly review how LIGO works."
+    } ]
+  }, {
+    "tStartMs": 328410,
+    "dDurationMs": 5469,
+    "segs": [ {
+      "utf8": "The twin interferometers in Washington State and Louisiana both consist of a pair of 4-km-long"
+    } ]
+  }, {
+    "tStartMs": 333879,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "arms at right angles."
+    } ]
+  }, {
+    "tStartMs": 336340,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Laser light is split and sent along those\npaths and then later recombined in such a"
+    } ]
+  }, {
+    "tStartMs": 340190,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "way that the electromagnetic waves of these laser beams destructively interfere."
+    } ]
+  }, {
+    "tStartMs": 346030,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "By that I mean that the peaks of one wave\nlines up with the troughs of the other, canceling"
+    } ]
+  }, {
+    "tStartMs": 350320,
+    "dDurationMs": 1029,
+    "segs": [ {
+      "utf8": "out perfectly."
+    } ]
+  }, {
+    "tStartMs": 351349,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But if a gravitational wave passes through\nthe interferometer, the relative lengths of"
+    } ]
+  }, {
+    "tStartMs": 355069,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "the two paths change in a very particular\nway."
+    } ]
+  }, {
+    "tStartMs": 358479,
+    "dDurationMs": 6785,
+    "segs": [ {
+      "utf8": "the recombined laser no longer perfectly cancels, and so flashes of light are observed."
+    } ]
+  }, {
+    "tStartMs": 365264,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "This measurement is incredibly sensitive to the path lengths - but that means it’s also"
+    } ]
+  }, {
+    "tStartMs": 368220,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "sensitive to the phase of the light waves."
+    } ]
+  }, {
+    "tStartMs": 371539,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Phase refers to the relative positions of\nthe peaks and troughs of the waves."
+    } ]
+  }, {
+    "tStartMs": 376129,
+    "dDurationMs": 5401,
+    "segs": [ {
+      "utf8": "Any variation in the relative phase of the two beams can generate a flicker in the signal."
+    } ]
+  }, {
+    "tStartMs": 381530,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And this is where the uncertainty principle comes in."
+    } ]
+  }, {
+    "tStartMs": 384210,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "Because there’s always an inherent uncertainty in any quantity, the phases of the two beams"
+    } ]
+  }, {
+    "tStartMs": 389759,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "never really perfectly match up."
+    } ]
+  }, {
+    "tStartMs": 392289,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "Quantum fluctuations result in a low level\nof noise - a flickering signal where you should"
+    } ]
+  }, {
+    "tStartMs": 397490,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "see darkness."
+    } ]
+  }, {
+    "tStartMs": 399729,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "And that noise will obscure faint gravitational\nwave signals."
+    } ]
+  }, {
+    "tStartMs": 404159,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "If quantum fluctuations in the phase of the\nlaser beams are larger than the change in"
+    } ]
+  }, {
+    "tStartMs": 408939,
+    "dDurationMs": 4861,
+    "segs": [ {
+      "utf8": "the arm lengths due to a gravitational wave, then we’ll never see those wave."
+    } ]
+  }, {
+    "tStartMs": 413800,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "Unless we can hack the uncertainty principle."
+    } ]
+  }, {
+    "tStartMs": 416439,
+    "dDurationMs": 4211,
+    "segs": [ {
+      "utf8": "In this case, the complementary variables\nin question are not position and momentum,"
+    } ]
+  }, {
+    "tStartMs": 420650,
+    "dDurationMs": 3329,
+    "segs": [ {
+      "utf8": "but rather phase and amplitude."
+    } ]
+  }, {
+    "tStartMs": 423979,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "By amplitude I meant the number of photons making up the beam."
+    } ]
+  }, {
+    "tStartMs": 427849,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "To improve our ability to detect faint gravitational waves we need to reduce the uncertainty in"
+    } ]
+  }, {
+    "tStartMs": 433219,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "the phase of the laser beams."
+    } ]
+  }, {
+    "tStartMs": 435279,
+    "dDurationMs": 5591,
+    "segs": [ {
+      "utf8": "That would enable us to line up those waves more perfectly to reduce quantum fluctuations."
+    } ]
+  }, {
+    "tStartMs": 440870,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "But we don’t care so much about uncertainty in the amplitude."
+    } ]
+  }, {
+    "tStartMs": 445220,
+    "dDurationMs": 5789,
+    "segs": [ {
+      "utf8": "Normal light from a laser beam obeys the Heisenberg uncertainty principle in a very specific way—it"
+    } ]
+  }, {
+    "tStartMs": 451009,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "has equal amounts of uncertainty in its two complementary variables."
+    } ]
+  }, {
+    "tStartMs": 455280,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "We can show this in so-called “phase-space”—in this case phase is plotted on the x-axis and"
+    } ]
+  }, {
+    "tStartMs": 461210,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "amplitude is plotted on the y-axis—as\na fuzzy circle of probability, where the area"
+    } ]
+  }, {
+    "tStartMs": 467370,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "of the circle is proportional to Planck’s\nconstant, satisfying the uncertainty principle."
+    } ]
+  }, {
+    "tStartMs": 473780,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "But it doesn’t have to be this way."
+    } ]
+  }, {
+    "tStartMs": 475590,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "By playing quantum tricks on the light, we\ncan squeeze the uncertainty in one direction"
+    } ]
+  }, {
+    "tStartMs": 480870,
+    "dDurationMs": 2579,
+    "segs": [ {
+      "utf8": "at the cost of greater uncertainty in the\nother."
+    } ]
+  }, {
+    "tStartMs": 483449,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "In phase space, this amounts to a shrinking of the uncertainty in one dimension, and a"
+    } ]
+  }, {
+    "tStartMs": 488289,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "corresponding stretching in the opposite dimension, so that the total area of this squeezed probability"
+    } ]
+  }, {
+    "tStartMs": 493979,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "disk remains the same."
+    } ]
+  }, {
+    "tStartMs": 496499,
+    "dDurationMs": 5871,
+    "segs": [ {
+      "utf8": "Light in which uncertainty has been manipulated in this way is called squeezed light."
+    } ]
+  }, {
+    "tStartMs": 502370,
+    "dDurationMs": 4969,
+    "segs": [ {
+      "utf8": "In the case of LIGO, the phase of the light is squeezed - its precision increased - at"
+    } ]
+  }, {
+    "tStartMs": 507339,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "the expense of increased uncertainty in amplitude."
+    } ]
+  }, {
+    "tStartMs": 510759,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "This phase squeezing is achieved by using\nquantum entanglement."
+    } ]
+  }, {
+    "tStartMs": 515360,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "The laser is sent through a special material\ncalled a non-linear crystal, which converts"
+    } ]
+  }, {
+    "tStartMs": 520910,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "incoming photons into pairs of photons."
+    } ]
+  }, {
+    "tStartMs": 523930,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Those outgoing photons have entangled phases - the relative positions of their peaks and"
+    } ]
+  }, {
+    "tStartMs": 529330,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "troughs are correlated."
+    } ]
+  }, {
+    "tStartMs": 531210,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "Those pairs are sent down the separate arms of the interferometer."
+    } ]
+  }, {
+    "tStartMs": 534670,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "When they’re recombined, they still have quantum fluctuations in the phase, but the fluctuations"
+    } ]
+  }, {
+    "tStartMs": 539980,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "between the two beams are now correlated so that they cancel out more perfectly."
+    } ]
+  }, {
+    "tStartMs": 545090,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Less flickering due to random phase shifts\nmeans that we can see real signals due to"
+    } ]
+  }, {
+    "tStartMs": 550310,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "much weaker gravitational waves."
+    } ]
+  }, {
+    "tStartMs": 553180,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "LIGO expects that using squeezed light in\nthe next upgrade will allow them to detect"
+    } ]
+  }, {
+    "tStartMs": 558110,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "up to 50% more gravitational wave events - events from further away, and involving lower-mass"
+    } ]
+  }, {
+    "tStartMs": 563710,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "mergers of black holes and neutron stars."
+    } ]
+  }, {
+    "tStartMs": 566310,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "Of course there’s always a price - you pay\nfor the improved phase precision with more"
+    } ]
+  }, {
+    "tStartMs": 571480,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "uncertainty in the number of photons traveling in your laser beam."
+    } ]
+  }, {
+    "tStartMs": 574950,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "And that introduces its own type of noise\n- radiation pressure noise as these photons"
+    } ]
+  }, {
+    "tStartMs": 580070,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "transfer energy to the mirrors in the interferometer."
+    } ]
+  }, {
+    "tStartMs": 583620,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "But that noise is less of a problem than the\nphase uncertainty, at least for the higher"
+    } ]
+  }, {
+    "tStartMs": 588420,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "frequency gravitational waves."
+    } ]
+  }, {
+    "tStartMs": 590510,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "There is always a price, but the price is\nworth it if you invest your uncertainty in"
+    } ]
+  }, {
+    "tStartMs": 595830,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the right place."
+    } ]
+  }, {
+    "tStartMs": 596830,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "The use of squeezed light is just one example of how quantum mechanics can be used to increase"
+    } ]
+  }, {
+    "tStartMs": 601430,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "measurement precision."
+    } ]
+  }, {
+    "tStartMs": 603110,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Scientists have demonstrated this same principle\nin other systems like entangled atomic clocks,"
+    } ]
+  }, {
+    "tStartMs": 608410,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "which may one day massively enhance the precision\nof our GPS satellites."
+    } ]
+  }, {
+    "tStartMs": 612680,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Our ability to measure the world has an ultimate limit."
+    } ]
+  }, {
+    "tStartMs": 617420,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "But as long as we’re willing to bend a few\nfundamental laws - in this case, the Heisenberg"
+    } ]
+  }, {
+    "tStartMs": 622250,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "uncertainty principle - we can push the limit beyond what we thought possible to force ever"
+    } ]
+  }, {
+    "tStartMs": 627870,
+    "dDurationMs": 3995,
+    "segs": [ {
+      "utf8": "more certain measurements of this uncertain space time."
+    } ]
+  } ]
+}

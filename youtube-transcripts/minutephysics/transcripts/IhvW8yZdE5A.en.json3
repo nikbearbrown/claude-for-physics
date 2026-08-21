@@ -1,0 +1,613 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2060,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So, I've had a lot of requests to find out how I made the sound of hydrogen"
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "for the sound of hydrogen video; so this week I figured I would do a little tutorial"
+    } ]
+  }, {
+    "tStartMs": 8780,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to show how you actually create that sound."
+    } ]
+  }, {
+    "tStartMs": 11360,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I'm gonna be using Mathematica but you can use any software that can synthesize sounds."
+    } ]
+  }, {
+    "tStartMs": 14860,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "In Mathematica the sound synthesizing command is just called play"
+    } ]
+  }, {
+    "tStartMs": 17680,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "So you can play a sine wave at, say, 440 Hz."
+    } ]
+  }, {
+    "tStartMs": 21760,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "So play from a time of 0 to, say, 3 seconds"
+    } ]
+  }, {
+    "tStartMs": 26660,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "and it sounds like sine wave."
+    } ]
+  }, {
+    "tStartMs": 28040,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "[Beep Sound]"
+    } ]
+  }, {
+    "tStartMs": 29860,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Uh, we can also play, say in 880, \nwhich is an octave higher"
+    } ]
+  }, {
+    "tStartMs": 34520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "[Higher Beep Sound]"
+    } ]
+  }, {
+    "tStartMs": 36560,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And if you want you can do crazy things like, uh,"
+    } ]
+  }, {
+    "tStartMs": 39720,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "playing sine of t^2."
+    } ]
+  }, {
+    "tStartMs": 43020,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "[Whoop Sound]"
+    } ]
+  }, {
+    "tStartMs": 46720,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Or even the sine of the sine of t^2"
+    } ]
+  }, {
+    "tStartMs": 50840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "[Squiggle Sound]"
+    } ]
+  }, {
+    "tStartMs": 54060,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "So thats a lot of fun."
+    } ]
+  }, {
+    "tStartMs": 55320,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "But we're interested in maybe some more slightly realistic sounds."
+    } ]
+  }, {
+    "tStartMs": 58260,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "So we will"
+    } ]
+  }, {
+    "tStartMs": 59520,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "instead of just playing the single sine wave"
+    } ]
+  }, {
+    "tStartMs": 61060,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "that sounds like:"
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "[Beep Sound]"
+    } ]
+  }, {
+    "tStartMs": 62660,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Pretty boring."
+    } ]
+  }, {
+    "tStartMs": 63780,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "You might want to simulate, uh,"
+    } ]
+  }, {
+    "tStartMs": 64720,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "an instrument string."
+    } ]
+  }, {
+    "tStartMs": 66060,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "So I'll do a sum"
+    } ]
+  }, {
+    "tStartMs": 67600,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "over sine waves"
+    } ]
+  }, {
+    "tStartMs": 68960,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "using the harmonic series"
+    } ]
+  }, {
+    "tStartMs": 70480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "so we just multiply the frequency inside by n"
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and the sum from n = 1 to 10 maybe"
+    } ]
+  }, {
+    "tStartMs": 76900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and add that up."
+    } ]
+  }, {
+    "tStartMs": 78500,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "[Loud, Strong Buzz Sound]"
+    } ]
+  }, {
+    "tStartMs": 80820,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "That's kind of an annoying sound, \nbecause violin strings and guitar strings actually"
+    } ]
+  }, {
+    "tStartMs": 84520,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "the higher harmonics \nare quieter than the lower harmonics."
+    } ]
+  }, {
+    "tStartMs": 88480,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "So if we"
+    } ]
+  }, {
+    "tStartMs": 89240,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "modulate the amplitude of each of these sine waves by something like 1/n"
+    } ]
+  }, {
+    "tStartMs": 93560,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "[Muffled Strong Buzz Sound]"
+    } ]
+  }, {
+    "tStartMs": 95220,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "we make it a slightly nicer sound."
+    } ]
+  }, {
+    "tStartMs": 96900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Also, we can set the sample rate"
+    } ]
+  }, {
+    "tStartMs": 98520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "to be something a little bit more appropriate. \nIt starts off default as 8000, uh, hertz"
+    } ]
+  }, {
+    "tStartMs": 103000,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "but maybe you want to speed something like \n16- or 32-...000 Hz."
+    } ]
+  }, {
+    "tStartMs": 107840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "That'll make the sound a little bit higher fidelity."
+    } ]
+  }, {
+    "tStartMs": 110060,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "[Muffled, Weaker Buzz Sound]"
+    } ]
+  }, {
+    "tStartMs": 112040,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "So that's basically the sound of a really crappily synthesized violin."
+    } ]
+  }, {
+    "tStartMs": 115420,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "For the sound of hydrogen now ----"
+    } ]
+  }, {
+    "tStartMs": 117540,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Uh, we need to use the Rydberg Formula instead of the normal harmonic series"
+    } ]
+  }, {
+    "tStartMs": 121440,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "The Rydberg Formula is : ( 1 / n1 ^ 2 ) - ( 1 / n2 ^ 2 )"
+    } ]
+  }, {
+    "tStartMs": 126040,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "You could look this up online and see the basic physics behind it"
+    } ]
+  }, {
+    "tStartMs": 128180,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "But basically, this gives you"
+    } ]
+  }, {
+    "tStartMs": 129320,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "the spectral lines of hydrogen."
+    } ]
+  }, {
+    "tStartMs": 131200,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "And depending on what n1 is,"
+    } ]
+  }, {
+    "tStartMs": 133060,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "you can get different series, like the Lyman series, the Balmer series..."
+    } ]
+  }, {
+    "tStartMs": 136500,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So, for the Lyman series we'll play"
+    } ]
+  }, {
+    "tStartMs": 139900,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "the Sum ( Sin (1 - 1/n^2)..."
+    } ]
+  }, {
+    "tStartMs": 145780,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "... x 2π t"
+    } ]
+  }, {
+    "tStartMs": 149440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Also, times, say, 440, and we'll up-modulate it to an A"
+    } ]
+  }, {
+    "tStartMs": 153320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and then we'll add that up from n = 2... because that's where the Lyman Series starts..."
+    } ]
+  }, {
+    "tStartMs": 157380,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "... to, say, 10..."
+    } ]
+  }, {
+    "tStartMs": 158200,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "You can go all the way to infinity if you want, but it'll take your computer a long time."
+    } ]
+  }, {
+    "tStartMs": 162180,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "And time, again, from say 0 to 3 seconds"
+    } ]
+  }, {
+    "tStartMs": 165860,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Play that."
+    } ]
+  }, {
+    "tStartMs": 166900,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "[Squiggly Sounds in a Pipe]"
+    } ]
+  }, {
+    "tStartMs": 168040,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "And it doesn't sound too shabby,"
+    } ]
+  }, {
+    "tStartMs": 169640,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "a lot like our sound of hydrogen from the video."
+    } ]
+  }, {
+    "tStartMs": 172680,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "But, if we want to,"
+    } ]
+  }, {
+    "tStartMs": 174040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "we can add in another series."
+    } ]
+  }, {
+    "tStartMs": 176280,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "So, instead of just the Lyman Series,"
+    } ]
+  }, {
+    "tStartMs": 178040,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "we can have the Balmer Series, which is:"
+    } ]
+  }, {
+    "tStartMs": 179980,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "1/(2)^2, which is 1/4,"
+    } ]
+  }, {
+    "tStartMs": 183080,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "and then n here has to be n+1,"
+    } ]
+  }, {
+    "tStartMs": 185700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "because we start at 3 rather than 2."
+    } ]
+  }, {
+    "tStartMs": 187880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Now if we play that, we'll get a lot more bass."
+    } ]
+  }, {
+    "tStartMs": 190300,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "[Deeper Squiggly Sounds in a Pipe]"
+    } ]
+  }, {
+    "tStartMs": 193380,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Sounds closer to our original sound of hydrogen."
+    } ]
+  }, {
+    "tStartMs": 196660,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "But what I actually did for the video was I went to the NIST website,"
+    } ]
+  }, {
+    "tStartMs": 202020,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "and the NIST Atomic Spectra Database,"
+    } ]
+  }, {
+    "tStartMs": 204420,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and got the actual spectrum of hydrogen"
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "obtained from, you know, experimental results rather than just using the Rydberg formula."
+    } ]
+  }, {
+    "tStartMs": 210140,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "So this is the exact spectrum that we see for hydrogen"
+    } ]
+  }, {
+    "tStartMs": 213560,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "and actually the amplitude as well ----"
+    } ]
+  }, {
+    "tStartMs": 214940,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "How bright each of the lines are"
+    } ]
+  }, {
+    "tStartMs": 216780,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "and I downloaded it."
+    } ]
+  }, {
+    "tStartMs": 218140,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "It's free."
+    } ]
+  }, {
+    "tStartMs": 218640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Now you could download that data;"
+    } ]
+  }, {
+    "tStartMs": 219640,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "You kinda have to mess around with it to get it to look"
+    } ]
+  }, {
+    "tStartMs": 221820,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "anything intelligible."
+    } ]
+  }, {
+    "tStartMs": 223220,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "But I brought it back to Mathematica,"
+    } ]
+  }, {
+    "tStartMs": 225520,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "and normalized it,"
+    } ]
+  }, {
+    "tStartMs": 227780,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "and then you plug that in,"
+    } ]
+  }, {
+    "tStartMs": 230080,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 231280,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "[Higher Squiggly Sounds in a Pipe]"
+    } ]
+  }, {
+    "tStartMs": 232140,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "you get the sound of hydrogen."
+    } ]
+  }, {
+    "tStartMs": 233180,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "[High Squiggly Sounds in a Pipe continues]"
+    } ]
+  }, {
+    "tStartMs": 237220,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So I hope that you've enjoyed this tutorial,"
+    } ]
+  }, {
+    "tStartMs": 239620,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and go and use your"
+    } ]
+  }, {
+    "tStartMs": 241840,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "math software to do fun stuff like make crazy sounds."
+    } ]
+  }, {
+    "tStartMs": 245480,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "[Sounds Similar to Retro Shooting Video Games]"
+    } ]
+  }, {
+    "tStartMs": 249600,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "[Sound Gets Faster]"
+    } ]
+  }, {
+    "tStartMs": 252080,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "[Static Sound]"
+    } ]
+  }, {
+    "tStartMs": 255480,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "[Sound Fades]"
+    } ]
+  } ]
+}

@@ -1,0 +1,1081 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Last year, the Dark Energy Spectroscopic \nInstrument—DESI—made headlines around the  "
+    } ]
+  }, {
+    "tStartMs": 4320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "world. Its enormous map of the Universe hinted \nthat dark energy—the mysterious something causing  "
+    } ]
+  }, {
+    "tStartMs": 9280,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "the expansion of the Universe to accelerate—might \nnot actually be constant. And just last month,  "
+    } ]
+  }, {
+    "tStartMs": 16000,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "another giant cosmology experiment released \nits final results. The Dark Energy Survey.  "
+    } ]
+  }, {
+    "tStartMs": 21520,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "DES. Its results are intriguing. But \ndid they confirm DESI? We’ll, we'll see,  "
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "but there’s also a much more interesting \nquestion— which is why are completely  "
+    } ]
+  }, {
+    "tStartMs": 33280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "different scientific studies so much more \npowerful in combination than any one study  "
+    } ]
+  }, {
+    "tStartMs": 38800,
+    "dDurationMs": 11280,
+    "segs": [ {
+      "utf8": "on its own? The answer brings us to \nthe heart of what science really is."
+    } ]
+  }, {
+    "tStartMs": 50080,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Before we get started, a couple of quick \nannouncements. First, we have some new data."
+    } ]
+  }, {
+    "tStartMs": 55200,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Liking and commenting really does help get the \nepisodes shared. So, you know, please do both"
+    } ]
+  }, {
+    "tStartMs": 62080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "of those things. And we've also learned that \nthe number one reason that people support us on"
+    } ]
+  }, {
+    "tStartMs": 67360,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Patreon isn't actually the perks. It's simply to \nsupport the Spacetime community and the work that"
+    } ]
+  }, {
+    "tStartMs": 73120,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "we do. So, for those of you who do support, thank \nyou so so much. But don't get me wrong, there are"
+    } ]
+  }, {
+    "tStartMs": 80880,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "perks and they're good. There's a link in the \ndescription if you'd like to join. This really"
+    } ]
+  }, {
+    "tStartMs": 87280,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "would be a huge help."
+    } ]
+  }, {
+    "tStartMs": 88960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "This month marks an incredible milestone: 50 \nyears since humanity first landed on Mars. On"
+    } ]
+  }, {
+    "tStartMs": 95040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "July 20, 1976, Viking 1 became the first \nspacecraft to successfully touch down. To"
+    } ]
+  }, {
+    "tStartMs": 100640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "celebrate, we've created a limited-edition \n50 Years on Mars collection featuring the"
+    } ]
+  }, {
+    "tStartMs": 105360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "iconic Viking 1 lander as a UV glow t-shirt and \nhoodie. We also have a new desktop and gaming"
+    } ]
+  }, {
+    "tStartMs": 111040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Matt that shows the actual location of every Mars \nlander. If Mars exploration has inspired you as"
+    } ]
+  }, {
+    "tStartMs": 116480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "much as it's inspired us, check it out at the \nSpace Time merch store. Now on to the episode."
+    } ]
+  }, {
+    "tStartMs": 121440,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Did DES confirm DESI? Seems like a reasonable \nquestion, no? New data is supposed to reduce  "
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "the uncertainty on whatever number we’re trying \nto measure. Tighten the error bars and we confirm  "
+    } ]
+  }, {
+    "tStartMs": 134240,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the measurement. Science sometimes works that \nway—like when we first measured the existence  "
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "of dark energy in the first place. But modern \ncosmology has reached the point where this  "
+    } ]
+  }, {
+    "tStartMs": 145680,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "doesn’t work any more. The signals we’re looking \nfor are so subtle—so tangled together—that it’s  "
+    } ]
+  }, {
+    "tStartMs": 152720,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "no longer about directly measuring the \nparameters of this universe—it’s about  "
+    } ]
+  }, {
+    "tStartMs": 158080,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "ruling out countless hypothetical universes that \nwe’re not in. And DES was ruthless in eliminating  "
+    } ]
+  }, {
+    "tStartMs": 166720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "universes. So what did it discover?\nDespite their nearly identical names,  "
+    } ]
+  }, {
+    "tStartMs": 171600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the Dark Energy Survey, or DES, and the \nDark Energy Spectroscopic Instrument,  "
+    } ]
+  }, {
+    "tStartMs": 176800,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "DESI, were built to tackle the same grand \nmystery from almost opposite directions. "
+    } ]
+  }, {
+    "tStartMs": 182720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "DESI's mission is beautifully focused. It \nmeasures the distances to tens of millions  "
+    } ]
+  }, {
+    "tStartMs": 187680,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "of galaxies, constructing the most detailed \nthree-dimensional map of the Universe ever made.  "
+    } ]
+  }, {
+    "tStartMs": 193120,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "Hidden within this vast cosmic atlas is a faint \nfossil pattern left behind by sound waves that  "
+    } ]
+  }, {
+    "tStartMs": 201760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "rippled through the hot plasma of the infant \nUniverse nearly 14 billion years ago. These  "
+    } ]
+  }, {
+    "tStartMs": 207040,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "are the Baryon Acoustic Oscillations, which \nwe’ve covered before. BAOs gives us a cosmic  "
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "ruler that grow with the expanding universe, \nand so allows DESI to trace the history of  "
+    } ]
+  }, {
+    "tStartMs": 219280,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "that expansion with extraordinary precision.\nDES took a much broader approach. This truly  "
+    } ]
+  }, {
+    "tStartMs": 225360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "international collaboration of some 400 scientists \ntook control of the Blanco 4-meter telescope at  "
+    } ]
+  }, {
+    "tStartMs": 231200,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "the Cerro Tololo Inter-American Observatory in \nthe Chilean Andes. After building a dedicated 570  "
+    } ]
+  }, {
+    "tStartMs": 238240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "megapixel camera, they scanned an enormous \nregion of the southern sky for six years,  "
+    } ]
+  }, {
+    "tStartMs": 243520,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "building an extraordinarily deep portrait \nand movie of 300 of million galaxies.  "
+    } ]
+  }, {
+    "tStartMs": 250880,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "This became the foundation for several \ncompletely different ways of probing the cosmos. "
+    } ]
+  }, {
+    "tStartMs": 256960,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "DES measures the tiny distortions in distant \ngalaxy shapes caused by the subtle warping of  "
+    } ]
+  }, {
+    "tStartMs": 263440,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "intervening space by massive objects. Through \nthis weak gravitational lensing, DES maps the  "
+    } ]
+  }, {
+    "tStartMs": 269280,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "invisible distribution of dark matter and tracks \nhow cosmic structure has grown over time. It also  "
+    } ]
+  }, {
+    "tStartMs": 276480,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "measures how galaxies have clustered together \nover cosmic time due to their mutual gravity,  "
+    } ]
+  }, {
+    "tStartMs": 281600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "giving a completely different perspective on \nthis same structure growth. By combining those  "
+    } ]
+  }, {
+    "tStartMs": 287120,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "two measurements through galaxy-galaxy lensing, \nDES connects the visible galaxies to the much  "
+    } ]
+  }, {
+    "tStartMs": 294160,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "larger halos of dark matter that surround them.\nAnd DES also discovered and monitored thousands  "
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of Type Ia supernovae, which allowed it to \nmeasure the expansion history of the Universe by  "
+    } ]
+  }, {
+    "tStartMs": 305360,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "determining the distances to these exploding white \ndwarf stars. And, by the way, this is exactly  "
+    } ]
+  }, {
+    "tStartMs": 310960,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "how dark energy was first discovered.And finally\nDES even measures the same ancient baryon acoustic  "
+    } ]
+  }, {
+    "tStartMs": 318560,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "oscillation pattern as DESI—but with a completely \ndifferent observing strategy. So DES is really an  "
+    } ]
+  }, {
+    "tStartMs": 324960,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "entire laboratory of cosmological probes built \nfrom one extraordinary survey of the sky. DESI,  "
+    } ]
+  }, {
+    "tStartMs": 331280,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "meanwhile, takes one of those probes and \npushes it farther than anyone ever has. "
+    } ]
+  }, {
+    "tStartMs": 337920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Why try to measure dark energy by so many \ndifferent methods? It’s not because we’re  "
+    } ]
+  }, {
+    "tStartMs": 342880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "worried that any one of those methods might be \nwrong—at least, not mostly. It’s because each  "
+    } ]
+  }, {
+    "tStartMs": 348640,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "one tells us something slightly different about \nthe universe. And it’s only in the combination  "
+    } ]
+  }, {
+    "tStartMs": 354480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "of all of our “cosmological probes” that we \nfind the answer that we were looking for. "
+    } ]
+  }, {
+    "tStartMs": 360080,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "The truth is, there’s no one experiment \nthat actually measures dark energy. Instead,  "
+    } ]
+  }, {
+    "tStartMs": 366160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "we observe galaxies and their distances to \neach other and tiny distortions in their  "
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "shapes and the faint flashes of exploding \nstars. We observe the miniscule temperature  "
+    } ]
+  }, {
+    "tStartMs": 376640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "fluctuations in the oldest light in the \nUniverse—the cosmic microwave background.  "
+    } ]
+  }, {
+    "tStartMs": 381040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "None of these directly measure dark energy. \nInstead, each measurement is influenced by  "
+    } ]
+  }, {
+    "tStartMs": 386640,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "a set of unknown cosmological parameters that \ntogether determine the way the universe expands  "
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and how structure forms, which in turn \ndrive the observables that we can collect. "
+    } ]
+  }, {
+    "tStartMs": 397840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "It’s these cosmological parameters that we \nreally want—things like the proportions of  "
+    } ]
+  }, {
+    "tStartMs": 403040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "dark energy to dark matter to regular matter \nto light to neutrinos. Or The expansion rate  "
+    } ]
+  }, {
+    "tStartMs": 408400,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "at the beginning and the slowing and speed of \nthat rate due to gravity and dark energy. The  "
+    } ]
+  }, {
+    "tStartMs": 415440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "parameters of the equation of state that \ndetermine if and how dark energy changes  "
+    } ]
+  }, {
+    "tStartMs": 420960,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "over time. The subtler details of how light \nand atoms and dark matter and dark energy  "
+    } ]
+  }, {
+    "tStartMs": 427200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "interact with themselves and with each other.\nEach tiny variation in the configuration of  "
+    } ]
+  }, {
+    "tStartMs": 433920,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "these parameters represents an entire possible \nuniverse. Cosmology is about figuring out which  "
+    } ]
+  }, {
+    "tStartMs": 442400,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "of these infinite possible universes we are \nin. But we can’t do that just by measuring the  "
+    } ]
+  }, {
+    "tStartMs": 449280,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "cosmological parameters one by one—there is no \nobservation that will give us these parameters.  "
+    } ]
+  }, {
+    "tStartMs": 456720,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "Instead, we use our observations to determine \nwhich hypothetical universes we are NOT in,  "
+    } ]
+  }, {
+    "tStartMs": 464080,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "over and over until we’re left with the universe \nwe are in, like a cosmic game of 20 questions. "
+    } ]
+  }, {
+    "tStartMs": 471680,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "The cosmological parameters that are of most \ninterest to DES and DESI are the parameters of  "
+    } ]
+  }, {
+    "tStartMs": 478880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the dark energy equation of state. This is perhaps \nthe simplest way to describe a changing dark  "
+    } ]
+  }, {
+    "tStartMs": 484240,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "energy—we have the baseline dark energy strength, \nomega-0, and the rate of change of dark energy,  "
+    } ]
+  }, {
+    "tStartMs": 490480,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "omega-a. Before we ever discovered dark energy, \nas far as we knew we might have been any one  "
+    } ]
+  }, {
+    "tStartMs": 497600,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "of a vast distribution of possible universes in \nthe space defined by these parameters. With the  "
+    } ]
+  }, {
+    "tStartMs": 503920,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "first observations of white dwarf supernovae \nwe culled huge numbers of these universes"
+    } ]
+  }, {
+    "tStartMs": 510480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to demonstrate that we’re in a universe with \nat least some dark energy described by omega-0. "
+    } ]
+  }, {
+    "tStartMs": 514640,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "The supernova studies had ask the universe a \nquestion: they asked how has cosmic expansion  "
+    } ]
+  }, {
+    "tStartMs": 523040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "dimmed distant supernovae? The universe \nanswers in a way that many possible  "
+    } ]
+  }, {
+    "tStartMs": 528480,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "universes couldn’t have answered. So we \nwere able to eliminate those universes."
+    } ]
+  }, {
+    "tStartMs": 533600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Then the cosmic microwave background \nstudies asked a different question:  "
+    } ]
+  }, {
+    "tStartMs": 537600,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "what did the early universe look like? The \nanswer rejects different universes. The  "
+    } ]
+  }, {
+    "tStartMs": 544160,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "baryon acoustic oscillation studies like DESI \nask: how did the fossil parameters from the  "
+    } ]
+  }, {
+    "tStartMs": 549440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "early universe expand? Again, different \nhypothetical universes are eliminated.  "
+    } ]
+  }, {
+    "tStartMs": 555680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "DES asks some of the same with new data, and \nalso asks how dark matter has warped galaxy  "
+    } ]
+  }, {
+    "tStartMs": 561280,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "images and drawn galaxies together against that \nexpansion. Again, counterfactual realities were  "
+    } ]
+  }, {
+    "tStartMs": 568560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "slain by DES in this case. In the end, we’re \nleft with a much smaller pocket of possible  "
+    } ]
+  }, {
+    "tStartMs": 574800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "universes where the cosmological parameters \nare now much more tightly constrained than they"
+    } ]
+  }, {
+    "tStartMs": 579760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "were before we began DES."
+    } ]
+  }, {
+    "tStartMs": 581440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Here’s an analogy. I’m thinking of two whole \nnumbers between one and ten and you can ask a  "
+    } ]
+  }, {
+    "tStartMs": 587440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "series of questions to figure them out, but \nyou can’t ask what the actual numbers are.  "
+    } ]
+  }, {
+    "tStartMs": 592400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Let’s say you ask what the sum of the numbers \nthat you're thinking of. I tell you it’s 10.  "
+    } ]
+  }, {
+    "tStartMs": 598560,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "You immediately know that the numbers are 1 \nand 9 or 2 and 8 or 3 and 7 or 4 and 6 or 5  "
+    } ]
+  }, {
+    "tStartMs": 605760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "and 5. That's five possibilities assuming \nthat order of the numbers doesn’t matter.  "
+    } ]
+  }, {
+    "tStartMs": 611040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Or you could instead ask what the product \nis of the two numbers. I tell you it’s  "
+    } ]
+  }, {
+    "tStartMs": 616560,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "24—so that could be 4 and 6, 3 and 8—two \noptions. But only one of the answers to  "
+    } ]
+  }, {
+    "tStartMs": 623840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the second question is consistent with the \nanswer to the first question. My numbers  "
+    } ]
+  }, {
+    "tStartMs": 628880,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "had to be 4 and 6. Only by asking multiple \nquestions can we infer the original numbers."
+    } ]
+  }, {
+    "tStartMs": 635920,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "In this analogy, the numbers are our cosmological \nparameters, and the function—the sum or product—is  "
+    } ]
+  }, {
+    "tStartMs": 642560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "one aspect of the complex physics that turns \nthose numbers into observables. For example,  "
+    } ]
+  }, {
+    "tStartMs": 649040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "one “function” might be “how do the cosmological \nparameters govern dark matter halo growth and so  "
+    } ]
+  }, {
+    "tStartMs": 654160,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "warp the shapes of distant galaxies through weak \nlensing” or “how do they determine baryon acoustic  "
+    } ]
+  }, {
+    "tStartMs": 660560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "oscillation formation and then expansion”.\nUnfortunately, we don’t get to choose these  "
+    } ]
+  }, {
+    "tStartMs": 665760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "“functions” or questions. They’re what \nthe universe offers us. When we come up  "
+    } ]
+  }, {
+    "tStartMs": 670640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "with a cosmological probe, we’re identifying \nobservables that best pry the cosmological  "
+    } ]
+  }, {
+    "tStartMs": 676640,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "parameters in the context of all the other \navailable probes. What we’re trying to do  "
+    } ]
+  }, {
+    "tStartMs": 683280,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "is to minimize what we call degeneracies. \nIn the context of our cosmological probes,  "
+    } ]
+  }, {
+    "tStartMs": 689520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "degeneracies are the multiple plausible \ncosmological parameters that could have  "
+    } ]
+  }, {
+    "tStartMs": 694640,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "led to the same observations. Like how there \nare several combinations of whole numbers that  "
+    } ]
+  }, {
+    "tStartMs": 701280,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "sum to 10. Sometimes a probe is good at \nconstraining one parameter over others,  "
+    } ]
+  }, {
+    "tStartMs": 709040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "sometimes a probe contains a combination of \nparameters without giving any single constraint.  "
+    } ]
+  }, {
+    "tStartMs": 715360,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "We want a combination of probes that whittle \ndown the degeneracies and leave us with tight  "
+    } ]
+  }, {
+    "tStartMs": 722480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "constraints on the parameters we’re interested in.\nAll we need to do is combine the datasets from  "
+    } ]
+  }, {
+    "tStartMs": 728080,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "these different probes. These various \ncosmological probes are not independent  "
+    } ]
+  }, {
+    "tStartMs": 737120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "of each other and so we can’t combine the \nconstraints they give in a simple way.  "
+    } ]
+  }, {
+    "tStartMs": 742560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "These different probes may observe many of the \nsame galaxies, or rely on the same potentially  "
+    } ]
+  }, {
+    "tStartMs": 748320,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "biased distance calibrations, or they make similar \nassumptions about how galaxies form and evolve.  "
+    } ]
+  }, {
+    "tStartMs": 754720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "That means some of their uncertainties are also \nshared. In statistics, those shared uncertainties  "
+    } ]
+  }, {
+    "tStartMs": 761280,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "are called covariance. Ignoring covariance is \na bit like polling a hundred people who all got  "
+    } ]
+  }, {
+    "tStartMs": 768880,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "their news from the same rumor—you think you have \na hundred independent opinions, but really you've  "
+    } ]
+  }, {
+    "tStartMs": 774400,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "only measured the same bias a hundred times. So \nbefore cosmologists compare two experiments, they  "
+    } ]
+  }, {
+    "tStartMs": 781120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "have to figure out exactly how much information \nis genuinely new, and how much is information  "
+    } ]
+  }, {
+    "tStartMs": 786640,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "they've effectively counted already. It turns out \nthat understanding those relationships between  "
+    } ]
+  }, {
+    "tStartMs": 792960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "datasets is just as important as understanding \nthe datasets themselves. In modern cosmology,  "
+    } ]
+  }, {
+    "tStartMs": 798640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the challenge isn't simply collecting more \nevidence—it's making sure every new piece of  "
+    } ]
+  }, {
+    "tStartMs": 803280,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "evidence is genuinely asking a different question.\nBut in the end, reality is self-consistent. There  "
+    } ]
+  }, {
+    "tStartMs": 811760,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "aren't separate Universes for DESI and DES, or for \nsupernovae and the CMB. There’s just one universe,  "
+    } ]
+  }, {
+    "tStartMs": 818080,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and it will always give consistent answers \nto the questions we ask of it. We just need  "
+    } ]
+  }, {
+    "tStartMs": 823440,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "to choose the right questions that allow us to \nefficiently rule out the universes that could  "
+    } ]
+  }, {
+    "tStartMs": 829520,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "not have provided the answers that we receive.\nSo, what happened when DES finally asked its  "
+    } ]
+  }, {
+    "tStartMs": 836880,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "questions of the universe? Analyzed on its own, \nthe new DES results are beautifully consistent  "
+    } ]
+  }, {
+    "tStartMs": 843360,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "with the standard picture of cosmology. \nA Universe dominated by a cosmological  "
+    } ]
+  }, {
+    "tStartMs": 848880,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "constant still provides a perfectly good \ndescription of everything DES observed. It  "
+    } ]
+  }, {
+    "tStartMs": 855200,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "very slightly favors a changing dark energy. \nDESI is similar—consisstent with the standard  "
+    } ]
+  }, {
+    "tStartMs": 862240,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "cosmology—there are surviving universes whose \nphysics is exactly what we thought. But there  "
+    } ]
+  }, {
+    "tStartMs": 869200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "are slightly more surviving potential universes \nwhose dark energy is actually diminishing. "
+    } ]
+  }, {
+    "tStartMs": 875360,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Remember, DES wasn't built to verify DESI or vice \nversa. Both were built to interrogate the Universe  "
+    } ]
+  }, {
+    "tStartMs": 882160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "in different, complementary ways. That means \nthat together they have the power to eliminate  "
+    } ]
+  }, {
+    "tStartMs": 888160,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "more possible universes than either in isolation.\nAnd when the DES results are compared with DESI,  "
+    } ]
+  }, {
+    "tStartMs": 896480,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and the cosmic microwave background, and supernova \nobservations, many of the same Universes do  "
+    } ]
+  }, {
+    "tStartMs": 902400,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "survive, but not all. Further universe-culling \npushes us slightly further towards favoring a  "
+    } ]
+  }, {
+    "tStartMs": 909920,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "decreasing dark energy. Not enough to rule out \nphysics-as-we-thought-it, but the intrigue does"
+    } ]
+  }, {
+    "tStartMs": 918000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "increase. DES independently points to the same \nexciting region of parameters space as DESI,  "
+    } ]
+  }, {
+    "tStartMs": 925040,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "which is extremely important to rule out \nbias, while also shaving the edges because  "
+    } ]
+  }, {
+    "tStartMs": 932320,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "DES has different degeneracies to DESI. The \nseveral different questions asked by DES and  "
+    } ]
+  }, {
+    "tStartMs": 939680,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "DESI were answered consistently by a smaller \nand smaller fraction of possible universes. "
+    } ]
+  }, {
+    "tStartMs": 946960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Perhaps the most exciting “science result” \nfrom DES is that the intriguing hints from  "
+    } ]
+  }, {
+    "tStartMs": 952800,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "DESI weren’t immediately ruled out or disfavored. \nThat could’ve happened, and would have meant that  "
+    } ]
+  }, {
+    "tStartMs": 960000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "some bias in the DESI method was probably at \nwork. No, that island of intriguing universes  "
+    } ]
+  }, {
+    "tStartMs": 965920,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "with decreasing dark energy is still in play.\nSo what’s next? We ask more questions of  "
+    } ]
+  }, {
+    "tStartMs": 972960,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "the universe. We give those counterfactual \nuniverses more chances to fail our grilling  "
+    } ]
+  }, {
+    "tStartMs": 979280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and get eliminated. That's why the next decade \nof cosmology is going to be incredible. The  "
+    } ]
+  }, {
+    "tStartMs": 985280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Rubin Observatory will discover billions \nof new galaxies and measure the changing  "
+    } ]
+  }, {
+    "tStartMs": 990000,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Universe with unprecedented depth and monitor \nit over a decade. Euclid is already in space,  "
+    } ]
+  }, {
+    "tStartMs": 996560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "mapping a vast patch of the sky with incredible \nspatial resolution. The Roman Space Telescope  "
+    } ]
+  }, {
+    "tStartMs": 1002000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "will perform this exquisitely sharp imaging \nover a smaller scale, but with even better  "
+    } ]
+  }, {
+    "tStartMs": 1007920,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "calibration and will also monitor over \ntime. DESI will continue expanding the  "
+    } ]
+  }, {
+    "tStartMs": 1013440,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "largest three-dimensional map of the Universe ever \nassembled. And we'll continue culling universes. "
+    } ]
+  }, {
+    "tStartMs": 1019760,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Modern cosmology is really a beautiful example \nof how humans have always learned about nature.  "
+    } ]
+  }, {
+    "tStartMs": 1026400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "We know in our hearts that there’s a world out \nthere and that the world is self-consistent. And  "
+    } ]
+  }, {
+    "tStartMs": 1031920,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "when we ask questions of it—with our senses and \nwith our experiments—it’ll tell us the truth. We  "
+    } ]
+  }, {
+    "tStartMs": 1039440,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "believe in the model of the world that never fails \na test—never answers wrong. Every independent line  "
+    } ]
+  }, {
+    "tStartMs": 1046080,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "of evidence needs to agree on the same story.\nAnd even when we think we have the story, we  "
+    } ]
+  }, {
+    "tStartMs": 1053680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "keep asking questions. At the frontier of science, \nthe hardest part isn't discovering something new,  "
+    } ]
+  }, {
+    "tStartMs": 1059440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "it's convincing ourselves that we haven't fooled \nourselves. Our current cosmological models,  "
+    } ]
+  }, {
+    "tStartMs": 1064560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "along with all of our best scientific theories \nin their broad strokes—from evolution to climate  "
+    } ]
+  }, {
+    "tStartMs": 1069440,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "change to germ theory to the Big Bang—are \nthe explanations of a reality that have  "
+    } ]
+  }, {
+    "tStartMs": 1075280,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "withstood every question that we've so far \nasked of it. But these also still represent  "
+    } ]
+  }, {
+    "tStartMs": 1081920,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "families of possible universes that still need \nwhittling down. So we keep asking questions,  "
+    } ]
+  }, {
+    "tStartMs": 1088080,
+    "dDurationMs": 13453,
+    "segs": [ {
+      "utf8": "bringing us closer to pinpointing in \nparameter space this singular space time."
+    } ]
+  } ]
+}

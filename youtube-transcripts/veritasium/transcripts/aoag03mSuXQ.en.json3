@@ -1,0 +1,7975 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 250,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 1668,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "- [Derek] In 2021, a hacker\nuncovered a fatal weakness"
+    } ]
+  }, {
+    "tStartMs": 4796,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "in the world's most\nimportant operating system."
+    } ]
+  }, {
+    "tStartMs": 7507,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "- What would you do with a key"
+    } ]
+  }, {
+    "tStartMs": 9009,
+    "dDurationMs": 3294,
+    "segs": [ {
+      "utf8": "that gets you into any\nserver on the internet?"
+    } ]
+  }, {
+    "tStartMs": 12303,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "- Is this live to the public right now?"
+    } ]
+  }, {
+    "tStartMs": 14139,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "- Yeah, it's live on the server."
+    } ]
+  }, {
+    "tStartMs": 15724,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "- Look, I'm not pleased."
+    } ]
+  }, {
+    "tStartMs": 16933,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "I would like you to change it back."
+    } ]
+  }, {
+    "tStartMs": 19310,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "- [Narrator] At the time,\njust about everyone believed"
+    } ]
+  }, {
+    "tStartMs": 21104,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "that hacking this system was impossible,"
+    } ]
+  }, {
+    "tStartMs": 23565,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "but they were wrong."
+    } ]
+  }, {
+    "tStartMs": 24691,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "- Well, I can tell you how many systems"
+    } ]
+  }, {
+    "tStartMs": 26026,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "would have been compromised,"
+    } ]
+  }, {
+    "tStartMs": 27318,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "which would have been millions."
+    } ]
+  }, {
+    "tStartMs": 28653,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "Actually, I'm still surprised\nthe mainstream news outlets"
+    } ]
+  }, {
+    "tStartMs": 31948,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "haven't really covered this very much."
+    } ]
+  }, {
+    "tStartMs": 33616,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "- How close did we come?"
+    } ]
+  }, {
+    "tStartMs": 34659,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "- We were weeks away from\nmillions of internet servers"
+    } ]
+  }, {
+    "tStartMs": 38705,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "being accessible to whoever\ncrafted the backdoor."
+    } ]
+  }, {
+    "tStartMs": 41624,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "Anything from spying, to ransom,"
+    } ]
+  }, {
+    "tStartMs": 44878,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "to taking down entire countries,"
+    } ]
+  }, {
+    "tStartMs": 47839,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "you could have done it with this backdoor."
+    } ]
+  }, {
+    "tStartMs": 49758,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "- This hacker had realized"
+    } ]
+  }, {
+    "tStartMs": 51384,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "the entire operating system\nrested on a single part,"
+    } ]
+  }, {
+    "tStartMs": 54846,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "maintained by a single person,"
+    } ]
+  }, {
+    "tStartMs": 56931,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "and that by compromising that one part,"
+    } ]
+  }, {
+    "tStartMs": 58892,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "they could infect almost\nany server on the internet."
+    } ]
+  }, {
+    "tStartMs": 62145,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "So, how could we ever let\nourselves get this vulnerable?"
+    } ]
+  }, {
+    "tStartMs": 67317,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Well, the story begins\nwith a jammed printer."
+    } ]
+  }, {
+    "tStartMs": 71237,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 76076,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 79329,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "- [Narrator] The AI lab was buzzing."
+    } ]
+  }, {
+    "tStartMs": 81289,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "They had just installed the Xerox 9700."
+    } ]
+  }, {
+    "tStartMs": 84501,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "It was one of the first ever\ncommercial laser printers."
+    } ]
+  }, {
+    "tStartMs": 87670,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "It was a pretty big deal."
+    } ]
+  }, {
+    "tStartMs": 89714,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "The only problem was it kept jamming."
+    } ]
+  }, {
+    "tStartMs": 94135,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "- [Stallman] You'd wait an hour figuring,"
+    } ]
+  }, {
+    "tStartMs": 95512,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "I know it's gonna be jammed,"
+    } ]
+  }, {
+    "tStartMs": 96763,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "I'll wait an hour and\ngo collect my printout,"
+    } ]
+  }, {
+    "tStartMs": 99390,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "and then you'd see that it'd\nbeen jammed the whole time."
+    } ]
+  }, {
+    "tStartMs": 102936,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Frustration up the wazoo."
+    } ]
+  }, {
+    "tStartMs": 106106,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "- Richard Stallman, a\nresearcher at the lab,"
+    } ]
+  }, {
+    "tStartMs": 108149,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "thought that he had a solution."
+    } ]
+  }, {
+    "tStartMs": 110110,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Years earlier, he had\nsolved a similar problem"
+    } ]
+  }, {
+    "tStartMs": 112070,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "by coding a simple\nprogram that sent an alert"
+    } ]
+  }, {
+    "tStartMs": 114280,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "whenever there was a jam."
+    } ]
+  }, {
+    "tStartMs": 115782,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Now, it didn't fix the\nproblem mechanically,"
+    } ]
+  }, {
+    "tStartMs": 117575,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but it did make sure that a\njam wouldn't go unnoticed."
+    } ]
+  }, {
+    "tStartMs": 120495,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "He thought he could do\na similar thing now."
+    } ]
+  }, {
+    "tStartMs": 122622,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "The only problem was that\nXerox hadn't provided them"
+    } ]
+  }, {
+    "tStartMs": 125083,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "the source code for the printer,"
+    } ]
+  }, {
+    "tStartMs": 126501,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "and without it, Stallman\ncouldn't write his code."
+    } ]
+  }, {
+    "tStartMs": 128920,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "So he tracked down the original developer."
+    } ]
+  }, {
+    "tStartMs": 131256,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "- [Stallman] And I\nsaid, \"Hi, I'm from MIT."
+    } ]
+  }, {
+    "tStartMs": 132757,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "Could I have a copy of\nthe printer source code?\""
+    } ]
+  }, {
+    "tStartMs": 136386,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "And he said, \"No, I promised\nnot to give you a copy.\""
+    } ]
+  }, {
+    "tStartMs": 140014,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "I was stunned."
+    } ]
+  }, {
+    "tStartMs": 141432,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "I was angry."
+    } ]
+  }, {
+    "tStartMs": 143309,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "All I could think of was\nto turn around on my heel"
+    } ]
+  }, {
+    "tStartMs": 146146,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "and walk out of his room."
+    } ]
+  }, {
+    "tStartMs": 150066,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Maybe I slammed the door."
+    } ]
+  }, {
+    "tStartMs": 153069,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "And I thought about it later on"
+    } ]
+  }, {
+    "tStartMs": 155280,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "because I realized that I was seeing"
+    } ]
+  }, {
+    "tStartMs": 157448,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "not just an isolated jerk"
+    } ]
+  }, {
+    "tStartMs": 159826,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "but a social phenomenon that was important"
+    } ]
+  }, {
+    "tStartMs": 162203,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "and affected a lot of people."
+    } ]
+  }, {
+    "tStartMs": 165874,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "- [Henry] This social phenomenon"
+    } ]
+  }, {
+    "tStartMs": 167500,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "had slowly invaded the\nworld of computer research."
+    } ]
+  }, {
+    "tStartMs": 170503,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "In the late 60s,"
+    } ]
+  }, {
+    "tStartMs": 171421,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "engineers at AT\u0026T's Bell Labs"
+    } ]
+  }, {
+    "tStartMs": 173631,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "invented an operating system called Unix,"
+    } ]
+  }, {
+    "tStartMs": 176176,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "which they shared widely\nacross universities"
+    } ]
+  }, {
+    "tStartMs": 178261,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "and research labs."
+    } ]
+  }, {
+    "tStartMs": 179679,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "This was a time of freedom."
+    } ]
+  }, {
+    "tStartMs": 181639,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "But by the 80s,"
+    } ]
+  }, {
+    "tStartMs": 183266,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "AT\u0026T started going after\nUnix clone developers"
+    } ]
+  }, {
+    "tStartMs": 185518,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "for copyright infringement."
+    } ]
+  }, {
+    "tStartMs": 187270,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Later, they even sued"
+    } ]
+  }, {
+    "tStartMs": 188313,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "the University of California at Berkeley."
+    } ]
+  }, {
+    "tStartMs": 190857,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "The tech landscape had shifted."
+    } ]
+  }, {
+    "tStartMs": 192650,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "They wanted to close off\nsoftware development."
+    } ]
+  }, {
+    "tStartMs": 195028,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "Companies were now making their employees"
+    } ]
+  }, {
+    "tStartMs": 196696,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "sign non-disclosure agreements,"
+    } ]
+  }, {
+    "tStartMs": 198364,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "prohibiting them from\never sharing their code"
+    } ]
+  }, {
+    "tStartMs": 200200,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "with other programmers."
+    } ]
+  }, {
+    "tStartMs": 202869,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "- [Stallman] See, this\nwas my first encounter"
+    } ]
+  }, {
+    "tStartMs": 205288,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "with a non-disclosure agreement,"
+    } ]
+  }, {
+    "tStartMs": 206706,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "and I was the victim."
+    } ]
+  }, {
+    "tStartMs": 208833,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "And the lesson it taught me was"
+    } ]
+  }, {
+    "tStartMs": 210376,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "that non-disclosure\nagreements have victims."
+    } ]
+  }, {
+    "tStartMs": 212962,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "They're not innocent,\nthey're not harmless."
+    } ]
+  }, {
+    "tStartMs": 216132,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "- [Henry] Stallman wondered,"
+    } ]
+  }, {
+    "tStartMs": 217300,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "maybe he could adapt to this new world."
+    } ]
+  }, {
+    "tStartMs": 219928,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "- [Stallman] But I realized"
+    } ]
+  }, {
+    "tStartMs": 220762,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "that that way I could have fun coding"
+    } ]
+  }, {
+    "tStartMs": 222513,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "and I could make money."
+    } ]
+  }, {
+    "tStartMs": 224807,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "But at the end, I'd have to look\nback at my career and say,"
+    } ]
+  }, {
+    "tStartMs": 228645,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "\"I have spent my life building\nwalls to divide people.\""
+    } ]
+  }, {
+    "tStartMs": 233233,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "and I would've been ashamed of my life."
+    } ]
+  }, {
+    "tStartMs": 236736,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "- So Stallman chose a different path."
+    } ]
+  }, {
+    "tStartMs": 238529,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "He quit his job at MIT"
+    } ]
+  }, {
+    "tStartMs": 239781,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "and in 1985 established the\nFree Software Foundation,"
+    } ]
+  }, {
+    "tStartMs": 243368,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "and it worked to promote\nfour basic freedoms."
+    } ]
+  }, {
+    "tStartMs": 246246,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "You should be free to run\nsoftware for any purpose,"
+    } ]
+  }, {
+    "tStartMs": 248790,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "free to study it, free to\nchange it, and free to share it."
+    } ]
+  }, {
+    "tStartMs": 252293,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Now, to ensure those freedoms,"
+    } ]
+  }, {
+    "tStartMs": 253628,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "he created a legal license"
+    } ]
+  }, {
+    "tStartMs": 255046,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "that developers could attach to their code"
+    } ]
+  }, {
+    "tStartMs": 257173,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "called the General Public License."
+    } ]
+  }, {
+    "tStartMs": 259259,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "And to stick it to AT\u0026T,"
+    } ]
+  }, {
+    "tStartMs": 260551,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "he started to work on\na project based on Unix"
+    } ]
+  }, {
+    "tStartMs": 263346,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "but built from the ground up,"
+    } ]
+  }, {
+    "tStartMs": 264847,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "so AT\u0026T couldn't sue."
+    } ]
+  }, {
+    "tStartMs": 267350,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "He called the project GNU,"
+    } ]
+  }, {
+    "tStartMs": 268851,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "a recursive acronym for GNU is Not Unix."
+    } ]
+  }, {
+    "tStartMs": 273147,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Now, to replicate a Unix system,"
+    } ]
+  }, {
+    "tStartMs": 274983,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "the GNU Project had to recreate"
+    } ]
+  }, {
+    "tStartMs": 276526,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "three layers of functionality."
+    } ]
+  }, {
+    "tStartMs": 278319,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "They needed the utilities,"
+    } ]
+  }, {
+    "tStartMs": 279862,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "which were the everyday\ntools and commands,"
+    } ]
+  }, {
+    "tStartMs": 282031,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "the shell, which is the terminal"
+    } ]
+  }, {
+    "tStartMs": 283491,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "that people use to\ninteract with the machine,"
+    } ]
+  }, {
+    "tStartMs": 285702,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "and finally, the kernel,"
+    } ]
+  }, {
+    "tStartMs": 286911,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "which is the core that\ntalks to the hardware"
+    } ]
+  }, {
+    "tStartMs": 288997,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "and manages memory."
+    } ]
+  }, {
+    "tStartMs": 290498,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Now, over the next seven years,"
+    } ]
+  }, {
+    "tStartMs": 292000,
+    "dDurationMs": 2585,
+    "segs": [ {
+      "utf8": "the GNU Project made much\nof that from scratch."
+    } ]
+  }, {
+    "tStartMs": 294585,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "They created the GCC code\ncompiler, the Bash shell,"
+    } ]
+  }, {
+    "tStartMs": 297547,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "and a host of other core utilities."
+    } ]
+  }, {
+    "tStartMs": 299299,
+    "dDurationMs": 3586,
+    "segs": [ {
+      "utf8": "But they were always\nmissing one key component."
+    } ]
+  }, {
+    "tStartMs": 302885,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "The kernel."
+    } ]
+  }, {
+    "tStartMs": 305763,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "That changed in the fall of 1991"
+    } ]
+  }, {
+    "tStartMs": 307807,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "when Stallman visited the\nUniversity of Helsinki"
+    } ]
+  }, {
+    "tStartMs": 310143,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "to give a talk promoting the project."
+    } ]
+  }, {
+    "tStartMs": 312937,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "In the audience was a young\ncomputer science student"
+    } ]
+  }, {
+    "tStartMs": 315481,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "who just happened to be building"
+    } ]
+  }, {
+    "tStartMs": 317066,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "his own kernel from scratch."
+    } ]
+  }, {
+    "tStartMs": 319235,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "His version wasn't free,"
+    } ]
+  }, {
+    "tStartMs": 321112,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "but after hearing Stallman speak,"
+    } ]
+  }, {
+    "tStartMs": 323281,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "the student changed his mind"
+    } ]
+  }, {
+    "tStartMs": 324866,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "and adopted the General Public License."
+    } ]
+  }, {
+    "tStartMs": 327535,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "At first, he wanted to call\nit Free Unix, or Freax,"
+    } ]
+  }, {
+    "tStartMs": 331331,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "but his friend thought\nthat sounded terrible,"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "so he renamed it after the\nstudent himself, Linus Torvalds."
+    } ]
+  }, {
+    "tStartMs": 337837,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Linus, Unix."
+    } ]
+  }, {
+    "tStartMs": 339255,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Well, that's how he got Linux."
+    } ]
+  }, {
+    "tStartMs": 343092,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "That kernel, combined\nwith the other components"
+    } ]
+  }, {
+    "tStartMs": 345053,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "from the GNU Project,"
+    } ]
+  }, {
+    "tStartMs": 346054,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "became a full operating system."
+    } ]
+  }, {
+    "tStartMs": 348348,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "Now, technically, Linux\nonly refers to that kernel,"
+    } ]
+  }, {
+    "tStartMs": 351726,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "but a lot of people use it"
+    } ]
+  }, {
+    "tStartMs": 353019,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to refer to the whole operating system,"
+    } ]
+  }, {
+    "tStartMs": 354729,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "so GNU and Linux and whatever else."
+    } ]
+  }, {
+    "tStartMs": 357607,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Because the code was open and free"
+    } ]
+  }, {
+    "tStartMs": 359567,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "and the projects built on it were too,"
+    } ]
+  }, {
+    "tStartMs": 361319,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "a new model of software\ndevelopment took hold."
+    } ]
+  }, {
+    "tStartMs": 363821,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Anyone could inspect the\ncode, improve it, fix flaws,"
+    } ]
+  }, {
+    "tStartMs": 367241,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "and generally just push\ndevelopment forward for everyone."
+    } ]
+  }, {
+    "tStartMs": 369827,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "So, software split into\ntwo competing ideologies."
+    } ]
+  }, {
+    "tStartMs": 373164,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "Proprietary closed source\nsystems controlled by companies,"
+    } ]
+  }, {
+    "tStartMs": 376667,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "and open source projects\nwhere the code was free."
+    } ]
+  }, {
+    "tStartMs": 379754,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "- It's free in two ways."
+    } ]
+  }, {
+    "tStartMs": 381214,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "It's free as in you\ndon't have to pay for it,"
+    } ]
+  }, {
+    "tStartMs": 383216,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "but it's all free to change\nit in any way you want,"
+    } ]
+  }, {
+    "tStartMs": 386260,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "and that seems to be the\nmuch more important aspect."
+    } ]
+  }, {
+    "tStartMs": 389138,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "People are happy to pay for technology,"
+    } ]
+  }, {
+    "tStartMs": 391349,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "but so often do they run\ninto some roadblocks"
+    } ]
+  }, {
+    "tStartMs": 394602,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "where you have to file a support ticket"
+    } ]
+  }, {
+    "tStartMs": 396729,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "with some large company,"
+    } ]
+  }, {
+    "tStartMs": 398439,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "they may or may not\nget the help they need,"
+    } ]
+  }, {
+    "tStartMs": 400608,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "and engineers are just itching\nto just fix it themselves."
+    } ]
+  }, {
+    "tStartMs": 405405,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- Developers could take that basic code"
+    } ]
+  }, {
+    "tStartMs": 407115,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "which was freely available"
+    } ]
+  }, {
+    "tStartMs": 408533,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "and then add on their own features"
+    } ]
+  }, {
+    "tStartMs": 410076,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "relevant to their specific device."
+    } ]
+  }, {
+    "tStartMs": 412453,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "They didn't have to reinvent\nthe wheel every time."
+    } ]
+  }, {
+    "tStartMs": 415206,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "So that's why Linux spread"
+    } ]
+  }, {
+    "tStartMs": 416499,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "into all sorts of different applications."
+    } ]
+  }, {
+    "tStartMs": 418876,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "- Hello, I'm a Mac."
+    } ]
+  }, {
+    "tStartMs": 420128,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "- And I'm a PC."
+    } ]
+  }, {
+    "tStartMs": 421087,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "No one else."
+    } ]
+  }, {
+    "tStartMs": 422213,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "- No one.\n(woman clears throat)"
+    } ]
+  }, {
+    "tStartMs": 423673,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "- Hi, I'm Linux."
+    } ]
+  }, {
+    "tStartMs": 425925,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "There are an estimated 30\nmillion Linux users out there."
+    } ]
+  }, {
+    "tStartMs": 428803,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "- How long you been standing there?"
+    } ]
+  }, {
+    "tStartMs": 430596,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "- A long time."
+    } ]
+  }, {
+    "tStartMs": 432598,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "- And it's not even just\nlimited to computers."
+    } ]
+  }, {
+    "tStartMs": 435351,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "Your electronic vacuum\nis definitely Linux."
+    } ]
+  }, {
+    "tStartMs": 438187,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "Your camera is definitely Linux."
+    } ]
+  }, {
+    "tStartMs": 440565,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Most TVs, most electronics are Linux."
+    } ]
+  }, {
+    "tStartMs": 443985,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "- Linux even runs some of\nthe most sensitive machines"
+    } ]
+  }, {
+    "tStartMs": 446195,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "on the planet."
+    } ]
+  }, {
+    "tStartMs": 447822,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "- You can assume that\nLinux is pretty much used"
+    } ]
+  }, {
+    "tStartMs": 449866,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "in anything of high-security need,"
+    } ]
+  }, {
+    "tStartMs": 452577,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "not necessarily because\nMicrosoft, for instance,"
+    } ]
+  }, {
+    "tStartMs": 456038,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "couldn't build something equally secure,"
+    } ]
+  }, {
+    "tStartMs": 458458,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "but because usually\nthere's secrecy involved"
+    } ]
+  }, {
+    "tStartMs": 461711,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "in building, let's say,\na new weapon system,"
+    } ]
+  }, {
+    "tStartMs": 464130,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "and you don't necessarily\nwant to have to work"
+    } ]
+  }, {
+    "tStartMs": 466507,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "with some tech company."
+    } ]
+  }, {
+    "tStartMs": 467884,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "You don't want to involve more people"
+    } ]
+  }, {
+    "tStartMs": 469385,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "than absolutely necessary."
+    } ]
+  }, {
+    "tStartMs": 471846,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "- [Henry] Of the top 500\nsupercomputers in the world,"
+    } ]
+  }, {
+    "tStartMs": 474307,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "every single one runs Linux."
+    } ]
+  }, {
+    "tStartMs": 476684,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "It's used in the Pentagon\nand on US nuclear submarines."
+    } ]
+  }, {
+    "tStartMs": 480855,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "- Every bank you can think of really,"
+    } ]
+  }, {
+    "tStartMs": 482982,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "manufacturers, hospitals, governments,"
+    } ]
+  }, {
+    "tStartMs": 487069,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "defense organizations\nand things like that,"
+    } ]
+  }, {
+    "tStartMs": 489030,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "they're all running Linux servers."
+    } ]
+  }, {
+    "tStartMs": 491073,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "- Today, Linux is everywhere,"
+    } ]
+  }, {
+    "tStartMs": 492492,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and most people are familiar\nwith Windows and macOS,"
+    } ]
+  }, {
+    "tStartMs": 495495,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "but they are not the most\npopular operating systems"
+    } ]
+  }, {
+    "tStartMs": 497705,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "in the world."
+    } ]
+  }, {
+    "tStartMs": 498706,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "No, they are dwarfed by\nsystems running a Linux kernel."
+    } ]
+  }, {
+    "tStartMs": 502418,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "Android, with over 3 billion\ndevices, is built on Linux."
+    } ]
+  }, {
+    "tStartMs": 506756,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "And it also powers the\nmajority of internet servers"
+    } ]
+  }, {
+    "tStartMs": 509175,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "in the world."
+    } ]
+  }, {
+    "tStartMs": 510009,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "- There is no one company\nthat could have imagined"
+    } ]
+  }, {
+    "tStartMs": 512470,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "all the different cases where\ncomputers are used these days,"
+    } ]
+  }, {
+    "tStartMs": 516307,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and Linux, thanks to its adaptability"
+    } ]
+  }, {
+    "tStartMs": 519310,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "where everyone can just\ntweak it in little ways"
+    } ]
+  }, {
+    "tStartMs": 521395,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "to make it fit their use case,"
+    } ]
+  }, {
+    "tStartMs": 523189,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "now covers all the use cases."
+    } ]
+  }, {
+    "tStartMs": 527235,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "- But all of this,"
+    } ]
+  }, {
+    "tStartMs": 528611,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "it all relies on one key assumption."
+    } ]
+  }, {
+    "tStartMs": 532031,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "That the code is secure."
+    } ]
+  }, {
+    "tStartMs": 533950,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Now, there's a good\nreason to feel this way."
+    } ]
+  }, {
+    "tStartMs": 536160,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "Because there are so many\npeople looking at the code,"
+    } ]
+  }, {
+    "tStartMs": 538246,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "there's this idea that bugs,"
+    } ]
+  }, {
+    "tStartMs": 539914,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "either intentional or unintentional,"
+    } ]
+  }, {
+    "tStartMs": 542291,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "won't be too deep to catch."
+    } ]
+  }, {
+    "tStartMs": 544043,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "It's known simply as Linus's Law."
+    } ]
+  }, {
+    "tStartMs": 546671,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "That with enough eyeballs,\nall bugs are shallow."
+    } ]
+  }, {
+    "tStartMs": 549674,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "But there's a big problem\nwith this assumption."
+    } ]
+  }, {
+    "tStartMs": 552468,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "The open source movement\nisn't one big project."
+    } ]
+  }, {
+    "tStartMs": 555471,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "It's an ecosystem."
+    } ]
+  }, {
+    "tStartMs": 556806,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "You need thousands of\nsmall tools and libraries"
+    } ]
+  }, {
+    "tStartMs": 559016,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "each doing a different job,"
+    } ]
+  }, {
+    "tStartMs": 560351,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "like networking, security, or compression."
+    } ]
+  }, {
+    "tStartMs": 563437,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Now, a lot of these projects start"
+    } ]
+  }, {
+    "tStartMs": 564855,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "because one person wants\nto fix a specific problem,"
+    } ]
+  }, {
+    "tStartMs": 567817,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "so they build it themselves."
+    } ]
+  }, {
+    "tStartMs": 569485,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "They're often unpaid,"
+    } ]
+  }, {
+    "tStartMs": 570486,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "coding on nights and weekends\njust to make the tool work."
+    } ]
+  }, {
+    "tStartMs": 573698,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "If it's useful, one open\nsource project adopts it,"
+    } ]
+  }, {
+    "tStartMs": 576534,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "then another,"
+    } ]
+  }, {
+    "tStartMs": 577660,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "and suddenly you have millions of machines"
+    } ]
+  }, {
+    "tStartMs": 579787,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "all relying on one\nperson's passion project."
+    } ]
+  }, {
+    "tStartMs": 582373,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "That's how the entire ecosystem\ncan end up quietly resting"
+    } ]
+  }, {
+    "tStartMs": 585626,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "on a project maintained\nby a single volunteer."
+    } ]
+  }, {
+    "tStartMs": 588879,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "There's a famous XKCD comic"
+    } ]
+  }, {
+    "tStartMs": 590590,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "that captures this idea perfectly."
+    } ]
+  }, {
+    "tStartMs": 593134,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "But what happens when\nthat block is compromised?"
+    } ]
+  }, {
+    "tStartMs": 598306,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "In our story, our person\nisn't from Nebraska."
+    } ]
+  }, {
+    "tStartMs": 601309,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "No, Lasse Collin is from Finland,"
+    } ]
+  }, {
+    "tStartMs": 603936,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "and he's been working on a\nsmall data compression tool"
+    } ]
+  }, {
+    "tStartMs": 606314,
+    "dDurationMs": 2585,
+    "segs": [ {
+      "utf8": "called XZ since 2005."
+    } ]
+  }, {
+    "tStartMs": 608899,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "XZ is so good at compression"
+    } ]
+  }, {
+    "tStartMs": 610693,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "that it's now used in almost\nevery major Linux distribution."
+    } ]
+  }, {
+    "tStartMs": 614614,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "For the past 20 years,"
+    } ]
+  }, {
+    "tStartMs": 615698,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "almost all of the work of\nkeeping the tool compatible"
+    } ]
+  }, {
+    "tStartMs": 618367,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "with ever-evolving hardware,"
+    } ]
+  }, {
+    "tStartMs": 620244,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "it's all fallen on Lasse."
+    } ]
+  }, {
+    "tStartMs": 622163,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "He's never been paid for it,"
+    } ]
+  }, {
+    "tStartMs": 623456,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "but up till now, he's been okay with that."
+    } ]
+  }, {
+    "tStartMs": 626500,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "Recently, though, he's been\nunder more and more pressure."
+    } ]
+  }, {
+    "tStartMs": 630546,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "\"Over one month and no\ncloser to being merged."
+    } ]
+  }, {
+    "tStartMs": 633257,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Not a surprise.\""
+    } ]
+  }, {
+    "tStartMs": 634842,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "\"Progress will not happen until\nthere is a new maintainer."
+    } ]
+  }, {
+    "tStartMs": 637970,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "Submitting patches here\nhas no purpose these days."
+    } ]
+  }, {
+    "tStartMs": 640848,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "The current maintainer lost interest"
+    } ]
+  }, {
+    "tStartMs": 642516,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "or doesn't care to maintain anymore.\""
+    } ]
+  }, {
+    "tStartMs": 645019,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Lasse responds, \"I haven't lost interest,"
+    } ]
+  }, {
+    "tStartMs": 647271,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "but my ability to care\nhas been fairly limited,"
+    } ]
+  }, {
+    "tStartMs": 650066,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "mostly due to long-term\nmental health issues,"
+    } ]
+  }, {
+    "tStartMs": 652568,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "but also due to some other things."
+    } ]
+  }, {
+    "tStartMs": 654612,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "It's also good to keep in mind"
+    } ]
+  }, {
+    "tStartMs": 656155,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "that this is an unpaid hobby project.\""
+    } ]
+  }, {
+    "tStartMs": 659116,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "But it's not enough."
+    } ]
+  }, {
+    "tStartMs": 660910,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "\"I'm sorry about your\nmental health issues,"
+    } ]
+  }, {
+    "tStartMs": 662870,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "but it's important to be\naware of your own limits."
+    } ]
+  }, {
+    "tStartMs": 665456,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "The community desires more."
+    } ]
+  }, {
+    "tStartMs": 667458,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "You ignore the many patches bit"
+    } ]
+  }, {
+    "tStartMs": 669168,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "rotting away on this mailing list."
+    } ]
+  }, {
+    "tStartMs": 670753,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "Right now, you choke your repo.\""
+    } ]
+  }, {
+    "tStartMs": 673381,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "Lasse is burning out."
+    } ]
+  }, {
+    "tStartMs": 675299,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "But just when he thinks he\ncan't handle it anymore..."
+    } ]
+  }, {
+    "tStartMs": 679220,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "\"Nice job to both of you\nfor getting this feature"
+    } ]
+  }, {
+    "tStartMs": 680971,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "as far as it is already."
+    } ]
+  }, {
+    "tStartMs": 682932,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Just trying to do my\npart as a helper elf.\""
+    } ]
+  }, {
+    "tStartMs": 685142,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Signed, Jia Tan."
+    } ]
+  }, {
+    "tStartMs": 687144,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "For months, Jia has been taking\nsome of the load off Lasse."
+    } ]
+  }, {
+    "tStartMs": 690189,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "He's been incredibly helpful."
+    } ]
+  }, {
+    "tStartMs": 692024,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Now he offers to step up"
+    } ]
+  }, {
+    "tStartMs": 693442,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "and take over as\nmaintainer of the project."
+    } ]
+  }, {
+    "tStartMs": 696237,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "To Lasse, it sounds almost\ntoo good to be true."
+    } ]
+  }, {
+    "tStartMs": 699615,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "\"As I've hinted in earlier emails,"
+    } ]
+  }, {
+    "tStartMs": 701283,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Jia Tan may have a bigger\nrole in the project"
+    } ]
+  }, {
+    "tStartMs": 703452,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "in the future.\""
+    } ]
+  }, {
+    "tStartMs": 704745,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "Finally, Lasse can step back and breathe"
+    } ]
+  }, {
+    "tStartMs": 706872,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "after 20 years of hard work."
+    } ]
+  }, {
+    "tStartMs": 709834,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "But Jia is not who he appears to be."
+    } ]
+  }, {
+    "tStartMs": 713504,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "And he's identified\nLasse Collin's XZ project"
+    } ]
+  }, {
+    "tStartMs": 716298,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "as a weak link in the Linux ecosystem,"
+    } ]
+  }, {
+    "tStartMs": 718843,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "one that could give him access"
+    } ]
+  }, {
+    "tStartMs": 720052,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "to almost every computer on the internet."
+    } ]
+  }, {
+    "tStartMs": 722596,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 728936,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Today we take secure\nremote logins for granted."
+    } ]
+  }, {
+    "tStartMs": 731397,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "I mean, they've worked\nreliably for over 30 years."
+    } ]
+  }, {
+    "tStartMs": 734024,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "But it all started in 1995"
+    } ]
+  }, {
+    "tStartMs": 736235,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "at the Helsinki University of Technology"
+    } ]
+  }, {
+    "tStartMs": 738696,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "when a hacker captured thousands\nof usernames and passwords"
+    } ]
+  }, {
+    "tStartMs": 741699,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "sent over the campus network"
+    } ]
+  }, {
+    "tStartMs": 743325,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "in a sniffing attack."
+    } ]
+  }, {
+    "tStartMs": 745327,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "In hindsight, the problem's obvious."
+    } ]
+  }, {
+    "tStartMs": 747163,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "These login requests were being\nsent totally in plain text,"
+    } ]
+  }, {
+    "tStartMs": 750332,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "so anyone who intercepted\nthe data could just read it."
+    } ]
+  }, {
+    "tStartMs": 754503,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 756505,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "When Tatu Ylonen, a computer\nresearcher at the university,"
+    } ]
+  }, {
+    "tStartMs": 759300,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "learned of the attack,"
+    } ]
+  }, {
+    "tStartMs": 760426,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "he made it his mission to ensure"
+    } ]
+  }, {
+    "tStartMs": 761844,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "that it would never happen again."
+    } ]
+  }, {
+    "tStartMs": 764180,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "- [Tatu] Password sniffing was perhaps"
+    } ]
+  }, {
+    "tStartMs": 766432,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "the most serious security issue\non the internet back then."
+    } ]
+  }, {
+    "tStartMs": 771687,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "- To do this, his solution\nneeded to ensure two things."
+    } ]
+  }, {
+    "tStartMs": 775149,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "First, machines had to\nestablish a secure connection."
+    } ]
+  }, {
+    "tStartMs": 778360,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "If both computers could\nagree on a shared secret code"
+    } ]
+  }, {
+    "tStartMs": 781030,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "that they would use to\nscramble their data,"
+    } ]
+  }, {
+    "tStartMs": 782865,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "then even if they were overheard,"
+    } ]
+  }, {
+    "tStartMs": 784700,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "anyone without that secret\ncode would just get gibberish."
+    } ]
+  }, {
+    "tStartMs": 787328,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Now, you could agree on that shared secret"
+    } ]
+  }, {
+    "tStartMs": 789121,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "ahead of time in person."
+    } ]
+  }, {
+    "tStartMs": 790456,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "- Password."
+    } ]
+  }, {
+    "tStartMs": 791874,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "- But on the internet,\nthat's rarely practical."
+    } ]
+  }, {
+    "tStartMs": 794502,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "No, you have to agree\non that shared secret"
+    } ]
+  }, {
+    "tStartMs": 797046,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "ahead of time without ever having met"
+    } ]
+  }, {
+    "tStartMs": 799089,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "and also with someone\nlistening in the entire time."
+    } ]
+  }, {
+    "tStartMs": 801342,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "It sounds really tricky,\nbut there is a way to do it,"
+    } ]
+  }, {
+    "tStartMs": 804553,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "and I can show you how\nusing this jar of paint."
+    } ]
+  }, {
+    "tStartMs": 807306,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Say I'm trying to send a\nmessage to Gregor over there."
+    } ]
+  }, {
+    "tStartMs": 810851,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "First step is we agree\non a shared public color."
+    } ]
+  }, {
+    "tStartMs": 813896,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Let's pick this red."
+    } ]
+  }, {
+    "tStartMs": 815439,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "This is no secret, anyone can see this."
+    } ]
+  }, {
+    "tStartMs": 818317,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Now we each pick our own private color."
+    } ]
+  }, {
+    "tStartMs": 820778,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "I'm gonna pick yellow, and he\ncan pick whatever he wants."
+    } ]
+  }, {
+    "tStartMs": 824949,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "So we take our private color,"
+    } ]
+  }, {
+    "tStartMs": 827618,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "and then I'm gonna mix\nthat with the public color."
+    } ]
+  }, {
+    "tStartMs": 831038,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "It's worth saying now"
+    } ]
+  }, {
+    "tStartMs": 831872,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "that these mixtures are assumed\nto be impossible to unmix,"
+    } ]
+  }, {
+    "tStartMs": 834667,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "so even if you know this\norange and you know this red,"
+    } ]
+  }, {
+    "tStartMs": 837002,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "you can't exactly deduce"
+    } ]
+  }, {
+    "tStartMs": 838462,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "the exact shade of yellow\nwe used to create it,"
+    } ]
+  }, {
+    "tStartMs": 840422,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "and this is important for the\nactual computer example later."
+    } ]
+  }, {
+    "tStartMs": 843384,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Okay, so I'm gonna send\nthis over to Gregor."
+    } ]
+  }, {
+    "tStartMs": 845845,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "- So, I mixed in my secret\ncolor with the public,"
+    } ]
+  }, {
+    "tStartMs": 847972,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "and I'm gonna pass this to Henry."
+    } ]
+  }, {
+    "tStartMs": 850724,
+    "dDurationMs": 1127,
+    "segs": [ {
+      "utf8": "- So, Gregor sent me this,"
+    } ]
+  }, {
+    "tStartMs": 851851,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "which looks like a sort of\ndark green sort of color."
+    } ]
+  }, {
+    "tStartMs": 855938,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "And what we're gonna do\nnow is we're gonna mix it"
+    } ]
+  }, {
+    "tStartMs": 857815,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "with my original private color."
+    } ]
+  }, {
+    "tStartMs": 861735,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "- Okay, now that I have\nHenry's secret color"
+    } ]
+  }, {
+    "tStartMs": 863737,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "mixed in with the public,"
+    } ]
+  }, {
+    "tStartMs": 864822,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "I'm gonna add some of my own."
+    } ]
+  }, {
+    "tStartMs": 868617,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "- So we end up with this\nsort of distinct olive color."
+    } ]
+  }, {
+    "tStartMs": 873122,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "There's my yellow in there, I can see,"
+    } ]
+  }, {
+    "tStartMs": 875040,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "and whatever Gregor had in his side."
+    } ]
+  }, {
+    "tStartMs": 877126,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And the thing is because\neach set of paints"
+    } ]
+  }, {
+    "tStartMs": 878836,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "went through the same process,"
+    } ]
+  }, {
+    "tStartMs": 880379,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "they both end up with\nthis same olive green,"
+    } ]
+  }, {
+    "tStartMs": 883465,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "even though we never\nshared our secret colors."
+    } ]
+  }, {
+    "tStartMs": 886385,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "So we end up with this shared\nsecret color at the end"
+    } ]
+  }, {
+    "tStartMs": 889471,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "that no one else can get,"
+    } ]
+  }, {
+    "tStartMs": 890890,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "and that means that we can\nuse it as our secret code"
+    } ]
+  }, {
+    "tStartMs": 892850,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "when sending information."
+    } ]
+  }, {
+    "tStartMs": 894310,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Now, in the real exchange,"
+    } ]
+  }, {
+    "tStartMs": 895519,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "we use big public numbers\ninstead of colors,"
+    } ]
+  }, {
+    "tStartMs": 897938,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "but the idea is the exact same."
+    } ]
+  }, {
+    "tStartMs": 899690,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "Each side mixes in\ntheir own private number"
+    } ]
+  }, {
+    "tStartMs": 902443,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "using some math that, when\nyou try to reverse it,"
+    } ]
+  }, {
+    "tStartMs": 904695,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "leads to a discreet log problem,"
+    } ]
+  }, {
+    "tStartMs": 906405,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "which makes it practically\nimpossible to unmix them."
+    } ]
+  }, {
+    "tStartMs": 908949,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "That way, we solve the first problem."
+    } ]
+  }, {
+    "tStartMs": 911577,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "But there is another threat\nthat's unaccounted for."
+    } ]
+  }, {
+    "tStartMs": 914121,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "Say a hacker, like Casper here,\ntries to sit in between us."
+    } ]
+  }, {
+    "tStartMs": 918792,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Now we can create a legitimate connection,"
+    } ]
+  }, {
+    "tStartMs": 921295,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "so we end up with a shared secret code,"
+    } ]
+  }, {
+    "tStartMs": 923714,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "and Casper could do the\nexact same thing with Gregor."
+    } ]
+  }, {
+    "tStartMs": 927343,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "Now, whenever I send a message,\nhe can relay that to Gregor,"
+    } ]
+  }, {
+    "tStartMs": 930596,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "he can change and modify it\nand send his response back."
+    } ]
+  }, {
+    "tStartMs": 933599,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "And to each of us, the\nconnection looks legitimate,"
+    } ]
+  }, {
+    "tStartMs": 935893,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "but Casper's sitting\nbetween us the whole time."
+    } ]
+  }, {
+    "tStartMs": 938145,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "He's a man in the middle."
+    } ]
+  }, {
+    "tStartMs": 940147,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "So, I need a way of authenticating"
+    } ]
+  }, {
+    "tStartMs": 941649,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "that Gregor is really who he says he is."
+    } ]
+  }, {
+    "tStartMs": 944318,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Now, we could do this again"
+    } ]
+  }, {
+    "tStartMs": 945486,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "by agreeing on a password\nahead of time in person,"
+    } ]
+  }, {
+    "tStartMs": 948113,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "but we need a practical way\nto do it over the internet."
+    } ]
+  }, {
+    "tStartMs": 950950,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "This was the second problem\nthat Tatu had to solve."
+    } ]
+  }, {
+    "tStartMs": 953953,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "To make that happen,"
+    } ]
+  }, {
+    "tStartMs": 954787,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Gregor can take two\nreally big prime numbers,"
+    } ]
+  }, {
+    "tStartMs": 957039,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "which he keeps secret."
+    } ]
+  }, {
+    "tStartMs": 958666,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "He then multiplies them together"
+    } ]
+  }, {
+    "tStartMs": 960125,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "to get an even bigger number,"
+    } ]
+  }, {
+    "tStartMs": 961502,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "which he then makes public."
+    } ]
+  }, {
+    "tStartMs": 963504,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Now, when I want to send Gregor a message,"
+    } ]
+  }, {
+    "tStartMs": 965214,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "I just take that big public number"
+    } ]
+  }, {
+    "tStartMs": 967007,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "and I scramble it in a\nway that only Gregor,"
+    } ]
+  }, {
+    "tStartMs": 969259,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "who knows the two prime factors"
+    } ]
+  }, {
+    "tStartMs": 970636,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "that make up that big public number,"
+    } ]
+  }, {
+    "tStartMs": 972221,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "can successfully unscramble."
+    } ]
+  }, {
+    "tStartMs": 974264,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "For anyone else,"
+    } ]
+  }, {
+    "tStartMs": 975099,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "getting those two prime factors\nis practically impossible."
+    } ]
+  }, {
+    "tStartMs": 977893,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "So, as long as I know that\nthat big public number"
+    } ]
+  }, {
+    "tStartMs": 979979,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "actually belongs to Gregor,"
+    } ]
+  }, {
+    "tStartMs": 981438,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I know that anything encrypted to that key"
+    } ]
+  }, {
+    "tStartMs": 983148,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "can only be read by him."
+    } ]
+  }, {
+    "tStartMs": 984858,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "This is called RSA encryption,"
+    } ]
+  }, {
+    "tStartMs": 986860,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "and it means that if I know\nthe certificate is valid,"
+    } ]
+  }, {
+    "tStartMs": 989113,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "then I accept the connection."
+    } ]
+  }, {
+    "tStartMs": 990698,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "And by authenticating Gregor,"
+    } ]
+  }, {
+    "tStartMs": 992116,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "it foils our man in the\nmiddle, Casper Devious."
+    } ]
+  }, {
+    "tStartMs": 996578,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 998080,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Tatu Ylonen combined these two steps,"
+    } ]
+  }, {
+    "tStartMs": 1000416,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "securing the channel and\nauthenticating the user,"
+    } ]
+  }, {
+    "tStartMs": 1002876,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "into a protocol for remote\nlogins between machines."
+    } ]
+  }, {
+    "tStartMs": 1006046,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "It gave you the same simple\ntext shell people were used to,"
+    } ]
+  }, {
+    "tStartMs": 1009383,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "a plain terminal where you type commands,"
+    } ]
+  }, {
+    "tStartMs": 1011468,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "but now the connection was encrypted."
+    } ]
+  }, {
+    "tStartMs": 1013804,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "He called it Secure Shell, or SSH."
+    } ]
+  }, {
+    "tStartMs": 1017057,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "And it was immediately useful."
+    } ]
+  }, {
+    "tStartMs": 1019226,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "Many Linux machines don't even\nhave keyboards or monitors,"
+    } ]
+  }, {
+    "tStartMs": 1022271,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "especially not servers,"
+    } ]
+  }, {
+    "tStartMs": 1023772,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "so you wanna be able to log\nin and control them remotely."
+    } ]
+  }, {
+    "tStartMs": 1026775,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "So SSH was soon adopted"
+    } ]
+  }, {
+    "tStartMs": 1028444,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "on almost every machine that ran Linux."
+    } ]
+  }, {
+    "tStartMs": 1031071,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "And as Linux spread, so too did SSH."
+    } ]
+  }, {
+    "tStartMs": 1034408,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Today, when you control\na machine remotely,"
+    } ]
+  }, {
+    "tStartMs": 1036452,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "there's a good chance you're using SSH."
+    } ]
+  }, {
+    "tStartMs": 1038245,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "- SSH is literally the\nmaintenance backbone"
+    } ]
+  }, {
+    "tStartMs": 1042249,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "of the entire internet."
+    } ]
+  }, {
+    "tStartMs": 1043625,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "- And the most widely used\nopen source SSH implementation"
+    } ]
+  }, {
+    "tStartMs": 1046920,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "is called OpenSSH."
+    } ]
+  }, {
+    "tStartMs": 1049089,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "And because it's so popular,\nit's heavily protected."
+    } ]
+  }, {
+    "tStartMs": 1053427,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "- I mean, OpenSSH is probably"
+    } ]
+  }, {
+    "tStartMs": 1055387,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "one of the most closely\nexamined projects out there"
+    } ]
+  }, {
+    "tStartMs": 1059850,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "because it's just so vitally important"
+    } ]
+  }, {
+    "tStartMs": 1062436,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "to the security of servers everywhere."
+    } ]
+  }, {
+    "tStartMs": 1064396,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Having a way to bypass the\nauthentication in secure shell"
+    } ]
+  }, {
+    "tStartMs": 1069026,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "is like having the\nmaster key to the hotel."
+    } ]
+  }, {
+    "tStartMs": 1071695,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "It lets you into every room."
+    } ]
+  }, {
+    "tStartMs": 1074073,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 1076033,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "- [Henry] This is why Jia\nTan wants a way into OpenSSH,"
+    } ]
+  }, {
+    "tStartMs": 1079411,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "but trying to hack it directly\nwould be almost impossible."
+    } ]
+  }, {
+    "tStartMs": 1083123,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "Lucky for Jia, the open\nsource model doesn't just mean"
+    } ]
+  }, {
+    "tStartMs": 1086001,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "that operating systems\nare stitched together"
+    } ]
+  }, {
+    "tStartMs": 1087961,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "from many programs,"
+    } ]
+  }, {
+    "tStartMs": 1089463,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "but that each of those programs\nis itself stitched together"
+    } ]
+  }, {
+    "tStartMs": 1092549,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "from other programs."
+    } ]
+  }, {
+    "tStartMs": 1094218,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "Those are called dependencies."
+    } ]
+  }, {
+    "tStartMs": 1096303,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "- OpenSSH is one of the most\nscrutinized software packages,"
+    } ]
+  }, {
+    "tStartMs": 1099890,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "but that doesn't extend to\nall of its dependencies."
+    } ]
+  }, {
+    "tStartMs": 1104144,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "- Jia believes that if he can compromise"
+    } ]
+  }, {
+    "tStartMs": 1105896,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "a dependency of OpenSSH,"
+    } ]
+  }, {
+    "tStartMs": 1107481,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "he can sneak an exploit\ninto the main project."
+    } ]
+  }, {
+    "tStartMs": 1110692,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "And it just so happens"
+    } ]
+  }, {
+    "tStartMs": 1111777,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "that Lasse Collin's compression tool XZ"
+    } ]
+  }, {
+    "tStartMs": 1114154,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "is linked through a chain\nof these dependencies."
+    } ]
+  }, {
+    "tStartMs": 1118784,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 1123497,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "Now, Lasse's original goal with XZ"
+    } ]
+  }, {
+    "tStartMs": 1125582,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "was to find a better way\nto compress data on Linux."
+    } ]
+  }, {
+    "tStartMs": 1128335,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "That data could be anything."
+    } ]
+  }, {
+    "tStartMs": 1129753,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "Code, an image, text."
+    } ]
+  }, {
+    "tStartMs": 1131880,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "But what was important to Lasse"
+    } ]
+  }, {
+    "tStartMs": 1133423,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "was that once you compressed\nand decompressed it,"
+    } ]
+  }, {
+    "tStartMs": 1136009,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "it had to come back exactly the same."
+    } ]
+  }, {
+    "tStartMs": 1138303,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "The method had to be lossless."
+    } ]
+  }, {
+    "tStartMs": 1140597,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Let me give you an example."
+    } ]
+  }, {
+    "tStartMs": 1141640,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "We're gonna take the lyrics"
+    } ]
+  }, {
+    "tStartMs": 1142933,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "to Rick Astley's hit\n\"Never Gonna Give You Up\""
+    } ]
+  }, {
+    "tStartMs": 1145310,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "and we're gonna try to compress it."
+    } ]
+  }, {
+    "tStartMs": 1147062,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Now, say we take this"
+    } ]
+  }, {
+    "tStartMs": 1148605,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "and we represent it as\na stream of characters,"
+    } ]
+  }, {
+    "tStartMs": 1151233,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "and each one gets a\nfixed-width 8-bit code."
+    } ]
+  }, {
+    "tStartMs": 1154987,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Now, that works, but it's inefficient."
+    } ]
+  }, {
+    "tStartMs": 1157698,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "If we go through this stream"
+    } ]
+  }, {
+    "tStartMs": 1158991,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "and just count up how\noften each symbol appears,"
+    } ]
+  }, {
+    "tStartMs": 1161410,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "you'll notice there's a pattern."
+    } ]
+  }, {
+    "tStartMs": 1162828,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Some appear more frequently,"
+    } ]
+  }, {
+    "tStartMs": 1164830,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "like N with 430 uses,"
+    } ]
+  }, {
+    "tStartMs": 1167040,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "and some, barely at all,"
+    } ]
+  }, {
+    "tStartMs": 1168584,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "like J with one use."
+    } ]
+  }, {
+    "tStartMs": 1170586,
+    "dDurationMs": 875,
+    "segs": [ {
+      "utf8": "To save space,"
+    } ]
+  }, {
+    "tStartMs": 1171461,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "why don't we give the ones\nthat appear more frequently"
+    } ]
+  }, {
+    "tStartMs": 1173422,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "shorter codes,"
+    } ]
+  }, {
+    "tStartMs": 1174673,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "and the rarer ones, well,\nthey can afford to be long."
+    } ]
+  }, {
+    "tStartMs": 1177634,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "But how do we do that?"
+    } ]
+  }, {
+    "tStartMs": 1178844,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "So, let's start by counting up\nhow often each symbol appears"
+    } ]
+  }, {
+    "tStartMs": 1182055,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and sorting that from most\nfrequent to least frequent."
+    } ]
+  }, {
+    "tStartMs": 1185058,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "We take the two least frequent symbols"
+    } ]
+  }, {
+    "tStartMs": 1186768,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "and join them together into a pair."
+    } ]
+  }, {
+    "tStartMs": 1188812,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "We then treat that pair\nas a new combined symbol"
+    } ]
+  }, {
+    "tStartMs": 1191148,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "whose frequency is the sum\nof the two it represents."
+    } ]
+  }, {
+    "tStartMs": 1194484,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "We can then reinsert\nthat back into the list."
+    } ]
+  }, {
+    "tStartMs": 1197070,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Then we do it again."
+    } ]
+  }, {
+    "tStartMs": 1198405,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "We take the two least\nfrequent items, combine them,"
+    } ]
+  }, {
+    "tStartMs": 1201742,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "and then reinsert them back into the list."
+    } ]
+  }, {
+    "tStartMs": 1203702,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And we do that over and over again"
+    } ]
+  }, {
+    "tStartMs": 1205412,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "until we get this massive\nstructure called a Huffman tree."
+    } ]
+  }, {
+    "tStartMs": 1209458,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Now, to get our codes,\nwe just walk the tree."
+    } ]
+  }, {
+    "tStartMs": 1212002,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "A step right is a 1, a step left is a 0."
+    } ]
+  }, {
+    "tStartMs": 1215297,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "So, for example, to get R,"
+    } ]
+  }, {
+    "tStartMs": 1216798,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "we just go right, left, left, right,"
+    } ]
+  }, {
+    "tStartMs": 1219218,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "so the code is 1001."
+    } ]
+  }, {
+    "tStartMs": 1221470,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "So what you'll notice is the\nmore commonly occurring symbols"
+    } ]
+  }, {
+    "tStartMs": 1224306,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "naturally appear at the top of the tree,"
+    } ]
+  }, {
+    "tStartMs": 1226225,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "so they get shorter codes,"
+    } ]
+  }, {
+    "tStartMs": 1227809,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "while the ones that appear less frequently"
+    } ]
+  }, {
+    "tStartMs": 1229269,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "are at the bottom of the tree."
+    } ]
+  }, {
+    "tStartMs": 1230729,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "The system works well, but\nit also has a weakness."
+    } ]
+  }, {
+    "tStartMs": 1233649,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "In our \"Never Gonna Give You Up\" example,"
+    } ]
+  }, {
+    "tStartMs": 1235275,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "it always encodes N-E-V-E-R space."
+    } ]
+  }, {
+    "tStartMs": 1239571,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "It doesn't realize that\nthis whole chunk repeats."
+    } ]
+  }, {
+    "tStartMs": 1242532,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "So, what if instead of looking at symbols,"
+    } ]
+  }, {
+    "tStartMs": 1244451,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "we looked at those chunks?"
+    } ]
+  }, {
+    "tStartMs": 1246245,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Now, they don't have to be words,"
+    } ]
+  }, {
+    "tStartMs": 1247454,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "they can be parts of words or even longer."
+    } ]
+  }, {
+    "tStartMs": 1249248,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "They just have to be patterns that repeat."
+    } ]
+  }, {
+    "tStartMs": 1251250,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "So let's scan through the text"
+    } ]
+  }, {
+    "tStartMs": 1252668,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "but keep a rolling dictionary\nof what we've just seen."
+    } ]
+  }, {
+    "tStartMs": 1255420,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "Then, as we move forward,"
+    } ]
+  }, {
+    "tStartMs": 1256546,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "we can check whether the next\nchunk has already appeared."
+    } ]
+  }, {
+    "tStartMs": 1259549,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "And if it has, we don't need\nto write that chunk again."
+    } ]
+  }, {
+    "tStartMs": 1262094,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "We just write a code with two\nnumbers, how far back to look,"
+    } ]
+  }, {
+    "tStartMs": 1265180,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and how many characters to copy."
+    } ]
+  }, {
+    "tStartMs": 1267349,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Now, when we decompress,"
+    } ]
+  }, {
+    "tStartMs": 1268850,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "we can just read along"
+    } ]
+  }, {
+    "tStartMs": 1270018,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "and whenever we hit one of these codes,"
+    } ]
+  }, {
+    "tStartMs": 1271937,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "we jump back, copy the matching chunk,"
+    } ]
+  }, {
+    "tStartMs": 1273981,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "and paste it into place."
+    } ]
+  }, {
+    "tStartMs": 1275899,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Two scientists, Lempel and Ziv,"
+    } ]
+  }, {
+    "tStartMs": 1277651,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "published this algorithm in 1977,"
+    } ]
+  }, {
+    "tStartMs": 1280112,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "so it became known as LZ77."
+    } ]
+  }, {
+    "tStartMs": 1284616,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "But some of these symbols and pointers"
+    } ]
+  }, {
+    "tStartMs": 1286201,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "show up more often than others."
+    } ]
+  }, {
+    "tStartMs": 1288161,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "They actually have their own frequencies."
+    } ]
+  }, {
+    "tStartMs": 1290497,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "So we can feed that whole\nstream into another Huffman tree"
+    } ]
+  }, {
+    "tStartMs": 1293250,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "to get a second layer of compression."
+    } ]
+  }, {
+    "tStartMs": 1295419,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "And in our demo,"
+    } ]
+  }, {
+    "tStartMs": 1296295,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "it actually gets the file down 85% smaller"
+    } ]
+  }, {
+    "tStartMs": 1299006,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "than the original."
+    } ]
+  }, {
+    "tStartMs": 1300632,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "This might look new,"
+    } ]
+  }, {
+    "tStartMs": 1301633,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "but you've almost\ncertainly used it yourself."
+    } ]
+  }, {
+    "tStartMs": 1303969,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "It's called deflate,"
+    } ]
+  }, {
+    "tStartMs": 1305262,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "but it's better known for\nthe files it creates, .zip."
+    } ]
+  }, {
+    "tStartMs": 1309016,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "If you ever clicked Close on this before,"
+    } ]
+  }, {
+    "tStartMs": 1310767,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "you've definitely used it."
+    } ]
+  }, {
+    "tStartMs": 1312978,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "But Huffman only uses\nthe overall frequency"
+    } ]
+  }, {
+    "tStartMs": 1316398,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "of a chunk repeating."
+    } ]
+  }, {
+    "tStartMs": 1318150,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "Real data isn't just random chunks."
+    } ]
+  }, {
+    "tStartMs": 1321194,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "In our example, after \"Never gonna\","
+    } ]
+  }, {
+    "tStartMs": 1323405,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "you might get \"give you\nup\", \"let you down\","
+    } ]
+  }, {
+    "tStartMs": 1327284,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "or \"run around and desert you\"."
+    } ]
+  }, {
+    "tStartMs": 1328994,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "You might get \"make you cry\","
+    } ]
+  }, {
+    "tStartMs": 1330454,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "you might get \"say goodbye\"\nor \"tell a lie and hurt you\"."
+    } ]
+  }, {
+    "tStartMs": 1333498,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Each one has its own probability,"
+    } ]
+  }, {
+    "tStartMs": 1335709,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "and you can represent these probabilities"
+    } ]
+  }, {
+    "tStartMs": 1337502,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "with a mathematical tool\ncalled a Markov chain."
+    } ]
+  }, {
+    "tStartMs": 1340505,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "The algorithm can then\nencode the stream of data"
+    } ]
+  }, {
+    "tStartMs": 1343800,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "so that the more probable\nnext chunks cost few bits"
+    } ]
+  }, {
+    "tStartMs": 1347554,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "and the less probable ones cost more."
+    } ]
+  }, {
+    "tStartMs": 1350182,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "If you combine that with a\nmuch bigger search window"
+    } ]
+  }, {
+    "tStartMs": 1352809,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "so it can point much\nfurther back in memory,"
+    } ]
+  }, {
+    "tStartMs": 1354936,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "then you get the Lempel Ziv\nMarkov chain algorithm, or LZMA."
+    } ]
+  }, {
+    "tStartMs": 1359649,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "LZMA was developed by\nIgor Pavlov around 1998,"
+    } ]
+  }, {
+    "tStartMs": 1362903,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "and it often beats much\nmore familiar methods."
+    } ]
+  }, {
+    "tStartMs": 1365864,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "In many cases,"
+    } ]
+  }, {
+    "tStartMs": 1366698,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "it can shrink files to\nabout 70% of the size"
+    } ]
+  }, {
+    "tStartMs": 1369409,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "of a typical .zip."
+    } ]
+  }, {
+    "tStartMs": 1370994,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "Lasse took this elegant\ncompression algorithm"
+    } ]
+  }, {
+    "tStartMs": 1373121,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "and made it work on Linux,"
+    } ]
+  }, {
+    "tStartMs": 1374831,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "and he called it XZ not\nbecause it stood for anything,"
+    } ]
+  }, {
+    "tStartMs": 1377667,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "but just because it sounded cool."
+    } ]
+  }, {
+    "tStartMs": 1379878,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "- I'm using XZ quite a lot."
+    } ]
+  }, {
+    "tStartMs": 1381713,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "I think XZ is a wonderful project."
+    } ]
+  }, {
+    "tStartMs": 1383757,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "There are lots of different\nways of compressing data."
+    } ]
+  }, {
+    "tStartMs": 1386051,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Some of them are fast but\nthey don't compress very well,"
+    } ]
+  }, {
+    "tStartMs": 1389596,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "and some of them are slow"
+    } ]
+  }, {
+    "tStartMs": 1392057,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "but they get extremely good compression."
+    } ]
+  }, {
+    "tStartMs": 1395477,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "- But across Linux,"
+    } ]
+  }, {
+    "tStartMs": 1396520,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "projects are constantly shipping\nthe same files and updates"
+    } ]
+  }, {
+    "tStartMs": 1399106,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "to millions of machines,"
+    } ]
+  }, {
+    "tStartMs": 1400690,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "so XZ is perfect."
+    } ]
+  }, {
+    "tStartMs": 1402192,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "You compress something once,"
+    } ]
+  }, {
+    "tStartMs": 1403485,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "then you get a smaller\nfile to download forever."
+    } ]
+  }, {
+    "tStartMs": 1406321,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Lasse released XZ in 2009,"
+    } ]
+  }, {
+    "tStartMs": 1408740,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "and over the next decade and a half,"
+    } ]
+  }, {
+    "tStartMs": 1410242,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "it went from a niche\ntool to the common choice"
+    } ]
+  }, {
+    "tStartMs": 1412661,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "whenever a project needed\neffective lossless compression."
+    } ]
+  }, {
+    "tStartMs": 1415664,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "So, XZ quietly spread everywhere,"
+    } ]
+  }, {
+    "tStartMs": 1417999,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "eventually becoming a\ndependency of OpenSSH."
+    } ]
+  }, {
+    "tStartMs": 1421753,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 1426508,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "- So, it was at some point\nin about February 2024"
+    } ]
+  }, {
+    "tStartMs": 1430303,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "and Jia Tan, he emails me."
+    } ]
+  }, {
+    "tStartMs": 1433098,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "He's got all these new features\nin the new version of XZ."
+    } ]
+  }, {
+    "tStartMs": 1437269,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "- [Henry] He wins Rich\nover almost immediately."
+    } ]
+  }, {
+    "tStartMs": 1440897,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "- So I get to talk to hundreds\nof contributors all the time,"
+    } ]
+  }, {
+    "tStartMs": 1443275,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "and I do get a feel for them."
+    } ]
+  }, {
+    "tStartMs": 1446528,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "I feel, you know, are they good coders,"
+    } ]
+  }, {
+    "tStartMs": 1449406,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "which is what I really care about."
+    } ]
+  }, {
+    "tStartMs": 1451366,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Are they conscientious\npeople, are they helpful?"
+    } ]
+  }, {
+    "tStartMs": 1454494,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Do they respond to bug reports quickly?"
+    } ]
+  }, {
+    "tStartMs": 1458623,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "And in all of the dimensions,"
+    } ]
+  }, {
+    "tStartMs": 1460750,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Jia Tan would be a very good contributor"
+    } ]
+  }, {
+    "tStartMs": 1463670,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "because he's obviously a good coder."
+    } ]
+  }, {
+    "tStartMs": 1466506,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "He's very responsive, he's very keen,"
+    } ]
+  }, {
+    "tStartMs": 1469092,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "and I love all that."
+    } ]
+  }, {
+    "tStartMs": 1470594,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "- All indications are that\nJia is a great contributor,"
+    } ]
+  }, {
+    "tStartMs": 1473930,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "and this puts Rich at ease,"
+    } ]
+  }, {
+    "tStartMs": 1475515,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "so he lets his guard down."
+    } ]
+  }, {
+    "tStartMs": 1477142,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "And that's often where the\nproblems start on the internet."
+    } ]
+  }, {
+    "tStartMs": 1479519,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "You can't keep your guard up forever."
+    } ]
+  }, {
+    "tStartMs": 1481396,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "But lucky for us,"
+    } ]
+  }, {
+    "tStartMs": 1482439,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "with today's sponsor, NordVPN,"
+    } ]
+  }, {
+    "tStartMs": 1484483,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "you don't have to."
+    } ]
+  }, {
+    "tStartMs": 1485317,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "NordVPN's Threat Protection Pro"
+    } ]
+  }, {
+    "tStartMs": 1487360,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "blocks dangerous websites\nbefore they load."
+    } ]
+  }, {
+    "tStartMs": 1489988,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "It stops malicious downloads"
+    } ]
+  }, {
+    "tStartMs": 1491531,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "and it strips out trackers and\nintrusive ads automatically."
+    } ]
+  }, {
+    "tStartMs": 1494743,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "And it works even when you're\nnot connected to the VPN,"
+    } ]
+  }, {
+    "tStartMs": 1497621,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "so a lot of these attacks\nnever get the chance to start"
+    } ]
+  }, {
+    "tStartMs": 1500081,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "in the first place."
+    } ]
+  }, {
+    "tStartMs": 1500957,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "I use NordVPN whenever I'm traveling"
+    } ]
+  }, {
+    "tStartMs": 1503043,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "or working on public wifi"
+    } ]
+  }, {
+    "tStartMs": 1504503,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "because it means that\nI don't have to think"
+    } ]
+  }, {
+    "tStartMs": 1505837,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "about who's running the network."
+    } ]
+  }, {
+    "tStartMs": 1507380,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "It's just one click"
+    } ]
+  }, {
+    "tStartMs": 1508423,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "and it's so fast that I\noften forget that it's on."
+    } ]
+  }, {
+    "tStartMs": 1510675,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "Not just that,"
+    } ]
+  }, {
+    "tStartMs": 1511551,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "if there's a show that's no\nlonger available in my region"
+    } ]
+  }, {
+    "tStartMs": 1514513,
+    "dDurationMs": 2293,
+    "segs": [ {
+      "utf8": "or a sports team that's blacked out,"
+    } ]
+  }, {
+    "tStartMs": 1516806,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "like I'm often watching\ninternational football"
+    } ]
+  }, {
+    "tStartMs": 1518600,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "and they don't quite\nhave it where I'm going,"
+    } ]
+  }, {
+    "tStartMs": 1520602,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "well, in that case,"
+    } ]
+  }, {
+    "tStartMs": 1521478,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "I can just switch my server\nlocation with one click"
+    } ]
+  }, {
+    "tStartMs": 1523980,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "to unlock the content."
+    } ]
+  }, {
+    "tStartMs": 1525190,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Apparently you can even use it"
+    } ]
+  }, {
+    "tStartMs": 1526483,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "to find better deals on plane tickets"
+    } ]
+  }, {
+    "tStartMs": 1528485,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "by changing your IP\naddress to another country."
+    } ]
+  }, {
+    "tStartMs": 1531321,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "I haven't tried it yet, but\nthat sounds fascinating."
+    } ]
+  }, {
+    "tStartMs": 1533907,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "So, if you wanna try it,\nyou can get the best deal"
+    } ]
+  }, {
+    "tStartMs": 1536117,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "by going to nordvpn.com/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1539329,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "When you use that link or this QR code,"
+    } ]
+  }, {
+    "tStartMs": 1541998,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "you'll get a huge discount."
+    } ]
+  }, {
+    "tStartMs": 1543625,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Also, you get a 30-day money\nback guarantee through Nord."
+    } ]
+  }, {
+    "tStartMs": 1547045,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "It's a no brainer."
+    } ]
+  }, {
+    "tStartMs": 1547963,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "So again, that's nordvpn.com/veritasium"
+    } ]
+  }, {
+    "tStartMs": 1552050,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "or you can click the link\nin the description below."
+    } ]
+  }, {
+    "tStartMs": 1554511,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Thanks so much to Nord,"
+    } ]
+  }, {
+    "tStartMs": 1555845,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "and let's get back to Jia"
+    } ]
+  }, {
+    "tStartMs": 1557806,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "and the prize he's got his eyes on."
+    } ]
+  }, {
+    "tStartMs": 1560559,
+    "dDurationMs": 2585,
+    "segs": [ {
+      "utf8": "- At this point, we\nwere preparing RHEL 10."
+    } ]
+  }, {
+    "tStartMs": 1564396,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "- [Henry] See, Red Hat ships\ntwo major flavors of Linux."
+    } ]
+  }, {
+    "tStartMs": 1567399,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Fedora, which is free\nand publicly available,"
+    } ]
+  }, {
+    "tStartMs": 1570110,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "and Red Hat Enterprise Linux, or RHEL,"
+    } ]
+  }, {
+    "tStartMs": 1573280,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "which is available through\na paid subscription."
+    } ]
+  }, {
+    "tStartMs": 1575532,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "This one has to be stable and secure"
+    } ]
+  }, {
+    "tStartMs": 1577450,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "because it's widely used on\nthe most important machines,"
+    } ]
+  }, {
+    "tStartMs": 1580287,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "like in governments and hospitals."
+    } ]
+  }, {
+    "tStartMs": 1582581,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Jia wants his code in RHEL,"
+    } ]
+  }, {
+    "tStartMs": 1584374,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "but RHEL only has a new major release"
+    } ]
+  }, {
+    "tStartMs": 1586251,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "about once every three years."
+    } ]
+  }, {
+    "tStartMs": 1588253,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "- So, there's definitely a deadline,"
+    } ]
+  }, {
+    "tStartMs": 1590463,
+    "dDurationMs": 4672,
+    "segs": [ {
+      "utf8": "and that deadline was around\nsort of March, April in 2024."
+    } ]
+  }, {
+    "tStartMs": 1595135,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "- Jia has to act fast."
+    } ]
+  }, {
+    "tStartMs": 1596678,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "He wants complete control\nof any compromised machine."
+    } ]
+  }, {
+    "tStartMs": 1599764,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "And to pull it off, he has\nthree steps in his plan."
+    } ]
+  }, {
+    "tStartMs": 1602892,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Step one, the Trojan horse."
+    } ]
+  }, {
+    "tStartMs": 1607355,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "The code for XZ lives on\na website called GitHub,"
+    } ]
+  }, {
+    "tStartMs": 1610442,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "which tracks all edits to XZ's\ncode using a tool called Git,"
+    } ]
+  }, {
+    "tStartMs": 1613903,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "which was also developed\nby Linus Torvalds."
+    } ]
+  }, {
+    "tStartMs": 1616323,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "So, Jia starts by making small changes."
+    } ]
+  }, {
+    "tStartMs": 1618700,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "He changes the primary\ncontact for bug reports"
+    } ]
+  }, {
+    "tStartMs": 1621161,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "to his own email."
+    } ]
+  }, {
+    "tStartMs": 1622412,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "He tweaks small tools\nthat will help him later."
+    } ]
+  }, {
+    "tStartMs": 1624748,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "But he can't sneak in\nthe payload this way."
+    } ]
+  }, {
+    "tStartMs": 1627375,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "I mean, it'd be too obvious."
+    } ]
+  }, {
+    "tStartMs": 1628877,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "So he needs a way to sneak it in"
+    } ]
+  }, {
+    "tStartMs": 1630503,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "without it ever appearing as\nnormal source code on GitHub."
+    } ]
+  }, {
+    "tStartMs": 1634341,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "- So, when you're writing\ncompression software,"
+    } ]
+  }, {
+    "tStartMs": 1636551,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "it's very often the case"
+    } ]
+  }, {
+    "tStartMs": 1637802,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "that your software is full\nof these binary blobs,"
+    } ]
+  }, {
+    "tStartMs": 1641473,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "as we call them,"
+    } ]
+  }, {
+    "tStartMs": 1642307,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "so just lumps of binary\nwhich are used to test"
+    } ]
+  }, {
+    "tStartMs": 1644809,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "the compression or the\ndecompression is still working."
+    } ]
+  }, {
+    "tStartMs": 1648647,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "- Nobody reads these test blobs."
+    } ]
+  }, {
+    "tStartMs": 1650398,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "They're included without ever appearing"
+    } ]
+  }, {
+    "tStartMs": 1652067,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "in the human readable source code."
+    } ]
+  }, {
+    "tStartMs": 1653985,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "They're assumed to be garbage data."
+    } ]
+  }, {
+    "tStartMs": 1656488,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "But for Jia, this is the perfect\nplace to hide his payload,"
+    } ]
+  }, {
+    "tStartMs": 1660116,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "inside something that at\nfirst glance looks harmless."
+    } ]
+  }, {
+    "tStartMs": 1664120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But in reality, it's a Trojan horse."
+    } ]
+  }, {
+    "tStartMs": 1668625,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "But with a Trojan horse inside of XZ,"
+    } ]
+  }, {
+    "tStartMs": 1670919,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "it's still just a lump\nof data in a binary blob."
+    } ]
+  }, {
+    "tStartMs": 1674089,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "He has to unpack it."
+    } ]
+  }, {
+    "tStartMs": 1676174,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "So, in the code that builds the project,"
+    } ]
+  }, {
+    "tStartMs": 1678009,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "he slips in a small easy-to-miss change."
+    } ]
+  }, {
+    "tStartMs": 1680929,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "It hides among all the\nautomatically generated code"
+    } ]
+  }, {
+    "tStartMs": 1683515,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "and quietly unpacks his payload,"
+    } ]
+  }, {
+    "tStartMs": 1685934,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "inserting it into the XZ library."
+    } ]
+  }, {
+    "tStartMs": 1688728,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "But now that it's inside of XZ,"
+    } ]
+  }, {
+    "tStartMs": 1690605,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "it still has to pick\nthe right time to act."
+    } ]
+  }, {
+    "tStartMs": 1693066,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "On to step two, Goldilocks."
+    } ]
+  }, {
+    "tStartMs": 1698321,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "Jia's end goal is to\ncompromise a very specific part"
+    } ]
+  }, {
+    "tStartMs": 1701074,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "of the SSH connection process,"
+    } ]
+  }, {
+    "tStartMs": 1703201,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "the RSA authentication step."
+    } ]
+  }, {
+    "tStartMs": 1705745,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "He realizes that if he can slip"
+    } ]
+  }, {
+    "tStartMs": 1707122,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "a small malicious component in there,"
+    } ]
+  }, {
+    "tStartMs": 1709207,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "let's call it the payload,"
+    } ]
+  }, {
+    "tStartMs": 1710709,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "then every time SSH checks for a key,"
+    } ]
+  }, {
+    "tStartMs": 1712836,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "his code will run first."
+    } ]
+  }, {
+    "tStartMs": 1714796,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "It will quietly look\nfor a special master key"
+    } ]
+  }, {
+    "tStartMs": 1716881,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "that only he knows,"
+    } ]
+  }, {
+    "tStartMs": 1718007,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and if it sees that key,\nit'll let him straight in."
+    } ]
+  }, {
+    "tStartMs": 1720677,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "If it doesn't,"
+    } ]
+  }, {
+    "tStartMs": 1721511,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "it'll call the real code\nand no one's the wiser."
+    } ]
+  }, {
+    "tStartMs": 1724264,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "So, he will have his\nbackdoor entrance to OpenSSH."
+    } ]
+  }, {
+    "tStartMs": 1727517,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "But he can't just go in\nand rewrite RSA Decrypt,"
+    } ]
+  }, {
+    "tStartMs": 1730562,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "the function that verifies\nthe client's identity"
+    } ]
+  }, {
+    "tStartMs": 1732564,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "during the login."
+    } ]
+  }, {
+    "tStartMs": 1733815,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "It's not that easy."
+    } ]
+  }, {
+    "tStartMs": 1736651,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "See, when you build an application,"
+    } ]
+  }, {
+    "tStartMs": 1738069,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "you could take all the code you need"
+    } ]
+  }, {
+    "tStartMs": 1739654,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "from different libraries"
+    } ]
+  }, {
+    "tStartMs": 1740739,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "and bundle it into your application."
+    } ]
+  }, {
+    "tStartMs": 1742699,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "But there's a big\ndrawback to this approach."
+    } ]
+  }, {
+    "tStartMs": 1745577,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "If 10 different applications on a system"
+    } ]
+  }, {
+    "tStartMs": 1747495,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "all bundle the same library,"
+    } ]
+  }, {
+    "tStartMs": 1749164,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "you end up with 10 separate\ncopies on your machine,"
+    } ]
+  }, {
+    "tStartMs": 1751958,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "so it's redundant."
+    } ]
+  }, {
+    "tStartMs": 1753793,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "That's why modern systems\nmostly use shared libraries."
+    } ]
+  }, {
+    "tStartMs": 1757130,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "When an application starts,"
+    } ]
+  }, {
+    "tStartMs": 1758381,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "the linker fills in a table of addresses."
+    } ]
+  }, {
+    "tStartMs": 1760800,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "These addresses point to the functions"
+    } ]
+  }, {
+    "tStartMs": 1762552,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "and variables it needs"
+    } ]
+  }, {
+    "tStartMs": 1763762,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "from the libraries it links to."
+    } ]
+  }, {
+    "tStartMs": 1765889,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "That table is called the\nGlobal Offset Table, or GOT."
+    } ]
+  }, {
+    "tStartMs": 1770268,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Now, when it wants to use\nsomething from a shared library,"
+    } ]
+  }, {
+    "tStartMs": 1772604,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "it just checks the GOT"
+    } ]
+  }, {
+    "tStartMs": 1774063,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "and jumps to the right spot in memory."
+    } ]
+  }, {
+    "tStartMs": 1776483,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "RSA Decrypt doesn't\nbelong to OpenSSH at all."
+    } ]
+  }, {
+    "tStartMs": 1779652,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "It comes from a shared crypto library."
+    } ]
+  }, {
+    "tStartMs": 1781696,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So to hijack authentication,"
+    } ]
+  }, {
+    "tStartMs": 1783406,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Jia can overwrite the GOT entry"
+    } ]
+  }, {
+    "tStartMs": 1785241,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "that tells SSH where it is."
+    } ]
+  }, {
+    "tStartMs": 1788411,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "And to do that, he can\nuse a little known tool"
+    } ]
+  }, {
+    "tStartMs": 1790413,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "called an IFUNC resolver."
+    } ]
+  }, {
+    "tStartMs": 1792415,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "- The IFUNC is used where"
+    } ]
+  }, {
+    "tStartMs": 1794793,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "let's say you wanna optimize your code"
+    } ]
+  }, {
+    "tStartMs": 1796920,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "to run on Intel's\nhardware and AMD hardware."
+    } ]
+  }, {
+    "tStartMs": 1800173,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Now, you could write the\nsoftware just for Intel,"
+    } ]
+  }, {
+    "tStartMs": 1802634,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "and it would run very fast on Intel"
+    } ]
+  }, {
+    "tStartMs": 1804052,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "and it probably would run\nvery badly on AMD hardware."
+    } ]
+  }, {
+    "tStartMs": 1807347,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "- [Henry] Instead, you\nkeep multiple versions"
+    } ]
+  }, {
+    "tStartMs": 1809140,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "of the same function"
+    } ]
+  }, {
+    "tStartMs": 1810433,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and the IFUNC resolver picks the right one"
+    } ]
+  }, {
+    "tStartMs": 1812268,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "for the hardware you're on."
+    } ]
+  }, {
+    "tStartMs": 1813853,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "At first glance,"
+    } ]
+  }, {
+    "tStartMs": 1814687,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "that sounds like a way for\nJia to trick the system"
+    } ]
+  }, {
+    "tStartMs": 1816898,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "into thinking it's running hardware"
+    } ]
+  }, {
+    "tStartMs": 1818358,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "that needs his own compromised\nversion of RSA Decrypt."
+    } ]
+  }, {
+    "tStartMs": 1821528,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "But there is a catch."
+    } ]
+  }, {
+    "tStartMs": 1823196,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "A library can only define IFUNC resolvers"
+    } ]
+  }, {
+    "tStartMs": 1825365,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "for its own functions."
+    } ]
+  }, {
+    "tStartMs": 1826908,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "And since RSA Decrypt\ndoesn't belong to XZ,"
+    } ]
+  }, {
+    "tStartMs": 1829160,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "it can't use an IFUNC\nresolver to override it."
+    } ]
+  }, {
+    "tStartMs": 1832413,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "But IFUNC can still help him."
+    } ]
+  }, {
+    "tStartMs": 1834374,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "- So it will,"
+    } ]
+  }, {
+    "tStartMs": 1835667,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "very, very early on in\nthe running of the program"
+    } ]
+  }, {
+    "tStartMs": 1837961,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "it will do this sort of determination"
+    } ]
+  }, {
+    "tStartMs": 1839921,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "of what hardware is available,"
+    } ]
+  }, {
+    "tStartMs": 1840839,
+    "dDurationMs": 4462,
+    "segs": [ {
+      "utf8": "and crucially, it does\nlet you run your own code"
+    } ]
+  }, {
+    "tStartMs": 1845301,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "in the library very early on."
+    } ]
+  }, {
+    "tStartMs": 1848263,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "- Now, at this early stage,"
+    } ]
+  }, {
+    "tStartMs": 1849806,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "from within an IFUNC resolver,"
+    } ]
+  }, {
+    "tStartMs": 1851891,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "Jia could try to directly\nrewrite the GOT entry"
+    } ]
+  }, {
+    "tStartMs": 1855103,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "for RSA Decrypt."
+    } ]
+  }, {
+    "tStartMs": 1856813,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "But at this point, the system\nis still filling in the GOT,"
+    } ]
+  }, {
+    "tStartMs": 1859691,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "so even if Jia changes\nthe RSA Decrypt slot,"
+    } ]
+  }, {
+    "tStartMs": 1862694,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "the loader will come along later"
+    } ]
+  }, {
+    "tStartMs": 1864070,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "and write the real address back in,"
+    } ]
+  }, {
+    "tStartMs": 1865947,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "wiping out his change."
+    } ]
+  }, {
+    "tStartMs": 1867448,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "And there's a limit on\nthe other side as well."
+    } ]
+  }, {
+    "tStartMs": 1869868,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "To make this sort of hijacking harder,"
+    } ]
+  }, {
+    "tStartMs": 1871578,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "once every entry is filled on the GOT,"
+    } ]
+  }, {
+    "tStartMs": 1873997,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "the system marks the table Read Only."
+    } ]
+  }, {
+    "tStartMs": 1876416,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "That means that if Jia waits too long,"
+    } ]
+  }, {
+    "tStartMs": 1878501,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "the RSA Decrypt entry is frozen."
+    } ]
+  }, {
+    "tStartMs": 1881546,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "So he has to slip it in\nat a very precise moment."
+    } ]
+  }, {
+    "tStartMs": 1884465,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "After the RSA Decrypt entry\nis filled in legitimately,"
+    } ]
+  }, {
+    "tStartMs": 1887510,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "but before the table\ngets marked Read Only."
+    } ]
+  }, {
+    "tStartMs": 1890388,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "And that tiny window\nis the Goldilocks zone."
+    } ]
+  }, {
+    "tStartMs": 1894851,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "And to hit it, he's\ngonna need another tool."
+    } ]
+  }, {
+    "tStartMs": 1897979,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "So, linking shared libraries\nin the GOT often leads to bugs,"
+    } ]
+  }, {
+    "tStartMs": 1901566,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "so Linux has a special debugging feature"
+    } ]
+  }, {
+    "tStartMs": 1903610,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "that tracks what the system's doing."
+    } ]
+  }, {
+    "tStartMs": 1905820,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "It lets you run code"
+    } ]
+  }, {
+    "tStartMs": 1906779,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "whenever the linker writes a\nsymbol's address into the GOT."
+    } ]
+  }, {
+    "tStartMs": 1910199,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "It's called a dynamic audit hook,"
+    } ]
+  }, {
+    "tStartMs": 1912160,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "and normally you'd use it\nto profile performance."
+    } ]
+  }, {
+    "tStartMs": 1914829,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "But crucially for Jia, there\nare no real guardrails."
+    } ]
+  }, {
+    "tStartMs": 1918041,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "The hook can run any code he wants."
+    } ]
+  }, {
+    "tStartMs": 1920501,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "And this is where IFUNC finally pays off."
+    } ]
+  }, {
+    "tStartMs": 1923129,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Jia uses an IFUNC resolver\nto set the audit hook early."
+    } ]
+  }, {
+    "tStartMs": 1926966,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Then, when the linker writes in"
+    } ]
+  }, {
+    "tStartMs": 1928217,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "the real RSA Decrypt address,"
+    } ]
+  }, {
+    "tStartMs": 1930178,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "the hook fires and swaps in his payload."
+    } ]
+  }, {
+    "tStartMs": 1933806,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Right in the middle of\nthe Goldilocks zone."
+    } ]
+  }, {
+    "tStartMs": 1937226,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "There is one final complication, though."
+    } ]
+  }, {
+    "tStartMs": 1939395,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "Audit hooks are normally\nconfigured by the system,"
+    } ]
+  }, {
+    "tStartMs": 1941648,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "not by libraries like XZ."
+    } ]
+  }, {
+    "tStartMs": 1943816,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "So when Jia is first looking\nfor the audit hook variable"
+    } ]
+  }, {
+    "tStartMs": 1946194,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "that he's supposed to rewrite,"
+    } ]
+  }, {
+    "tStartMs": 1947654,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "it's actually hidden from him,"
+    } ]
+  }, {
+    "tStartMs": 1949364,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "so he first has to find it."
+    } ]
+  }, {
+    "tStartMs": 1951824,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Within the IFUNC,"
+    } ]
+  }, {
+    "tStartMs": 1952825,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "he scans a small region of binary code,"
+    } ]
+  }, {
+    "tStartMs": 1955203,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "hunting for signs of the hook."
+    } ]
+  }, {
+    "tStartMs": 1957163,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "But it's just raw bites,"
+    } ]
+  }, {
+    "tStartMs": 1958581,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "so he writes a tiny decoder"
+    } ]
+  }, {
+    "tStartMs": 1960166,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "to turn them back into\ninstructions that he can read."
+    } ]
+  }, {
+    "tStartMs": 1963169,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Now Jia can find where\nthe hook lives in memory"
+    } ]
+  }, {
+    "tStartMs": 1965171,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and finally plant his code."
+    } ]
+  }, {
+    "tStartMs": 1967340,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Then, when RSA Decrypt\ngets called legitimately,"
+    } ]
+  }, {
+    "tStartMs": 1969592,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "it triggers the payload and he's in."
+    } ]
+  }, {
+    "tStartMs": 1972220,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "But now that he's in, what does he do?"
+    } ]
+  }, {
+    "tStartMs": 1974013,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "And how does he get out of there cleanly?"
+    } ]
+  }, {
+    "tStartMs": 1976599,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Step three, the cat burglar."
+    } ]
+  }, {
+    "tStartMs": 1980436,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "With Jia's exploit in place,"
+    } ]
+  }, {
+    "tStartMs": 1982105,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "SSH isn't just checking for\na legitimate login anymore."
+    } ]
+  }, {
+    "tStartMs": 1985316,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "It's also listening for\na hidden master key."
+    } ]
+  }, {
+    "tStartMs": 1988152,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "And Jia is careful,"
+    } ]
+  }, {
+    "tStartMs": 1989112,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "he doesn't want anyone else\nstumbling onto the backdoor,"
+    } ]
+  }, {
+    "tStartMs": 1991614,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "so that master key isn't\njust a simple password."
+    } ]
+  }, {
+    "tStartMs": 1994742,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "It's actually a mini\ncryptographic exchange of its own."
+    } ]
+  }, {
+    "tStartMs": 1998121,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "First, the backdoor code\nchecks for a shared secret,"
+    } ]
+  }, {
+    "tStartMs": 2001040,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "and then, second, it\nauthenticates the user."
+    } ]
+  }, {
+    "tStartMs": 2003459,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "And only if both checks\npass does the payload run."
+    } ]
+  }, {
+    "tStartMs": 2006546,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "In effect, it's like\nthe backdoor is running"
+    } ]
+  }, {
+    "tStartMs": 2008214,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "a miniature version of\nthe encryption from SSH"
+    } ]
+  }, {
+    "tStartMs": 2011092,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "inside of SSH."
+    } ]
+  }, {
+    "tStartMs": 2012927,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "But in SSH,"
+    } ]
+  }, {
+    "tStartMs": 2014012,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "it uses that encryption\nto keep the attackers out."
+    } ]
+  }, {
+    "tStartMs": 2016681,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "In this case, the backdoor\nis using that encryption"
+    } ]
+  }, {
+    "tStartMs": 2018891,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "to make sure that it's only\nthe attackers that can get in."
+    } ]
+  }, {
+    "tStartMs": 2021936,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "But he's still careful."
+    } ]
+  }, {
+    "tStartMs": 2023438,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "One of the main ways\ndefenders catch intrusions"
+    } ]
+  }, {
+    "tStartMs": 2025732,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "is through SSH logging."
+    } ]
+  }, {
+    "tStartMs": 2027692,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "So, to cover his tracks,"
+    } ]
+  }, {
+    "tStartMs": 2028901,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "he wipes evidence of the\nbackdoor ever firing."
+    } ]
+  }, {
+    "tStartMs": 2031446,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "And this is on top of the\nnumerous safety checks"
+    } ]
+  }, {
+    "tStartMs": 2033823,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "that he's inserted throughout the process"
+    } ]
+  }, {
+    "tStartMs": 2035700,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "to make sure the system\nsupports the backdoor"
+    } ]
+  }, {
+    "tStartMs": 2038286,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "and doesn't crash and draw attention."
+    } ]
+  }, {
+    "tStartMs": 2040663,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "And this is the genius of Jia's trap."
+    } ]
+  }, {
+    "tStartMs": 2042749,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "It's cautious and meticulous,"
+    } ]
+  }, {
+    "tStartMs": 2045001,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "designed to slip through only\nwhere it will run invisibly."
+    } ]
+  }, {
+    "tStartMs": 2048880,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "With all three of these steps complete,"
+    } ]
+  }, {
+    "tStartMs": 2050465,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "he can finally control\nthe machine undetected."
+    } ]
+  }, {
+    "tStartMs": 2053843,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "All he needs to do now\nis get his updated XZ"
+    } ]
+  }, {
+    "tStartMs": 2056345,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "implemented in the next release."
+    } ]
+  }, {
+    "tStartMs": 2058765,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "But just as Jia is\ncompleting his backdoor,"
+    } ]
+  }, {
+    "tStartMs": 2061100,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "an open source developer\nrequests to remove the dependency"
+    } ]
+  }, {
+    "tStartMs": 2063770,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "that links XZ to OpenSSH."
+    } ]
+  }, {
+    "tStartMs": 2066939,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "This would spell disaster for Jia Tan."
+    } ]
+  }, {
+    "tStartMs": 2069817,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "He becomes frantic,"
+    } ]
+  }, {
+    "tStartMs": 2070985,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "pushing harder and harder\nto get his compromised XZ"
+    } ]
+  }, {
+    "tStartMs": 2073446,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "into major Linux releases."
+    } ]
+  }, {
+    "tStartMs": 2075531,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "He gets it into an early\nexperimental build of Debian."
+    } ]
+  }, {
+    "tStartMs": 2078159,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "He files a request to\nhave it added to Ubuntu."
+    } ]
+  }, {
+    "tStartMs": 2080661,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "He's trying to land the\nbackdoor everywhere he can"
+    } ]
+  }, {
+    "tStartMs": 2083039,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "before anyone realizes what's going on."
+    } ]
+  }, {
+    "tStartMs": 2085792,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "And it's then that Rich gets\nhis first message from Jia."
+    } ]
+  }, {
+    "tStartMs": 2089462,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Over the next few weeks, he\ngets more and more insistent,"
+    } ]
+  }, {
+    "tStartMs": 2092006,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "urging Rich to add the updated XZ"
+    } ]
+  }, {
+    "tStartMs": 2093758,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "into the next release of Fedora."
+    } ]
+  }, {
+    "tStartMs": 2095802,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "- I'm always very keen"
+    } ]
+  }, {
+    "tStartMs": 2096761,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "to talk to keen upstream contributors,"
+    } ]
+  }, {
+    "tStartMs": 2100431,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "contributors who are really excited"
+    } ]
+  }, {
+    "tStartMs": 2103684,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "about new things in their software,"
+    } ]
+  }, {
+    "tStartMs": 2105603,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "who are really willing to\nhelp us get stuff into Fedora."
+    } ]
+  }, {
+    "tStartMs": 2108898,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "So, you know, that's great, love it."
+    } ]
+  }, {
+    "tStartMs": 2110441,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "That kind of makes my\nday, it's my happy place."
+    } ]
+  }, {
+    "tStartMs": 2113486,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "- Eventually, Jia gets what he wants."
+    } ]
+  }, {
+    "tStartMs": 2115655,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "Rich adds the updated XZ to a\npre-release version of Fedora."
+    } ]
+  }, {
+    "tStartMs": 2119617,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Jia has succeeded."
+    } ]
+  }, {
+    "tStartMs": 2121953,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "Except there's a bug."
+    } ]
+  }, {
+    "tStartMs": 2124997,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "In low-level code like the backdoor,"
+    } ]
+  }, {
+    "tStartMs": 2126874,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "things you normally take for granted,"
+    } ]
+  }, {
+    "tStartMs": 2128459,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "like memory management,"
+    } ]
+  }, {
+    "tStartMs": 2129877,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "are not done automatically."
+    } ]
+  }, {
+    "tStartMs": 2131504,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "If a function grabs a bit of memory,"
+    } ]
+  }, {
+    "tStartMs": 2133297,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "it also has to give that\nmemory back when it's done."
+    } ]
+  }, {
+    "tStartMs": 2136175,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "And if it doesn't, then\nevery time the function runs,"
+    } ]
+  }, {
+    "tStartMs": 2138553,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "it grabs more and more memory\nand then never releases it."
+    } ]
+  }, {
+    "tStartMs": 2141639,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Over time, the program just keeps growing."
+    } ]
+  }, {
+    "tStartMs": 2144142,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "That's called a memory leak."
+    } ]
+  }, {
+    "tStartMs": 2145893,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "And to catch problems like this,"
+    } ]
+  }, {
+    "tStartMs": 2147270,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "developers use a tool called Valgrind."
+    } ]
+  }, {
+    "tStartMs": 2149772,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "It runs the program more slowly"
+    } ]
+  }, {
+    "tStartMs": 2151482,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "but watches every memory\noperation for anything suspicious."
+    } ]
+  }, {
+    "tStartMs": 2155111,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "Valgrind is raising hell on Jia's code."
+    } ]
+  }, {
+    "tStartMs": 2158739,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "- We put XZ, this version, 560,"
+    } ]
+  }, {
+    "tStartMs": 2161993,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "into Fedora 40."
+    } ]
+  }, {
+    "tStartMs": 2164579,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "We get a bug report initially."
+    } ]
+  }, {
+    "tStartMs": 2167540,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "- And the backdoor in XZ\nspecifically is generating"
+    } ]
+  }, {
+    "tStartMs": 2170334,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "invalid writes errors."
+    } ]
+  }, {
+    "tStartMs": 2172378,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Well, the logic was written by hand,"
+    } ]
+  }, {
+    "tStartMs": 2174297,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "bypassing the compiler's safety checks,"
+    } ]
+  }, {
+    "tStartMs": 2176299,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "and so they accidentally wrote\noutside the memory stack."
+    } ]
+  }, {
+    "tStartMs": 2179343,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "Now, lucky for Jia, all this\nisn't immediately obvious."
+    } ]
+  }, {
+    "tStartMs": 2182680,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Rich still hasn't\nnoticed what's happening."
+    } ]
+  }, {
+    "tStartMs": 2184891,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "- New software has bugs, right?"
+    } ]
+  }, {
+    "tStartMs": 2186392,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "It's the state of nature of software."
+    } ]
+  }, {
+    "tStartMs": 2188936,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Software is absolutely\nfull of bugs all the time."
+    } ]
+  }, {
+    "tStartMs": 2191856,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "- [Henry] Now, the real problem\nis inside the malicious code"
+    } ]
+  }, {
+    "tStartMs": 2193941,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "in the test file."
+    } ]
+  }, {
+    "tStartMs": 2195443,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "But Jia can't just go and fix that,"
+    } ]
+  }, {
+    "tStartMs": 2197195,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "that would completely expose the backdoor."
+    } ]
+  }, {
+    "tStartMs": 2199447,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "So he invents a cover story."
+    } ]
+  }, {
+    "tStartMs": 2201240,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "He claims that the random data he used"
+    } ]
+  }, {
+    "tStartMs": 2202950,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "to generate the original test files,"
+    } ]
+  }, {
+    "tStartMs": 2205077,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "well, it's not reproducible,"
+    } ]
+  }, {
+    "tStartMs": 2206370,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "so he's replacing it."
+    } ]
+  }, {
+    "tStartMs": 2207330,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "And in this updated code,\nhe fixes the memory error."
+    } ]
+  }, {
+    "tStartMs": 2210875,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "- It's a very convincing\nand plausible explanation"
+    } ]
+  }, {
+    "tStartMs": 2214337,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "for why this test blob has to be updated."
+    } ]
+  }, {
+    "tStartMs": 2216797,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "But of course, it's not the real reason."
+    } ]
+  }, {
+    "tStartMs": 2219425,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "- All right, so now the real fix is in,"
+    } ]
+  }, {
+    "tStartMs": 2221093,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "but if the bug just magically went away,"
+    } ]
+  }, {
+    "tStartMs": 2223054,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "it would look a bit suspicious."
+    } ]
+  }, {
+    "tStartMs": 2224805,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "So he has to find a way to cover it up."
+    } ]
+  }, {
+    "tStartMs": 2226599,
+    "dDurationMs": 4755,
+    "segs": [ {
+      "utf8": "- So what he then does is\nhe changes the IFUNC code"
+    } ]
+  }, {
+    "tStartMs": 2231354,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "in a way where he adds like\na whole bunch of comments"
+    } ]
+  }, {
+    "tStartMs": 2234398,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "and changes to the code around it"
+    } ]
+  }, {
+    "tStartMs": 2238319,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "that doesn't actually change the code"
+    } ]
+  }, {
+    "tStartMs": 2240488,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "but is plausible enough"
+    } ]
+  }, {
+    "tStartMs": 2242031,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "to look like he's changing\nhow the IFUNC works"
+    } ]
+  }, {
+    "tStartMs": 2244408,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "to fix the Valgrind bug."
+    } ]
+  }, {
+    "tStartMs": 2246160,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "- It does, listening\nto it and I'm like"
+    } ]
+  }, {
+    "tStartMs": 2247453,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "I know that this is the\nevil hacker Jia Tan,"
+    } ]
+  }, {
+    "tStartMs": 2250414,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "but I'm like, ooh, that's clever."
+    } ]
+  }, {
+    "tStartMs": 2252166,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "You know?\n- Yeah, I mean, look,"
+    } ]
+  }, {
+    "tStartMs": 2254377,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "the guy is obviously not an idiot, right?"
+    } ]
+  }, {
+    "tStartMs": 2257755,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "But none of this is suspicious."
+    } ]
+  }, {
+    "tStartMs": 2261300,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "This is what we expect\nfrom compression software."
+    } ]
+  }, {
+    "tStartMs": 2264303,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "And as a packager, it's not really my job"
+    } ]
+  }, {
+    "tStartMs": 2266639,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "to fix every bug in upstream software."
+    } ]
+  }, {
+    "tStartMs": 2271227,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "As soon as it gets to a\ncertain level of difficulty,"
+    } ]
+  }, {
+    "tStartMs": 2274105,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "my thought here is, well,"
+    } ]
+  }, {
+    "tStartMs": 2277149,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Jia Tan has actually been\nwriting this software, right?"
+    } ]
+  }, {
+    "tStartMs": 2279610,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "So he's got it all in his\nhead, he knows how it works."
+    } ]
+  }, {
+    "tStartMs": 2282780,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "It's easier for me to\njust give him the problem."
+    } ]
+  }, {
+    "tStartMs": 2285992,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "And I send the bug over to him"
+    } ]
+  }, {
+    "tStartMs": 2287743,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "and like a day later\nhe sends the fix back."
+    } ]
+  }, {
+    "tStartMs": 2289829,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "From my point of view,\nit's problem solved."
+    } ]
+  }, {
+    "tStartMs": 2291497,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "It worked, system worked, right?"
+    } ]
+  }, {
+    "tStartMs": 2293040,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "I made the right call."
+    } ]
+  }, {
+    "tStartMs": 2294542,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "I don't see,"
+    } ]
+  }, {
+    "tStartMs": 2296711,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "at that point, knowing what I know then,"
+    } ]
+  }, {
+    "tStartMs": 2299005,
+    "dDurationMs": 2877,
+    "segs": [ {
+      "utf8": "I don't see that there's any problem."
+    } ]
+  }, {
+    "tStartMs": 2301882,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "- So we downloaded Jia\nTan's version of XZ,"
+    } ]
+  }, {
+    "tStartMs": 2304468,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "which was available on Fedora publicly,"
+    } ]
+  }, {
+    "tStartMs": 2307263,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "but we made a slight modification."
+    } ]
+  }, {
+    "tStartMs": 2309181,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Instead of using Jia's secret\ncode, we're using our own,"
+    } ]
+  }, {
+    "tStartMs": 2311767,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "and that means that we can take\nadvantage of Jia's backdoor."
+    } ]
+  }, {
+    "tStartMs": 2315062,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "In this case, we're targeting\nthe veritasium.com website."
+    } ]
+  }, {
+    "tStartMs": 2319108,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "And once we get control of it,"
+    } ]
+  }, {
+    "tStartMs": 2321569,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "I got a little trick in store for Derek."
+    } ]
+  }, {
+    "tStartMs": 2323446,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "Now, to make sure I don't mess\nwith any real traffic too bad"
+    } ]
+  }, {
+    "tStartMs": 2326282,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "and lose my job,"
+    } ]
+  }, {
+    "tStartMs": 2327408,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "we actually cloned the Veritasium website"
+    } ]
+  }, {
+    "tStartMs": 2329410,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "and put it on a very similar URL,"
+    } ]
+  }, {
+    "tStartMs": 2331454,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "but it will work the same."
+    } ]
+  }, {
+    "tStartMs": 2332913,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "Of course, Derek doesn't know\nthat I've covered my bases."
+    } ]
+  }, {
+    "tStartMs": 2336042,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "- Oh no."
+    } ]
+  }, {
+    "tStartMs": 2338419,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Man, when you guys do\nthese things, I just,"
+    } ]
+  }, {
+    "tStartMs": 2341213,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "I start to get more and more scared now."
+    } ]
+  }, {
+    "tStartMs": 2343007,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "I want it to work for the video,"
+    } ]
+  }, {
+    "tStartMs": 2344550,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "but I also don't want it to work"
+    } ]
+  }, {
+    "tStartMs": 2345926,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "'cause I don't wanna screw stuff up, so."
+    } ]
+  }, {
+    "tStartMs": 2348012,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "- Yeah, it's the risk you take, I guess,"
+    } ]
+  }, {
+    "tStartMs": 2350306,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "letting us run rampant."
+    } ]
+  }, {
+    "tStartMs": 2351515,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "- It is a concern."
+    } ]
+  }, {
+    "tStartMs": 2353142,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "- I'm gonna execute a script here,"
+    } ]
+  }, {
+    "tStartMs": 2354602,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "which is gonna open up."
+    } ]
+  }, {
+    "tStartMs": 2356479,
+    "dDurationMs": 4212,
+    "segs": [ {
+      "utf8": "It's opening up a port\non the Veritasium server."
+    } ]
+  }, {
+    "tStartMs": 2360691,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "And then on this side I'm\ngonna execute a little script."
+    } ]
+  }, {
+    "tStartMs": 2366280,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "- Uh-oh.\n(Henry laughs)"
+    } ]
+  }, {
+    "tStartMs": 2368491,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Henrytasium."
+    } ]
+  }, {
+    "tStartMs": 2370785,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Who is this goof?"
+    } ]
+  }, {
+    "tStartMs": 2372036,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "On the main photo,"
+    } ]
+  }, {
+    "tStartMs": 2373954,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "you spent time getting\nall suited up there."
+    } ]
+  }, {
+    "tStartMs": 2377124,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "- Of course."
+    } ]
+  }, {
+    "tStartMs": 2378292,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "- Looking sharp, sir.\n- Thank you, thank you."
+    } ]
+  }, {
+    "tStartMs": 2381045,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "- [Derek] \"Videos Derek\nwould never approve of.\""
+    } ]
+  }, {
+    "tStartMs": 2383422,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Uh-oh.\n- The concept was"
+    } ]
+  }, {
+    "tStartMs": 2385174,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "over the years that we've worked together,"
+    } ]
+  }, {
+    "tStartMs": 2387510,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "you've said no to a bunch of my ideas,"
+    } ]
+  }, {
+    "tStartMs": 2389678,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "and I figured now with control of the website"
+    } ]
+  }, {
+    "tStartMs": 2391389,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "it's about time the world saw it."
+    } ]
+  }, {
+    "tStartMs": 2393307,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "- \"Surviving 7 days living underwater."
+    } ]
+  }, {
+    "tStartMs": 2396185,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "How do saturation divers\nlive at -1,000 feet?\""
+    } ]
+  }, {
+    "tStartMs": 2400648,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "I mean, you wouldn't be outside, right?"
+    } ]
+  }, {
+    "tStartMs": 2402650,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "So I don't know why you need goggles there"
+    } ]
+  }, {
+    "tStartMs": 2404193,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "and like a respirator but\nyou're not underwater."
+    } ]
+  }, {
+    "tStartMs": 2408197,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "\"Why it's almost impossible\nto shoot 4,000 meters.\""
+    } ]
+  }, {
+    "tStartMs": 2412535,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "It's a sniper video."
+    } ]
+  }, {
+    "tStartMs": 2414995,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2415830,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "\"The CIA lied: exposing how\nthe CIA lied about torture.\""
+    } ]
+  }, {
+    "tStartMs": 2419625,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "I feel like that still goes\ninto a tough territory for us."
+    } ]
+  }, {
+    "tStartMs": 2422920,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "\"How xenon gas replaced oxygen."
+    } ]
+  }, {
+    "tStartMs": 2425172,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "I attempted to climb Mount\nEverest on xenon gas.\""
+    } ]
+  }, {
+    "tStartMs": 2428676,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "That sounds like a terrible idea."
+    } ]
+  }, {
+    "tStartMs": 2430803,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "This is what this whole video is about,"
+    } ]
+  }, {
+    "tStartMs": 2432680,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "this whole video is just about"
+    } ]
+  }, {
+    "tStartMs": 2434765,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "trying to get me to green\nlight your projects."
+    } ]
+  }, {
+    "tStartMs": 2437810,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "You know, if people\nlike these video ideas,"
+    } ]
+  }, {
+    "tStartMs": 2439895,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "they can feel free to let\nus know in the comments"
+    } ]
+  }, {
+    "tStartMs": 2441689,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "and we can actually make them."
+    } ]
+  }, {
+    "tStartMs": 2443065,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "The top upvoted comment one,\nI will green light happily."
+    } ]
+  }, {
+    "tStartMs": 2447695,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "- Let's go!"
+    } ]
+  }, {
+    "tStartMs": 2449029,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "- Is this live to the public right now?"
+    } ]
+  }, {
+    "tStartMs": 2450906,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "- It is live, yeah, it's\nlive on the server, yeah."
+    } ]
+  }, {
+    "tStartMs": 2453784,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "- If anyone's on the website right now,"
+    } ]
+  }, {
+    "tStartMs": 2455161,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "that would be very strange for them."
+    } ]
+  }, {
+    "tStartMs": 2457163,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "Look, I'm not pleased, I would\nlike you to change it back."
+    } ]
+  }, {
+    "tStartMs": 2462209,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "It doesn't seem like\nthis should be possible"
+    } ]
+  }, {
+    "tStartMs": 2465379,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "on a Linux server."
+    } ]
+  }, {
+    "tStartMs": 2466589,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "So the big question is, how did you do it?"
+    } ]
+  }, {
+    "tStartMs": 2469383,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "- The address is the server,"
+    } ]
+  }, {
+    "tStartMs": 2471427,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "the seed is our code to get in,"
+    } ]
+  }, {
+    "tStartMs": 2472553,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "and then the command is what we're doing"
+    } ]
+  }, {
+    "tStartMs": 2474597,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "to essentially open up, in this case nc,"
+    } ]
+  }, {
+    "tStartMs": 2477683,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "which is like opening\nup a port on the machine"
+    } ]
+  }, {
+    "tStartMs": 2479518,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "that we can then access\nfrom this second terminal."
+    } ]
+  }, {
+    "tStartMs": 2481979,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Then what we're doing is on this side"
+    } ]
+  }, {
+    "tStartMs": 2484023,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "we're running a script that's connecting"
+    } ]
+  }, {
+    "tStartMs": 2485816,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "to that port that's just been opened up,"
+    } ]
+  }, {
+    "tStartMs": 2488152,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "copying our files and then\nby the end we're gonna have"
+    } ]
+  }, {
+    "tStartMs": 2491614,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "root access on the server."
+    } ]
+  }, {
+    "tStartMs": 2493657,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "That means that it thinks\nthat we own the thing."
+    } ]
+  }, {
+    "tStartMs": 2496327,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "- That's so crazy."
+    } ]
+  }, {
+    "tStartMs": 2497786,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "This is a very scary hack."
+    } ]
+  }, {
+    "tStartMs": 2500998,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "I do not like it."
+    } ]
+  }, {
+    "tStartMs": 2502208,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "- Another thing is that\nthis is a very obvious way"
+    } ]
+  }, {
+    "tStartMs": 2505711,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "of demonstrating this attack."
+    } ]
+  }, {
+    "tStartMs": 2507004,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Like I've changed\neverything on the website,"
+    } ]
+  }, {
+    "tStartMs": 2508506,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "you immediately know that I've gone in"
+    } ]
+  }, {
+    "tStartMs": 2510007,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "and hacked the server."
+    } ]
+  }, {
+    "tStartMs": 2511175,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "If we were doing this for real,"
+    } ]
+  }, {
+    "tStartMs": 2512927,
+    "dDurationMs": 1876,
+    "segs": [ {
+      "utf8": "we would do it a lot sneakier."
+    } ]
+  }, {
+    "tStartMs": 2514803,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "- I mean, as you say, right?"
+    } ]
+  }, {
+    "tStartMs": 2516096,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "The thing to do would not be"
+    } ]
+  }, {
+    "tStartMs": 2517264,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "to totally rework someone's\nwebsite so everyone notices,"
+    } ]
+  }, {
+    "tStartMs": 2520267,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "but to change it subtly so nobody notices"
+    } ]
+  }, {
+    "tStartMs": 2523604,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "so you can skim data or, yeah,\nlike get credit card details"
+    } ]
+  }, {
+    "tStartMs": 2527399,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "or take payments to a different location,"
+    } ]
+  }, {
+    "tStartMs": 2530194,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "stuff like that."
+    } ]
+  }, {
+    "tStartMs": 2531070,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "- So you can copy anything you want,"
+    } ]
+  }, {
+    "tStartMs": 2533239,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "you can change anything you want,"
+    } ]
+  }, {
+    "tStartMs": 2534448,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "you can delete anything you want."
+    } ]
+  }, {
+    "tStartMs": 2535741,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "So if there's any interesting\ndocuments or crypto tokens,"
+    } ]
+  }, {
+    "tStartMs": 2539078,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "any files you're interested\nin, those are yours now."
+    } ]
+  }, {
+    "tStartMs": 2542164,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "If there's secret communications\ngoing across these,"
+    } ]
+  }, {
+    "tStartMs": 2545501,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "and let's keep in mind all\nof our communication networks"
+    } ]
+  }, {
+    "tStartMs": 2548087,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "are also built around Linux,"
+    } ]
+  }, {
+    "tStartMs": 2550422,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "those communication streams are yours now."
+    } ]
+  }, {
+    "tStartMs": 2553133,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "If you wanted to encrypt\nsomething and ask for ransom,"
+    } ]
+  }, {
+    "tStartMs": 2556887,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "that's possible now."
+    } ]
+  }, {
+    "tStartMs": 2558430,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "- [Henry] The possibilities\nreally are endless."
+    } ]
+  }, {
+    "tStartMs": 2560891,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "After two and a half years of hard work,"
+    } ]
+  }, {
+    "tStartMs": 2562810,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "slowly infiltrating the XZ Project"
+    } ]
+  }, {
+    "tStartMs": 2564728,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "and weaving in this ingenious backdoor,"
+    } ]
+  }, {
+    "tStartMs": 2567481,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Jia's done it."
+    } ]
+  }, {
+    "tStartMs": 2569066,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "He now has free rein on any machine"
+    } ]
+  }, {
+    "tStartMs": 2570901,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "that installs the new Fedora pre-release."
+    } ]
+  }, {
+    "tStartMs": 2573362,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "And he also gets the same\naccess on Debian testing"
+    } ]
+  }, {
+    "tStartMs": 2575739,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "and Ubuntu's pre-release environments."
+    } ]
+  }, {
+    "tStartMs": 2578075,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "And with RHEL 10 coming up,"
+    } ]
+  }, {
+    "tStartMs": 2579243,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "his code could infect some of\nthe most important computers"
+    } ]
+  }, {
+    "tStartMs": 2581495,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "in the world."
+    } ]
+  }, {
+    "tStartMs": 2582788,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "Now he should be able to\nrelax, wait for the release,"
+    } ]
+  }, {
+    "tStartMs": 2585416,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "and he's got his backdoor key."
+    } ]
+  }, {
+    "tStartMs": 2587418,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "But just when he thinks\neverything's going right..."
+    } ]
+  }, {
+    "tStartMs": 2591880,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 2597428,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Andres Freund is a German programmer."
+    } ]
+  }, {
+    "tStartMs": 2599763,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "He's not a security\nresearcher, he's not a hacker."
+    } ]
+  }, {
+    "tStartMs": 2603100,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "He's just an employee at Microsoft"
+    } ]
+  }, {
+    "tStartMs": 2605019,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "working on an open source\nproject called Postgres."
+    } ]
+  }, {
+    "tStartMs": 2608230,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "One day in March 2024,"
+    } ]
+  }, {
+    "tStartMs": 2609857,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "he tries out the unstable\nrelease of Debian"
+    } ]
+  }, {
+    "tStartMs": 2611942,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "to make sure that Postgres\nwill run smoothly."
+    } ]
+  }, {
+    "tStartMs": 2614445,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "But while checking the\nserver connection times,"
+    } ]
+  }, {
+    "tStartMs": 2616530,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "he notices something odd."
+    } ]
+  }, {
+    "tStartMs": 2618699,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "A slowdown."
+    } ]
+  }, {
+    "tStartMs": 2620034,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "It's not much."
+    } ]
+  }, {
+    "tStartMs": 2620868,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "In the worst case, it's\nonly half a second,"
+    } ]
+  }, {
+    "tStartMs": 2623037,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "but it's enough to make Andres suspicious."
+    } ]
+  }, {
+    "tStartMs": 2625581,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "We tested the connection times ourselves"
+    } ]
+  }, {
+    "tStartMs": 2627333,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "on our own version of the XZ hack"
+    } ]
+  }, {
+    "tStartMs": 2628834,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and we found the exact same thing."
+    } ]
+  }, {
+    "tStartMs": 2630669,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "Consistent slowdowns of about\n400 to 500 milliseconds."
+    } ]
+  }, {
+    "tStartMs": 2634923,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "Andres had already seen the problems"
+    } ]
+  }, {
+    "tStartMs": 2636300,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "with XZ and Valgrind weeks earlier"
+    } ]
+  }, {
+    "tStartMs": 2638719,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and this only makes him more suspicious,"
+    } ]
+  }, {
+    "tStartMs": 2640554,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "so he digs in deeper."
+    } ]
+  }, {
+    "tStartMs": 2641889,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "He looks at recent additions to OpenSSH"
+    } ]
+  }, {
+    "tStartMs": 2643932,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "and traces the delay\nback to an update in XZ."
+    } ]
+  }, {
+    "tStartMs": 2647227,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "He sees the binary test files"
+    } ]
+  }, {
+    "tStartMs": 2648646,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "but notices that they\nwere never used in a test."
+    } ]
+  }, {
+    "tStartMs": 2651106,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "It's even stranger."
+    } ]
+  }, {
+    "tStartMs": 2652524,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Andres tries to get back to work,"
+    } ]
+  }, {
+    "tStartMs": 2653984,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "but he can't stop thinking about it."
+    } ]
+  }, {
+    "tStartMs": 2655903,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- [Andres] I remember sitting\nin a bunch of meetings"
+    } ]
+  }, {
+    "tStartMs": 2657613,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "and like not really\nbeing able to concentrate"
+    } ]
+  }, {
+    "tStartMs": 2660574,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "because it feels like,"
+    } ]
+  }, {
+    "tStartMs": 2663035,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "I need to continue looking into this."
+    } ]
+  }, {
+    "tStartMs": 2665329,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "- Eventually, Andres sees it."
+    } ]
+  }, {
+    "tStartMs": 2666747,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "This isn't some bug, this is a backdoor."
+    } ]
+  }, {
+    "tStartMs": 2670167,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "And this backdoor is meticulous."
+    } ]
+  }, {
+    "tStartMs": 2672795,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "It hunts through memory\nto find the audit hook,"
+    } ]
+  }, {
+    "tStartMs": 2675339,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "it implements a decoder\nto read those raw bites,"
+    } ]
+  }, {
+    "tStartMs": 2677841,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and then it wraps everything\nin custom encryption"
+    } ]
+  }, {
+    "tStartMs": 2680010,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "and safety checks"
+    } ]
+  }, {
+    "tStartMs": 2681136,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "so that it only triggers on\nthe right kind of connection."
+    } ]
+  }, {
+    "tStartMs": 2684515,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "I mean, it even garble its own strings"
+    } ]
+  }, {
+    "tStartMs": 2686558,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "so that it won't be detected."
+    } ]
+  }, {
+    "tStartMs": 2688060,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "It's incredibly cautious."
+    } ]
+  }, {
+    "tStartMs": 2690187,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "But all of that takes\ntime, and in the end,"
+    } ]
+  }, {
+    "tStartMs": 2692940,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "that's what grabs Andres's attention."
+    } ]
+  }, {
+    "tStartMs": 2695317,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "- If they had done less obfuscation,"
+    } ]
+  }, {
+    "tStartMs": 2696568,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "I probably would not have\nnoticed that anything was wrong."
+    } ]
+  }, {
+    "tStartMs": 2699571,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "- [Henry] Now, XZ's\nsecurity contact is Jia Tan,"
+    } ]
+  }, {
+    "tStartMs": 2702700,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "so Andres can't exactly report it"
+    } ]
+  }, {
+    "tStartMs": 2704493,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "through the usual channels."
+    } ]
+  }, {
+    "tStartMs": 2706203,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Instead, he emails the\nDebian security team directly"
+    } ]
+  }, {
+    "tStartMs": 2708997,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "and posts a detailed report"
+    } ]
+  }, {
+    "tStartMs": 2710374,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "to a public security mailing list."
+    } ]
+  }, {
+    "tStartMs": 2713001,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Then, all hell breaks loose."
+    } ]
+  }, {
+    "tStartMs": 2716046,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "- I'm called up"
+    } ]
+  }, {
+    "tStartMs": 2718507,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "on I think it was a Friday evening,"
+    } ]
+  }, {
+    "tStartMs": 2721927,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "in fact, I'm sure it was a Friday evening,"
+    } ]
+  }, {
+    "tStartMs": 2724054,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "to join a internal Red Hat meeting."
+    } ]
+  }, {
+    "tStartMs": 2728434,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "It's immediately obvious that\nthis is not a normal meeting"
+    } ]
+  }, {
+    "tStartMs": 2732062,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "because like our head\nof security is there."
+    } ]
+  }, {
+    "tStartMs": 2735065,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "It's explained to me that it's been found"
+    } ]
+  }, {
+    "tStartMs": 2739027,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "by somebody in the community"
+    } ]
+  }, {
+    "tStartMs": 2740404,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "that XZ has a backdoor,"
+    } ]
+  }, {
+    "tStartMs": 2742156,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "and immediately I'm like, WTF?"
+    } ]
+  }, {
+    "tStartMs": 2745951,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "How did this happen?"
+    } ]
+  }, {
+    "tStartMs": 2747411,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "- To cover their bases,"
+    } ]
+  }, {
+    "tStartMs": 2748412,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Red Hat quickly rolls Fedora back"
+    } ]
+  }, {
+    "tStartMs": 2750289,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "and tells all their users to revert,"
+    } ]
+  }, {
+    "tStartMs": 2752249,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "and the whole open source community"
+    } ]
+  }, {
+    "tStartMs": 2753667,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "starts digging into the project"
+    } ]
+  }, {
+    "tStartMs": 2755127,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "to understand what went wrong."
+    } ]
+  }, {
+    "tStartMs": 2758297,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "One thing is clear, though."
+    } ]
+  }, {
+    "tStartMs": 2760090,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Andres is a hero."
+    } ]
+  }, {
+    "tStartMs": 2761967,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "- Now, the fact that this was discovered"
+    } ]
+  }, {
+    "tStartMs": 2764094,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "in a different test at all,"
+    } ]
+  }, {
+    "tStartMs": 2765304,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "that was lucky."
+    } ]
+  }, {
+    "tStartMs": 2766346,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "But then what are the chances"
+    } ]
+  }, {
+    "tStartMs": 2769057,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "that someone who isn't\nlooking for a security bug"
+    } ]
+  }, {
+    "tStartMs": 2771310,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "spends days investigating this?"
+    } ]
+  }, {
+    "tStartMs": 2773228,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "So, big kudos to the researcher,"
+    } ]
+  }, {
+    "tStartMs": 2777065,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "and yeah, saved us all"
+    } ]
+  }, {
+    "tStartMs": 2778734,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "from possibly a doomsday on the internet."
+    } ]
+  }, {
+    "tStartMs": 2782196,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "- I think that Andres did a brilliant job"
+    } ]
+  }, {
+    "tStartMs": 2784782,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "because he did what I\nshould have done, actually,"
+    } ]
+  }, {
+    "tStartMs": 2787951,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "which is I should have\nlooked at the, you know,"
+    } ]
+  }, {
+    "tStartMs": 2789536,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "I should have looked at\nthe bug when I saw it"
+    } ]
+  }, {
+    "tStartMs": 2793290,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "and I should have gone there, you know,"
+    } ]
+  }, {
+    "tStartMs": 2795584,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "like a crazy hound sort of sniffing around"
+    } ]
+  }, {
+    "tStartMs": 2799379,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "trying to find out what's going on."
+    } ]
+  }, {
+    "tStartMs": 2800798,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "- [Henry] Andres even gets a shout out"
+    } ]
+  }, {
+    "tStartMs": 2801965,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "from the CEO of Microsoft."
+    } ]
+  }, {
+    "tStartMs": 2803801,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "But when the story breaks,"
+    } ]
+  }, {
+    "tStartMs": 2805219,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "the mainstream response\nis surprisingly muted."
+    } ]
+  }, {
+    "tStartMs": 2808222,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "- Actually, I'm still surprised now"
+    } ]
+  }, {
+    "tStartMs": 2810015,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "that the mainstream news outlets"
+    } ]
+  }, {
+    "tStartMs": 2813644,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "haven't really covered this very much."
+    } ]
+  }, {
+    "tStartMs": 2815437,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Well, I can tell you how many systems"
+    } ]
+  }, {
+    "tStartMs": 2816730,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "would have been compromised,"
+    } ]
+  }, {
+    "tStartMs": 2818023,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "which would have been millions,"
+    } ]
+  }, {
+    "tStartMs": 2819274,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "- Anything from spying, to ransom,"
+    } ]
+  }, {
+    "tStartMs": 2823529,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "to just taking down entire countries,"
+    } ]
+  }, {
+    "tStartMs": 2827241,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "you could have done it with this backdoor."
+    } ]
+  }, {
+    "tStartMs": 2830202,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "- [Henry] I guess the big\nquestion is, who is Jia Tan?"
+    } ]
+  }, {
+    "tStartMs": 2833914,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "- That's the question, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 2835958,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Okay, so my feeling is that Jia Tan,"
+    } ]
+  }, {
+    "tStartMs": 2838210,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "the person that I talked\nto I believe is one person,"
+    } ]
+  }, {
+    "tStartMs": 2842089,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "but I also believe"
+    } ]
+  }, {
+    "tStartMs": 2843465,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "that behind him must be a group of people."
+    } ]
+  }, {
+    "tStartMs": 2847928,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "And they worked for quite a while."
+    } ]
+  }, {
+    "tStartMs": 2850597,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "I mean, they were at this for\nperhaps two and a half years"
+    } ]
+  }, {
+    "tStartMs": 2853517,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "that we know about."
+    } ]
+  }, {
+    "tStartMs": 2854768,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "- If you look back at the\naccounts pressuring Lasse,"
+    } ]
+  }, {
+    "tStartMs": 2857437,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "they share some similarities."
+    } ]
+  }, {
+    "tStartMs": 2859398,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "They use free email addresses"
+    } ]
+  }, {
+    "tStartMs": 2861191,
+    "dDurationMs": 4088,
+    "segs": [ {
+      "utf8": "and they have almost no footprint\noutside of the XZ threads."
+    } ]
+  }, {
+    "tStartMs": 2865279,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "These were very likely\nsock puppet accounts,"
+    } ]
+  }, {
+    "tStartMs": 2867948,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "identities manufactured to apply pressure"
+    } ]
+  }, {
+    "tStartMs": 2870367,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "as part of a multi-stage\nsocial engineering campaign."
+    } ]
+  }, {
+    "tStartMs": 2873954,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "- Now, who spends a million dollars"
+    } ]
+  }, {
+    "tStartMs": 2875998,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "and takes two and a half years"
+    } ]
+  }, {
+    "tStartMs": 2877416,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "to attempt to break into every\nhotel room on the internet"
+    } ]
+  }, {
+    "tStartMs": 2881253,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "with a master key?"
+    } ]
+  }, {
+    "tStartMs": 2882421,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "(suspenseful music)"
+    } ]
+  }, {
+    "tStartMs": 2883964,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "I think it's not a criminal organization"
+    } ]
+  }, {
+    "tStartMs": 2886675,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "because I don't think\na criminal organization"
+    } ]
+  }, {
+    "tStartMs": 2888594,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "would have that patience"
+    } ]
+  }, {
+    "tStartMs": 2890095,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "to spend that time\nwithout any real return."
+    } ]
+  }, {
+    "tStartMs": 2893974,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "So I think it has to be a\nnation state actor, here."
+    } ]
+  }, {
+    "tStartMs": 2900230,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "- A lot of the aliases, like Jia Tan,"
+    } ]
+  }, {
+    "tStartMs": 2903066,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "they sound like Asian names,"
+    } ]
+  }, {
+    "tStartMs": 2904818,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "and the published changes\nare all timestamped in UTC+8,"
+    } ]
+  }, {
+    "tStartMs": 2908614,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "Beijing time."
+    } ]
+  }, {
+    "tStartMs": 2909990,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "So the signs point to China."
+    } ]
+  }, {
+    "tStartMs": 2912451,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "And that's why it's probably not China."
+    } ]
+  }, {
+    "tStartMs": 2915454,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "I mean, why would they\nmake it that obvious?"
+    } ]
+  }, {
+    "tStartMs": 2917497,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "Every other part of the operation"
+    } ]
+  }, {
+    "tStartMs": 2918916,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "has been so meticulous, so cautious."
+    } ]
+  }, {
+    "tStartMs": 2921877,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "And they also worked on Chinese New Year,"
+    } ]
+  }, {
+    "tStartMs": 2923629,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "but not on Christmas."
+    } ]
+  }, {
+    "tStartMs": 2925172,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "And over the years,\nthere were nine changes"
+    } ]
+  }, {
+    "tStartMs": 2927633,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "that fall outside of the\nBeijing time into UTC+2,"
+    } ]
+  }, {
+    "tStartMs": 2931929,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "which is a time zone that includes Israel"
+    } ]
+  }, {
+    "tStartMs": 2934056,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "and parts of Western Russia."
+    } ]
+  }, {
+    "tStartMs": 2936308,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "That's why some experts have speculated"
+    } ]
+  }, {
+    "tStartMs": 2938560,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "that this could be the work of APT29,"
+    } ]
+  }, {
+    "tStartMs": 2941396,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "a Russian-state-backed hacker\ngroup also known as Cozy Bear."
+    } ]
+  }, {
+    "tStartMs": 2945400,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "- But again, do we know?"
+    } ]
+  }, {
+    "tStartMs": 2947527,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "No, of course we don't know who it is,"
+    } ]
+  }, {
+    "tStartMs": 2949112,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "and we likely will never know."
+    } ]
+  }, {
+    "tStartMs": 2950614,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Jia Tan himself just disappeared"
+    } ]
+  }, {
+    "tStartMs": 2952491,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "as soon as this exploit\nbecame publicly known"
+    } ]
+  }, {
+    "tStartMs": 2955118,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "and never heard from again."
+    } ]
+  }, {
+    "tStartMs": 2958205,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "- In a sense it doesn't matter"
+    } ]
+  }, {
+    "tStartMs": 2959289,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "whether this was Russian\nor Chinese or Iranian."
+    } ]
+  }, {
+    "tStartMs": 2962584,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "We need to protect from\nthese types of backdoors"
+    } ]
+  }, {
+    "tStartMs": 2965128,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "no matter where they're coming from."
+    } ]
+  }, {
+    "tStartMs": 2966630,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "- I see this as like, you know,\nthe canary in the coal mine"
+    } ]
+  }, {
+    "tStartMs": 2969967,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "of what's gonna be happening"
+    } ]
+  }, {
+    "tStartMs": 2971927,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "as attackers get more sophisticated,"
+    } ]
+  }, {
+    "tStartMs": 2975305,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "they make fewer mistakes."
+    } ]
+  }, {
+    "tStartMs": 2977265,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "You know, the gloves are off in a way."
+    } ]
+  }, {
+    "tStartMs": 2979559,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "I don't think that the\nLinux community is fully,"
+    } ]
+  }, {
+    "tStartMs": 2984523,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "you know, is fully ready for this yet."
+    } ]
+  }, {
+    "tStartMs": 2988819,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "- In the aftermath of XZ,"
+    } ]
+  }, {
+    "tStartMs": 2990278,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "the open source community"
+    } ]
+  }, {
+    "tStartMs": 2991446,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "poured over countless\nsmall similar projects"
+    } ]
+  }, {
+    "tStartMs": 2994366,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "looking for similar campaigns,"
+    } ]
+  }, {
+    "tStartMs": 2996910,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "but they found almost nothing."
+    } ]
+  }, {
+    "tStartMs": 2998870,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "- I'm worried that we\ndidn't find other backdoors."
+    } ]
+  }, {
+    "tStartMs": 3000831,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "The incentives are just too clear."
+    } ]
+  }, {
+    "tStartMs": 3002791,
+    "dDurationMs": 4796,
+    "segs": [ {
+      "utf8": "There are state-sponsored\nparts of either governments,"
+    } ]
+  }, {
+    "tStartMs": 3007587,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "militaries or even private\ncontractors working for states"
+    } ]
+  }, {
+    "tStartMs": 3011341,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "that are all preparing for\nthe next cyber escalation,"
+    } ]
+  }, {
+    "tStartMs": 3015345,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "some kind of a war, some kind\nof a geopolitical conflict,"
+    } ]
+  }, {
+    "tStartMs": 3018265,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "and where are all of those backdoors?"
+    } ]
+  }, {
+    "tStartMs": 3020225,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "There's just too many people\nincentivized to put backdoors"
+    } ]
+  }, {
+    "tStartMs": 3023311,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "for the few backdoors that\nwe're actually discovering."
+    } ]
+  }, {
+    "tStartMs": 3026815,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "- Now, some experts have argued"
+    } ]
+  }, {
+    "tStartMs": 3028316,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "this reveals a fundamental\nflaw in the open source model,"
+    } ]
+  }, {
+    "tStartMs": 3031820,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "but not everyone agrees."
+    } ]
+  }, {
+    "tStartMs": 3033447,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "- Closed source software\nwould be no better here."
+    } ]
+  }, {
+    "tStartMs": 3035866,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "In fact, who's to say that\nthere aren't already state spies"
+    } ]
+  }, {
+    "tStartMs": 3040245,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "working as paid software engineers"
+    } ]
+  }, {
+    "tStartMs": 3042664,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "at some of the larger companies"
+    } ]
+  }, {
+    "tStartMs": 3044416,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "putting in exactly backdoors like this?"
+    } ]
+  }, {
+    "tStartMs": 3046835,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "But then there would\nbe no community member"
+    } ]
+  }, {
+    "tStartMs": 3049171,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "running free testing and\ndetecting this by chance."
+    } ]
+  }, {
+    "tStartMs": 3052924,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "This backdoor, if anything,"
+    } ]
+  }, {
+    "tStartMs": 3054217,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "underlines the ethos of open source."
+    } ]
+  }, {
+    "tStartMs": 3057387,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- I mean, just think of what it took"
+    } ]
+  }, {
+    "tStartMs": 3059097,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "to get this done in public."
+    } ]
+  }, {
+    "tStartMs": 3061016,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "There was a multiple-year\nsocial engineering campaign,"
+    } ]
+  }, {
+    "tStartMs": 3064269,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "there were all these\nlayers of misdirection,"
+    } ]
+  }, {
+    "tStartMs": 3065979,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "and then there was code that was designed"
+    } ]
+  }, {
+    "tStartMs": 3067606,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "to withstand constant scrutiny."
+    } ]
+  }, {
+    "tStartMs": 3069775,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Compare that now with\na closed source hack."
+    } ]
+  }, {
+    "tStartMs": 3072319,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Sometimes all it takes to get\na backdoor installed there"
+    } ]
+  }, {
+    "tStartMs": 3074738,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "is a court order,"
+    } ]
+  }, {
+    "tStartMs": 3076406,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "or you have a public company"
+    } ]
+  }, {
+    "tStartMs": 3077824,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "that can just brush a\nbreach under the rug."
+    } ]
+  }, {
+    "tStartMs": 3081495,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "I actually used to work as an\nopen source researcher myself"
+    } ]
+  }, {
+    "tStartMs": 3084414,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "at the Japanese telecom giant NTT,"
+    } ]
+  }, {
+    "tStartMs": 3086875,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "and my perspective is"
+    } ]
+  }, {
+    "tStartMs": 3088126,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "that it's only because this\nis an open source project"
+    } ]
+  }, {
+    "tStartMs": 3090837,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "that it's been picked apart, analyzed,"
+    } ]
+  }, {
+    "tStartMs": 3093215,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "and turned into a conversation\nabout security at all."
+    } ]
+  }, {
+    "tStartMs": 3095967,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "One that focuses on the\nfundamental vulnerability."
+    } ]
+  }, {
+    "tStartMs": 3099471,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "It's not the code, it's the people."
+    } ]
+  }, {
+    "tStartMs": 3102349,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Now, the system has not\nsupported them enough."
+    } ]
+  }, {
+    "tStartMs": 3105769,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "- I feel for Lasse that"
+    } ]
+  }, {
+    "tStartMs": 3109022,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "he's given this beautiful gift"
+    } ]
+  }, {
+    "tStartMs": 3112526,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "to the whole world"
+    } ]
+  }, {
+    "tStartMs": 3115821,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "and, you know, what have we,"
+    } ]
+  }, {
+    "tStartMs": 3117447,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "what has humanity done back to him, right?"
+    } ]
+  }, {
+    "tStartMs": 3120283,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "We've poisoned his gift."
+    } ]
+  }, {
+    "tStartMs": 3122953,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "And then I think implicitly a little bit,"
+    } ]
+  }, {
+    "tStartMs": 3126206,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "not everyone's saying this,"
+    } ]
+  }, {
+    "tStartMs": 3127582,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "but implicitly we're blaming him"
+    } ]
+  }, {
+    "tStartMs": 3131586,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "for not being there to maintain\nthis stuff for free forever."
+    } ]
+  }, {
+    "tStartMs": 3137467,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "But why are we demanding"
+    } ]
+  }, {
+    "tStartMs": 3138927,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "that Lasse do anything"
+    } ]
+  }, {
+    "tStartMs": 3142347,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "when he's not being paid for this stuff?"
+    } ]
+  }, {
+    "tStartMs": 3144349,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "And that's, in my opinion, quite unfair."
+    } ]
+  }, {
+    "tStartMs": 3148770,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "On this Saturday evening,"
+    } ]
+  }, {
+    "tStartMs": 3151189,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "we were working together on a workaround"
+    } ]
+  }, {
+    "tStartMs": 3154192,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "for this bug in RHEL 9"
+    } ]
+  }, {
+    "tStartMs": 3156987,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "that he's added to XZ,"
+    } ]
+  }, {
+    "tStartMs": 3158613,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "and he absolutely could\nhave told us to get lost,"
+    } ]
+  }, {
+    "tStartMs": 3162868,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "and didn't."
+    } ]
+  }, {
+    "tStartMs": 3163910,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "What a brilliant guy."
+    } ]
+  }, {
+    "tStartMs": 3168498,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "(electronic beeping)\n(music fades out)"
+    } ]
+  } ]
+}

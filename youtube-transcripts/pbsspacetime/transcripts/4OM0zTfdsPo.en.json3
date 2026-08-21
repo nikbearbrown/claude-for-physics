@@ -1,0 +1,1273 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Thank you to Novium, the team behind \nthe hoverpen, for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 4320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We’ve been looking for messages from the stars \never since Frank Drake pointed the Green Bank  "
+    } ]
+  }, {
+    "tStartMs": 8400,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "radio telescope at Tau Ceti and Epsilon Eridany \n65 years ago. He saw nothing that couldn’t be  "
+    } ]
+  }, {
+    "tStartMs": 14720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "explained by natural causes. Nor have the much \nmore extensive SETI surveys conducted since. So,  "
+    } ]
+  }, {
+    "tStartMs": 19920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "maybe there are no alien signals to see. Or \nmaybe we need to update how we search for  "
+    } ]
+  }, {
+    "tStartMs": 25360,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "them. And maybe when we do that we’ll find that \nthe aliens have been talking to us all along,  "
+    } ]
+  }, {
+    "tStartMs": 32000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and the messages are already sitting \nin our astronomical data archives,  "
+    } ]
+  }, {
+    "tStartMs": 37040,
+    "dDurationMs": 11920,
+    "segs": [ {
+      "utf8": "or will be glaringly obvious is the new generation \nof giant surveys that are just now starting."
+    } ]
+  }, {
+    "tStartMs": 48960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Before we get started, a couple quick \nannouncements. First, we have some new data:  "
+    } ]
+  }, {
+    "tStartMs": 54160,
+    "dDurationMs": 9600,
+    "segs": [ {
+      "utf8": "liking and commenting really does help get \nepisodes shared. And we’ve also learned that  "
+    } ]
+  }, {
+    "tStartMs": 63760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "the number one reason people support us \non Patreon isn’t the perks—it’s simply to  "
+    } ]
+  }, {
+    "tStartMs": 69680,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "support the Space Time community and the work \nwe do. So thank you. If you’d like to join us  "
+    } ]
+  }, {
+    "tStartMs": 77920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "on Patreon to help bring more physics to \neveryone, there’s a link in the description."
+    } ]
+  }, {
+    "tStartMs": 87840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Next up we’re excited to announce \nour Fates of the Universe UV Glow  "
+    } ]
+  }, {
+    "tStartMs": 91360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "T-shirt \u0026 Hoodie. Whether you’re rooting for \nthe Big Rip, the Big Crunch, or the Big Freeze,  "
+    } ]
+  }, {
+    "tStartMs": 96240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "you can wear your prediction for the universe’s \nultimate fate. And thanks to the UV glow printing,  "
+    } ]
+  }, {
+    "tStartMs": 101840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "it lights up after sun exposure—even in \nthe depths of space. Now on to the episode."
+    } ]
+  }, {
+    "tStartMs": 108240,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Although it’s not exclusively the case, most major \nSETI programs have been based on ideas of what WE,  "
+    } ]
+  }, {
+    "tStartMs": 113760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "humanity could transmit—if not right now, \nthen in the relatively near future. Well,  "
+    } ]
+  }, {
+    "tStartMs": 118880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "we’re now IN the relatively near future \ncompared to the first SETI search of 1960.  "
+    } ]
+  }, {
+    "tStartMs": 123840,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "So how do we shift our thinking based on \nwhat we can now do, and what we now know?"
+    } ]
+  }, {
+    "tStartMs": 130080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "As a launching point, let’s look at a new \npaper by Ben Zuckerman. Dr. Zuckerman has  "
+    } ]
+  }, {
+    "tStartMs": 134960,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "been contributing to and commenting on SETI \nresearch for many decades. The new paper pulls  "
+    } ]
+  }, {
+    "tStartMs": 140480,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "together his thoughts on how that search needs to \nevolve given some updated thinking. Zuckerman’s  "
+    } ]
+  }, {
+    "tStartMs": 146400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "proposed strategy updates are centered \naround making better guesses about what a  "
+    } ]
+  }, {
+    "tStartMs": 151760,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "technological civilization might do, or at least \nrejecting some previous unfounded assumptions."
+    } ]
+  }, {
+    "tStartMs": 157760,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "There are three main, interconnected points to \nconsider: transmission technology, how to target  "
+    } ]
+  }, {
+    "tStartMs": 163520,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "those transmissions; and tying it all together, \nthe energy available for those transmissions."
+    } ]
+  }, {
+    "tStartMs": 170640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Starting with transmission technology \nitself. In the 60s we were just getting  "
+    } ]
+  }, {
+    "tStartMs": 175280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "really good at building giant radio antennae. \nAnd there were advantages compared to, say,  "
+    } ]
+  }, {
+    "tStartMs": 181280,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "visible or infrared light transmission. The tech \nis simpler—just currents running along chunky  "
+    } ]
+  }, {
+    "tStartMs": 187600,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "wires—versus advanced materials and micro-scale \nengineering needed for visible and infrared light  "
+    } ]
+  }, {
+    "tStartMs": 193760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "detectors and transmitters. Radio frequencies also \ntravel relatively unimpeded through the dustier  "
+    } ]
+  }, {
+    "tStartMs": 199040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "regions of interstellar space. So yeah, obviously \naliens would be doing interstellar ham radio."
+    } ]
+  }, {
+    "tStartMs": 205200,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "But the big challenge with radio is that it’s \nhard to send a tight beam. For an EM wave,  "
+    } ]
+  }, {
+    "tStartMs": 212560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "the tightest possible beam has a spread that’s \nequal to the wavelength times distance traveled  "
+    } ]
+  }, {
+    "tStartMs": 219040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "divided by the size of the transmitting aperture. \nAn alien 100 light years away who wanted to flood  "
+    } ]
+  }, {
+    "tStartMs": 224800,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "earth’s entire orbit with a radio signal would \nneed a radio array with a 1000 km baseline."
+    } ]
+  }, {
+    "tStartMs": 231600,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "We can and have built the 1000km-scale \nbaseline radio arrays by now. But even  "
+    } ]
+  }, {
+    "tStartMs": 238400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "with this level of collimation, the power \nof the signal is still enormously spread  "
+    } ]
+  }, {
+    "tStartMs": 242720,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "out—over an area 140 billion times the \nsurface area of the Earth. It would take  "
+    } ]
+  }, {
+    "tStartMs": 248080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "an enormous amount of power to make such a \ndiffuse signal stand out above the galactic  "
+    } ]
+  }, {
+    "tStartMs": 252240,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "radio background. Early SETI folk guessed \nthat an energy-limited civilization might  "
+    } ]
+  }, {
+    "tStartMs": 258800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "solve this issue by channeling their limited \npower into a very narrow radio frequency band.  "
+    } ]
+  }, {
+    "tStartMs": 264080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "That spike in the radio spectrum would then \nstand out above the galactic background."
+    } ]
+  }, {
+    "tStartMs": 268480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Frank Drake even guessed what frequency \naliens might use—the so-called water hole.  "
+    } ]
+  }, {
+    "tStartMs": 273280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It’s a 300 Megahertz span where the \ngalactic radio background is weakest,  "
+    } ]
+  }, {
+    "tStartMs": 278080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and right between an oxygen and hydrogen \nemission lines that Drake guessed formed  "
+    } ]
+  }, {
+    "tStartMs": 282960,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "a natural framing of a galactic narrow-band \nham network. This sort of narrow-band radio  "
+    } ]
+  }, {
+    "tStartMs": 289520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "search strategy drove many of the biggest \npast and present SETI programs. And it  "
+    } ]
+  }, {
+    "tStartMs": 294160,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "seems a reasonable to try this. Except this \nstrategy hasn’t yielded anything yet. If the  "
+    } ]
+  }, {
+    "tStartMs": 301600,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "aliens are trying to talk to us, then they’re \nnot doing it how we think they’re doing it."
+    } ]
+  }, {
+    "tStartMs": 307600,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "According to Zuckerman, one of the keys to \nrethinking our strategy is to take seriously  "
+    } ]
+  }, {
+    "tStartMs": 313200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the fact that any technological alien civilization \nwe’re likely to encounter will have been around  "
+    } ]
+  }, {
+    "tStartMs": 318240,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "for much longer than we have. That shifts \nour thinking on each of our three points:  "
+    } ]
+  }, {
+    "tStartMs": 324560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the transmission tech, the targeting, \nand the energy limits. I’ll come back  "
+    } ]
+  }, {
+    "tStartMs": 330400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "to how we may need to shift those. But first, \nlet’s see if we can convince ourselves that  "
+    } ]
+  }, {
+    "tStartMs": 335280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "any aliens that we can plausibly notice are \nalmost certainly more advanced than we are."
+    } ]
+  }, {
+    "tStartMs": 341120,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Now it comes down to the average longevity of \na technological civilization. Let’s say that  "
+    } ]
+  }, {
+    "tStartMs": 346480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "they tend to last for, I dunno, 10,000 years \nafter becoming able to send noticeable signals  "
+    } ]
+  }, {
+    "tStartMs": 351840,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "or probes or whatever. We, humanity, are in our \nfirst century of this period. That’s the youngest  "
+    } ]
+  }, {
+    "tStartMs": 358160,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "1% of galactic civilizations. So, 99% would be \nmore advanced than us, and 90% are around 1000  "
+    } ]
+  }, {
+    "tStartMs": 366880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "years into their technological phase. So also \nmuch more advanced. Even if the civilization  "
+    } ]
+  }, {
+    "tStartMs": 372640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "survival time is only 1000 years, most will still \nbe ahead of us. But if that survival time is much  "
+    } ]
+  }, {
+    "tStartMs": 377920,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "less than 1000 years then a good fraction of \ncivilizations are of comparable tech level to  "
+    } ]
+  }, {
+    "tStartMs": 384160,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "ours. But in that case then the window of their \nnoticeability is tiny. In order to notice them,  "
+    } ]
+  }, {
+    "tStartMs": 391120,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "our own 100 years of existence would have \nto occur within their 100 or so years plus  "
+    } ]
+  }, {
+    "tStartMs": 398560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the travel time for their signals. And \nthat overlap window is a vanishingly  "
+    } ]
+  }, {
+    "tStartMs": 402800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "small 1-in-100-million fraction of the 10 \nbillion years of the Milky Way’s lifespan."
+    } ]
+  }, {
+    "tStartMs": 408640,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Of course, the Milky Way may have many of \nthese razor thin expanding bubbles containing  "
+    } ]
+  }, {
+    "tStartMs": 414400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "the desperate hails from newly emergent but soon \nto be doomed intelligent species. But the hails  "
+    } ]
+  }, {
+    "tStartMs": 420160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "themselves are doomed because no species lasts \nlong enough to exist during the passage of such  "
+    } ]
+  }, {
+    "tStartMs": 425200,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "a bubble. And that could be true, but if so the \ncase is hopeless and we should focus on finding  "
+    } ]
+  }, {
+    "tStartMs": 431280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "the signals of species that last longer. \nOr at least, so also advises Ben Zuckerman."
+    } ]
+  }, {
+    "tStartMs": 437040,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "So, what will an advanced civilization do \ndifferently? As a relatively more advanced  "
+    } ]
+  }, {
+    "tStartMs": 443120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "civilization ourselves—compared to \nthe 60s and only in very specific  "
+    } ]
+  }, {
+    "tStartMs": 447120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "respects—what can we advise regarding \nour key factors—tech, targets, energy."
+    } ]
+  }, {
+    "tStartMs": 453280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Regarding transmission technology: we know \nhow to do other things besides radio. With  "
+    } ]
+  }, {
+    "tStartMs": 458720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "modern laser technology we can transmit highly \ncollimated visible and infrared beams of light.  "
+    } ]
+  }, {
+    "tStartMs": 463680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "We haven’t built ones big enough to be space \ntelephones, but in principle we know that it’s  "
+    } ]
+  }, {
+    "tStartMs": 468640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "possible and can track a path towards \nthis in a way that we couldn’t in 1960."
+    } ]
+  }, {
+    "tStartMs": 474880,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "And that helps with… Targeting. Remember that \nthe spread of a collimated beam is proportional  "
+    } ]
+  }, {
+    "tStartMs": 480720,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "to wavelength. Visible-light is several tens of \nthousands of times shorter wavelength than radio,  "
+    } ]
+  }, {
+    "tStartMs": 486160,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "with proportionally higher collimation. The \nbeam collimation we could achieve with our  "
+    } ]
+  }, {
+    "tStartMs": 493680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "1000km radio array can be achieved with a \n1meter laser aperture or array. Or, if we  "
+    } ]
+  }, {
+    "tStartMs": 498720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "say to hell with it and build a 1000-km laser \narray—probably an interferometer in space—then  "
+    } ]
+  }, {
+    "tStartMs": 505280,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "we can focus it to the scale of a single \nplanet rather than the entire planet’s orbit."
+    } ]
+  }, {
+    "tStartMs": 511920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "But is it even possible to target a single \nplanet 100s of light years away. Well maybe,  "
+    } ]
+  }, {
+    "tStartMs": 517280,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "yes. In the 60s we had no idea whether there \nwere planets around other stars at all. Now  "
+    } ]
+  }, {
+    "tStartMs": 523920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "we know that essentially all stars have them, \nand that Earth-sized planets around Sun-like  "
+    } ]
+  }, {
+    "tStartMs": 528240,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "stars are common. The Kepler mission told us that \nthis is a statistical necessity, even though we  "
+    } ]
+  }, {
+    "tStartMs": 534080,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "haven’t actually found exact Earth-analogs. \nBut we know how to find them in principle."
+    } ]
+  }, {
+    "tStartMs": 540720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Most importantly, as emphasized by \nZuckerman, we will ultimately be  "
+    } ]
+  }, {
+    "tStartMs": 544160,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "able to take pictures of exo-Earths. Using \nspace-based coronographs and star-shades  "
+    } ]
+  }, {
+    "tStartMs": 549680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and optical or infrared interferometry, \none day we’ll be resolving the surfaces  "
+    } ]
+  }, {
+    "tStartMs": 554720,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "of Earth-like planets within hundreds of \nlight years to actually see continents and  "
+    } ]
+  }, {
+    "tStartMs": 559760,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "oceans and alien forests even city lights. \nSpectral information gathered this way,  "
+    } ]
+  }, {
+    "tStartMs": 565280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "especially in the infrared, can even reveal \nthe chemical signatures of an active biosphere."
+    } ]
+  }, {
+    "tStartMs": 570160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Even back in the 1980s were gearing up \nto build the Terrestrial Planet Finder,  "
+    } ]
+  }, {
+    "tStartMs": 574640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "which would have been able to image \nexo-Earths within 50 light years.  "
+    } ]
+  }, {
+    "tStartMs": 578400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "It was canned due to politics and JWST \ncosting too much, but now the Habitable  "
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Worlds Observatory will pick up the mission \nand get us our first pics in the 2030s. So,  "
+    } ]
+  }, {
+    "tStartMs": 589440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "if we’re this close to finding out where the \nlocal habitable and even inhabited worlds are,  "
+    } ]
+  }, {
+    "tStartMs": 594160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "surely a civilization far more advanced \nthan us will have already done so."
+    } ]
+  }, {
+    "tStartMs": 597840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "And this is one of Zuckerman’s key points. \nAn advanced species in the local region  "
+    } ]
+  }, {
+    "tStartMs": 603200,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "that cares at all about locating neighbors \nwill already know that we are here. And by  "
+    } ]
+  }, {
+    "tStartMs": 609600,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "“we” I mean life. Our technological signals \nare only 100 or so light years out, so only  "
+    } ]
+  }, {
+    "tStartMs": 616480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "those within that range know that some primates \nfigured out how to move electrons around wires."
+    } ]
+  }, {
+    "tStartMs": 622800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So now, not only does a technological neighbor \nhave the ability to send highly collimated  "
+    } ]
+  }, {
+    "tStartMs": 628080,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "signals, but they also know where to send them. \nTo the life-bearing worlds in their vicinity."
+    } ]
+  }, {
+    "tStartMs": 635040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Which brings us back to the energy issue. \nAn advanced civilization probably isn’t even  "
+    } ]
+  }, {
+    "tStartMs": 640400,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "energy limited in the way that the original SETI \nprograms assumed. We may be able to assume that  "
+    } ]
+  }, {
+    "tStartMs": 647120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "signalers will be pumping more energy into \nmore efficient beams, enabling them to do  "
+    } ]
+  }, {
+    "tStartMs": 652800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "various things—like transmitting messages across \nmany frequencies at once, rather than in single,  "
+    } ]
+  }, {
+    "tStartMs": 658800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "narrow bands. And they could also get \ntheir message to us from much further away."
+    } ]
+  }, {
+    "tStartMs": 664880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "OK, let’s bring together what we’ve \nlearned. If we follow Zuckerman’s  "
+    } ]
+  }, {
+    "tStartMs": 669040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "reasoning, the most likely signals are not \nnarrow-band radio with wide angular spread,  "
+    } ]
+  }, {
+    "tStartMs": 674400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "but rather highly targeted beams that \ncould appear at any or all frequencies,  "
+    } ]
+  }, {
+    "tStartMs": 680560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "more likely within optical or infrared \nwavebands. And these could come potentially  "
+    } ]
+  }, {
+    "tStartMs": 686080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "from much further away than is possible \nwith energy-limited radio broadcasts."
+    } ]
+  }, {
+    "tStartMs": 691600,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "He suggests a goal of observing all Sun-like \nstars within around 650 Light years,  "
+    } ]
+  }, {
+    "tStartMs": 697840,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "with the range being chosen somewhat arbitrarily, \nbut feels like an OK definition of “local” in  "
+    } ]
+  }, {
+    "tStartMs": 704160,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "our 100,000 light year radius galaxy. In the 650 \nlight year range, there are approximately 60,000  "
+    } ]
+  }, {
+    "tStartMs": 711120,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Earth-like planets orbiting Sun-like stars based \non our Kepler projections. Zuckerman whittles  "
+    } ]
+  }, {
+    "tStartMs": 717040,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "this down to a very crude and maybe conservative \nestimate of 600 that resemble Earth in various  "
+    } ]
+  }, {
+    "tStartMs": 723840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "other important factors. Of course we don’t know \nhow close to Earth-like a civilization-spawning  "
+    } ]
+  }, {
+    "tStartMs": 729040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "planet needs to be, but erring on the side \nof conservative is the right way to start."
+    } ]
+  }, {
+    "tStartMs": 734160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "OK, so let’s say we locate our target planets \nto monitor. What are we really looking for?"
+    } ]
+  }, {
+    "tStartMs": 739520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Beyond the manner of transmission, \nthere are also many questions about  "
+    } ]
+  }, {
+    "tStartMs": 743680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "what would flag a signal as technological in \norigin. Many people have thought about this,  "
+    } ]
+  }, {
+    "tStartMs": 749360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and maybe we cover it in another episode. In \ngeneral, we have a good idea of what natural  "
+    } ]
+  }, {
+    "tStartMs": 755360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "sources of electromagnetic radiation \nlook like. They tend to consist of  "
+    } ]
+  }, {
+    "tStartMs": 758720,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "a combination of a fairly well understood \nfamily of spectra—from hot gas and plasma,  "
+    } ]
+  }, {
+    "tStartMs": 764720,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "from charged particles moving in magnetic fields, \nfrom electrons hopping between atomic energy  "
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "levels. Frequency spikes in unexpected parts \nof the spectrum and other unexpected intensity  "
+    } ]
+  }, {
+    "tStartMs": 776800,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "patterns can signal a non-natural origin. Or we \nmight expect a strange time-dependence—patterns  "
+    } ]
+  }, {
+    "tStartMs": 783200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "can also be encoded in how the signal changes \nover time. Sudden and-or periodic changes  "
+    } ]
+  }, {
+    "tStartMs": 788400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "in signal strength that may reveal encoded \ninformation not possible for natural sources."
+    } ]
+  }, {
+    "tStartMs": 794160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "If the signal really does come from another \nplanet, and if the signal has a distinct  "
+    } ]
+  }, {
+    "tStartMs": 799120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "frequency structure, then that should at \nleast be clear. It’ll move back and forth  "
+    } ]
+  }, {
+    "tStartMs": 804960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "slightly in frequency due to Doppler \nshift as the planet orbits its star."
+    } ]
+  }, {
+    "tStartMs": 810160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The truth is we just don’t know what a \ntechnological transmission might look  "
+    } ]
+  }, {
+    "tStartMs": 815120,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "like and we can’t rely on aliens thinking \nhow we think they should think. We’ve been  "
+    } ]
+  }, {
+    "tStartMs": 821680,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "teased by weird stuff in the past. Like with the \nregular pulsation of the first pulsar or radio  "
+    } ]
+  }, {
+    "tStartMs": 827600,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "spike in the Wow signal—but so far all have been \nexplained as combinations of natural processes.  "
+    } ]
+  }, {
+    "tStartMs": 833920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The hope is that if our astronomical observations \nget smart enough and broad enough, we’ll know a  "
+    } ]
+  }, {
+    "tStartMs": 839920,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "technological signal when we see it. But for now, \nwhat we need to do is look for anomalies. And  "
+    } ]
+  }, {
+    "tStartMs": 844800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "modern SETI is becoming more and mor about anomaly \ndetection rather than targeted searches for the  "
+    } ]
+  }, {
+    "tStartMs": 850080,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "digits of pi encoded in a doppler-varying water \nhole spike or whatever we imagine “they” will do."
+    } ]
+  }, {
+    "tStartMs": 856800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "While it’s good to keep an open mind, the problem \nwith looking for generic anomalies is that the  "
+    } ]
+  }, {
+    "tStartMs": 861520,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "possibility space is enormous. Back when Frank \nDrake did his first SETI search it wasn’t possible  "
+    } ]
+  }, {
+    "tStartMs": 868400,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "to just look for anything weird coming from \nanywhere. Now though? Now it’s not just possible,  "
+    } ]
+  }, {
+    "tStartMs": 874320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "we’re kind of already doing it. For example, \nthe European Space Organization’s HARPS program  "
+    } ]
+  }, {
+    "tStartMs": 880240,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "uses a telescope in the Chilean Andes to look for \nexoplanets around nearly 3000 stars by measuring  "
+    } ]
+  }, {
+    "tStartMs": 886720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the tiny Doppler shift in a star’s spectrum \ncaused by the similarly tiny wobble in the  "
+    } ]
+  }, {
+    "tStartMs": 892400,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "star’s motion induced by orbiting planets. But in \na study published last year, Benjamin Fields and  "
+    } ]
+  }, {
+    "tStartMs": 898640,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Jason Goodman showed that this same data could \nbe sensitive to laser communication from these  "
+    } ]
+  }, {
+    "tStartMs": 904320,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "orbiting worlds. They didn’t find anything … but \nit’s a good proof of concept that technosignatures  "
+    } ]
+  }, {
+    "tStartMs": 910080,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "may be hidden in data we’re already taking. \nAnd maybe in the data we’ve already taken."
+    } ]
+  }, {
+    "tStartMs": 916720,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "This whole idea of piggybacking SETI on existing \nastronomy surveys is being called commensal SETI,  "
+    } ]
+  }, {
+    "tStartMs": 922880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and it’s something that Zuckerman highlights \nalso. The sorts of signals that he expects,  "
+    } ]
+  }, {
+    "tStartMs": 927520,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and many others besides, may be observable \nin our current and very near future surveys.  "
+    } ]
+  }, {
+    "tStartMs": 932960,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Because those surveys are insane. Our ability \nto put extremely sensitive, gigantic cameras  "
+    } ]
+  }, {
+    "tStartMs": 939680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "on ever-larger telescopes, and to put some of \nthose telescopes in space has opened up a new  "
+    } ]
+  }, {
+    "tStartMs": 944400,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "era in astronomy in general—an era of big \ndata, of all-sky, time domain surveys."
+    } ]
+  }, {
+    "tStartMs": 951120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "For example, the Rubin Observatory, also in the \nChilean Andes, is about to start its 10-year  "
+    } ]
+  }, {
+    "tStartMs": 956880,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "survey in which it images the entire southern \nsky every 3 days. The Euclid and Grace Roman  "
+    } ]
+  }, {
+    "tStartMs": 963360,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "telescopes bring this wide-field capability \nto the crystal clarity of space, the SKA is  "
+    } ]
+  }, {
+    "tStartMs": 969280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "old-fashioned radio, but will be so powerful that \nit feels like it’s getting close to the “advanced  "
+    } ]
+  }, {
+    "tStartMs": 973760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "civilization” radio telescopes that people like \nFrank Drake were imagining back in the 60s."
+    } ]
+  }, {
+    "tStartMs": 979360,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "These facilities are just beginning or about to \nbegin their work of downloading the universe with  "
+    } ]
+  }, {
+    "tStartMs": 985440,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "a breadth, depth, and resolution both in space and \ntime that has never been seen before, and that few  "
+    } ]
+  }, {
+    "tStartMs": 991920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "imagined back in the 60’s. And while the main \nscience drivers are to characterize the natural  "
+    } ]
+  }, {
+    "tStartMs": 997360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "universe, they’re also going to be better SETI \nprograms than any dedicated SETI program to date."
+    } ]
+  }, {
+    "tStartMs": 1003760,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "In a paper published in July last year, Eleanor \nGallay and team outlined what the possibilities  "
+    } ]
+  }, {
+    "tStartMs": 1009440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "might be with the Rubin Observatory. The \ndata flow from this survey is gigantic,  "
+    } ]
+  }, {
+    "tStartMs": 1014960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and there aren’t enough graduate students \nin the observable universe to look at every  "
+    } ]
+  }, {
+    "tStartMs": 1019120,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "pixel for every anomaly. But systems are \nnow in place to automatically monitor the  "
+    } ]
+  }, {
+    "tStartMs": 1024720,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "20 terabytes that come from the telescope \nevery night to spot interesting changes.  "
+    } ]
+  }, {
+    "tStartMs": 1030640,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "This is done by teams known as data brokers, who \ngain quick access to the data and run their clever  "
+    } ]
+  }, {
+    "tStartMs": 1036960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "algorithms—many of them leaning heavily into \nmachine learning—to look for different types of  "
+    } ]
+  }, {
+    "tStartMs": 1041680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "“events”. They’re really focused on natural stuff, \nlike supernovae and asteroids. But unnatural  "
+    } ]
+  }, {
+    "tStartMs": 1046960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "variation can also be picked up, especially \nwith some light patching of the algorithms.  "
+    } ]
+  }, {
+    "tStartMs": 1051920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The Gallay team show how the existing \nalert structure might also be co-opted  "
+    } ]
+  }, {
+    "tStartMs": 1056720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "to find a variety of technosignatures, and \nthat Rubin-LSST is going to enable a scale  "
+    } ]
+  }, {
+    "tStartMs": 1063280,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "of search that may allow us to spot even the \nmost excruciatingly rare technosignatures."
+    } ]
+  }, {
+    "tStartMs": 1070560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Commensal SETI isn’t restricted to the \noptical-IR-focused surveys that Zuckerman’s  "
+    } ]
+  }, {
+    "tStartMs": 1076160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "paper emphasizes. For example, it really could be \nthat the aliens use radio. The square kilometer  "
+    } ]
+  }, {
+    "tStartMs": 1082240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "array is currently being assembled in South \nAfrica and Australia and will ramp up its  "
+    } ]
+  }, {
+    "tStartMs": 1086720,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "sensitivity towards its completion date in the \nearly 2030s. The SKA will take as much data every  "
+    } ]
+  }, {
+    "tStartMs": 1093120,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "second as Rubin does every night. That means the \nchallenges are of the same family as for Rubin,  "
+    } ]
+  }, {
+    "tStartMs": 1099680,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "but even crazier. How do you pick out potential \nsignals without having to store every byte?  "
+    } ]
+  }, {
+    "tStartMs": 1106160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Several research teams have been working hard \ntowards building the right alert algorithms. If  "
+    } ]
+  }, {
+    "tStartMs": 1111840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "aliens do send radio signals, the SKA \nis our best change yet to catch them."
+    } ]
+  }, {
+    "tStartMs": 1117200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Our eyes on the universe are clearer \nand wider than ever before. They’ll  "
+    } ]
+  }, {
+    "tStartMs": 1121920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "show us the beginning and end of \nthe universe and the lives and  "
+    } ]
+  }, {
+    "tStartMs": 1125280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "deaths of stars and galaxies and strange \nnatural phenomena we’ve never imagined.  "
+    } ]
+  }, {
+    "tStartMs": 1130800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But a few of us will be watching that \nfeed from the universe for something  "
+    } ]
+  }, {
+    "tStartMs": 1135280,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "else. Someone else. Signals that we’re not the \nonly intelligence in this corner of space time."
+    } ]
+  }, {
+    "tStartMs": 1144080,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Thank you to Novium for supporting PBS. Inspired \nby space, the Novium Hoverpen: Interstellar is  "
+    } ]
+  }, {
+    "tStartMs": 1150000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "an otherworldly gift idea for yourself or \nthe amazing people in your life. Made with  "
+    } ]
+  }, {
+    "tStartMs": 1155280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "aircraft-grade aluminum, the Hoverpen Interstellar \nis available in Space Black, Starlight Silver,  "
+    } ]
+  }, {
+    "tStartMs": 1160560,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Mars Magma and Neptune Blue and is refillable. \nJust as Earth's axis is tilted at 23.5 degrees  "
+    } ]
+  }, {
+    "tStartMs": 1166720,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "relative to its orbital plane around the sun, the \nnovium Interstellar sits at 23.5 degrees through  "
+    } ]
+  }, {
+    "tStartMs": 1172160,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "magnetic levitation, no electricity needed. The \nMeteorite Embedded Space Black edition features a  "
+    } ]
+  }, {
+    "tStartMs": 1178800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "fragment of the Muonionalusta meteorite confirmed \nby a stainless steel certificate. Of course if you  "
+    } ]
+  }, {
+    "tStartMs": 1184880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "or your special someone prefers a fountain pen, \nthen there’s also the Hoverpen Future which can  "
+    } ]
+  }, {
+    "tStartMs": 1190240,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "be ordered as a Fountain \u0026 Rollerball 2-in-1 or \njust as a Fountain Pen. If you’re looking for a  "
+    } ]
+  }, {
+    "tStartMs": 1196000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Father’s day gift or just want one for yourself, \nthere’s links in the description below and if you  "
+    } ]
+  }, {
+    "tStartMs": 1200480,
+    "dDurationMs": 10160,
+    "segs": [ {
+      "utf8": "use the code PBS there’s 15% off all hoverpens \nfor the next 72 hours and 10% off after that."
+    } ]
+  } ]
+}

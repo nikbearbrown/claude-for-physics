@@ -1,0 +1,1267 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3100,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Thanks to brilliant.org for supporting PBS Digital Studios."
+    } ]
+  }, {
+    "tStartMs": 7060,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "There's this idea that beauty is a powerful guide to truth in the mathematics of physical theory."
+    } ]
+  }, {
+    "tStartMs": 13120,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "String theory is certainly beautiful in the eyes of many physicists,"
+    } ]
+  }, {
+    "tStartMs": 17120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but is it beautiful enough to pursue even if it's wrong?"
+    } ]
+  }, {
+    "tStartMs": 21280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "[intro music]"
+    } ]
+  }, {
+    "tStartMs": 26880,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Hermann Weyl once said, \"If I have to choose between beauty and truth, I choose beauty.\""
+    } ]
+  }, {
+    "tStartMs": 32580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "It was in reaction to a rebuke by Einstein."
+    } ]
+  }, {
+    "tStartMs": 35880,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Weyl had tried to explain \nelectromagnetism by imposing on Einstein's general theory of relativity."
+    } ]
+  }, {
+    "tStartMs": 41840,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "the very first gauge symmetry --\nWeyl invariance"
+    } ]
+  }, {
+    "tStartMs": 46440,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "Einstein pointed out that the proposal led to some absurd results, and so the idea went down in flames."
+    } ]
+  }, {
+    "tStartMs": 52780,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "It just couldn't be true, despite the elegance of the math."
+    } ]
+  }, {
+    "tStartMs": 57160,
+    "dDurationMs": 5509,
+    "segs": [ {
+      "utf8": "But sometimes it can be hard to let go of the sense that a beautiful theory must be right."
+    } ]
+  }, {
+    "tStartMs": 63160,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Could this also be the case with string theory?"
+    } ]
+  }, {
+    "tStartMs": 66880,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "As it happens, Weyl's old idea did work when translated to the very particular case of a quantum string,"
+    } ]
+  }, {
+    "tStartMs": 74409,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "which is part of what got string theory going in the first place."
+    } ]
+  }, {
+    "tStartMs": 78040,
+    "dDurationMs": 5239,
+    "segs": [ {
+      "utf8": "We talked about this in detail in our episode on why string theory is right."
+    } ]
+  }, {
+    "tStartMs": 83560,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Which itself was a sequel to our primer on the basics of string theory."
+    } ]
+  }, {
+    "tStartMs": 87610,
+    "dDurationMs": 6829,
+    "segs": [ {
+      "utf8": "In those episodes, we saw some of the remarkable ways that string theory promised to converge on a theory of everything."
+    } ]
+  }, {
+    "tStartMs": 95229,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seemed so beautiful,"
+    } ]
+  }, {
+    "tStartMs": 97659,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "the effortlessness of its inclusion of quantum gravity, its promise to unify all particles under one umbrella,"
+    } ]
+  }, {
+    "tStartMs": 104920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and there's also the convergence of many versions of string theory into a single picture"
+    } ]
+  }, {
+    "tStartMs": 110440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "with a very specific number of extra dimensions. I'll talk more about that today."
+    } ]
+  }, {
+    "tStartMs": 115480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So why, with all of this promise of being so right"
+    } ]
+  }, {
+    "tStartMs": 120040,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "do more and more physicists think that string theory is after all either woefully incomplete or just plain wrong?"
+    } ]
+  }, {
+    "tStartMs": 127750,
+    "dDurationMs": 6309,
+    "segs": [ {
+      "utf8": "Modern string theory is the convergence of many beautiful ideas in physics, \neach of which feel right in their own way."
+    } ]
+  }, {
+    "tStartMs": 134400,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "To see where string theory ultimately fails, we need to rewind to look at some of these a bit closer,"
+    } ]
+  }, {
+    "tStartMs": 141360,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "to start with, to a precursor to string theory and the origin of all this extra dimension stuff."
+    } ]
+  }, {
+    "tStartMs": 147600,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "In 1919, not long after Einstein published his great theory of gravity,"
+    } ]
+  }, {
+    "tStartMs": 152220,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Theodor Kaluza discovered something strange."
+    } ]
+  }, {
+    "tStartMs": 155700,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "He was playing around with the newfangled general relativity in five dimensions, 4 space and 1 time,"
+    } ]
+  }, {
+    "tStartMs": 161640,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "because why not."
+    } ]
+  }, {
+    "tStartMs": 163500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He found that in the right sort of"
+    } ]
+  }, {
+    "tStartMs": 165870,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "5-D space-time, you can separate the resulting Einstein equations into a"
+    } ]
+  }, {
+    "tStartMs": 171030,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "4-D component that looks exactly like the familiar general relativity in our universe,"
+    } ]
+  }, {
+    "tStartMs": 176310,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "plus an extra bit of math from the extra special dimension."
+    } ]
+  }, {
+    "tStartMs": 180480,
+    "dDurationMs": 7069,
+    "segs": [ {
+      "utf8": "Crazily, that math also looked familiar. It looked like Maxwell's equations for electromagnetism."
+    } ]
+  }, {
+    "tStartMs": 188069,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "It appeared that gravity acting in this fifth dimension looks like electromagnetism"
+    } ]
+  }, {
+    "tStartMs": 193739,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "to being trapped in our 4-D space-time."
+    } ]
+  }, {
+    "tStartMs": 198140,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "Einstein himself was supposedly jubilant at the idea -- a rather better reaction than was received for the"
+    } ]
+  }, {
+    "tStartMs": 204740,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "electromagnetism of poor old Hermann Weyl."
+    } ]
+  }, {
+    "tStartMs": 207860,
+    "dDurationMs": 8820,
+    "segs": [ {
+      "utf8": "The mild inconvenience of their very clearly being no extra special dimension was solved by Oskar Klein in the late 1920's."
+    } ]
+  }, {
+    "tStartMs": 217160,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Klein realized that you can get a sensible quantum theory if you compactify that extra dimension."
+    } ]
+  }, {
+    "tStartMs": 223020,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Shrink it down to around 10 to the power of negative thirtieth of a meter,"
+    } ]
+  }, {
+    "tStartMs": 228020,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "so it's only visible to things equally miniscule."
+    } ]
+  }, {
+    "tStartMs": 232180,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "In the resulting in Kaluza–Klein theory, the fifth dimension is looped into a tiny circle."
+    } ]
+  }, {
+    "tStartMs": 238200,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "At every point in space, there's another direction to move: up, down, left, right, forward, back, and around."
+    } ]
+  }, {
+    "tStartMs": 247440,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Momentum in that loop dimension has the exact behavior of"
+    } ]
+  }, {
+    "tStartMs": 252239,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "electric charge, with the direction of rotation"
+    } ]
+  }, {
+    "tStartMs": 255660,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "determining the sign of the charge."
+    } ]
+  }, {
+    "tStartMs": 257280,
+    "dDurationMs": 4529,
+    "segs": [ {
+      "utf8": "It was an incredible discovery and a beautiful one. It even made a prediction:"
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "the ratio between the mass of the electric charge and the electron."
+    } ]
+  }, {
+    "tStartMs": 266800,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "Assuming the experimentally measured value for the electric charge, the corresponding electron mass should be around five"
+    } ]
+  }, {
+    "tStartMs": 274449,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "kilograms?"
+    } ]
+  }, {
+    "tStartMs": 276540,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Probably wrong, and it's not the only problem with the first version of Kaluza–Klein theory."
+    } ]
+  }, {
+    "tStartMs": 282180,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "It also predicted an unknown field,"
+    } ]
+  }, {
+    "tStartMs": 284400,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the dilaton field, and a corresponding particle that had never been seen."
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "It also didn't give anything beyond electromagnetism,"
+    } ]
+  }, {
+    "tStartMs": 292260,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "but, to be fair, the other fundamental forces hadn't even been discovered at that stage."
+    } ]
+  }, {
+    "tStartMs": 297260,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "These may have seemed like fatal flaws,"
+    } ]
+  }, {
+    "tStartMs": 299060,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "but we can thank this wrongness for the later development of string theory."
+    } ]
+  }, {
+    "tStartMs": 304400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "People tried various things to fix these issues."
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "For example, adding more compact dimensions of various shapes and, of course, strings."
+    } ]
+  }, {
+    "tStartMs": 312820,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "There are many Kaluza-Klein inspired theories out there."
+    } ]
+  }, {
+    "tStartMs": 316480,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "String theory is just the most famous."
+    } ]
+  }, {
+    "tStartMs": 318940,
+    "dDurationMs": 7669,
+    "segs": [ {
+      "utf8": "So, start with Kaluza-Klein, add vibrating strings and exactly the right extra special dimensions, and you have string theory."
+    } ]
+  }, {
+    "tStartMs": 326800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The last critical ingredient is"
+    } ]
+  }, {
+    "tStartMs": 329140,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "supersymmetry."
+    } ]
+  }, {
+    "tStartMs": 330580,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "This is a theoretical symmetry between bosons and fermions, which very elegantly explains certain"
+    } ]
+  }, {
+    "tStartMs": 336159,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "anomalies, like the vast differences in strengths between the fundamental forces."
+    } ]
+  }, {
+    "tStartMs": 340539,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "It also introduces fermions to the boson only version of string theory to give super string theory."
+    } ]
+  }, {
+    "tStartMs": 347380,
+    "dDurationMs": 5689,
+    "segs": [ {
+      "utf8": "The introduction of supersymmetry along with the discovery of the right symmetries for the extra dimensions"
+    } ]
+  }, {
+    "tStartMs": 353620,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "sparked the first superstring revolution of the mid 80s,"
+    } ]
+  }, {
+    "tStartMs": 357820,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "roughly coinciding with the theatrical release of Weird Science."
+    } ]
+  }, {
+    "tStartMs": 362500,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Just saying."
+    } ]
+  }, {
+    "tStartMs": 363460,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Superstring started out with incredible promise, and so there was a proliferation of different versions of super string theory."
+    } ]
+  }, {
+    "tStartMs": 370330,
+    "dDurationMs": 7429,
+    "segs": [ {
+      "utf8": "It turns out there are five ways to tie superstring: Type 1, Type 2 (A and B),"
+    } ]
+  }, {
+    "tStartMs": 377759,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "heterotic SO32, and E8 by E8."
+    } ]
+  }, {
+    "tStartMs": 380210,
+    "dDurationMs": 7309,
+    "segs": [ {
+      "utf8": "Five different approaches to getting all of the desired particles out of the basic premise of strings wiggling in ten dimensions."
+    } ]
+  }, {
+    "tStartMs": 388190,
+    "dDurationMs": 3859,
+    "segs": [ {
+      "utf8": "All required six compactified extra dimensions of space."
+    } ]
+  }, {
+    "tStartMs": 392720,
+    "dDurationMs": 7159,
+    "segs": [ {
+      "utf8": "What differs is the detailed geometries and symmetries of those spaces, and the way strings vibrate within them."
+    } ]
+  }, {
+    "tStartMs": 400180,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "In fact, these versions appeared fundamentally different from each other,"
+    } ]
+  }, {
+    "tStartMs": 404800,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "divergent, rather than convergent,"
+    } ]
+  }, {
+    "tStartMs": 406940,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "contradictory even."
+    } ]
+  }, {
+    "tStartMs": 409280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Hardly elegant, one might even say ugly,"
+    } ]
+  }, {
+    "tStartMs": 413300,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "or wrong."
+    } ]
+  }, {
+    "tStartMs": 414260,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But the key to their convergence and the return to beauty had already been glimpsed."
+    } ]
+  }, {
+    "tStartMs": 419780,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The various superstring theories exhibited what we call"
+    } ]
+  }, {
+    "tStartMs": 422960,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "dualities."
+    } ]
+  }, {
+    "tStartMs": 424620,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "A duality in physics is when two apparently different"
+    } ]
+  }, {
+    "tStartMs": 427500,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "mathematical theories proved to represent the same physical process."
+    } ]
+  }, {
+    "tStartMs": 432260,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "These dualities reveal that certain classes of string theory"
+    } ]
+  }, {
+    "tStartMs": 436240,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "were actually the different ways of expressing exactly the same theory."
+    } ]
+  }, {
+    "tStartMs": 440220,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Perhaps there was a glimmer of hope for these divergent versions of string theory after all."
+    } ]
+  }, {
+    "tStartMs": 445140,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "To give you a sense of what a duality looks like,"
+    } ]
+  }, {
+    "tStartMs": 448180,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "let's go back to the good old simplicity of Kaluza–Klein theory,"
+    } ]
+  }, {
+    "tStartMs": 452940,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "or at least at the simplicity of just one extra circular spatial dimension."
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "In fact, let's simplify even further."
+    } ]
+  }, {
+    "tStartMs": 461080,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Imagine"
+    } ]
+  }, {
+    "tStartMs": 462100,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "only one extended and one compactified spatial dimension."
+    } ]
+  }, {
+    "tStartMs": 467140,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "If the latter is circular,"
+    } ]
+  }, {
+    "tStartMs": 469160,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "we can get a tube."
+    } ]
+  }, {
+    "tStartMs": 470720,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Our tiny quantum strings can roam that small dimension."
+    } ]
+  }, {
+    "tStartMs": 474560,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "They can even wind around it,"
+    } ]
+  }, {
+    "tStartMs": 476380,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "perhaps multiple times in either direction,"
+    } ]
+  }, {
+    "tStartMs": 478900,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "before forming a closed loop."
+    } ]
+  }, {
+    "tStartMs": 481160,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "The number of times a string winds around this compactified dimension"
+    } ]
+  }, {
+    "tStartMs": 484880,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "is called its winding number. The energy of such a string depends on the winding number"
+    } ]
+  }, {
+    "tStartMs": 490960,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "times the radius of the compactified dimension. That makes sense, it basically gives the length of the string."
+    } ]
+  }, {
+    "tStartMs": 497120,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "These strings are vibrating with standing waves like guitar strings, and their energy also depends on the frequency of that vibration."
+    } ]
+  }, {
+    "tStartMs": 505680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "That frequency depends on the density of wave cycles on the string."
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "That's just the number of wave cycles around each coil, or the mode number"
+    } ]
+  }, {
+    "tStartMs": 514940,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "divided by the radius. So, there are two ways to get a high-energy string: have a large winding number along with a large radius"
+    } ]
+  }, {
+    "tStartMs": 522780,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "that gives you a long string, or have a large mode number with a small radius and that gives you a high frequency vibration."
+    } ]
+  }, {
+    "tStartMs": 529760,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "It turns out that mathematically, these two are completely equivalent."
+    } ]
+  }, {
+    "tStartMs": 535520,
+    "dDurationMs": 11520,
+    "segs": [ {
+      "utf8": "At least, they give exactly the same physics, either winding number times radius, or mode number divided by radius can be used to define the momentum of a particle produced by this string."
+    } ]
+  }, {
+    "tStartMs": 547040,
+    "dDurationMs": 12800,
+    "segs": [ {
+      "utf8": "So you can construct a theory in which momentum increases with the size of the compact dimension, or where momentum decreases with that size and both give the same results."
+    } ]
+  }, {
+    "tStartMs": 559840,
+    "dDurationMs": 10240,
+    "segs": [ {
+      "utf8": "It sounds weird but this may just have saved string theory. I just described a type of duality, in this case t-duality, short for target space duality."
+    } ]
+  }, {
+    "tStartMs": 570080,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "In a duality two apparently contradictory way of describing the mechanics of the universe can lead to exactly the same results."
+    } ]
+  }, {
+    "tStartMs": 577600,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "The appearance of dualities tells us that we probably can't take our geometric interpretations of the math as seriously as we'd like to."
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "T-dualities prove that some of these different versions of string theory are actually different expressions of the same theory."
+    } ]
+  }, {
+    "tStartMs": 594720,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "The other main type of duality in string theory is s-duality, strong-weak duality."
+    } ]
+  }, {
+    "tStartMs": 599840,
+    "dDurationMs": 9920,
+    "segs": [ {
+      "utf8": "In this case it's a duality between strongly versus weakly interacting strings. This seems even more contradictory, but it's incredibly powerful."
+    } ]
+  }, {
+    "tStartMs": 609920,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "We will glimpse the mechanics and the implications of s-duality, as we look deeper into m-theory and  holography in the future."
+    } ]
+  }, {
+    "tStartMs": 618080,
+    "dDurationMs": 9760,
+    "segs": [ {
+      "utf8": "S-duality provided the final linchpin that demonstrated that the five different types of string theory were all manifestations of the same theory."
+    } ]
+  }, {
+    "tStartMs": 627840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The guy who ultimately brought it together was Ed Witten."
+    } ]
+  }, {
+    "tStartMs": 631680,
+    "dDurationMs": 11040,
+    "segs": [ {
+      "utf8": "At a string conference in '95, Witten showed that the disparate string theories were all just different perspectives, different limits or special cases of a single overarching theory."
+    } ]
+  }, {
+    "tStartMs": 642720,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "This was m-theory, where M stands for really what have you want it to: membrane, magic, mother theory."
+    } ]
+  }, {
+    "tStartMs": 651760,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "According to Witten is to be decided when the full nature of the theory is understood. We'll come back to M-theory in real detail,"
+    } ]
+  }, {
+    "tStartMs": 659800,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "but the important thing here is that it adds a single extra dimension, to connect all of the five super string theory types via s-duality."
+    } ]
+  }, {
+    "tStartMs": 668800,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "So whereas the original superstring theories were ten dimensional with six compactified, M-theory is 11D, with seven hidden dimensions."
+    } ]
+  }, {
+    "tStartMs": 679360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Wait, didn't the movie seven come out in '95 also?"
+    } ]
+  }, {
+    "tStartMs": 684360,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Whoa"
+    } ]
+  }, {
+    "tStartMs": 685520,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "Well, that all sounds a bit arbitrary. Your theory not working? Just add an extra dimension."
+    } ]
+  }, {
+    "tStartMs": 692120,
+    "dDurationMs": 9760,
+    "segs": [ {
+      "utf8": "Actually, the realization that superstring theory could be 11 dimensional was a revolution. It sparked the second superstring revolution."
+    } ]
+  }, {
+    "tStartMs": 701880,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "See, in parallel to the development of super string theory, other physicists have been working on super gravity."
+    } ]
+  }, {
+    "tStartMs": 709520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "For independent reasons that we don't have time to get into,"
+    } ]
+  }, {
+    "tStartMs": 713200,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "11 is also the magic number for super gravity dimensions. Super gravity should be the low energy,"
+    } ]
+  }, {
+    "tStartMs": 720520,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "large-scale limit to super string theory. So it was incredibly exciting that string theory appeared to have an"
+    } ]
+  }, {
+    "tStartMs": 727680,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "11 dimensional version, M-theory, to correspond to everyone's favorite 11 D super gravity."
+    } ]
+  }, {
+    "tStartMs": 734920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "This convergence of the superstring theories with each other and with super gravity"
+    } ]
+  }, {
+    "tStartMs": 739560,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "restored the sense of beauty to string theory. It appeared to be on the track to rightness once again, so"
+    } ]
+  }, {
+    "tStartMs": 746480,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So where did things go wrong?"
+    } ]
+  }, {
+    "tStartMs": 749520,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Well, in a sense they were never really right. This M-theory thing, it's still not well-defined."
+    } ]
+  }, {
+    "tStartMs": 756600,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "It's not solvable using perturbation theory, which doesn't leave much room to explore its implications."
+    } ]
+  }, {
+    "tStartMs": 763480,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "In all superstring theories the extra spatial dimensions are wrapped, not in simple loops, but in complicated geometries"
+    } ]
+  }, {
+    "tStartMs": 771080,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "called Calabi-Yau manifolds."
+    } ]
+  }, {
+    "tStartMs": 773680,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "The behavior of strings in these hyper dimensional surfaces is only understood in idealized cases."
+    } ]
+  }, {
+    "tStartMs": 780520,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "For example, sections of these manifolds that can be approximated as simple tubes, like in Kaluza-Klein line theory."
+    } ]
+  }, {
+    "tStartMs": 788320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "But more worrying, there are countless possible geometries,"
+    } ]
+  }, {
+    "tStartMs": 792040,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "countless Calabi-Yau manifolds, to choose from. The standard number given is 10 to the power of 500 different topologies,"
+    } ]
+  }, {
+    "tStartMs": 801560,
+    "dDurationMs": 9060,
+    "segs": [ {
+      "utf8": "the actual number is a lot higher. This is the string landscape. Each geometry for the compactified dimensions implies a different set of porperties"
+    } ]
+  }, {
+    "tStartMs": 810620,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "for vibrating strings, and so a different family of particles and different laws of physics to go with them."
+    } ]
+  }, {
+    "tStartMs": 816100,
+    "dDurationMs": 6940,
+    "segs": [ {
+      "utf8": "It seems an impossible task to find which one corresponds to our universe, if any do."
+    } ]
+  }, {
+    "tStartMs": 823040,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "This is the impasse."
+    } ]
+  }, {
+    "tStartMs": 824360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "In principle the standard model lives somewhere in the string landscape,"
+    } ]
+  }, {
+    "tStartMs": 829120,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "but without knowing the geometry of the extra dimensions, this can't be verified"
+    } ]
+  }, {
+    "tStartMs": 833680,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "nor can we make testable predictions beyond the standard model."
+    } ]
+  }, {
+    "tStartMs": 837480,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Well there is supersymmetry."
+    } ]
+  }, {
+    "tStartMs": 840880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Essentially all string theories require supersymmetry in order to work."
+    } ]
+  }, {
+    "tStartMs": 845660,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "Physicists at the Large Hadron Collider had expected to find supersymmetric particles by now."
+    } ]
+  }, {
+    "tStartMs": 851440,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "They haven't."
+    } ]
+  }, {
+    "tStartMs": 852790,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "There's a hint from cosmic rays, we talked about it earlier."
+    } ]
+  }, {
+    "tStartMs": 856560,
+    "dDurationMs": 8580,
+    "segs": [ {
+      "utf8": "But string theories are still rightly concerned. Their elegant theory which was converging so beautifully has stalled."
+    } ]
+  }, {
+    "tStartMs": 865140,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Will they follow in the example of Hermann Weyl and choose beauty over truth?"
+    } ]
+  }, {
+    "tStartMs": 871820,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "One last word on Weyl."
+    } ]
+  }, {
+    "tStartMs": 874360,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "His idea of explaining electromagnetism by adding his gauge symmetry to general relativity was wrong,"
+    } ]
+  }, {
+    "tStartMs": 881140,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "but it inspired the entire field of gauge theory upon which much of our understanding of the quantum world depends."
+    } ]
+  }, {
+    "tStartMs": 888360,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "It also gave us the sought after quantum electromagnetism in the end, just with a slightly different symmetry."
+    } ]
+  }, {
+    "tStartMs": 895760,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "So perhaps string theorists should also stick to their guns."
+    } ]
+  }, {
+    "tStartMs": 900320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "As wrong or incomplete as current string theory may be,"
+    } ]
+  }, {
+    "tStartMs": 903920,
+    "dDurationMs": 10380,
+    "segs": [ {
+      "utf8": "it may also be the inevitable early step as we seek an even more beautiful and ultimately more right understanding of space-time."
+    } ]
+  }, {
+    "tStartMs": 914800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "learning the physics required to understand string theory is tough"
+    } ]
+  }, {
+    "tStartMs": 918840,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "thankfully there are online tools that can help"
+    } ]
+  }, {
+    "tStartMs": 921580,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "like brilliance a"
+    } ]
+  }, {
+    "tStartMs": 923360,
+    "dDurationMs": 6169,
+    "segs": [ {
+      "utf8": "problem-solving website that teaches you to tackle difficult topics and think like a scientist by breaking up complexities into"
+    } ]
+  }, {
+    "tStartMs": 929749,
+    "dDurationMs": 7580,
+    "segs": [ {
+      "utf8": "Understandable pieces and instead of just passively listening to lectures you get to master concepts by solving interesting and challenging problems?"
+    } ]
+  }, {
+    "tStartMs": 937850,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "So whether you want to learn about special relativity in quantum physics or brush up on your complex algebra and differential equations"
+    } ]
+  }, {
+    "tStartMs": 944569,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "you can learn more at brilliant org slash space-time"
+    } ]
+  }, {
+    "tStartMs": 948920,
+    "dDurationMs": 7130,
+    "segs": [ {
+      "utf8": "Now before I get to comments don't forget to check out our all new space-time merch store and if you feel up for it"
+    } ]
+  }, {
+    "tStartMs": 956320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "support us on patreon links in the description"
+    } ]
+  }, {
+    "tStartMs": 959440,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "now last week we peered into the looking-glass and saw how a universe that's spatially reflected in a mirror"
+    } ]
+  }, {
+    "tStartMs": 965980,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "has fundamentally different laws of physics to our own you had your own"
+    } ]
+  }, {
+    "tStartMs": 970720,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "Reflections on the subject. socks with sandals points out that parity inversion isn't the only thing reflected in a true mirror universe"
+    } ]
+  }, {
+    "tStartMs": 978880,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "And that's right. In a perfect reflection of our universe, not only are spatial coordinates flipped,"
+    } ]
+  }, {
+    "tStartMs": 984580,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "charges are also reversed and in fact time is reversed too."
+    } ]
+  }, {
+    "tStartMs": 988940,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Only when you reverse parity charges and time do you get a universe that behaves like, ours"
+    } ]
+  }, {
+    "tStartMs": 995000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "one full of mirror reflected antimatter traveling backwards in time"
+    } ]
+  }, {
+    "tStartMs": 999720,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Well so the cpt theorem tells us and we'll get back to that real soon"
+    } ]
+  }, {
+    "tStartMs": 1004700,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "and yes if matter from that Mirror Universe broke through and came into contact with ours it wouldn't be pretty"
+    } ]
+  }, {
+    "tStartMs": 1012110,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "infinity years bad luck"
+    } ]
+  }, {
+    "tStartMs": 1014330,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "William wonders whether the helix of the DNA molecule would be reverse in a mirror universe"
+    } ]
+  }, {
+    "tStartMs": 1019730,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "well I think the answer is both yes and I don't know"
+    } ]
+  }, {
+    "tStartMs": 1022850,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Depending on how you think about it William is referring to the fact that DNA always wins in a particular direction"
+    } ]
+  }, {
+    "tStartMs": 1029290,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it's chiral and always has the same chirality"
+    } ]
+  }, {
+    "tStartMs": 1032330,
+    "dDurationMs": 2449,
+    "segs": [ {
+      "utf8": "we define DNA to be right-handed"
+    } ]
+  }, {
+    "tStartMs": 1035570,
+    "dDurationMs": 5689,
+    "segs": [ {
+      "utf8": "So if you look at DNA in a mirror its left-handed but is its chirality"
+    } ]
+  }, {
+    "tStartMs": 1041570,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "determined by something fundamental about our universe if DNA forms on another planet is it always"
+    } ]
+  }, {
+    "tStartMs": 1047480,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "right-handed would a parity reflected universe always have left-handed DNA now that's not so obvious"
+    } ]
+  }, {
+    "tStartMs": 1054110,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Right-handed DNA is built entirely of right-handed amino acids but those are in equal abundance to"
+    } ]
+  }, {
+    "tStartMs": 1060440,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "left-handed amino acids in nature so why only right-handed DNA"
+    } ]
+  }, {
+    "tStartMs": 1064940,
+    "dDurationMs": 7729,
+    "segs": [ {
+      "utf8": "and it's likely because the first are in a precursor to DNA just by chance happen to form from right-handed amino acids"
+    } ]
+  }, {
+    "tStartMs": 1072980,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "these could replicate but only using other right-handed amino acids after that"
+    } ]
+  }, {
+    "tStartMs": 1078620,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "right-handed replicators were the only game in town"
+    } ]
+  }, {
+    "tStartMs": 1081530,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "At least for the earth so have you accused us of filming that episode in a mirror universe"
+    } ]
+  }, {
+    "tStartMs": 1087200,
+    "dDurationMs": 5779,
+    "segs": [ {
+      "utf8": "apparently balls were spinning clockwise when I said counter clockwise left became right and vice-versa on multiple occasions"
+    } ]
+  }, {
+    "tStartMs": 1093590,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "Some of you even heard Yee and Lang instead of Li and yang come on people if I was in a mirror universe"
+    } ]
+  }, {
+    "tStartMs": 1100100,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I'd have a beard be evil and be like Australian or something"
+    } ]
+  }, {
+    "tStartMs": 1104000,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Anyway, as chiral-chauvinist as it seems, I guess you have a right to complain about daintiness."
+    } ]
+  }, {
+    "tStartMs": 1108740,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Or as James Drusco puts it: \"it's my parity and i'll cry if I want to.\""
+    } ]
+  } ]
+}

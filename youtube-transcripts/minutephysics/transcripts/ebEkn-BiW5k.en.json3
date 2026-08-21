@@ -1,0 +1,427 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1530,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "We often evaluate the success of medical treatments\nor social programs by how much of the population"
+    } ]
+  }, {
+    "tStartMs": 6131,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "they help."
+    } ]
+  }, {
+    "tStartMs": 7590,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "Like, suppose we're treating a disease that\nafflicts both people and cats, and among 1"
+    } ]
+  }, {
+    "tStartMs": 13080,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "cat and 4 people we treat, the cat and 1 person\nrecover and 3 people die."
+    } ]
+  }, {
+    "tStartMs": 17510,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And of 4 cats and 1 person we don't treat,\nthree of the cats recover while the person"
+    } ]
+  }, {
+    "tStartMs": 21750,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and 1 cat die."
+    } ]
+  }, {
+    "tStartMs": 23350,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "In the real world, these numbers might be\nmore like 300 and 100, or whatever, but we'll"
+    } ]
+  }, {
+    "tStartMs": 27320,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "keep them small so they're easier to keep\ntrack of."
+    } ]
+  }, {
+    "tStartMs": 29530,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "So, in our sample, 100% of treated cats survive\nwhile only 75% of untreated cats do, and 25%"
+    } ]
+  }, {
+    "tStartMs": 36230,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "of treated humans survive while 0% of untreated\nhumans do."
+    } ]
+  }, {
+    "tStartMs": 40260,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "Which makes it seem like the treatment improves\nchances of recovery."
+    } ]
+  }, {
+    "tStartMs": 43539,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "Except that if we aggregate the data, among\nall people and cats treated, only 40% survive,"
+    } ]
+  }, {
+    "tStartMs": 48500,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "while among all people and cats left on their\nown, 60% recover."
+    } ]
+  }, {
+    "tStartMs": 52340,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Which makes it seem like the treatment reduces\nchances of recovery."
+    } ]
+  }, {
+    "tStartMs": 56010,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "So which is it?"
+    } ]
+  }, {
+    "tStartMs": 57350,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "This is an illustration of Simpson's paradox\n, a statistical paradox where it's possible"
+    } ]
+  }, {
+    "tStartMs": 61249,
+    "dDurationMs": 4471,
+    "segs": [ {
+      "utf8": "to draw two opposite conclusions from the\nsame data depending on how you divide things"
+    } ]
+  }, {
+    "tStartMs": 65720,
+    "dDurationMs": 4259,
+    "segs": [ {
+      "utf8": "up, and statistics alone cannot help us solve\nit – we have to go outside statistics and"
+    } ]
+  }, {
+    "tStartMs": 69979,
+    "dDurationMs": 3271,
+    "segs": [ {
+      "utf8": "understand the causality involved in the situation\nat hand."
+    } ]
+  }, {
+    "tStartMs": 73250,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "For example, if we know that humans get the\ndisease more seriously and are therefore more"
+    } ]
+  }, {
+    "tStartMs": 77520,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "likely to be prescribed treatment, then it\ncan make sense that fewer individuals that"
+    } ]
+  }, {
+    "tStartMs": 81170,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "get treated survive, even if the treatment\nincreases the chances of recovery, since the"
+    } ]
+  }, {
+    "tStartMs": 85370,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "individuals that got treated were more likely\nto die in the first place."
+    } ]
+  }, {
+    "tStartMs": 88820,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "On the other hand, if we know that humans,\nregardless of how sick they are, are more"
+    } ]
+  }, {
+    "tStartMs": 92820,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "likely to get treated than cats because no\none wants to pay for kitty healthcare, then"
+    } ]
+  }, {
+    "tStartMs": 96549,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "the fact that 4 out of 5 humans died while\nonly 1 in 5 cats died suggests that, indeed,"
+    } ]
+  }, {
+    "tStartMs": 102219,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "the treatment may be a bad choice."
+    } ]
+  }, {
+    "tStartMs": 104399,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So if you're doing a controlled experiment,\nyou need to make sure to not let anything"
+    } ]
+  }, {
+    "tStartMs": 108119,
+    "dDurationMs": 4322,
+    "segs": [ {
+      "utf8": "causally related to the experiment influence\nhow you apply your treatments, and if you"
+    } ]
+  }, {
+    "tStartMs": 112441,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "have an uncontrolled experiment, you have\nto be able to take those outside biases into"
+    } ]
+  }, {
+    "tStartMs": 116399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "account."
+    } ]
+  }, {
+    "tStartMs": 117399,
+    "dDurationMs": 4441,
+    "segs": [ {
+      "utf8": "As a more tangible example, Wisconsin has\nrepeatedly had higher overall 8th grade standardized"
+    } ]
+  }, {
+    "tStartMs": 121840,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "test scores than Texas, so you might think\nWisconsin is doing a better job teaching than"
+    } ]
+  }, {
+    "tStartMs": 125770,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Texas."
+    } ]
+  }, {
+    "tStartMs": 126770,
+    "dDurationMs": 3049,
+    "segs": [ {
+      "utf8": "However, when broken down by race – which,\nvia entrenched socioeconomic differences is"
+    } ]
+  }, {
+    "tStartMs": 129819,
+    "dDurationMs": 5051,
+    "segs": [ {
+      "utf8": "a major factor in standardized-test scores\n– Texas students performed better than Wisconsin"
+    } ]
+  }, {
+    "tStartMs": 134870,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "students on all fronts: black Texas students\nscored higher than black Wisconsin students,"
+    } ]
+  }, {
+    "tStartMs": 140200,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "and likewise with hispanic and white students."
+    } ]
+  }, {
+    "tStartMs": 142489,
+    "dDurationMs": 4331,
+    "segs": [ {
+      "utf8": "The difference in the overall ranking is because\nWisconsin has proportionally far fewer black"
+    } ]
+  }, {
+    "tStartMs": 146820,
+    "dDurationMs": 5059,
+    "segs": [ {
+      "utf8": "and hispanic students and proportionally more\nwhite students than Texas – so the takeaway"
+    } ]
+  }, {
+    "tStartMs": 151879,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "should not be that Wisconsin has better education\nthan Texas!"
+    } ]
+  }, {
+    "tStartMs": 154849,
+    "dDurationMs": 9521,
+    "segs": [ {
+      "utf8": "Just that it has (proportionally) more socioeconomically\nadvantaged people."
+    } ]
+  }, {
+    "tStartMs": 164370,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "In some situations there's also a nice graphical\nway to picture Simpson's paradox: as two separate"
+    } ]
+  }, {
+    "tStartMs": 168890,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "trends that each go one way, but the overall\ntrend between the populations goes the other"
+    } ]
+  }, {
+    "tStartMs": 173650,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "way."
+    } ]
+  }, {
+    "tStartMs": 174650,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "Like, maybe more money makes people sadder,\nand more money makes cats sadder, but if cats"
+    } ]
+  }, {
+    "tStartMs": 179599,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "are both much happier and richer than people\nto start with, the overall trend appears,"
+    } ]
+  }, {
+    "tStartMs": 184120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "incorrectly, to be that more money makes you\nhappier."
+    } ]
+  }, {
+    "tStartMs": 187040,
+    "dDurationMs": 7559,
+    "segs": [ {
+      "utf8": "Of course, you can also misinterpret this\ngraph to show that, overall, more money makes"
+    } ]
+  }, {
+    "tStartMs": 194599,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "you a cat, which I think helps illustrate\nvery well the ability to lie or reach incorrect"
+    } ]
+  }, {
+    "tStartMs": 199159,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "conclusions by blindly using statistics without\ncontext!"
+    } ]
+  }, {
+    "tStartMs": 202769,
+    "dDurationMs": 3851,
+    "segs": [ {
+      "utf8": "Of course, this is not to say that statistics\nare always going to be paradoxical or confusing"
+    } ]
+  }, {
+    "tStartMs": 206620,
+    "dDurationMs": 3649,
+    "segs": [ {
+      "utf8": "– it's quite possible that everything will\njust make sense from the get-go, like if people"
+    } ]
+  }, {
+    "tStartMs": 210269,
+    "dDurationMs": 4821,
+    "segs": [ {
+      "utf8": "and cats both get sadder when you give them\nmore money, and cats are both poorer and happier"
+    } ]
+  }, {
+    "tStartMs": 215090,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "than people, then the overall trend is no\nlonger paradoxical: more money = more sadness."
+    } ]
+  }, {
+    "tStartMs": 220490,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But it's important to be aware that paradoxes\nlike Simpson's paradox are possible, and we"
+    } ]
+  }, {
+    "tStartMs": 224250,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "often need more context to understand what\na statistic actually means."
+    } ]
+  }, {
+    "tStartMs": 231650,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "Given the mathiness of my videos, it may not\nsurprise you to hear that I get a lot of practice"
+    } ]
+  }, {
+    "tStartMs": 235719,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "with math \u0026 physics problems while working\non them, and this video’s sponsor, Brilliant.org,"
+    } ]
+  }, {
+    "tStartMs": 240090,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "wants to help you stay sharp on your problem\nsolving, too!"
+    } ]
+  }, {
+    "tStartMs": 242960,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "(since, unfortunately, watching videos doesn’t\nrequire as much problem solving)."
+    } ]
+  }, {
+    "tStartMs": 246939,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Practice is pretty much the best way to really\nget to know a subject, and Brilliant.org is"
+    } ]
+  }, {
+    "tStartMs": 250569,
+    "dDurationMs": 4871,
+    "segs": [ {
+      "utf8": "ready to give you plenty with premium courses\nin probability, logic, and math for quantitative"
+    } ]
+  }, {
+    "tStartMs": 255440,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "finance."
+    } ]
+  }, {
+    "tStartMs": 256890,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Plus addictive puzzles: for example, “if\nhalf of the earth is blown away by the impact"
+    } ]
+  }, {
+    "tStartMs": 261190,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "of a comet, what happens to the orbit of the\nmoon?”"
+    } ]
+  }, {
+    "tStartMs": 264470,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "It almost sounds like a MinutePhysics video…\nbut you’re going to have to go to Brilliant.org"
+    } ]
+  }, {
+    "tStartMs": 268140,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "to solve it (or one of their many others)\n– and when you do, use the URL brilliant.org/minutephysics"
+    } ]
+  }, {
+    "tStartMs": 274870,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "to let Brilliant know you came from here."
+    } ]
+  } ]
+}

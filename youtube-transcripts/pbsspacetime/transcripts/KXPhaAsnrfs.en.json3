@@ -1,0 +1,1045 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Thank You To Radiacode for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 3600,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "What do you get if you take something \nthat’s infinitely massive and  "
+    } ]
+  }, {
+    "tStartMs": 7520,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "combining with something else that’s negative \ninfinitely massive? You get a single electron,  "
+    } ]
+  }, {
+    "tStartMs": 15240,
+    "dDurationMs": 12120,
+    "segs": [ {
+      "utf8": "at least that’s what it looks like in our most \nprecise way of describing the quantum world."
+    } ]
+  }, {
+    "tStartMs": 27360,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Today’s episode is an introduction \nto one of the most important  "
+    } ]
+  }, {
+    "tStartMs": 30200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "problems in physics. It’s the Hierarchy \nProblem, and its important because its  "
+    } ]
+  }, {
+    "tStartMs": 35160,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "solution is going to lead us beyond our current \ntheories. The Hierarchy Problem, put simply,  "
+    } ]
+  }, {
+    "tStartMs": 41120,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "is that we don’t understand why the mass of the \nHiggs boson is so small. From our understanding  "
+    } ]
+  }, {
+    "tStartMs": 47320,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "of quantum field theory and the standard model of \nparticle physics, interactions between the Higgs  "
+    } ]
+  }, {
+    "tStartMs": 51840,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "and the quantum vacuum should drive its mass up \nto enormous values. That would be catastrophic  "
+    } ]
+  }, {
+    "tStartMs": 58320,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "for our universe, and so we should be grateful \nthat the small Higgs mass is somehow protected.  "
+    } ]
+  }, {
+    "tStartMs": 63240,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "We just don’t know how it's protected. But \nto fully appreciate why it’s surprising that  "
+    } ]
+  }, {
+    "tStartMs": 68560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "we haven’t been able to find the mechanism for \nthis protection, and why the capital-H hierarchy  "
+    } ]
+  }, {
+    "tStartMs": 74640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "problem is such a big deal, we’re going to \nstart with the small-h hierarchy problem  "
+    } ]
+  }, {
+    "tStartMs": 79360,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "involving the electron. The electron hierarchy \nproblem existed before quantum mechanics,  "
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "and was solved by quantum mechanics, once we \nunderstood the theory well enough. By giving  "
+    } ]
+  }, {
+    "tStartMs": 90880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "you a sense of how the electron hierarchy \nproblem was solved, I think you’ll really  "
+    } ]
+  }, {
+    "tStartMs": 95120,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "appreciate why the Higgs Hierarchy Problem is so \nproblematic, and what its solution might mean."
+    } ]
+  }, {
+    "tStartMs": 103320,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "We’re building on our last episode here. \nPretty heavily really, so this is a rare  "
+    } ]
+  }, {
+    "tStartMs": 108240,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "time I’ll recommend watching that first if \nyou haven’t already. In that episode we asked  "
+    } ]
+  }, {
+    "tStartMs": 116400,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "what an electron looks like if we zoom in all \nthe way. We discovered that it was ultimately  "
+    } ]
+  }, {
+    "tStartMs": 121960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "impossible to say exactly where the electron’s \nmass and charge lived. These properties appear  "
+    } ]
+  }, {
+    "tStartMs": 126600,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "distributed between the “true” or bare \nelectron, and the frantic activity in the  "
+    } ]
+  }, {
+    "tStartMs": 132080,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "quantum fields around it. Well, this activity not \nonly makes it difficult to pin an electron down,  "
+    } ]
+  }, {
+    "tStartMs": 137200,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "it also makes it difficult to fix the mass \nand charge to the sensible small values that  "
+    } ]
+  }, {
+    "tStartMs": 142600,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "we’ve measured. Instead, this activity tends \nto blow these values up to unnatural levels."
+    } ]
+  }, {
+    "tStartMs": 148720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But this issue also exists in classical physics. \nWe saw last time that the potential energy in an  "
+    } ]
+  }, {
+    "tStartMs": 153720,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "electron’s classical electrostatic field \nhas a mass equivalent 20,000 times larger  "
+    } ]
+  }, {
+    "tStartMs": 159320,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "than the measured mass of the electron, \nand that’s assuming that an electron  "
+    } ]
+  }, {
+    "tStartMs": 164960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "is as large as it could possibly be \naccording to our best measurements,  "
+    } ]
+  }, {
+    "tStartMs": 168920,
+    "dDurationMs": 9640,
+    "segs": [ {
+      "utf8": "at around 10^-17m. And if the electron is really \npoint-like then the mass of the field is infinite."
+    } ]
+  }, {
+    "tStartMs": 178560,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "That can’t be right—and the most obvious \nthing we did wrong is to assume that classical  "
+    } ]
+  }, {
+    "tStartMs": 183600,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "physics applies all the way down to such small \ndistances. The correct description of the world  "
+    } ]
+  }, {
+    "tStartMs": 188840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "on such small scales is quantum mechanics—in \nparticular, quantum field theory—QFT. In the  "
+    } ]
+  }, {
+    "tStartMs": 194040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "case of the electron interacting with the \nelectromagnetic field, the relevant version  "
+    } ]
+  }, {
+    "tStartMs": 198040,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "of QFT is quantum electrodynamics, QED. We’ll \nuse QFT and QED for most of today’s discussion.  "
+    } ]
+  }, {
+    "tStartMs": 206600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But even in the classical description we \ncan get a glimpse of the solution to the  "
+    } ]
+  }, {
+    "tStartMs": 211640,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "enormous field mass, and also of the even \nbigger problem that follows this solution."
+    } ]
+  }, {
+    "tStartMs": 216960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Borrowing terms from QFT, let’s call the “true” \nmass of the electron the bare mass, and the energy  "
+    } ]
+  }, {
+    "tStartMs": 222840,
+    "dDurationMs": 9120,
+    "segs": [ {
+      "utf8": "in its surrounding field the self energy, and \nself-energy mass for its E=mc^2 mass equivalent."
+    } ]
+  }, {
+    "tStartMs": 231960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "When we measure the electron mass, we never \nmeasure the bare mass—we measure the sum of  "
+    } ]
+  }, {
+    "tStartMs": 237000,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "the bare and self-energy masses. We’ll call this \nthe dressed mass, again from QFT because the bare  "
+    } ]
+  }, {
+    "tStartMs": 243520,
+    "dDurationMs": 8960,
+    "segs": [ {
+      "utf8": "electron is dressed in quantum fluctuations. The \nmeasured 511 eV electron mass is its dressed mass."
+    } ]
+  }, {
+    "tStartMs": 252480,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "This equation equating the dressed to the bare \nplus self-energy masses can work perfectly well,  "
+    } ]
+  }, {
+    "tStartMs": 259560,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "even with a tiny dressed mass of 511 eV and \nan enormous or even infinite self-energy  "
+    } ]
+  }, {
+    "tStartMs": 266520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "mass. All we need to do is to give the \nelectron a bare mass that’s also huge,  "
+    } ]
+  }, {
+    "tStartMs": 271400,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and negative and just a hair smaller in \nmagnitude than the self-energy mass. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 276360,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "you could even fix an infinite self-energy mass \nwith a negative infinite bare mass—infinity minus  "
+    } ]
+  }, {
+    "tStartMs": 284600,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "infinity-minus-one equals one! No problem! This \nprocess of adjusting the internal contributions  "
+    } ]
+  }, {
+    "tStartMs": 291520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "towards a measured quantity to eliminate \ninfinities is called renormalization. It  "
+    } ]
+  }, {
+    "tStartMs": 296560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "was first applied in cases like the electron \nbefore quantum mechanics was even invented,  "
+    } ]
+  }, {
+    "tStartMs": 301240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "though has since become a key tool in \nquantum field theory in particular."
+    } ]
+  }, {
+    "tStartMs": 305960,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "It sounds a little hokey because it assumes that \nsome mass, in this case that of the bare electron,  "
+    } ]
+  }, {
+    "tStartMs": 312960,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "is negative. Negative masses aren’t supposed to \nexist. However remember that this bare mass is  "
+    } ]
+  }, {
+    "tStartMs": 319880,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "not something we can ever see or measure, so \nlet’s pretend this odd assumption is OK for  "
+    } ]
+  }, {
+    "tStartMs": 326320,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "now. Besides, we now have a bigger problem than \nnegative bare masses. It’s the fact that to get  "
+    } ]
+  }, {
+    "tStartMs": 332360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "our tiny measured electron mass, the bare and \nself energy masses have to be comparatively  "
+    } ]
+  }, {
+    "tStartMs": 338360,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "huge numbers that are very very nearly, but \njust not quite the same—deviating from each  "
+    } ]
+  }, {
+    "tStartMs": 344000,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "other by only one part in 20,000 if we take \nthe self-energy mass for a 10^-17 m electron."
+    } ]
+  }, {
+    "tStartMs": 352400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "This doesn’t feel natural somehow. It would \nrequire a type of fine tuning for these  "
+    } ]
+  }, {
+    "tStartMs": 357440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "seemingly very different sources of mass. \nI mean, it would be one thing for them to  "
+    } ]
+  }, {
+    "tStartMs": 361600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "be exactly equal, but to be only almost \nequal? This type of problem is generally  "
+    } ]
+  }, {
+    "tStartMs": 366520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "called a naturalness or hierarchy problem. \nAs I said, we’re going to be able to solve  "
+    } ]
+  }, {
+    "tStartMs": 371560,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "it for the electron, but not for the Higgs \nboson. That’ll be in an upcoming episode."
+    } ]
+  }, {
+    "tStartMs": 376560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "For now let’s focus on saving our electron, and we \ncan do that with quantum mechanics. Last episode,  "
+    } ]
+  }, {
+    "tStartMs": 382800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "when we dove in real close to the electron, we \nsaw that the classical electric field becomes  "
+    } ]
+  }, {
+    "tStartMs": 387760,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "the jittery quantum electromagnetic field. \nIn quantum field theory, those jitters are  "
+    } ]
+  }, {
+    "tStartMs": 392760,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "represented mathematically as the sum of activity \nof countless virtual particles. The EM field  "
+    } ]
+  }, {
+    "tStartMs": 398560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "itself is modeled as being made of virtual photons \nthat communicate the EM force between charged  "
+    } ]
+  }, {
+    "tStartMs": 403760,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "particles, and the next most important effect \nis the interaction between the EM and electron  "
+    } ]
+  }, {
+    "tStartMs": 409240,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "fields, which QFT models as the very brief \nproduction of a virtual electron-positron pair."
+    } ]
+  }, {
+    "tStartMs": 416160,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "This extreme heft of the classical EM \nfield is described in QFT as coming from  "
+    } ]
+  }, {
+    "tStartMs": 423680,
+    "dDurationMs": 8680,
+    "segs": [ {
+      "utf8": "the energy in this virtual activity. But how much \nself-energy mass does quantum theory predict? In  "
+    } ]
+  }, {
+    "tStartMs": 432360,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "QFT we use Feynman diagrams to represent the \npossible virtual processes that can be part  "
+    } ]
+  }, {
+    "tStartMs": 438560,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "of any interaction. These diagrams are really \nshorthand representations of components of an  "
+    } ]
+  }, {
+    "tStartMs": 444840,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "interaction. For any combination of ingoing \nand outgoing particles for any interaction,  "
+    } ]
+  }, {
+    "tStartMs": 450960,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "we can calculate something called the \nLagrangian of the interaction by adding  "
+    } ]
+  }, {
+    "tStartMs": 455080,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "up all possible scenarios that could have \noccurred in that interaction. This allows you  "
+    } ]
+  }, {
+    "tStartMs": 459680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "to calculate things like the probabilities \nof various interactions occurring. We can  "
+    } ]
+  }, {
+    "tStartMs": 463960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "also calculate energy flowing through the \nvarious processes within the interaction,  "
+    } ]
+  }, {
+    "tStartMs": 468600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "and this energy gives us the mass \nequivalence produced by that interaction."
+    } ]
+  }, {
+    "tStartMs": 473880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In the case of our free electron, the ingoing and \noutgoing particles are just the electron itself,  "
+    } ]
+  }, {
+    "tStartMs": 479080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "and so we just consider interactions that \nleave the electron unchanged. But that  "
+    } ]
+  }, {
+    "tStartMs": 483760,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "still includes lots of activity—for example, \nemitting and absorbing one or more virtual  "
+    } ]
+  }, {
+    "tStartMs": 488600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "photons—and that’s what the basic EM field is \nin this model. But those virtual photons may  "
+    } ]
+  }, {
+    "tStartMs": 493240,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "engage in all sorts of shenanigans with virtual \nelectron-positron pairs prior to reabsorption."
+    } ]
+  }, {
+    "tStartMs": 499280,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "In order to calculate the self-energy and \ncorresponding self-energy mass of the electron,  "
+    } ]
+  }, {
+    "tStartMs": 503800,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Feynman tells us we need to add up \nnot only every possible interaction,  "
+    } ]
+  }, {
+    "tStartMs": 509120,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "but also every way each of those interactions \ncan play out. For example, every energy and  "
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "momentum that the intermediate \nvirtual particles could have had."
+    } ]
+  }, {
+    "tStartMs": 519640,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "For simple cases where the electron emits and \nreabsorbs a photon that’s no big deal—the energy  "
+    } ]
+  }, {
+    "tStartMs": 525240,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "of that photon is strictly limited by the law of \nenergy conservation. But for cases where there are  "
+    } ]
+  }, {
+    "tStartMs": 532040,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "entire loops of activity in the intermediate \nvirtual space, the possible energies of these  "
+    } ]
+  }, {
+    "tStartMs": 537760,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "intermediate particles are not constrained by the \nenergy of the electron. Quantum mechanics tells us  "
+    } ]
+  }, {
+    "tStartMs": 544520,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "they could be anything, and quantum field theory \ntells us that we must add all possibilities. The  "
+    } ]
+  }, {
+    "tStartMs": 550160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "result of summing all possible energies in all \npossible Feynman diagrams is infinite energy,"
+    } ]
+  }, {
+    "tStartMs": 556440,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "which means contributing infinite \nself-energy mass. Something still seems off."
+    } ]
+  }, {
+    "tStartMs": 563640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Because of the Heisenberg uncertainty principle, \nhigh energy corresponds to measuring at short  "
+    } ]
+  }, {
+    "tStartMs": 568280,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "distances. So the choice to sum energies up to \narbitrarily large numbers is equivalent to trying  "
+    } ]
+  }, {
+    "tStartMs": 575360,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "to observe the electron with infinite resolution. \nBy this logic, a truly point-like electron should  "
+    } ]
+  }, {
+    "tStartMs": 582600,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "have infinite self-energy—so that’s the same bad \nanswer we got from classical electromagnetism."
+    } ]
+  }, {
+    "tStartMs": 589560,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "But renormalization can also fix this issue. In \nthe classical case we imagined a negative bare  "
+    } ]
+  }, {
+    "tStartMs": 597080,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "mass to the electron. In QFT we instead need \nto cancel the problematic Feynman diagrams one  "
+    } ]
+  }, {
+    "tStartMs": 602880,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "by one. This is done by essentially breaking \nthese “divergent” diagrams into two parts—a  "
+    } ]
+  }, {
+    "tStartMs": 608520,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "regular term with its infinite contribution and \na counter-term that cancels that infinity. That  "
+    } ]
+  }, {
+    "tStartMs": 613600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "still sounds hokey, don’t worry—the founders \nof this approach, people like Richard Feynman,  "
+    } ]
+  }, {
+    "tStartMs": 618520,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Julian Schwinger and Freeman Dyson, also \nworried about that. But the results were  "
+    } ]
+  }, {
+    "tStartMs": 623200,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "stunningly successful. Quantum field theory, \nand in particular quantum electrodynamics gave  "
+    } ]
+  }, {
+    "tStartMs": 628520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "incredibly precise predictions of the quantum \nbehavior of things like the electron. But the  "
+    } ]
+  }, {
+    "tStartMs": 633760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "theory didn’t predict the actual mass \nof the electron. The reason QED works is  "
+    } ]
+  }, {
+    "tStartMs": 638880,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "that all this “hokey” renormalization is \ngrounded by the fact that we can measure  "
+    } ]
+  }, {
+    "tStartMs": 642680,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "the mass of the electron, so all of this \ncanceling that occurs under the hood is …"
+    } ]
+  }, {
+    "tStartMs": 648160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "made concrete by calibrating it to reality."
+    } ]
+  }, {
+    "tStartMs": 652880,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "It's still being called “wweeping infinities \nunder the rug”, and it feels awkward, but  "
+    } ]
+  }, {
+    "tStartMs": 660080,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "renormalization was put into much more comfortable \ncontext by Ken Wilson, who pointed out that these  "
+    } ]
+  }, {
+    "tStartMs": 666560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "infinities arose only because we’d tried to \npush quantum mechanics too far. Remember when  "
+    } ]
+  }, {
+    "tStartMs": 672080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "we did the self-energy calculation with classical \nelectromagnetism, the self-energy mass got out of  "
+    } ]
+  }, {
+    "tStartMs": 678320,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "hand when we started to apply Coulomb’s law way \nbeyond its validity, into the quantum realm. But  "
+    } ]
+  }, {
+    "tStartMs": 684640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "maybe something similar is happening here—maybe \nall these convenient counter-terms that cancel our  "
+    } ]
+  }, {
+    "tStartMs": 690640,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "infinities represent real physics beyond the stuff \ndirectly described by our quantum field theory."
+    } ]
+  }, {
+    "tStartMs": 697480,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Now we know for sure that quantum mechanics \nalso has limits to its validity. Quantum  "
+    } ]
+  }, {
+    "tStartMs": 703200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "mechanics doesn’t include gravity, so \nwe know that it must be what we call  "
+    } ]
+  }, {
+    "tStartMs": 706760,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "an effective theory—emergent from some deeper \ntheory—just as classical physics emerges from  "
+    } ]
+  }, {
+    "tStartMs": 711360,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "the quantum. We know for sure that any \nof our quantum field theories fails at  "
+    } ]
+  }, {
+    "tStartMs": 717400,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "the Planck scale—lengths smaller than around \n10^-35 m, or energies larger than 10^28 eV."
+    } ]
+  }, {
+    "tStartMs": 726280,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "So what if we just stop adding energies when \nthey reach a certain cutoff where we know our  "
+    } ]
+  }, {
+    "tStartMs": 731880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "theory is no longer valid? The process \nof doing that is called regularization.  "
+    } ]
+  }, {
+    "tStartMs": 737040,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "If we set the Planck scale as our cutoff, \nand don’t include energies above that we  "
+    } ]
+  }, {
+    "tStartMs": 741720,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "do get a finite mass, but that mass is also \nat the Planck scale—now 10^22 times larger  "
+    } ]
+  }, {
+    "tStartMs": 749400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "than the measured electron mass. A universe \nwith elementary particles this massive would  "
+    } ]
+  }, {
+    "tStartMs": 754600,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "have collapsed before it started expanding. We can \nstill fix that crazy mass using renormalization,  "
+    } ]
+  }, {
+    "tStartMs": 763480,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "but now we’re asking Planck-scale physics to \ncancel out the positive self-energy of the  "
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "electron all the way down to the electron scale. \nThat means a near-perfect canceling to one part  "
+    } ]
+  }, {
+    "tStartMs": 775680,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "in 10^22. And that is a much worse hierarchy \nproblem than we figured with classical physics.."
+    } ]
+  }, {
+    "tStartMs": 783400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "In the case of the electron, we actually don’t \nhave to go all the way to the Planck scale to  "
+    } ]
+  }, {
+    "tStartMs": 788200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "find new physics to solve the electron’s \nhierarchy problem. I mentioned last time  "
+    } ]
+  }, {
+    "tStartMs": 793000,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "that when we zoom in real close to the electron \nso that the energy in the EM field approaches the  "
+    } ]
+  }, {
+    "tStartMs": 799080,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "rest mass of the electron itself, a new quantum \nprocess becomes important. Virtual positrons are  "
+    } ]
+  }, {
+    "tStartMs": 805480,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "now able to annihilate with the real electron, \ncausing the companion virtual electron to take  "
+    } ]
+  }, {
+    "tStartMs": 812249,
+    "dDurationMs": 6031,
+    "segs": [ {
+      "utf8": "its place in reality. We saw how this leads to an \napparent blurring of the location of the electron,  "
+    } ]
+  }, {
+    "tStartMs": 818280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "which is annoying. But it also solves \nour hierarchy problem, which is great."
+    } ]
+  }, {
+    "tStartMs": 823800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It turns out that this particular interaction \nhas a negative contribution to the self-energy  "
+    } ]
+  }, {
+    "tStartMs": 828200,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "of the electron—and this perfectly cancels the \nleading positive component of the self-energy,  "
+    } ]
+  }, {
+    "tStartMs": 834520,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "leaving only second-order contributions. \nThat remaining un-canceled self-energy of  "
+    } ]
+  }, {
+    "tStartMs": 839840,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "the electron is much smaller than the canceled \npart. In fact it’s similar to the bare mass,  "
+    } ]
+  }, {
+    "tStartMs": 845880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and scales linearly with the bare mass. We \ndon’t need any coincidental fine-tuning to  "
+    } ]
+  }, {
+    "tStartMs": 851240,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "do this canceling because there’s an in-built \nsymmetry between the negative and positive  "
+    } ]
+  }, {
+    "tStartMs": 856280,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "energy components of the field. You can think \nof this symmetry as being the matter-antimatter  "
+    } ]
+  }, {
+    "tStartMs": 862160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "symmetry. It’s the fact that the electron has an \nantiparticle that protects it from being blown up  "
+    } ]
+  }, {
+    "tStartMs": 867840,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "to the Planck scale. More formally, its mass is \nprotected by the chiral symmetry of the particle."
+    } ]
+  }, {
+    "tStartMs": 874360,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So, woohoo! We saved the electron’s mass \nfrom being “unnatural” by finding some new  "
+    } ]
+  }, {
+    "tStartMs": 879120,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "physics to make its smallness not a complete \nfluke. Unlike the case of the Higgs boson,  "
+    } ]
+  }, {
+    "tStartMs": 885680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "whose unnaturalness is yet to be understood, \nand very soon we’ll get back to why this is  "
+    } ]
+  }, {
+    "tStartMs": 890560,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "such a big deal. We’ll also come back to \nsome of the tools we saw—renormalization  "
+    } ]
+  }, {
+    "tStartMs": 895320,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and regularization. These are actually \npretty profound subjects in themselves,  "
+    } ]
+  }, {
+    "tStartMs": 900080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and teach us something about the emergence \nof effective theories from deeper layers,  "
+    } ]
+  }, {
+    "tStartMs": 904280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "and the connection between the \nenergetic scales of spacetime."
+    } ]
+  }, {
+    "tStartMs": 909360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Thank you to radiacode for supporting PBS. If \nyou are passionate about the spirit of scientific  "
+    } ]
+  }, {
+    "tStartMs": 914160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "exploration, Radiacode is a gadget that’s made \nfor all natural science enthusiasts. This is a  "
+    } ]
+  }, {
+    "tStartMs": 920160,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "portable radiation detector that collects data \nfast. Now you can not only quickly locate the  "
+    } ]
+  }, {
+    "tStartMs": 925960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "source of radiation but also identify which \nisotopes are present, such as Cesium-137,  "
+    } ]
+  }, {
+    "tStartMs": 931840,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Thorium-232, Radium-226, and many others. The \nmultifunctional app, included with the device,  "
+    } ]
+  }, {
+    "tStartMs": 938320,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "works on iOS or Android and makes it easier \nto explore and research by allowing you to  "
+    } ]
+  }, {
+    "tStartMs": 944040,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "record radioactive GPS tracks on maps, \nkeep a measurement log, analyze spectra,  "
+    } ]
+  }, {
+    "tStartMs": 950880,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "create charts, and build spectrograms. \nYou can learn more about RadiaCode by  "
+    } ]
+  }, {
+    "tStartMs": 955720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "following the link in the description and \nthe pinned comment below. Use the promo  "
+    } ]
+  }, {
+    "tStartMs": 960400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "code \"PBS\" to get free shipping in addition \nto the exclusive pre-Christmas discounts!"
+    } ]
+  }, {
+    "tStartMs": 966240,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Hey Everyone. Before we go, we just wanted to \nlet you know, there will be 15% off the whole  "
+    } ]
+  }, {
+    "tStartMs": 971320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Merch store for all of December. All of this \nyear's merch, including limited edition items  "
+    } ]
+  }, {
+    "tStartMs": 976760,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "are back on the store, so if there’s Space \nTime merch you’ve thought of picking up for  "
+    } ]
+  }, {
+    "tStartMs": 981840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you or another nerd in your constellation \nof social connections, now’s a great time.  "
+    } ]
+  }, {
+    "tStartMs": 985440,
+    "dDurationMs": 33400,
+    "segs": [ {
+      "utf8": "Just head over to pbsspacetime.com/shop \nor click the links in the description."
+    } ]
+  } ]
+}

@@ -1,0 +1,127 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "How do we know we live in three dimensions?"
+    } ]
+  }, {
+    "tStartMs": 1940,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Here's a clue: it's not just that we have\nto use three coordinates (like x,y,z, or latitude,"
+    } ]
+  }, {
+    "tStartMs": 6620,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "longitude, altitude) to label every point\nin space - because we don't!"
+    } ]
+  }, {
+    "tStartMs": 10580,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Mathematicians have showed that it's possible\nto fill up 2d or 3d space using a one-dimensional"
+    } ]
+  }, {
+    "tStartMs": 15320,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "\"space-filling\" curve - that means that every\npoint in 3d space can be labelled using just"
+    } ]
+  }, {
+    "tStartMs": 19980,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "one coordinate: our position along the curve!"
+    } ]
+  }, {
+    "tStartMs": 22720,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "(it also means that a square and its side\ncontain the same number of points - crazy,"
+    } ]
+  }, {
+    "tStartMs": 27220,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "right?)"
+    } ]
+  }, {
+    "tStartMs": 28220,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So how do we know that we live in three-dimensional\nspace and not on a one-dimensional line curled"
+    } ]
+  }, {
+    "tStartMs": 31820,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "up so much that it looks three-dimensional?"
+    } ]
+  }, {
+    "tStartMs": 33620,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Well, the short answer is that we don't know\n– but we DO know that it looks 3d."
+    } ]
+  }, {
+    "tStartMs": 38260,
+    "dDurationMs": 1529,
+    "segs": [ {
+      "utf8": "So how do we test that?"
+    } ]
+  }, {
+    "tStartMs": 39789,
+    "dDurationMs": 5141,
+    "segs": [ {
+      "utf8": "One way is to look at diffusion of gas - that\nis, how a gas spreads out over time."
+    } ]
+  }, {
+    "tStartMs": 44930,
+    "dDurationMs": 3659,
+    "segs": [ {
+      "utf8": "We just measure the ratio between volume and\nradius of the gas cloud:"
+    } ]
+  }, {
+    "tStartMs": 48589,
+    "dDurationMs": 2251,
+    "segs": [ {
+      "utf8": "In one dimension, radius and volume are the\nsame!"
+    } ]
+  }, {
+    "tStartMs": 50840,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "(up to a factor)\nIn 2d, \"volume\" means area - or radius squared,"
+    } ]
+  }, {
+    "tStartMs": 55730,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "and in 3d, \"volume\" is radius cubed, and so\non for higher dimensions… and 3d is what"
+    } ]
+  }, {
+    "tStartMs": 62350,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "we see."
+    } ]
+  }, {
+    "tStartMs": 63350,
+    "dDurationMs": 16120,
+    "segs": [ {
+      "utf8": "So basically, determining how many dimensions\nwe live in is just a bunch of hot air!"
+    } ]
+  } ]
+}

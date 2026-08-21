@@ -1,0 +1,37 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "When white light bounces off the back of a spherical raindrop,"
+    } ]
+  }, {
+    "tStartMs": 3600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "the light is spread into colors as if by a prism."
+    } ]
+  }, {
+    "tStartMs": 5900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "You might see red light from one drop, yellow from another, orange from a third, and so on."
+    } ]
+  }, {
+    "tStartMs": 9300,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Each part of your rainbow coming from a different raindrop"
+    } ]
+  } ]
+}

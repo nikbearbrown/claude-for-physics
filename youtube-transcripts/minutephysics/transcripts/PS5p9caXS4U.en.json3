@@ -1,0 +1,259 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1329,
+    "dDurationMs": 4061,
+    "segs": [ {
+      "utf8": "Suppose you want to know how long it was between\nthe Norman invasion of England and Columbus's"
+    } ]
+  }, {
+    "tStartMs": 5390,
+    "dDurationMs": 5789,
+    "segs": [ {
+      "utf8": "arrival in the Caribbean; that is, what’s\n1492 minus 1066 – but you hate long subtraction"
+    } ]
+  }, {
+    "tStartMs": 11179,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "with its borrowing and such."
+    } ]
+  }, {
+    "tStartMs": 12719,
+    "dDurationMs": 4661,
+    "segs": [ {
+      "utf8": "Well, we can subtract by adding: first we\njust need to replace each digit of the smaller"
+    } ]
+  }, {
+    "tStartMs": 17380,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "number with 9 minus that digit, except the\nfinal digit gets replaced with 10 minus that"
+    } ]
+  }, {
+    "tStartMs": 21930,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "digit, so 1066 becomes nine minus 1, nine\nminus 0, nine minus six, ten minus 6."
+    } ]
+  }, {
+    "tStartMs": 28240,
+    "dDurationMs": 6419,
+    "segs": [ {
+      "utf8": "Adding that to 1492 gives 10426, and if we\nignore the first digit, we get the answer:"
+    } ]
+  }, {
+    "tStartMs": 34659,
+    "dDurationMs": 3591,
+    "segs": [ {
+      "utf8": "1492 minus 1066 is 426."
+    } ]
+  }, {
+    "tStartMs": 38250,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "You can check just to be sure."
+    } ]
+  }, {
+    "tStartMs": 40300,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Coincidentally, it’s roughly 426 times farther\nfrom Portugal to the West Indies and back"
+    } ]
+  }, {
+    "tStartMs": 44290,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "than from France to England."
+    } ]
+  }, {
+    "tStartMs": 46010,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "But anyway, the subtraction-by-adding trick\nworks for any positive numbers!"
+    } ]
+  }, {
+    "tStartMs": 49510,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "8 minus 6, or 2, is the same as 8 plus 4,\nignoring the first digit."
+    } ]
+  }, {
+    "tStartMs": 56380,
+    "dDurationMs": 11380,
+    "segs": [ {
+      "utf8": "100 minus 1? is 100 plus 999, which is 99,\nignoring the first digit."
+    } ]
+  }, {
+    "tStartMs": 67760,
+    "dDurationMs": 12090,
+    "segs": [ {
+      "utf8": "And 424,242 minus 333,333 is 424,242 plus\n666,667, or, 90,909 ignoring the first digit."
+    } ]
+  }, {
+    "tStartMs": 79850,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "I’ll let you check that one."
+    } ]
+  }, {
+    "tStartMs": 81600,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "This trick might seem useless, but suppose\nyou built a machine that can add numbers together,"
+    } ]
+  }, {
+    "tStartMs": 85730,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "and you wanted to make it subtract?"
+    } ]
+  }, {
+    "tStartMs": 87280,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Well, in that case it might be easier to make\nit subtract by adding: and matter of fact,"
+    } ]
+  }, {
+    "tStartMs": 91560,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "my friend Hank Green took apart an adding\nmachine and that’s exactly how it subtracts"
+    } ]
+  }, {
+    "tStartMs": 95050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- by adding!"
+    } ]
+  }, {
+    "tStartMs": 96050,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Basically, the machine adds numbers by rotating\nnumbered wheels, but there aren’t infinitely"
+    } ]
+  }, {
+    "tStartMs": 100450,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "many wheels so if you add up past the maximum\npossible number, you get back to zero – this"
+    } ]
+  }, {
+    "tStartMs": 104740,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "is called “overflow” in computing and\n“modular arithmetic” in mathematics."
+    } ]
+  }, {
+    "tStartMs": 108940,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "But most importantly, getting back to zero\nby adding means it’s possible to have positive"
+    } ]
+  }, {
+    "tStartMs": 112810,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "negative numbers, since, for example, negative\nthree is just what you add to three to get"
+    } ]
+  }, {
+    "tStartMs": 116950,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "zero, and on Hank’s adding machine if you\nadd 3 plus 9,997.00, you get zero, so 9,997"
+    } ]
+  }, {
+    "tStartMs": 124190,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "is literally negative three!"
+    } ]
+  }, {
+    "tStartMs": 126210,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "Unfortunately, there are an infinite number\nof numbers when you’re doing regular arithmetic,"
+    } ]
+  }, {
+    "tStartMs": 130289,
+    "dDurationMs": 2991,
+    "segs": [ {
+      "utf8": "so you might think that negative three is\njust negative three."
+    } ]
+  }, {
+    "tStartMs": 133280,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "But if you’re willing to fudge a little,\nyou can just take the adding machine’s version"
+    } ]
+  }, {
+    "tStartMs": 136850,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "of negative three, add a bunch of 9s out in\nfront, and when you add that to stuff it’s"
+    } ]
+  }, {
+    "tStartMs": 140530,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "BASICALLY the same as subtracting three, as\nlong as you don’t look too far."
+    } ]
+  }, {
+    "tStartMs": 143920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Because, you know, nine gadgillion nine hundred\nand ninety bajillion nine hundred and ninety"
+    } ]
+  }, {
+    "tStartMs": 147400,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "seven plus three, is zero."
+    } ]
+  }, {
+    "tStartMs": 150700,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "Almost."
+    } ]
+  }, {
+    "tStartMs": 152569,
+    "dDurationMs": 3551,
+    "segs": [ {
+      "utf8": "By the way, this method of subtracting by\nadding is how computers subtract as well,"
+    } ]
+  }, {
+    "tStartMs": 156120,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "they just do it in binary which makes it a\nlot easier."
+    } ]
+  }, {
+    "tStartMs": 158230,
+    "dDurationMs": 8979,
+    "segs": [ {
+      "utf8": "It's called \"subtracting using the two's complement,\"\nif "
+    } ]
+  }, {
+    "tStartMs": 167209,
+    "dDurationMs": 22360,
+    "segs": [ {
+      "utf8": "you \nwant to "
+    } ]
+  }, {
+    "tStartMs": 189569,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "look it up."
+    } ]
+  } ]
+}

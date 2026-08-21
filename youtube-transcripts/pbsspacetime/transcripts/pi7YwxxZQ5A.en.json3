@@ -1,0 +1,1423 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 380,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "We’d like to thank Audible for supporting\nPBS."
+    } ]
+  }, {
+    "tStartMs": 3250,
+    "dDurationMs": 4809,
+    "segs": [ {
+      "utf8": "Quantum computing is cool, but you know what\nwould be extra awesome - a quantum internet."
+    } ]
+  }, {
+    "tStartMs": 8060,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "In fact if we want the first we’ll need\nthe latter."
+    } ]
+  }, {
+    "tStartMs": 12470,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "And the first step to the quantum internet\nis quantum cryptography."
+    } ]
+  }, {
+    "tStartMs": 22500,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "Quantum theory may seem like an obscure subject\nof questionable relevance to the average person."
+    } ]
+  }, {
+    "tStartMs": 27919,
+    "dDurationMs": 4811,
+    "segs": [ {
+      "utf8": "But in fact much of our technological world\ndepends on our understanding of the quantum"
+    } ]
+  }, {
+    "tStartMs": 32730,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "properties of the subatomic universe."
+    } ]
+  }, {
+    "tStartMs": 35250,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "And soon, perhaps very soon, we’ll be interacting\nwith the weirdness of quantum mechanics even"
+    } ]
+  }, {
+    "tStartMs": 41270,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "more directly – with the coming of quantum\ncomputing and the quantum internet."
+    } ]
+  }, {
+    "tStartMs": 46430,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Today we’re going to talk about the latter."
+    } ]
+  }, {
+    "tStartMs": 48810,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "Specifically quantum cryptography and quantum\nkey distribution – the foundations of the"
+    } ]
+  }, {
+    "tStartMs": 55110,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "prospective quantum internet."
+    } ]
+  }, {
+    "tStartMs": 56940,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "We may come back to quantum computers in detail\n– but for now just a word on why their advent"
+    } ]
+  }, {
+    "tStartMs": 62010,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "will demand a quantum internet."
+    } ]
+  }, {
+    "tStartMs": 64040,
+    "dDurationMs": 6429,
+    "segs": [ {
+      "utf8": "The logic gates of a quantum computer exist\nin a state of quantum superposition of many"
+    } ]
+  }, {
+    "tStartMs": 70469,
+    "dDurationMs": 2371,
+    "segs": [ {
+      "utf8": "simultaneous configurations."
+    } ]
+  }, {
+    "tStartMs": 72840,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "This allows the iterations of certain types\nof calculation to be done in parallel, and"
+    } ]
+  }, {
+    "tStartMs": 78420,
+    "dDurationMs": 2909,
+    "segs": [ {
+      "utf8": "vastly more quickly than in a classical computer."
+    } ]
+  }, {
+    "tStartMs": 81329,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "For example, a quantum computer can calculate\nthe prime factors of large numbers extremely"
+    } ]
+  }, {
+    "tStartMs": 86719,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "quickly."
+    } ]
+  }, {
+    "tStartMs": 87859,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "This is bad because prime factoring is a cornerstone\nof internet cryptography."
+    } ]
+  }, {
+    "tStartMs": 93420,
+    "dDurationMs": 5329,
+    "segs": [ {
+      "utf8": "For the best description of classical internet\ncryptography … on the internet … head"
+    } ]
+  }, {
+    "tStartMs": 98749,
+    "dDurationMs": 2471,
+    "segs": [ {
+      "utf8": "to Infinite Series."
+    } ]
+  }, {
+    "tStartMs": 101220,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "By comparison, my summary will be pathetic,\nbut here it is: To send encrypted emails or"
+    } ]
+  }, {
+    "tStartMs": 107800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "credit card details two parties need to share\na cryptographic key."
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "This can be as simple as a number that you\nneed in order to unscramble a message."
+    } ]
+  }, {
+    "tStartMs": 118609,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "The most secure way to do this would be to\nmeet under a bridge on a rainy night to swap"
+    } ]
+  }, {
+    "tStartMs": 123509,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "a key in advance – a so-called private key."
+    } ]
+  }, {
+    "tStartMs": 127329,
+    "dDurationMs": 3951,
+    "segs": [ {
+      "utf8": "That’s impractical, so we use public keys."
+    } ]
+  }, {
+    "tStartMs": 131280,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "The most widespread example is the RSA protocol."
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Choose two prime numbers - one of which is\nlarge."
+    } ]
+  }, {
+    "tStartMs": 137580,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Multiply them together to get an even larger\nnumber and broadcast that as your public key."
+    } ]
+  }, {
+    "tStartMs": 144220,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Anyone can then send you encrypted messages\nby scrambling the message with the public"
+    } ]
+  }, {
+    "tStartMs": 149420,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "key using a special one-way function."
+    } ]
+  }, {
+    "tStartMs": 152860,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "It's a mathematical process that can't be\nundone with the public key - only with its"
+    } ]
+  }, {
+    "tStartMs": 158130,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "prime factors, which only you have."
+    } ]
+  }, {
+    "tStartMs": 161110,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "All of this works as long as the public key\ncan't be easily factorized back into its two"
+    } ]
+  }, {
+    "tStartMs": 166940,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "primes."
+    } ]
+  }, {
+    "tStartMs": 167940,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "This is another type of one-way function - it's\nmuch, much harder to factorize large numbers"
+    } ]
+  }, {
+    "tStartMs": 173650,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "than it is to create them by multiplication\nin the first place."
+    } ]
+  }, {
+    "tStartMs": 177650,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "At least as long as we're limited by classical\ncomputing."
+    } ]
+  }, {
+    "tStartMs": 181850,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Once quantum computers can factorize public\nkeys quickly the entire public key system"
+    } ]
+  }, {
+    "tStartMs": 187460,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "falls apart."
+    } ]
+  }, {
+    "tStartMs": 188570,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "There are two levels of snooping that encryption\nshould prevent: simple eavesdropping and man-in-the-middle"
+    } ]
+  }, {
+    "tStartMs": 195320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "attacks."
+    } ]
+  }, {
+    "tStartMs": 196720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Eavesdropping is just someone reading some\nof your message data without you noticing."
+    } ]
+  }, {
+    "tStartMs": 200160,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "In a MITM attack someone fully intercepts\nand controls a communication stream, essentially"
+    } ]
+  }, {
+    "tStartMs": 206740,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "impersonating both parties to each other."
+    } ]
+  }, {
+    "tStartMs": 209350,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "The latter is especially dangerous because\nthe attacker could potentially control the"
+    } ]
+  }, {
+    "tStartMs": 214080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "sharing of a public key, inserting their own\nkey in the middle."
+    } ]
+  }, {
+    "tStartMs": 218480,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Entire new levels of authentication are required\nto fix this."
+    } ]
+  }, {
+    "tStartMs": 222650,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Of course you could just meet under a bridge."
+    } ]
+  }, {
+    "tStartMs": 225280,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "A metaphorical quantum-mechanical bridge,\nwhich allows the sharing of a secure private"
+    } ]
+  }, {
+    "tStartMs": 231630,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "key."
+    } ]
+  }, {
+    "tStartMs": 232630,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Enter quantum key distribution."
+    } ]
+  }, {
+    "tStartMs": 235710,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "This is a scheme to allow the generation of\na shared private key, which can be used with"
+    } ]
+  }, {
+    "tStartMs": 241060,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "a traditional encryption algorithm, or as\na one-time-pad which encrypts each message"
+    } ]
+  }, {
+    "tStartMs": 247040,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "for a one-use key."
+    } ]
+  }, {
+    "tStartMs": 249290,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "While QKD doesn’t really solve the authentication\nproblem, it does make undetected eavesdropping"
+    } ]
+  }, {
+    "tStartMs": 256370,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "impossible."
+    } ]
+  }, {
+    "tStartMs": 257370,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "QKD is actually two different schemes – at\nleast that we’ll look at today."
+    } ]
+  }, {
+    "tStartMs": 261630,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Each highlights a different fundamental weirdness\nof quantum mechanics – the Heisenberg uncertainty"
+    } ]
+  }, {
+    "tStartMs": 266510,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "principle and quantum entanglement."
+    } ]
+  }, {
+    "tStartMs": 269500,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "These will be the keys to unbreakable\ncryptography of a quantum internet."
+    } ]
+  }, {
+    "tStartMs": 274170,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "We’ll start with Heisenberg, which of course\nwe’ve done an episode on already."
+    } ]
+  }, {
+    "tStartMs": 278860,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "The uncertainty principle tells us that we\ncannot simultaneously know the values of certain"
+    } ]
+  }, {
+    "tStartMs": 283160,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "pairs of properties – for example, a particle’s\nposition and momentum."
+    } ]
+  }, {
+    "tStartMs": 287860,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "These are so-called complementary or conjugate\nvariables."
+    } ]
+  }, {
+    "tStartMs": 292000,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "Another example is the polarization of a photon,\na quantum of electromagnetic wave."
+    } ]
+  }, {
+    "tStartMs": 298570,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Polarization defines the direction that its\nelectric and magnetic fields … wave."
+    } ]
+  }, {
+    "tStartMs": 303110,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "You can either measure the vertical-versus-horizontal\npolarization OR the diagonal-versus-other-diagonal"
+    } ]
+  }, {
+    "tStartMs": 309660,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "polarization."
+    } ]
+  }, {
+    "tStartMs": 311460,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Rectilinear and diagonal polarization are\ncomplementary properties."
+    } ]
+  }, {
+    "tStartMs": 314860,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Measure one perfectly and you lose all information\nabout the other."
+    } ]
+  }, {
+    "tStartMs": 319360,
+    "dDurationMs": 6059,
+    "segs": [ {
+      "utf8": "An unmeasured photon exists in a state of\nmaybe-vertical maybe-horizontal – a superposition"
+    } ]
+  }, {
+    "tStartMs": 325419,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "of the two, with maybe a preference for one\nor the other."
+    } ]
+  }, {
+    "tStartMs": 328630,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "It also exists in a superposition of diagonal\nstates."
+    } ]
+  }, {
+    "tStartMs": 332760,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "You can measure the state by, for example,\nsending the photon through a polarizing filter."
+    } ]
+  }, {
+    "tStartMs": 339020,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "That act forced the photon to make a choice\n– first which basis – rectilinear or diagonal"
+    } ]
+  }, {
+    "tStartMs": 345770,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "– then which actual direction."
+    } ]
+  }, {
+    "tStartMs": 348580,
+    "dDurationMs": 6589,
+    "segs": [ {
+      "utf8": "So for example, pass a randomly-polarized\nphoton through a horizontal polarization filter"
+    } ]
+  }, {
+    "tStartMs": 355169,
+    "dDurationMs": 5991,
+    "segs": [ {
+      "utf8": "like a polarized sunglasses lens and the photon\nwill either decide it’s vertically polarized"
+    } ]
+  }, {
+    "tStartMs": 361160,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "and be blocked or horizontal and get through."
+    } ]
+  }, {
+    "tStartMs": 366180,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Run that now-horizontally-polarized photon\nthrough a vertical filter and it’ll be blocked"
+    } ]
+  }, {
+    "tStartMs": 371800,
+    "dDurationMs": 7610,
+    "segs": [ {
+      "utf8": "because its vertical polarization component\nhas been measured to be zero."
+    } ]
+  }, {
+    "tStartMs": 379410,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "Try it with two polarized sunglasses lenses\nat 90-degrees – all light gets blocked."
+    } ]
+  }, {
+    "tStartMs": 386970,
+    "dDurationMs": 1129,
+    "segs": [ {
+      "utf8": "In fact here’s an quantum experiment you\ncan do at home."
+    } ]
+  }, {
+    "tStartMs": 388099,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "Place a third polarization filter in between\nthe two at a 45-degree diagonal."
+    } ]
+  }, {
+    "tStartMs": 393340,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Bizarrely, now some light gets through."
+    } ]
+  }, {
+    "tStartMs": 396419,
+    "dDurationMs": 1271,
+    "segs": [ {
+      "utf8": "What did you just do?"
+    } ]
+  }, {
+    "tStartMs": 397690,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "You just switched between different quantum\nrepresentations of reality and then back again,"
+    } ]
+  }, {
+    "tStartMs": 403900,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "and so invoked the uncertainty principle."
+    } ]
+  }, {
+    "tStartMs": 406520,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "See, any photon coming out of the first filter\nhas its rectilinear polarization perfectly"
+    } ]
+  }, {
+    "tStartMs": 412260,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "measured, which means its diagonal polarization\nis completely undefined."
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "So when it reaches that diagonal filter it\nhas a 50-50 chance of passing through."
+    } ]
+  }, {
+    "tStartMs": 423750,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "Then its diagonal polarization is perfectly\ndefined, making its rectilinear polarization"
+    } ]
+  }, {
+    "tStartMs": 429930,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "undefined so it has a 50-50 chance to traverse\nthat third vertical filter."
+    } ]
+  }, {
+    "tStartMs": 436310,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "This is the basis of one of the first quantum\nkey distribution algorithms developed in 1984"
+    } ]
+  }, {
+    "tStartMs": 441770,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Bennett and Brassard and known\nas BB84."
+    } ]
+  }, {
+    "tStartMs": 445980,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "And no, no astromech droids were named after\nthis key distribution protocol."
+    } ]
+  }, {
+    "tStartMs": 451430,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Which works like this:"
+    } ]
+  }, {
+    "tStartMs": 453729,
+    "dDurationMs": 6291,
+    "segs": [ {
+      "utf8": "Imagine we have Alice and Bob – no, Albert\nand Niels - who want to decide on a private"
+    } ]
+  }, {
+    "tStartMs": 460020,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "key for their messages, but don’t want to\nmeet."
+    } ]
+  }, {
+    "tStartMs": 463760,
+    "dDurationMs": 5129,
+    "segs": [ {
+      "utf8": "Albert generates a random string of bits,\n0’s and 1’s and encodes these bits using"
+    } ]
+  }, {
+    "tStartMs": 468889,
+    "dDurationMs": 6810,
+    "segs": [ {
+      "utf8": "photons polarized in a particular basis, and\nuses a randomly chosen basis, either rectilinear"
+    } ]
+  }, {
+    "tStartMs": 475699,
+    "dDurationMs": 2511,
+    "segs": [ {
+      "utf8": "or diagonal, for each of the photon."
+    } ]
+  }, {
+    "tStartMs": 478210,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "These bits are then sent over an open channel\nto Niels who then randomly picks a basis of"
+    } ]
+  }, {
+    "tStartMs": 483509,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "his own for each photon and projects onto\nthat."
+    } ]
+  }, {
+    "tStartMs": 487480,
+    "dDurationMs": 5249,
+    "segs": [ {
+      "utf8": "If he uses the same basis that Albert did,\nhe gets the same result, i.e. Albert sent"
+    } ]
+  }, {
+    "tStartMs": 492729,
+    "dDurationMs": 6921,
+    "segs": [ {
+      "utf8": "a 1 and Bob also gets a1, otherwise he will\nget a random result – Albert sends a 1 but"
+    } ]
+  }, {
+    "tStartMs": 499650,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Niels will get a 1 or 0 with equal probability."
+    } ]
+  }, {
+    "tStartMs": 502620,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "Over that same public channel they randomly\npick a subset of those bits and Albert reveals"
+    } ]
+  }, {
+    "tStartMs": 508550,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "which basis was used for those photons, and\nwhat she sent."
+    } ]
+  }, {
+    "tStartMs": 513500,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "If Niels used a different basis he ignores\nthe result because he knows it will be random."
+    } ]
+  }, {
+    "tStartMs": 519690,
+    "dDurationMs": 4339,
+    "segs": [ {
+      "utf8": "If he used the same basis he should get the\nsame answer."
+    } ]
+  }, {
+    "tStartMs": 524029,
+    "dDurationMs": 5991,
+    "segs": [ {
+      "utf8": "If he doesn’t, they know something was up\n- and this is where the quantum part becomes"
+    } ]
+  }, {
+    "tStartMs": 530020,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "useful."
+    } ]
+  }, {
+    "tStartMs": 531020,
+    "dDurationMs": 7650,
+    "segs": [ {
+      "utf8": "If someone... not Eve ... Werner, intercepted\nthese messages, which were after all sent"
+    } ]
+  }, {
+    "tStartMs": 538670,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "on a public channel, and did his own measurements."
+    } ]
+  }, {
+    "tStartMs": 541600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "He will have disturbed the system in a way\nthat Albert and Niels could detect."
+    } ]
+  }, {
+    "tStartMs": 546640,
+    "dDurationMs": 6199,
+    "segs": [ {
+      "utf8": "That’s because Werner, like Niels, can only\npick a random basis each time on which to"
+    } ]
+  }, {
+    "tStartMs": 552839,
+    "dDurationMs": 2071,
+    "segs": [ {
+      "utf8": "project the photons."
+    } ]
+  }, {
+    "tStartMs": 554910,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "If he picks the right one, the photon state\nis unchanged, otherwise it will project the"
+    } ]
+  }, {
+    "tStartMs": 560250,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "photon onto a random state, meaning Niels\nisn’t guaranteed to get the same answer"
+    } ]
+  }, {
+    "tStartMs": 566170,
+    "dDurationMs": 4419,
+    "segs": [ {
+      "utf8": "as Albert, even though they know they used\nthe same basis."
+    } ]
+  }, {
+    "tStartMs": 570589,
+    "dDurationMs": 4141,
+    "segs": [ {
+      "utf8": "In this way, Albert and Niels can detect a\nman in the middle attack."
+    } ]
+  }, {
+    "tStartMs": 574730,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "They would know that someone had knocked."
+    } ]
+  }, {
+    "tStartMs": 577120,
+    "dDurationMs": 5469,
+    "segs": [ {
+      "utf8": "Once they have done this test and verified\nthat the information wasn’t intercepted,"
+    } ]
+  }, {
+    "tStartMs": 582589,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "they discard the non-matching measurements\nand keep the rest."
+    } ]
+  }, {
+    "tStartMs": 586750,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "Each translates to a bit – 1 or 0 depending\non the basis choice – rectilinear or diagonal."
+    } ]
+  }, {
+    "tStartMs": 592930,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "That gives a number that becomes their private\nkey, which now only they know."
+    } ]
+  }, {
+    "tStartMs": 598580,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "It’s possible for Werner to get lucky and\nguess the exact same basis as Albert and so"
+    } ]
+  }, {
+    "tStartMs": 604500,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "not disturb the state."
+    } ]
+  }, {
+    "tStartMs": 606580,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "But the chance is 1 in 2 to the power of the\nnumber of photons, which quickly gets close"
+    } ]
+  }, {
+    "tStartMs": 612720,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "enough to impossible given that Werner only\ngets one shot."
+    } ]
+  }, {
+    "tStartMs": 617410,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "This makes eavesdropping on the channel impossible."
+    } ]
+  }, {
+    "tStartMs": 621610,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Man-in-the-middle attacks are in principle\nstill possible because Werner could impersonate"
+    } ]
+  }, {
+    "tStartMs": 626360,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Albert and Niels from the very start."
+    } ]
+  }, {
+    "tStartMs": 629450,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "But there are classical authentication methods\nthat can make this very difficult."
+    } ]
+  }, {
+    "tStartMs": 634520,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "So that’s BB84, and it's one path to a secure\nquantum internet."
+    } ]
+  }, {
+    "tStartMs": 640880,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Another way to generate secure keys using\nquantum mechanics was developed by Artur Ekert"
+    } ]
+  }, {
+    "tStartMs": 645800,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "in 1991."
+    } ]
+  }, {
+    "tStartMs": 646840,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "It uses a similar choice-of-quantum-basis\nmechanism but with the added frill of quantum"
+    } ]
+  }, {
+    "tStartMs": 653090,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "entanglement."
+    } ]
+  }, {
+    "tStartMs": 654430,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "In fact it looks for violations of Bell's\ninequality."
+    } ]
+  }, {
+    "tStartMs": 658730,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Here we definitely have to direct you to our\nfull episode on quantum entanglement for the"
+    } ]
+  }, {
+    "tStartMs": 663740,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "details."
+    } ]
+  }, {
+    "tStartMs": 664740,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "But the super-brief summary: create a pair\nof particles with a quantum property that"
+    } ]
+  }, {
+    "tStartMs": 669680,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "is correlated between the two – for example,\nelectrons with opposite spin axes or photons"
+    } ]
+  }, {
+    "tStartMs": 676540,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "with 90-degree polarizations."
+    } ]
+  }, {
+    "tStartMs": 678520,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "Our choice of measurement direction will set\nthe diection of those spin or polarizations"
+    } ]
+  }, {
+    "tStartMs": 684010,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "axes."
+    } ]
+  }, {
+    "tStartMs": 685010,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "Here’s where the entanglement comes in:\nchoose an axis or basis on which to measure"
+    } ]
+  }, {
+    "tStartMs": 691180,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "one of those particles – say up-down for\nspin or rectilinear for polarization - and"
+    } ]
+  }, {
+    "tStartMs": 696680,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "the other also becomes “measured” in that\nbasis."
+    } ]
+  }, {
+    "tStartMs": 701380,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "It will have the opposite when measured in\nthe same basis."
+    } ]
+  }, {
+    "tStartMs": 705820,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "But even if measured in a different basis\nto its entangled partner, the results of the"
+    } ]
+  }, {
+    "tStartMs": 712410,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "measurements will be correlated in a way that\ndepends on the choice of measurement basis"
+    } ]
+  }, {
+    "tStartMs": 716709,
+    "dDurationMs": 2171,
+    "segs": [ {
+      "utf8": "at both ends."
+    } ]
+  }, {
+    "tStartMs": 718880,
+    "dDurationMs": 3769,
+    "segs": [ {
+      "utf8": "This gives us another way to transmit a secure\nkey."
+    } ]
+  }, {
+    "tStartMs": 722649,
+    "dDurationMs": 5961,
+    "segs": [ {
+      "utf8": "This time Albert creates a set of entangled\nparticle pairs and transmits one half of those"
+    } ]
+  }, {
+    "tStartMs": 728610,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "pairs to Niels."
+    } ]
+  }, {
+    "tStartMs": 729610,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "He then chooses a set of bases to measure\nhis own particles."
+    } ]
+  }, {
+    "tStartMs": 734680,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "The choice of basis represents a set of bits."
+    } ]
+  }, {
+    "tStartMs": 738839,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "Niels chooses a random set of bases to measure\nthe particles he receives."
+    } ]
+  }, {
+    "tStartMs": 743910,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "Because they’re entangled, the outcome of\nAlberts and Niels measurements should be correlated"
+    } ]
+  }, {
+    "tStartMs": 749480,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "in a very particular way defined by Bell’s\ntheorem."
+    } ]
+  }, {
+    "tStartMs": 753810,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "If not then they know that the message was\ntampered with by someone, even if they can’t"
+    } ]
+  }, {
+    "tStartMs": 759769,
+    "dDurationMs": 1061,
+    "segs": [ {
+      "utf8": "say their name."
+    } ]
+  }, {
+    "tStartMs": 760830,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "But it was probably that Werner dude – he\nmust have made some measurements and disentangled"
+    } ]
+  }, {
+    "tStartMs": 766430,
+    "dDurationMs": 2029,
+    "segs": [ {
+      "utf8": "the particles en route."
+    } ]
+  }, {
+    "tStartMs": 768459,
+    "dDurationMs": 7111,
+    "segs": [ {
+      "utf8": "If Bell’s theorem is satisfied, the entanglement\nremained intact, no tampering occurred."
+    } ]
+  }, {
+    "tStartMs": 775570,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Albert and Niels can create a private key\nbased on the basis choices that happened to"
+    } ]
+  }, {
+    "tStartMs": 781390,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "match, just like with BB84."
+    } ]
+  }, {
+    "tStartMs": 783640,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "For now, the classical internet is still moderately\nsafe – or at least it’s biggest vulnerability"
+    } ]
+  }, {
+    "tStartMs": 790890,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "is human stupidity."
+    } ]
+  }, {
+    "tStartMs": 793220,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Which to be fair will still be the case in\na quantum internet."
+    } ]
+  }, {
+    "tStartMs": 796470,
+    "dDurationMs": 7470,
+    "segs": [ {
+      "utf8": "But come quantum computers even the smartest\nclassical security protocols will be compromised."
+    } ]
+  }, {
+    "tStartMs": 803940,
+    "dDurationMs": 7230,
+    "segs": [ {
+      "utf8": "Then we’ll also need a quantum internet\n… which we know how to do in theory, but"
+    } ]
+  }, {
+    "tStartMs": 811170,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "it’s a different matter to actually build\none."
+    } ]
+  }, {
+    "tStartMs": 814580,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Quantum states – and particularly entangled\nstates – are notoriously fragile and so"
+    } ]
+  }, {
+    "tStartMs": 819700,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "it’s hard to transmit them across large\ndistances."
+    } ]
+  }, {
+    "tStartMs": 822180,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "We’ll show you how to construct a vast,\nplanet-spanning network of encrypted quantum"
+    } ]
+  }, {
+    "tStartMs": 828420,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "states real soon."
+    } ]
+  }, {
+    "tStartMs": 830690,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "Your browsing history may one day depend on\nit, and I assume that history isn’t just"
+    } ]
+  }, {
+    "tStartMs": 836240,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "old episodes of Space Time."
+    } ]
+  }, {
+    "tStartMs": 838500,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "We’d like to thank Audible for supporting\nPBS."
+    } ]
+  }, {
+    "tStartMs": 841120,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Audible’s selection of audiobooks includes\nAudible Originals, audio titles created by"
+    } ]
+  }, {
+    "tStartMs": 846360,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "storytellers from around the literary world."
+    } ]
+  }, {
+    "tStartMs": 849250,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "For example, you can check out Bill Byrson’s\nApplication of science, where Bill tells the"
+    } ]
+  }, {
+    "tStartMs": 854360,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "story of scientific instruments that created the first\nmap of Britain and the device that measures"
+    } ]
+  }, {
+    "tStartMs": 860440,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "the temperature of the sea from space."
+    } ]
+  }, {
+    "tStartMs": 863250,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "It’s an exciting narrative that explores\nthe importance of collaboration in the field"
+    } ]
+  }, {
+    "tStartMs": 868180,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "of scientific discovery."
+    } ]
+  }, {
+    "tStartMs": 870690,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "Visit audible.com/spacetime OR text spacetime\nto 500-500 to learn more."
+    } ]
+  }, {
+    "tStartMs": 877640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Members own their books and can access them\nanytime."
+    } ]
+  }, {
+    "tStartMs": 880920,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "To learn more, visit audible.com/spacetime\nOR text spacetime to 500-500."
+    } ]
+  }, {
+    "tStartMs": 886910,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Today we're covering comments from the last\ntwo videos - our episode on the galaxy without"
+    } ]
+  }, {
+    "tStartMs": 891630,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "dark matter, and our coverage of the event\nhorizon telescope's black hole image."
+    } ]
+  }, {
+    "tStartMs": 896430,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Let's get to it."
+    } ]
+  }, {
+    "tStartMs": 897660,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "AspLode asks about the interaction between\ndark matter and black holes."
+    } ]
+  }, {
+    "tStartMs": 901490,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Do they interact?"
+    } ]
+  }, {
+    "tStartMs": 902630,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Can dark matter form a black hole?"
+    } ]
+  }, {
+    "tStartMs": 904780,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Well assuming that dark matter is some sort\nof exotic particle - which is the going hypothesis"
+    } ]
+  }, {
+    "tStartMs": 909500,
+    "dDurationMs": 5709,
+    "segs": [ {
+      "utf8": "- then black holes would definitely attract\ndark matter gravitationally, and occationally"
+    } ]
+  }, {
+    "tStartMs": 915209,
+    "dDurationMs": 1451,
+    "segs": [ {
+      "utf8": "eat the stuff."
+    } ]
+  }, {
+    "tStartMs": 916660,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "But not too much of it."
+    } ]
+  }, {
+    "tStartMs": 919090,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "One of dark matter's definig qualities is\nthat it doesn't clump together - it remains"
+    } ]
+  }, {
+    "tStartMs": 923880,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "diffusely spread out through our galaxy."
+    } ]
+  }, {
+    "tStartMs": 927690,
+    "dDurationMs": 4019,
+    "segs": [ {
+      "utf8": "Occasional dark matter particles would be\nsnared by black holes - and they would add"
+    } ]
+  }, {
+    "tStartMs": 931709,
+    "dDurationMs": 3751,
+    "segs": [ {
+      "utf8": "to its mass just like regular matter."
+    } ]
+  }, {
+    "tStartMs": 935460,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "But dark matter alone could never clump together\ndensely enough to produce a black hole by"
+    } ]
+  }, {
+    "tStartMs": 940970,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "itself."
+    } ]
+  }, {
+    "tStartMs": 941990,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Munrais asks whether putting radio telescopes around the sun would improve the resolution of an interferometer."
+    } ]
+  }, {
+    "tStartMs": 948990,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Hell yeah it would."
+    } ]
+  }, {
+    "tStartMs": 950280,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "The minimum resolvable distance is inversely\nproportional to the separation of the antennas."
+    } ]
+  }, {
+    "tStartMs": 956740,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Tommy Barlow states that nor the event horizon,\nnor anything near it, was imaged."
+    } ]
+  }, {
+    "tStartMs": 961780,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, That's right."
+    } ]
+  }, {
+    "tStartMs": 962780,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "The event horizon is invisible."
+    } ]
+  }, {
+    "tStartMs": 965020,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "But the telescope DID resolve down to the\nsize of the event horizon."
+    } ]
+  }, {
+    "tStartMs": 969880,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "What was imaged was light escaping from the\nphoton sphere that was produced a the magnetically"
+    } ]
+  }, {
+    "tStartMs": 975580,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "driven jet."
+    } ]
+  }, {
+    "tStartMs": 976740,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "That's probably around 5 times larger than\nthe event horizon, in the case of this quasar."
+    } ]
+  }, {
+    "tStartMs": 981260,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "But seriously, the \"light from outside the\nevent horizon because we can't actually see"
+    } ]
+  }, {
+    "tStartMs": 986040,
+    "dDurationMs": 4419,
+    "segs": [ {
+      "utf8": "the event horizon telescope\" doesn't have\nsuch a nice ring to it."
+    } ]
+  }, {
+    "tStartMs": 990460,
+    "dDurationMs": 8180,
+    "segs": [ {
+      "utf8": "The Inebriati logs the following: Day 37,736:\nEinstein still appears to be right about general relativity."
+    } ]
+  }, {
+    "tStartMs": 998640,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "I know, right?"
+    } ]
+  }, {
+    "tStartMs": 999780,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "At what point do we just give up trying to\ndisprove the old man and just settle for the"
+    } ]
+  }, {
+    "tStartMs": 1004180,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "fact that it's probably all right?"
+    } ]
+  }, {
+    "tStartMs": 1006980,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Answer: never."
+    } ]
+  }, {
+    "tStartMs": 1009140,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "That's not how science works."
+    } ]
+  }, {
+    "tStartMs": 1010800,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Still - nice run, Albert."
+    } ]
+  }, {
+    "tStartMs": 1013950,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "Belodri writes from Austria to inform us that\ntheir phone ring is now me saying Zwicky."
+    } ]
+  }, {
+    "tStartMs": 1020170,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "Belodri, please notify us if you're ever coming\nto New York so I can not leave the house."
+    } ]
+  }, {
+    "tStartMs": 1025360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Randomly hearing that while walking down the\nstreet would creep me out too much."
+    } ]
+  } ]
+}

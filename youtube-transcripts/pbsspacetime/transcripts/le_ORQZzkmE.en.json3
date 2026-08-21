@@ -1,0 +1,1303 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 280,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "Thank you to Magellan TV for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 3379,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "The device you’re watching this video on\nis best understood by thinking about positive"
+    } ]
+  }, {
+    "tStartMs": 7980,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "and negative charges moving around a circuit\nof diodes and transistors."
+    } ]
+  }, {
+    "tStartMs": 12530,
+    "dDurationMs": 5909,
+    "segs": [ {
+      "utf8": "But the only elementary particle actually flowing in the circuit are the negatively charged"
+    } ]
+  }, {
+    "tStartMs": 18439,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "electrons."
+    } ]
+  }, {
+    "tStartMs": 19560,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "And yet those flowing positive charges are\nthere, in the form of a particle you may never"
+    } ]
+  }, {
+    "tStartMs": 24510,
+    "dDurationMs": 1019,
+    "segs": [ {
+      "utf8": "have heard of."
+    } ]
+  }, {
+    "tStartMs": 25529,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "Your device works because of quasi-particles\n- a class of strange emergent behaviors of"
+    } ]
+  }, {
+    "tStartMs": 31759,
+    "dDurationMs": 5151,
+    "segs": [ {
+      "utf8": "nature that enable our most important technologies\nand are behind some of the weirdest phenomena"
+    } ]
+  }, {
+    "tStartMs": 36910,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "that we have ever encountered."
+    } ]
+  }, {
+    "tStartMs": 44668,
+    "dDurationMs": 4493,
+    "segs": [ {
+      "utf8": "Let’s start our discussion of quasiparticles\nby talking about the particular quasiparticle"
+    } ]
+  }, {
+    "tStartMs": 49161,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "that lets me talk to you about quasiparticles\nright now."
+    } ]
+  }, {
+    "tStartMs": 53130,
+    "dDurationMs": 5569,
+    "segs": [ {
+      "utf8": "Now electrons, which are regular particles, are pushed around inside electrical circuits,"
+    } ]
+  }, {
+    "tStartMs": 58699,
+    "dDurationMs": 2031,
+    "segs": [ {
+      "utf8": "but it’s only half the story."
+    } ]
+  }, {
+    "tStartMs": 60730,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "In semiconductors that make up transistors,\ndiodes, and solar cells the pushing around"
+    } ]
+  }, {
+    "tStartMs": 66110,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "of a quasiparticle is equally important."
+    } ]
+  }, {
+    "tStartMs": 68450,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Let’s look at the material that is central\nto all modern electronics - silicon."
+    } ]
+  }, {
+    "tStartMs": 74210,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "The silicon atom has 4 electrons in its outer\nor valence shell."
+    } ]
+  }, {
+    "tStartMs": 79140,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Atoms are most stable with full valence shells,\nwhich means 8 electrons."
+    } ]
+  }, {
+    "tStartMs": 82620,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "That’s why silicon likes to form covalent\nbonds with 4 other silicons, and each of those"
+    } ]
+  }, {
+    "tStartMs": 88860,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "with another 4, forming this tetrahedral crystal lattice."
+    } ]
+  }, {
+    "tStartMs": 92540,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "We’re going to depict this as a square grid\nin 2-D to save on animation costs."
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "These electrons are locked in place in the\nnow-full valence energy level."
+    } ]
+  }, {
+    "tStartMs": 104969,
+    "dDurationMs": 6351,
+    "segs": [ {
+      "utf8": "But they can still get bumped up to a higher\nenergy state - say, by thermal vibrations"
+    } ]
+  }, {
+    "tStartMs": 111320,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "or in the case of solar cells by a photon, at which point the electron is free to move from"
+    } ]
+  }, {
+    "tStartMs": 116340,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "atom to atom - for example if pulled by a\nvoltage applied across the silicon."
+    } ]
+  }, {
+    "tStartMs": 122270,
+    "dDurationMs": 5769,
+    "segs": [ {
+      "utf8": "Meanwhile, the gap left by this electron allows\nsome movement in the valence shell."
+    } ]
+  }, {
+    "tStartMs": 128039,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "A neighboring electron can move there, and\nits neighbor can fill t he new gap, etc."
+    } ]
+  }, {
+    "tStartMs": 133610,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "It looks like the hole moves around, and under\na voltage the hole moves in the opposite direction"
+    } ]
+  }, {
+    "tStartMs": 139720,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "to the flow of electrons."
+    } ]
+  }, {
+    "tStartMs": 141600,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "This is our first quasiparticle - it’s an\nelectron hole."
+    } ]
+  }, {
+    "tStartMs": 145970,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "It has an effective positive charge due to\nthe charge of the nucleus not being properly"
+    } ]
+  }, {
+    "tStartMs": 151080,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "canceled by electrons in that location."
+    } ]
+  }, {
+    "tStartMs": 154319,
+    "dDurationMs": 2971,
+    "segs": [ {
+      "utf8": "It even has an effective positive mass."
+    } ]
+  }, {
+    "tStartMs": 157290,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "We can model it as though it’s a real particle."
+    } ]
+  }, {
+    "tStartMs": 160080,
+    "dDurationMs": 4689,
+    "segs": [ {
+      "utf8": "To see how this quasiparticle is more than\njust “a way of looking at things”, consider"
+    } ]
+  }, {
+    "tStartMs": 164769,
+    "dDurationMs": 5001,
+    "segs": [ {
+      "utf8": "perhaps the simplest semiconductor device\n- the diode."
+    } ]
+  }, {
+    "tStartMs": 169770,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Diodes allow current to travel in one direction\nbut not the other."
+    } ]
+  }, {
+    "tStartMs": 173300,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "They consist of two layers of silicon - on\none side there’s an excess of valence electrons,"
+    } ]
+  }, {
+    "tStartMs": 178940,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and in the other a deficit."
+    } ]
+  }, {
+    "tStartMs": 181910,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "This is achieved by doping - contaminating\neach layer by a different element."
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "On one side we sprinkle the silicon lattice\nwith a tiny number of atoms that have 5 rather"
+    } ]
+  }, {
+    "tStartMs": 192570,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "than 4 valence electrons."
+    } ]
+  }, {
+    "tStartMs": 194630,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Phosphorus is a popular choice."
+    } ]
+  }, {
+    "tStartMs": 196870,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "Those extra electrons are more free to move\naround because they aren’t part of the crystal"
+    } ]
+  }, {
+    "tStartMs": 200709,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "bonds."
+    } ]
+  }, {
+    "tStartMs": 201959,
+    "dDurationMs": 5131,
+    "segs": [ {
+      "utf8": "This is an n-type semiconductor - n because\nthe flowing charge is negative."
+    } ]
+  }, {
+    "tStartMs": 207090,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "The other side is doped with atoms that have\n3 valence electrons - frequently boron."
+    } ]
+  }, {
+    "tStartMs": 212120,
+    "dDurationMs": 6839,
+    "segs": [ {
+      "utf8": "Now electrons on that side can move a little bit. They can shuffle to fill the gaps in the underfilled valence shells - so we"
+    } ]
+  }, {
+    "tStartMs": 218959,
+    "dDurationMs": 5931,
+    "segs": [ {
+      "utf8": "have flowing positively charged electron holes and a p-type semiconductor."
+    } ]
+  }, {
+    "tStartMs": 224890,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "In a diode, n- and p-types are fused together."
+    } ]
+  }, {
+    "tStartMs": 228720,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "At the p-n junction, extra electrons in the\nn-type diffuse into the gaps in the p-type"
+    } ]
+  }, {
+    "tStartMs": 234150,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "so we end up with a region where all valence\nshells are filled so charge can’t flow."
+    } ]
+  }, {
+    "tStartMs": 240260,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "Apply a voltage in one direction and the holes and electrons flow away from this junction,"
+    } ]
+  }, {
+    "tStartMs": 245890,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "expanding the non-conductive region and shutting\ndown the current."
+    } ]
+  }, {
+    "tStartMs": 249760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But apply the voltage the other way and the\nelectrons and holes are driven towards the"
+    } ]
+  }, {
+    "tStartMs": 253680,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "junction, causing it to narrow and electrons\nhop across, enabling the flow of electricity."
+    } ]
+  }, {
+    "tStartMs": 259690,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "That’s the diode - a valve for electricity."
+    } ]
+  }, {
+    "tStartMs": 263840,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "And these p-n junctions also drive solar cells,\nLEDs, and transistors."
+    } ]
+  }, {
+    "tStartMs": 268199,
+    "dDurationMs": 5661,
+    "segs": [ {
+      "utf8": "And they all depend on the behavior of these\nquasiparticles - these holes."
+    } ]
+  }, {
+    "tStartMs": 273860,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "You might argue that electron holes are just\na convenient way of looking at things, but"
+    } ]
+  }, {
+    "tStartMs": 277970,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "that they aren’t “real” like electrons\nare."
+    } ]
+  }, {
+    "tStartMs": 280550,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "After all, if you melt the silicon the electrons\nstill exist but the holes don’t."
+    } ]
+  }, {
+    "tStartMs": 284460,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "In a sense that’s right - quasiparticles\nare emergent from the behavior of a particular"
+    } ]
+  }, {
+    "tStartMs": 290009,
+    "dDurationMs": 1771,
+    "segs": [ {
+      "utf8": "configuration of matter."
+    } ]
+  }, {
+    "tStartMs": 291780,
+    "dDurationMs": 5492,
+    "segs": [ {
+      "utf8": "Just like states of matter, which we talked about previously. But at the very least quasiparticles "
+    } ]
+  }, {
+    "tStartMs": 297272,
+    "dDurationMs": 8439,
+    "segs": [ {
+      "utf8": "make it much easier to model physical processes like semiconductor junctions and in other cases they are indispensable. "
+    } ]
+  }, {
+    "tStartMs": 305711,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Let’s explore one of those cases. "
+    } ]
+  }, {
+    "tStartMs": 308610,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "We’ll stick with our silicon crystal."
+    } ]
+  }, {
+    "tStartMs": 310970,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "We have one quasiparticle from making a gap in one spot in the electron energy level."
+    } ]
+  }, {
+    "tStartMs": 316860,
+    "dDurationMs": 7350,
+    "segs": [ {
+      "utf8": "And we can make another one by making a very different tweak to the local energy in the crystal."
+    } ]
+  }, {
+    "tStartMs": 324210,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Another way energy can be stored in the lattice\nis in the vibrational modes of the atoms."
+    } ]
+  }, {
+    "tStartMs": 328640,
+    "dDurationMs": 6779,
+    "segs": [ {
+      "utf8": "Think of the covalent bonds as springs, so\nwhen an atom receives pressure it will move,"
+    } ]
+  }, {
+    "tStartMs": 335419,
+    "dDurationMs": 4211,
+    "segs": [ {
+      "utf8": "pressing on the springs, and causing other\nnearby atoms to move as well."
+    } ]
+  }, {
+    "tStartMs": 339630,
+    "dDurationMs": 3539,
+    "segs": [ {
+      "utf8": "In this way vibrational energy can move around\nthe lattice."
+    } ]
+  }, {
+    "tStartMs": 343169,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "But this seems a bit more like a sound wave\nthan a particle."
+    } ]
+  }, {
+    "tStartMs": 347410,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "In fact sound waves in solids do propagate\nexactly like this."
+    } ]
+  }, {
+    "tStartMs": 351810,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "But remember we’re at the quantum scale\nhere."
+    } ]
+  }, {
+    "tStartMs": 355600,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "Those vibrational modes in the crystal are\nquantized, similar to electron energy levels."
+    } ]
+  }, {
+    "tStartMs": 361130,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "In this case, the crystal lattice can vibrate\nat any frequency, but the amount of energy"
+    } ]
+  }, {
+    "tStartMs": 366280,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "at each vibrational mode can only go up in\ndiscrete chunks."
+    } ]
+  }, {
+    "tStartMs": 371590,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "That means vibrational energy also gets transferred\nin discrete packets."
+    } ]
+  }, {
+    "tStartMs": 376310,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "So now we have something like a particle - a\nquantum of vibrational energy moving around"
+    } ]
+  }, {
+    "tStartMs": 381410,
+    "dDurationMs": 1009,
+    "segs": [ {
+      "utf8": "the lattice."
+    } ]
+  }, {
+    "tStartMs": 382419,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "This new quasiparticle is called the phonon."
+    } ]
+  }, {
+    "tStartMs": 385900,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "I said that sound is transmitted through solids\nvia these vibrations - so this makes the phonon"
+    } ]
+  }, {
+    "tStartMs": 392580,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "a quantum of a sound wave, similar to how\na photon is a quantum of light - of an electromagnetic"
+    } ]
+  }, {
+    "tStartMs": 398900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "wave."
+    } ]
+  }, {
+    "tStartMs": 399900,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "The analogy is not a shallow one."
+    } ]
+  }, {
+    "tStartMs": 402410,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Phonons behave in many ways like light."
+    } ]
+  }, {
+    "tStartMs": 404620,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "They travel at the speed of their wave-type\n- sound in this case."
+    } ]
+  }, {
+    "tStartMs": 407990,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "They have energy equal to the planck constant\ntimes their frequency."
+    } ]
+  }, {
+    "tStartMs": 413240,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "They are boson-like in that you can stack\nmultiple phonons on top of each other in a"
+    } ]
+  }, {
+    "tStartMs": 418340,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "single vibration."
+    } ]
+  }, {
+    "tStartMs": 420509,
+    "dDurationMs": 4551,
+    "segs": [ {
+      "utf8": "Compare that to electron holes, which are\nfermion-like in that you can only have one"
+    } ]
+  }, {
+    "tStartMs": 425060,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "in a given spot at one time."
+    } ]
+  }, {
+    "tStartMs": 427280,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "As well as being a quantum of sound in solids,\nthey are also the quantum of heat."
+    } ]
+  }, {
+    "tStartMs": 432730,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "After all, heat in solids comes from the vibrational\nmotion of its atoms, and that vibration is"
+    } ]
+  }, {
+    "tStartMs": 438600,
+    "dDurationMs": 2749,
+    "segs": [ {
+      "utf8": "transferred around by phonons."
+    } ]
+  }, {
+    "tStartMs": 441349,
+    "dDurationMs": 6312,
+    "segs": [ {
+      "utf8": "You can think of sound as a coherent beam\nof phonons, like a laser, while heat is a"
+    } ]
+  }, {
+    "tStartMs": 447661,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "random buzz of phonons."
+    } ]
+  }, {
+    "tStartMs": 450870,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Understanding the behavior of phonons is critical\nfor the understanding of the behavior of both"
+    } ]
+  }, {
+    "tStartMs": 454420,
+    "dDurationMs": 3886,
+    "segs": [ {
+      "utf8": "sound and heat in solids at the quantum scale"
+    } ]
+  }, {
+    "tStartMs": 458306,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "And phonons are also really important for your computer, which, as you know, can get"
+    } ]
+  }, {
+    "tStartMs": 464440,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "hot."
+    } ]
+  }, {
+    "tStartMs": 465950,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "Energy is often transferred between phonons\nand other particles - quasi- and real - and"
+    } ]
+  }, {
+    "tStartMs": 471120,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "modeling this is needed for modeling the behavior\nof heat on the quantum scale."
+    } ]
+  }, {
+    "tStartMs": 476440,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "For example, electrons traveling through a\ncircuit encounter resistance - basically,"
+    } ]
+  }, {
+    "tStartMs": 481530,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "they have collisions, which can be electromagnetic\ninteractions with other electrons, falling"
+    } ]
+  }, {
+    "tStartMs": 487270,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "into a hole, etc."
+    } ]
+  }, {
+    "tStartMs": 489530,
+    "dDurationMs": 6629,
+    "segs": [ {
+      "utf8": "In doing so they can dump its energy into\na vibrational mode and create a phonon."
+    } ]
+  }, {
+    "tStartMs": 496159,
+    "dDurationMs": 1631,
+    "segs": [ {
+      "utf8": "This manifests as heat."
+    } ]
+  }, {
+    "tStartMs": 497790,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The heat due to electrical resistance is one\nof the main limitations on running your computer"
+    } ]
+  }, {
+    "tStartMs": 502030,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "as fast as you might like to."
+    } ]
+  }, {
+    "tStartMs": 504170,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But quasiparticles can help there too."
+    } ]
+  }, {
+    "tStartMs": 506750,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "But before we get to that, first a quick recap."
+    } ]
+  }, {
+    "tStartMs": 509760,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "We now have two types of quasiparticle - holes,\nwhich are like quasi-electrons … or perhaps"
+    } ]
+  }, {
+    "tStartMs": 515330,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "quasi-positrons, and we have phonons, which\nare analogous to photons."
+    } ]
+  }, {
+    "tStartMs": 520820,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "Now, elementary particles can be combined\ninto composite particles, for example an atom"
+    } ]
+  }, {
+    "tStartMs": 526390,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "is composed of quarks forming a nucleus and\nelectrons bound to that nucleus by the exchange"
+    } ]
+  }, {
+    "tStartMs": 531550,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "of virtual photons."
+    } ]
+  }, {
+    "tStartMs": 533350,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Believe it or not we can create composite\nquasiparticles in a similar way."
+    } ]
+  }, {
+    "tStartMs": 537970,
+    "dDurationMs": 5059,
+    "segs": [ {
+      "utf8": "And, as it happens, the new quasiparticle\nwe’re going to create can help us with this"
+    } ]
+  }, {
+    "tStartMs": 543029,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "electrical resistance problem."
+    } ]
+  }, {
+    "tStartMs": 545510,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "You may have heard of a little something known\nas Superconductivity, when you cool a metal"
+    } ]
+  }, {
+    "tStartMs": 550870,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "near absolute zero and the electrical resistance\nbecomes zero, which in turn creates many cool"
+    } ]
+  }, {
+    "tStartMs": 556810,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "interactions with electromagnetic fields,\nlike levitating magnets, which you can use"
+    } ]
+  }, {
+    "tStartMs": 561230,
+    "dDurationMs": 2049,
+    "segs": [ {
+      "utf8": "to make super fast trains."
+    } ]
+  }, {
+    "tStartMs": 563279,
+    "dDurationMs": 6081,
+    "segs": [ {
+      "utf8": "We’ll do a deeper dive into superconductivity\nanother time - today I just want to show you"
+    } ]
+  }, {
+    "tStartMs": 569360,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "how this phenomenon is enabled by quasiparticles."
+    } ]
+  }, {
+    "tStartMs": 573430,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "Metals form crystal lattices similar to silicon,\nbut they are much better conductors because"
+    } ]
+  }, {
+    "tStartMs": 579480,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "they don’t use up all of their valence electrons\nin the bonds of the lattice."
+    } ]
+  }, {
+    "tStartMs": 583440,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "Add a voltage and those electrons are free\nto travel through the structure as an electrical"
+    } ]
+  }, {
+    "tStartMs": 588310,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "current."
+    } ]
+  }, {
+    "tStartMs": 589310,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "But of course we have them pesky phonons,\nwhich at any significant temperature just"
+    } ]
+  }, {
+    "tStartMs": 595260,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "add up to a lot of random jiggling of the\natoms - AKA heat."
+    } ]
+  }, {
+    "tStartMs": 600120,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "That motion, as we know, causes resistance."
+    } ]
+  }, {
+    "tStartMs": 603500,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Electrons are jostled, exchanging phonons\nin both directions with the atoms, which prevents"
+    } ]
+  }, {
+    "tStartMs": 608220,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "a smooth, streamline flow"
+    } ]
+  }, {
+    "tStartMs": 610800,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "You might think that cooling down the metal\nalone would be enough to enable higher conductivity."
+    } ]
+  }, {
+    "tStartMs": 615930,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "But it’s not the relative stillness of the\natoms that does this; it’s something much"
+    } ]
+  }, {
+    "tStartMs": 621130,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "more interesting."
+    } ]
+  }, {
+    "tStartMs": 622880,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Very low temperature means few random, noisy\nphonons."
+    } ]
+  }, {
+    "tStartMs": 626390,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Which in turn means that coherent structures\nof phonons become possible."
+    } ]
+  }, {
+    "tStartMs": 631330,
+    "dDurationMs": 5059,
+    "segs": [ {
+      "utf8": "In fact, it becomes possible for the phonons\nto take on another property analogous to the"
+    } ]
+  }, {
+    "tStartMs": 636389,
+    "dDurationMs": 3591,
+    "segs": [ {
+      "utf8": "photon - it becomes the carrier of a force."
+    } ]
+  }, {
+    "tStartMs": 639980,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "In this case a quasi-force that can actually\nbind electrons together."
+    } ]
+  }, {
+    "tStartMs": 644200,
+    "dDurationMs": 4689,
+    "segs": [ {
+      "utf8": "Normally we think of electrons as repelling\neach other via the electromagnetic force - mediated"
+    } ]
+  }, {
+    "tStartMs": 648889,
+    "dDurationMs": 1211,
+    "segs": [ {
+      "utf8": "by photons."
+    } ]
+  }, {
+    "tStartMs": 650100,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "At the same time, the negatively charged electrons in a metal lattice attract the positive nuclei."
+    } ]
+  }, {
+    "tStartMs": 657050,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "The nuclei get tugged a tiny bit in the direction\nof a free-moving electron, and that tiny increase"
+    } ]
+  }, {
+    "tStartMs": 662610,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "in positive charge can in turn attract more\nelectrons."
+    } ]
+  }, {
+    "tStartMs": 667040,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Ideally that first electron is part of an\nelectric current, so it moves along."
+    } ]
+  }, {
+    "tStartMs": 672120,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "The nuclei spring back again, and actually\noscillate."
+    } ]
+  }, {
+    "tStartMs": 675670,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "They take a little of the original electron’s\nenergy in a vibration that’s part of a phonon,"
+    } ]
+  }, {
+    "tStartMs": 681280,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "mixed up and indistinguishable from all the\nother crazy oscillations across the lattice."
+    } ]
+  }, {
+    "tStartMs": 686270,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Any electrons that were attracted by this\nmomentary convergence of positive charge are"
+    } ]
+  }, {
+    "tStartMs": 690680,
+    "dDurationMs": 3089,
+    "segs": [ {
+      "utf8": "jostled so much that this effect is tiny"
+    } ]
+  }, {
+    "tStartMs": 693769,
+    "dDurationMs": 7241,
+    "segs": [ {
+      "utf8": "But if the metal is really, really cold - like,\nnear absolute zero - then the phonons induced"
+    } ]
+  }, {
+    "tStartMs": 701010,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "by the attraction of nuclei to a passing electron\ncan be a dominant vibrational mode of the lattice."
+    } ]
+  }, {
+    "tStartMs": 707450,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "A stream of electrons in one direction sets\nup a sort of resonance in the vibrational"
+    } ]
+  }, {
+    "tStartMs": 713190,
+    "dDurationMs": 3698,
+    "segs": [ {
+      "utf8": "modes of the lattice, effectively binding\npairs of electrons together."
+    } ]
+  }, {
+    "tStartMs": 716888,
+    "dDurationMs": 15451,
+    "segs": [ {
+      "utf8": "In a very real way, these are electrons bound by phonons , and our next quasi-particle - the Cooper pair."
+    } ]
+  }, {
+    "tStartMs": 732339,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "Now it’s really a fair bit more complex\nthan this."
+    } ]
+  }, {
+    "tStartMs": 736610,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "The pairs of electrons are bound over large distances, not separated by single atoms."
+    } ]
+  }, {
+    "tStartMs": 741560,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "And it’s not simple to say which electron is bound to which other."
+    } ]
+  }, {
+    "tStartMs": 744639,
+    "dDurationMs": 6871,
+    "segs": [ {
+      "utf8": "In fact, a network of cooper pairs move together in the mutually induced resonant oscillation"
+    } ]
+  }, {
+    "tStartMs": 751510,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "of the metal lattice"
+    } ]
+  }, {
+    "tStartMs": 753389,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "An amazing thing about Cooper pairs is that\nthey behave like bosons."
+    } ]
+  }, {
+    "tStartMs": 757829,
+    "dDurationMs": 9851,
+    "segs": [ {
+      "utf8": "Each electron is spin half, making them fermions, but two electrons have spin 1 - like a photon and that's for reasons we can’t get into."
+    } ]
+  }, {
+    "tStartMs": 767680,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "But this means they act like photons in that many Cooper pairs can occupy the same"
+    } ]
+  }, {
+    "tStartMs": 772770,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "quantum state."
+    } ]
+  }, {
+    "tStartMs": 774430,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "In fact at very low temperatures all of the pairs in an enormous network of flowing electrons can"
+    } ]
+  }, {
+    "tStartMs": 780540,
+    "dDurationMs": 3109,
+    "segs": [ {
+      "utf8": "all occupy the lowest energy state."
+    } ]
+  }, {
+    "tStartMs": 783649,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "They don’t have the energy to excite new\nphonons, and so … they don’t."
+    } ]
+  }, {
+    "tStartMs": 789139,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "This means they stream through the lattice\nwith zero resistance."
+    } ]
+  }, {
+    "tStartMs": 793829,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "As I mentioned, there is a lot more to the story of superconductivity, and we will come"
+    } ]
+  }, {
+    "tStartMs": 797960,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "back to it."
+    } ]
+  }, {
+    "tStartMs": 799790,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "And these Cooper pairs are also responsible for superfluidity."
+    } ]
+  }, {
+    "tStartMs": 803880,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "They are, in general, pretty super as far\nas quasi-particles go."
+    } ]
+  }, {
+    "tStartMs": 808490,
+    "dDurationMs": 5909,
+    "segs": [ {
+      "utf8": "There are many quasi-particles beyond the\nfew I had time for today - for example, quasiparticles"
+    } ]
+  }, {
+    "tStartMs": 814399,
+    "dDurationMs": 7091,
+    "segs": [ {
+      "utf8": "appear in lattices of quantum spin, like are\nmagnons - quanta of waves in that lattice,"
+    } ]
+  }, {
+    "tStartMs": 821490,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "or skyrmions, which are localized, stable\ntopological field configurations sort of like"
+    } ]
+  }, {
+    "tStartMs": 826940,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "knots - all very important for the emerging\nfield of spintronics."
+    } ]
+  }, {
+    "tStartMs": 831630,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "In superfluids we have rotons - a quantum\nof a vortex in the fluid."
+    } ]
+  }, {
+    "tStartMs": 836910,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "The roton is a quasiparticle enabled by a\nquasiparticle - Cooper pairs - which is in"
+    } ]
+  }, {
+    "tStartMs": 842760,
+    "dDurationMs": 3259,
+    "segs": [ {
+      "utf8": "turn enabled by another quasiparticle - the\nphonon."
+    } ]
+  }, {
+    "tStartMs": 846019,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "It seems quasiparticles can build into complex\nhierarchies, just like regular particles."
+    } ]
+  }, {
+    "tStartMs": 853389,
+    "dDurationMs": 4911,
+    "segs": [ {
+      "utf8": "Which shouldn’t be so surprising, because\nquasiparticles are like regular particles"
+    } ]
+  }, {
+    "tStartMs": 858300,
+    "dDurationMs": 1909,
+    "segs": [ {
+      "utf8": "in many ways."
+    } ]
+  }, {
+    "tStartMs": 860209,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "After all, the elementary particles like electrons,\nphotons, and quarks are just excitations in"
+    } ]
+  }, {
+    "tStartMs": 865580,
+    "dDurationMs": 2129,
+    "segs": [ {
+      "utf8": "the elementary quantum fields."
+    } ]
+  }, {
+    "tStartMs": 867709,
+    "dDurationMs": 4581,
+    "segs": [ {
+      "utf8": "But a field is just some property that can\nvary over space."
+    } ]
+  }, {
+    "tStartMs": 872290,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "Another field could be the number of electrons in the valence shell of a block of silicon."
+    } ]
+  }, {
+    "tStartMs": 879270,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "And it turns out that any field, elementary or not, will give rise to particles as long as"
+    } ]
+  }, {
+    "tStartMs": 884850,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "that field has quantized energy states."
+    } ]
+  }, {
+    "tStartMs": 887790,
+    "dDurationMs": 6239,
+    "segs": [ {
+      "utf8": "A crystal lattice supports many fields - the\nquantized number of valence electrons, or"
+    } ]
+  }, {
+    "tStartMs": 894029,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "the many quantized vibrational modes in its\nbonds."
+    } ]
+  }, {
+    "tStartMs": 897779,
+    "dDurationMs": 5131,
+    "segs": [ {
+      "utf8": "We now know of dozens of quasiparticles, but\nthere are no doubt many more waiting to be"
+    } ]
+  }, {
+    "tStartMs": 902910,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "discovered."
+    } ]
+  }, {
+    "tStartMs": 904000,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "And some may enable new technologies just\nas cool as the superconductor, or as world-changing"
+    } ]
+  }, {
+    "tStartMs": 909310,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "as the transistor."
+    } ]
+  }, {
+    "tStartMs": 911040,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "All part of the magnificent complexity emergent\nfrom simple fields spanning space time."
+    } ]
+  }, {
+    "tStartMs": 918560,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Thank you to Magellan TV for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 921720,
+    "dDurationMs": 4669,
+    "segs": [ {
+      "utf8": "Magellan is a documentary streaming service\nwhere you can stream thousands of 4K documentaries"
+    } ]
+  }, {
+    "tStartMs": 926389,
+    "dDurationMs": 6171,
+    "segs": [ {
+      "utf8": "in genres as varied as science, history, true\ncrime, nature and, of course, space."
+    } ]
+  }, {
+    "tStartMs": 932560,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Magellan adds more than 20 hours of new content\nweekly, and in the Space category you can"
+    } ]
+  }, {
+    "tStartMs": 937070,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "watch documentaries that explore cosmic ideas\n– titles like \"Other Earths: The Search"
+    } ]
+  }, {
+    "tStartMs": 942170,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "for Habitable Exoplanets,\" “Planet Hunting\nwith the James Webb Telescope, or “Killer"
+    } ]
+  }, {
+    "tStartMs": 947880,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Asteroid: Defending Earth,” which looks\nat how new space missions are being designed"
+    } ]
+  }, {
+    "tStartMs": 952470,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "to save us from the possibility of world-ending\nasteroid strikes."
+    } ]
+  }, {
+    "tStartMs": 956690,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "And a Magellan membership means you’ll never\nhave to watch ads."
+    } ]
+  }, {
+    "tStartMs": 960009,
+    "dDurationMs": 4751,
+    "segs": [ {
+      "utf8": "Plus, MagellanTV offers annual membership\ngift cards all year long – they’re designed"
+    } ]
+  }, {
+    "tStartMs": 964760,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "to be an easy gift for all kinds of occasions."
+    } ]
+  }, {
+    "tStartMs": 967350,
+    "dDurationMs": 6776,
+    "segs": [ {
+      "utf8": "For more information on membership go to https://www.magellantv.com\nand use code PBS"
+    } ]
+  } ]
+}

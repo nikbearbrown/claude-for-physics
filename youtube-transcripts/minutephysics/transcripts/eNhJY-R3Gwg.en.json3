@@ -1,0 +1,445 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 7600,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "General Relativity is a physics \ntheory invented by Albert Einstein."
+    } ]
+  }, {
+    "tStartMs": 13840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "General relativity is just a fancy \n20th-century name for gravity – the  "
+    } ]
+  }, {
+    "tStartMs": 17520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "force that pulls stuff to the ground and \nkeeps the planets in orbit around the sun ."
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "General relativity is the idea that gravity \nhappens because space is curved – like how  "
+    } ]
+  }, {
+    "tStartMs": 28800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "when you walk along the surface of a \nball, you end up curving downwards."
+    } ]
+  }, {
+    "tStartMs": 35600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Actually general relativity is the idea \nthat space and time aren’t separate – time  "
+    } ]
+  }, {
+    "tStartMs": 40560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "is a physical dimension, and together they \nform a single geometry called spacetime –  "
+    } ]
+  }, {
+    "tStartMs": 45040,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and gravity is caused by curvature in spacetime."
+    } ]
+  }, {
+    "tStartMs": 51440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "But spacetime can’t be curved any which way. \nJust like how a ball looks flat when you’re  "
+    } ]
+  }, {
+    "tStartMs": 56240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "close enough, curved spacetime is locally flat \n(rather than crumpled, or something). Of course,  "
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "flat space makes sense, but what does it mean \nfor spacetime to be flat? That it obeys the  "
+    } ]
+  }, {
+    "tStartMs": 66240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "rules of special relativity! Finite speed of \nlight, time dilation and length contraction,  "
+    } ]
+  }, {
+    "tStartMs": 71040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "relative addition of velocities, and all that. \nBasically, if general relativity is like a globe,  "
+    } ]
+  }, {
+    "tStartMs": 77360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "special relativity is being on the surface of \nthe globe (and mathematicians call the globe  "
+    } ]
+  }, {
+    "tStartMs": 82000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "a pseudo-Riemannian manifold \nwith Lorentzian signature)."
+    } ]
+  }, {
+    "tStartMs": 88320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Except, curvature in spacetime on its \nown doesn’t explain gravity – I mean,  "
+    } ]
+  }, {
+    "tStartMs": 92240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "just because you’re on a curved ball that \ndoesn’t mean you follow a specific path on  "
+    } ]
+  }, {
+    "tStartMs": 95520,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the ball. General relativity is the combination of \nthe ideas that spacetime is curved AND that stuff  "
+    } ]
+  }, {
+    "tStartMs": 101360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "in spacetime obeys laws of motion : an object \nin motion stays in motion along a “straight”  "
+    } ]
+  }, {
+    "tStartMs": 107360,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "path in curved spacetime . Like following a \nstraight line along the surface of a ball."
+    } ]
+  }, {
+    "tStartMs": 115760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Except we still haven’t said anything about \nwhat determines the curviness, or shape,  "
+    } ]
+  }, {
+    "tStartMs": 120080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "of spacetime in the first place! Or why objects \ntend to follow straight paths in that spacetime.  "
+    } ]
+  }, {
+    "tStartMs": 125520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "General Relativity is actually the idea that \nall the stuff in spacetime – matter, radiation,  "
+    } ]
+  }, {
+    "tStartMs": 130720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "pressure, energy, momentum, particles, and so \non – all that, together with spacetime itself,  "
+    } ]
+  }, {
+    "tStartMs": 135920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "obeys a set of equations called the \nEinstein Field Equations. These equations  "
+    } ]
+  }, {
+    "tStartMs": 140880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "look simple if you write them in a clever way, \nbut they’re actually a very complicated set of  "
+    } ]
+  }, {
+    "tStartMs": 145120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "ten nonlinear differential equations [2nd \norder] that you have to solve in order to  "
+    } ]
+  }, {
+    "tStartMs": 147680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "make predictions about how spacetime will \ncurve and how the stuff in it will move,  "
+    } ]
+  }, {
+    "tStartMs": 151200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "depending on how spacetime is \ncurving and how the stuff is moving ."
+    } ]
+  }, {
+    "tStartMs": 156240,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The solutions to the Einstein Field Equations \nof General Relativity describe gravity around  "
+    } ]
+  }, {
+    "tStartMs": 160800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "solitary objects like black holes or the \nsun or the earth, and they facilitate very  "
+    } ]
+  }, {
+    "tStartMs": 164880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "accurate predictions of orbits around these \nobjects . But these equations aren’t limited  "
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "to describing just energy and matter and spacetime \naround the earth or sun – they can be used on the  "
+    } ]
+  }, {
+    "tStartMs": 173120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "universe as a whole to describe and understand \nthe past and present and future of the cosmos."
+    } ]
+  }, {
+    "tStartMs": 181360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So. General relativity is the idea \nthat the universe can be described by  "
+    } ]
+  }, {
+    "tStartMs": 185680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "a pseudo-Riemannian manifold representing \nspacetime and an energy-momentum tensor  "
+    } ]
+  }, {
+    "tStartMs": 190080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "representing all matter and energy, which \ntogether obey the Einstein Field Equations.  "
+    } ]
+  }, {
+    "tStartMs": 194800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "For our 3+1 dimensional universe, the \npredictions generated by this idea  "
+    } ]
+  }, {
+    "tStartMs": 199120,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "have been experimentally verified by many many \nincredibly precise observations, ranging from  "
+    } ]
+  }, {
+    "tStartMs": 204080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the precession of the orbit of Mercury, to the \nslight drift of the moon’s orbit away from the  "
+    } ]
+  }, {
+    "tStartMs": 206080,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "earth, to the gravitational lensing and redshift \nof starlight, to time dilation of atomic clocks  "
+    } ]
+  }, {
+    "tStartMs": 213360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and precession of gyroscopes orbiting the earth, \nto observations of the polarization of the cosmic  "
+    } ]
+  }, {
+    "tStartMs": 217120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "microwave background radiation, to gravitational \nwave detections of black hole mergers,  "
+    } ]
+  }, {
+    "tStartMs": 221280,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "to direct imaging of the black hole \nat the center of the Milky Way."
+    } ]
+  }, {
+    "tStartMs": 228080,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Wait but how does general relativity explain \nthe everyday “force” of gravity we experience  "
+    } ]
+  }, {
+    "tStartMs": 232720,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "on earth? Well, you know how when a vehicle \nturns but your body’s inertia makes you want  "
+    } ]
+  }, {
+    "tStartMs": 236960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to go straight and it feels like you’re being \npulled sideways because you’re being accelerated  "
+    } ]
+  }, {
+    "tStartMs": 241120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "away from your straight-line path? In general \nrelativity an object’s straight-line inertial path  "
+    } ]
+  }, {
+    "tStartMs": 246640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "is actually to fall towards the center of \nthe earth, and since the surface the earth  "
+    } ]
+  }, {
+    "tStartMs": 250480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "accelerates us away from that straight-line path, \nwe feel that acceleration as a weight or force  "
+    } ]
+  }, {
+    "tStartMs": 255280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "that we call gravity [equivalence principle]. \nIf you’re in free fall (or in orbit), then you  "
+    } ]
+  }, {
+    "tStartMs": 259360,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "are following a “straight path through curved \nspacetime”, that is, you’re not accelerating in  "
+    } ]
+  }, {
+    "tStartMs": 263280,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "spacetime, so you feel like you’re floating or \nexperiencing “0 g”. And that explains gravity!"
+    } ]
+  }, {
+    "tStartMs": 272320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Uh, yeah. General relativity doesn’t \nexplain quantum mechanical phenomena,  "
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and has problems jiving with the theory of \nquantum mechanics in certain extreme situations.  "
+    } ]
+  }, {
+    "tStartMs": 280720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Physicists have been working for over 90 years \nto reconcile general relativity and quantum  "
+    } ]
+  }, {
+    "tStartMs": 284800,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "mechanics in those situations, and while we’ve \nlearned a lot, we still haven’t come close to  "
+    } ]
+  }, {
+    "tStartMs": 288960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "solving everything! It’s hard. General Relativity \nworks so well in most cases where we can test it,  "
+    } ]
+  }, {
+    "tStartMs": 293680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and quantum mechanics works so well \nin most cases where we can test it,  "
+    } ]
+  }, {
+    "tStartMs": 297120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and they’re both so mathematically sophisticated \nand constrained and distinct from each other,  "
+    } ]
+  }, {
+    "tStartMs": 301440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "that imagining a different mathematical model \nthat encompasses both while being just as accurate  "
+    } ]
+  }, {
+    "tStartMs": 306160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "where they’re already accurate and better where \nthey’re in conflict is… very high level stuff."
+    } ]
+  }, {
+    "tStartMs": 312880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "If you want even more levels of General \nRelativity, I have an extended version of this  "
+    } ]
+  }, {
+    "tStartMs": 316720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "video on Nebula, the Streamy-award-nominated \nindependent streaming service that’s the  "
+    } ]
+  }, {
+    "tStartMs": 320640,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "co-sponsor of this video. [short teaser of the \nextended video] Nebula was created by and for a  "
+    } ]
+  }, {
+    "tStartMs": 330640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "collection of educational video creators including \nReal Engineering, Mike Boyd, Up and Atom,  "
+    } ]
+  }, {
+    "tStartMs": 334960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Jordan Harrod - and me - and Nebula has partnered \nwith CuriosityStream, which offers thousands of  "
+    } ]
+  }, {
+    "tStartMs": 340400,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "documentaries and nonfiction titles to give you \naccess to both in one go! I recommend Vitamania,  "
+    } ]
+  }, {
+    "tStartMs": 346960,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "about the history and science (or lack thereof, \nin some cases) of vitamins and supplements.  "
+    } ]
+  }, {
+    "tStartMs": 351760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Sign up for CuriosityStream using the link in the \ndescription and you’ll also get access to Nebula,  "
+    } ]
+  }, {
+    "tStartMs": 355920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "including the extended version of this video as \nwell as an ad-free viewing experience across the  "
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "site. Oh yeah, and you’ll also get 26% off \nan annual subscription to CuriosityStream."
+    } ]
+  } ]
+}

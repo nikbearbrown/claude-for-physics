@@ -1,0 +1,979 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 252,
+    "dDurationMs": 2619,
+    "segs": [ {
+      "utf8": "- These are soft robots."
+    } ]
+  }, {
+    "tStartMs": 2871,
+    "dDurationMs": 2232,
+    "segs": [ {
+      "utf8": "Their structural components are built,"
+    } ]
+  }, {
+    "tStartMs": 5103,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "not out of metal or wood,"
+    } ]
+  }, {
+    "tStartMs": 7223,
+    "dDurationMs": 3884,
+    "segs": [ {
+      "utf8": "but flexible materials\nlike plastic tubing."
+    } ]
+  }, {
+    "tStartMs": 11107,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But how do they work?"
+    } ]
+  }, {
+    "tStartMs": 12907,
+    "dDurationMs": 4383,
+    "segs": [ {
+      "utf8": "and why would you want a soft\nrobot in the first place?"
+    } ]
+  }, {
+    "tStartMs": 17290,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "This video was sponsored by KiwiCo."
+    } ]
+  }, {
+    "tStartMs": 19430,
+    "dDurationMs": 3096,
+    "segs": [ {
+      "utf8": "Check out their robots\nat the end of the show."
+    } ]
+  }, {
+    "tStartMs": 22526,
+    "dDurationMs": 2924,
+    "segs": [ {
+      "utf8": "(machine blowing)"
+    } ]
+  }, {
+    "tStartMs": 25450,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "So I came up to Stanford"
+    } ]
+  }, {
+    "tStartMs": 27110,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "to meet Zach Hammond and his soft robot."
+    } ]
+  }, {
+    "tStartMs": 30310,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "How's it going?"
+    } ]
+  }, {
+    "tStartMs": 31740,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "All right, you want to tip it?"
+    } ]
+  }, {
+    "tStartMs": 36700,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "So is the idea that the\nrobot could walk this way?"
+    } ]
+  }, {
+    "tStartMs": 40680,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Totally, yeah."
+    } ]
+  }, {
+    "tStartMs": 41513,
+    "dDurationMs": 2947,
+    "segs": [ {
+      "utf8": "So you can kind of chain\nthese rolls together"
+    } ]
+  }, {
+    "tStartMs": 44460,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to kind of roll around in any environment."
+    } ]
+  }, {
+    "tStartMs": 47310,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "They call this punctuated\nrolling locomotion."
+    } ]
+  }, {
+    "tStartMs": 49740,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Wherein it's kind of stuck"
+    } ]
+  }, {
+    "tStartMs": 51450,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "on a face until it tips over and now it's\non a new face and it can then continue to"
+    } ]
+  }, {
+    "tStartMs": 55660,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "move its center of gravity. Once that center\nof gravity exits the support polygon or the"
+    } ]
+  }, {
+    "tStartMs": 60690,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "base, then it tips over one of the edges of\nthe face."
+    } ]
+  }, {
+    "tStartMs": 66260,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "- This is a different soft robot made out\nof flexible tubing. It was designed to mimic"
+    } ]
+  }, {
+    "tStartMs": 71920,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "the way a turtle walks, where diagonally opposite\nlegs move together. It's powered entirely"
+    } ]
+  }, {
+    "tStartMs": 78670,
+    "dDurationMs": 7570,
+    "segs": [ {
+      "utf8": "by compressed air and perhaps most impressive,\nit requires no electronics. All of the circuitry"
+    } ]
+  }, {
+    "tStartMs": 86240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "is pneumatic and this means the robot can\nbe used in places like mines, where electronics"
+    } ]
+  }, {
+    "tStartMs": 92160,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "could spark explosions, or in the strong magnetic\nfields around MRI machines. But why would"
+    } ]
+  }, {
+    "tStartMs": 99280,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "you want a soft robot in the first place?"
+    } ]
+  }, {
+    "tStartMs": 101979,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "- One of the things that I like to do is just\nto take the robot and kind of like beat it"
+    } ]
+  }, {
+    "tStartMs": 105700,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "up a little bit and show how it's compliant\nand compressive."
+    } ]
+  }, {
+    "tStartMs": 109590,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- Nope, because they're safer."
+    } ]
+  }, {
+    "tStartMs": 110940,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "- If you'd like to take a whack at it, you\nknow, feel free."
+    } ]
+  }, {
+    "tStartMs": 113530,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "- But I don't think this is your work, I don't\nwant to break it, obviously."
+    } ]
+  }, {
+    "tStartMs": 116310,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- No, feel free, go for it"
+    } ]
+  }, {
+    "tStartMs": 117310,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "- For operation around humans, there's not\nmuch damage a soft robot can do to you. I"
+    } ]
+  }, {
+    "tStartMs": 124280,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "can stand on these?"
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Yep."
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "- This is a pretty crazy compliant robot."
+    } ]
+  }, {
+    "tStartMs": 130119,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "- Because the the fundamental structure of\nthis robot is compliant, there's only some"
+    } ]
+  }, {
+    "tStartMs": 135750,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "maximum force that it could ever exert on\nme. So it's inherently safe to be operating"
+    } ]
+  }, {
+    "tStartMs": 140640,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "around people."
+    } ]
+  }, {
+    "tStartMs": 142340,
+    "dDurationMs": 5569,
+    "segs": [ {
+      "utf8": "- Could we make it fall and have me be inside\nit?"
+    } ]
+  }, {
+    "tStartMs": 147909,
+    "dDurationMs": 3261,
+    "segs": [ {
+      "utf8": "- Yeah. Yeah, we could do that for sure. Just\nwatch your head."
+    } ]
+  }, {
+    "tStartMs": 151170,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "- Yep, if I go over here."
+    } ]
+  }, {
+    "tStartMs": 152451,
+    "dDurationMs": 1678,
+    "segs": [ {
+      "utf8": "- If you're there, yeah, we can do that."
+    } ]
+  }, {
+    "tStartMs": 154129,
+    "dDurationMs": 9011,
+    "segs": [ {
+      "utf8": "- All right, let's try it. Here it comes.\nWell, that's not bad at all. Is it?"
+    } ]
+  }, {
+    "tStartMs": 163140,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "- I can try another shape. That's supposed\nto open up one of the faces, so you can jump"
+    } ]
+  }, {
+    "tStartMs": 167660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "out of it quickly."
+    } ]
+  }, {
+    "tStartMs": 168660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Okay."
+    } ]
+  }, {
+    "tStartMs": 169660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- I haven't tested it in a little while, so..."
+    } ]
+  }, {
+    "tStartMs": 170660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Sure."
+    } ]
+  }, {
+    "tStartMs": 171660,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "- I don't know how it's gonna go, but let's\ntry this. There you go that's the face right"
+    } ]
+  }, {
+    "tStartMs": 174760,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "there to your right and you can exit the trust\nfrom that face."
+    } ]
+  }, {
+    "tStartMs": 178330,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Boom."
+    } ]
+  }, {
+    "tStartMs": 179330,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Perfect."
+    } ]
+  }, {
+    "tStartMs": 180330,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "- Just that easy. Did you build this by yourself?"
+    } ]
+  }, {
+    "tStartMs": 183640,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "- Me and one other grad student built this\nentire thing ourselves, basically."
+    } ]
+  }, {
+    "tStartMs": 187930,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "- And how long did it take?"
+    } ]
+  }, {
+    "tStartMs": 188990,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": "- We did it in about a month, I want to say,\nlike actually constructing everything."
+    } ]
+  }, {
+    "tStartMs": 193159,
+    "dDurationMs": 2271,
+    "segs": [ {
+      "utf8": "- And was it tricky? I mean, were you sewing\nthat stuff?"
+    } ]
+  }, {
+    "tStartMs": 195430,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "- Yep, we sewed this all ourselves."
+    } ]
+  }, {
+    "tStartMs": 197310,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "- The main structural members of this robot\nare fabric tubes inflated with air."
+    } ]
+  }, {
+    "tStartMs": 202620,
+    "dDurationMs": 6759,
+    "segs": [ {
+      "utf8": "- Yeah, so these red tubes are a nylon fabric\nand then internally, there is a polyethylene"
+    } ]
+  }, {
+    "tStartMs": 209379,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "tube that provides the air tightness."
+    } ]
+  }, {
+    "tStartMs": 212329,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "- The tubes are inflated to about six PSI\nabove atmospheric. So it's almost one and"
+    } ]
+  }, {
+    "tStartMs": 217960,
+    "dDurationMs": 6109,
+    "segs": [ {
+      "utf8": "a half atmospheres. Each tube passes through\npairs of rollers connected to a motor. The"
+    } ]
+  }, {
+    "tStartMs": 224069,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "rollers pinch the tube, so it bends kind of\nlike a pinched straw."
+    } ]
+  }, {
+    "tStartMs": 227889,
+    "dDurationMs": 3861,
+    "segs": [ {
+      "utf8": "- Add the rods and then we have this like\nhigh friction material wrapped around the"
+    } ]
+  }, {
+    "tStartMs": 231750,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "rods. And then that coupled with the fact\nthat we have this pressurized tube that's"
+    } ]
+  }, {
+    "tStartMs": 235580,
+    "dDurationMs": 4329,
+    "segs": [ {
+      "utf8": "kind of pushing the membrane of the tube into\nthe rollers, prevents us from slipping."
+    } ]
+  }, {
+    "tStartMs": 239909,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "- By driving the motor, it changes the length\nof the tubes."
+    } ]
+  }, {
+    "tStartMs": 243879,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "- Kind of like when a clown creates a twist\nin a balloon and then folds that balloon into"
+    } ]
+  }, {
+    "tStartMs": 249519,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "a balloon animal. The difference between what\nthe clown does and what we do is that there's"
+    } ]
+  }, {
+    "tStartMs": 254069,
+    "dDurationMs": 5341,
+    "segs": [ {
+      "utf8": "some passage of air between adjacent segments\nof the tube. So that as the robot drives around,"
+    } ]
+  }, {
+    "tStartMs": 259410,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "we're not pressurizing the segments of the\ntube."
+    } ]
+  }, {
+    "tStartMs": 262350,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "- This robot is made of four inflated tubes,\neach one connected to a pair of motors, forming"
+    } ]
+  }, {
+    "tStartMs": 267490,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "triangular sides."
+    } ]
+  }, {
+    "tStartMs": 269130,
+    "dDurationMs": 3711,
+    "segs": [ {
+      "utf8": "- We also think that they kind of look like\nsausage links when put together, which is"
+    } ]
+  }, {
+    "tStartMs": 272841,
+    "dDurationMs": 5269,
+    "segs": [ {
+      "utf8": "why we've named these robots after different\nsausages. So this one's called Polish, that"
+    } ]
+  }, {
+    "tStartMs": 278110,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "one over there is Chorizo, There's a Linguica\nand a kielbasa over there somewhere."
+    } ]
+  }, {
+    "tStartMs": 283100,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "- So what shape is the overall thing? It's\nan octahedron?"
+    } ]
+  }, {
+    "tStartMs": 285460,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "- Yeah, we call it an octahedron because if\nyou drew lines between these kind of kinematic"
+    } ]
+  }, {
+    "tStartMs": 291190,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "joints here, it would create an octahedral\nshape."
+    } ]
+  }, {
+    "tStartMs": 294990,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "- Driving the motors together, allows the\nrobot to dramatically change shape. It can"
+    } ]
+  }, {
+    "tStartMs": 299020,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "get very tall or short and squat. But since\nthe tubes themselves don't change in length,"
+    } ]
+  }, {
+    "tStartMs": 306580,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "the overall perimeter of the robot, the length\nof all the edges combined doesn't change."
+    } ]
+  }, {
+    "tStartMs": 311810,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "So the robot is considered isoparametric.\nHow do you feel when you watch those Boston"
+    } ]
+  }, {
+    "tStartMs": 319050,
+    "dDurationMs": 1009,
+    "segs": [ {
+      "utf8": "Dynamics videos?"
+    } ]
+  }, {
+    "tStartMs": 320059,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "- Oh, I love those videos, they're so cool."
+    } ]
+  }, {
+    "tStartMs": 322139,
+    "dDurationMs": 1791,
+    "segs": [ {
+      "utf8": "- The Boston Dynamics robots are kind of terrifying."
+    } ]
+  }, {
+    "tStartMs": 323930,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 324930,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "- I guess and the idea with soft robots, it's\nto like convince people that robots are good"
+    } ]
+  }, {
+    "tStartMs": 328130,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and soft and kind, and friendly and fake?"
+    } ]
+  }, {
+    "tStartMs": 330620,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "- That's definitely true, yeah. There are\nsome things that you can do to rigid systems"
+    } ]
+  }, {
+    "tStartMs": 334650,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "to make them feel like compliant systems based\non how you're controlling the motors. But"
+    } ]
+  }, {
+    "tStartMs": 339050,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "yeah, they're definitely, you know, heavy\nexpensive and can be dangerous if they're"
+    } ]
+  }, {
+    "tStartMs": 344160,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "not used correctly."
+    } ]
+  }, {
+    "tStartMs": 345890,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "- The hard robots we're used to are strong\nand precise. Their actions are accurate and"
+    } ]
+  }, {
+    "tStartMs": 351720,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "repeatable, but they are also heavy and they\ncan't really change their volume as dramatically,"
+    } ]
+  }, {
+    "tStartMs": 357670,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "but this robot is still capable of carrying\na heavy load."
+    } ]
+  }, {
+    "tStartMs": 362380,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "- So I have a GUI in MATLAB."
+    } ]
+  }, {
+    "tStartMs": 364080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Oh nice."
+    } ]
+  }, {
+    "tStartMs": 365080,
+    "dDurationMs": 4619,
+    "segs": [ {
+      "utf8": "- That enables me to just put in the positions\nthat I want the robots to move in inches and"
+    } ]
+  }, {
+    "tStartMs": 369699,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "then send them out. There's another other\nfunctionality of some like stored configurations"
+    } ]
+  }, {
+    "tStartMs": 374009,
+    "dDurationMs": 1451,
+    "segs": [ {
+      "utf8": "to send to the robots."
+    } ]
+  }, {
+    "tStartMs": 375460,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "- Soft robots also have the advantage of shape\nchanging. They can become tall to go over"
+    } ]
+  }, {
+    "tStartMs": 380710,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "obstacles or short to fit under obstructions."
+    } ]
+  }, {
+    "tStartMs": 384350,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "- So if there is some rock that it didn't\nsee or that it wanted to roll over. It could"
+    } ]
+  }, {
+    "tStartMs": 388970,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "simply do that and the compliance of the tubes\nwould simply just bend around that disturbance."
+    } ]
+  }, {
+    "tStartMs": 394850,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "- Do you imagine robots like this doing work\nin space?"
+    } ]
+  }, {
+    "tStartMs": 398460,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "- Oh yeah, definitely."
+    } ]
+  }, {
+    "tStartMs": 399750,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "- So one of the nice things about these types\nof structures is that they can shrink down"
+    } ]
+  }, {
+    "tStartMs": 404020,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "their volume very drastically. And because\nvolume on rockets is such an expensive premium,"
+    } ]
+  }, {
+    "tStartMs": 410740,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "being able to have a robot that can pack down\nsmall for transport is very valuable. So NASA"
+    } ]
+  }, {
+    "tStartMs": 415400,
+    "dDurationMs": 5139,
+    "segs": [ {
+      "utf8": "was at one point looking into trust robots\nfor exactly that reason. And they've contacted"
+    } ]
+  }, {
+    "tStartMs": 420539,
+    "dDurationMs": 5651,
+    "segs": [ {
+      "utf8": "us since we've made this robot to explore\ndifferent ideas for space exploration projects."
+    } ]
+  }, {
+    "tStartMs": 426190,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "So one of the things that they're thinking\nabout doing is deploying robots underneath"
+    } ]
+  }, {
+    "tStartMs": 429620,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "a sheet of ice. So they're gonna drill through\nthis sheet of ice and then deposit a robot"
+    } ]
+  }, {
+    "tStartMs": 434770,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "through what is a kind of a small diameter\nhole. And so if you can have a robot that"
+    } ]
+  }, {
+    "tStartMs": 439350,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "can change its volume very drastically or\nbe disassembled and then reassembled to form"
+    } ]
+  }, {
+    "tStartMs": 444910,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "like a much larger structure. Then you can\nhave large robots that are able to fit through"
+    } ]
+  }, {
+    "tStartMs": 449910,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "these tight spaces and be deployed in kind\nof difficult to access areas."
+    } ]
+  }, {
+    "tStartMs": 453670,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "- Is this a little bit like an octopus? Is\nthat how you could think of it?"
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "- There is some connection there because they\nuse their shape changing ability and their"
+    } ]
+  }, {
+    "tStartMs": 461630,
+    "dDurationMs": 6039,
+    "segs": [ {
+      "utf8": "compliance to squeeze through tight passageways,\nand then also to wrap their body around objects."
+    } ]
+  }, {
+    "tStartMs": 467669,
+    "dDurationMs": 3631,
+    "segs": [ {
+      "utf8": "So for example, they can open jars with their\ntentacles, and one of the things that we want"
+    } ]
+  }, {
+    "tStartMs": 471300,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "to use this robot for is grasping and manipulating\nobjects."
+    } ]
+  }, {
+    "tStartMs": 474720,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "- So this robot is even capable of picking\nobjects up off the ground."
+    } ]
+  }, {
+    "tStartMs": 479620,
+    "dDurationMs": 10769,
+    "segs": [ {
+      "utf8": "- We'll try that and see if we can grab it.\nBecause of the compliance of the tubes, it"
+    } ]
+  }, {
+    "tStartMs": 490389,
+    "dDurationMs": 4981,
+    "segs": [ {
+      "utf8": "has a natural ability to grasp and manipulate\nobjects because as it does so, the tubes bend"
+    } ]
+  }, {
+    "tStartMs": 495370,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "ever so slightly, which increases the contact\narea and distributes evenly, the forces that"
+    } ]
+  }, {
+    "tStartMs": 500889,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "are exerted on the object."
+    } ]
+  }, {
+    "tStartMs": 502479,
+    "dDurationMs": 3011,
+    "segs": [ {
+      "utf8": "- So, I mean is the biggest risk if it pops?"
+    } ]
+  }, {
+    "tStartMs": 505490,
+    "dDurationMs": 6989,
+    "segs": [ {
+      "utf8": "- Yeah, that's a a big risk. I mean you obviously\nneed the compressed air for your structure"
+    } ]
+  }, {
+    "tStartMs": 512479,
+    "dDurationMs": 9370,
+    "segs": [ {
+      "utf8": "and so if you have a leak. Oh. Then you don't\nhave a robot, right?"
+    } ]
+  }, {
+    "tStartMs": 521849,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "- It's a pretty big drawback of soft robots."
+    } ]
+  }, {
+    "tStartMs": 525819,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "- You know, some things that you could do\nto mitigate that would be to have onboard"
+    } ]
+  }, {
+    "tStartMs": 528839,
+    "dDurationMs": 6081,
+    "segs": [ {
+      "utf8": "a small compressor, which isn't there to provide\npower to the robot, but would help you maintain"
+    } ]
+  }, {
+    "tStartMs": 534920,
+    "dDurationMs": 2439,
+    "segs": [ {
+      "utf8": "pressure, if there were any small leaks."
+    } ]
+  }, {
+    "tStartMs": 537359,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "- when you tell someone you're working on\na robot and they see this, does it defy expectations?"
+    } ]
+  }, {
+    "tStartMs": 541289,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "- Totally. They have no idea what it is I'm\ntalking about until I show them like a video"
+    } ]
+  }, {
+    "tStartMs": 546389,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "or a picture. I think most people's conception\nof soft robots was really expanded by the"
+    } ]
+  }, {
+    "tStartMs": 552339,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "movie Big Hero 6. And I think they did a great\njob in kind of showcasing what a soft robot"
+    } ]
+  }, {
+    "tStartMs": 557809,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "can do and why they're useful, and kind of\njust popularizing the notion. It's really"
+    } ]
+  }, {
+    "tStartMs": 561850,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "great to have compliance built into any mechanical\nsystem, especially as we want robots to work"
+    } ]
+  }, {
+    "tStartMs": 567399,
+    "dDurationMs": 4211,
+    "segs": [ {
+      "utf8": "closer and closer with humans. So I think\nwe'll definitely see more soft robots in the"
+    } ]
+  }, {
+    "tStartMs": 571610,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "future."
+    } ]
+  }, {
+    "tStartMs": 573810,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "- Hey, this video was sponsored by KiwiCo\nand since I was up in the Bay Area, I got"
+    } ]
+  }, {
+    "tStartMs": 579980,
+    "dDurationMs": 5409,
+    "segs": [ {
+      "utf8": "to visit KiwiCo headquarters which was mostly\nempty because COVID, but I met with a few"
+    } ]
+  }, {
+    "tStartMs": 585389,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "designers who make the awesome projects that\ncome in KiwiCo crates."
+    } ]
+  }, {
+    "tStartMs": 589279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- There you go."
+    } ]
+  }, {
+    "tStartMs": 590279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "- Oh boy."
+    } ]
+  }, {
+    "tStartMs": 591279,
+    "dDurationMs": 4202,
+    "segs": [ {
+      "utf8": "- And I'm not gonna lie, it kind of seems\nlike the best job. I was in awe of some of"
+    } ]
+  }, {
+    "tStartMs": 595481,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "the ideas they have brought to life. Dude,\nthat's cool. Look at that. You know, KiwiCo"
+    } ]
+  }, {
+    "tStartMs": 600461,
+    "dDurationMs": 5068,
+    "segs": [ {
+      "utf8": "offers eight subscription lines for kids of\nall ages and everything you need comes right"
+    } ]
+  }, {
+    "tStartMs": 605529,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "in the box, so that means no running out to\nthe store. Each create, not only gets kids"
+    } ]
+  }, {
+    "tStartMs": 613161,
+    "dDurationMs": 4361,
+    "segs": [ {
+      "utf8": "If I can get them learning little things every\nday that can all add up to a big perspective"
+    } ]
+  }, {
+    "tStartMs": 617522,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "change in how they see the world. So for viewers\nof this video, KiwiCo is offering 50% off"
+    } ]
+  }, {
+    "tStartMs": 622482,
+    "dDurationMs": 6019,
+    "segs": [ {
+      "utf8": "your first month of any crate. Just go to\nkiwico.com/veritasium50 I will put that link"
+    } ]
+  }, {
+    "tStartMs": 628501,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "down in the description. So I want to thank\nKiwiCo for sponsoring Veritasium and I want"
+    } ]
+  }, {
+    "tStartMs": 632691,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "to thank you for watching."
+    } ]
+  } ]
+}

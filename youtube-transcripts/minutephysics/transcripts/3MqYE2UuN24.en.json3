@@ -1,0 +1,187 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 210,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "On those cold, rainy days when you forget\nyour rain jacket or umbrella and you want"
+    } ]
+  }, {
+    "tStartMs": 3580,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "to stay as dry as possible… should you walk\nand spend more time in the rain? Or should"
+    } ]
+  }, {
+    "tStartMs": 7790,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "you run, which means you'll be smashing into\nmore raindrops from the side?"
+    } ]
+  }, {
+    "tStartMs": 11160,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "Assuming you haven't been fully soaked yet\nand you aren't jumping into puddles, the answer"
+    } ]
+  }, {
+    "tStartMs": 14950,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "is simple. As you move out of the way of one\nfalling raindrop, you move into the way of"
+    } ]
+  }, {
+    "tStartMs": 18880,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "another. So the amount of rain hitting the\ntop of you is constant, regardless of how"
+    } ]
+  }, {
+    "tStartMs": 22169,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "fast you're going. Alternatively, you can\npicture that the raindrops themselves are"
+    } ]
+  }, {
+    "tStartMs": 25179,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "stationary and you (and the earth beneath\nyou) are moving upwards through the rain!"
+    } ]
+  }, {
+    "tStartMs": 28919,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And since the volume of a parallelepiped (that's\na 3D parallelogram) doesn't depend at all"
+    } ]
+  }, {
+    "tStartMs": 32759,
+    "dDurationMs": 3831,
+    "segs": [ {
+      "utf8": "on its slant, then no matter how fast you're\nmoving horizontally the same amount of rain"
+    } ]
+  }, {
+    "tStartMs": 36590,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "will land on top of you each second."
+    } ]
+  }, {
+    "tStartMs": 38460,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Now, if you're not moving, the rain from the\ntop is all you'll get. But if you ARE moving,"
+    } ]
+  }, {
+    "tStartMs": 42600,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": "you'll also run into raindrops from the side\nand you'll get wetter. So in any given second,"
+    } ]
+  }, {
+    "tStartMs": 46739,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "you stay driest by standing still, and the\nfaster you move the wetter you become."
+    } ]
+  }, {
+    "tStartMs": 50539,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "But if you're trying to get from point A to\npoint B, then standing still won't do you"
+    } ]
+  }, {
+    "tStartMs": 54249,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "much good. And en route from point A to point\nB, the total amount of rain you run into from"
+    } ]
+  }, {
+    "tStartMs": 58420,
+    "dDurationMs": 4369,
+    "segs": [ {
+      "utf8": "the side has nothing to do with how fast you're\ngoing - just like how a snowplow will plow"
+    } ]
+  }, {
+    "tStartMs": 62789,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "the same amount of snow from a stretch of\nroad regardless of the exact speed it drives."
+    } ]
+  }, {
+    "tStartMs": 67060,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "In the case of running through the rain, you\ncan figure that out using parallelepipeds"
+    } ]
+  }, {
+    "tStartMs": 70320,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "again."
+    } ]
+  }, {
+    "tStartMs": 71159,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "So over a given period of time, the same amount\nof rain will hit you from the top, regardless"
+    } ]
+  }, {
+    "tStartMs": 74680,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "of how fast you're going. And over a given\ndistance, you'll hit the same amount of rain"
+    } ]
+  }, {
+    "tStartMs": 78090,
+    "dDurationMs": 2819,
+    "segs": [ {
+      "utf8": "from the side - again, regardless of how fast\nyou're going."
+    } ]
+  }, {
+    "tStartMs": 80909,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So your total wetness is equal to the wetness\nper second for rain from the top times the"
+    } ]
+  }, {
+    "tStartMs": 84829,
+    "dDurationMs": 3731,
+    "segs": [ {
+      "utf8": "amount of time you spend in the rain, plus\nthe wetness per meter for rain from the side"
+    } ]
+  }, {
+    "tStartMs": 88560,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "times the number of meters you travel."
+    } ]
+  }, {
+    "tStartMs": 90479,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "So to stay driest getting from one point to\nanother, you should try to minimize the amount"
+    } ]
+  }, {
+    "tStartMs": 93869,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "of water falling onto you from above. And\nquite simply, that means getting out of the"
+    } ]
+  }, {
+    "tStartMs": 97549,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "rain as fast as possible."
+    } ]
+  } ]
+}

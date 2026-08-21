@@ -1,0 +1,3541 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 83,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "As a 42 year old who's\nspent most of my life studying physics,"
+    } ]
+  }, {
+    "tStartMs": 3545,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "I must admit\nthat I had a big misconception."
+    } ]
+  }, {
+    "tStartMs": 6756,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "I believed that every object\nhas one single trajectory"
+    } ]
+  }, {
+    "tStartMs": 10468,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "through space, one single path."
+    } ]
+  }, {
+    "tStartMs": 12971,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "But in this video, I will prove to you\nthat this is not the case."
+    } ]
+  }, {
+    "tStartMs": 17392,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "Everything is actually exploring\nall possible paths all at once."
+    } ]
+  }, {
+    "tStartMs": 22564,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "So let's start with a simple thought\nexperiment."
+    } ]
+  }, {
+    "tStartMs": 25567,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "Say you're at a beach when all of a sudden"
+    } ]
+  }, {
+    "tStartMs": 27944,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "you see your friend\nstruggling out in the water."
+    } ]
+  }, {
+    "tStartMs": 31406,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "You want to go help them\nas quickly as possible."
+    } ]
+  }, {
+    "tStartMs": 34075,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "So which path\nshould you take to get there?"
+    } ]
+  }, {
+    "tStartMs": 38204,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "The shortest path is a straight line,\nso you could head directly towards him."
+    } ]
+  }, {
+    "tStartMs": 43209,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "But you can run faster than you can swim,\nand this path requires more swimming."
+    } ]
+  }, {
+    "tStartMs": 48631,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "So alternatively,\nyou could run down the beach"
+    } ]
+  }, {
+    "tStartMs": 51509,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "to minimize the\ndistance through the water."
+    } ]
+  }, {
+    "tStartMs": 54721,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "But now"
+    } ]
+  }, {
+    "tStartMs": 55555,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "the total\ndistance is longer than it needs to be."
+    } ]
+  }, {
+    "tStartMs": 58683,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "So the optimal path,\nit turns out, is somewhere in between."
+    } ]
+  }, {
+    "tStartMs": 63354,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "To be precise, it depends on the speeds\nat which you can run and swim."
+    } ]
+  }, {
+    "tStartMs": 68526,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "Now, you might recognize this\nmathematical relationship because it is"
+    } ]
+  }, {
+    "tStartMs": 72030,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "the exact same law that governs light\npassing from one medium into another."
+    } ]
+  }, {
+    "tStartMs": 76993,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So light also takes the fastest\npath from point A to point B."
+    } ]
+  }, {
+    "tStartMs": 81873,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "What's weird about this is that as humans,"
+    } ]
+  }, {
+    "tStartMs": 84209,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "we can see where we want to go\nand then figure out the fastest route."
+    } ]
+  }, {
+    "tStartMs": 88463,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "But light, I mean, how does light know"
+    } ]
+  }, {
+    "tStartMs": 91257,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "how to travel\nto minimize its journey time?"
+    } ]
+  }, {
+    "tStartMs": 94677,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Now here is where\nmy misconception comes in."
+    } ]
+  }, {
+    "tStartMs": 97138,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "I shine a laser beam."
+    } ]
+  }, {
+    "tStartMs": 98348,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "The light just goes in one direction.\nI throw a ball."
+    } ]
+  }, {
+    "tStartMs": 100350,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "The ball just goes in one direction,\nyou know?"
+    } ]
+  }, {
+    "tStartMs": 102018,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "I would have answered,\nthere is nothing strange about this."
+    } ]
+  }, {
+    "tStartMs": 105522,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "Light sets off from point A\nin some direction."
+    } ]
+  }, {
+    "tStartMs": 108858,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "And then a little while later\nit encounters a new medium."
+    } ]
+  }, {
+    "tStartMs": 112070,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "And due to local interactions\nwith that medium,"
+    } ]
+  }, {
+    "tStartMs": 115115,
+    "dDurationMs": 3294,
+    "segs": [ {
+      "utf8": "it changes direction,\nending up at point B."
+    } ]
+  }, {
+    "tStartMs": 118409,
+    "dDurationMs": 4422,
+    "segs": [ {
+      "utf8": "If you later find that of all the possible\npaths, light took the shortest time"
+    } ]
+  }, {
+    "tStartMs": 122831,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "to get from A to B, I wouldn't\nthink it was optimizing for anything."
+    } ]
+  }, {
+    "tStartMs": 127127,
+    "dDurationMs": 4045,
+    "segs": [ {
+      "utf8": "I would just think that's what happens\nwhen light obeys local rules."
+    } ]
+  }, {
+    "tStartMs": 131172,
+    "dDurationMs": 5297,
+    "segs": [ {
+      "utf8": "But now I will prove to you that light\ndoesn't set out in only one direction."
+    } ]
+  }, {
+    "tStartMs": 136469,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Instead, it really does explore all possible paths."
+    } ]
+  }, {
+    "tStartMs": 140223,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "And the same is true for electrons\nand protons."
+    } ]
+  }, {
+    "tStartMs": 143226,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "All quantum particles."
+    } ]
+  }, {
+    "tStartMs": 145145,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "So the fact that we see things on single,\nwell-defined trajectories"
+    } ]
+  }, {
+    "tStartMs": 149107,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "is, in a way, the most convincing illusion\nnature has ever devised."
+    } ]
+  }, {
+    "tStartMs": 154028,
+    "dDurationMs": 6465,
+    "segs": [ {
+      "utf8": "And the way it works all comes down to a\nquantity known as the action."
+    } ]
+  }, {
+    "tStartMs": 160493,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "In a previous video, we showed\nhow an obscure scientist, Maupertuis,"
+    } ]
+  }, {
+    "tStartMs": 164664,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "made an ad hoc proposal\nthat there should be a quantity"
+    } ]
+  }, {
+    "tStartMs": 167584,
+    "dDurationMs": 5755,
+    "segs": [ {
+      "utf8": "called action, which he defined\nas mass times velocity times distance."
+    } ]
+  }, {
+    "tStartMs": 173339,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "And he claimed that everything\nalways follows the path that minimizes"
+    } ]
+  }, {
+    "tStartMs": 177719,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "the action."
+    } ]
+  }, {
+    "tStartMs": 179596,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Hamilton later showed that this action\nis equivalent to the integral"
+    } ]
+  }, {
+    "tStartMs": 183183,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "over time of kinetic energy\nminus potential energy."
+    } ]
+  }, {
+    "tStartMs": 187812,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "Action was useful and an alternative way\nof solving physics problems,"
+    } ]
+  }, {
+    "tStartMs": 192108,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "especially when Newton's laws\nget too cumbersome."
+    } ]
+  }, {
+    "tStartMs": 195069,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "But then, around the turn of the 20th\ncentury, action showed up at the heart"
+    } ]
+  }, {
+    "tStartMs": 199866,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "of a scientific revolution:\nthe birth of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 205538,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "It all started with electric\nlighting in Germany."
+    } ]
+  }, {
+    "tStartMs": 208583,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Think about what it's like in the 1890s,\nright?"
+    } ]
+  }, {
+    "tStartMs": 210877,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "Electricity being more widely available,\nat least in urban sectors."
+    } ]
+  }, {
+    "tStartMs": 214589,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "And things like, you know, light bulbs."
+    } ]
+  }, {
+    "tStartMs": 216716,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "They were new."
+    } ]
+  }, {
+    "tStartMs": 217592,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "They were literally the hot new thing."
+    } ]
+  }, {
+    "tStartMs": 219719,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Germany wanted to replace all their gas\nstreet lights with electric light bulbs."
+    } ]
+  }, {
+    "tStartMs": 224349,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "So an important question was\nhow do you maximize"
+    } ]
+  }, {
+    "tStartMs": 227310,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "the visible light\ngiven off by a hot filament?"
+    } ]
+  }, {
+    "tStartMs": 230521,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "Scientists at a German research\ninstitute, the PTR, studied"
+    } ]
+  }, {
+    "tStartMs": 234359,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "how much light different materials\nemitted as a function of temperature."
+    } ]
+  }, {
+    "tStartMs": 239197,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "At low temperatures, each material\ngave off its own characteristic spectrum,"
+    } ]
+  }, {
+    "tStartMs": 243368,
+    "dDurationMs": 5213,
+    "segs": [ {
+      "utf8": "mostly in the infrared,\nbut above about 500°C"
+    } ]
+  }, {
+    "tStartMs": 248581,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "all materials started to glow\nin the same way,"
+    } ]
+  }, {
+    "tStartMs": 252293,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "with an almost identical\ndistribution of light."
+    } ]
+  }, {
+    "tStartMs": 255964,
+    "dDurationMs": 2877,
+    "segs": [ {
+      "utf8": "The hotter the object,\nthe more energy was emitted"
+    } ]
+  }, {
+    "tStartMs": 258841,
+    "dDurationMs": 6424,
+    "segs": [ {
+      "utf8": "at every wavelength, and the peak\nof the distribution shifted to the left."
+    } ]
+  }, {
+    "tStartMs": 265265,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "But they still didn't understand\nhow it worked theoretically."
+    } ]
+  }, {
+    "tStartMs": 268226,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "So that was sort of the next step, right?"
+    } ]
+  }, {
+    "tStartMs": 270561,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "If you can understand how it works\ntheoretically,"
+    } ]
+  }, {
+    "tStartMs": 273356,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "then you can use that theory\nto potentially design your products."
+    } ]
+  }, {
+    "tStartMs": 276734,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "They started by imagining\nthe simplest object possible,"
+    } ]
+  }, {
+    "tStartMs": 280071,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "one that would absorb all light\nthat falls onto it"
+    } ]
+  }, {
+    "tStartMs": 283449,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "and perfectly emit radiation\nbased on its temperature."
+    } ]
+  }, {
+    "tStartMs": 287745,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "They came up with a hole in a metal cube."
+    } ]
+  }, {
+    "tStartMs": 292000,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "This hole is a perfect blackbody\nbecause any light that shines onto"
+    } ]
+  }, {
+    "tStartMs": 296254,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "it will go straight in, bounce\naround inside, and eventually be absorbed."
+    } ]
+  }, {
+    "tStartMs": 300300,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "But this also makes it a perfect emitter."
+    } ]
+  }, {
+    "tStartMs": 302760,
+    "dDurationMs": 5756,
+    "segs": [ {
+      "utf8": "Any radiation inside the cube can escape\nthrough the hole unimpeded."
+    } ]
+  }, {
+    "tStartMs": 308516,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "Theorists reasoned that electrons\nin the walls of the cube"
+    } ]
+  }, {
+    "tStartMs": 311602,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "would wiggle around,\nemitting electromagnetic waves."
+    } ]
+  }, {
+    "tStartMs": 315148,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "These waves\nwould then bounce off the other walls."
+    } ]
+  }, {
+    "tStartMs": 319319,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "When you have two waves\nof the same frequency,"
+    } ]
+  }, {
+    "tStartMs": 321779,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "where one travels to the right\nand the other to the left,"
+    } ]
+  }, {
+    "tStartMs": 324907,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "they can interfere in such a way"
+    } ]
+  }, {
+    "tStartMs": 326909,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "that they create places\nwhere there's no wave amplitude"
+    } ]
+  }, {
+    "tStartMs": 329996,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "those are nodes, and places where there is\nmaximum wave amplitude,"
+    } ]
+  }, {
+    "tStartMs": 334334,
+    "dDurationMs": 3878,
+    "segs": [ {
+      "utf8": "the anti nodes. Waves like this are called\nstanding waves"
+    } ]
+  }, {
+    "tStartMs": 338212,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "because they don't really move left\nor right"
+    } ]
+  }, {
+    "tStartMs": 341758,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "and inside a cavity,\ngiven enough time and reflections."
+    } ]
+  }, {
+    "tStartMs": 345303,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "It is only these standing waves\nthat survive."
+    } ]
+  }, {
+    "tStartMs": 348056,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "All the other ones just cancel out."
+    } ]
+  }, {
+    "tStartMs": 351184,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "So a sort of order emerges from the chaos."
+    } ]
+  }, {
+    "tStartMs": 357273,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "In two dimensions, standing waves\nlook something like this."
+    } ]
+  }, {
+    "tStartMs": 360818,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "For shorter wavelengths\nor higher frequencies, you can fit more"
+    } ]
+  }, {
+    "tStartMs": 364322,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "and more different vibrational modes."
+    } ]
+  }, {
+    "tStartMs": 366324,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "Inside this cube,"
+    } ]
+  }, {
+    "tStartMs": 368951,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "so that in three\ndimensions, the total number of modes"
+    } ]
+  }, {
+    "tStartMs": 371788,
+    "dDurationMs": 4462,
+    "segs": [ {
+      "utf8": "is proportional to frequency cubed,\nor one over lambda cubed."
+    } ]
+  }, {
+    "tStartMs": 376250,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "The expectation was\nthere would be more and more waves"
+    } ]
+  }, {
+    "tStartMs": 379379,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "inside the cube,\nthe shorter the wavelength."
+    } ]
+  }, {
+    "tStartMs": 382465,
+    "dDurationMs": 5297,
+    "segs": [ {
+      "utf8": "This led directly to the Rayleigh-Jeans law.\nAt longer wavelengths."
+    } ]
+  }, {
+    "tStartMs": 387762,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "It matched the experimental data\npretty well,"
+    } ]
+  }, {
+    "tStartMs": 390932,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "but at shorter wavelengths\nthe theory diverged from experiment."
+    } ]
+  }, {
+    "tStartMs": 395520,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "In fact, it predicted\nthat at the shortest wavelengths,"
+    } ]
+  }, {
+    "tStartMs": 398606,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "an infinite amount of energy\nwould be emitted."
+    } ]
+  }, {
+    "tStartMs": 402527,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "This, for obvious reasons, became known"
+    } ]
+  }, {
+    "tStartMs": 404946,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "as the ultraviolet catastrophe."
+    } ]
+  }, {
+    "tStartMs": 409909,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "The person to solve\nthis problem was Max Planck,"
+    } ]
+  }, {
+    "tStartMs": 413204,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "but Planck almost didn't\nmake it into studying physics,"
+    } ]
+  }, {
+    "tStartMs": 416791,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "because when he was 16 years old,\nhe went up to his professor and asked him,"
+    } ]
+  }, {
+    "tStartMs": 421421,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "well,\nmaybe I could do a career in physics."
+    } ]
+  }, {
+    "tStartMs": 424132,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "To which his professor responded\nthat he'd better find another field"
+    } ]
+  }, {
+    "tStartMs": 427343,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "to do research in, because physics\nwas essentially a complete science."
+    } ]
+  }, {
+    "tStartMs": 431347,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "You know, there was just a few tiny\nlittle problems that they had to clean up."
+    } ]
+  }, {
+    "tStartMs": 435810,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "But besides that, it was over."
+    } ]
+  }, {
+    "tStartMs": 439105,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "But Planck didn't listen."
+    } ]
+  }, {
+    "tStartMs": 441274,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "By 1897, he was a professor himself,\nand for the next three years he struggled"
+    } ]
+  }, {
+    "tStartMs": 446446,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "to find a theoretical explanation\nfor blackbody radiation."
+    } ]
+  }, {
+    "tStartMs": 450116,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "He tried approach after approach,\nbut no matter what, he tried."
+    } ]
+  }, {
+    "tStartMs": 454287,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Nothing worked."
+    } ]
+  }, {
+    "tStartMs": 455997,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "He said I was ready to sacrifice\nevery one of my previous convictions"
+    } ]
+  }, {
+    "tStartMs": 460168,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "about physical laws."
+    } ]
+  }, {
+    "tStartMs": 464547,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Then, in a quote ‘act of desperation’,"
+    } ]
+  }, {
+    "tStartMs": 467133,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "he did something\nno one had thought to try."
+    } ]
+  }, {
+    "tStartMs": 470428,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "According to classical physics,\nthe energy of an electromagnetic wave"
+    } ]
+  }, {
+    "tStartMs": 473598,
+    "dDurationMs": 4754,
+    "segs": [ {
+      "utf8": "depends only on its amplitude,\nnot its wavelength or frequency."
+    } ]
+  }, {
+    "tStartMs": 478352,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "And it could take any arbitrary value."
+    } ]
+  }, {
+    "tStartMs": 481564,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "So any atom could emit\nany wavelength of light"
+    } ]
+  }, {
+    "tStartMs": 484233,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "with an arbitrarily\nsmall amount of energy."
+    } ]
+  }, {
+    "tStartMs": 487945,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "But Planck tried restricting the energy"
+    } ]
+  }, {
+    "tStartMs": 490114,
+    "dDurationMs": 4088,
+    "segs": [ {
+      "utf8": "so that it could only come in multiples\nof a smallest amount."
+    } ]
+  }, {
+    "tStartMs": 494202,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "A quantum."
+    } ]
+  }, {
+    "tStartMs": 495953,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "And he made the energy of"
+    } ]
+  }, {
+    "tStartMs": 497288,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "one quantum\ndirectly proportional to its frequency."
+    } ]
+  }, {
+    "tStartMs": 501083,
+    "dDurationMs": 6173,
+    "segs": [ {
+      "utf8": "E equals hf, where h is just a constant."
+    } ]
+  }, {
+    "tStartMs": 507256,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Think about what this does"
+    } ]
+  }, {
+    "tStartMs": 508341,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "to the radiation coming from the blackbody\nat a given temperature."
+    } ]
+  }, {
+    "tStartMs": 511886,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "The atoms in the cavity\nhave a range of energies."
+    } ]
+  }, {
+    "tStartMs": 514972,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "Some have a little bit."
+    } ]
+  }, {
+    "tStartMs": 516224,
+    "dDurationMs": 4587,
+    "segs": [ {
+      "utf8": "A few have a lot, and most of their energy\nsomewhere in between."
+    } ]
+  }, {
+    "tStartMs": 520811,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "For long wavelength\nlow frequency radiation, the energy"
+    } ]
+  }, {
+    "tStartMs": 524690,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "HF of one quantum is small,\nso all of the atoms have enough energy"
+    } ]
+  }, {
+    "tStartMs": 529570,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "to emit this wavelength,"
+    } ]
+  }, {
+    "tStartMs": 531030,
+    "dDurationMs": 4796,
+    "segs": [ {
+      "utf8": "and the spectrum matches\nthe really gene's prediction very well."
+    } ]
+  }, {
+    "tStartMs": 535826,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "But at shorter\nwavelengths, higher frequencies,"
+    } ]
+  }, {
+    "tStartMs": 538621,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "the energy of a quantum increases."
+    } ]
+  }, {
+    "tStartMs": 541332,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "And now not all of the atoms have\nenough energy to emit that wavelength."
+    } ]
+  }, {
+    "tStartMs": 546504,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "This is why experiment diverges\nfrom the classical prediction."
+    } ]
+  }, {
+    "tStartMs": 550299,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "The spectrum peaks\nand then starts to fall because fewer"
+    } ]
+  }, {
+    "tStartMs": 554428,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "and fewer atoms have enough energy\nto emit one quantum of that radiation."
+    } ]
+  }, {
+    "tStartMs": 559350,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "And there comes a point"
+    } ]
+  }, {
+    "tStartMs": 560518,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "when none of the atoms have enough energy\nto emit one quantum."
+    } ]
+  }, {
+    "tStartMs": 564480,
+    "dDurationMs": 4505,
+    "segs": [ {
+      "utf8": "So here the spectrum must drop to zero."
+    } ]
+  }, {
+    "tStartMs": 568985,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "With this approach, Planck got a new formula\nfor the radiation spectrum."
+    } ]
+  }, {
+    "tStartMs": 573239,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "Now all that was left for him to do\nwas to tune the parameter h."
+    } ]
+  }, {
+    "tStartMs": 576492,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "And when he did this just right,\nhe got his formula to match up"
+    } ]
+  }, {
+    "tStartMs": 579495,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "perfectly with experiment."
+    } ]
+  }, {
+    "tStartMs": 584834,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "But he was sort of troubled"
+    } ]
+  }, {
+    "tStartMs": 587003,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "by his own formula because to him\nit was just a mathematical trick."
+    } ]
+  }, {
+    "tStartMs": 590756,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "He had no clue why it worked."
+    } ]
+  }, {
+    "tStartMs": 592341,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "It was purely formal."
+    } ]
+  }, {
+    "tStartMs": 594343,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "And most importantly,\nhe had no clue what this H represented."
+    } ]
+  }, {
+    "tStartMs": 598639,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "I mean, he had introduced a new\nphysical constant without any reason."
+    } ]
+  }, {
+    "tStartMs": 603978,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "He wrote a theoretical interpretation"
+    } ]
+  }, {
+    "tStartMs": 606022,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "had to be found at any cost,\nno matter how high."
+    } ]
+  }, {
+    "tStartMs": 609650,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "So from that moment\non, he dedicated himself to finding one."
+    } ]
+  }, {
+    "tStartMs": 614113,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "He later reflected that after some weeks\nof the most strenuous work of my life,"
+    } ]
+  }, {
+    "tStartMs": 618659,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "light came into the darkness\nand a new undreamed of perspective"
+    } ]
+  }, {
+    "tStartMs": 623080,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "opened up before me."
+    } ]
+  }, {
+    "tStartMs": 627877,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "He introduces\nwhat we now call Planck's constant,"
+    } ]
+  }, {
+    "tStartMs": 631589,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "and it has the units of action. Planck's\nconstant, h"
+    } ]
+  }, {
+    "tStartMs": 635635,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "is a quantum of action."
+    } ]
+  }, {
+    "tStartMs": 638638,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Planck later proposed that any time\nany change happened in nature,"
+    } ]
+  }, {
+    "tStartMs": 642475,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "it would be some whole multiple\nof this quantum of action."
+    } ]
+  }, {
+    "tStartMs": 646729,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "So it's kind of spooky, this breakthrough\nthat starts the ball rolling toward"
+    } ]
+  }, {
+    "tStartMs": 651192,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "quantum theory brings action in not energy"
+    } ]
+  }, {
+    "tStartMs": 656113,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "and not force. Action. Gives you a hint."
+    } ]
+  }, {
+    "tStartMs": 661452,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "At first, the quantum of action\ngot little attention."
+    } ]
+  }, {
+    "tStartMs": 665122,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "That is, until a 26 year old patent clerk"
+    } ]
+  }, {
+    "tStartMs": 667917,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "came on the scene."
+    } ]
+  }, {
+    "tStartMs": 671212,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "In 1905, Albert"
+    } ]
+  }, {
+    "tStartMs": 672755,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "Einstein claimed that Planck's theory\nwasn't just a mathematical trick."
+    } ]
+  }, {
+    "tStartMs": 677176,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "It was telling us\nthat light actually comes in discrete"
+    } ]
+  }, {
+    "tStartMs": 680554,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "packets,\nor photons, each with an energy HF."
+    } ]
+  }, {
+    "tStartMs": 684684,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "Einstein used this insight\nto explain the photoelectric effect"
+    } ]
+  }, {
+    "tStartMs": 687895,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "how light can eject electrons from metal,\nbut only when"
+    } ]
+  }, {
+    "tStartMs": 691565,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "the frequency is high enough."
+    } ]
+  }, {
+    "tStartMs": 693192,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "If the frequency is too low,"
+    } ]
+  }, {
+    "tStartMs": 694777,
+    "dDurationMs": 5505,
+    "segs": [ {
+      "utf8": "no electrons will be emitted\nregardless of the intensity."
+    } ]
+  }, {
+    "tStartMs": 700282,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "The idea of quantization spread."
+    } ]
+  }, {
+    "tStartMs": 704245,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Eight years later,\nNiels Bohr was trying to understand"
+    } ]
+  }, {
+    "tStartMs": 706831,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "how an atom is stable\nif it has a positive charge in the center"
+    } ]
+  }, {
+    "tStartMs": 710668,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "and negative electrons whizzing around it."
+    } ]
+  }, {
+    "tStartMs": 713212,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Why don't they just spiral\ninto the nucleus, radiating their energy"
+    } ]
+  }, {
+    "tStartMs": 716757,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "as they go?"
+    } ]
+  }, {
+    "tStartMs": 718050,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "And what he wants to do is,\nhe says there's something fishy"
+    } ]
+  }, {
+    "tStartMs": 720886,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "about something being discrete\nthat seems to be the new ambiguous weirdo"
+    } ]
+  }, {
+    "tStartMs": 725474,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "lesson of the new quantum of action. Bohr\nrealizes that as the electron"
+    } ]
+  }, {
+    "tStartMs": 730104,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "goes around the nucleus,\nit has an angular momentum."
+    } ]
+  }, {
+    "tStartMs": 733733,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Mass times velocity times radius."
+    } ]
+  }, {
+    "tStartMs": 737278,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "So angular momentum\nhas the same units as action."
+    } ]
+  }, {
+    "tStartMs": 741907,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "And so what he decides to do is discretize\nthe orbital angular momentum."
+    } ]
+  }, {
+    "tStartMs": 745870,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "For no good reason"
+    } ]
+  }, {
+    "tStartMs": 747329,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "he says, let me slap that on and say,\nand imagine the electron can only be in"
+    } ]
+  }, {
+    "tStartMs": 750624,
+    "dDurationMs": 4088,
+    "segs": [ {
+      "utf8": "one unit, two units,\nthree units of the same quantity H."
+    } ]
+  }, {
+    "tStartMs": 754712,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "And because it's talking about motion\nin a circle, the factors two pi come in."
+    } ]
+  }, {
+    "tStartMs": 758090,
+    "dDurationMs": 4672,
+    "segs": [ {
+      "utf8": "So is really nh over two pi,\nwhat we now call an h bar."
+    } ]
+  }, {
+    "tStartMs": 762762,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "This comes out of nowhere."
+    } ]
+  }, {
+    "tStartMs": 764305,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "There seems like\nabsolutely no good reason why"
+    } ]
+  }, {
+    "tStartMs": 767224,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "angular momentum should be quantized."
+    } ]
+  }, {
+    "tStartMs": 770186,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "But by doing it, Bohr finds the correct\nenergy levels of the hydrogen atom."
+    } ]
+  }, {
+    "tStartMs": 774565,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "When an electron jumps from a higher orbit\nto a lower one, the energy difference"
+    } ]
+  }, {
+    "tStartMs": 779195,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "is given off as a photon\nof a particular color of light."
+    } ]
+  }, {
+    "tStartMs": 783115,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "Exactly reproducing the hydrogen spectrum."
+    } ]
+  }, {
+    "tStartMs": 786327,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "And that was a pretty startling thing\nto have fall out."
+    } ]
+  }, {
+    "tStartMs": 789580,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "I think that really was compelling."
+    } ]
+  }, {
+    "tStartMs": 791791,
+    "dDurationMs": 5922,
+    "segs": [ {
+      "utf8": "Take some quantity with the unit of action\nand apply some, again, kind of ad hoc,"
+    } ]
+  }, {
+    "tStartMs": 797713,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "discretization or quantization to it."
+    } ]
+  }, {
+    "tStartMs": 800758,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Now, although it worked\nspectacularly well,"
+    } ]
+  }, {
+    "tStartMs": 803093,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "no one can make sense of it."
+    } ]
+  }, {
+    "tStartMs": 806138,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "That is until 11 years later."
+    } ]
+  }, {
+    "tStartMs": 809683,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "For his PhD,"
+    } ]
+  }, {
+    "tStartMs": 811227,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "Louis de Broglie was contemplating\nthe recent discoveries in physics."
+    } ]
+  }, {
+    "tStartMs": 815231,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "And his big insight was that if light\ncould be both a wave and a particle,"
+    } ]
+  }, {
+    "tStartMs": 819860,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "then maybe matter"
+    } ]
+  }, {
+    "tStartMs": 820945,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "particles could also be waves."
+    } ]
+  }, {
+    "tStartMs": 824448,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "He proposed that everything."
+    } ]
+  }, {
+    "tStartMs": 826242,
+    "dDurationMs": 5922,
+    "segs": [ {
+      "utf8": "Electrons, basketballs, people,\nabsolutely everything has a wavelength."
+    } ]
+  }, {
+    "tStartMs": 832164,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "And he defined this wavelength\nanalogously to light as Planck's"
+    } ]
+  }, {
+    "tStartMs": 836126,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "constant,\ndivided by the particles momentum or"
+    } ]
+  }, {
+    "tStartMs": 839129,
+    "dDurationMs": 4505,
+    "segs": [ {
+      "utf8": "mass times velocity."
+    } ]
+  }, {
+    "tStartMs": 843634,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "Now, if an electron is a wave,\nthe only way it could stay bound"
+    } ]
+  }, {
+    "tStartMs": 847972,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "to a nucleus in an atom is\nif it exists as a standing wave."
+    } ]
+  }, {
+    "tStartMs": 852685,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "That requires\nthat a whole number of wavelengths"
+    } ]
+  }, {
+    "tStartMs": 855437,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "fit around the circumference of the orbit."
+    } ]
+  }, {
+    "tStartMs": 858858,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "You could have one wavelength\nor two wavelengths or three, and so on."
+    } ]
+  }, {
+    "tStartMs": 863362,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "So the circumference two pi\nr must be equal"
+    } ]
+  }, {
+    "tStartMs": 866156,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "to some multiple n times the wavelength."
+    } ]
+  }, {
+    "tStartMs": 869827,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "We can sub in de Broglies expression\nfor the wavelength to get the two pi"
+    } ]
+  }, {
+    "tStartMs": 873205,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "r equals NH over mv,"
+    } ]
+  }, {
+    "tStartMs": 876292,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "but we can rearrange this to get the mvr."
+    } ]
+  }, {
+    "tStartMs": 879962,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "The angular momentum\nis equal to NH over two pi."
+    } ]
+  }, {
+    "tStartMs": 885843,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "That is"
+    } ]
+  }, {
+    "tStartMs": 886886,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "precisely Bohr's quantized\nangular momentum condition."
+    } ]
+  }, {
+    "tStartMs": 891265,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "But now we have a good physical reason\nwhy it's quantized."
+    } ]
+  }, {
+    "tStartMs": 895060,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Because electrons are waves"
+    } ]
+  }, {
+    "tStartMs": 896729,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "and they must exist as standing\nwaves to be bound in atoms"
+    } ]
+  }, {
+    "tStartMs": 900691,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "because they want to have constructive\ninterference, have a stable orbit back."
+    } ]
+  }, {
+    "tStartMs": 904862,
+    "dDurationMs": 584,
+    "segs": [ {
+      "utf8": "That's pretty good."
+    } ]
+  }, {
+    "tStartMs": 905446,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "You get a dissertation out of that.\nThat's pretty good."
+    } ]
+  }, {
+    "tStartMs": 907781,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "It is this wave nature of quantum objects."
+    } ]
+  }, {
+    "tStartMs": 910242,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "That means they no longer\nhave a single path through space."
+    } ]
+  }, {
+    "tStartMs": 913662,
+    "dDurationMs": 5506,
+    "segs": [ {
+      "utf8": "Instead,\nthey must explore all possible paths."
+    } ]
+  }, {
+    "tStartMs": 919168,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "Now, I have thought about\nand taught the double slit experiment"
+    } ]
+  }, {
+    "tStartMs": 922254,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "hundreds of times\nwithout fully realizing this implication."
+    } ]
+  }, {
+    "tStartMs": 926425,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "In the double slit experiment."
+    } ]
+  }, {
+    "tStartMs": 927593,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "I feel like the mental thing\nthat I'm doing in my head is like, okay,"
+    } ]
+  }, {
+    "tStartMs": 930596,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "well, the beam is not perfectly straight,\nand of course it's going to intersect"
+    } ]
+  }, {
+    "tStartMs": 934350,
+    "dDurationMs": 4045,
+    "segs": [ {
+      "utf8": "both of those slits because they're really\nclose together. You know?"
+    } ]
+  }, {
+    "tStartMs": 938395,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "But then\nI heard this story about a professor"
+    } ]
+  }, {
+    "tStartMs": 940856,
+    "dDurationMs": 5047,
+    "segs": [ {
+      "utf8": "teaching the double slit experiment,\nand it makes everything so clear."
+    } ]
+  }, {
+    "tStartMs": 945903,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "So the professor starts by explaining\nthe setup."
+    } ]
+  }, {
+    "tStartMs": 949490,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "Electrons are fired one at a time"
+    } ]
+  }, {
+    "tStartMs": 951867,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "through two slits\nto be detected at a screen."
+    } ]
+  }, {
+    "tStartMs": 955120,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "Now, because you can't say for certain\nwhich slit the particle went through,"
+    } ]
+  }, {
+    "tStartMs": 958332,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "quantum mechanics tells us\nit must go through both at the same time."
+    } ]
+  }, {
+    "tStartMs": 962127,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "So to get the probability of finding\na particle somewhere on the screen,"
+    } ]
+  }, {
+    "tStartMs": 965589,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "you simply add up"
+    } ]
+  }, {
+    "tStartMs": 966715,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "the amplitude of the wave\ngoing through one slit, with the amplitude"
+    } ]
+  }, {
+    "tStartMs": 969927,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "of the wave going through the other slit\nand square it."
+    } ]
+  }, {
+    "tStartMs": 975015,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "But that's when a student raised his hand."
+    } ]
+  }, {
+    "tStartMs": 978268,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "What if you add a third slit?"
+    } ]
+  }, {
+    "tStartMs": 981438,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Well, you just add up the amplitudes\nof the waves"
+    } ]
+  }, {
+    "tStartMs": 983315,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "going through each of the three slits,\nand you can work out the probability."
+    } ]
+  }, {
+    "tStartMs": 988445,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "The professor wanted to"
+    } ]
+  }, {
+    "tStartMs": 989530,
+    "dDurationMs": 4045,
+    "segs": [ {
+      "utf8": "continue,\nbut then the student interjected again."
+    } ]
+  }, {
+    "tStartMs": 993575,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "What if you add a fourth slit and a fifth?"
+    } ]
+  }, {
+    "tStartMs": 997204,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "The professor, who is now clearly losing\nhis patience, replies, I think it's clear"
+    } ]
+  }, {
+    "tStartMs": 1001834,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "to the whole class that you just add up\nthe amplitudes from all the slits."
+    } ]
+  }, {
+    "tStartMs": 1005796,
+    "dDurationMs": 4755,
+    "segs": [ {
+      "utf8": "It's the same for six, seven, etc."
+    } ]
+  }, {
+    "tStartMs": 1010551,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "but now the bold student\npressed his advantage."
+    } ]
+  }, {
+    "tStartMs": 1014722,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "What if I make it infinite slits"
+    } ]
+  }, {
+    "tStartMs": 1018684,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "so that the screen disappears?"
+    } ]
+  }, {
+    "tStartMs": 1021854,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "And then I add a second screen\nwith infinite slits"
+    } ]
+  }, {
+    "tStartMs": 1024690,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "and a third and a fourth."
+    } ]
+  }, {
+    "tStartMs": 1028694,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "The student's point was clear."
+    } ]
+  }, {
+    "tStartMs": 1032656,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Even when we're not doing\na double slit experiment,"
+    } ]
+  }, {
+    "tStartMs": 1034992,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "when it's just light or particles\ntraveling through empty space,"
+    } ]
+  }, {
+    "tStartMs": 1038912,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "they must be exploring all possible paths."
+    } ]
+  }, {
+    "tStartMs": 1042291,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Because this is exactly how the math"
+    } ]
+  }, {
+    "tStartMs": 1044043,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "would work if you had infinite screens,\neach with infinite slits."
+    } ]
+  }, {
+    "tStartMs": 1048172,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "You have to add up the amplitude\nfrom each slit."
+    } ]
+  }, {
+    "tStartMs": 1051341,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "That's just the way it works."
+    } ]
+  }, {
+    "tStartMs": 1054261,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "According to the story,"
+    } ]
+  }, {
+    "tStartMs": 1055429,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "the student was Richard Feynman,\nand while the story is made"
+    } ]
+  }, {
+    "tStartMs": 1058974,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "up, the logic is flawless."
+    } ]
+  }, {
+    "tStartMs": 1061977,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Because if you believe\nin the double slit experiment"
+    } ]
+  }, {
+    "tStartMs": 1064188,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "that you can't tell which of the two slits\nthe particle went through,"
+    } ]
+  }, {
+    "tStartMs": 1067816,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "then you have to consider the possibility\nthat it goes through both."
+    } ]
+  }, {
+    "tStartMs": 1072279,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "By that same logic, any time"
+    } ]
+  }, {
+    "tStartMs": 1074573,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "any particle goes from place\none to place two."
+    } ]
+  }, {
+    "tStartMs": 1077659,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "You have to consider\nall the possible paths"
+    } ]
+  }, {
+    "tStartMs": 1080079,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "it could take to get there, including ones\nthat go faster than the speed of light,"
+    } ]
+  }, {
+    "tStartMs": 1083874,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "including ones that go back in time,"
+    } ]
+  }, {
+    "tStartMs": 1085709,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "and including ones that go\nto the other side of the moon and back."
+    } ]
+  }, {
+    "tStartMs": 1089505,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "I feel like I can't go to the sun\nand back."
+    } ]
+  }, {
+    "tStartMs": 1090839,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "You have to restrict it\nto be local, right?"
+    } ]
+  }, {
+    "tStartMs": 1092966,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "So the math doesn't do that."
+    } ]
+  }, {
+    "tStartMs": 1094885,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "I mean, you could see that\njust in the double slit experiment, right?"
+    } ]
+  }, {
+    "tStartMs": 1098305,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "And we'll do light because then there's\nno funky business with the speed."
+    } ]
+  }, {
+    "tStartMs": 1101517,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "If you're going to say like,\nthis path interferes with this"
+    } ]
+  }, {
+    "tStartMs": 1104103,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "path and these distances\nare different, right."
+    } ]
+  }, {
+    "tStartMs": 1107272,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "And so clearly\nthey can’t have the same speed."
+    } ]
+  }, {
+    "tStartMs": 1110359,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "So you need to consider\npaths that have different speeds."
+    } ]
+  }, {
+    "tStartMs": 1114897,
+    "dDurationMs": 1551,
+    "segs": [ {
+      "utf8": "Feynman's way of doing quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 1116448,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "suggests that anything going from"
+    } ]
+  }, {
+    "tStartMs": 1118567,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "one place to another is connected\nin every possible way."
+    } ]
+  }, {
+    "tStartMs": 1122487,
+    "dDurationMs": 1511,
+    "segs": [ {
+      "utf8": "And the internet is kind of like that too"
+    } ]
+  }, {
+    "tStartMs": 1123998,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "connecting us to anything,\nanywhere, at any time."
+    } ]
+  }, {
+    "tStartMs": 1127919,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "At least in theory,\nthere are still artificial barriers"
+    } ]
+  }, {
+    "tStartMs": 1131172,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "like geo blocks and country restrictions\nthat block off parts of the internet."
+    } ]
+  }, {
+    "tStartMs": 1135552,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "But fortunately, there's today's sponsor,\nNordVPN, which can help knock down"
+    } ]
+  }, {
+    "tStartMs": 1140223,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "those barriers."
+    } ]
+  }, {
+    "tStartMs": 1141224,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "Just connect to one of their thousands of\nservers, for example, this one in the US."
+    } ]
+  }, {
+    "tStartMs": 1145270,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "And it looks as if you're accessing\nthe internet from there."
+    } ]
+  }, {
+    "tStartMs": 1148565,
+    "dDurationMs": 417,
+    "segs": [ {
+      "utf8": "The team and I "
+    } ]
+  }, {
+    "tStartMs": 1148982,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "travel a lot to make these videos,\nand using a VPN is a game changer."
+    } ]
+  }, {
+    "tStartMs": 1153611,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "It allows us to access the news sites "
+    } ]
+  }, {
+    "tStartMs": 1155405,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "and articles we need, no matter\nwhere in the world we are."
+    } ]
+  }, {
+    "tStartMs": 1159242,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "And personally, I also love that NordVPN\nallows me to stay up"
+    } ]
+  }, {
+    "tStartMs": 1161953,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "to date with how the Canucks\nare doing back in Canada."
+    } ]
+  }, {
+    "tStartMs": 1165081,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "Not very well at the moment."
+    } ]
+  }, {
+    "tStartMs": 1168293,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Canucks have a real shot"
+    } ]
+  }, {
+    "tStartMs": 1169502,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "at the Cup this year."
+    } ]
+  }, {
+    "tStartMs": 1174090,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "But to try NordVPN\nfor yourself,"
+    } ]
+  }, {
+    "tStartMs": 1175592,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "sign up at nordvpn.com/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1179137,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "Click that link in the description\nor scan this QR code."
+    } ]
+  }, {
+    "tStartMs": 1182390,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "And when you do,\nyou get a huge discount on a two year plan"
+    } ]
+  }, {
+    "tStartMs": 1185435,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "and an additional four bonus months\nfor free."
+    } ]
+  }, {
+    "tStartMs": 1188646,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "It's the best deal and it also comes\nwith a 30 day money back guarantee."
+    } ]
+  }, {
+    "tStartMs": 1193109,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "So head to nordvpn.com/veritasium\nto try it out risk free."
+    } ]
+  }, {
+    "tStartMs": 1197322,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "I want to thank NordVPN\nfor sponsoring this part of the video."
+    } ]
+  }, {
+    "tStartMs": 1199782,
+    "dDurationMs": 5464,
+    "segs": [ {
+      "utf8": "And now let's get back to Feynman's crazy\nway of doing quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 1205246,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "So according to Feynman,\nany time a particle, a photon, or even a"
+    } ]
+  }, {
+    "tStartMs": 1209292,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "macroscopic object moves from point 1 to point 2,"
+    } ]
+  }, {
+    "tStartMs": 1212337,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "it has some chance to take any path."
+    } ]
+  }, {
+    "tStartMs": 1215298,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "And as preposterous as it might sound."
+    } ]
+  }, {
+    "tStartMs": 1217508,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "He found that we need to include\nall these paths in our calculation,"
+    } ]
+  }, {
+    "tStartMs": 1221512,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "where each path is weighted the same."
+    } ]
+  }, {
+    "tStartMs": 1225391,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "So why"
+    } ]
+  }, {
+    "tStartMs": 1226184,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "then, do we not see all those crazy paths?"
+    } ]
+  }, {
+    "tStartMs": 1229354,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Well, that's because we still need\nto add up their amplitudes."
+    } ]
+  }, {
+    "tStartMs": 1233524,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "For simplicity,\nimagine we only have three paths."
+    } ]
+  }, {
+    "tStartMs": 1237278,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "Then here's what we're going to do."
+    } ]
+  }, {
+    "tStartMs": 1239072,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "First, let's take this one."
+    } ]
+  }, {
+    "tStartMs": 1240865,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "When the particle wave starts\nfollowing it, we start a stopwatch."
+    } ]
+  }, {
+    "tStartMs": 1244535,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "It goes around and around very fast,\nand when it gets to the end point,"
+    } ]
+  }, {
+    "tStartMs": 1248498,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "we hit stop."
+    } ]
+  }, {
+    "tStartMs": 1250250,
+    "dDurationMs": 6949,
+    "segs": [ {
+      "utf8": "We'll do the same for the other two paths.\nAnd then we add up"
+    } ]
+  }, {
+    "tStartMs": 1257199,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "the arrows, square the result."
+    } ]
+  }, {
+    "tStartMs": 1260286,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "And that is\nthen proportional to the probability"
+    } ]
+  }, {
+    "tStartMs": 1262830,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "the particle took those paths\nto get there."
+    } ]
+  }, {
+    "tStartMs": 1265416,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "In this case\nthe arrow and square are pretty small, so"
+    } ]
+  }, {
+    "tStartMs": 1268377,
+    "dDurationMs": 7466,
+    "segs": [ {
+      "utf8": "the probability of the particle going from\n1 to 2 using these paths is small."
+    } ]
+  }, {
+    "tStartMs": 1275843,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Compare that with these three paths."
+    } ]
+  }, {
+    "tStartMs": 1277845,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "For example."
+    } ]
+  }, {
+    "tStartMs": 1280764,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Well now the arrow is much larger."
+    } ]
+  }, {
+    "tStartMs": 1283934,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "And this is important."
+    } ]
+  }, {
+    "tStartMs": 1285144,
+    "dDurationMs": 5464,
+    "segs": [ {
+      "utf8": "The larger the resulting arrow, the higher\nthe probability of that event happening."
+    } ]
+  }, {
+    "tStartMs": 1290608,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "Now in these examples the stopwatch is not\nactually measuring time."
+    } ]
+  }, {
+    "tStartMs": 1294612,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "Instead it measures\nsomething called the phase."
+    } ]
+  }, {
+    "tStartMs": 1298115,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Just as in the double slit experiment,\nwhen a wave takes a different path"
+    } ]
+  }, {
+    "tStartMs": 1301535,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "from point 1 to 2, it will end up there\nwith a different phase."
+    } ]
+  }, {
+    "tStartMs": 1306707,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "And this phase is what determines"
+    } ]
+  }, {
+    "tStartMs": 1308834,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "the amplitude of the wave at that point."
+    } ]
+  }, {
+    "tStartMs": 1312588,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "Mathematically, we can write the amplitude\nour stopwatch as e to the I phi,"
+    } ]
+  }, {
+    "tStartMs": 1317676,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "where phi is the phase."
+    } ]
+  }, {
+    "tStartMs": 1321680,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "As the particle wave follows a path,\nits phase increases."
+    } ]
+  }, {
+    "tStartMs": 1325434,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "Winding the vector around."
+    } ]
+  }, {
+    "tStartMs": 1328229,
+    "dDurationMs": 2293,
+    "segs": [ {
+      "utf8": "So now the big question is how much"
+    } ]
+  }, {
+    "tStartMs": 1330522,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "does the phase change for each path?"
+    } ]
+  }, {
+    "tStartMs": 1333525,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "Well, to answer that, imagine\nwe split up the path into many tiny"
+    } ]
+  }, {
+    "tStartMs": 1336862,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "sections, each one\nso small that it's effectively straight."
+    } ]
+  }, {
+    "tStartMs": 1341533,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Then in each"
+    } ]
+  }, {
+    "tStartMs": 1342534,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "section, the particle wave goes\na distance delta x and a time delta t,"
+    } ]
+  }, {
+    "tStartMs": 1347456,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "and the increase in phase\nis easy to compute."
+    } ]
+  }, {
+    "tStartMs": 1350334,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "It just depends on the wavelength\nand frequency of the wave."
+    } ]
+  }, {
+    "tStartMs": 1354463,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "To find the total increase in phase\nfor the whole path,"
+    } ]
+  }, {
+    "tStartMs": 1357258,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "we just add up all the little phase\nincreases of all the individual sections."
+    } ]
+  }, {
+    "tStartMs": 1362388,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "But we can sub in lambda equals\nh over mv from de Broglie,"
+    } ]
+  }, {
+    "tStartMs": 1366892,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "and using e we can sub in for frequency."
+    } ]
+  }, {
+    "tStartMs": 1370688,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "We can also simplify by writing h over two\npi as h bar."
+    } ]
+  }, {
+    "tStartMs": 1374817,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "To get this expression."
+    } ]
+  }, {
+    "tStartMs": 1377444,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "Then we can take delta t to the right."
+    } ]
+  }, {
+    "tStartMs": 1379989,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "And if we make delta\nt infinitesimally small,"
+    } ]
+  }, {
+    "tStartMs": 1383117,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "then we can replace this\nsum with an integral."
+    } ]
+  }, {
+    "tStartMs": 1386620,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "But now Dx by Dt is just velocity."
+    } ]
+  }, {
+    "tStartMs": 1389957,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "So we can write this as m b squared."
+    } ]
+  }, {
+    "tStartMs": 1393043,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Now we know that in the simplest case\nthe total energy"
+    } ]
+  }, {
+    "tStartMs": 1395963,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "e is just kinetic plus potential energy."
+    } ]
+  }, {
+    "tStartMs": 1399425,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "And subbing that in we're left\nwith the integral"
+    } ]
+  }, {
+    "tStartMs": 1401844,
+    "dDurationMs": 4796,
+    "segs": [ {
+      "utf8": "over time of kinetic energy\nminus potential energy."
+    } ]
+  }, {
+    "tStartMs": 1406640,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "But wait a second."
+    } ]
+  }, {
+    "tStartMs": 1407975,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "That is just the classical action."
+    } ]
+  }, {
+    "tStartMs": 1411145,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "So it's action that determines"
+    } ]
+  }, {
+    "tStartMs": 1413480,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "how fast the stopwatch turns."
+    } ]
+  }, {
+    "tStartMs": 1416567,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "As the particle moves along a trajectory,"
+    } ]
+  }, {
+    "tStartMs": 1418944,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "its action increases,\nand that is what increases the phase."
+    } ]
+  }, {
+    "tStartMs": 1423741,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "And what's important to note is that h\nbar is tiny."
+    } ]
+  }, {
+    "tStartMs": 1426869,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "It's about ten to the -34 joule seconds,\nwhich is way"
+    } ]
+  }, {
+    "tStartMs": 1430664,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "smaller than the action\nof any everyday object."
+    } ]
+  }, {
+    "tStartMs": 1434626,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "That means the phase of ordinary objects\non ordinary paths"
+    } ]
+  }, {
+    "tStartMs": 1438464,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "spins around zillions of times,\neventually pointing"
+    } ]
+  }, {
+    "tStartMs": 1441800,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "in some random direction."
+    } ]
+  }, {
+    "tStartMs": 1445095,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "If you consider a slightly different path,"
+    } ]
+  }, {
+    "tStartMs": 1447681,
+    "dDurationMs": 6215,
+    "segs": [ {
+      "utf8": "the action may be slightly different\nsay 0.01 joule seconds different."
+    } ]
+  }, {
+    "tStartMs": 1453896,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "That doesn't seem like much,\nbut divide it by h bar"
+    } ]
+  }, {
+    "tStartMs": 1457149,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "and the arrow will spin around\nten to the 32 more times."
+    } ]
+  }, {
+    "tStartMs": 1460861,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "So again, it will just point\nin some random direction."
+    } ]
+  }, {
+    "tStartMs": 1465324,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "This is what"
+    } ]
+  }, {
+    "tStartMs": 1466033,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "happens\nto almost all of the possible paths."
+    } ]
+  }, {
+    "tStartMs": 1469244,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "So when you add up the phases,\nthey just cancel out."
+    } ]
+  }, {
+    "tStartMs": 1472206,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "They destructively interfere."
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "The only exception is for the paths\nclosest"
+    } ]
+  }, {
+    "tStartMs": 1478003,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "to the path of least action,\nbecause these paths are at a minimum."
+    } ]
+  }, {
+    "tStartMs": 1482716,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "So if you make tiny changes to the path\nto first order,"
+    } ]
+  }, {
+    "tStartMs": 1486637,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "the action doesn't change."
+    } ]
+  }, {
+    "tStartMs": 1490099,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "And so for other paths that are very close\nto the path of least action,"
+    } ]
+  }, {
+    "tStartMs": 1493936,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "their arrows point\nin basically the same direction."
+    } ]
+  }, {
+    "tStartMs": 1497398,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "They constructively interfere."
+    } ]
+  }, {
+    "tStartMs": 1499566,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "And that is why those are the paths\nwe see."
+    } ]
+  }, {
+    "tStartMs": 1503987,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "This explains how light knows where to go."
+    } ]
+  }, {
+    "tStartMs": 1507074,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "I mean, it doesn't."
+    } ]
+  }, {
+    "tStartMs": 1508492,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "It just explores all possible paths,"
+    } ]
+  }, {
+    "tStartMs": 1511370,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "but the past we end up seeing are the ones\nthat interfere constructively."
+    } ]
+  }, {
+    "tStartMs": 1516208,
+    "dDurationMs": 7049,
+    "segs": [ {
+      "utf8": "And those are the paths of least action."
+    } ]
+  }, {
+    "tStartMs": 1523257,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "So really,"
+    } ]
+  }, {
+    "tStartMs": 1524258,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "this is how classical mechanics emerges\nfrom quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 1528262,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "It's why a ball follows the trajectory\nit does, and how planets orbit the sun."
+    } ]
+  }, {
+    "tStartMs": 1533350,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "They don't really have a precise\ntrajectory."
+    } ]
+  }, {
+    "tStartMs": 1536270,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Instead, everything explores\nall possible paths."
+    } ]
+  }, {
+    "tStartMs": 1540107,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "It's just that massive particles\nhave large actions compared to hbar,"
+    } ]
+  }, {
+    "tStartMs": 1544111,
+    "dDurationMs": 5213,
+    "segs": [ {
+      "utf8": "so that only paths extremely close\nto the true path of least action survive."
+    } ]
+  }, {
+    "tStartMs": 1549324,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "Which is why they're much more particle\nlike."
+    } ]
+  }, {
+    "tStartMs": 1551952,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "If you go to much smaller particles\nlike electrons or photons,"
+    } ]
+  }, {
+    "tStartMs": 1555289,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "the actions are much smaller,\nand so there's more of a spread"
+    } ]
+  }, {
+    "tStartMs": 1558834,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "in which trajectories\nthey actually end up taking."
+    } ]
+  }, {
+    "tStartMs": 1562713,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Now, you might say,\nI still don't believe you,"
+    } ]
+  }, {
+    "tStartMs": 1565424,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "but Casper has this incredible demo"
+    } ]
+  }, {
+    "tStartMs": 1568302,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "that should convince you 100%\nthat this is really how the world works."
+    } ]
+  }, {
+    "tStartMs": 1575390,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "To do it, I've taken a light,\na mirror and a camera."
+    } ]
+  }, {
+    "tStartMs": 1579186,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "Now there are infinitely many paths\nthat the light could take."
+    } ]
+  }, {
+    "tStartMs": 1582355,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And according to Feynman,\nwe have to add the contributions of each them."
+    } ]
+  }, {
+    "tStartMs": 1585603,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Including paths that go like this."
+    } ]
+  }, {
+    "tStartMs": 1589023,
+    "dDurationMs": 2456,
+    "segs": [ {
+      "utf8": "Now, you might say he's crazy."
+    } ]
+  }, {
+    "tStartMs": 1591479,
+    "dDurationMs": 2189,
+    "segs": [ {
+      "utf8": "I'm not crazy. That's what happens."
+    } ]
+  }, {
+    "tStartMs": 1593668,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Another possibility is I could come here"
+    } ]
+  }, {
+    "tStartMs": 1596671,
+    "dDurationMs": 875,
+    "segs": [ {
+      "utf8": "and go."
+    } ]
+  }, {
+    "tStartMs": 1597546,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Or it could come here and go."
+    } ]
+  }, {
+    "tStartMs": 1599215,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "Or it could come\nwhere you'd like it to come and go."
+    } ]
+  }, {
+    "tStartMs": 1602968,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "And it can go over here"
+    } ]
+  }, {
+    "tStartMs": 1605429,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and go and so on and so on."
+    } ]
+  }, {
+    "tStartMs": 1607264,
+    "dDurationMs": 1464,
+    "segs": [ {
+      "utf8": "And these are all possibilities."
+    } ]
+  }, {
+    "tStartMs": 1608728,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "And every single one of these paths\nhas their own little arrow."
+    } ]
+  }, {
+    "tStartMs": 1611814,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "So what we can do is we can look at all\nthose arrows and see where they line up."
+    } ]
+  }, {
+    "tStartMs": 1615860,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "And so if I turn on this light,\nthat's exactly where you see it reflects"
+    } ]
+  }, {
+    "tStartMs": 1620000,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "that at the angle of incidence\nis equal to the angle of reflection."
+    } ]
+  }, {
+    "tStartMs": 1624129,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "But now what I'm going to do\nis I'm going to cover up that spot"
+    } ]
+  }, {
+    "tStartMs": 1627007,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "so that we no longer\nsee the light reflect."
+    } ]
+  }, {
+    "tStartMs": 1629843,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "And then I'm going to prove\nthat really Feynman is right."
+    } ]
+  }, {
+    "tStartMs": 1632388,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "That really light\nalso goes like this."
+    } ]
+  }, {
+    "tStartMs": 1635224,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "It's just that most of the time,\nthose effects are cancelled out."
+    } ]
+  }, {
+    "tStartMs": 1638560,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "Now that sounds impossible, right?"
+    } ]
+  }, {
+    "tStartMs": 1641355,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "But let's zoom in to this tiny piece\nright here."
+    } ]
+  }, {
+    "tStartMs": 1644733,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Then we see all these different paths\nand all the arrows just go around"
+    } ]
+  }, {
+    "tStartMs": 1648153,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "and around in circles."
+    } ]
+  }, {
+    "tStartMs": 1649363,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "So when you add them up,\nthey all just cancel out."
+    } ]
+  }, {
+    "tStartMs": 1653075,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "But what if I cover up about half of them\nlike so."
+    } ]
+  }, {
+    "tStartMs": 1657681,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "Well, now when I add up those arrows you\nsuddenly do see a large resulting arrow."
+    } ]
+  }, {
+    "tStartMs": 1662060,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And so if I can somehow cover up\nthis mirror in many, many tiny strips,"
+    } ]
+  }, {
+    "tStartMs": 1666940,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "then I should be able to get the light\nto reflect like this."
+    } ]
+  }, {
+    "tStartMs": 1670569,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "And I can do that with this piece of foil\nright here on this piece of foil."
+    } ]
+  }, {
+    "tStartMs": 1675407,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "There are about a thousand lines\nper millimeter, and that should be enough"
+    } ]
+  }, {
+    "tStartMs": 1679119,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "to get this effect."
+    } ]
+  }, {
+    "tStartMs": 1680579,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "So let me turn off the lights."
+    } ]
+  }, {
+    "tStartMs": 1683790,
+    "dDurationMs": 3242,
+    "segs": [ {
+      "utf8": "So let's see\nI'm going to turn it on in 321."
+    } ]
+  }, {
+    "tStartMs": 1688928,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "We see it."
+    } ]
+  }, {
+    "tStartMs": 1693408,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "That is so cool."
+    } ]
+  }, {
+    "tStartMs": 1694493,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "It actually looks a lot weirder\nthan I was expecting it to."
+    } ]
+  }, {
+    "tStartMs": 1697371,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "I was expecting more like, one spot,"
+    } ]
+  }, {
+    "tStartMs": 1699039,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "but there's many, many spots\nwhere it's reflecting."
+    } ]
+  }, {
+    "tStartMs": 1702125,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "Oh, okay. Okay."
+    } ]
+  }, {
+    "tStartMs": 1703669,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "And just to show,\nI haven't been cheating you, right"
+    } ]
+  }, {
+    "tStartMs": 1706838,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "underneath is my finger."
+    } ]
+  }, {
+    "tStartMs": 1709883,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "And even with the light\non, you know, we see the light reflect."
+    } ]
+  }, {
+    "tStartMs": 1714137,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "And if we remove the cover,"
+    } ]
+  }, {
+    "tStartMs": 1717683,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "then what do we see?"
+    } ]
+  }, {
+    "tStartMs": 1720686,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "Yeah, we see exactly the normal reflection"
+    } ]
+  }, {
+    "tStartMs": 1724189,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "where it's always supposed to go,\nwhich is right there."
+    } ]
+  }, {
+    "tStartMs": 1727276,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "And then we've got\nnow all these extra reflections,"
+    } ]
+  }, {
+    "tStartMs": 1730404,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "all these extra bits\nwhere the pattern just lines up."
+    } ]
+  }, {
+    "tStartMs": 1734700,
+    "dDurationMs": 2429,
+    "segs": [ {
+      "utf8": "So very, very cool."
+    } ]
+  }, {
+    "tStartMs": 1737129,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "When I was talking about this\nwith a friend, actually,"
+    } ]
+  }, {
+    "tStartMs": 1739506,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "he said, yeah,\nbut you're using a diffraction grating."
+    } ]
+  }, {
+    "tStartMs": 1741717,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "That's kind of like cheating."
+    } ]
+  }, {
+    "tStartMs": 1742884,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "You get all these other reflections\nright now"
+    } ]
+  }, {
+    "tStartMs": 1745387,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "and this light is just\ngoing in all directions."
+    } ]
+  }, {
+    "tStartMs": 1748348,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "And so there's one other thing."
+    } ]
+  }, {
+    "tStartMs": 1750181,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "I've been super, super curious to try."
+    } ]
+  }, {
+    "tStartMs": 1753309,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "I also want to do this with a laser\nwhere I shine the laser right next to it."
+    } ]
+  }, {
+    "tStartMs": 1758940,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "And then if light does take every possible\npath, we should also see it"
+    } ]
+  }, {
+    "tStartMs": 1762735,
+    "dDurationMs": 1127,
+    "segs": [ {
+      "utf8": "come off here."
+    } ]
+  }, {
+    "tStartMs": 1763862,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "It probably shouldn't work."
+    } ]
+  }, {
+    "tStartMs": 1765572,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "I actually have a laser right over here"
+    } ]
+  }, {
+    "tStartMs": 1768783,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "and we can see when I shine it."
+    } ]
+  }, {
+    "tStartMs": 1772579,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "It really does."
+    } ]
+  }, {
+    "tStartMs": 1773705,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Just go to one spot\nand you can see where that spot is."
+    } ]
+  }, {
+    "tStartMs": 1776291,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "It's right over there, which is about the\nsame place where we had our reflection."
+    } ]
+  }, {
+    "tStartMs": 1780920,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "And you can also see right now if"
+    } ]
+  }, {
+    "tStartMs": 1784174,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "we look at this view that you cannot see\nthe laser light at all."
+    } ]
+  }, {
+    "tStartMs": 1787969,
+    "dDurationMs": 626,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1788595,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "Like I could see the laser, but I have to\nbring it out all the way over here."
+    } ]
+  }, {
+    "tStartMs": 1792307,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "And then I'm able to sort of\nsee the light."
+    } ]
+  }, {
+    "tStartMs": 1795018,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "But if I just put it up here,\nyou can see the reflection."
+    } ]
+  }, {
+    "tStartMs": 1800106,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Now, what I'm going to do next\nis I'm going to put"
+    } ]
+  }, {
+    "tStartMs": 1802692,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "this foil, this magic foil,"
+    } ]
+  }, {
+    "tStartMs": 1806362,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "and I'm going to put it over here\nand we can turn off this."
+    } ]
+  }, {
+    "tStartMs": 1810074,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "And now let's see what happens\nwhen I turn on the laser."
+    } ]
+  }, {
+    "tStartMs": 1817730,
+    "dDurationMs": 1403,
+    "segs": [ {
+      "utf8": "Wait wait wait wait."
+    } ]
+  }, {
+    "tStartMs": 1819133,
+    "dDurationMs": 2612,
+    "segs": [ {
+      "utf8": "No way,"
+    } ]
+  }, {
+    "tStartMs": 1822544,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "no way."
+    } ]
+  }, {
+    "tStartMs": 1823587,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "It works."
+    } ]
+  }, {
+    "tStartMs": 1825047,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "It works. Wait. What?"
+    } ]
+  }, {
+    "tStartMs": 1827771,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Look where the laser is going."
+    } ]
+  }, {
+    "tStartMs": 1830232,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "Oh, my God, it actually works."
+    } ]
+  }, {
+    "tStartMs": 1834653,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "What? What?"
+    } ]
+  }, {
+    "tStartMs": 1837281,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "This is definitely the coolest demo\nI've ever done."
+    } ]
+  }, {
+    "tStartMs": 1840242,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "So what I was doing is I was holding\nthe laser, and I can show you right now."
+    } ]
+  }, {
+    "tStartMs": 1844288,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "I was shining it down, like, this way off."
+    } ]
+  }, {
+    "tStartMs": 1847708,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "And you could still see it reflect."
+    } ]
+  }, {
+    "tStartMs": 1850085,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "But if I take this away, it disappears."
+    } ]
+  }, {
+    "tStartMs": 1853380,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "And if I put this back, it appears"
+    } ]
+  }, {
+    "tStartMs": 1857718,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "so that it shows really that we cannot"
+    } ]
+  }, {
+    "tStartMs": 1860387,
+    "dDurationMs": 4755,
+    "segs": [ {
+      "utf8": "get rid of the area which gives zero\nthat it really is canceling out."
+    } ]
+  }, {
+    "tStartMs": 1865142,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "And if we do clever things to it,"
+    } ]
+  }, {
+    "tStartMs": 1867478,
+    "dDurationMs": 7758,
+    "segs": [ {
+      "utf8": "we can demonstrate the reality of the\nreflections from this part of the mirror."
+    } ]
+  }, {
+    "tStartMs": 1875236,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So light and by extension,"
+    } ]
+  }, {
+    "tStartMs": 1876946,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "everything really does\nexplore all possible paths."
+    } ]
+  }, {
+    "tStartMs": 1880908,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "It's just that most of the time\nthe crazy paths destructively interfere."
+    } ]
+  }, {
+    "tStartMs": 1885246,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "That's because the actions of nearby paths\nchange rapidly."
+    } ]
+  }, {
+    "tStartMs": 1888999,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Now, I've studied physics"
+    } ]
+  }, {
+    "tStartMs": 1890167,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "for most of my life,\nand I feel like I never really appreciated"
+    } ]
+  }, {
+    "tStartMs": 1893254,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "how important action\nand the principle of least action are."
+    } ]
+  }, {
+    "tStartMs": 1896882,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "But now I think I finally get it."
+    } ]
+  }, {
+    "tStartMs": 1899385,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "And I finally get why."
+    } ]
+  }, {
+    "tStartMs": 1900427,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "If you ask theoretical physicists\nwhat they're working"
+    } ]
+  }, {
+    "tStartMs": 1902555,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "on, they'll rarely talk about energy\nor forces."
+    } ]
+  }, {
+    "tStartMs": 1905808,
+    "dDurationMs": 2665,
+    "segs": [ {
+      "utf8": "Most of the time,\nthey'll talk about action."
+    } ]
+  }, {
+    "tStartMs": 1908473,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "Nobody in particle physics approaches\nparticle physics"
+    } ]
+  }, {
+    "tStartMs": 1912185,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "from a viewpoint other than least action."
+    } ]
+  }, {
+    "tStartMs": 1915146,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "But we teach physics historically,\nand no least action"
+    } ]
+  }, {
+    "tStartMs": 1919734,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "is almost like the new kid on the block\nfor understanding physics."
+    } ]
+  }, {
+    "tStartMs": 1922988,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "And so, yeah, we build up to it."
+    } ]
+  }, {
+    "tStartMs": 1924239,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "But in reality,"
+    } ]
+  }, {
+    "tStartMs": 1925323,
+    "dDurationMs": 4236,
+    "segs": [ {
+      "utf8": "I think life's a lot easier once\nyou realize this underlying principle,"
+    } ]
+  }, {
+    "tStartMs": 1929559,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "because when you do,\nthen all you have to do is write down"
+    } ]
+  }, {
+    "tStartMs": 1932604,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "the correct Lagrangian\nso you get the right action and out come"
+    } ]
+  }, {
+    "tStartMs": 1936358,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "the laws of physics."
+    } ]
+  }, {
+    "tStartMs": 1937943,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "So you've got a separate Lagrangian\nfor classical mechanics,"
+    } ]
+  }, {
+    "tStartMs": 1941071,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "for special relativity,\nfor electrodynamics, and so on."
+    } ]
+  }, {
+    "tStartMs": 1945242,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "It's a single mathematical framework\nthat, once you've learned it,"
+    } ]
+  }, {
+    "tStartMs": 1949204,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "then you can apply it in different places\nin exactly the same way."
+    } ]
+  }, {
+    "tStartMs": 1954042,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "The hunt\nfor the theory of everything, right."
+    } ]
+  }, {
+    "tStartMs": 1956294,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "The thing that will encompass\nall of physics"
+    } ]
+  }, {
+    "tStartMs": 1958421,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "in reality, what people are asking is\nwhat is this Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 1961841,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "that can spit out all of the laws\nof physics in this universe?"
+    } ]
+  }, {
+    "tStartMs": 1965262,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "That's really what they're asking."
+    } ]
+  }, {
+    "tStartMs": 1967013,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "The moment\nwe haven't really found that right."
+    } ]
+  }, {
+    "tStartMs": 1968848,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "Because we can\nwe can sticky tape things together,"
+    } ]
+  }, {
+    "tStartMs": 1972310,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "but we don't know if that's the proper\nmathematical structure."
+    } ]
+  }, {
+    "tStartMs": 1975063,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "So that's what people are hunting for."
+    } ]
+  } ]
+}

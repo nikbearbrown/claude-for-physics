@@ -1,0 +1,1339 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 180,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "One of the most fundamental physics facts is \nthat the speed of light in a vacuum is constant  "
+    } ]
+  }, {
+    "tStartMs": 5760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "for all observers. But can we really be sure that \nthe speed of light wasn’t different in the past,  "
+    } ]
+  }, {
+    "tStartMs": 10560,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "or perhaps in other parts of the universe? In \nfact, variable speed of light theories have long  "
+    } ]
+  }, {
+    "tStartMs": 16380,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "been used to try to explain everything \nfrom dark energy to gravity itself.  "
+    } ]
+  }, {
+    "tStartMs": 21180,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So let’s explore how constant this \nfundamental constant really is."
+    } ]
+  }, {
+    "tStartMs": 31020,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Speed is relative. Drop your smoothie on a \ntrain and it appears to fall straight down,  "
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "but to me standing on the platform \nthe smoothie falls diagonally,  "
+    } ]
+  }, {
+    "tStartMs": 39720,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "apparently boosted by the speed of the train. But \nshine a laser beam from the train and everyone  "
+    } ]
+  }, {
+    "tStartMs": 45720,
+    "dDurationMs": 9840,
+    "segs": [ {
+      "utf8": "observes the same speed—299,792,458 m/s in \na vacuum, no matter their relative speeds."
+    } ]
+  }, {
+    "tStartMs": 55560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The invariance of the speed of light is \nmore precisely described by something  "
+    } ]
+  }, {
+    "tStartMs": 58800,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "called Lorentz invariance, and it’s the \nfounding axiom of special relativity.  "
+    } ]
+  }, {
+    "tStartMs": 64440,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Einstein realized that our measurements \nof distance and time have to be relative  "
+    } ]
+  }, {
+    "tStartMs": 68700,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "to the observer—they have to shift to keep \nthe speed of light the same for everyone.  "
+    } ]
+  }, {
+    "tStartMs": 73140,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "This same axio m is also fundamental to \ngeneral relativity, in which gravity is  "
+    } ]
+  }, {
+    "tStartMs": 78360,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "interpreted as a warping of the fabric of\nspacetime. Both special and general  "
+    } ]
+  }, {
+    "tStartMs": 82620,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "relativity have been tested with extreme care and \nprecision over and over and have never failed.  "
+    } ]
+  }, {
+    "tStartMs": 88260,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "More to the point, the speed of light has \nbeen measured in different reference frames  "
+    } ]
+  }, {
+    "tStartMs": 92280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and its invariance holds down to the \nexquisite precision of current methods."
+    } ]
+  }, {
+    "tStartMs": 97320,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "That said, we scientists are supposed to remain \nsimultaneously skeptical and open minded—somehow  "
+    } ]
+  }, {
+    "tStartMs": 102960,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "applying both mindsets to both old and new \ntheories. So in that spirit let’s ask whether the  "
+    } ]
+  }, {
+    "tStartMs": 108420,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "speed of light is really invariant. For example, \ncould it change over time, or be different in  "
+    } ]
+  }, {
+    "tStartMs": 113520,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "different parts of the universe? There are some \nwho believe that the very effects that relativity  "
+    } ]
+  }, {
+    "tStartMs": 119460,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "predicts are due to the speed of light changing, \nnot due to changes in space and time themselves."
+    } ]
+  }, {
+    "tStartMs": 125640,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Now before I start talking about what it \nmeans for the speed of light to change,  "
+    } ]
+  }, {
+    "tStartMs": 129300,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "I want to make it clear why many, and perhaps most \nphysicists think that it’s not only impossible,  "
+    } ]
+  }, {
+    "tStartMs": 135240,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "but it’s not even meaningful to think \nabout a variable speed of light."
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "The speed of light isn’t really about light. \nIt’s the speed of any massless particle,  "
+    } ]
+  }, {
+    "tStartMs": 145740,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "and also the maximum speed that information \ncan travel. It’s the speed of causality. It’s  "
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the rate at which one point in space \ncan communicate with its neighbors,  "
+    } ]
+  }, {
+    "tStartMs": 155880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "assuming no impediments. So to change the speed \nof light, we’d need to change something pretty  "
+    } ]
+  }, {
+    "tStartMs": 160920,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "fundamental about the universe—the \nconnection between space and time."
+    } ]
+  }, {
+    "tStartMs": 164820,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "We measure speed in terms of the amount \nof distance traveled per unit of time,  "
+    } ]
+  }, {
+    "tStartMs": 169380,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "whether that’s miles per hour or \nmeters per second. Changing the  "
+    } ]
+  }, {
+    "tStartMs": 174300,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "speed of light means changing the number \nof meters it can travel every second.  "
+    } ]
+  }, {
+    "tStartMs": 178440,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "The problem with this is that our very definition \nof meters and of seconds are tied to the speed of  "
+    } ]
+  }, {
+    "tStartMs": 183780,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "light. We can think of the meter as the distance \nlight travels in 1-over-300 million seconds. Or  "
+    } ]
+  }, {
+    "tStartMs": 190200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "we can think of the second as how long it \ntakes light to travel 300 million meters."
+    } ]
+  }, {
+    "tStartMs": 194400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Einstein said that “time is what clocks measure”,  "
+    } ]
+  }, {
+    "tStartMs": 198000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "which we can interpret as meaning that it’s a \nmeasure of the rate of change of the universe.  "
+    } ]
+  }, {
+    "tStartMs": 204420,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "One of Einstein’s thought experiments was \nthe photon clock, in which he imagined a  "
+    } ]
+  }, {
+    "tStartMs": 208860,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "photon bouncing between two mirrors, and each \n2-way trip indicates the tick of the clock.  "
+    } ]
+  }, {
+    "tStartMs": 215160,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "What happens if we slow the speed of light? The \nclock ticks more slowly, which means time slows."
+    } ]
+  }, {
+    "tStartMs": 221520,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Now real clocks are made of gears or \nelectronics which are made of atoms which  "
+    } ]
+  }, {
+    "tStartMs": 227220,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "are made of various quantum oscillations bound \nup in ways analogous to the photon clock—whether  "
+    } ]
+  }, {
+    "tStartMs": 233760,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "electrons communicating virtual photons with \nthe nucleus, or quarks exchanging gluons in  "
+    } ]
+  }, {
+    "tStartMs": 238740,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "that nucleus. This argument applies for any \nobject with mass—the speed of light dictates  "
+    } ]
+  }, {
+    "tStartMs": 244560,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the rate of internal change, which determines \nthe rate of the flow of time for all matter."
+    } ]
+  }, {
+    "tStartMs": 251460,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "So if slowing light also slows time, would we \neven notice? Not according to special relativity,  "
+    } ]
+  }, {
+    "tStartMs": 259020,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "in which space and time are fundamentally \ncoupled—two sides of the same coin.  "
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Changing the speed of light slows time, and \nmoving the mirrors further apart also slows  "
+    } ]
+  }, {
+    "tStartMs": 270000,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "time. In this picture, distance, time, \nand the speed of light scale together,  "
+    } ]
+  }, {
+    "tStartMs": 274440,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "so on our scale there’s no observable \neffect. The speed of light is just the unit  "
+    } ]
+  }, {
+    "tStartMs": 280620,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "conversion factor between our arbitrary \nchoices of spatial and temporal units."
+    } ]
+  }, {
+    "tStartMs": 285720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "The only way for a change in the speed of \nlight to do anything is if time and space  "
+    } ]
+  }, {
+    "tStartMs": 291120,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "both have their own fundamental units that are \nindependent of each other. If there’s a basic  "
+    } ]
+  }, {
+    "tStartMs": 297000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "smallest unit of space and a smallest unit of \ntime, and these don’t depend on the other, then  "
+    } ]
+  }, {
+    "tStartMs": 302400,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "maybe changing the speed of light would change the \nrelationship between space and time, at least on  "
+    } ]
+  }, {
+    "tStartMs": 307140,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "the quantum scale. So let’s imagine that this \nis possible and explore the consequences."
+    } ]
+  }, {
+    "tStartMs": 312120,
+    "dDurationMs": 8760,
+    "segs": [ {
+      "utf8": "The first real “variable speed of light” or \"VSL\" \ntheory was proposed by Robert Dicke back in 1957.  "
+    } ]
+  }, {
+    "tStartMs": 320880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Dicke was a brilliant physicist and astronomer \nwith wide-ranging contributions, so we should  "
+    } ]
+  }, {
+    "tStartMs": 326160,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "at least pay attention to his musings. Dicke \nwondered if gravitational fields might not be  "
+    } ]
+  }, {
+    "tStartMs": 330840,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "due to the bending of spacetime, but instead due \nto the speed of light slowing down near massive  "
+    } ]
+  }, {
+    "tStartMs": 336480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "objects. Remember that light changes its direction \nas it moves into a medium where its speed is  "
+    } ]
+  }, {
+    "tStartMs": 341880,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "lower—that’s exactly how lenses work. So why \nnot gravity too? And we know that time does tick  "
+    } ]
+  }, {
+    "tStartMs": 349560,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "slower in a gravitational field. And we now know \nthat slowing the speed of light should slow time.  "
+    } ]
+  }, {
+    "tStartMs": 356580,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "It seems like a variable speed of light could \nbe an elegant alternative hypothesis, no?"
+    } ]
+  }, {
+    "tStartMs": 363060,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "No. Back in 1957 there were only a few \nsuccessful tests of general relativity,  "
+    } ]
+  }, {
+    "tStartMs": 368100,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "and some of those were consistent with either \nspacetime curvature or a changing speed of light."
+    } ]
+  }, {
+    "tStartMs": 375360,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "But nowadays we know that spacetime itself must \nbe dynamic—we’ve measured how rotating masses  "
+    } ]
+  }, {
+    "tStartMs": 381600,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "drag space around, and how colliding black holes \ngenerate gravitational waves, none of which work  "
+    } ]
+  }, {
+    "tStartMs": 386820,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "with the variable speed of light interpretation. \nDicke’s idea was intriguing, but it doesn’t stand  "
+    } ]
+  }, {
+    "tStartMs": 392280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "up to the latest evidence. And given that \nevidence, Dicke himself would surely agree."
+    } ]
+  }, {
+    "tStartMs": 397320,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "OK, so maybe a variable speed of light doesn’t \nexplain all of gravity. But could it still play  "
+    } ]
+  }, {
+    "tStartMs": 403200,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "a part? There’s one weird fact about our universe \nthat could possibly be explained by this idea. If  "
+    } ]
+  }, {
+    "tStartMs": 409500,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "we look at the edge of the observable universe in \nthat direction we see the warm, smooth gas that  "
+    } ]
+  }, {
+    "tStartMs": 415800,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "existed before any stars or galaxies formed. \nWe see exactly the same in that direction,  "
+    } ]
+  }, {
+    "tStartMs": 420300,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "or that, or that. The universe at early times \nwas extremely homogeneous—almost the same  "
+    } ]
+  }, {
+    "tStartMs": 427440,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "density and temperature everywhere. That tells \nus that at some point in the distant past all  "
+    } ]
+  }, {
+    "tStartMs": 433260,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "of that material had to have been in contact \nin order to distribute energy and settle into  "
+    } ]
+  }, {
+    "tStartMs": 438360,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "the same state. But the problem is, based on the \nobserved rate of expansion of the universe, there  "
+    } ]
+  }, {
+    "tStartMs": 443340,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "just wasn’t time since the Big Bang for those \nregions to have communicated with each other."
+    } ]
+  }, {
+    "tStartMs": 449160,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "We’ve talked about this so called \"horizon \nproblem\" previously, along with the  "
+    } ]
+  }, {
+    "tStartMs": 453780,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "mainstream solution of cosmic inflation.\nInflation hypothesizes that at some very  "
+    } ]
+  }, {
+    "tStartMs": 459180,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "early time those distant regions were \nin causal contact with each other,  "
+    } ]
+  }, {
+    "tStartMs": 463140,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "enabling them to share energy at regular light \nspeed and reach the same temperature. But then  "
+    } ]
+  }, {
+    "tStartMs": 469380,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "the universe underwent a period of extremely \nrapid expansion much faster than the speed  "
+    } ]
+  }, {
+    "tStartMs": 474300,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "of light before slowing dramatically. This \nthrew apart regions that were close enough  "
+    } ]
+  }, {
+    "tStartMs": 480000,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "to be in thermal equilibrium so far apart that \nit appears now as if they could never have been."
+    } ]
+  }, {
+    "tStartMs": 486420,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But there is another way to \nbring those distant points into  "
+    } ]
+  }, {
+    "tStartMs": 489960,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "causal contact—and that’s by having light just \nmove faster in the past. This could have kept  "
+    } ]
+  }, {
+    "tStartMs": 495420,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the early universe connected as it expanded and \nreached uniformity. Then, if light slowed down  "
+    } ]
+  }, {
+    "tStartMs": 501540,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "to the current much slower speed, distant \nregions would seem causally disconnected."
+    } ]
+  }, {
+    "tStartMs": 507180,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "And if this story is right, it could even \nbe that the speed of light has been gently  "
+    } ]
+  }, {
+    "tStartMs": 512040,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "decreasing ever since. It has been suggested that \nthis could explain why many galaxies appear to  "
+    } ]
+  }, {
+    "tStartMs": 518340,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "be accelerating away from us. Since light is \nsupposedly becoming slower it's taking longer  "
+    } ]
+  }, {
+    "tStartMs": 525240,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and longer for their light to reach us, giving \nthe appearance that they are accelerating away  "
+    } ]
+  }, {
+    "tStartMs": 528900,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "from us. That may sound good, but variable speed \nof light theories don’t have a good explanation  "
+    } ]
+  }, {
+    "tStartMs": 535980,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "for why lightspeed would change in the very \nparticular way needed to mimic both inflation  "
+    } ]
+  }, {
+    "tStartMs": 541980,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "and dark energy. Cosmic inflation seems a little \ncleaner, and is certainly better accepted."
+    } ]
+  }, {
+    "tStartMs": 548400,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "The first effort to explain the horizon problem \nwith a variable speed of light was by John Moffat  "
+    } ]
+  }, {
+    "tStartMs": 554760,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "in 1992. He proposed that the speed of light \nmay have been 10^30 m/s in the early universe.  "
+    } ]
+  }, {
+    "tStartMs": 562620,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Moffat lays out some substantial theoretical \nwork, involving symmetry breaking - analogous  "
+    } ]
+  }, {
+    "tStartMs": 568200,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "to the one that separated the electromagnetic \nand weak forces. But in this case the broken  "
+    } ]
+  }, {
+    "tStartMs": 572940,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "symmetry was Lorentz invariance. Moffat’s theory \npreserved Lorentz invariance on relatively small  "
+    } ]
+  }, {
+    "tStartMs": 578940,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "scales—like across the galaxy—but allowed \nit to vary over cosmological distances and  "
+    } ]
+  }, {
+    "tStartMs": 583200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "times. Another similar idea came from \nAndreas Albrecht and Joao Magueijo."
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "And yet another VSL model depends \non the energy of light—higher  "
+    } ]
+  }, {
+    "tStartMs": 593640,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "energy photons would move faster. Perhaps then \nthe ultra-high energy photons near the big  "
+    } ]
+  }, {
+    "tStartMs": 599760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "bang did travel fast enough to connect \ndistant points of the universe. Then,  "
+    } ]
+  }, {
+    "tStartMs": 603720,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "as the universe cooled, those high energy \nphotons became rare and so light slowed down.  "
+    } ]
+  }, {
+    "tStartMs": 609420,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Now we have absolutely never observed speed \ndifferences for lights of different energies"
+    } ]
+  }, {
+    "tStartMs": 614820,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "at any energy we’ve detected, and \nthat includes comparing the arrival  "
+    } ]
+  }, {
+    "tStartMs": 619260,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "times of high energy gamma ray light from \ngamma ray bursts with the arrival times  "
+    } ]
+  }, {
+    "tStartMs": 624180,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "of lower energy light from the same \nexplosions. But maybe the effect only  "
+    } ]
+  }, {
+    "tStartMs": 628560,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "kicks in at the really ridiculously \nhigh energies near the big bang."
+    } ]
+  }, {
+    "tStartMs": 632040,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "These are fun ideas, but are they testable \ngiven that VSL theories predict the same  "
+    } ]
+  }, {
+    "tStartMs": 639180,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "thing as more standard ideas in \ngeneral relativity? Well, there's "
+    } ]
+  }, {
+    "tStartMs": 643140,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "another way to look for changes in the speed \nof light. And that by its effects on physics.  "
+    } ]
+  }, {
+    "tStartMs": 648840,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "“c” appears everywhere in our laws of physics—for \nexample in the fine structure constant,  "
+    } ]
+  }, {
+    "tStartMs": 655020,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "which defines the strength of electromagnetism. \nThe formula for alpha includes the charge of  "
+    } ]
+  }, {
+    "tStartMs": 660960,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "the electron, the electric permittivity of the \nvacuum, Planck's constant, and the speed of light.  "
+    } ]
+  }, {
+    "tStartMs": 667260,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "We’ve talked about this important \nconstant of nature in the past,  "
+    } ]
+  }, {
+    "tStartMs": 670680,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "and even about whether it may have changed over \ntime. Well, if the speed of light has changed  "
+    } ]
+  }, {
+    "tStartMs": 676260,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "then you’d expect the fine structure constant \nto change with it. And guess what—there’s no  "
+    } ]
+  }, {
+    "tStartMs": 682560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "evidence of such a change. You can see our \nprevious episode for that lack of evidence."
+    } ]
+  }, {
+    "tStartMs": 688080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "None of this proves that the speed \nof light has never varied—it just  "
+    } ]
+  }, {
+    "tStartMs": 692400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "says it can’t have varied much \nover the past billions of years.  "
+    } ]
+  }, {
+    "tStartMs": 697620,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But the real challenge for VSL theories \nis how they seem to break physics."
+    } ]
+  }, {
+    "tStartMs": 703680,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "All VSL theories break Lorentz Invariance, \nand Lorentz Invariance seems pretty important  "
+    } ]
+  }, {
+    "tStartMs": 709740,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for the universe to make sense. Remember the \nexample about the smoothie from the beginning  "
+    } ]
+  }, {
+    "tStartMs": 713820,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "of the video? In that example you and I had \na different interpretation of the same event,  "
+    } ]
+  }, {
+    "tStartMs": 719040,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "and yet, we both would agree \non every aspect that mattered,  "
+    } ]
+  }, {
+    "tStartMs": 723900,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "like the fact that the smoothie hits \nthe floor at a particular location,  "
+    } ]
+  }, {
+    "tStartMs": 727320,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "or that it hits the floor after it's \ndropped rather than before it's dropped."
+    } ]
+  }, {
+    "tStartMs": 732360,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "The basic self consistency of the universe and \nthe causal ordering of events is ensured under  "
+    } ]
+  }, {
+    "tStartMs": 738000,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "Lorentz invariance. Break it and it’s pretty \neasy to come up with nonsensical scenarios in  "
+    } ]
+  }, {
+    "tStartMs": 743940,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "which different observers have irreconcilable \ndisagreements about the outcomes of events."
+    } ]
+  }, {
+    "tStartMs": 748620,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "A variable speed of light also breaks \nthe fundamental charge-parity-time  "
+    } ]
+  }, {
+    "tStartMs": 753240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "or CPT symmetry of the universe, \nin that the laws of physics look  "
+    } ]
+  }, {
+    "tStartMs": 758040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "fundamentally different depending on \nwhich direction of time you're moving.  "
+    } ]
+  }, {
+    "tStartMs": 762840,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "We’ve discussed CPT symmetry before. This \nis also problematic because CPT symmetry  "
+    } ]
+  }, {
+    "tStartMs": 768480,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "is believed to be truly fundamental, and \nwe have no other evidence of it breaking."
+    } ]
+  }, {
+    "tStartMs": 773580,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "There are ways around some of these objections. \nFor example, we can imagine that the change in  "
+    } ]
+  }, {
+    "tStartMs": 780120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "the speed of light is not exactly fundamental, \nbut more akin to how that speed changes in a  "
+    } ]
+  }, {
+    "tStartMs": 785880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "dense medium like water. So what if the \nrefractive index of the universe changed  "
+    } ]
+  }, {
+    "tStartMs": 790920,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "over time? Well, that increase in the thickness \nof the vacuum would have to be pretty enormous  "
+    } ]
+  }, {
+    "tStartMs": 797220,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "in order to slow light by the factor of \n10^22 needed to solve the horizon problem.  "
+    } ]
+  }, {
+    "tStartMs": 803940,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "And that change appears to affect all light-speed \nwaves equally—all frequencies of light,  "
+    } ]
+  }, {
+    "tStartMs": 810000,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "as well as gravitational waves. Regular materials \ndon’t behave like this. Still, it is a sort of way  "
+    } ]
+  }, {
+    "tStartMs": 818400,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "out. And there are some other narrow paths \nthrough the dense network of refutations  "
+    } ]
+  }, {
+    "tStartMs": 824040,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "of VSL theories. However you need to be pretty \ncommitted to these ideas to find these ways out."
+    } ]
+  }, {
+    "tStartMs": 831300,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Currently there’s no evidence that the \nspeed of light varies in a fundamental way,  "
+    } ]
+  }, {
+    "tStartMs": 836940,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "and it may be that it’s not even a meaningful \nconcept. Although that latter point depends on an  "
+    } ]
+  }, {
+    "tStartMs": 843660,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "understanding of the quantum nature of space and \ntime and their relationship to each other that we  "
+    } ]
+  }, {
+    "tStartMs": 849480,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "don’t yet have. It’s absolutely worth going back \nand questioning the founding axioms of even our  "
+    } ]
+  }, {
+    "tStartMs": 855180,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "most successful theories, as long as we keep in \nmind that any new theory is going to have to do  "
+    } ]
+  }, {
+    "tStartMs": 859740,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "just as well or better than the old one in all \nof its predictions. And that’s a tall order when  "
+    } ]
+  }, {
+    "tStartMs": 866160,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "you’re trying to break relativity, which has such \ndeep internal consistency and is so powerfully  "
+    } ]
+  }, {
+    "tStartMs": 871260,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "predictive. But relativity is not the final \ntheory due to its clash with quantum mechanics,  "
+    } ]
+  }, {
+    "tStartMs": 877740,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "so do let’s keep questioning it. Including \nwhether the cosmic speed limit is fixed,  "
+    } ]
+  }, {
+    "tStartMs": 883680,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "or we can somehow change how fast \ninformation travels though spacetime."
+    } ]
+  }, {
+    "tStartMs": 889380,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So we missed one or two comment \nresponses recently. Actually,  "
+    } ]
+  }, {
+    "tStartMs": 893940,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "we missed six. It’s my fault - there’s been \na lot going on, including too much travel,  "
+    } ]
+  }, {
+    "tStartMs": 898680,
+    "dDurationMs": 8460,
+    "segs": [ {
+      "utf8": "and these responses actually take a lot of \nthought. So today we’re going back and doing  "
+    } ]
+  }, {
+    "tStartMs": 907140,
+    "dDurationMs": 9660,
+    "segs": [ {
+      "utf8": "responses for a selection of the missed episodes. \nWe’ll do one comment from each of these, but we’ll  "
+    } ]
+  }, {
+    "tStartMs": 916800,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "do each very fully. We’ll also do them out of \norder. We have the superfluid episode, the one  "
+    } ]
+  }, {
+    "tStartMs": 923700,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "about turning the Sun in to a spaceship, the one \nabout detecting planet-sized spaceships with LIGO,  "
+    } ]
+  }, {
+    "tStartMs": 930480,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "and then the one about when and how terrible or \nawesome the next nearby supernova is likely to be."
+    } ]
+  }, {
+    "tStartMs": 938280,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Before we jump into that, I also need to \nnote a correction for our episode on the  "
+    } ]
+  }, {
+    "tStartMs": 942960,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "model of the proton interior. We talked about \nthe important contributions of Stan Brodsky  "
+    } ]
+  }, {
+    "tStartMs": 948960,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "from the Stanford Linear Accelerator, but \nmanaged to use a picture of the wrong Stan  "
+    } ]
+  }, {
+    "tStartMs": 954660,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Brodsky. Apologies to both Stans. THis is \nthe Stan Brodsky we meant to shout out.."
+    } ]
+  }, {
+    "tStartMs": 961020,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "OK, finally to the comments, and starting \nwith superfluids. Here’s an insightful  "
+    } ]
+  }, {
+    "tStartMs": 966540,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "comment on our episode on superfluids. \nMartinstent5339 suggests that it would  "
+    } ]
+  }, {
+    "tStartMs": 971040,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "be impossible to stir up a superfluid into a \nvortex because the fluid would just slip around  "
+    } ]
+  }, {
+    "tStartMs": 976500,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the spoon rather than being pushed into \na flow. There’s some good intuition here,  "
+    } ]
+  }, {
+    "tStartMs": 981060,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "but the conclusion is not quite right. The \nspoon does impart energy to the fluid—after all,  "
+    } ]
+  }, {
+    "tStartMs": 986880,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the helium atoms have to move if they can’t pass \nthrough the spoon. And those moving atoms push on  "
+    } ]
+  }, {
+    "tStartMs": 993000,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "other atoms, so you do get a new flow which can \ntranslate to a rotation if the spoon is stirring.  "
+    } ]
+  }, {
+    "tStartMs": 1001160,
+    "dDurationMs": 8700,
+    "segs": [ {
+      "utf8": "The point of the superfluid love moving \nin unison—in streamline flows, and the  "
+    } ]
+  }, {
+    "tStartMs": 1009860,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "vortex is such a flow. What superfluids hate is \natom-to-atom-level exchanges of random chunks  "
+    } ]
+  }, {
+    "tStartMs": 1015920,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "of energy—they hate dissipative interactions \nwhich translate to friction, heat buildup,  "
+    } ]
+  }, {
+    "tStartMs": 1021020,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "and viscous motion. However, as I mentioned in \nthat video, it is possible to induce a sort of  "
+    } ]
+  }, {
+    "tStartMs": 1026960,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "emergent viscosity by creating tiny vortices \nin the superfluid which then interact with  "
+    } ]
+  }, {
+    "tStartMs": 1032300,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "each other in a way that disrupts viscous \nflow. That happens due to interaction with  "
+    } ]
+  }, {
+    "tStartMs": 1037340,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "a non-perfectly smooth container wall, but \nstirring with a spoon should do some of that."
+    } ]
+  }, {
+    "tStartMs": 1042380,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "Let’s move on to the episode where we described \nways to move the entire Sun to different galactic  "
+    } ]
+  }, {
+    "tStartMs": 1048320,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "orbits. SABRMatt2010 has a major problem with \nthe claim that the planets in a star's orbit  "
+    } ]
+  }, {
+    "tStartMs": 1055640,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "would just come along for the ride when \nthrusting a star because it would create  "
+    } ]
+  }, {
+    "tStartMs": 1061760,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "a momentary imbalance in the field that could \ndestabilize carefully tuned orbital resonances.  "
+    } ]
+  }, {
+    "tStartMs": 1069440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "So you’re absolutely right that moving \nthe Sun wouldn’t drag the planets along  "
+    } ]
+  }, {
+    "tStartMs": 1074960,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "with literally zero effect. Moving the Sun a \nvery tiny amount changes the center of mass of  "
+    } ]
+  }, {
+    "tStartMs": 1082340,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "the solar system and the orbits would have to \nshift. If that change was tiny they’d quickly  "
+    } ]
+  }, {
+    "tStartMs": 1089540,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "find a new stable orbit not much different \nto their last and still close to resonance.  "
+    } ]
+  }, {
+    "tStartMs": 1095180,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "If the Sun keeps moving, but moves slowly compared \nto the amount of time it takes to recover orbital  "
+    } ]
+  }, {
+    "tStartMs": 1100460,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "resonance, then the Sun could be moved without \ndisrupting the planets. But if you try to move  "
+    } ]
+  }, {
+    "tStartMs": 1105740,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "the Sun too quickly then yeah, you could break the \nsolar system. Fortunatley, the proposed methods do  "
+    } ]
+  }, {
+    "tStartMs": 1112640,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "move the Sun very slowly—and I believe that’s case \neven for the relatively rapid Caplan thruster."
+    } ]
+  }, {
+    "tStartMs": 1118400,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "While we’re on gigantic spacecraft, let’s move on \nto our episode on detecting gigantic spacecraft  "
+    } ]
+  }, {
+    "tStartMs": 1123740,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "from the gravitational radiation they emit \nwhen accelerating. brothermine2292 points out  "
+    } ]
+  }, {
+    "tStartMs": 1130400,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "that RAMAcraft aren't the only linear accelerators \nthat would emit detectable gravitational waves. So  "
+    } ]
+  }, {
+    "tStartMs": 1137060,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "would the very rare head-on collision between two \nblack holes. That’s right, and we did very briefly  "
+    } ]
+  }, {
+    "tStartMs": 1144320,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "mention natural causes in the video. A head-on \ncollision between any compact body - black hole,  "
+    } ]
+  }, {
+    "tStartMs": 1150920,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "neutron star, perhaps even white dwarfs, \nwould causes both objects to massively  "
+    } ]
+  }, {
+    "tStartMs": 1155180,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "decelerate in a straight line resulting in linear \ngravitational waves that could be detectable.  "
+    } ]
+  }, {
+    "tStartMs": 1162560,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "For the black hole there should be a \nvery weird but modellable gravitational  "
+    } ]
+  }, {
+    "tStartMs": 1167720,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "wave ring-down as the two fell together \nagain. For non-black holes there should  "
+    } ]
+  }, {
+    "tStartMs": 1172580,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "be a really clear electromagnetic signature. \nSo hopefully we can distinguish these cases."
+    } ]
+  }, {
+    "tStartMs": 1179000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And then there’s the episode where we talked \nabout the prospects of Betelguese going supernova,  "
+    } ]
+  }, {
+    "tStartMs": 1183320,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and when the next nearby supernova \nmight be, and what it might do to us.  "
+    } ]
+  }, {
+    "tStartMs": 1187820,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "ETLee-db6cn points out that a portion of the \nEarth will generally be completely shadowed  "
+    } ]
+  }, {
+    "tStartMs": 1194600,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "from a supernova, depending on its location in the \nsky. So while it’s true that being on the other  "
+    } ]
+  }, {
+    "tStartMs": 1201080,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "side of the planet would shield you from the worst \nof the actual radiation from the supernova blast,  "
+    } ]
+  }, {
+    "tStartMs": 1207440,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "for most death-by-supernova scenarios \nit’s not direct irradiation that gets you.  "
+    } ]
+  }, {
+    "tStartMs": 1213200,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "The most likely killer is due to the ozone layer \nbeing depleted. Even if that happens only on one  "
+    } ]
+  }, {
+    "tStartMs": 1219260,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "side of the planet, the effect quickly \nbecomes global with atmospheric mixing.  "
+    } ]
+  }, {
+    "tStartMs": 1223580,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "There’s also the fringe case when a supernova goes \noff while you’re in a region of the galaxy with  "
+    } ]
+  }, {
+    "tStartMs": 1229520,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "relatively high gas abundance, which will then \nirradiate the entire planet from all direction  "
+    } ]
+  }, {
+    "tStartMs": 1234200,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "with X-rays for a long time. But yeah, maybe if \nyou have a well-stocked bunker and happen to be  "
+    } ]
+  }, {
+    "tStartMs": 1241640,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "antipodal to a very nearby supernova, you get to \nemerge years later to enjoy the post-apocalypse.  "
+    } ]
+  }, {
+    "tStartMs": 1249380,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "And by that time I might have caught up on all the \nmissed comment responses, so double win really."
+    } ]
+  } ]
+}

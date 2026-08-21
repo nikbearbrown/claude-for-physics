@@ -1,0 +1,139 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1490,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Ok, correlations and causation footnotes:\nIn the main video I said that when you find"
+    } ]
+  }, {
+    "tStartMs": 5510,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "a correlation, it’s natural to look for\nexplanations or causes of it. This is called Reichenbach's Principle."
+    } ]
+  }, {
+    "tStartMs": 10410,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "But sometimes correlations occur just by chance,\nlike those on the website “spurious correlations”"
+    } ]
+  }, {
+    "tStartMs": 15190,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "which selectively cherry-picks data points\nfrom different stats that randomly happen"
+    } ]
+  }, {
+    "tStartMs": 18670,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "to line up."
+    } ]
+  }, {
+    "tStartMs": 19670,
+    "dDurationMs": 3929,
+    "segs": [ {
+      "utf8": "As an example of a chance correlation, if\nI flip two coins enough times, eventually"
+    } ]
+  }, {
+    "tStartMs": 23599,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "there’ll be a long string of matching heads\nor tails just by chance, and if I just cherrypick"
+    } ]
+  }, {
+    "tStartMs": 27599,
+    "dDurationMs": 3501,
+    "segs": [ {
+      "utf8": "those flips I can make it look like the coins\nare super correlated."
+    } ]
+  }, {
+    "tStartMs": 31100,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "But when an apparent correlation is actually\nrandom in origin (like in this case), then"
+    } ]
+  }, {
+    "tStartMs": 35170,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "if you keep looking at larger and larger samples,\nthe correlation should go away."
+    } ]
+  }, {
+    "tStartMs": 39120,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "This is it sometimes looks like particle physicists\nhave discovered a new particle, only for that"
+    } ]
+  }, {
+    "tStartMs": 43410,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "to go away when they collect more data."
+    } ]
+  }, {
+    "tStartMs": 45220,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Also, you may have noticed there was no mention\nof feedback loops in the main video – that’s"
+    } ]
+  }, {
+    "tStartMs": 49730,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "because, from a causal point of view, feedback\nloops, like how more grass means more sheep"
+    } ]
+  }, {
+    "tStartMs": 54790,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "means less grass means less sheep means more\ngrass and so on – from a causal point of"
+    } ]
+  }, {
+    "tStartMs": 59500,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "view, this isn’t actually a loop."
+    } ]
+  }, {
+    "tStartMs": 61110,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "It’s more of a chain, where the amount of\ngrass and sheep now affect the amounts of"
+    } ]
+  }, {
+    "tStartMs": 65070,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "grass and sheep next year, and the year after\nand so on, so from year to year there’s"
+    } ]
+  }, {
+    "tStartMs": 69450,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "feedback between the amount of grass and the\namount of sheep which we kind of draw as a"
+    } ]
+  }, {
+    "tStartMs": 73090,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "loop, but the causal relationship always goes\nfrom the present to the future, which we should"
+    } ]
+  }, {
+    "tStartMs": 76950,
+    "dDurationMs": 7420,
+    "segs": [ {
+      "utf8": "draw as some sort of spirally helix thing."
+    } ]
+  } ]
+}

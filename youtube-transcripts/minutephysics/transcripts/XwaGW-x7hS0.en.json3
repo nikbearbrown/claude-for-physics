@@ -1,0 +1,421 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 30,
+    "dDurationMs": 4499,
+    "segs": [ {
+      "utf8": "Hello, and welcome to the Minute Physics tutorial on basic Rocket Science. Before we get started,"
+    } ]
+  }, {
+    "tStartMs": 4529,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "I'd like to quickly announce that I'm now making these videos at the perimeter institute for theoretical physics"
+    } ]
+  }, {
+    "tStartMs": 9040,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "So keep your eyes out for plenty of upcoming videos about string theory black holes the Higgs Boson and so on"
+    } ]
+  }, {
+    "tStartMs": 14799,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "Now, back to Rocket science. Okay, this is gonna be a super simplified version of the basic dynamics of rocket we're going to start with a"
+    } ]
+  }, {
+    "tStartMs": 21850,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Rocket and"
+    } ]
+  }, {
+    "tStartMs": 23380,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "The rocket we're going to assume has some fuel in it and the whole rocket together with the fuel is going to have Mass [M]"
+    } ]
+  }, {
+    "tStartMs": 28230,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "At some point the rockets can ignite its engine start ejecting fuel and hopefully will take off"
+    } ]
+  }, {
+    "tStartMs": 33390,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "And it will have a velocity \"V\" in the upward direction and the exhaust will the velocity called \"the velocity of the exhaust\" going down"
+    } ]
+  }, {
+    "tStartMs": 39969,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Now on top of that because we're on Earth and not in the middle [of] outer space"
+    } ]
+  }, {
+    "tStartMs": 45070,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the Whole Rocket and"
+    } ]
+  }, {
+    "tStartMs": 47379,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "Fuel system, everything together, is going to be affected by the force of gravity. [so] [how] did the dynamics of this system work?"
+    } ]
+  }, {
+    "tStartMs": 53670,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Well, you've probably all heard of F=Ma"
+    } ]
+  }, {
+    "tStartMs": 55440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Force is equal to mass times acceleration"
+    } ]
+  }, {
+    "tStartMs": 58270,
+    "dDurationMs": 3229,
+    "segs": [ {
+      "utf8": "Now in this case what it means is that the force acting on a system causes an acceleration?"
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Or a change of velocity of the system, and you need a bigger Force to move a bigger Mass"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "And that's why the m is in there"
+    } ]
+  }, {
+    "tStartMs": 67960,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "So we're going to start off by looking at the case"
+    } ]
+  }, {
+    "tStartMs": 70420,
+    "dDurationMs": 3139,
+    "segs": [ {
+      "utf8": "Before any of the fuel starts ejecting it'll just be the rocket with Mass M"
+    } ]
+  }, {
+    "tStartMs": 73630,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "So the total Force is the force of gravity and the force of gravity is equal to the mass of the object times"
+    } ]
+  }, {
+    "tStartMs": 78850,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "the gravitational acceleration"
+    } ]
+  }, {
+    "tStartMs": 80320,
+    "dDurationMs": 5389,
+    "segs": [ {
+      "utf8": "And that's equal to, of course, Ma which is just the big M again times the acceleration"
+    } ]
+  }, {
+    "tStartMs": 85710,
+    "dDurationMs": 7739,
+    "segs": [ {
+      "utf8": "And it's negative because the force of gravity is in the downward direction. Now in this case the acceleration is negative, the acceleration from Gravity"
+    } ]
+  }, {
+    "tStartMs": 93790,
+    "dDurationMs": 2389,
+    "segs": [ {
+      "utf8": "basically if the rockets in [Midair] and it's not"
+    } ]
+  }, {
+    "tStartMs": 96310,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "firing it's going to start falling down at a rate of 9.8 meters per second squared, so"
+    } ]
+  }, {
+    "tStartMs": 101979,
+    "dDurationMs": 4819,
+    "segs": [ {
+      "utf8": "after the rocket ignites not all the mass will be in the rocket anymore because some of it will be out here and the exhaust"
+    } ]
+  }, {
+    "tStartMs": 106799,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "that's been shot out. In this case the total force stays the same because it's still minus the total mass times gravity"
+    } ]
+  }, {
+    "tStartMs": 112200,
+    "dDurationMs": 1949,
+    "segs": [ {
+      "utf8": "But instead of just writing, Ma on the right side again,"
+    } ]
+  }, {
+    "tStartMs": 114149,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "we now have two separate masses, the rocket and the exhaust, so we have to add together the mass times acceleration of each"
+    } ]
+  }, {
+    "tStartMs": 120040,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "Now the mass of the rocket is \"m\" minus some rate of fuel loss which we'll call \"R\""
+    } ]
+  }, {
+    "tStartMs": 124659,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "times the amount of time which is passed."
+    } ]
+  }, {
+    "tStartMs": 126969,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "Basically \"R\" times \"t\" will tell you how many kilograms of fuel have shot out of the rocket is exhaust by time \"t\" and the"
+    } ]
+  }, {
+    "tStartMs": 132660,
+    "dDurationMs": 3809,
+    "segs": [ {
+      "utf8": "whole mass, M minus Rt is multiplied by the acceleration of the rocket."
+    } ]
+  }, {
+    "tStartMs": 137260,
+    "dDurationMs": 2929,
+    "segs": [ {
+      "utf8": "We also have to take into account the mass from the exhaust that came out"
+    } ]
+  }, {
+    "tStartMs": 140190,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "and we just said that the exhaust comes out of the rate \"r\" kilograms per second, so it's mass is just \"R\" times \"t\""
+    } ]
+  }, {
+    "tStartMs": 146140,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "So now what's the acceleration of the exhaust, well the definition of acceleration"
+    } ]
+  }, {
+    "tStartMs": 149770,
+    "dDurationMs": 6709,
+    "segs": [ {
+      "utf8": "is, \"the change of velocity in a given time\" and the exhaust goes from moving with the rocket at Velocity \"V\" before it's expelled, to"
+    } ]
+  }, {
+    "tStartMs": 156480,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "Moving with the velocity of the exhaust after it's expelled. The change or difference between those is negative"
+    } ]
+  }, {
+    "tStartMs": 162120,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "\"Ve.\" It's negative because the exhaust is moving down minus \"V\" divided by the amount of time that's passed"
+    } ]
+  }, {
+    "tStartMs": 168160,
+    "dDurationMs": 5089,
+    "segs": [ {
+      "utf8": "So the \"t's\" cancel and this equation tells us how the whole rocket plus exhaust system moves,"
+    } ]
+  }, {
+    "tStartMs": 173470,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "where this part is the mass times acceleration of the rocket itself and this part is the mass times acceleration of the exhaust."
+    } ]
+  }, {
+    "tStartMs": 181180,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Now suppose you're launching a water bottle rocket or trying to levitate by vomiting"
+    } ]
+  }, {
+    "tStartMs": 185530,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "How much fuel, which in this case is just water or milk,"
+    } ]
+  }, {
+    "tStartMs": 188530,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "do you have to expel to take off, that is, to just barely beat gravity and begin to hover?"
+    } ]
+  }, {
+    "tStartMs": 194290,
+    "dDurationMs": 4669,
+    "segs": [ {
+      "utf8": "Well, if you're just hovering that means your velocity is zero and your acceleration is zero too."
+    } ]
+  }, {
+    "tStartMs": 199360,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "So all the parts of this complicated equation having to do with the rocket go away"
+    } ]
+  }, {
+    "tStartMs": 203340,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "and we're left with a much simpler equation describing just the exhaust \"m\" times \"g\" equals \"R\" times \"ve\""
+    } ]
+  }, {
+    "tStartMs": 213010,
+    "dDurationMs": 5659,
+    "segs": [ {
+      "utf8": "Remember, we're trying to determine how much water needs to be expelled in order for the rocket to hover but now we have two variables"
+    } ]
+  }, {
+    "tStartMs": 218670,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "which are trying to tell us that \"R\" is the rate at which the exhaust water leaves the rocket and"
+    } ]
+  }, {
+    "tStartMs": 223510,
+    "dDurationMs": 3889,
+    "segs": [ {
+      "utf8": "\"Ve\" is the speed it has after leaving; those sound pretty similar."
+    } ]
+  }, {
+    "tStartMs": 227680,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Let's see if we can figure out a way to relate them to each other."
+    } ]
+  }, {
+    "tStartMs": 231670,
+    "dDurationMs": 6919,
+    "segs": [ {
+      "utf8": "On the bottom of the Rocket there's probably a circular opening with area \"a\" or the exhaust comes out and since liquids like milk and water are"
+    } ]
+  }, {
+    "tStartMs": 238750,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "Incompressible, they'll take up the same volume when they come out, as when they were inside the rocket."
+    } ]
+  }, {
+    "tStartMs": 242800,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So there will be a stream of water exhaust shooting out of the rocket and in one second, it'll go a distance"
+    } ]
+  }, {
+    "tStartMs": 247800,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "\"Ve\" that's the velocity of the exhaust"
+    } ]
+  }, {
+    "tStartMs": 251140,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "This stream is roughly a cylinder with the volume \"a\" times \"ve\" measured in cubic meters."
+    } ]
+  }, {
+    "tStartMs": 256419,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "How do we relate this volume to the rate \"R\" of exhaust leaving the rocket?"
+    } ]
+  }, {
+    "tStartMs": 260260,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "well \"R\" tells us the number of kilograms of water and a kilogram of water takes up a liter of space and there are a"
+    } ]
+  }, {
+    "tStartMs": 265950,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": "thousand liters in a key meter, so \"R\" is just 1,000 times the volume."
+    } ]
+  }, {
+    "tStartMs": 271150,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "Now that we can relate both \"R\" and the velocity of the exhaust to the volume of the exhaust,"
+    } ]
+  }, {
+    "tStartMs": 275790,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "it's just simple Algebra to plug this into the equation describing the exhaust."
+    } ]
+  }, {
+    "tStartMs": 283600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do a little multiplying dividing"
+    } ]
+  }, {
+    "tStartMs": 285880,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "square rooting and we've solved for the volume. All"
+    } ]
+  }, {
+    "tStartMs": 288729,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "that remains is to plug in numbers for \"m\" the total mass of Rocket + fuel in"
+    } ]
+  }, {
+    "tStartMs": 293440,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "Kilograms and \"a\" the area of the opening at the bottom of the rocket; hint, it's probably a circle."
+    } ]
+  }, {
+    "tStartMs": 299380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what are you waiting for go weigh yourself,"
+    } ]
+  }, {
+    "tStartMs": 301419,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "measure your throat, and find out how much milk you'd have to vomit in order to levitate and"
+    } ]
+  }, {
+    "tStartMs": 305650,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "if you want you can share your personalized levitation inducing milk vomiting rate in the comments below."
+    } ]
+  }, {
+    "tStartMs": 311169,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thanks for watching!"
+    } ]
+  } ]
+}

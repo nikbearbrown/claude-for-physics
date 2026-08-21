@@ -1,0 +1,37 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1660,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "The sky is mainly broad spectrum white light like the sun,"
+    } ]
+  }, {
+    "tStartMs": 3980,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "but since small particles in the atmosphere scatter light at the blue end of the rainbow more than the red"
+    } ]
+  }, {
+    "tStartMs": 8520,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "it's slightly blue-ish white"
+    } ]
+  }, {
+    "tStartMs": 9800,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "while the remaining sunlight becomes slightly yellow-ish."
+    } ]
+  } ]
+}

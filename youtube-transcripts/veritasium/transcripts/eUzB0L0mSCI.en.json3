@@ -1,0 +1,991 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 20,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "This video was filmed without sound."
+    } ]
+  }, {
+    "tStartMs": 3200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Is it possible to use only these images to"
+    } ]
+  }, {
+    "tStartMs": 5850,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "reconstruct the sound? that is can you\nhear pictures?"
+    } ]
+  }, {
+    "tStartMs": 10820,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "in this video I'm gonna"
+    } ]
+  }, {
+    "tStartMs": 12280,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "try to demonstrate that it's possible to\nget sound from pictures but it's not"
+    } ]
+  }, {
+    "tStartMs": 16200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "gonna be easy so I'm gonna need some\nhelp."
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "this episode was sponsored by"
+    } ]
+  }, {
+    "tStartMs": 23490,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "LastPass which allowed me to fly to the\nBay Area to meet with one of my science"
+    } ]
+  }, {
+    "tStartMs": 27990,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "heroes so now on with the video."
+    } ]
+  }, {
+    "tStartMs": 34580,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "How're you doing?"
+    } ]
+  }, {
+    "tStartMs": 36560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I'm sorry my place of\nmy concern is like threw all"
+    } ]
+  }, {
+    "tStartMs": 39960,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "this crap over here."
+    } ]
+  }, {
+    "tStartMs": 41240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So this is the experiment that I came up with. -It's like"
+    } ]
+  }, {
+    "tStartMs": 44760,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "a crumpled up ball of tinfoil? -yeah like\nif I had a more powerful camera and I"
+    } ]
+  }, {
+    "tStartMs": 49470,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "had like the right lens then you know we\ncould do something that looks more like"
+    } ]
+  }, {
+    "tStartMs": 53190,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "you're spying on somebody. But we should\nbe able to demonstrate that you can"
+    } ]
+  }, {
+    "tStartMs": 59190,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "recover like a rhythm or a sound from\nyou know whatever camera you have."
+    } ]
+  }, {
+    "tStartMs": 63910,
+    "dDurationMs": 6319,
+    "segs": [ {
+      "utf8": "Now you might think it would be easy to\nrecord sound in video because after all"
+    } ]
+  }, {
+    "tStartMs": 70229,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "sound is just vibrations so the air is\nvibrating back and forth and everything"
+    } ]
+  }, {
+    "tStartMs": 74160,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "it hits should vibrate back and forth\ntoo. So you'd think all we need to do is"
+    } ]
+  }, {
+    "tStartMs": 78120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "video that motion and plot displacement\nversus time and then recover the sound."
+    } ]
+  }, {
+    "tStartMs": 88380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But it's not that simple because for one\nthing I mean these sound vibrations are"
+    } ]
+  }, {
+    "tStartMs": 93390,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "incredibly tiny. They move objects only\nabout one micrometer and even if you're"
+    } ]
+  }, {
+    "tStartMs": 99180,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "super zoomed in that is way less than a\npixel we're talking a hundredth or a"
+    } ]
+  }, {
+    "tStartMs": 103920,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "thousandth of a pixel. -We're not seeing\nsomething that is at one pixel move to"
+    } ]
+  }, {
+    "tStartMs": 109860,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "an adjacent pixel. You're seeing one\npixel get slightly darker and the"
+    } ]
+  }, {
+    "tStartMs": 116040,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "next pixel get slightly brighter. -What\nobjects work best for recovering sound? -So"
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the things that work best are things\nthat have a lot of damping but are also"
+    } ]
+  }, {
+    "tStartMs": 126960,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "very light so that they move very\nreadily with changes in the air pressure"
+    } ]
+  }, {
+    "tStartMs": 133050,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "so what are some good examples? \n-well like a bag of chips."
+    } ]
+  }, {
+    "tStartMs": 137160,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "you know the initial"
+    } ]
+  }, {
+    "tStartMs": 138040,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "experiments were very like contrived in\na way. You know we had these objects on"
+    } ]
+  }, {
+    "tStartMs": 142800,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "optical benches we were blasting light\nat them"
+    } ]
+  }, {
+    "tStartMs": 145500,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the sounds were like as loud as we could\nmake them."
+    } ]
+  }, {
+    "tStartMs": 148780,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Mary had a little lamb, little lamb, little lamb"
+    } ]
+  }, {
+    "tStartMs": 154140,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "I figured we'd try to do a rhythm."
+    } ]
+  }, {
+    "tStartMs": 157280,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "This is..."
+    } ]
+  }, {
+    "tStartMs": 161620,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "shave and a haircut"
+    } ]
+  }, {
+    "tStartMs": 165660,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "let's put  that camera on a tripod"
+    } ]
+  }, {
+    "tStartMs": 168640,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "- oh yeah that's I mean that'd be great"
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 4137,
+    "segs": [ {
+      "utf8": "All right, let's give it a shot,"
+    } ]
+  }, {
+    "tStartMs": 179260,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "this is the actual clip I recorded and I want you to"
+    } ]
+  }, {
+    "tStartMs": 181860,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "notice two things: first, you can't really\nsee much motion; and second, there are"
+    } ]
+  }, {
+    "tStartMs": 187620,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "plenty of pixels getting dimmer and\nbrighter because of image noise. I mean"
+    } ]
+  }, {
+    "tStartMs": 192180,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "it's not a pristine, perfect image so how\ndo you tell the difference between"
+    } ]
+  }, {
+    "tStartMs": 196230,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "pixels getting brighter and dimmer due\nto tiny movements versus noise?"
+    } ]
+  }, {
+    "tStartMs": 201140,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Essentially you look for edges in the image\nand then you say well if the object"
+    } ]
+  }, {
+    "tStartMs": 205980,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "moves by some fraction of a fraction of\na pixel in one particular direction"
+    } ]
+  }, {
+    "tStartMs": 211250,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "then pixels on one side of that edge\nwill get a little bit brighter pixels"
+    } ]
+  }, {
+    "tStartMs": 215270,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "the other side of that edge will get a\nlittle bit darker. And so basically what"
+    } ]
+  }, {
+    "tStartMs": 217880,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "we do is we sum together all the ones\nthat are supposed to get brighter and"
+    } ]
+  }, {
+    "tStartMs": 221270,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "subtract all the ones that are supposed\nto get darker and then that gives us sort of"
+    } ]
+  }, {
+    "tStartMs": 225590,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "one number right and if you track that\nnumber over time then that gives you an"
+    } ]
+  }, {
+    "tStartMs": 231950,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "estimate of the displacement over time."
+    } ]
+  }, {
+    "tStartMs": 234100,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "This is time but in samples and"
+    } ]
+  }, {
+    "tStartMs": 237770,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "then this is position."
+    } ]
+  }, {
+    "tStartMs": 240720,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "-hmm so what do you do now?"
+    } ]
+  }, {
+    "tStartMs": 243900,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "well we're gonna try to do some"
+    } ]
+  }, {
+    "tStartMs": 246830,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "filtering on that."
+    } ]
+  }, {
+    "tStartMs": 253700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "it's clipping. You don't say"
+    } ]
+  }, {
+    "tStartMs": 263260,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "I mean\nit's not much... it's not much but you can"
+    } ]
+  }, {
+    "tStartMs": 270620,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "recognize two of the beats."
+    } ]
+  }, {
+    "tStartMs": 273460,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "This is what\nwe've recovered from a hundred and"
+    } ]
+  }, {
+    "tStartMs": 275840,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "eighty frames per second, which isn't\nreally a whole lot within the range of"
+    } ]
+  }, {
+    "tStartMs": 283040,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "like audible frequencies so that's why\nyou know kind of the most we can hope"
+    } ]
+  }, {
+    "tStartMs": 286340,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "for here is a bit of a rhythm"
+    } ]
+  }, {
+    "tStartMs": 288760,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Now of course the main limiting factor"
+    } ]
+  }, {
+    "tStartMs": 290600,
+    "dDurationMs": 5069,
+    "segs": [ {
+      "utf8": "is framerate because we can hear sounds\nfrom 20 Hertz to 20,000 Hertz but most"
+    } ]
+  }, {
+    "tStartMs": 295669,
+    "dDurationMs": 6011,
+    "segs": [ {
+      "utf8": "cameras only shoot 30 frames per second\nso they miss virtually all of these sound frequencies."
+    } ]
+  }, {
+    "tStartMs": 301680,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Imagine this is the\nmotion created by a 30 Hertz sound if"
+    } ]
+  }, {
+    "tStartMs": 306590,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "you try to capture this with a camera at\n30 frames per second you would end up"
+    } ]
+  }, {
+    "tStartMs": 310610,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "seeing the object always in the same\nposition because it's at the same point"
+    } ]
+  }, {
+    "tStartMs": 315260,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "in the wave cycle. So your perception\nwould be that the object is not moving at all"
+    } ]
+  }, {
+    "tStartMs": 320720,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "So in order to measure a\nfrequency of sound you actually need to"
+    } ]
+  }, {
+    "tStartMs": 324410,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "sample at least twice that frequency\nwhich is why a lot of music is sampled"
+    } ]
+  }, {
+    "tStartMs": 329510,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "at 44 or 48 kilohertz - that's more than\ntwice as much as the highest sound we can hear."
+    } ]
+  }, {
+    "tStartMs": 335400,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "At any rate if you want to get\na something more intelligible you're"
+    } ]
+  }, {
+    "tStartMs": 338390,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "going to need some higher frame rate\ncamera."
+    } ]
+  }, {
+    "tStartMs": 342380,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "so we just went to the camera store and\npicked up a new camera that should be"
+    } ]
+  }, {
+    "tStartMs": 345800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "able to shoot a thousand frames per\nsecond or thereabouts."
+    } ]
+  }, {
+    "tStartMs": 349280,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Is that gonna be enough?"
+    } ]
+  }, {
+    "tStartMs": 351060,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "it'll be enough for something."
+    } ]
+  }, {
+    "tStartMs": 354680,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Hehehe I love that confidence"
+    } ]
+  }, {
+    "tStartMs": 356160,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "This is one modulation away from dubstep right here."
+    } ]
+  }, {
+    "tStartMs": 362100,
+    "dDurationMs": 3349,
+    "segs": [ {
+      "utf8": "Just a little bit more of a wump wump"
+    } ]
+  }, {
+    "tStartMs": 365449,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "and then we have the next big track."
+    } ]
+  }, {
+    "tStartMs": 369640,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "I've set it to a thousand frames per second"
+    } ]
+  }, {
+    "tStartMs": 371600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "now we're talking \n-yeah"
+    } ]
+  }, {
+    "tStartMs": 380100,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "okay"
+    } ]
+  }, {
+    "tStartMs": 381900,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "okay so you have the footage there and"
+    } ]
+  }, {
+    "tStartMs": 384460,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "you're cropping in a bit, tell me about\nthat."
+    } ]
+  }, {
+    "tStartMs": 387500,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "well we're running this on my"
+    } ]
+  }, {
+    "tStartMs": 388690,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "laptop as opposed to the servers that I\nhad back at MIT and that is gonna mean"
+    } ]
+  }, {
+    "tStartMs": 394300,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "that if we run it on the full video of\nmy laptop will crash -okay"
+    } ]
+  }, {
+    "tStartMs": 397560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "so we're gonna crop it and try it on that\n- I can see a little bit of motion"
+    } ]
+  }, {
+    "tStartMs": 401680,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "-yeah I mean I think"
+    } ]
+  }, {
+    "tStartMs": 402790,
+    "dDurationMs": 4697,
+    "segs": [ {
+      "utf8": "that one question is whether that's like\n-resonant motion"
+    } ]
+  }, {
+    "tStartMs": 407487,
+    "dDurationMs": 1813,
+    "segs": [ {
+      "utf8": "yeah well in this case"
+    } ]
+  }, {
+    "tStartMs": 409300,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "would be kind of like the equivalent of\na rocking chair like if the if the foil"
+    } ]
+  }, {
+    "tStartMs": 413020,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "has a like a rocking mode then that's\nactually not gonna give us a lot of"
+    } ]
+  }, {
+    "tStartMs": 417460,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "sound information \n-mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 419480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you tell\nwhether this is gonna work or not?"
+    } ]
+  }, {
+    "tStartMs": 421480,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I am optimistic."
+    } ]
+  }, {
+    "tStartMs": 428760,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "I think because I know what I'm\nlistening for I can hear it in there but"
+    } ]
+  }, {
+    "tStartMs": 433750,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "yeah you've gotta be careful though\nreally?"
+    } ]
+  }, {
+    "tStartMs": 436500,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "that you're well just gonna be careful"
+    } ]
+  }, {
+    "tStartMs": 437770,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "that you're not like confirmation bias\nsure."
+    } ]
+  }, {
+    "tStartMs": 441180,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "let's try that"
+    } ]
+  }, {
+    "tStartMs": 449880,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "that's about 60 Hertz that seems a\nlittle much"
+    } ]
+  }, {
+    "tStartMs": 454390,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "okay we're gonna try one more time. We\nhave basically put the piece of foil on"
+    } ]
+  }, {
+    "tStartMs": 458140,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "top of the speaker, we're dialing up the\nvolume to... 11. -Well I mean it's a shower"
+    } ]
+  }, {
+    "tStartMs": 464500,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "speaker so"
+    } ]
+  }, {
+    "tStartMs": 471080,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Cool \nSo what do you think of that image there?"
+    } ]
+  }, {
+    "tStartMs": 473540,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it's beautiful, it's gorgeous."
+    } ]
+  }, {
+    "tStartMs": 483860,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "it has been like a couple years since\nI've looked at this code so I suspect I"
+    } ]
+  }, {
+    "tStartMs": 490070,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "might have forgotten something and I'm\nusing it wrong but I want to point"
+    } ]
+  }, {
+    "tStartMs": 493280,
+    "dDurationMs": 7590,
+    "segs": [ {
+      "utf8": "something out here, which is that here's\nwhat we recovered and here is here is"
+    } ]
+  }, {
+    "tStartMs": 500870,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "the piano roll of the signal that we\nsent."
+    } ]
+  }, {
+    "tStartMs": 505120,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "This looks like duh duh to me and"
+    } ]
+  }, {
+    "tStartMs": 507740,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "that's the duhhh yeah yeah"
+    } ]
+  }, {
+    "tStartMs": 509980,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "that's it that is the..."
+    } ]
+  }, {
+    "tStartMs": 511560,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "---dih duh dud din duhhhh din dih \n- yeah okay so let's"
+    } ]
+  }, {
+    "tStartMs": 516290,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "see if we can actually get it to hear that"
+    } ]
+  }, {
+    "tStartMs": 519860,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "-We can see it, we just can't hear it"
+    } ]
+  }, {
+    "tStartMs": 524140,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "I think I know what it is."
+    } ]
+  }, {
+    "tStartMs": 526080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 528720,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "I don't think my laptop can play those frequencies."
+    } ]
+  }, {
+    "tStartMs": 533380,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "hold on a second let\nme get some headphones"
+    } ]
+  }, {
+    "tStartMs": 535560,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "We need real speakers or something."
+    } ]
+  }, {
+    "tStartMs": 550240,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "What do you hear Abe?"
+    } ]
+  }, {
+    "tStartMs": 551500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "hold on."
+    } ]
+  }, {
+    "tStartMs": 556780,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "I hear shave and a haircut two bits"
+    } ]
+  }, {
+    "tStartMs": 561040,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "here, listen this."
+    } ]
+  }, {
+    "tStartMs": 562180,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "All right. \n-here, I'll hold it."
+    } ]
+  }, {
+    "tStartMs": 564900,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "thank you."
+    } ]
+  }, {
+    "tStartMs": 572040,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "yeah."
+    } ]
+  }, {
+    "tStartMs": 574140,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and... pitch shift"
+    } ]
+  }, {
+    "tStartMs": 577320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "[recovered sound of Shave and a haircut, two bits]"
+    } ]
+  }, {
+    "tStartMs": 586420,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "yep there you go,\nvisual microphone. [laughter]"
+    } ]
+  }, {
+    "tStartMs": 592860,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "this was a basic proof"
+    } ]
+  }, {
+    "tStartMs": 594750,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "of concept but Abe showed that with more\npowerful equipment he could recover"
+    } ]
+  }, {
+    "tStartMs": 598900,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "human speech from outside soundproof\nglass."
+    } ]
+  }, {
+    "tStartMs": 615280,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "Have you ever considered that your"
+    } ]
+  }, {
+    "tStartMs": 616940,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "computer is a physical system that gives\noff vibrations each key on the keyboard"
+    } ]
+  }, {
+    "tStartMs": 621209,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "produces a unique sound due to its\nunique location. In fact, research has"
+    } ]
+  }, {
+    "tStartMs": 626100,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "shown that audio recordings of typing\nreveal 96% of keystrokes accurately."
+    } ]
+  }, {
+    "tStartMs": 631560,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Now this portion of the video was sponsored\nby LastPass, an app that stores all your"
+    } ]
+  }, {
+    "tStartMs": 635250,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "usernames and passwords so you never\nhave to type them in. And this prevents"
+    } ]
+  }, {
+    "tStartMs": 638670,
+    "dDurationMs": 3779,
+    "segs": [ {
+      "utf8": "people from stealing your passwords by\nsay recording audio of your keystrokes"
+    } ]
+  }, {
+    "tStartMs": 642449,
+    "dDurationMs": 2051,
+    "segs": [ {
+      "utf8": "or just looking over your shoulder."
+    } ]
+  }, {
+    "tStartMs": 644500,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "What's even better is the convenience of"
+    } ]
+  }, {
+    "tStartMs": 646410,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "never having to fill in usernames and\npasswords or getting locked out again"
+    } ]
+  }, {
+    "tStartMs": 650040,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "With LastPass you don't have to write\nremember or reset passwords."
+    } ]
+  }, {
+    "tStartMs": 654200,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "You get unlimited password storage and free\ncross-device sync."
+    } ]
+  }, {
+    "tStartMs": 657940,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "When you open an app"
+    } ]
+  }, {
+    "tStartMs": 658740,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "or site on your computer or on an iOS or\nAndroid device LastPass fills in your"
+    } ]
+  }, {
+    "tStartMs": 662970,
+    "dDurationMs": 4619,
+    "segs": [ {
+      "utf8": "username and password this saves you\nvaluable brain space so put your"
+    } ]
+  }, {
+    "tStartMs": 667589,
+    "dDurationMs": 2091,
+    "segs": [ {
+      "utf8": "passwords on autopilot with LastPass."
+    } ]
+  }, {
+    "tStartMs": 669680,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Now\nsomething I particularly like is if you"
+    } ]
+  }, {
+    "tStartMs": 671610,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "upgrade to LastPass premium you get\nadvanced multi-factor authentication and"
+    } ]
+  }, {
+    "tStartMs": 675000,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "it works like magic."
+    } ]
+  }, {
+    "tStartMs": 676480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So click the link\nbelow to find out more about LastPass"
+    } ]
+  }, {
+    "tStartMs": 678600,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "and thanks to LastPass for sponsoring\ntoday's show"
+    } ]
+  } ]
+}

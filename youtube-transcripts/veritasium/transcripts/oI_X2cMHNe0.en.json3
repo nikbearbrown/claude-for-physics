@@ -1,0 +1,3547 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I made a video about a gigantic circuit"
+    } ]
+  }, {
+    "tStartMs": 3120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "with light-second long wires"
+    } ]
+  }, {
+    "tStartMs": 5760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "that connect up to a light bulb,"
+    } ]
+  }, {
+    "tStartMs": 7840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "which is just one meter away\nfrom the battery and switch,"
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and I asked you, after\nI closed the switch,"
+    } ]
+  }, {
+    "tStartMs": 13840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "how long will it take for us to get light"
+    } ]
+  }, {
+    "tStartMs": 16160,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "from that light bulb?"
+    } ]
+  }, {
+    "tStartMs": 17680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And my answer was 1/c seconds."
+    } ]
+  }, {
+    "tStartMs": 20560,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "- And his answer is wrong."
+    } ]
+  }, {
+    "tStartMs": 22560,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "- We would be able to communicate"
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "faster than the speed of light."
+    } ]
+  }, {
+    "tStartMs": 25840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- That violates causality\nand common sense."
+    } ]
+  }, {
+    "tStartMs": 28240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "- This is actually a bit misleading."
+    } ]
+  }, {
+    "tStartMs": 30560,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "- Misleading."
+    } ]
+  }, {
+    "tStartMs": 31280,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "- Misleading in a way."
+    } ]
+  }, {
+    "tStartMs": 32240,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "- Extremely unconvinced."
+    } ]
+  }, {
+    "tStartMs": 33520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "- Naughty Mr. Veritasium has\nstirred up a right hornet's nest."
+    } ]
+  }, {
+    "tStartMs": 38160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "- Clearly I did not do a\ngood job of explaining"
+    } ]
+  }, {
+    "tStartMs": 41840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "what was really going\non in the last video."
+    } ]
+  }, {
+    "tStartMs": 43680,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So I wanna clear up any\nconfusion that I created."
+    } ]
+  }, {
+    "tStartMs": 47520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So behind me, we have a scaled\ndown model of this circuit."
+    } ]
+  }, {
+    "tStartMs": 53040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It is only 10 meters in\nlength on either side."
+    } ]
+  }, {
+    "tStartMs": 56720,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Obviously that's a lot\nshorter than one light-second,"
+    } ]
+  }, {
+    "tStartMs": 59440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "but for the first 30 nanoseconds,"
+    } ]
+  }, {
+    "tStartMs": 61360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "this model should be\nidentical to the big circuit,"
+    } ]
+  }, {
+    "tStartMs": 64480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and Caltech has very fast scopes,"
+    } ]
+  }, {
+    "tStartMs": 66720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "so we'll be able to see\nwhat's going on in this time."
+    } ]
+  }, {
+    "tStartMs": 69760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I got a ton of help on\nthis from Richard Abbott,"
+    } ]
+  }, {
+    "tStartMs": 72160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "who works on LIGO, the\ngravitational wave detector."
+    } ]
+  }, {
+    "tStartMs": 75360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Over here, we are going\nto put a little resistor,"
+    } ]
+  }, {
+    "tStartMs": 78320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "which is gonna be the stand\nin for our light bulb,"
+    } ]
+  }, {
+    "tStartMs": 80800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and we're going to measure it with\na scope and see essentially,"
+    } ]
+  }, {
+    "tStartMs": 85920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "what is the time delay\nbetween applying a pulse"
+    } ]
+  }, {
+    "tStartMs": 88960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "on the other side, basically\nflicking the switch,"
+    } ]
+  }, {
+    "tStartMs": 91040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "for us to get a voltage\nacross our resistor."
+    } ]
+  }, {
+    "tStartMs": 94960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And the magnitude of that\nvoltage is really important."
+    } ]
+  }, {
+    "tStartMs": 97680,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "A lot of people thought\nit would be negligible."
+    } ]
+  }, {
+    "tStartMs": 99320,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "- The amount of energy supplied\nby this is so minuscule."
+    } ]
+  }, {
+    "tStartMs": 102480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- A tiny, tiny effect, right?"
+    } ]
+  }, {
+    "tStartMs": 104880,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- The amount of power you're getting"
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "to the lamp over here, it's nuff-all"
+    } ]
+  }, {
+    "tStartMs": 109360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- He meant the light turns on"
+    } ]
+  }, {
+    "tStartMs": 111760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "at any current level immediately."
+    } ]
+  }, {
+    "tStartMs": 113840,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "- That is not what I meant."
+    } ]
+  }, {
+    "tStartMs": 115280,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- Well, actually, with that assumption,"
+    } ]
+  }, {
+    "tStartMs": 117680,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Derek's answer is wrong."
+    } ]
+  }, {
+    "tStartMs": 119040,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "The light never turns off"
+    } ]
+  }, {
+    "tStartMs": 120880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "no matter the state of the switch."
+    } ]
+  }, {
+    "tStartMs": 122880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Some electrons will jump the\ngap and result in an extremely"
+    } ]
+  }, {
+    "tStartMs": 127040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "small continuous leakage current."
+    } ]
+  }, {
+    "tStartMs": 129120,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "- Let me be clear about\nwhat I am claiming."
+    } ]
+  }, {
+    "tStartMs": 131600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Okay, it is my claim\nthat we will see voltage"
+    } ]
+  }, {
+    "tStartMs": 134400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and current through the\nload that is many orders"
+    } ]
+  }, {
+    "tStartMs": 137040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "of magnitude greater than leakage current,"
+    } ]
+  }, {
+    "tStartMs": 139440,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "an amount of power"
+    } ]
+  }, {
+    "tStartMs": 140480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "that would actually produce visible light"
+    } ]
+  }, {
+    "tStartMs": 142320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "if you put it through\nan appropriate device,"
+    } ]
+  }, {
+    "tStartMs": 144800,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and we will see that power there"
+    } ]
+  }, {
+    "tStartMs": 146480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "in roughly the time it takes the light"
+    } ]
+  }, {
+    "tStartMs": 148160,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "to cross the one meter gap,"
+    } ]
+  }, {
+    "tStartMs": 150320,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "but to understand why this happens,"
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "we first have to clear\nup some misconceptions"
+    } ]
+  }, {
+    "tStartMs": 154320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that I saw in responses."
+    } ]
+  }, {
+    "tStartMs": 156320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Misconception number one\nis thinking that electrons"
+    } ]
+  }, {
+    "tStartMs": 159520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "carry the energy from\nthe battery to the bulb."
+    } ]
+  }, {
+    "tStartMs": 163760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Let's say we have a simple\ncircuit with a battery and a bulb"
+    } ]
+  }, {
+    "tStartMs": 166400,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "operating at steady state."
+    } ]
+  }, {
+    "tStartMs": 168080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "If you zoom in on the light bulb filament,"
+    } ]
+  }, {
+    "tStartMs": 170160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "you'd see a lattice of positively\ncharged cores of atoms,"
+    } ]
+  }, {
+    "tStartMs": 173600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the nucleus and lowest\nshells of electrons,"
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "surrounded by a sea of negative electrons,"
+    } ]
+  }, {
+    "tStartMs": 178800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "which are free to move around the lattice."
+    } ]
+  }, {
+    "tStartMs": 181120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The actual speed of these\nelectrons is very fast,"
+    } ]
+  }, {
+    "tStartMs": 184480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "around a million meters per second,"
+    } ]
+  }, {
+    "tStartMs": 186880,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "but all in random directions."
+    } ]
+  }, {
+    "tStartMs": 188960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "The average drift velocity of an electron"
+    } ]
+  }, {
+    "tStartMs": 191440,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "is less than 0.1 millimeters per second."
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Now frequently, an electron\nwill bump into a metal ion,"
+    } ]
+  }, {
+    "tStartMs": 198240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and transfer some or all\nof its kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 201040,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "to the lattice."
+    } ]
+  }, {
+    "tStartMs": 202320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The electron slows down\nand the metal lattice"
+    } ]
+  }, {
+    "tStartMs": 204880,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "starts wiggling more."
+    } ]
+  }, {
+    "tStartMs": 206160,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "It heats up."
+    } ]
+  }, {
+    "tStartMs": 207440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And ultimately this is\nwhat causes the filament"
+    } ]
+  }, {
+    "tStartMs": 210080,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "to glow and emit light."
+    } ]
+  }, {
+    "tStartMs": 211920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So a lot of people will\nlook at this and conclude"
+    } ]
+  }, {
+    "tStartMs": 214400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the electron carried the energy\nfrom the battery to the bulb"
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "where it dissipated its\nkinetic energy as heat,"
+    } ]
+  }, {
+    "tStartMs": 221280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "but consider, where did the\nelectron get its kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 224560,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "from before the collision?"
+    } ]
+  }, {
+    "tStartMs": 226640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It didn't carry that\nenergy from the battery."
+    } ]
+  }, {
+    "tStartMs": 229040,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "In fact, if the circuit has\nonly been on for a short time,"
+    } ]
+  }, {
+    "tStartMs": 231520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that electron hasn't been\nanywhere near the battery."
+    } ]
+  }, {
+    "tStartMs": 234400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So how was it accelerated\nbefore the collision?"
+    } ]
+  }, {
+    "tStartMs": 237600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The answer is, it was by an\nelectric field in the wire."
+    } ]
+  }, {
+    "tStartMs": 242320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "The electron repeatedly\ncollides with the lattice,"
+    } ]
+  }, {
+    "tStartMs": 245280,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "and loses energy."
+    } ]
+  }, {
+    "tStartMs": 246400,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And after each collision,"
+    } ]
+  }, {
+    "tStartMs": 247840,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "it is again accelerated\nby the electric field."
+    } ]
+  }, {
+    "tStartMs": 251360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So although it is the\nelectron that transfers energy"
+    } ]
+  }, {
+    "tStartMs": 253920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "to the lattice, the energy\ncame from the electric field."
+    } ]
+  }, {
+    "tStartMs": 258320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So where does that\nelectric field come from?"
+    } ]
+  }, {
+    "tStartMs": 260720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Well, a lot of animations make\nit look like the electrons"
+    } ]
+  }, {
+    "tStartMs": 263360,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "push each other through the circuit"
+    } ]
+  }, {
+    "tStartMs": 265040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "via their mutual repulsion."
+    } ]
+  }, {
+    "tStartMs": 267120,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So you might think the electric field"
+    } ]
+  }, {
+    "tStartMs": 268800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "comes from the electron behind it."
+    } ]
+  }, {
+    "tStartMs": 270880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There is the analogy of\nwater flowing through a hose,"
+    } ]
+  }, {
+    "tStartMs": 273440,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "or marbles in a tube."
+    } ]
+  }, {
+    "tStartMs": 275600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This is misconception two,\nthinking that mobile electrons"
+    } ]
+  }, {
+    "tStartMs": 279440,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "push each other through the circuit."
+    } ]
+  }, {
+    "tStartMs": 281520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "That is not how electrons\nflow in circuits."
+    } ]
+  }, {
+    "tStartMs": 285200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The truth is if you\naverage over a few atoms,"
+    } ]
+  }, {
+    "tStartMs": 288000,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "you find the charge density"
+    } ]
+  }, {
+    "tStartMs": 289520,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "everywhere inside a conductor is zero."
+    } ]
+  }, {
+    "tStartMs": 292240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The negative charge of\nelectrons and the positive cores"
+    } ]
+  }, {
+    "tStartMs": 294880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "of atoms perfectly cancel out."
+    } ]
+  }, {
+    "tStartMs": 297680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So for each repulsive\nforce between electrons,"
+    } ]
+  }, {
+    "tStartMs": 300320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "there is an equal and opposite\nforce from the positive ion"
+    } ]
+  }, {
+    "tStartMs": 303520,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "next to it."
+    } ]
+  }, {
+    "tStartMs": 304640,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "These forces cancel out."
+    } ]
+  }, {
+    "tStartMs": 306080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So mobile electrons cannot push\neach other through the wire."
+    } ]
+  }, {
+    "tStartMs": 310560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So where does the\nelectric field come from?"
+    } ]
+  }, {
+    "tStartMs": 313760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Misconception number\nthree is that it comes"
+    } ]
+  }, {
+    "tStartMs": 315920,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "entirely from the battery."
+    } ]
+  }, {
+    "tStartMs": 317840,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "This makes intuitive sense,"
+    } ]
+  }, {
+    "tStartMs": 319200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "since the battery is the\nactive element in the circuit,"
+    } ]
+  }, {
+    "tStartMs": 322000,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "it has a positive side\nand a negative side."
+    } ]
+  }, {
+    "tStartMs": 324240,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "So it has an electric field,"
+    } ]
+  }, {
+    "tStartMs": 326640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "but this is not the electric\nfield that all the electrons"
+    } ]
+  }, {
+    "tStartMs": 329600,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "within the wire experience."
+    } ]
+  }, {
+    "tStartMs": 331680,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Consider that the electric field"
+    } ]
+  }, {
+    "tStartMs": 333040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "of the battery is much\nlarger close to the battery."
+    } ]
+  }, {
+    "tStartMs": 336240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So if its field were really what's pushing"
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "the electrons around,"
+    } ]
+  }, {
+    "tStartMs": 339840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "then if you brought the light\nbulb close to the battery,"
+    } ]
+  }, {
+    "tStartMs": 342160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "then the bulb would glow much brighter."
+    } ]
+  }, {
+    "tStartMs": 344480,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "And it doesn't."
+    } ]
+  }, {
+    "tStartMs": 345680,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "The truth is that the\nelectric field in the wire"
+    } ]
+  }, {
+    "tStartMs": 348000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "comes both from the\nbattery and from charges"
+    } ]
+  }, {
+    "tStartMs": 351120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "on the surface of the\nwires of the circuit."
+    } ]
+  }, {
+    "tStartMs": 354240,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "As you go along the wire\nfrom the negative end"
+    } ]
+  }, {
+    "tStartMs": 356160,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "of the battery to the positive end,"
+    } ]
+  }, {
+    "tStartMs": 357920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "there is a gradient of charge\nbuilt up on its surface,"
+    } ]
+  }, {
+    "tStartMs": 361280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "starting with an excess of electrons,"
+    } ]
+  }, {
+    "tStartMs": 363840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "through to roughly no\ncharge in the middle,"
+    } ]
+  }, {
+    "tStartMs": 366560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "as we'll see the steepest\ncharge gradient is actually"
+    } ]
+  }, {
+    "tStartMs": 368960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "across the load to a\ndeficiency of electrons,"
+    } ]
+  }, {
+    "tStartMs": 372320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the exposed positive cores\nof atoms on the surface"
+    } ]
+  }, {
+    "tStartMs": 375600,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "of the positive end of the wire."
+    } ]
+  }, {
+    "tStartMs": 378240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "All these charges and the\ncharges on the battery"
+    } ]
+  }, {
+    "tStartMs": 380720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "create the electric field\neverywhere inside the wires."
+    } ]
+  }, {
+    "tStartMs": 384640,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "They also create an electric field"
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "in the space around the wires."
+    } ]
+  }, {
+    "tStartMs": 389120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "These surface charges were\nset up almost instantaneously"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "when the battery was\ninserted into the circuit."
+    } ]
+  }, {
+    "tStartMs": 394960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You might think you'd\nhave to move electrons"
+    } ]
+  }, {
+    "tStartMs": 396960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "a significant distance to\ncreate this charge distribution,"
+    } ]
+  }, {
+    "tStartMs": 400240,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "but that is not the case."
+    } ]
+  }, {
+    "tStartMs": 402720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Even a slight expansion or\ncontraction of the electron sea,"
+    } ]
+  }, {
+    "tStartMs": 406480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "with electrons moving on\naverage, the radius of a proton,"
+    } ]
+  }, {
+    "tStartMs": 409840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "can establish the surface charges you see."
+    } ]
+  }, {
+    "tStartMs": 413520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So the time for the charges to move"
+    } ]
+  }, {
+    "tStartMs": 415200,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "is completely negligible."
+    } ]
+  }, {
+    "tStartMs": 417280,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "The speed of the setup process is limited"
+    } ]
+  }, {
+    "tStartMs": 419200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "only by the speed of light."
+    } ]
+  }, {
+    "tStartMs": 422000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Once that surface charge\ndistribution has been established,"
+    } ]
+  }, {
+    "tStartMs": 424960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "the battery does continuous\nwork to maintain it,"
+    } ]
+  }, {
+    "tStartMs": 428080,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "by moving electrons through the battery"
+    } ]
+  }, {
+    "tStartMs": 430400,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "against the Coulomb force."
+    } ]
+  }, {
+    "tStartMs": 432720,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "In the load, the electric field"
+    } ]
+  }, {
+    "tStartMs": 434640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "created by all the surface\ncharges, accelerates electrons,"
+    } ]
+  }, {
+    "tStartMs": 438080,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "which dissipate their energy\nin collisions with the lattice."
+    } ]
+  }, {
+    "tStartMs": 441280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So the battery is putting\nenergy into the field,"
+    } ]
+  }, {
+    "tStartMs": 444560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "which electrons take out\nand transfer to the load."
+    } ]
+  }, {
+    "tStartMs": 448480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "An electrical engineer\nwho made a response video,"
+    } ]
+  }, {
+    "tStartMs": 450720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Ben Watson, came up with a good analogy."
+    } ]
+  }, {
+    "tStartMs": 453360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The battery is like a shepherd."
+    } ]
+  }, {
+    "tStartMs": 456000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "The surface charges are the sheep dogs"
+    } ]
+  }, {
+    "tStartMs": 458160,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "responding to his orders."
+    } ]
+  }, {
+    "tStartMs": 459840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And the mobile electrons are the sheep,"
+    } ]
+  }, {
+    "tStartMs": 462320,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "guided by those barking dogs."
+    } ]
+  }, {
+    "tStartMs": 465440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The surface charge description\nof electric circuits"
+    } ]
+  }, {
+    "tStartMs": 467840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is omitted from most textbooks,"
+    } ]
+  }, {
+    "tStartMs": 469840,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "but there is a great treatment of it"
+    } ]
+  }, {
+    "tStartMs": 471520,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "in Matter and Interactions\nby Chabay and Sherwood."
+    } ]
+  }, {
+    "tStartMs": 475360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "They also have a VPython\nsimulation where you can see"
+    } ]
+  }, {
+    "tStartMs": 478320,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "the positive surface charge in red,"
+    } ]
+  }, {
+    "tStartMs": 480400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and negative surface charge in blue."
+    } ]
+  }, {
+    "tStartMs": 483040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "You can see how this\nentire charge distribution"
+    } ]
+  }, {
+    "tStartMs": 485600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "creates a net electric field\nshown by the orange arrow,"
+    } ]
+  }, {
+    "tStartMs": 489520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "everywhere in and around the circuit,"
+    } ]
+  }, {
+    "tStartMs": 492080,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "everywhere inside the wire,"
+    } ]
+  }, {
+    "tStartMs": 493840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the electric field has the same magnitude"
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and its direction is along the wire."
+    } ]
+  }, {
+    "tStartMs": 499040,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "This is really showing\nyou the electric field"
+    } ]
+  }, {
+    "tStartMs": 500880,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "in the center of the wire, but\nit's depicted on the surface"
+    } ]
+  }, {
+    "tStartMs": 503840,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "so you can see it."
+    } ]
+  }, {
+    "tStartMs": 505680,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "In this circuit,"
+    } ]
+  }, {
+    "tStartMs": 506800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "all the conductors are\nmade of the same material,"
+    } ]
+  }, {
+    "tStartMs": 508960,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "but the segment at the bottom"
+    } ]
+  }, {
+    "tStartMs": 510320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "has a much narrower cross section."
+    } ]
+  }, {
+    "tStartMs": 512320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So it represents a resistor."
+    } ]
+  }, {
+    "tStartMs": 514640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Since the cross sectional area is smaller,"
+    } ]
+  }, {
+    "tStartMs": 517200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the electron drift velocity\nthrough the resistor"
+    } ]
+  }, {
+    "tStartMs": 519600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "has to be higher so that it\ncan carry the same current"
+    } ]
+  }, {
+    "tStartMs": 523040,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "as everywhere else in the circuit."
+    } ]
+  }, {
+    "tStartMs": 525360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Now, drift velocity is\ndirectly proportional"
+    } ]
+  }, {
+    "tStartMs": 527920,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "to electric field."
+    } ]
+  }, {
+    "tStartMs": 529440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So the electric field must be\nlargest inside the resistor."
+    } ]
+  }, {
+    "tStartMs": 533360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And this is achieved by\nhaving the steepest gradient"
+    } ]
+  }, {
+    "tStartMs": 535920,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "of surface charges here."
+    } ]
+  }, {
+    "tStartMs": 538480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "You can also see the contribution\nto the net electric field"
+    } ]
+  }, {
+    "tStartMs": 541600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "from the battery in magenta,"
+    } ]
+  }, {
+    "tStartMs": 543520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and the contribution from\nsurface charges in green."
+    } ]
+  }, {
+    "tStartMs": 546960,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Far from the battery,"
+    } ]
+  }, {
+    "tStartMs": 548080,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "most of the electric field\nis due to surface charges,"
+    } ]
+  }, {
+    "tStartMs": 550880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "whereas close to the battery,\nit has a greater contribution"
+    } ]
+  }, {
+    "tStartMs": 554080,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "and the field due to surface charges"
+    } ]
+  }, {
+    "tStartMs": 555520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is actually in the opposite direction"
+    } ]
+  }, {
+    "tStartMs": 557520,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "to the field from the battery."
+    } ]
+  }, {
+    "tStartMs": 559760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So to sum up, electrons\ndon't carry the energy"
+    } ]
+  }, {
+    "tStartMs": 562640,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "from battery to bulb,"
+    } ]
+  }, {
+    "tStartMs": 564240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "nor do they push each\nother through the wire."
+    } ]
+  }, {
+    "tStartMs": 567040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "They are pushed along\nby an electric field,"
+    } ]
+  }, {
+    "tStartMs": 569600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "which is created by\ncharges on the battery,"
+    } ]
+  }, {
+    "tStartMs": 571840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and charges on the surface of the wires."
+    } ]
+  }, {
+    "tStartMs": 574640,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "With this view of circuits,"
+    } ]
+  }, {
+    "tStartMs": 576240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "things that might have\npreviously seemed mysterious,"
+    } ]
+  }, {
+    "tStartMs": 578720,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "make a lot more sense."
+    } ]
+  }, {
+    "tStartMs": 580400,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Like if electrons leave a\nbattery at the same rate,"
+    } ]
+  }, {
+    "tStartMs": 583360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and with the same drift\nvelocity as they return,"
+    } ]
+  }, {
+    "tStartMs": 586160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "how do they carry energy from the battery?"
+    } ]
+  }, {
+    "tStartMs": 589120,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "The answer is they don't."
+    } ]
+  }, {
+    "tStartMs": 591280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "They are accelerated by the electric field"
+    } ]
+  }, {
+    "tStartMs": 593600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "before each collision with the lattice."
+    } ]
+  }, {
+    "tStartMs": 596560,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "At a junction, how do the\ncorrect number of electrons"
+    } ]
+  }, {
+    "tStartMs": 599760,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "go down each path?"
+    } ]
+  }, {
+    "tStartMs": 601600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Well, they're guided\nby the electric field,"
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "which extends everywhere\nthroughout the circuit."
+    } ]
+  }, {
+    "tStartMs": 607040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "The fields are the main actors,"
+    } ]
+  }, {
+    "tStartMs": 609120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "extending everywhere\nthroughout the circuit,"
+    } ]
+  }, {
+    "tStartMs": 611200,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and the electrons are just their pawns."
+    } ]
+  }, {
+    "tStartMs": 615200,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So how does this apply to the big circuit?"
+    } ]
+  }, {
+    "tStartMs": 617680,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "When the battery is\nconnected into the circuit,"
+    } ]
+  }, {
+    "tStartMs": 619920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "even with the switch open,\ncharges rearrange themselves."
+    } ]
+  }, {
+    "tStartMs": 623360,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "On the negative side of the battery,"
+    } ]
+  }, {
+    "tStartMs": 624720,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "there is an excess of electrons"
+    } ]
+  }, {
+    "tStartMs": 626320,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "on the surface of the\nwires and the switch."
+    } ]
+  }, {
+    "tStartMs": 628720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "On the positive side, there\nis a deficiency of electrons."
+    } ]
+  }, {
+    "tStartMs": 631680,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So positive charges built up\non the surface of the wires."
+    } ]
+  }, {
+    "tStartMs": 635600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "The charges rearrange themselves\nuntil the electric field"
+    } ]
+  }, {
+    "tStartMs": 638560,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "is zero everywhere inside the conductor."
+    } ]
+  }, {
+    "tStartMs": 642000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "This electric field is due\nto all the surface charges"
+    } ]
+  }, {
+    "tStartMs": 644960,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "and the charges on the battery."
+    } ]
+  }, {
+    "tStartMs": 647120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "There is an electric\nfield outside the wires"
+    } ]
+  }, {
+    "tStartMs": 649200,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "due to these charges, but\nit's zero inside the wires."
+    } ]
+  }, {
+    "tStartMs": 653200,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "We now have the full potential difference"
+    } ]
+  }, {
+    "tStartMs": 655040,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "of the battery across the switch."
+    } ]
+  }, {
+    "tStartMs": 656640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And no current is full flowing,\nexcept for leakage current,"
+    } ]
+  }, {
+    "tStartMs": 659920,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "which I'll assume is negligible."
+    } ]
+  }, {
+    "tStartMs": 662400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "When we close the switch,"
+    } ]
+  }, {
+    "tStartMs": 664000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "the surface charges on\nboth sides of the switch"
+    } ]
+  }, {
+    "tStartMs": 666480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "neutralize each other on contact."
+    } ]
+  }, {
+    "tStartMs": 668720,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And at that instant,"
+    } ]
+  }, {
+    "tStartMs": 670160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the electric field inside the\nconductor is no longer zero,"
+    } ]
+  }, {
+    "tStartMs": 674160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and current starts flowing\nthrough the switch."
+    } ]
+  }, {
+    "tStartMs": 677120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Simultaneously, the new electric field"
+    } ]
+  }, {
+    "tStartMs": 679680,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "from the modified surface charges"
+    } ]
+  }, {
+    "tStartMs": 681600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "radiates outwards at\nessentially the speed of light."
+    } ]
+  }, {
+    "tStartMs": 684560,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "And when it reaches the bulb,"
+    } ]
+  }, {
+    "tStartMs": 686320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the electric field inside\nit is no longer zero."
+    } ]
+  }, {
+    "tStartMs": 689600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So current starts to flow here too."
+    } ]
+  }, {
+    "tStartMs": 692160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "This is why I said the bulb\nlights up in 1/c seconds,"
+    } ]
+  }, {
+    "tStartMs": 695360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "because the bulb was one\nmeter from the switch,"
+    } ]
+  }, {
+    "tStartMs": 698080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and the change in the\nelectric field travels out"
+    } ]
+  }, {
+    "tStartMs": 700480,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "at the speed of light."
+    } ]
+  }, {
+    "tStartMs": 701840,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "As some of you pointed out,"
+    } ]
+  }, {
+    "tStartMs": 702960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "the answer should have been\none meter divided by C."
+    } ]
+  }, {
+    "tStartMs": 706320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And I apologize for the\ncasual use of units."
+    } ]
+  }, {
+    "tStartMs": 710080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "If you were to move the switch,"
+    } ]
+  }, {
+    "tStartMs": 712160,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "then the bulb would take"
+    } ]
+  }, {
+    "tStartMs": 713200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "a different amount of time to emit light,"
+    } ]
+  }, {
+    "tStartMs": 715440,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "which just depends on the distance"
+    } ]
+  }, {
+    "tStartMs": 716960,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "between the switch and the bulb."
+    } ]
+  }, {
+    "tStartMs": 719680,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "In response to my original video,"
+    } ]
+  }, {
+    "tStartMs": 721440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Ben Watson simulated\na model of the circuit"
+    } ]
+  }, {
+    "tStartMs": 724000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "using software from Ansys called HFSS."
+    } ]
+  }, {
+    "tStartMs": 727360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It provides a complete\nsolution to Maxwell's equations"
+    } ]
+  }, {
+    "tStartMs": 730320,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "in three dimensions."
+    } ]
+  }, {
+    "tStartMs": 731920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Now have worked with Ben and Ansys"
+    } ]
+  }, {
+    "tStartMs": 733920,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "to make these simulations."
+    } ]
+  }, {
+    "tStartMs": 736320,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "When the switch is closed,"
+    } ]
+  }, {
+    "tStartMs": 737680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "you can see the electric\nfield radiate out,"
+    } ]
+  }, {
+    "tStartMs": 740560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and as it hits the far\nwire, it generates current."
+    } ]
+  }, {
+    "tStartMs": 744000,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "The electric field is to the right."
+    } ]
+  }, {
+    "tStartMs": 745680,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So the electrons flow to the left."
+    } ]
+  }, {
+    "tStartMs": 748640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This simulation shows the\nmagnitude of the magnetic field,"
+    } ]
+  }, {
+    "tStartMs": 752000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "which falls off pretty\nrapidly as it crosses the gap."
+    } ]
+  }, {
+    "tStartMs": 755440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But then a magnetic field\nappears around the far wire,"
+    } ]
+  }, {
+    "tStartMs": 759360,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "and this magnetic field is created"
+    } ]
+  }, {
+    "tStartMs": 761120,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "by the current in that wire."
+    } ]
+  }, {
+    "tStartMs": 763680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "To me, this suggests that it\nreally is the electric field,"
+    } ]
+  }, {
+    "tStartMs": 766640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and not the changing magnetic field"
+    } ]
+  }, {
+    "tStartMs": 768560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "that creates the current through the load."
+    } ]
+  }, {
+    "tStartMs": 771840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Some commenters on the original video"
+    } ]
+  }, {
+    "tStartMs": 773680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "claimed my answer of\nthree or four nanoseconds"
+    } ]
+  }, {
+    "tStartMs": 776560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "violates causality."
+    } ]
+  }, {
+    "tStartMs": 778080,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I guess they were thinking that the bulb"
+    } ]
+  }, {
+    "tStartMs": 779440,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "would only go on if the\ncircuit were complete."
+    } ]
+  }, {
+    "tStartMs": 781680,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And it wouldn't if the\ncircuit were broken somewhere,"
+    } ]
+  }, {
+    "tStartMs": 783920,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "which could be up to\nhalf a light second away."
+    } ]
+  }, {
+    "tStartMs": 786800,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "So it seemed like I was saying,"
+    } ]
+  }, {
+    "tStartMs": 788560,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "we could get information about the status"
+    } ]
+  }, {
+    "tStartMs": 790240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of the whole circuit, even\nhalf a light second away,"
+    } ]
+  }, {
+    "tStartMs": 793120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "in just nanosecond seconds."
+    } ]
+  }, {
+    "tStartMs": 795200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But that is not what I was saying."
+    } ]
+  }, {
+    "tStartMs": 797840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What I should have stated explicitly,"
+    } ]
+  }, {
+    "tStartMs": 799440,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "is that the bulb goes on"
+    } ]
+  }, {
+    "tStartMs": 800960,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "regardless of whether the\ncircuit is complete or not."
+    } ]
+  }, {
+    "tStartMs": 804560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "The current flows through the load"
+    } ]
+  }, {
+    "tStartMs": 806080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "due to the electric field it experiences."
+    } ]
+  }, {
+    "tStartMs": 809280,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "To illustrate this, Ben added\na wire below the circuit"
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that is completely disconnected from it."
+    } ]
+  }, {
+    "tStartMs": 814640,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "You can see is that its response"
+    } ]
+  }, {
+    "tStartMs": 816480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "to the changing electric\nfield is virtually identical"
+    } ]
+  }, {
+    "tStartMs": 819040,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "to that of the top wire,"
+    } ]
+  }, {
+    "tStartMs": 820720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "at least up until the\nsignal reaches the far end"
+    } ]
+  }, {
+    "tStartMs": 823120,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "and reflects back."
+    } ]
+  }, {
+    "tStartMs": 824960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "This is why my answer\ndoesn't break causality."
+    } ]
+  }, {
+    "tStartMs": 827600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "At least initially, connected\nand disconnected wires"
+    } ]
+  }, {
+    "tStartMs": 830560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "behave exactly the same."
+    } ]
+  }, {
+    "tStartMs": 833200,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Using this software,"
+    } ]
+  }, {
+    "tStartMs": 834320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "you can also simulate the Poynting vector"
+    } ]
+  }, {
+    "tStartMs": 836480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that is the cross product of\nelectric and magnetic fields."
+    } ]
+  }, {
+    "tStartMs": 839840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "In the last video, I showed\nhow the Poynting vector"
+    } ]
+  }, {
+    "tStartMs": 842080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "indicates the direction of energy flow."
+    } ]
+  }, {
+    "tStartMs": 844480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And after the switch is closed,"
+    } ]
+  }, {
+    "tStartMs": 846320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "the Poynting vector\npoints out of the battery,"
+    } ]
+  }, {
+    "tStartMs": 848640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "across the gap to the other\nwire, whether connected or not,"
+    } ]
+  }, {
+    "tStartMs": 852800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "because energy is carried\nby fields and not electrons,"
+    } ]
+  }, {
+    "tStartMs": 856320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it can go straight across the gap."
+    } ]
+  }, {
+    "tStartMs": 859440,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So you might ask, why\ndo we need wires at all?"
+    } ]
+  }, {
+    "tStartMs": 862320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Well, we don't, I mean,\nphones and toothbrushes"
+    } ]
+  }, {
+    "tStartMs": 865040,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "charge without wires connecting them"
+    } ]
+  }, {
+    "tStartMs": 866560,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "to a stream of electrons,"
+    } ]
+  }, {
+    "tStartMs": 868320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and researchers have\ndemonstrated remote charging"
+    } ]
+  }, {
+    "tStartMs": 870880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "using the energy from WiFi signals."
+    } ]
+  }, {
+    "tStartMs": 873840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Wires are more efficient\nbecause they channel the fields"
+    } ]
+  }, {
+    "tStartMs": 876880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and hence the energy from source to load."
+    } ]
+  }, {
+    "tStartMs": 879920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Here's another angle\non the Poynting vector."
+    } ]
+  }, {
+    "tStartMs": 882000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And you can see once there\nis current in the top wire,"
+    } ]
+  }, {
+    "tStartMs": 884960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "the fields around it carry\nenergy in both directions."
+    } ]
+  }, {
+    "tStartMs": 888640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Now, of course, the\nPoynting vector also points"
+    } ]
+  }, {
+    "tStartMs": 890880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "parallel to the first wire,"
+    } ]
+  }, {
+    "tStartMs": 892560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "carrying the energy around the circuit"
+    } ]
+  }, {
+    "tStartMs": 894080,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "as most people would expect."
+    } ]
+  }, {
+    "tStartMs": 895840,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But again, note how the energy\nis carried outside the wires,"
+    } ]
+  }, {
+    "tStartMs": 899280,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "not in the wires."
+    } ]
+  }, {
+    "tStartMs": 901760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Now admittedly, thinking\nabout circuits this way"
+    } ]
+  }, {
+    "tStartMs": 904560,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "is complicated."
+    } ]
+  }, {
+    "tStartMs": 905760,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And since nobody wants to\nsolve Maxwell's equations"
+    } ]
+  }, {
+    "tStartMs": 908320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "in three dimensions just to\nanalyze a basic circuit,"
+    } ]
+  }, {
+    "tStartMs": 910960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "scientists and engineers\nhave worked out shortcuts."
+    } ]
+  }, {
+    "tStartMs": 914080,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "For example, Ohm's law,"
+    } ]
+  }, {
+    "tStartMs": 915680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "voltage equals current times resistance,"
+    } ]
+  }, {
+    "tStartMs": 918080,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "is just the macroscopic result\nof all the surface charges,"
+    } ]
+  }, {
+    "tStartMs": 921760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "their electric fields\nand zillions of electrons"
+    } ]
+  }, {
+    "tStartMs": 924880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "bumping into zillions of metal ions."
+    } ]
+  }, {
+    "tStartMs": 927760,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You can simplify all that physics"
+    } ]
+  }, {
+    "tStartMs": 929680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "into a single circuit element, a resistor,"
+    } ]
+  }, {
+    "tStartMs": 932560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and the basic quantities\nof current and voltage."
+    } ]
+  }, {
+    "tStartMs": 935600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "This is called the lumped element model,"
+    } ]
+  }, {
+    "tStartMs": 938240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "lump all the spread-out\nmulti particle and field"
+    } ]
+  }, {
+    "tStartMs": 941040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "interactions into a few\ndiscrete circuit elements."
+    } ]
+  }, {
+    "tStartMs": 944880,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "And we use this technique"
+    } ]
+  }, {
+    "tStartMs": 946160,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "every time we draw a circuit diagram."
+    } ]
+  }, {
+    "tStartMs": 948960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So our original diagram of\nthe big circuit is flawed"
+    } ]
+  }, {
+    "tStartMs": 952080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "because fields between the wires"
+    } ]
+  }, {
+    "tStartMs": 954000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "are important to the problem,"
+    } ]
+  }, {
+    "tStartMs": 956000,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "but there are no circuit elements"
+    } ]
+  }, {
+    "tStartMs": 957520,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "to indicate these interactions."
+    } ]
+  }, {
+    "tStartMs": 960000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "To fix it, we need to add\ncapacitors all down the wires."
+    } ]
+  }, {
+    "tStartMs": 964320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "These capture the effect\ncharges on one wire"
+    } ]
+  }, {
+    "tStartMs": 966800,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "have on the other."
+    } ]
+  }, {
+    "tStartMs": 968320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "If there are negative\ncharges on the surface"
+    } ]
+  }, {
+    "tStartMs": 969920,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "of the bottom wire, for example,"
+    } ]
+  }, {
+    "tStartMs": 971520,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "they'll induce positive charges"
+    } ]
+  }, {
+    "tStartMs": 973120,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "on the surface of the top wire."
+    } ]
+  }, {
+    "tStartMs": 975440,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Also, since these wires are long,"
+    } ]
+  }, {
+    "tStartMs": 977280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "they're gonna create\nsignificant magnetic fields"
+    } ]
+  }, {
+    "tStartMs": 979440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "around them, which resist\nchanges in current."
+    } ]
+  }, {
+    "tStartMs": 982320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So we model this with inductors\nall the way down the wires."
+    } ]
+  }, {
+    "tStartMs": 986640,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "We could also add resistors,"
+    } ]
+  }, {
+    "tStartMs": 988480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "making what electrical\nengineers would recognize"
+    } ]
+  }, {
+    "tStartMs": 990720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "as the distributed element\nmodel for a transmission line."
+    } ]
+  }, {
+    "tStartMs": 994720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "But we're assuming that these\nwires are super conducting."
+    } ]
+  }, {
+    "tStartMs": 997920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So this is how we could model"
+    } ]
+  }, {
+    "tStartMs": 1000000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "a super conducting transmission line."
+    } ]
+  }, {
+    "tStartMs": 1003200,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "This diagram offers another\nway of understanding"
+    } ]
+  }, {
+    "tStartMs": 1005760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "why current flows through\nthe load almost immediately."
+    } ]
+  }, {
+    "tStartMs": 1009200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "When you first apply a\nvoltage across a capacitor,"
+    } ]
+  }, {
+    "tStartMs": 1012320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "current flows as opposite charge builds up"
+    } ]
+  }, {
+    "tStartMs": 1014880,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "on the two plates."
+    } ]
+  }, {
+    "tStartMs": 1016240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "In the short time limit, a\ncapacitor is a short circuit."
+    } ]
+  }, {
+    "tStartMs": 1019760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It acts just like an ordinary wire."
+    } ]
+  }, {
+    "tStartMs": 1022560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Once it's charged up,\nno more current flows,"
+    } ]
+  }, {
+    "tStartMs": 1025520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "but by this point, the next\ncapacitor is charging up."
+    } ]
+  }, {
+    "tStartMs": 1028400,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And then the next one,\nand then the next one."
+    } ]
+  }, {
+    "tStartMs": 1030640,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And so we have a loop of\ncurrent that is expanding out"
+    } ]
+  }, {
+    "tStartMs": 1034560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "at roughly the speed of light."
+    } ]
+  }, {
+    "tStartMs": 1036720,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "This is of course, just\nanother way of talking"
+    } ]
+  }, {
+    "tStartMs": 1038560,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "about the effect the electric field"
+    } ]
+  }, {
+    "tStartMs": 1040400,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "that the bottom wire has on the top wire."
+    } ]
+  }, {
+    "tStartMs": 1043280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "One reason it's useful to\nlook at the circuit this way,"
+    } ]
+  }, {
+    "tStartMs": 1045760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "is because you can use\nthe values of inductance"
+    } ]
+  }, {
+    "tStartMs": 1048240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and capacitance to calculate\nthe characteristic impedance"
+    } ]
+  }, {
+    "tStartMs": 1051600,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "of the transmission lines."
+    } ]
+  }, {
+    "tStartMs": 1053280,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "You can think of this as the resistance"
+    } ]
+  }, {
+    "tStartMs": 1055040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "to alternating current\nthat a source would see"
+    } ]
+  }, {
+    "tStartMs": 1057600,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "when sending a signal down the wires."
+    } ]
+  }, {
+    "tStartMs": 1059920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The characteristic impedance\nis equal to the square root"
+    } ]
+  }, {
+    "tStartMs": 1062800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "of inductance divided by capacitance."
+    } ]
+  }, {
+    "tStartMs": 1065520,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "And for our circuit,"
+    } ]
+  }, {
+    "tStartMs": 1066480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I measured the capacitance and\nthe inductance of the lines,"
+    } ]
+  }, {
+    "tStartMs": 1071040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "- 11.85, call it, micro Henry's."
+    } ]
+  }, {
+    "tStartMs": 1073360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "- So we got a characteristic\nimpedance of about 550 Ohms."
+    } ]
+  }, {
+    "tStartMs": 1078240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "To maximize the power\ndelivered to our load,"
+    } ]
+  }, {
+    "tStartMs": 1080880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "we want its resistance to\nequal the sum of the other"
+    } ]
+  }, {
+    "tStartMs": 1083760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "impedances in the circuit."
+    } ]
+  }, {
+    "tStartMs": 1085440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So that's why we picked\na 1.1 kilo-Ohm resistor."
+    } ]
+  }, {
+    "tStartMs": 1089280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Now, I hope you're convinced\nthat current will flow"
+    } ]
+  }, {
+    "tStartMs": 1091600,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "as soon as the electric\nfield reaches the far wire."
+    } ]
+  }, {
+    "tStartMs": 1094160,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "The question is, how much?"
+    } ]
+  }, {
+    "tStartMs": 1096080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Are we gonna see an appreciable voltage"
+    } ]
+  }, {
+    "tStartMs": 1098640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "even with these lines a meter apart?"
+    } ]
+  }, {
+    "tStartMs": 1101840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "That's what it seemed like a\nlot of people were doubting"
+    } ]
+  }, {
+    "tStartMs": 1104880,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "in the last video."
+    } ]
+  }, {
+    "tStartMs": 1105760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So that's really what we\nwant to find out here."
+    } ]
+  }, {
+    "tStartMs": 1110560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Okay, so now we're\nputting a pulse in there."
+    } ]
+  }, {
+    "tStartMs": 1113080,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "- Yep."
+    } ]
+  }, {
+    "tStartMs": 1115120,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Well looky, looky, Derek."
+    } ]
+  }, {
+    "tStartMs": 1117080,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "- So what do we got\nthat yellow one is our-"
+    } ]
+  }, {
+    "tStartMs": 1120080,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "- Got a fraction of the\napplied voltage overshoot."
+    } ]
+  }, {
+    "tStartMs": 1123120,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "And then-"
+    } ]
+  }, {
+    "tStartMs": 1123440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- So it looks to me\nlike the initial voltage"
+    } ]
+  }, {
+    "tStartMs": 1125600,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "that we're getting is about-"
+    } ]
+  }, {
+    "tStartMs": 1126560,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "- Five volts per division."
+    } ]
+  }, {
+    "tStartMs": 1127920,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So it looks like about five volts,"
+    } ]
+  }, {
+    "tStartMs": 1130080,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "roughly four or five volts."
+    } ]
+  }, {
+    "tStartMs": 1131280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "- The green curve rising\nup to around 18 volts"
+    } ]
+  }, {
+    "tStartMs": 1134800,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "is the source voltage."
+    } ]
+  }, {
+    "tStartMs": 1136160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And the yellow line is the\nvoltage across the resistor."
+    } ]
+  }, {
+    "tStartMs": 1139360,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So after just a few nanoseconds,"
+    } ]
+  }, {
+    "tStartMs": 1141280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "this voltage rises to around four volts."
+    } ]
+  }, {
+    "tStartMs": 1144800,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Since the resistor was a kilo-Ohm,"
+    } ]
+  }, {
+    "tStartMs": 1146560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "that means four milliamps of current"
+    } ]
+  }, {
+    "tStartMs": 1148800,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "are flowing in the resistor,"
+    } ]
+  }, {
+    "tStartMs": 1150080,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "before the signal goes all\nthe way around the circuit."
+    } ]
+  }, {
+    "tStartMs": 1152880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So we were transferring\nabout 14 milliwatts of power."
+    } ]
+  }, {
+    "tStartMs": 1156880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "This is what 14 milliwatts\nof light actually looks like."
+    } ]
+  }, {
+    "tStartMs": 1160640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So, yeah, it's not a fully on bulb,"
+    } ]
+  }, {
+    "tStartMs": 1162560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "but it is visible light and\nway more than you would get"
+    } ]
+  }, {
+    "tStartMs": 1165600,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "from just leakage current."
+    } ]
+  }, {
+    "tStartMs": 1167360,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Now, some of you may argue,"
+    } ]
+  }, {
+    "tStartMs": 1168640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "it's unfair to use a little\nLED when I showed a bulb"
+    } ]
+  }, {
+    "tStartMs": 1172320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and car battery in the original video,"
+    } ]
+  }, {
+    "tStartMs": 1174880,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "but those items were for\nillustrative purposes only."
+    } ]
+  }, {
+    "tStartMs": 1178480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The clue that this is\nactually a thought experiment"
+    } ]
+  }, {
+    "tStartMs": 1181040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "is the two light-seconds\nof super conducting wire"
+    } ]
+  }, {
+    "tStartMs": 1184240,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "that stretch out into space."
+    } ]
+  }, {
+    "tStartMs": 1186400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "This is not an engineering\nquestion about how best"
+    } ]
+  }, {
+    "tStartMs": 1189440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to wire up a light bulb in your bedroom."
+    } ]
+  }, {
+    "tStartMs": 1192080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "The question was intentionally vague."
+    } ]
+  }, {
+    "tStartMs": 1194160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And if you want to\nchoose circuit components"
+    } ]
+  }, {
+    "tStartMs": 1196320,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "such that the bulb never goes on,"
+    } ]
+  }, {
+    "tStartMs": 1198160,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "you are welcome to do that"
+    } ]
+  }, {
+    "tStartMs": 1199520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and I support your conclusion."
+    } ]
+  }, {
+    "tStartMs": 1201760,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Just to me, the most interesting way"
+    } ]
+  }, {
+    "tStartMs": 1203600,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "to approach this problem is to ask,"
+    } ]
+  }, {
+    "tStartMs": 1205520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "how could you make the\nlight go on fastest?"
+    } ]
+  }, {
+    "tStartMs": 1208560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I was worried that those\nlong wires would pick up"
+    } ]
+  }, {
+    "tStartMs": 1211520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "all the radio waves passing through,"
+    } ]
+  }, {
+    "tStartMs": 1214000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "and we wouldn't even be able to see"
+    } ]
+  }, {
+    "tStartMs": 1215760,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "the signal for that noise,"
+    } ]
+  }, {
+    "tStartMs": 1217280,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "but you can see clearly on the graph"
+    } ]
+  }, {
+    "tStartMs": 1219200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "that the signal is way\nabove the noise level."
+    } ]
+  }, {
+    "tStartMs": 1222960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Alpha Phoenix set up a kilometer of wire"
+    } ]
+  }, {
+    "tStartMs": 1225360,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "and got a very similar result."
+    } ]
+  }, {
+    "tStartMs": 1226880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "- So the light bulb turns on a little bit,"
+    } ]
+  }, {
+    "tStartMs": 1230960,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and then after one light-speed delay,"
+    } ]
+  }, {
+    "tStartMs": 1232560,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "the light bulb turns\non the rest of the way."
+    } ]
+  }, {
+    "tStartMs": 1234280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "- YouTuber, ZY, simulated the\ntransmission line circuit,"
+    } ]
+  }, {
+    "tStartMs": 1238240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and found that even with\nrealistic assumptions,"
+    } ]
+  }, {
+    "tStartMs": 1240640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "he transferred 12 milliwatts\nto the load straight away."
+    } ]
+  }, {
+    "tStartMs": 1243600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- Derek is actually more correct"
+    } ]
+  }, {
+    "tStartMs": 1245520,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "than we give him credit for."
+    } ]
+  }, {
+    "tStartMs": 1246560,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So, I believe that he's\ncorrect on all counts."
+    } ]
+  }, {
+    "tStartMs": 1248240,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "And the question is neither deceptive"
+    } ]
+  }, {
+    "tStartMs": 1249840,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "or requires like technicalities."
+    } ]
+  }, {
+    "tStartMs": 1251360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "- So everyone agrees that a steady, small,"
+    } ]
+  }, {
+    "tStartMs": 1254960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "but way-bigger-than-leakage-current signal"
+    } ]
+  }, {
+    "tStartMs": 1257040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "flows through the load in the first second"
+    } ]
+  }, {
+    "tStartMs": 1259200,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "after the switch is closed."
+    } ]
+  }, {
+    "tStartMs": 1261040,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Is it enough to emit light?"
+    } ]
+  }, {
+    "tStartMs": 1263200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, if you use an LED."
+    } ]
+  }, {
+    "tStartMs": 1265920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "But the point of the thought experiment"
+    } ]
+  }, {
+    "tStartMs": 1267840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "was to reveal something\nthat's normally hidden"
+    } ]
+  }, {
+    "tStartMs": 1270160,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "by the way that we think about\nand teach electric circuits."
+    } ]
+  }, {
+    "tStartMs": 1273280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "You know, we use voltage and\ncurrent and lumped elements"
+    } ]
+  }, {
+    "tStartMs": 1276160,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "because they're more convenient"
+    } ]
+  }, {
+    "tStartMs": 1277840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "than working with Maxwell's equations,"
+    } ]
+  }, {
+    "tStartMs": 1280080,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "but we shouldn't forget\nthat the main actors"
+    } ]
+  }, {
+    "tStartMs": 1283040,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "are actually the fields."
+    } ]
+  }, {
+    "tStartMs": 1285200,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "They are what carry the energy,"
+    } ]
+  }, {
+    "tStartMs": 1287680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and you don't have to take my word for it."
+    } ]
+  }, {
+    "tStartMs": 1289680,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "This is Rick Hartley,"
+    } ]
+  }, {
+    "tStartMs": 1291120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a veteran printed circuit board designer."
+    } ]
+  }, {
+    "tStartMs": 1293120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "- I used to think in terms\nof voltage and current."
+    } ]
+  }, {
+    "tStartMs": 1296160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And I used to think that\nthe energy in the circuit"
+    } ]
+  }, {
+    "tStartMs": 1298400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "was in the voltage and\ncurrent, but it's not."
+    } ]
+  }, {
+    "tStartMs": 1301120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The energy in the\ncircuit is in the fields."
+    } ]
+  }, {
+    "tStartMs": 1304400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "The most important thing you need to know"
+    } ]
+  }, {
+    "tStartMs": 1307280,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "is that when you route a trace,"
+    } ]
+  }, {
+    "tStartMs": 1309040,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "you better define the other\nside of that transmission line,"
+    } ]
+  }, {
+    "tStartMs": 1313040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "because if you don't, those\nfields are gonna spread"
+    } ]
+  }, {
+    "tStartMs": 1316320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and they're gonna leave\nyou an unhappy individual."
+    } ]
+  }, {
+    "tStartMs": 1319280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "- I think one of the things\nthat I'm most excited"
+    } ]
+  }, {
+    "tStartMs": 1322640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "about the circuit's video\nwas the response videos"
+    } ]
+  }, {
+    "tStartMs": 1325600,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I saw by so many people,"
+    } ]
+  }, {
+    "tStartMs": 1327280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "especially people with\nfar better credentials"
+    } ]
+  }, {
+    "tStartMs": 1329840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "in electrical engineering than me."
+    } ]
+  }, {
+    "tStartMs": 1332560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I really enjoyed watching those videos."
+    } ]
+  }, {
+    "tStartMs": 1334960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So I feel like my circuits\nvideo was kind of like,"
+    } ]
+  }, {
+    "tStartMs": 1338160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "a mistake on my part in certain ways"
+    } ]
+  }, {
+    "tStartMs": 1340480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "that I didn't delve deep enough"
+    } ]
+  }, {
+    "tStartMs": 1342160,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "into this part of the problem."
+    } ]
+  }, {
+    "tStartMs": 1343920,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I honestly didn't think that this"
+    } ]
+  }, {
+    "tStartMs": 1345520,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "was the focus of the video,"
+    } ]
+  }, {
+    "tStartMs": 1347040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "but clearly everyone who\nwatched it did, so that's on me,"
+    } ]
+  }, {
+    "tStartMs": 1352160,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "but by making that mistake,"
+    } ]
+  }, {
+    "tStartMs": 1353840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and by not going deep into my explanation,"
+    } ]
+  }, {
+    "tStartMs": 1356160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I invited seemingly a\nwhole bunch of other people"
+    } ]
+  }, {
+    "tStartMs": 1359120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "to make explanations,\nwhich I thought were great."
+    } ]
+  }, {
+    "tStartMs": 1361120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And some people like\nAlpha Phoenix even took up"
+    } ]
+  }, {
+    "tStartMs": 1363760,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the challenge and set up his\nown version of the experiment."
+    } ]
+  }, {
+    "tStartMs": 1367680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So, frankly, I'm just really\nexcited at what came about,"
+    } ]
+  }, {
+    "tStartMs": 1372800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "even though I do acknowledge\nthat this was my fault"
+    } ]
+  }, {
+    "tStartMs": 1376400,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "in the first place."
+    } ]
+  }, {
+    "tStartMs": 1377040,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Like I should have done\na better explanation,"
+    } ]
+  }, {
+    "tStartMs": 1379920,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "but by not doing so, you know,"
+    } ]
+  }, {
+    "tStartMs": 1381920,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "there are a lot of great\nexplanations out there."
+    } ]
+  }, {
+    "tStartMs": 1383600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And that's what I love."
+    } ]
+  }, {
+    "tStartMs": 1385520,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "So I'm gonna recommend a whole bunch"
+    } ]
+  }, {
+    "tStartMs": 1386880,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "of electrical engineering YouTubers to you"
+    } ]
+  }, {
+    "tStartMs": 1388720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "in case you wanna check those out"
+    } ]
+  }, {
+    "tStartMs": 1390720,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "because they're a lot of great channels,"
+    } ]
+  }, {
+    "tStartMs": 1392480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "and you should really see how\nthey think about electronics,"
+    } ]
+  }, {
+    "tStartMs": 1396400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and how they explain this circuit."
+    } ]
+  }, {
+    "tStartMs": 1401840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hey, this video was\nsponsored by Brilliant,"
+    } ]
+  }, {
+    "tStartMs": 1404080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the website and app that\ngets you thinking deeply"
+    } ]
+  }, {
+    "tStartMs": 1406080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "about concepts in math,\nscience, and computer science."
+    } ]
+  }, {
+    "tStartMs": 1409200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Brilliant is sponsoring a\nlot of our videos this year,"
+    } ]
+  }, {
+    "tStartMs": 1411440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "because they know someone\nwho makes it to the end"
+    } ]
+  }, {
+    "tStartMs": 1413600,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of a Veritasium video is\nexactly the sort of person"
+    } ]
+  }, {
+    "tStartMs": 1416480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "who would love to learn with Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1418160,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And they have a great course\non electricity and magnetism,"
+    } ]
+  }, {
+    "tStartMs": 1420640,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "which methodically steps\nyou through an introduction"
+    } ]
+  }, {
+    "tStartMs": 1422720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "to E\u0026M with questions, simulations,\nvideos, and experiments."
+    } ]
+  }, {
+    "tStartMs": 1427200,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I really think this is\nthe best way to learn"
+    } ]
+  }, {
+    "tStartMs": 1429120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "because the sequence of\nsteps is so well thought out."
+    } ]
+  }, {
+    "tStartMs": 1431920,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "The difficulty builds gradually."
+    } ]
+  }, {
+    "tStartMs": 1433600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "And by asking you questions,"
+    } ]
+  }, {
+    "tStartMs": 1435200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "you are forced to check your\nunderstanding at each step."
+    } ]
+  }, {
+    "tStartMs": 1438080,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "If you need help,"
+    } ]
+  }, {
+    "tStartMs": 1438800,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "there's always a useful\nhint or explanation."
+    } ]
+  }, {
+    "tStartMs": 1441280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "You know what sets Brilliant\napart is their interactivity."
+    } ]
+  }, {
+    "tStartMs": 1444560,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You can learn calculus or machine learning"
+    } ]
+  }, {
+    "tStartMs": 1446480,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "or computer science fundamentals"
+    } ]
+  }, {
+    "tStartMs": 1448080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "all in this very active way."
+    } ]
+  }, {
+    "tStartMs": 1450240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So I encourage you to go over\nto brilliant.org/veritasium"
+    } ]
+  }, {
+    "tStartMs": 1453680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and just take a look at their courses."
+    } ]
+  }, {
+    "tStartMs": 1455680,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1458000,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And if you click through right now,"
+    } ]
+  }, {
+    "tStartMs": 1459440,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Brilliant are offering 20% off"
+    } ]
+  }, {
+    "tStartMs": 1461120,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "an annual premium subscription"
+    } ]
+  }, {
+    "tStartMs": 1462640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to the first 200 people to sign up."
+    } ]
+  }, {
+    "tStartMs": 1464800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So I want to thank Brilliant\nfor supporting Veritasium."
+    } ]
+  }, {
+    "tStartMs": 1467760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And I wanna thank you for watching."
+    } ]
+  } ]
+}

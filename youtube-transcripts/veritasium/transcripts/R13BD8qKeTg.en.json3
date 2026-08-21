@@ -1,0 +1,1651 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Picture this: You wake up one morning and"
+    } ]
+  }, {
+    "tStartMs": 2730,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "you feel a little bit sick. No particular"
+    } ]
+  }, {
+    "tStartMs": 5100,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "symptoms, just not 100%."
+    } ]
+  }, {
+    "tStartMs": 7230,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "So you go to the doctor and she also"
+    } ]
+  }, {
+    "tStartMs": 9269,
+    "dDurationMs": 1351,
+    "segs": [ {
+      "utf8": "doesn't know what's going on with you, so"
+    } ]
+  }, {
+    "tStartMs": 10620,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "she suggests they run a battery of tests"
+    } ]
+  }, {
+    "tStartMs": 13200,
+    "dDurationMs": 2729,
+    "segs": [ {
+      "utf8": "and after a week goes by, the results"
+    } ]
+  }, {
+    "tStartMs": 15929,
+    "dDurationMs": 2341,
+    "segs": [ {
+      "utf8": "come back, turns out you tested positive"
+    } ]
+  }, {
+    "tStartMs": 18270,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "for a very rare disease that affects"
+    } ]
+  }, {
+    "tStartMs": 20580,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "about 0.1% of the"
+    } ]
+  }, {
+    "tStartMs": 22020,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "population and it's a nasty disease,"
+    } ]
+  }, {
+    "tStartMs": 23730,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "horrible consequences, you don't want it."
+    } ]
+  }, {
+    "tStartMs": 25320,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So you ask the doctor \"You know, how"
+    } ]
+  }, {
+    "tStartMs": 27630,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "certain is it that I have this disease?\""
+    } ]
+  }, {
+    "tStartMs": 29670,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and she says \"Well, the test will"
+    } ]
+  }, {
+    "tStartMs": 31800,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "correctly identify 99% of people that"
+    } ]
+  }, {
+    "tStartMs": 34620,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "have the disease and only incorrectly"
+    } ]
+  }, {
+    "tStartMs": 36960,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "identify 1% of people who don't"
+    } ]
+  }, {
+    "tStartMs": 39059,
+    "dDurationMs": 2941,
+    "segs": [ {
+      "utf8": "have the disease\". So that sounds pretty"
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 2489,
+    "segs": [ {
+      "utf8": "bad. I mean, what are the chances that you"
+    } ]
+  }, {
+    "tStartMs": 44489,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "actually have this disease? I think most"
+    } ]
+  }, {
+    "tStartMs": 47850,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "people would say 99%, because"
+    } ]
+  }, {
+    "tStartMs": 50430,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "that's the accuracy of the test. But that"
+    } ]
+  }, {
+    "tStartMs": 53850,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "is not actually correct! You need Bayes' Theorem"
+    } ]
+  }, {
+    "tStartMs": 57900,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "to get some perspective."
+    } ]
+  }, {
+    "tStartMs": 68340,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Bayes' Theorem can give you the"
+    } ]
+  }, {
+    "tStartMs": 70240,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "probability that some hypothesis, say"
+    } ]
+  }, {
+    "tStartMs": 72070,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "that you actually have the disease, is"
+    } ]
+  }, {
+    "tStartMs": 73720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "true given an event; that you tested"
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "positive for the disease. To calculate"
+    } ]
+  }, {
+    "tStartMs": 79210,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "this, you need to take the prior"
+    } ]
+  }, {
+    "tStartMs": 80500,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "probability of the hypothesis was true - that"
+    } ]
+  }, {
+    "tStartMs": 82720,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "is, how likely you thought it was that"
+    } ]
+  }, {
+    "tStartMs": 84520,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "you have this disease before you got the"
+    } ]
+  }, {
+    "tStartMs": 86110,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "test results - and multiply it by the"
+    } ]
+  }, {
+    "tStartMs": 88030,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "probability of the event given the"
+    } ]
+  }, {
+    "tStartMs": 89710,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "hypothesis is true - that is, the"
+    } ]
+  }, {
+    "tStartMs": 91600,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "probability that you would test positive"
+    } ]
+  }, {
+    "tStartMs": 92890,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "if you had the disease - and then divide"
+    } ]
+  }, {
+    "tStartMs": 95770,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "that by the total probability of the"
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "event occurring - that is testing positive."
+    } ]
+  }, {
+    "tStartMs": 99399,
+    "dDurationMs": 2311,
+    "segs": [ {
+      "utf8": "This term is a combination of your"
+    } ]
+  }, {
+    "tStartMs": 101710,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "probability of having the disease and"
+    } ]
+  }, {
+    "tStartMs": 103210,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "correctly testing positive plus your"
+    } ]
+  }, {
+    "tStartMs": 105340,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "probability of not having the disease"
+    } ]
+  }, {
+    "tStartMs": 106899,
+    "dDurationMs": 2851,
+    "segs": [ {
+      "utf8": "and being falsely identified. The prior"
+    } ]
+  }, {
+    "tStartMs": 109750,
+    "dDurationMs": 1979,
+    "segs": [ {
+      "utf8": "probability that a hypothesis is true is"
+    } ]
+  }, {
+    "tStartMs": 111729,
+    "dDurationMs": 1621,
+    "segs": [ {
+      "utf8": "often the hardest part of this equation"
+    } ]
+  }, {
+    "tStartMs": 113350,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "to figure out and, sometimes, it's no"
+    } ]
+  }, {
+    "tStartMs": 115960,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "better than a guess. But in this case, a"
+    } ]
+  }, {
+    "tStartMs": 117970,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "reasonable starting point is the"
+    } ]
+  }, {
+    "tStartMs": 119560,
+    "dDurationMs": 1229,
+    "segs": [ {
+      "utf8": "frequency of the disease in the"
+    } ]
+  }, {
+    "tStartMs": 120789,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "population, so 0.1%. And if"
+    } ]
+  }, {
+    "tStartMs": 123729,
+    "dDurationMs": 1381,
+    "segs": [ {
+      "utf8": "you plug in the rest of the numbers, you"
+    } ]
+  }, {
+    "tStartMs": 125110,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "find that you have a 9% chance"
+    } ]
+  }, {
+    "tStartMs": 126970,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "of actually having the disease after"
+    } ]
+  }, {
+    "tStartMs": 129340,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "testing positive. Which is incredibly low"
+    } ]
+  }, {
+    "tStartMs": 132280,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "if you think about it. Now, this isn't"
+    } ]
+  }, {
+    "tStartMs": 134739,
+    "dDurationMs": 2431,
+    "segs": [ {
+      "utf8": "some sort of crazy magic. It's actually"
+    } ]
+  }, {
+    "tStartMs": 137170,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "common sense applied to mathematics. Just"
+    } ]
+  }, {
+    "tStartMs": 139870,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "think about a sample size of 1000"
+    } ]
+  }, {
+    "tStartMs": 142030,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "people. Now, one person out of that"
+    } ]
+  }, {
+    "tStartMs": 144670,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "thousand, is likely to actually have the"
+    } ]
+  }, {
+    "tStartMs": 147040,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "disease. And the test would likely"
+    } ]
+  }, {
+    "tStartMs": 148180,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "identify them correctly as having the"
+    } ]
+  }, {
+    "tStartMs": 150160,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "disease. But out of the 999 other people,"
+    } ]
+  }, {
+    "tStartMs": 153250,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "1% or 10 people would falsely"
+    } ]
+  }, {
+    "tStartMs": 157030,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "be identified as having the disease. So,"
+    } ]
+  }, {
+    "tStartMs": 158920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "if you're one of those people who has a"
+    } ]
+  }, {
+    "tStartMs": 160840,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "positive test result and everyone's just"
+    } ]
+  }, {
+    "tStartMs": 163180,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "selected at random - well, you're actually"
+    } ]
+  }, {
+    "tStartMs": 164530,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "part of a group of 11 where only one"
+    } ]
+  }, {
+    "tStartMs": 166780,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "person has the disease. So your chances"
+    } ]
+  }, {
+    "tStartMs": 170019,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "of actually having it are 1 in 11. 9%. It just makes sense. When Bayes"
+    } ]
+  }, {
+    "tStartMs": 176109,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "first came up with this theorem he"
+    } ]
+  }, {
+    "tStartMs": 178030,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "didn't actually think it was"
+    } ]
+  }, {
+    "tStartMs": 179410,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "revolutionary. He didn't even think it"
+    } ]
+  }, {
+    "tStartMs": 181180,
+    "dDurationMs": 1589,
+    "segs": [ {
+      "utf8": "was worthy of publication, he didn't"
+    } ]
+  }, {
+    "tStartMs": 182769,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "submit it to the Royal Society of which"
+    } ]
+  }, {
+    "tStartMs": 184870,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "he was a member, and in fact it was"
+    } ]
+  }, {
+    "tStartMs": 187000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "discovered in his papers after he died"
+    } ]
+  }, {
+    "tStartMs": 189400,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and he had abandoned it for more than a"
+    } ]
+  }, {
+    "tStartMs": 192370,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "decade. His relatives asked his friend,"
+    } ]
+  }, {
+    "tStartMs": 194890,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Richard Price, to dig through his papers"
+    } ]
+  }, {
+    "tStartMs": 196810,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and see if there is anything worth"
+    } ]
+  }, {
+    "tStartMs": 198430,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "publishing in there. And that's where"
+    } ]
+  }, {
+    "tStartMs": 199630,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Price discovered what we now know as"
+    } ]
+  }, {
+    "tStartMs": 201450,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "the origins of Bayes' Theorem. Bayes"
+    } ]
+  }, {
+    "tStartMs": 204150,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "originally considered a thought"
+    } ]
+  }, {
+    "tStartMs": 205980,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "experiment where he was sitting with his"
+    } ]
+  }, {
+    "tStartMs": 208050,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "back to a perfectly flat, perfectly"
+    } ]
+  }, {
+    "tStartMs": 210030,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "square table and then he would ask an"
+    } ]
+  }, {
+    "tStartMs": 211950,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "assistant to throw a ball onto the table."
+    } ]
+  }, {
+    "tStartMs": 214230,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Now this ball could obviously land and"
+    } ]
+  }, {
+    "tStartMs": 217170,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "end up anywhere on the table and he"
+    } ]
+  }, {
+    "tStartMs": 219300,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "wanted to figure out where it was. So"
+    } ]
+  }, {
+    "tStartMs": 221280,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "what he'd asked his assistant to do was"
+    } ]
+  }, {
+    "tStartMs": 223050,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to throw on another ball and then tell him"
+    } ]
+  }, {
+    "tStartMs": 225510,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "if it landed to the left, or to the right,"
+    } ]
+  }, {
+    "tStartMs": 227760,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "or in front, behind of the first ball, and"
+    } ]
+  }, {
+    "tStartMs": 230790,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "he would note that down and then ask for"
+    } ]
+  }, {
+    "tStartMs": 234630,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "more and more balls to be thrown on the"
+    } ]
+  }, {
+    "tStartMs": 236310,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "table. What he realized, was that through"
+    } ]
+  }, {
+    "tStartMs": 238560,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "this method he could keep updating his"
+    } ]
+  }, {
+    "tStartMs": 241019,
+    "dDurationMs": 2371,
+    "segs": [ {
+      "utf8": "idea of where the first ball was. Now of"
+    } ]
+  }, {
+    "tStartMs": 243390,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "course, he would never be completely"
+    } ]
+  }, {
+    "tStartMs": 244620,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "certain, but with each new piece of"
+    } ]
+  }, {
+    "tStartMs": 246660,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "evidence, he would get more and more"
+    } ]
+  }, {
+    "tStartMs": 248970,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "accurate, and that's how Bayes saw the"
+    } ]
+  }, {
+    "tStartMs": 252690,
+    "dDurationMs": 1889,
+    "segs": [ {
+      "utf8": "world. It wasn't that he thought the"
+    } ]
+  }, {
+    "tStartMs": 254579,
+    "dDurationMs": 2611,
+    "segs": [ {
+      "utf8": "world was not determined, that reality"
+    } ]
+  }, {
+    "tStartMs": 257190,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "didn't quite exist, but it was that we"
+    } ]
+  }, {
+    "tStartMs": 260010,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "couldn't know it perfectly, and all we"
+    } ]
+  }, {
+    "tStartMs": 262380,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "could hope to do was update our"
+    } ]
+  }, {
+    "tStartMs": 264419,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "understanding as more and more evidence"
+    } ]
+  }, {
+    "tStartMs": 266880,
+    "dDurationMs": 2849,
+    "segs": [ {
+      "utf8": "became available. When Richard Price"
+    } ]
+  }, {
+    "tStartMs": 269729,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "introduced Bayes' Theorem, he made an"
+    } ]
+  }, {
+    "tStartMs": 273330,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "analogy to a man coming out of a cave,"
+    } ]
+  }, {
+    "tStartMs": 275580,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "maybe he'd lived his whole life in there"
+    } ]
+  }, {
+    "tStartMs": 277770,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and he saw the Sun rise for the first"
+    } ]
+  }, {
+    "tStartMs": 279780,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "time, and kind of thought to himself: \"Is,"
+    } ]
+  }, {
+    "tStartMs": 281970,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "Is this a one-off, is this a quirk, or"
+    } ]
+  }, {
+    "tStartMs": 284039,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "does the Sun always do this?\" And then,"
+    } ]
+  }, {
+    "tStartMs": 286680,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "every day after that, as the Sun rose"
+    } ]
+  }, {
+    "tStartMs": 289410,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "again, he could get a little bit more"
+    } ]
+  }, {
+    "tStartMs": 291900,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "confident, that, well, that was the way the"
+    } ]
+  }, {
+    "tStartMs": 295050,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "world works. So Bayes' Theorem wasn't"
+    } ]
+  }, {
+    "tStartMs": 297510,
+    "dDurationMs": 1529,
+    "segs": [ {
+      "utf8": "really a formula intended to be used"
+    } ]
+  }, {
+    "tStartMs": 299039,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "just once, it was intended to be used"
+    } ]
+  }, {
+    "tStartMs": 300840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "multiple times, each time gaining new"
+    } ]
+  }, {
+    "tStartMs": 303270,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "evidence and updating your probability"
+    } ]
+  }, {
+    "tStartMs": 305940,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "that something is true. So if we go back"
+    } ]
+  }, {
+    "tStartMs": 308190,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "to the first example when you tested"
+    } ]
+  }, {
+    "tStartMs": 309750,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "positive for a disease, what would happen"
+    } ]
+  }, {
+    "tStartMs": 312389,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "if you went to another doctor, get a"
+    } ]
+  }, {
+    "tStartMs": 314669,
+    "dDurationMs": 1891,
+    "segs": [ {
+      "utf8": "second opinion and get that test run"
+    } ]
+  }, {
+    "tStartMs": 316560,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "again, but let's say by a different lab,"
+    } ]
+  }, {
+    "tStartMs": 318479,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "just to be sure that those tests are"
+    } ]
+  }, {
+    "tStartMs": 320039,
+    "dDurationMs": 2791,
+    "segs": [ {
+      "utf8": "independent, and let's say that test also"
+    } ]
+  }, {
+    "tStartMs": 322830,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "comes back as positive. Now what is the"
+    } ]
+  }, {
+    "tStartMs": 325560,
+    "dDurationMs": 1859,
+    "segs": [ {
+      "utf8": "probability that you actually have the"
+    } ]
+  }, {
+    "tStartMs": 327419,
+    "dDurationMs": 2221,
+    "segs": [ {
+      "utf8": "disease? Well, you can use Bayes formula"
+    } ]
+  }, {
+    "tStartMs": 329640,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "again, except this time for your prior"
+    } ]
+  }, {
+    "tStartMs": 332099,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "probability that you have the disease,"
+    } ]
+  }, {
+    "tStartMs": 333599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "you have to put in the posterior"
+    } ]
+  }, {
+    "tStartMs": 335400,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "probability, the probability that we"
+    } ]
+  }, {
+    "tStartMs": 337290,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "worked out before which is 9%,"
+    } ]
+  }, {
+    "tStartMs": 339030,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "because you've already had one positive"
+    } ]
+  }, {
+    "tStartMs": 340530,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "test. If you crunch those numbers, the new"
+    } ]
+  }, {
+    "tStartMs": 343800,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "probability based on two positive tests"
+    } ]
+  }, {
+    "tStartMs": 346919,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "is 91%. There's a"
+    } ]
+  }, {
+    "tStartMs": 349259,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "91% chance that you"
+    } ]
+  }, {
+    "tStartMs": 350580,
+    "dDurationMs": 1619,
+    "segs": [ {
+      "utf8": "actually have the disease, which kind of"
+    } ]
+  }, {
+    "tStartMs": 352199,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "makes sense. 2 positive results by"
+    } ]
+  }, {
+    "tStartMs": 354900,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "different labs are unlikely to just be"
+    } ]
+  }, {
+    "tStartMs": 357180,
+    "dDurationMs": 1049,
+    "segs": [ {
+      "utf8": "chance, but you'll notice that"
+    } ]
+  }, {
+    "tStartMs": 358229,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "probability is still not as high as the"
+    } ]
+  }, {
+    "tStartMs": 360990,
+    "dDurationMs": 2489,
+    "segs": [ {
+      "utf8": "accuracy, the reported accuracy of the"
+    } ]
+  }, {
+    "tStartMs": 363479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "test. Bayes' Theorem has found a number of"
+    } ]
+  }, {
+    "tStartMs": 366479,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "practical applications, including notably"
+    } ]
+  }, {
+    "tStartMs": 368760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "filtering your spam. You know, traditional"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "spam filters actually do a kind of bad"
+    } ]
+  }, {
+    "tStartMs": 373919,
+    "dDurationMs": 2011,
+    "segs": [ {
+      "utf8": "job, there's too many false positives, too"
+    } ]
+  }, {
+    "tStartMs": 375930,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "much of your email ends up in spam, but"
+    } ]
+  }, {
+    "tStartMs": 378300,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "using a Bayesian filter, you can look at"
+    } ]
+  }, {
+    "tStartMs": 380370,
+    "dDurationMs": 1829,
+    "segs": [ {
+      "utf8": "the various words that appear in e-mails,"
+    } ]
+  }, {
+    "tStartMs": 382199,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and use Bayes' Theorem to give a"
+    } ]
+  }, {
+    "tStartMs": 385229,
+    "dDurationMs": 2731,
+    "segs": [ {
+      "utf8": "probability that the email is spam, given"
+    } ]
+  }, {
+    "tStartMs": 387960,
+    "dDurationMs": 3329,
+    "segs": [ {
+      "utf8": "that those words appear. Now Bayes' Theorem"
+    } ]
+  }, {
+    "tStartMs": 391289,
+    "dDurationMs": 1951,
+    "segs": [ {
+      "utf8": "tells us how to update our beliefs in"
+    } ]
+  }, {
+    "tStartMs": 393240,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "light of new evidence, but it can't tell"
+    } ]
+  }, {
+    "tStartMs": 395550,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "us how to set our prior beliefs, and so"
+    } ]
+  }, {
+    "tStartMs": 398310,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "it's possible for some people to hold"
+    } ]
+  }, {
+    "tStartMs": 399900,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "that certain things are true with a"
+    } ]
+  }, {
+    "tStartMs": 401010,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "100% certainty, and other"
+    } ]
+  }, {
+    "tStartMs": 403080,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "people to hold those same things are"
+    } ]
+  }, {
+    "tStartMs": 405060,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "true with 0% certainty. What"
+    } ]
+  }, {
+    "tStartMs": 407580,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Bayes' Theorem shows us is that in those"
+    } ]
+  }, {
+    "tStartMs": 409440,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "cases, there is absolutely no evidence,"
+    } ]
+  }, {
+    "tStartMs": 411930,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "nothing anyone could do to change their"
+    } ]
+  }, {
+    "tStartMs": 414840,
+    "dDurationMs": 2549,
+    "segs": [ {
+      "utf8": "minds, and so as Nate Silver points out"
+    } ]
+  }, {
+    "tStartMs": 417389,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "in his book, The Signal and The Noise, we"
+    } ]
+  }, {
+    "tStartMs": 420150,
+    "dDurationMs": 1739,
+    "segs": [ {
+      "utf8": "should probably not have debates between"
+    } ]
+  }, {
+    "tStartMs": 421889,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "people with a 100% prior"
+    } ]
+  }, {
+    "tStartMs": 423570,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "certainty, and 0% prior"
+    } ]
+  }, {
+    "tStartMs": 425070,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "certainty, because, well really, they'll"
+    } ]
+  }, {
+    "tStartMs": 427560,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "never convince each other of anything."
+    } ]
+  }, {
+    "tStartMs": 429120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Most of the time when people talk about"
+    } ]
+  }, {
+    "tStartMs": 432720,
+    "dDurationMs": 1949,
+    "segs": [ {
+      "utf8": "Bayes' Theorem, they discussed how"
+    } ]
+  }, {
+    "tStartMs": 434669,
+    "dDurationMs": 2131,
+    "segs": [ {
+      "utf8": "counterintuitive it is and how we don't"
+    } ]
+  }, {
+    "tStartMs": 436800,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "really have an inbuilt sense of it, but"
+    } ]
+  }, {
+    "tStartMs": 439260,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "recently my concern has been the"
+    } ]
+  }, {
+    "tStartMs": 441150,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "opposite: that maybe we're too good at"
+    } ]
+  }, {
+    "tStartMs": 443550,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "internalizing the thinking behind Bayes' Theorem,"
+    } ]
+  }, {
+    "tStartMs": 446280,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and the reason I'm worried about"
+    } ]
+  }, {
+    "tStartMs": 448830,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "that is because, I think in life we can"
+    } ]
+  }, {
+    "tStartMs": 451500,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "get used to particular circumstances, we"
+    } ]
+  }, {
+    "tStartMs": 453510,
+    "dDurationMs": 2129,
+    "segs": [ {
+      "utf8": "can get used to results, maybe getting"
+    } ]
+  }, {
+    "tStartMs": 455639,
+    "dDurationMs": 1951,
+    "segs": [ {
+      "utf8": "rejected or failing at something or"
+    } ]
+  }, {
+    "tStartMs": 457590,
+    "dDurationMs": 3569,
+    "segs": [ {
+      "utf8": "getting paid a low wage and we can"
+    } ]
+  }, {
+    "tStartMs": 461159,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "internalize that as though we are that"
+    } ]
+  }, {
+    "tStartMs": 464279,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "man emerging from the cave and we see"
+    } ]
+  }, {
+    "tStartMs": 465840,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "the Sun rise every day and every day,"
+    } ]
+  }, {
+    "tStartMs": 467580,
+    "dDurationMs": 3989,
+    "segs": [ {
+      "utf8": "and we keep updating our beliefs to a"
+    } ]
+  }, {
+    "tStartMs": 471569,
+    "dDurationMs": 2581,
+    "segs": [ {
+      "utf8": "point of near certainty that we think"
+    } ]
+  }, {
+    "tStartMs": 474150,
+    "dDurationMs": 2489,
+    "segs": [ {
+      "utf8": "that that is basically the way that"
+    } ]
+  }, {
+    "tStartMs": 476639,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "nature is, it's the way the world is and"
+    } ]
+  }, {
+    "tStartMs": 478919,
+    "dDurationMs": 1291,
+    "segs": [ {
+      "utf8": "there's nothing that we can do to change it."
+    } ]
+  }, {
+    "tStartMs": 480210,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "You know, there's Nelson Mandela's"
+    } ]
+  }, {
+    "tStartMs": 482969,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "quote that: 'Everything is impossible"
+    } ]
+  }, {
+    "tStartMs": 485189,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "until it's done', and I think that is kind"
+    } ]
+  }, {
+    "tStartMs": 487439,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "of a very Bayesian viewpoint on the"
+    } ]
+  }, {
+    "tStartMs": 489840,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "world, if you have no instances of"
+    } ]
+  }, {
+    "tStartMs": 492930,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "something happening, then what is your"
+    } ]
+  }, {
+    "tStartMs": 495449,
+    "dDurationMs": 2791,
+    "segs": [ {
+      "utf8": "prior for that event? It will seem"
+    } ]
+  }, {
+    "tStartMs": 498240,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "completely impossible your prior may be"
+    } ]
+  }, {
+    "tStartMs": 500250,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "0 until it actually happens. You know, the"
+    } ]
+  }, {
+    "tStartMs": 503310,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "thing we forget in Bayes' Theorem is that:"
+    } ]
+  }, {
+    "tStartMs": 505379,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "our actions play a role in determining"
+    } ]
+  }, {
+    "tStartMs": 507780,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "outcomes, and determining how true things"
+    } ]
+  }, {
+    "tStartMs": 510270,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "actually are. But if we internalize that"
+    } ]
+  }, {
+    "tStartMs": 513870,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "something is true and maybe we're a"
+    } ]
+  }, {
+    "tStartMs": 515760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "100% sure that it's true, and"
+    } ]
+  }, {
+    "tStartMs": 517320,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "there's nothing we can do to change it,"
+    } ]
+  }, {
+    "tStartMs": 518880,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "well, then we're going to keep on doing"
+    } ]
+  }, {
+    "tStartMs": 521519,
+    "dDurationMs": 1861,
+    "segs": [ {
+      "utf8": "the same thing, and we're going to keep"
+    } ]
+  }, {
+    "tStartMs": 523380,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "on getting the same result, it's a"
+    } ]
+  }, {
+    "tStartMs": 525480,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "self-fulfilling prophecy, so I think a"
+    } ]
+  }, {
+    "tStartMs": 528779,
+    "dDurationMs": 1771,
+    "segs": [ {
+      "utf8": "really good understanding of Bayes'"
+    } ]
+  }, {
+    "tStartMs": 530550,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Theorem implies that experimentation is"
+    } ]
+  }, {
+    "tStartMs": 533610,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "essential. If you've been doing the same"
+    } ]
+  }, {
+    "tStartMs": 536370,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "thing for a long time and getting the"
+    } ]
+  }, {
+    "tStartMs": 537660,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "same result that you're not necessarily"
+    } ]
+  }, {
+    "tStartMs": 539010,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": "happy with, maybe it's time to change."
+    } ]
+  }, {
+    "tStartMs": 543149,
+    "dDurationMs": 1291,
+    "segs": [ {
+      "utf8": "So is there something like that that you've"
+    } ]
+  }, {
+    "tStartMs": 544440,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "been thinking about? If so, let me know in the comments."
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Hey, this episode of Veritasium was"
+    } ]
+  }, {
+    "tStartMs": 562440,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "supported in part by viewers like you on"
+    } ]
+  }, {
+    "tStartMs": 564070,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Patreon and by Audible. Audible is a"
+    } ]
+  }, {
+    "tStartMs": 566530,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "leading provider of spoken audio"
+    } ]
+  }, {
+    "tStartMs": 568390,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "information including an unmatched"
+    } ]
+  }, {
+    "tStartMs": 570400,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "selection of audiobooks: original,"
+    } ]
+  }, {
+    "tStartMs": 572080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "programming, news, comedy and more."
+    } ]
+  }, {
+    "tStartMs": 574720,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "So if you're thinking about trying something new and"
+    } ]
+  }, {
+    "tStartMs": 576250,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "you haven't tried Audible yet, you"
+    } ]
+  }, {
+    "tStartMs": 578200,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "should give them a shot, and for viewers"
+    } ]
+  }, {
+    "tStartMs": 579880,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "of this channel, they offer a free 30-day"
+    } ]
+  }, {
+    "tStartMs": 581830,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "trial just by going to: audible.com/Veritasium"
+    } ]
+  }, {
+    "tStartMs": 585000,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "You know, the book I've"
+    } ]
+  }, {
+    "tStartMs": 586150,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "been listening to on Audible recently is"
+    } ]
+  }, {
+    "tStartMs": 587770,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "called: 'The Theory That Would Not Die' by"
+    } ]
+  }, {
+    "tStartMs": 589900,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Sharon Bertsch McGrayne, and it is an"
+    } ]
+  }, {
+    "tStartMs": 592480,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "incredible in-depth look at Bayes'"
+    } ]
+  }, {
+    "tStartMs": 594520,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Theorem, and I've learned a lot just"
+    } ]
+  }, {
+    "tStartMs": 597070,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "listening to this book, including the crazy"
+    } ]
+  }, {
+    "tStartMs": 598480,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "fact that Bayes never came up with the"
+    } ]
+  }, {
+    "tStartMs": 600250,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "mathematical formulation of his rule"
+    } ]
+  }, {
+    "tStartMs": 601720,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "that was done independently by the"
+    } ]
+  }, {
+    "tStartMs": 603580,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "mathematician Pierre-Simon Laplace so,"
+    } ]
+  }, {
+    "tStartMs": 605770,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "really I think he deserves a lot of a"
+    } ]
+  }, {
+    "tStartMs": 607810,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "credit for this theory, but Bayes gets"
+    } ]
+  }, {
+    "tStartMs": 610180,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "naming rights because he was first, and"
+    } ]
+  }, {
+    "tStartMs": 612310,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "if you want, you can download this book"
+    } ]
+  }, {
+    "tStartMs": 614140,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and listen to it, as I have, when I've"
+    } ]
+  }, {
+    "tStartMs": 616480,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "just been driving in the car or going to"
+    } ]
+  }, {
+    "tStartMs": 619180,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "the gym, which I'm doing again, and so if"
+    } ]
+  }, {
+    "tStartMs": 622510,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "there's a part of your day that you feel"
+    } ]
+  }, {
+    "tStartMs": 624040,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "is kind of boring then I can highly"
+    } ]
+  }, {
+    "tStartMs": 626080,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "recommend trying out audiobooks from Audible."
+    } ]
+  }, {
+    "tStartMs": 628800,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Just go to: audible.com/Veritasium"
+    } ]
+  }, {
+    "tStartMs": 630900,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "So as always I want to thank:"
+    } ]
+  }, {
+    "tStartMs": 631930,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Audible for supporting me, and I"
+    } ]
+  }, {
+    "tStartMs": 633520,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "want to thank you for watching."
+    } ]
+  } ]
+}

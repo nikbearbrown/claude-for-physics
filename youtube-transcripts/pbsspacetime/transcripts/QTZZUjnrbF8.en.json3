@@ -1,0 +1,1369 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "To quote eminent scientist Tyler Durden: \"On\na long enough timeline, the survival rate"
+    } ]
+  }, {
+    "tStartMs": 5890,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "for everyone drops to zero.\""
+    } ]
+  }, {
+    "tStartMs": 9490,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Actually… not necessarily."
+    } ]
+  }, {
+    "tStartMs": 11889,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "If the quantum multiverse is real there may\nbe a version of you that lives forever."
+    } ]
+  }, {
+    "tStartMs": 22180,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "In the last couple of episodes we’ve been\ndelving into a key mystery of quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 26380,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "- why don’t we have quantum magical powers?"
+    } ]
+  }, {
+    "tStartMs": 30760,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Or, more scientifically, what causes the divide\nbetween the weird behavior of quantum world"
+    } ]
+  }, {
+    "tStartMs": 36260,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "and our large-scale, macroscopic world?"
+    } ]
+  }, {
+    "tStartMs": 39240,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "In particular, what causes quantum systems\nto transition from simultaneously existing"
+    } ]
+  }, {
+    "tStartMs": 44760,
+    "dDurationMs": 6810,
+    "segs": [ {
+      "utf8": "in many states at the same time, to having only one\nclear observable state at the moment of measurement?"
+    } ]
+  }, {
+    "tStartMs": 51570,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "This is the measurement problem."
+    } ]
+  }, {
+    "tStartMs": 53230,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "We’ve been exploring decoherence as a mechanism\nfor this quantum-classical transition - and"
+    } ]
+  }, {
+    "tStartMs": 59960,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "we’re not done yet."
+    } ]
+  }, {
+    "tStartMs": 61570,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "But today I want to take a step back to think\nabout and acknowledge something very important:"
+    } ]
+  }, {
+    "tStartMs": 66590,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "by itself, decoherence does NOT solve the\nmeasurement problem."
+    } ]
+  }, {
+    "tStartMs": 71150,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "It only explains why separate branches of\nthe wavefunction - separate “alternate histories”"
+    } ]
+  }, {
+    "tStartMs": 76760,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "- stop being able to interact with each other."
+    } ]
+  }, {
+    "tStartMs": 78900,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "In order to understand what happens to those\ndifferent branches, and to understand why"
+    } ]
+  }, {
+    "tStartMs": 82930,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "we find ourselves in one of them, we need\nto embrace one of the interpretations of quantum"
+    } ]
+  }, {
+    "tStartMs": 88700,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "mechanics."
+    } ]
+  }, {
+    "tStartMs": 89780,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "For example the Copenhagen interpretation,\nwhich says that the wavefunction branches"
+    } ]
+  }, {
+    "tStartMs": 94310,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "that we don’t observe somehow vanish at\nthe moment of measurement."
+    } ]
+  }, {
+    "tStartMs": 98000,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "Or the Many Worlds interpretation, which states\nthat those other branches are just as valid"
+    } ]
+  }, {
+    "tStartMs": 103170,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "as ours - implying that reality may split\nand multiply in all possible ways."
+    } ]
+  }, {
+    "tStartMs": 109280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "In that case we only see one branch because\nwe live in that branch, and the others are"
+    } ]
+  }, {
+    "tStartMs": 113920,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "rendered inaccessible by decoherence."
+    } ]
+  }, {
+    "tStartMs": 117510,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "The problem with these interpretations is\nthat, on the surface, they seem untestable."
+    } ]
+  }, {
+    "tStartMs": 122640,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "We can’t ever peer into these other realities, so how do we know they exist?"
+    } ]
+  }, {
+    "tStartMs": 128950,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Today I’m going to offer a test."
+    } ]
+  }, {
+    "tStartMs": 131360,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "Admittedly NOT a very useful test - but one\nthat is very fun to think about."
+    } ]
+  }, {
+    "tStartMs": 137870,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "We’ll call this test quantum immortality."
+    } ]
+  }, {
+    "tStartMs": 140940,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "It’s based on the famous Schrodinger’s\ncat thought experiment."
+    } ]
+  }, {
+    "tStartMs": 145660,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "As a refresher: a cat is in an opaque box\nwith a vial of deadly poison, which is released"
+    } ]
+  }, {
+    "tStartMs": 151670,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "on the radioactive decay of an atom."
+    } ]
+  }, {
+    "tStartMs": 153980,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "There’s a totally random 50-50 chance of\nthe radioactive decay over a certain period"
+    } ]
+  }, {
+    "tStartMs": 159220,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "of time - that means the quantum wavefunction\nof the atom splits equally - the atom is simultaneously"
+    } ]
+  }, {
+    "tStartMs": 166260,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "decayed and not decayed until we observe it."
+    } ]
+  }, {
+    "tStartMs": 169000,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "So then surely the cat’s wavefunction splits\ntoo - into dead and alive."
+    } ]
+  }, {
+    "tStartMs": 175430,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "According to Copenhagen, one of these results\nbecomes “real” when the physicist opens"
+    } ]
+  }, {
+    "tStartMs": 179980,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "the box, while the other branch of the wavefunction\nvanishes."
+    } ]
+  }, {
+    "tStartMs": 183860,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "But in Many Worlds both branches continue\nforever - and the physicist’s wavefunction"
+    } ]
+  }, {
+    "tStartMs": 188380,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "also splits into two - I guess into guilty\nand relieved."
+    } ]
+  }, {
+    "tStartMs": 193480,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "Neither version of the physicist knows about\nthe other - and it seems like there’s no"
+    } ]
+  }, {
+    "tStartMs": 198310,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "way for them to confirm the existence of the\nother branch of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 203220,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "But there is one test - a rather morbid one."
+    } ]
+  }, {
+    "tStartMs": 207200,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "The physicist could crawl into the box instead\nof the cat."
+    } ]
+  }, {
+    "tStartMs": 212150,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "And instead of a vial of poison attached to\none radioactive atom, connect the vial to"
+    } ]
+  }, {
+    "tStartMs": 217069,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "many atoms - so that the poison is released\nif any of them decay."
+    } ]
+  }, {
+    "tStartMs": 221360,
+    "dDurationMs": 9019,
+    "segs": [ {
+      "utf8": "Let’s be specific - there are 100 polonium-212\natoms, with half-life 300 microseconds - so"
+    } ]
+  }, {
+    "tStartMs": 230379,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "each atom has a 50% chance of decaying in\nthat time."
+    } ]
+  }, {
+    "tStartMs": 234950,
+    "dDurationMs": 5569,
+    "segs": [ {
+      "utf8": "After 300 microseconds the connection between\npoison and polonium is cut, and the experiment"
+    } ]
+  }, {
+    "tStartMs": 240519,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "is over."
+    } ]
+  }, {
+    "tStartMs": 241519,
+    "dDurationMs": 4321,
+    "segs": [ {
+      "utf8": "So what are the chances of the physicist surviving?"
+    } ]
+  }, {
+    "tStartMs": 245840,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "Pretty bad I guess - that chance that any\none atom does NOT decay in that 300 microseconds"
+    } ]
+  }, {
+    "tStartMs": 252420,
+    "dDurationMs": 6989,
+    "segs": [ {
+      "utf8": "is 50-50, but the chance that none of the\n100 atoms decay is basically zero."
+    } ]
+  }, {
+    "tStartMs": 259409,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It’s .5^100."
+    } ]
+  }, {
+    "tStartMs": 261609,
+    "dDurationMs": 4691,
+    "segs": [ {
+      "utf8": "If we run this experiment over and over, every\n300 microseconds, we need to do it for nearly"
+    } ]
+  }, {
+    "tStartMs": 266300,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "a million times the entire age of the universe\nin order for the physicist to be likely to survive once."
+    } ]
+  }, {
+    "tStartMs": 273270,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "But the point is they can’t repeat the experiment\n- at least according the the Copenhagen interpretation,"
+    } ]
+  }, {
+    "tStartMs": 279720,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "which tells us that there’s ultimately only\na single result from each quantum event, so"
+    } ]
+  }, {
+    "tStartMs": 285150,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "a single result from the “Schrodinger’s\nphysicist” experiment."
+    } ]
+  }, {
+    "tStartMs": 290099,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "According to Copenhagen, all branches of the\nwavefunction besides “definitely dead”"
+    } ]
+  }, {
+    "tStartMs": 295259,
+    "dDurationMs": 3791,
+    "segs": [ {
+      "utf8": "get cut off with ruthless efficiency almost\nall the time."
+    } ]
+  }, {
+    "tStartMs": 299050,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "But that’s not true in Many Worlds - according\nto which all branches of the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 303680,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "persist."
+    } ]
+  }, {
+    "tStartMs": 304680,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "So even after trying this experiment even\nonce, there’ll be a branch of the wavefunction"
+    } ]
+  }, {
+    "tStartMs": 309940,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "where the physicist opens the box and crawls\nout, to the amazement of their lab assistant,"
+    } ]
+  }, {
+    "tStartMs": 315780,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "and hopefully their relief - although this\nphysicist is clearly pretty wack, so who knows."
+    } ]
+  }, {
+    "tStartMs": 321400,
+    "dDurationMs": 5439,
+    "segs": [ {
+      "utf8": "The physicist now has very good evidence that\nMany Worlds is right because the chance survival"
+    } ]
+  }, {
+    "tStartMs": 326839,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "under any other interpretation of quantum\nmechanics is basically nil."
+    } ]
+  }, {
+    "tStartMs": 331229,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Many Worlds, on the other hand, guarantees\ntheir survival in at least one branch of the"
+    } ]
+  }, {
+    "tStartMs": 335999,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "quantum wavefunction."
+    } ]
+  }, {
+    "tStartMs": 337569,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "The problem with this test is, of course,\nthat 10^30 physicists need to die in other"
+    } ]
+  }, {
+    "tStartMs": 343130,
+    "dDurationMs": 4339,
+    "segs": [ {
+      "utf8": "timelines for one to crawl out of the box\nfeeling smug."
+    } ]
+  }, {
+    "tStartMs": 347469,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "And essentially no one besides that one lucky\nphysicist can ever know."
+    } ]
+  }, {
+    "tStartMs": 352169,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Even in the rare survival timeline, everyone\nelse will probably assume the experimental"
+    } ]
+  }, {
+    "tStartMs": 357849,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "apparatus broke."
+    } ]
+  }, {
+    "tStartMs": 359619,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "This thought experiment is sometimes called\nquantum immortality."
+    } ]
+  }, {
+    "tStartMs": 364139,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "You can imagine that any process leading to\nmortality is ultimately a sequence of quantum"
+    } ]
+  }, {
+    "tStartMs": 370399,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "events - so there are timelines in which those\nincremental steps towards death never happen."
+    } ]
+  }, {
+    "tStartMs": 377919,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Keep that in mind before you try crawling\ninto Schrodinger’s box yourself - you’re"
+    } ]
+  }, {
+    "tStartMs": 382449,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "already testing Many Worlds by just existing."
+    } ]
+  }, {
+    "tStartMs": 385419,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Hugh Everett, who first came up with the many\nWorlds interpretation, actually believed in"
+    } ]
+  }, {
+    "tStartMs": 391779,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "this sort of quantum immortality."
+    } ]
+  }, {
+    "tStartMs": 394539,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "He smoked 3 packs a day, drank heavily, didn’t\nexercise, and died of a heart attack at age"
+    } ]
+  }, {
+    "tStartMs": 399969,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "51."
+    } ]
+  }, {
+    "tStartMs": 401619,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "At least in THIS timeline."
+    } ]
+  }, {
+    "tStartMs": 403669,
+    "dDurationMs": 5861,
+    "segs": [ {
+      "utf8": "Max Tegmark makes a good point regarding quantum\nimmortality - which is that death is an incremental"
+    } ]
+  }, {
+    "tStartMs": 409530,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "process, not a single quantum event."
+    } ]
+  }, {
+    "tStartMs": 411830,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "So the closer you are, the fewer Many Worlds\ntimelines include your survival."
+    } ]
+  }, {
+    "tStartMs": 417720,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "And even if some insanely rare branches of\nyour wavefunction keep you alive beyond your"
+    } ]
+  }, {
+    "tStartMs": 423139,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "years, I’d advise you to quit smoking and\ndo some crunches anyway - from where you stand"
+    } ]
+  }, {
+    "tStartMs": 429279,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "now, your thread of consciousness is going\nto have to experience every single one of"
+    } ]
+  }, {
+    "tStartMs": 434149,
+    "dDurationMs": 2351,
+    "segs": [ {
+      "utf8": "the bad future timelines."
+    } ]
+  }, {
+    "tStartMs": 436500,
+    "dDurationMs": 2779,
+    "segs": [ {
+      "utf8": "Might as well try to make more of them good."
+    } ]
+  }, {
+    "tStartMs": 439280,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Also, Many Worlds might be wrong - I say live\nas though this is your one quantum timeline"
+    } ]
+  }, {
+    "tStartMs": 445340,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "While we’re discussing dubious methods for\npredicting survival times - I think it’s"
+    } ]
+  }, {
+    "tStartMs": 450689,
+    "dDurationMs": 4331,
+    "segs": [ {
+      "utf8": "time to answer the Doomsday Challenge question."
+    } ]
+  }, {
+    "tStartMs": 455020,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "This was from our Doomsday Argument episode\na couple of months back - sorry to be slow"
+    } ]
+  }, {
+    "tStartMs": 459499,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "- I wanted to check my results by making sure\nhumanity survived at least this long."
+    } ]
+  }, {
+    "tStartMs": 464669,
+    "dDurationMs": 1451,
+    "segs": [ {
+      "utf8": "So far so good."
+    } ]
+  }, {
+    "tStartMs": 466120,
+    "dDurationMs": 5629,
+    "segs": [ {
+      "utf8": "Anyway, if you want to try the challenge you\nshould pause here because spoilers."
+    } ]
+  }, {
+    "tStartMs": 471749,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But to refresh your memory real quick, the\nargument goes like this: we are typical members"
+    } ]
+  }, {
+    "tStartMs": 476629,
+    "dDurationMs": 6301,
+    "segs": [ {
+      "utf8": "of the human race, which means we should find\nourselves at a typical point the span of humanity’s"
+    } ]
+  }, {
+    "tStartMs": 482930,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "existence."
+    } ]
+  }, {
+    "tStartMs": 483930,
+    "dDurationMs": 5449,
+    "segs": [ {
+      "utf8": "So more likely near the middle of our species\nexistence rather than right at the start or"
+    } ]
+  }, {
+    "tStartMs": 489379,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "right at the end."
+    } ]
+  }, {
+    "tStartMs": 491689,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Based on this, if we infer that there are likely to be too many more humans born after us than were"
+    } ]
+  }, {
+    "tStartMs": 496789,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "born before us then we can guess how much\nlonger humanity has left."
+    } ]
+  }, {
+    "tStartMs": 502479,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "So the challenge question was this: if you\nare the 100 billionth person born, what are"
+    } ]
+  }, {
+    "tStartMs": 508610,
+    "dDurationMs": 4739,
+    "segs": [ {
+      "utf8": "the chances that humanity will last until\nthe year 3000?"
+    } ]
+  }, {
+    "tStartMs": 513349,
+    "dDurationMs": 2611,
+    "segs": [ {
+      "utf8": "Assume population doubles every hundred years."
+    } ]
+  }, {
+    "tStartMs": 515960,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "The key is to figure out how many people will\nhave been born by the year 3000, and then compare"
+    } ]
+  }, {
+    "tStartMs": 522150,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "your birth rank to that number."
+    } ]
+  }, {
+    "tStartMs": 525060,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "If population is doubling every hundred years\nthere’ll be around 7.7 trillion people by"
+    } ]
+  }, {
+    "tStartMs": 530180,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "then."
+    } ]
+  }, {
+    "tStartMs": 531380,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "But that’s not the total people who existed\nup until then."
+    } ]
+  }, {
+    "tStartMs": 534930,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "For that you need to include the ones\nthat have died also."
+    } ]
+  }, {
+    "tStartMs": 539990,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Now, people used different approaches - but they\nall amount to integrating an exponential birth"
+    } ]
+  }, {
+    "tStartMs": 545240,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "rate over the next 1000 years."
+    } ]
+  }, {
+    "tStartMs": 548370,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "Depending on some assumptions like the average\nlifespan you get that something like 17-18"
+    } ]
+  }, {
+    "tStartMs": 554810,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "trillion people will have lived by the year 3000."
+    } ]
+  }, {
+    "tStartMs": 558020,
+    "dDurationMs": 7390,
+    "segs": [ {
+      "utf8": "That would place you in the first .6% of people\nwho ever lived - and the Doomsday Argument"
+    } ]
+  }, {
+    "tStartMs": 565410,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "argues that, therefore, there's less than\na 1% chance that so many people will ever"
+    } ]
+  }, {
+    "tStartMs": 571530,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "exist - less that 1% that we’ll make it to the\nyear 3000."
+    } ]
+  }, {
+    "tStartMs": 576880,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Now, some people used much more sophisticated probability arguments including Bayesian analysis or thinking"
+    } ]
+  }, {
+    "tStartMs": 582760,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "in “observer years” rather than observer\nlifetimes."
+    } ]
+  }, {
+    "tStartMs": 586060,
+    "dDurationMs": 8580,
+    "segs": [ {
+      "utf8": "But none of that helped - the probability for humanity's survival to the year 3000 remained at about a percent or lower."
+    } ]
+  }, {
+    "tStartMs": 594640,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Others pointed out that probably the global\npopulation will level off at 10 billion or"
+    } ]
+  }, {
+    "tStartMs": 599090,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "so people, so it’ll take a lot, lot\nlonger to get to several trillion humans."
+    } ]
+  }, {
+    "tStartMs": 604760,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "That would push the 99% doomsday date to something\nlike 10,000 years from now if we extend our"
+    } ]
+  }, {
+    "tStartMs": 610710,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "average lifespan to 100 years."
+    } ]
+  }, {
+    "tStartMs": 613490,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And the smaller our population is, the longer\nhumanity lasts - according to the Doomsday"
+    } ]
+  }, {
+    "tStartMs": 617450,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "argument."
+    } ]
+  }, {
+    "tStartMs": 618450,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "This has nothing to do with sustainability\n- it’s just this weird statistical argument."
+    } ]
+  }, {
+    "tStartMs": 623310,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "Which I guess means if the population was only 100 people we’d last for trillions of years … Hmmm,"
+    } ]
+  }, {
+    "tStartMs": 630260,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "that does make the Doomsday Argument seem\neven more absurd."
+    } ]
+  }, {
+    "tStartMs": 634740,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Anyway, if your name appears you’re one\nof the winners of the challenge question and"
+    } ]
+  }, {
+    "tStartMs": 639680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "you get your pick from the space time merch\nstore."
+    } ]
+  }, {
+    "tStartMs": 642640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Congrats - we’ll shoot you an email to sort\nout your prize."
+    } ]
+  }, {
+    "tStartMs": 645360,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "We tried to make sure all correct answers\ngot a prize in at least one quantum timeline"
+    } ]
+  }, {
+    "tStartMs": 650210,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "- so if you didn’t see your name here, please\ncongratulate the other you who did."
+    } ]
+  }, {
+    "tStartMs": 655870,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "And to all of you - thanks for joining me\non this wavefunction branch."
+    } ]
+  }, {
+    "tStartMs": 659660,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "I have a feeling it’s going to be a hell\nof a ride, even if we’re not a quantum-immortal"
+    } ]
+  }, {
+    "tStartMs": 664410,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "in branch."
+    } ]
+  }, {
+    "tStartMs": 666150,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So let’s stick it to all those alternate\nrealities, and make this the best of infinitely"
+    } ]
+  }, {
+    "tStartMs": 671590,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "many diverging histories of space time."
+    } ]
+  }, {
+    "tStartMs": 675120,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Hey Everyone!"
+    } ]
+  }, {
+    "tStartMs": 676760,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Before we get to comments, I wanted to let\nyou know about “Antarctic Extremes,” a"
+    } ]
+  }, {
+    "tStartMs": 680740,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "new mini-series from NOVA and PBS Digital\nStudios."
+    } ]
+  }, {
+    "tStartMs": 684350,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Antarctic Extremes is about exploring how\nscience is done in some of the harshest conditions"
+    } ]
+  }, {
+    "tStartMs": 688870,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "on Earth."
+    } ]
+  }, {
+    "tStartMs": 690020,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "Caitlin Saks and Arlo Pérez take you through\nthe biology, the geology, and the astronomy"
+    } ]
+  }, {
+    "tStartMs": 695710,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "being done at the South Pole."
+    } ]
+  }, {
+    "tStartMs": 698370,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Find Antarctic Extremes on PBS Terra, PBS\nDigital Studios’ new science channel."
+    } ]
+  }, {
+    "tStartMs": 704430,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Check out the episode in the description below,\nand tell them, politely, that SPACE TIME sent"
+    } ]
+  }, {
+    "tStartMs": 710190,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "you."
+    } ]
+  }, {
+    "tStartMs": 711190,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "We skipped last week's comments, so today\nI'm going to address both our episodes on the"
+    } ]
+  }, {
+    "tStartMs": 715180,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "role of conscious observation in quantum mechanics\nand on quantum decoherence as a better path"
+    } ]
+  }, {
+    "tStartMs": 721070,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "to understanding the measurement problem."
+    } ]
+  }, {
+    "tStartMs": 723420,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Rwitaban Goswami points out that the different\nmatter configurations between experimental"
+    } ]
+  }, {
+    "tStartMs": 727700,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "aparatus and the brain of different observers\nmeans decoherence should proceed differently"
+    } ]
+  }, {
+    "tStartMs": 732560,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "along those paths."
+    } ]
+  }, {
+    "tStartMs": 734090,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "So why do different observers always agree\non the result of the experiment?"
+    } ]
+  }, {
+    "tStartMs": 739730,
+    "dDurationMs": 7430,
+    "segs": [ {
+      "utf8": "Well, Vampyricon answers this partically, saying that each observer will be on one decohered"
+    } ]
+  }, {
+    "tStartMs": 747160,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "branch of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 749310,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Each decohered branch will have its own set\nof observers."
+    } ]
+  }, {
+    "tStartMs": 753310,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "In other words, not all observers agree on\nexperimental outcomes - it's just you never"
+    } ]
+  }, {
+    "tStartMs": 758860,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "meet the ones who don't agree with you."
+    } ]
+  }, {
+    "tStartMs": 761880,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "So this explanation works in the context of\nthe many worlds interpretation."
+    } ]
+  }, {
+    "tStartMs": 766510,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "You have sets of observers who make consistent\nobservations, and who are unaware of observers"
+    } ]
+  }, {
+    "tStartMs": 772070,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "on other wavefunction branches who make different\nobservations."
+    } ]
+  }, {
+    "tStartMs": 775600,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Decoherence doesn't determine which experimental\noutcome YOU will see - all it does is ensure"
+    } ]
+  }, {
+    "tStartMs": 780490,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "that you won't see multiple outcomes at the\nsame time - you don't see macroscopic quantum"
+    } ]
+  }, {
+    "tStartMs": 786270,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "superposition."
+    } ]
+  }, {
+    "tStartMs": 787460,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "It ensures that sensible and consistent macroscopic\nrealities are observed across each branch."
+    } ]
+  }, {
+    "tStartMs": 792830,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "We're going to explore this in much more detail\nnext week, when we look at the role of quantum"
+    } ]
+  }, {
+    "tStartMs": 797390,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "entanglement in decoherence."
+    } ]
+  }, {
+    "tStartMs": 800470,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "eddybox on the spacetime discord asked about\nthe quantum eraser, as did several people"
+    } ]
+  }, {
+    "tStartMs": 806140,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "in the comments."
+    } ]
+  }, {
+    "tStartMs": 807630,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "eddybox asks whether the eraser experiment\nRE-introduces coherence somehow...?"
+    } ]
+  }, {
+    "tStartMs": 813650,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "The answer is essentially yes - in a typical\nquantum eraser experiment you use entangled"
+    } ]
+  }, {
+    "tStartMs": 818430,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "photon or other particle pairs - one of the\npairs goes through a double-slit experiment"
+    } ]
+  }, {
+    "tStartMs": 824110,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and the other carries information about which\nslit was traversed."
+    } ]
+  }, {
+    "tStartMs": 828050,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "The entanglement is the very first step in\nthe decoherence chain, which ultimately spreads"
+    } ]
+  }, {
+    "tStartMs": 834930,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "relative phase information to the environment\nin an irreversible way."
+    } ]
+  }, {
+    "tStartMs": 839090,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "But in the quantum eraser, we haven't reached\ntrue decoherence - relative phase information"
+    } ]
+  }, {
+    "tStartMs": 844570,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "is spread across only two particles, and so\ndecoherence is reversible."
+    } ]
+  }, {
+    "tStartMs": 850770,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "The exact mechanism varies by quantum eraser\nexperiment, but this is true even in the infamous"
+    } ]
+  }, {
+    "tStartMs": 856850,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "delayed choice quantum eraser, which is absolutely\nNOT as mystical as it seems."
+    } ]
+  }, {
+    "tStartMs": 863130,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "I'll expand on that another time."
+    } ]
+  }, {
+    "tStartMs": 865640,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "because I guess it deserves its own episode."
+    } ]
+  }, {
+    "tStartMs": 868510,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "Gh Oxon asks whether the double slit experiment\nis usually performed in a vacuum, and if not,"
+    } ]
+  }, {
+    "tStartMs": 874900,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "why doesn’t interaction with gas cause immediate\ndecoherence."
+    } ]
+  }, {
+    "tStartMs": 878460,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Well these days double-slit experiments are\nusually done with single photons or other"
+    } ]
+  }, {
+    "tStartMs": 882430,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "particles."
+    } ]
+  }, {
+    "tStartMs": 883560,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "These are difficult to produce and precious,\nso you don't want to be losing or disturbing"
+    } ]
+  }, {
+    "tStartMs": 888550,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "them by interactions with the air - so most\nare done in near vacuum."
+    } ]
+  }, {
+    "tStartMs": 894500,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But actually, most visible-light photons will travel the length of a typical double-slit experiment"
+    } ]
+  }, {
+    "tStartMs": 899380,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "without actually scattering off air particles,\nand more minor interactions don't necessarily"
+    } ]
+  }, {
+    "tStartMs": 905640,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "decohere the light - instead they introduce\nsmall phase shifts that can blur out the interference"
+    } ]
+  }, {
+    "tStartMs": 910740,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "pattern without destroying it."
+    } ]
+  }, {
+    "tStartMs": 912779,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "Remember the that first double-slit experiment\nwas  performed by Thomas Young in 1801"
+    } ]
+  }, {
+    "tStartMs": 918300,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "and there wasn't much in the way of vacuum technology."
+    } ]
+  }, {
+    "tStartMs": 921110,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "You can also prove it to yourself right now."
+    } ]
+  }, {
+    "tStartMs": 923620,
+    "dDurationMs": 4751,
+    "segs": [ {
+      "utf8": "Place two fingers in front of your eye with\na tiny gap and look towards a light - you"
+    } ]
+  }, {
+    "tStartMs": 928371,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "can see bright and dark fringes of Fraunhofer\ndiffraction."
+    } ]
+  }, {
+    "tStartMs": 933670,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Some of you may recall that this is also the\nofficial salute to identify yourself as someone"
+    } ]
+  }, {
+    "tStartMs": 938190,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "capable of seeing the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 941130,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "AKA, a space time nerd."
+    } ]
+  }, {
+    "tStartMs": 944380,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "Nick Lucid over at The Science Asylum channel\nis pleased that we share his annoyance at"
+    } ]
+  }, {
+    "tStartMs": 950170,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "horrible missuse of quantum mechanics to promote\npseudoscientific nonsense."
+    } ]
+  }, {
+    "tStartMs": 955300,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "As Nick says, \"Quantum mechanics is not magic!\"."
+    } ]
+  }, {
+    "tStartMs": 958650,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "And to quote another of the greats, Arthur\nC. Clarke, \"Any sufficiently advanced technology"
+    } ]
+  }, {
+    "tStartMs": 964000,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "is indistinguishable from magic.\""
+    } ]
+  }, {
+    "tStartMs": 965810,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Likewise, any sufficiently unintuitive science\nis indistinguishable from magic."
+    } ]
+  }, {
+    "tStartMs": 971330,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "And of course, we have a long history of unscrupulous\ncharlatans taking advantage of that fact - whether"
+    } ]
+  }, {
+    "tStartMs": 977570,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "to sell snake oil, or books on quantum healing,\nor $80 crystal infused water bottles."
+    } ]
+  }, {
+    "tStartMs": 984470,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "When confronted with clues to greatest mysteries\nof the universe, are you gonna be like \"hmm,"
+    } ]
+  }, {
+    "tStartMs": 990230,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "how can I obscure these cosmic insights in\norder to trick people out of a bit of cash\"?"
+    } ]
+  }, {
+    "tStartMs": 995950,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Hm... fundamental insights into reality ... bit\nof cash ... tough choice."
+    } ]
+  }, {
+    "tStartMs": 1001410,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "ohsteeev suggests that a more interesting\nquestion than does consciousness influcence"
+    } ]
+  }, {
+    "tStartMs": 1006770,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "quantum mechanics is the other way around:\n\"Does quantum mechanics influence consciousness\"."
+    } ]
+  }, {
+    "tStartMs": 1011980,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "I can verify that it does."
+    } ]
+  }, {
+    "tStartMs": 1014950,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "Despite my fascination with the subject, I've\ndosed off in MANY quantum mechanics lectures."
+    } ]
+  }, {
+    "tStartMs": 1020820,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Quantum UNconsciousness achieved."
+    } ]
+  } ]
+}

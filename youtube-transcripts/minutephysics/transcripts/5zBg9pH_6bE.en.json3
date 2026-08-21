@@ -1,0 +1,325 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "There are a bajillion different charts available \nin software like excel or numbers or sheets or  "
+    } ]
+  }, {
+    "tStartMs": 5880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "mathematica or plotly, but I recently discovered \nthat pretty much all plotting apps - as far as I  "
+    } ]
+  }, {
+    "tStartMs": 9800,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "can tell - are missing an incredibly basic type of \nchart! Consider this video my attempt to convince  "
+    } ]
+  }, {
+    "tStartMs": 15280,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "you it's a scandal these charts are missing, \nand my attempt to convince software developers  "
+    } ]
+  }, {
+    "tStartMs": 18680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "to add them into their plotting software.\nOk, so suppose you want to compare the climates  "
+    } ]
+  }, {
+    "tStartMs": 22360,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "of London, England; London, Ontario; and London, \nKentucky. Here's a table showing the average and  "
+    } ]
+  }, {
+    "tStartMs": 26960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "seasonal high and low temperatures for each \nLondon. But tables are boring. If you wanted  "
+    } ]
+  }, {
+    "tStartMs": 30840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "to plot this data by hand, you might imagine \nusing a chart like this to show the range of  "
+    } ]
+  }, {
+    "tStartMs": 34520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "temperatures and allow you to see at a glance that \nthe climate in London England is less extreme than  "
+    } ]
+  }, {
+    "tStartMs": 38440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the other Londons, (which are each similarly \nvariable but with Ontario shifted colder) - a  "
+    } ]
+  }, {
+    "tStartMs": 39440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "bar chart makes more sense than, say, \na point chart since the temperatures in  "
+    } ]
+  }, {
+    "tStartMs": 42800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "these Londons can by definition be in between \nthe minimum and maximum ones in our table. "
+    } ]
+  }, {
+    "tStartMs": 47280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The problem is, you can't easily \nmake a chart like this on a computer. "
+    } ]
+  }, {
+    "tStartMs": 50280,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "You can get close with an area chart, \nwhich plots the temperatures correctly,  "
+    } ]
+  }, {
+    "tStartMs": 53360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "adds nice shading in between them, but also fills \nthe area all the way down (or up) to the X axis,  "
+    } ]
+  }, {
+    "tStartMs": 57760,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "which isn't right. You can get around the \nfilling problem by creating a new table of  "
+    } ]
+  }, {
+    "tStartMs": 60960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "the differences between the temperatures \nand plotting that as a stacked area  "
+    } ]
+  }, {
+    "tStartMs": 63880,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "chart... oops - we need to remove the fill from \nthe lowest value - but it still doesn't make  "
+    } ]
+  }, {
+    "tStartMs": 65080,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "sense to use a chart that draws connecting \nlines in a situation like this where we're  "
+    } ]
+  }, {
+    "tStartMs": 68280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "talking about discrete geographic locations.\nYou can also get close with a stacked bar chart  "
+    } ]
+  }, {
+    "tStartMs": 72680,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "(or \"stacked column chart\" depending on whether \nyou think bars can be both horizontal and vertical  "
+    } ]
+  }, {
+    "tStartMs": 76080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "or if you think vertical bars have to be called \ncolumns...) anyway, a stacked bar-column chart  "
+    } ]
+  }, {
+    "tStartMs": 80280,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "separates out the cities correctly but incorrectly \nadds the temperatures together - hence,  "
+    } ]
+  }, {
+    "tStartMs": 84640,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "\"stacked\" - the columns are stacked together, \nappropriate to the name, but it's not what we  "
+    } ]
+  }, {
+    "tStartMs": 88560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "want. You can get around the stacking problem by \nagain creating a table of the differences between  "
+    } ]
+  }, {
+    "tStartMs": 92440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the temperatures, but then it still fills down \nto zero even if you want the bars to start at  "
+    } ]
+  }, {
+    "tStartMs": 95800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "some other number, and the negative values are \na total nightmare\" since stacked column charts  "
+    } ]
+  }, {
+    "tStartMs": 99560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "by default plot things from zero and if you enter \na negative number for the first value to try to  "
+    } ]
+  }, {
+    "tStartMs": 103240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "get it to start below zero, it plots that amount \nbelow zero, but then measures the positive numbers  "
+    } ]
+  }, {
+    "tStartMs": 107640,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "up from zero anyway and not from the negative \nnumber - this is because stacked column charts are  "
+    } ]
+  }, {
+    "tStartMs": 111520,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "meant for things like keeping inflows and outflows \nseparate, like, you bought 5 cats and sold 2, and  "
+    } ]
+  }, {
+    "tStartMs": 116040,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "you want the total length of bars to represent the \ntotal number of transactions (7) and not the final  "
+    } ]
+  }, {
+    "tStartMs": 120240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "number of cats (3). The only reasonable way I've \nfound to deal with negative numbers in stacked  "
+    } ]
+  }, {
+    "tStartMs": 124360,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "column charts is just to add a big number to ALL \nthe temperatures so they're not negative anymore,  "
+    } ]
+  }, {
+    "tStartMs": 128640,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "make the chart, then photoshop the y axis labels \nto remove the big number. Which is ridiculous. "
+    } ]
+  }, {
+    "tStartMs": 133160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "What we're actually looking for is something \ncalled a \"range chart\" where you enter the  "
+    } ]
+  }, {
+    "tStartMs": 136360,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "top and bottom values of the range and then \nthe program draws that for you. Specifically,  "
+    } ]
+  }, {
+    "tStartMs": 140480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "we want a \"stacked range bar chart\" where you \ncan enter multiple numbers, including negative  "
+    } ]
+  }, {
+    "tStartMs": 144520,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "numbers, and then draw bars between them. Is \nthat too much to ask? I guess, I guess it is. "
+    } ]
+  }, {
+    "tStartMs": 150000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "ps here are a few more examples of data that \nreally would benefit from being visualized  "
+    } ]
+  }, {
+    "tStartMs": 153840,
+    "dDurationMs": 17029,
+    "segs": [ {
+      "utf8": "with a stacked range bar chart but first, a big \nthank you to my Patreon supporters who help make  "
+    } ]
+  }, {
+    "tStartMs": 170869,
+    "dDurationMs": 531,
+    "segs": [ {
+      "utf8": "these videos possible - please consider supporting \nMinutePhysics at patreon.com/minutephysics. Now,  "
+    } ]
+  }, {
+    "tStartMs": 171400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "back to the benefits of stacked range bar charts! \nReally, any chart where the x axis is a discrete  "
+    } ]
+  }, {
+    "tStartMs": 175720,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "set of things and the y axis is a range that can \ngo below and above zero is a candidate for this  "
+    } ]
+  }, {
+    "tStartMs": 179840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "type of chart. Like, if you wanted to plot the \nrange of latitudes of each of the continents,  "
+    } ]
+  }, {
+    "tStartMs": 183440,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "or show when twilight, dusk, and daytime are \nat a given location. Or compare percentiles  "
+    } ]
+  }, {
+    "tStartMs": 187800,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "for student grades in different classes. Or \nthe local climate: plotting the average daily  "
+    } ]
+  }, {
+    "tStartMs": 191440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "low and average daily high temperatures for \neach month along with the average monthly low  "
+    } ]
+  }, {
+    "tStartMs": 195280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and high temperatures and the record monthly low \nand high temperatures across a year gives you a  "
+    } ]
+  }, {
+    "tStartMs": 198960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "picture of the seasonal variation in temperature \nfor a particular location. Yes, you can do this  "
+    } ]
+  }, {
+    "tStartMs": 202640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "with a stacked area chart, but that makes less \nsense than stacked columns because area implies  "
+    } ]
+  }, {
+    "tStartMs": 206800,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "some sort of continuity when to create the data \nyou are literally binning or averaging by month."
+    } ]
+  } ]
+}

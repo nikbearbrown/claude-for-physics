@@ -1,0 +1,271 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "The paradox of windmills is this: extract kinetic \nenergy from the wind while still letting the  "
+    } ]
+  }, {
+    "tStartMs": 6080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "wind past. Unlike a dam, where you extract the \npotential energy from the height of the water  "
+    } ]
+  }, {
+    "tStartMs": 10400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and so you can lower the water as much as you \nwant without slowing the flow, with a windmill,  "
+    } ]
+  }, {
+    "tStartMs": 14160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "you extract kinetic energy from the *motion* of \nthe wind, which causes the wind to slow down."
+    } ]
+  }, {
+    "tStartMs": 18720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So how much wind should a windmill mill?"
+    } ]
+  }, {
+    "tStartMs": 21120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Well, the maximum possible amount \nof energy you can extract from the  "
+    } ]
+  }, {
+    "tStartMs": 24080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "wind is simply the difference between \nits initial and final kinetic energy.  "
+    } ]
+  }, {
+    "tStartMs": 27440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Kinetic energy depends on speed squared, \nso if the outgoing wind speed is, say,  "
+    } ]
+  }, {
+    "tStartMs": 31760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "half of the incoming speed, then the final wind \nenergy will be a quarter of the initial energy,  "
+    } ]
+  }, {
+    "tStartMs": 36160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "meaning that three quarters of the energy of the \nwind was extracted when it passed the windmill."
+    } ]
+  }, {
+    "tStartMs": 39920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But then there's the question of how much \nof the wind you can actually extract energy  "
+    } ]
+  }, {
+    "tStartMs": 43280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "from. It turns out that the speed of the \nwind at a windmill is halfway between the  "
+    } ]
+  }, {
+    "tStartMs": 47440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "incoming and outgoing wind speeds. So for a \nfinal wind speed of half the incoming speed,  "
+    } ]
+  }, {
+    "tStartMs": 52320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "the speed at the windmill will be \nthree fourths the incoming speed,  "
+    } ]
+  }, {
+    "tStartMs": 55360,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "which means only three fourths as much wind \ncan actually pass the windmill every second."
+    } ]
+  }, {
+    "tStartMs": 59440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Combining these two facts means that a \nwindmill that slows the wind to half its  "
+    } ]
+  }, {
+    "tStartMs": 62880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "initial speed allows three fourths as much \nwind to pass and extracts three fourths of  "
+    } ]
+  }, {
+    "tStartMs": 66800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the energy from that wind, for a total efficiency \nof three fourths times three fourths, or 56.25%."
+    } ]
+  }, {
+    "tStartMs": 73600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Doing the same math for other \npossible wind speed reductions,  "
+    } ]
+  }, {
+    "tStartMs": 76560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "you find that the most efficient windmill possible \nslows the wind to a third of its incoming speed.  "
+    } ]
+  }, {
+    "tStartMs": 81440,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Reducing to 1/3 speed achieves a kinetic energy \n\"efficiency\" of v^2-(v/3)^2 equals 88.88% of  "
+    } ]
+  }, {
+    "tStartMs": 88400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "the energy of wind passing the windmill \nis extracted. And reducing the wind to  "
+    } ]
+  }, {
+    "tStartMs": 91040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "1/3 speed after the windmill means the wind \npassing the windmill is going at 2/3 speed,  "
+    } ]
+  }, {
+    "tStartMs": 95120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "so 2/3 as much wind passes through the \nwindmill. And 88.88% energy extraction  "
+    } ]
+  }, {
+    "tStartMs": 99840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "from 2/3 of the wind results in an overall \nefficiency of 88.88*2/3 = 59.259 percent."
+    } ]
+  }, {
+    "tStartMs": 104880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "A windmill that slows the wind down \nbelow 1/3 speed will get a higher  "
+    } ]
+  }, {
+    "tStartMs": 108400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "percentage of the energy but from even less wind,  "
+    } ]
+  }, {
+    "tStartMs": 110880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "for a lower overall efficiency. And a windmill \nthat slows the wind down less will get a lower  "
+    } ]
+  }, {
+    "tStartMs": 115360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "percentage of the energy from somewhat more \nwind, again for a lower overall efficiency."
+    } ]
+  }, {
+    "tStartMs": 120320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So how much wind should a windmill mill? 2/3 of \nit, for 59% efficiency in extracting the energy."
+    } ]
+  }, {
+    "tStartMs": 127680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Obviously, real world windmills are \nfar more complicated and have way  "
+    } ]
+  }, {
+    "tStartMs": 131040,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "more engineering considerations, so \nthe 59% number may not apply exactly."
+    } ]
+  }, {
+    "tStartMs": 135440,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Ok, Henry here, I've put a bonus video \non Nebula that covers some details I had  "
+    } ]
+  }, {
+    "tStartMs": 139040,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to leave out of the main video. Nebula is the \nStreamy-award-nominated independent streaming  "
+    } ]
+  }, {
+    "tStartMs": 143200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "service that's the co-sponsor of this video, \nbuilt by and for a collection of educational video  "
+    } ]
+  }, {
+    "tStartMs": 147520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "creators including Real Engineering, Mike Boyd, \nUp and Atom, Jordan Harrod - and me. And Nebula  "
+    } ]
+  }, {
+    "tStartMs": 152560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "has partnered with CuriosityStream, which offers \nthousands of documentaries and nonfiction titles,  "
+    } ]
+  }, {
+    "tStartMs": 157120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "to give you access to both platforms in one go... \nfor just a few dollars a month! I really enjoyed  "
+    } ]
+  }, {
+    "tStartMs": 160400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "watching the European Inventor Award episode about \nHenrik Stiesdal, who has been intimately involved  "
+    } ]
+  }, {
+    "tStartMs": 165520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "in the invention and development of modern wind \nturbines, building the first offshore wind farm,  "
+    } ]
+  }, {
+    "tStartMs": 169760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and more. Sign up for CuriosityStream using the \nlink in the description and you'll also get access  "
+    } ]
+  }, {
+    "tStartMs": 174240,
+    "dDurationMs": 2563,
+    "segs": [ {
+      "utf8": "to Nebula, including the bonus video that goes \nwith this one, as well as an ad-free viewing  "
+    } ]
+  }, {
+    "tStartMs": 176803,
+    "dDurationMs": 5277,
+    "segs": [ {
+      "utf8": "experience across the site. And you'll also get \n26% off an annual subscription to CuriosityStream."
+    } ]
+  } ]
+}

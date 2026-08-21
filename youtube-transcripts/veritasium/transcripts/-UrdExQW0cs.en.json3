@@ -1,0 +1,3163 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- Right now some nation states"
+    } ]
+  }, {
+    "tStartMs": 2100,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "and individual actors are\nintercepting and storing lots"
+    } ]
+  }, {
+    "tStartMs": 6120,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "of encrypted data like\npasswords, bank details,"
+    } ]
+  }, {
+    "tStartMs": 9540,
+    "dDurationMs": 1816,
+    "segs": [ {
+      "utf8": "and social security numbers."
+    } ]
+  }, {
+    "tStartMs": 11356,
+    "dDurationMs": 2024,
+    "segs": [ {
+      "utf8": "But they can't open these files."
+    } ]
+  }, {
+    "tStartMs": 13380,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So why are they doing it?"
+    } ]
+  }, {
+    "tStartMs": 15510,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Well, because they believe that within"
+    } ]
+  }, {
+    "tStartMs": 16890,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "the next 10 to 20 years,"
+    } ]
+  }, {
+    "tStartMs": 18480,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "they will have access\nto a quantum computer"
+    } ]
+  }, {
+    "tStartMs": 20370,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "that can break the encryption in minutes."
+    } ]
+  }, {
+    "tStartMs": 23850,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "This procedure is known"
+    } ]
+  }, {
+    "tStartMs": 25230,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "as Store Now, Decrypt Later or SNDL."
+    } ]
+  }, {
+    "tStartMs": 29910,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "And it works because there\nis information around today"
+    } ]
+  }, {
+    "tStartMs": 32610,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "that will still be valuable in a decade."
+    } ]
+  }, {
+    "tStartMs": 34860,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Things like industrial and\npharmaceutical research"
+    } ]
+  }, {
+    "tStartMs": 37590,
+    "dDurationMs": 2371,
+    "segs": [ {
+      "utf8": "and top secret government intelligence,"
+    } ]
+  }, {
+    "tStartMs": 39961,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "and everyone is aware of this threat."
+    } ]
+  }, {
+    "tStartMs": 42720,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "The National Security Administration"
+    } ]
+  }, {
+    "tStartMs": 44400,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "says that a sufficiently\nlarge quantum computer,"
+    } ]
+  }, {
+    "tStartMs": 46777,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "if built would be capable of undermining"
+    } ]
+  }, {
+    "tStartMs": 49410,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "all widely deployed public key algorithms."
+    } ]
+  }, {
+    "tStartMs": 52530,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- You know in a five to 10 year timeframe,"
+    } ]
+  }, {
+    "tStartMs": 54780,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "quantum computing will break\nencryption as we know it today."
+    } ]
+  }, {
+    "tStartMs": 58114,
+    "dDurationMs": 2486,
+    "segs": [ {
+      "utf8": "- Even though sufficiently\npowerful quantum computers"
+    } ]
+  }, {
+    "tStartMs": 60600,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "are still years away,"
+    } ]
+  }, {
+    "tStartMs": 62220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "they're already a threat because\nof Store Now Decrypt Later,"
+    } ]
+  }, {
+    "tStartMs": 65940,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "which is why the US Congress\njust passed legislation"
+    } ]
+  }, {
+    "tStartMs": 68790,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "mandating all agencies start transitioning"
+    } ]
+  }, {
+    "tStartMs": 71157,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "right now to new methods of cryptography"
+    } ]
+  }, {
+    "tStartMs": 73830,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "that can't be broken by quantum computers."
+    } ]
+  }, {
+    "tStartMs": 77730,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "You know, our current encryption schemes"
+    } ]
+  }, {
+    "tStartMs": 79410,
+    "dDurationMs": 1337,
+    "segs": [ {
+      "utf8": "have been remarkably successful"
+    } ]
+  }, {
+    "tStartMs": 80747,
+    "dDurationMs": 3059,
+    "segs": [ {
+      "utf8": "working effectively for over 40 years."
+    } ]
+  }, {
+    "tStartMs": 83806,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "Up until the 1970s, if\nyou wanted to exchange"
+    } ]
+  }, {
+    "tStartMs": 87060,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "private information with someone,"
+    } ]
+  }, {
+    "tStartMs": 88920,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you would first have to meet up in person"
+    } ]
+  }, {
+    "tStartMs": 91320,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and share a secret key."
+    } ]
+  }, {
+    "tStartMs": 93330,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "This same key would be used to\nencrypt and decrypt messages."
+    } ]
+  }, {
+    "tStartMs": 97950,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "So it's known as a\nsymmetric key algorithm."
+    } ]
+  }, {
+    "tStartMs": 101120,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "As long as no one else gets\ntheir hands on the key,"
+    } ]
+  }, {
+    "tStartMs": 103770,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "your messages are safe."
+    } ]
+  }, {
+    "tStartMs": 106260,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "But now what if you wanna send information"
+    } ]
+  }, {
+    "tStartMs": 108450,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "to someone you've never met,"
+    } ]
+  }, {
+    "tStartMs": 109770,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and it's too hard to arrange\nan in-person meeting."
+    } ]
+  }, {
+    "tStartMs": 113010,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "You can't share a key\nover an unsecured channel"
+    } ]
+  }, {
+    "tStartMs": 116190,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "like a phone line or the mail,"
+    } ]
+  }, {
+    "tStartMs": 118170,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "because it could be intercepted."
+    } ]
+  }, {
+    "tStartMs": 120840,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "And this is what in 1977,\nled three scientists,"
+    } ]
+  }, {
+    "tStartMs": 124500,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Riverst, Shamir, and Adelman"
+    } ]
+  }, {
+    "tStartMs": 126570,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "to come up with an\nencryption breakthrough."
+    } ]
+  }, {
+    "tStartMs": 129180,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Today it's known by their initials RSA,"
+    } ]
+  }, {
+    "tStartMs": 132240,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and it works something like this."
+    } ]
+  }, {
+    "tStartMs": 134790,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Every person has two\nreally big prime numbers,"
+    } ]
+  }, {
+    "tStartMs": 137790,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "all their own which they keep secret."
+    } ]
+  }, {
+    "tStartMs": 140520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "They multiply these numbers together"
+    } ]
+  }, {
+    "tStartMs": 142380,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "to get an even bigger number,"
+    } ]
+  }, {
+    "tStartMs": 144240,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "which they make public\nfor everyone to see."
+    } ]
+  }, {
+    "tStartMs": 147420,
+    "dDurationMs": 2638,
+    "segs": [ {
+      "utf8": "Now, if I wanna send\nsomeone a private message,"
+    } ]
+  }, {
+    "tStartMs": 150058,
+    "dDurationMs": 4442,
+    "segs": [ {
+      "utf8": "I use their big public\nnumber to garble my message."
+    } ]
+  }, {
+    "tStartMs": 154500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And I garble it in such a\nway that it is impossible"
+    } ]
+  }, {
+    "tStartMs": 157500,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "to ungarble without knowing\nthe two prime factors"
+    } ]
+  }, {
+    "tStartMs": 161190,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "that made that number."
+    } ]
+  }, {
+    "tStartMs": 162720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "This is an asymmetric key system,"
+    } ]
+  }, {
+    "tStartMs": 164880,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "since different keys are used to encrypt"
+    } ]
+  }, {
+    "tStartMs": 167460,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and decrypt the message."
+    } ]
+  }, {
+    "tStartMs": 169440,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So it's easy for my intended\nrecipient to decode,"
+    } ]
+  }, {
+    "tStartMs": 173010,
+    "dDurationMs": 2248,
+    "segs": [ {
+      "utf8": "but impossible for everyone else,"
+    } ]
+  }, {
+    "tStartMs": 175258,
+    "dDurationMs": 4562,
+    "segs": [ {
+      "utf8": "unless they can factor\nthat large public number."
+    } ]
+  }, {
+    "tStartMs": 179820,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Now, someone could try to factor\nit, using a supercomputer,"
+    } ]
+  }, {
+    "tStartMs": 182550,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "in the best known factoring algorithm"
+    } ]
+  }, {
+    "tStartMs": 184260,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "the General Number Field\nSieve, but modern cryptography"
+    } ]
+  }, {
+    "tStartMs": 187560,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "uses prime numbers that\nare around 313 digits long."
+    } ]
+  }, {
+    "tStartMs": 191670,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Factoring a product of\ntwo primes this big,"
+    } ]
+  }, {
+    "tStartMs": 193980,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "even with a supercomputer,"
+    } ]
+  }, {
+    "tStartMs": 195270,
+    "dDurationMs": 2653,
+    "segs": [ {
+      "utf8": "would take around 16 million years,"
+    } ]
+  }, {
+    "tStartMs": 197923,
+    "dDurationMs": 3617,
+    "segs": [ {
+      "utf8": "but not on a quantum computer."
+    } ]
+  }, {
+    "tStartMs": 201540,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "See, in normal computers, a bit can only"
+    } ]
+  }, {
+    "tStartMs": 203730,
+    "dDurationMs": 3751,
+    "segs": [ {
+      "utf8": "be in one state at a time,\neither a zero or a one."
+    } ]
+  }, {
+    "tStartMs": 207481,
+    "dDurationMs": 2339,
+    "segs": [ {
+      "utf8": "So if you had two bits, they could be"
+    } ]
+  }, {
+    "tStartMs": 209820,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "in one of four possible\nstates, 00, 01, 10 or 11."
+    } ]
+  }, {
+    "tStartMs": 216240,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Let's say each of these\nstates represents a number,"
+    } ]
+  }, {
+    "tStartMs": 218730,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "0, 1, 2, or 3."
+    } ]
+  }, {
+    "tStartMs": 221160,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "If we want to do a calculation,\nfor example, raising seven"
+    } ]
+  }, {
+    "tStartMs": 224010,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "to the power of one of these numbers,"
+    } ]
+  }, {
+    "tStartMs": 225660,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "we can only do it for one state at a time,"
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "in this case seven squared"
+    } ]
+  }, {
+    "tStartMs": 230220,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and so we get the answer 49."
+    } ]
+  }, {
+    "tStartMs": 233190,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Quantum computers consist of qubits"
+    } ]
+  }, {
+    "tStartMs": 235230,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "which also have two states, zero or one."
+    } ]
+  }, {
+    "tStartMs": 238267,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "But unlike a classical bit, a qubit,"
+    } ]
+  }, {
+    "tStartMs": 241020,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "doesn't have to be in\njust one state at a time."
+    } ]
+  }, {
+    "tStartMs": 244110,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It can be in an arbitrary\ncombination of those states,"
+    } ]
+  }, {
+    "tStartMs": 247110,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "a superposition if you\nwill, of zero and one."
+    } ]
+  }, {
+    "tStartMs": 250920,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "So if you have two qubits,\nthey can exist simultaneously"
+    } ]
+  }, {
+    "tStartMs": 254340,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "in a superposition of 0, 1, 2, and 3."
+    } ]
+  }, {
+    "tStartMs": 260550,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Now, when we repeat the same calculation,"
+    } ]
+  }, {
+    "tStartMs": 262500,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "it will actually perform the calculation"
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "for all of those numbers at the same time."
+    } ]
+  }, {
+    "tStartMs": 267690,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "And what we're left"
+    } ]
+  }, {
+    "tStartMs": 268523,
+    "dDurationMs": 2977,
+    "segs": [ {
+      "utf8": "with is a super position\nof the different answers."
+    } ]
+  }, {
+    "tStartMs": 271500,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "1, 7, 49 and 343."
+    } ]
+  }, {
+    "tStartMs": 275430,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "If we add another qubit,"
+    } ]
+  }, {
+    "tStartMs": 277080,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "we double the number of possible states."
+    } ]
+  }, {
+    "tStartMs": 279780,
+    "dDurationMs": 3076,
+    "segs": [ {
+      "utf8": "So with three qubits, we\ncan represent eight states,"
+    } ]
+  }, {
+    "tStartMs": 282856,
+    "dDurationMs": 3614,
+    "segs": [ {
+      "utf8": "and thus perform eight\ncalculations all at once."
+    } ]
+  }, {
+    "tStartMs": 286470,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Increase that number to just 20 qubits,"
+    } ]
+  }, {
+    "tStartMs": 288840,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "and you can already represent"
+    } ]
+  }, {
+    "tStartMs": 290280,
+    "dDurationMs": 2074,
+    "segs": [ {
+      "utf8": "over a million different states,"
+    } ]
+  }, {
+    "tStartMs": 292354,
+    "dDurationMs": 2546,
+    "segs": [ {
+      "utf8": "meaning you can simultaneously compute"
+    } ]
+  }, {
+    "tStartMs": 294900,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "over a million different answers."
+    } ]
+  }, {
+    "tStartMs": 297510,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "With 300 qubits, you can\nrepresent more states"
+    } ]
+  }, {
+    "tStartMs": 300660,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "than there are particles\nin the observable universe."
+    } ]
+  }, {
+    "tStartMs": 304131,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "This sounds incredibly powerful and it is,"
+    } ]
+  }, {
+    "tStartMs": 307972,
+    "dDurationMs": 3038,
+    "segs": [ {
+      "utf8": "but there is one very big catch."
+    } ]
+  }, {
+    "tStartMs": 311010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "All of the answers to the\ncomputation are embedded"
+    } ]
+  }, {
+    "tStartMs": 313560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "in a superposition of states,"
+    } ]
+  }, {
+    "tStartMs": 315720,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "but you can't simply read\nout this superposition."
+    } ]
+  }, {
+    "tStartMs": 319020,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "When you make a measurement,\nyou only get a single value"
+    } ]
+  }, {
+    "tStartMs": 321780,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "from the superposition\nbasically at random,"
+    } ]
+  }, {
+    "tStartMs": 324360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and all the other information is lost."
+    } ]
+  }, {
+    "tStartMs": 327240,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So in order to harness the\npower of a quantum computer,"
+    } ]
+  }, {
+    "tStartMs": 330480,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "you need a smart way to convert\na superposition of states"
+    } ]
+  }, {
+    "tStartMs": 333241,
+    "dDurationMs": 4409,
+    "segs": [ {
+      "utf8": "into one that contains only\nthe information you want."
+    } ]
+  }, {
+    "tStartMs": 337650,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "This is an incredibly difficult task,"
+    } ]
+  }, {
+    "tStartMs": 340110,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "which is why for most applications,"
+    } ]
+  }, {
+    "tStartMs": 341880,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "quantum computers are useless."
+    } ]
+  }, {
+    "tStartMs": 343890,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So far, we've only\nidentified a few problems,"
+    } ]
+  }, {
+    "tStartMs": 346260,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "where we can actually do this,\nbut as luck would have it,"
+    } ]
+  }, {
+    "tStartMs": 349290,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "these are precisely the problems\nthat form the foundation"
+    } ]
+  }, {
+    "tStartMs": 352380,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "of nearly all the public key\ncryptography we use today."
+    } ]
+  }, {
+    "tStartMs": 356670,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "In 1994, Peter Shor and\nDon Coppersmith figured out"
+    } ]
+  }, {
+    "tStartMs": 360060,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "how to take a quantum Fourier transform."
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It works just like a\nnormal Fourier transform,"
+    } ]
+  }, {
+    "tStartMs": 365520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "apply it to some periodic signal,"
+    } ]
+  }, {
+    "tStartMs": 367380,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and it returns the frequencies\nthat are in that signal."
+    } ]
+  }, {
+    "tStartMs": 370620,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Now this may not seem\nparticularly interesting"
+    } ]
+  }, {
+    "tStartMs": 372840,
+    "dDurationMs": 1396,
+    "segs": [ {
+      "utf8": "but consider this."
+    } ]
+  }, {
+    "tStartMs": 374236,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "If we have a superposition\nof states that is periodic,"
+    } ]
+  }, {
+    "tStartMs": 377490,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "that is the terms in the\nsuperposition are separated,"
+    } ]
+  }, {
+    "tStartMs": 380100,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "by some regular amount,"
+    } ]
+  }, {
+    "tStartMs": 382020,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "well we can apply the\nquantum Fourier transform"
+    } ]
+  }, {
+    "tStartMs": 384690,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "and will be left with states"
+    } ]
+  }, {
+    "tStartMs": 385980,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that contain the frequency of the signal."
+    } ]
+  }, {
+    "tStartMs": 388440,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So this we can measure."
+    } ]
+  }, {
+    "tStartMs": 390450,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "The quantum Fourier transform,"
+    } ]
+  }, {
+    "tStartMs": 392160,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "allows us to extract frequency information"
+    } ]
+  }, {
+    "tStartMs": 394860,
+    "dDurationMs": 2343,
+    "segs": [ {
+      "utf8": "from a periodic superposition,"
+    } ]
+  }, {
+    "tStartMs": 397203,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and that is gonna come in handy."
+    } ]
+  }, {
+    "tStartMs": 401010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So how does a quantum\ncomputer factor the product"
+    } ]
+  }, {
+    "tStartMs": 403560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "of two primes much faster\nthan a conventional computer?"
+    } ]
+  }, {
+    "tStartMs": 407160,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "I want to explain this by first walking"
+    } ]
+  }, {
+    "tStartMs": 408740,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "through a simple example with\nno quantum computer required,"
+    } ]
+  }, {
+    "tStartMs": 412320,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and then I'll show how a quantum computer"
+    } ]
+  }, {
+    "tStartMs": 414660,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "could execute this method"
+    } ]
+  }, {
+    "tStartMs": 416100,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "even for a very large number\nin a short period of time."
+    } ]
+  }, {
+    "tStartMs": 420270,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So let's say we have a number N,"
+    } ]
+  }, {
+    "tStartMs": 422550,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "which is the product\nof two primes, p and q."
+    } ]
+  }, {
+    "tStartMs": 426000,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "For the sake of this example,\nlet's set N equal to 77."
+    } ]
+  }, {
+    "tStartMs": 430110,
+    "dDurationMs": 2274,
+    "segs": [ {
+      "utf8": "Now I bet you can guess the prime factors,"
+    } ]
+  }, {
+    "tStartMs": 432384,
+    "dDurationMs": 2796,
+    "segs": [ {
+      "utf8": "but let's pretend for the\nmoment that we don't know them,"
+    } ]
+  }, {
+    "tStartMs": 435180,
+    "dDurationMs": 3093,
+    "segs": [ {
+      "utf8": "because with a product of\nreally big primes, we wouldn't."
+    } ]
+  }, {
+    "tStartMs": 439140,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Now I want to use a fact about numbers"
+    } ]
+  }, {
+    "tStartMs": 441270,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "that feels like magic."
+    } ]
+  }, {
+    "tStartMs": 443250,
+    "dDurationMs": 3853,
+    "segs": [ {
+      "utf8": "Pick a number g that doesn't\nshare any factors with N."
+    } ]
+  }, {
+    "tStartMs": 447103,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "If you multiply g by itself\nover and over and over,"
+    } ]
+  }, {
+    "tStartMs": 452610,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "you will always eventually,\nreach a multiple of N plus one."
+    } ]
+  }, {
+    "tStartMs": 458010,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "In other words, you can\nalways find some exponent r,"
+    } ]
+  }, {
+    "tStartMs": 461340,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "such that g to the power of r,\nis a multiple of N plus one."
+    } ]
+  }, {
+    "tStartMs": 466230,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Let's see how this works."
+    } ]
+  }, {
+    "tStartMs": 468030,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Pick any number that is smaller than 77."
+    } ]
+  }, {
+    "tStartMs": 470460,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I'll pick the number eight."
+    } ]
+  }, {
+    "tStartMs": 471960,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "This number doesn't share factors with 77."
+    } ]
+  }, {
+    "tStartMs": 474540,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And if you were doing\nthis with big primes,"
+    } ]
+  }, {
+    "tStartMs": 476550,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "it would also be extremely unlikely"
+    } ]
+  }, {
+    "tStartMs": 478530,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "that you just happen to pick a number"
+    } ]
+  }, {
+    "tStartMs": 479940,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "that shares factors with N."
+    } ]
+  }, {
+    "tStartMs": 482080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Now multiply eight by itself\nonce, twice, three times"
+    } ]
+  }, {
+    "tStartMs": 486600,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "four times, and so on, raising\neight to ever higher powers"
+    } ]
+  }, {
+    "tStartMs": 490271,
+    "dDurationMs": 3913,
+    "segs": [ {
+      "utf8": "and then divide each\nof these numbers by 77."
+    } ]
+  }, {
+    "tStartMs": 494184,
+    "dDurationMs": 2496,
+    "segs": [ {
+      "utf8": "We're not really interested\nin how many times"
+    } ]
+  }, {
+    "tStartMs": 496680,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "77 goes into the number,\njust the remainder,"
+    } ]
+  }, {
+    "tStartMs": 499500,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "what's left over, because at some point,"
+    } ]
+  }, {
+    "tStartMs": 502140,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "77 should divide one of these numbers"
+    } ]
+  }, {
+    "tStartMs": 504240,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "with a remainder of exactly one."
+    } ]
+  }, {
+    "tStartMs": 507420,
+    "dDurationMs": 3415,
+    "segs": [ {
+      "utf8": "So eight divided by 77 is\nzero with a remainder of 8,"
+    } ]
+  }, {
+    "tStartMs": 510835,
+    "dDurationMs": 4036,
+    "segs": [ {
+      "utf8": "64 divided by 77 is zero remainder 64."
+    } ]
+  }, {
+    "tStartMs": 514871,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "512 divided by 77 is six remainder 50."
+    } ]
+  }, {
+    "tStartMs": 518580,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And as we keep going, we get remainders"
+    } ]
+  }, {
+    "tStartMs": 520620,
+    "dDurationMs": 3823,
+    "segs": [ {
+      "utf8": "of 15, 43, 36, 57, 71,\n29, and finally one."
+    } ]
+  }, {
+    "tStartMs": 529551,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "So there we have it,\neight to the power of 10"
+    } ]
+  }, {
+    "tStartMs": 533070,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "is one more than a multiple of 77."
+    } ]
+  }, {
+    "tStartMs": 536010,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "So we've found the exponent R\nthat satisfies this equation."
+    } ]
+  }, {
+    "tStartMs": 540720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "But how does this help\nfind the factors of N?"
+    } ]
+  }, {
+    "tStartMs": 543960,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Well, we rearrange the equation"
+    } ]
+  }, {
+    "tStartMs": 545910,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "to bring one over to the left hand side,"
+    } ]
+  }, {
+    "tStartMs": 548280,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "and then we can split it\ninto two terms like so."
+    } ]
+  }, {
+    "tStartMs": 551670,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "And now as long as r is\neven, we have one integer"
+    } ]
+  }, {
+    "tStartMs": 555716,
+    "dDurationMs": 4924,
+    "segs": [ {
+      "utf8": "times another integer is\nequal to a multiple of N."
+    } ]
+  }, {
+    "tStartMs": 560640,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "This looks remarkably similar\nto p times q equals N."
+    } ]
+  }, {
+    "tStartMs": 565320,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I mean since we know that p and q"
+    } ]
+  }, {
+    "tStartMs": 567120,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "are on the right hand\nside of this equation,"
+    } ]
+  }, {
+    "tStartMs": 568980,
+    "dDurationMs": 2421,
+    "segs": [ {
+      "utf8": "they must also be on the left hand side"
+    } ]
+  }, {
+    "tStartMs": 571401,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "just multiplied by some\nadditional factors."
+    } ]
+  }, {
+    "tStartMs": 575040,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "So one way to think"
+    } ]
+  }, {
+    "tStartMs": 576360,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "about what we've done is"
+    } ]
+  }, {
+    "tStartMs": 577710,
+    "dDurationMs": 3112,
+    "segs": [ {
+      "utf8": "we've taken a bad guess\nfor one of the factors G,"
+    } ]
+  }, {
+    "tStartMs": 580822,
+    "dDurationMs": 2858,
+    "segs": [ {
+      "utf8": "and by finding the exponent r,"
+    } ]
+  }, {
+    "tStartMs": 583680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "we've turned it into\ntwo much better guesses"
+    } ]
+  }, {
+    "tStartMs": 586800,
+    "dDurationMs": 3447,
+    "segs": [ {
+      "utf8": "that probably do share factors with N."
+    } ]
+  }, {
+    "tStartMs": 590247,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "Since r was 10, the two terms"
+    } ]
+  }, {
+    "tStartMs": 592860,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "on the left hand side are eight"
+    } ]
+  }, {
+    "tStartMs": 594630,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "to the power of five plus one, 32,769"
+    } ]
+  }, {
+    "tStartMs": 598600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and eight to the power of\nfive minus one, 32,767."
+    } ]
+  }, {
+    "tStartMs": 604200,
+    "dDurationMs": 3222,
+    "segs": [ {
+      "utf8": "These two numbers probably\nshare factors with N."
+    } ]
+  }, {
+    "tStartMs": 607422,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "So how do we find them?"
+    } ]
+  }, {
+    "tStartMs": 609131,
+    "dDurationMs": 2722,
+    "segs": [ {
+      "utf8": "We use Euclid's algorithm."
+    } ]
+  }, {
+    "tStartMs": 613470,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "If you wanna find the\ngreatest common divisor"
+    } ]
+  }, {
+    "tStartMs": 615480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "of two numbers, say 32,769 and 77,"
+    } ]
+  }, {
+    "tStartMs": 620520,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "divide the bigger number\nby the smaller one"
+    } ]
+  }, {
+    "tStartMs": 622410,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "and record the remainder."
+    } ]
+  }, {
+    "tStartMs": 624180,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In this case, 32,769 divided\nby 77 gives a remainder of 44."
+    } ]
+  }, {
+    "tStartMs": 630733,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "Then shift the numbers one\nposition left and repeat."
+    } ]
+  }, {
+    "tStartMs": 634650,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So now we divide 77 by 44\nand we get a remainder of 33."
+    } ]
+  }, {
+    "tStartMs": 640410,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Repeat the process again."
+    } ]
+  }, {
+    "tStartMs": 641760,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "44 divided by 33 gives a remainder of 11"
+    } ]
+  }, {
+    "tStartMs": 645120,
+    "dDurationMs": 4091,
+    "segs": [ {
+      "utf8": "and again 33 divided by 11\nequals three remainder zero."
+    } ]
+  }, {
+    "tStartMs": 649211,
+    "dDurationMs": 1977,
+    "segs": [ {
+      "utf8": "When the remainder is zero,"
+    } ]
+  }, {
+    "tStartMs": 651188,
+    "dDurationMs": 2842,
+    "segs": [ {
+      "utf8": "the divisor is the greatest common factor"
+    } ]
+  }, {
+    "tStartMs": 654030,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "between the two numbers you started with."
+    } ]
+  }, {
+    "tStartMs": 656180,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "In this case, it's 11,"
+    } ]
+  }, {
+    "tStartMs": 658020,
+    "dDurationMs": 3887,
+    "segs": [ {
+      "utf8": "which is indeed a factor of 77 and 32,769."
+    } ]
+  }, {
+    "tStartMs": 663459,
+    "dDurationMs": 1581,
+    "segs": [ {
+      "utf8": "You could do the same procedure"
+    } ]
+  }, {
+    "tStartMs": 665040,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "with the other number or just\ndivide 77 by 11 to get seven,"
+    } ]
+  }, {
+    "tStartMs": 669210,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "its other prime factor."
+    } ]
+  }, {
+    "tStartMs": 671490,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So to recap, if you wanna\nfind the prime factors p and q"
+    } ]
+  }, {
+    "tStartMs": 675450,
+    "dDurationMs": 3561,
+    "segs": [ {
+      "utf8": "of a number N, first, make a bad guess, g,"
+    } ]
+  }, {
+    "tStartMs": 679011,
+    "dDurationMs": 4059,
+    "segs": [ {
+      "utf8": "second, find out how many\ntimes r you have to multiply g"
+    } ]
+  }, {
+    "tStartMs": 683070,
+    "dDurationMs": 3138,
+    "segs": [ {
+      "utf8": "by itself to reach one\nmore than a multiple of N."
+    } ]
+  }, {
+    "tStartMs": 686208,
+    "dDurationMs": 2742,
+    "segs": [ {
+      "utf8": "Third, use that exponent to calculate"
+    } ]
+  }, {
+    "tStartMs": 688950,
+    "dDurationMs": 3268,
+    "segs": [ {
+      "utf8": "two new numbers that probably\ndo share factors with N."
+    } ]
+  }, {
+    "tStartMs": 692218,
+    "dDurationMs": 2522,
+    "segs": [ {
+      "utf8": "And finally use Euclid's algorithm"
+    } ]
+  }, {
+    "tStartMs": 694740,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "to find the shared factors\nbetween those numbers and N,"
+    } ]
+  }, {
+    "tStartMs": 698070,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "which should give you p and q."
+    } ]
+  }, {
+    "tStartMs": 701400,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Now, you don't need a quantum computer"
+    } ]
+  }, {
+    "tStartMs": 702990,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "to run any of these steps,\nbut on a classical computer,"
+    } ]
+  }, {
+    "tStartMs": 706440,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "this method wouldn't be any\nfaster than other methods."
+    } ]
+  }, {
+    "tStartMs": 709650,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "The key process that a\nquantum computer speeds up"
+    } ]
+  }, {
+    "tStartMs": 711930,
+    "dDurationMs": 4001,
+    "segs": [ {
+      "utf8": "is step two, finding the\nexponent you raise G2"
+    } ]
+  }, {
+    "tStartMs": 715931,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "to equal one more than a multiple of N."
+    } ]
+  }, {
+    "tStartMs": 718800,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "To see why, let's go back to our example,"
+    } ]
+  }, {
+    "tStartMs": 721620,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "where eight to the power of 10 is"
+    } ]
+  }, {
+    "tStartMs": 723780,
+    "dDurationMs": 2188,
+    "segs": [ {
+      "utf8": "one more than a multiple of 77."
+    } ]
+  }, {
+    "tStartMs": 725968,
+    "dDurationMs": 2132,
+    "segs": [ {
+      "utf8": "Watch what happens to the remainders"
+    } ]
+  }, {
+    "tStartMs": 728100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "if we keep going past\neight to the power of 10,"
+    } ]
+  }, {
+    "tStartMs": 730800,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "to 8 to the 11, eight\nto the 12, and so on."
+    } ]
+  }, {
+    "tStartMs": 734430,
+    "dDurationMs": 4813,
+    "segs": [ {
+      "utf8": "Well, we get remainders\nof 8, 64, 50, 15, 43, 36,"
+    } ]
+  }, {
+    "tStartMs": 741356,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "57, 71, 29, and again one."
+    } ]
+  }, {
+    "tStartMs": 747390,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The remainders cycle and\nthey will just keep cycling."
+    } ]
+  }, {
+    "tStartMs": 752499,
+    "dDurationMs": 2541,
+    "segs": [ {
+      "utf8": "Notice how the exponent\nthat yields a remainder"
+    } ]
+  }, {
+    "tStartMs": 755040,
+    "dDurationMs": 3347,
+    "segs": [ {
+      "utf8": "of one is 20, which is 10\nmore than the first exponent"
+    } ]
+  }, {
+    "tStartMs": 758387,
+    "dDurationMs": 2413,
+    "segs": [ {
+      "utf8": "that yielded a remainder of one."
+    } ]
+  }, {
+    "tStartMs": 760800,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "So we know that eight to the 30"
+    } ]
+  }, {
+    "tStartMs": 762420,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and eight to the 40, 8\nraised to any power divisible"
+    } ]
+  }, {
+    "tStartMs": 765300,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "by 10 will also be one\nmore than a multiple of 77."
+    } ]
+  }, {
+    "tStartMs": 769860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It's also worth noting that\nif you pick any remainder"
+    } ]
+  }, {
+    "tStartMs": 773220,
+    "dDurationMs": 3528,
+    "segs": [ {
+      "utf8": "say 15, the next time you\nfind that same remainder,"
+    } ]
+  }, {
+    "tStartMs": 776748,
+    "dDurationMs": 3552,
+    "segs": [ {
+      "utf8": "the exponent will have increased by 10."
+    } ]
+  }, {
+    "tStartMs": 780300,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So you can find the\nexponent R that gets us"
+    } ]
+  }, {
+    "tStartMs": 782970,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "to one more than a multiple of n,"
+    } ]
+  }, {
+    "tStartMs": 784860,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "by looking at the spacing of\nany remainder, not just one."
+    } ]
+  }, {
+    "tStartMs": 789720,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Remember that."
+    } ]
+  }, {
+    "tStartMs": 791370,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Here I'm plotting out the\nremainders on a log scale"
+    } ]
+  }, {
+    "tStartMs": 794190,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "so you can see they are\nperiodic with a period of 10."
+    } ]
+  }, {
+    "tStartMs": 797760,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "If I had made a different guess,"
+    } ]
+  }, {
+    "tStartMs": 799260,
+    "dDurationMs": 2816,
+    "segs": [ {
+      "utf8": "say I had picked G equals\n15 instead of eight,"
+    } ]
+  }, {
+    "tStartMs": 802076,
+    "dDurationMs": 1725,
+    "segs": [ {
+      "utf8": "well then the period would be different"
+    } ]
+  }, {
+    "tStartMs": 803801,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "and the remainders would be different"
+    } ]
+  }, {
+    "tStartMs": 806160,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "but there would always\nbe a remainder of one."
+    } ]
+  }, {
+    "tStartMs": 810420,
+    "dDurationMs": 1477,
+    "segs": [ {
+      "utf8": "Why is this?"
+    } ]
+  }, {
+    "tStartMs": 811897,
+    "dDurationMs": 3139,
+    "segs": [ {
+      "utf8": "Well, now that you can see\nthis is a repeating pattern,"
+    } ]
+  }, {
+    "tStartMs": 815036,
+    "dDurationMs": 1907,
+    "segs": [ {
+      "utf8": "we can go back to the beginning"
+    } ]
+  }, {
+    "tStartMs": 816943,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and any number raised to\nthe power of zero is one."
+    } ]
+  }, {
+    "tStartMs": 822060,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So that is actually the first remainder."
+    } ]
+  }, {
+    "tStartMs": 824940,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "So it must also appear when\nthe cycle starts again."
+    } ]
+  }, {
+    "tStartMs": 829110,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now we are ready to use a quantum computer"
+    } ]
+  }, {
+    "tStartMs": 831300,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "to factor any large product of two primes."
+    } ]
+  }, {
+    "tStartMs": 834420,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "First we split up the\nqubits into two sets."
+    } ]
+  }, {
+    "tStartMs": 837870,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "The first set we prepare\nin a superposition of zero"
+    } ]
+  }, {
+    "tStartMs": 840840,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and one and two and three"
+    } ]
+  }, {
+    "tStartMs": 843090,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and four and five and six\nand seven and eight and nine,"
+    } ]
+  }, {
+    "tStartMs": 845340,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "all the way up to 10\nto the power of 1,234."
+    } ]
+  }, {
+    "tStartMs": 850530,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Yeah, this is a huge superposition,"
+    } ]
+  }, {
+    "tStartMs": 854070,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "but if we had perfect qubits,"
+    } ]
+  }, {
+    "tStartMs": 856050,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "it would require only around 4,100."
+    } ]
+  }, {
+    "tStartMs": 859980,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "The other set contains a\nsimilar number of qubits"
+    } ]
+  }, {
+    "tStartMs": 862920,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "all left in the zero state for now."
+    } ]
+  }, {
+    "tStartMs": 865950,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Now we make our guess G,"
+    } ]
+  }, {
+    "tStartMs": 868050,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "which most likely doesn't\nshare factors with N."
+    } ]
+  }, {
+    "tStartMs": 871260,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "We raise G to the power\nof the first set of qubits"
+    } ]
+  }, {
+    "tStartMs": 875100,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and then we divide by N"
+    } ]
+  }, {
+    "tStartMs": 876990,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and store the remainder in\nthe second set of qubits"
+    } ]
+  }, {
+    "tStartMs": 880530,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "leaving the first set of qubits as it was."
+    } ]
+  }, {
+    "tStartMs": 883770,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Now we have a superposition\nof all the numbers"
+    } ]
+  }, {
+    "tStartMs": 886470,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "we started with and the\nremainder of raising G"
+    } ]
+  }, {
+    "tStartMs": 889890,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "to the power of those\nnumbers divided by N."
+    } ]
+  }, {
+    "tStartMs": 892920,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "And through this operation,"
+    } ]
+  }, {
+    "tStartMs": 894600,
+    "dDurationMs": 3674,
+    "segs": [ {
+      "utf8": "we have entangled our two sets of qubits,"
+    } ]
+  }, {
+    "tStartMs": 898274,
+    "dDurationMs": 2773,
+    "segs": [ {
+      "utf8": "but we can't just measure\nthis superposition."
+    } ]
+  }, {
+    "tStartMs": 901047,
+    "dDurationMs": 3783,
+    "segs": [ {
+      "utf8": "If we did, we would get a\nrandom value and learn nothing."
+    } ]
+  }, {
+    "tStartMs": 904830,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "But there is a trick we can use."
+    } ]
+  }, {
+    "tStartMs": 906840,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "If we don't measure the\nentire superposition,"
+    } ]
+  }, {
+    "tStartMs": 909420,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "but only the remainder part,"
+    } ]
+  }, {
+    "tStartMs": 911430,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "we will obtain some random remainder."
+    } ]
+  }, {
+    "tStartMs": 914490,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "But this remainder won't occur just once."
+    } ]
+  }, {
+    "tStartMs": 917580,
+    "dDurationMs": 1786,
+    "segs": [ {
+      "utf8": "It will occur multiple times"
+    } ]
+  }, {
+    "tStartMs": 919366,
+    "dDurationMs": 3194,
+    "segs": [ {
+      "utf8": "every time it comes up in the cycle."
+    } ]
+  }, {
+    "tStartMs": 922560,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Imagine we were doing\nthis with the example"
+    } ]
+  }, {
+    "tStartMs": 924540,
+    "dDurationMs": 3408,
+    "segs": [ {
+      "utf8": "from before with N equals\n77 and G equals eight."
+    } ]
+  }, {
+    "tStartMs": 927948,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "If the remainder we measured was say 15,"
+    } ]
+  }, {
+    "tStartMs": 931279,
+    "dDurationMs": 3551,
+    "segs": [ {
+      "utf8": "then there would be multiple\nterms in our superposition."
+    } ]
+  }, {
+    "tStartMs": 934830,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Because there are multiple exponents"
+    } ]
+  }, {
+    "tStartMs": 936660,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "you can raise G2 that\ngive this same remainder,"
+    } ]
+  }, {
+    "tStartMs": 939750,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "exponents 4, 14, 24, 34, and so on."
+    } ]
+  }, {
+    "tStartMs": 944580,
+    "dDurationMs": 2391,
+    "segs": [ {
+      "utf8": "They are each separated by 10,"
+    } ]
+  }, {
+    "tStartMs": 946971,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and that value is the exponent\nthat satisfies our equation."
+    } ]
+  }, {
+    "tStartMs": 952260,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So more generally after\nmeasuring the remainder,"
+    } ]
+  }, {
+    "tStartMs": 955380,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "we will be left with a\nsuperposition of states"
+    } ]
+  }, {
+    "tStartMs": 957390,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "that all share the same remainder"
+    } ]
+  }, {
+    "tStartMs": 959310,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and the exponents will all be separated"
+    } ]
+  }, {
+    "tStartMs": 961230,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "by the same amount r."
+    } ]
+  }, {
+    "tStartMs": 963450,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "This is the number we are looking for."
+    } ]
+  }, {
+    "tStartMs": 966720,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Since the remainder is now\nthe same for all states,"
+    } ]
+  }, {
+    "tStartMs": 969660,
+    "dDurationMs": 1393,
+    "segs": [ {
+      "utf8": "we can put it to the side"
+    } ]
+  }, {
+    "tStartMs": 971053,
+    "dDurationMs": 3557,
+    "segs": [ {
+      "utf8": "and we now have a\nsuperposition that is periodic."
+    } ]
+  }, {
+    "tStartMs": 974610,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Each term is separated from\nits neighbors by an amount R."
+    } ]
+  }, {
+    "tStartMs": 978480,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "If we now apply the\nquantum Fourier transform"
+    } ]
+  }, {
+    "tStartMs": 980730,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to this superposition of states"
+    } ]
+  }, {
+    "tStartMs": 982470,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and I'm simplifying a little here,"
+    } ]
+  }, {
+    "tStartMs": 984480,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "we will be left with states\ncontaining one over R."
+    } ]
+  }, {
+    "tStartMs": 988230,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "So all that's left to do now"
+    } ]
+  }, {
+    "tStartMs": 989430,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "is perform a measurement\nand find R by inverting it,"
+    } ]
+  }, {
+    "tStartMs": 993450,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and that's it for the quantum part."
+    } ]
+  }, {
+    "tStartMs": 996420,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now, as long as r turns out to be even"
+    } ]
+  }, {
+    "tStartMs": 998610,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "we can use r to turn our bad guess g"
+    } ]
+  }, {
+    "tStartMs": 1000920,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "into two numbers that\nlikely share factors with N."
+    } ]
+  }, {
+    "tStartMs": 1004190,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "And as long as these terms themselves"
+    } ]
+  }, {
+    "tStartMs": 1005990,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "are not a multiple of N,"
+    } ]
+  }, {
+    "tStartMs": 1007190,
+    "dDurationMs": 2574,
+    "segs": [ {
+      "utf8": "we can use Euclid's algorithm\nto find the factors of N"
+    } ]
+  }, {
+    "tStartMs": 1009764,
+    "dDurationMs": 1955,
+    "segs": [ {
+      "utf8": "and break the encryption."
+    } ]
+  }, {
+    "tStartMs": 1011719,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "This would only take several\nthousand perfect qubits,"
+    } ]
+  }, {
+    "tStartMs": 1015650,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "but the qubits we have\ntoday are imperfect,"
+    } ]
+  }, {
+    "tStartMs": 1018140,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "so we need additional qubits"
+    } ]
+  }, {
+    "tStartMs": 1019670,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "to act as redundant information."
+    } ]
+  }, {
+    "tStartMs": 1022100,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "In 2012, it was estimated"
+    } ]
+  }, {
+    "tStartMs": 1024080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "that it would take a\nbillion physical qubits"
+    } ]
+  }, {
+    "tStartMs": 1026480,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "to break RSA encryption,"
+    } ]
+  }, {
+    "tStartMs": 1028165,
+    "dDurationMs": 2185,
+    "segs": [ {
+      "utf8": "but by five years later that number"
+    } ]
+  }, {
+    "tStartMs": 1030350,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "had dropped to 230 million."
+    } ]
+  }, {
+    "tStartMs": 1032630,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "And in 2019, after more\ntechnological breakthroughs,"
+    } ]
+  }, {
+    "tStartMs": 1035490,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "that estimate plummeted to just\n20 million physical qubits."
+    } ]
+  }, {
+    "tStartMs": 1040430,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "So how many qubits do we have today?"
+    } ]
+  }, {
+    "tStartMs": 1043220,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "Well, if we look at the state\nof IBM's quantum computers,"
+    } ]
+  }, {
+    "tStartMs": 1046277,
+    "dDurationMs": 3573,
+    "segs": [ {
+      "utf8": "we are nowhere near that number of qubits,"
+    } ]
+  }, {
+    "tStartMs": 1049850,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "but progress looks to be exponential."
+    } ]
+  }, {
+    "tStartMs": 1052640,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "So now it's just a question"
+    } ]
+  }, {
+    "tStartMs": 1054200,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "of when these two curves will collide"
+    } ]
+  }, {
+    "tStartMs": 1056090,
+    "dDurationMs": 4773,
+    "segs": [ {
+      "utf8": "before all our existing public\nkey encryption can be broken."
+    } ]
+  }, {
+    "tStartMs": 1062570,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Because we've long known\nthis threat is coming,"
+    } ]
+  }, {
+    "tStartMs": 1065030,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "scientists have been looking\nfor new ways to encrypt data,"
+    } ]
+  }, {
+    "tStartMs": 1067790,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "which can withstand attacks"
+    } ]
+  }, {
+    "tStartMs": 1069020,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "from both normal and quantum computers."
+    } ]
+  }, {
+    "tStartMs": 1071840,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "In 2016, the National Institute\nof Standards and Technology"
+    } ]
+  }, {
+    "tStartMs": 1074900,
+    "dDurationMs": 1514,
+    "segs": [ {
+      "utf8": "or NIST, launched a competition"
+    } ]
+  }, {
+    "tStartMs": 1076414,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "to find new encryption algorithms"
+    } ]
+  }, {
+    "tStartMs": 1078650,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "that aren't vulnerable\nto quantum computers."
+    } ]
+  }, {
+    "tStartMs": 1080990,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Cryptographers from all over the world"
+    } ]
+  }, {
+    "tStartMs": 1082640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "submitted 82 different proposals,"
+    } ]
+  }, {
+    "tStartMs": 1084800,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "which were rigorously\ntested, some were broken."
+    } ]
+  }, {
+    "tStartMs": 1087770,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And then on July 5th, 2022,"
+    } ]
+  }, {
+    "tStartMs": 1089810,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "NIST selected four of\nthe algorithms to be part"
+    } ]
+  }, {
+    "tStartMs": 1092020,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "of their post-quantum\ncryptographic standard."
+    } ]
+  }, {
+    "tStartMs": 1095360,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So how do they work?"
+    } ]
+  }, {
+    "tStartMs": 1097370,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Well, three of the algorithms are based"
+    } ]
+  }, {
+    "tStartMs": 1099110,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "on the mathematics of latices."
+    } ]
+  }, {
+    "tStartMs": 1101000,
+    "dDurationMs": 3842,
+    "segs": [ {
+      "utf8": "So let's do a simple\nexample in the 2D plane."
+    } ]
+  }, {
+    "tStartMs": 1104842,
+    "dDurationMs": 4468,
+    "segs": [ {
+      "utf8": "Take two vectors, r1 and\nr2, by adding together"
+    } ]
+  }, {
+    "tStartMs": 1109310,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "different integer combinations"
+    } ]
+  }, {
+    "tStartMs": 1110780,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "of these vectors, say three\ntimes r1 and one times r2,"
+    } ]
+  }, {
+    "tStartMs": 1114710,
+    "dDurationMs": 2111,
+    "segs": [ {
+      "utf8": "you can get two different points"
+    } ]
+  }, {
+    "tStartMs": 1116821,
+    "dDurationMs": 1549,
+    "segs": [ {
+      "utf8": "and all the points you can get"
+    } ]
+  }, {
+    "tStartMs": 1118370,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "to by combining these two vectors"
+    } ]
+  }, {
+    "tStartMs": 1119780,
+    "dDurationMs": 2906,
+    "segs": [ {
+      "utf8": "in different ways is\nwhat is called a lattice."
+    } ]
+  }, {
+    "tStartMs": 1122686,
+    "dDurationMs": 3154,
+    "segs": [ {
+      "utf8": "Now I will also give you the point C,"
+    } ]
+  }, {
+    "tStartMs": 1125840,
+    "dDurationMs": 3247,
+    "segs": [ {
+      "utf8": "and your task is to tell me\nwhich combination of r1 and r2"
+    } ]
+  }, {
+    "tStartMs": 1129087,
+    "dDurationMs": 4013,
+    "segs": [ {
+      "utf8": "will bring me to the\nlattice point closest to c."
+    } ]
+  }, {
+    "tStartMs": 1133100,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "It's pretty easy to see\nthat we can get there"
+    } ]
+  }, {
+    "tStartMs": 1135080,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "by going in the direction of r2 twice"
+    } ]
+  }, {
+    "tStartMs": 1137420,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and in the negative direction of r1 twice."
+    } ]
+  }, {
+    "tStartMs": 1140210,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Simple enough."
+    } ]
+  }, {
+    "tStartMs": 1141710,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But those vectors, r1 and r2 are not"
+    } ]
+  }, {
+    "tStartMs": 1144470,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "the only vectors that can\ngive you this lattice."
+    } ]
+  }, {
+    "tStartMs": 1147290,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Take b1 and b2 for example."
+    } ]
+  }, {
+    "tStartMs": 1150380,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "These vectors also build\nup the same lattice."
+    } ]
+  }, {
+    "tStartMs": 1153470,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And now if I ask you\nthe same question again,"
+    } ]
+  }, {
+    "tStartMs": 1155690,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "can you tell me the\ncombination of b1 and b2"
+    } ]
+  }, {
+    "tStartMs": 1158510,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "that gets you to the\nlattice point closest to c?"
+    } ]
+  }, {
+    "tStartMs": 1161720,
+    "dDurationMs": 3722,
+    "segs": [ {
+      "utf8": "This has become a lot\nharder, but why is that?"
+    } ]
+  }, {
+    "tStartMs": 1165442,
+    "dDurationMs": 3178,
+    "segs": [ {
+      "utf8": "Each time we're taking a step,\nwe're trying to get closer"
+    } ]
+  }, {
+    "tStartMs": 1168620,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "in either the X or Y direction,\nbut with the b vectors,"
+    } ]
+  }, {
+    "tStartMs": 1172610,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "each time we take a step\nin the right direction"
+    } ]
+  }, {
+    "tStartMs": 1174410,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "with one vector, it puts us\noff in the other direction."
+    } ]
+  }, {
+    "tStartMs": 1178160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And that's why these vectors\nare a lot harder to work with."
+    } ]
+  }, {
+    "tStartMs": 1181520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "In the end, it takes us a combination"
+    } ]
+  }, {
+    "tStartMs": 1183620,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "of eight times b1 and\nnegative six times b2"
+    } ]
+  }, {
+    "tStartMs": 1187310,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "to get to the closest lattice point."
+    } ]
+  }, {
+    "tStartMs": 1189680,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "That is a lot harder than before,"
+    } ]
+  }, {
+    "tStartMs": 1192140,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "but it's still a relatively\neasy problem to solve."
+    } ]
+  }, {
+    "tStartMs": 1195260,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "But if we extend it to three dimensions,"
+    } ]
+  }, {
+    "tStartMs": 1197330,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "this already becomes a lot harder,"
+    } ]
+  }, {
+    "tStartMs": 1199760,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "especially because you're\nnot given the collection"
+    } ]
+  }, {
+    "tStartMs": 1202100,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "of all lattice points."
+    } ]
+  }, {
+    "tStartMs": 1203540,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You're only given the\nvectors that make it up."
+    } ]
+  }, {
+    "tStartMs": 1205700,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So when you find a lattice\npoint close to the target,"
+    } ]
+  }, {
+    "tStartMs": 1208340,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "you must still find all the\nother lattice points near it"
+    } ]
+  }, {
+    "tStartMs": 1210830,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "to make sure yours is indeed the closest."
+    } ]
+  }, {
+    "tStartMs": 1214040,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Let's take a circle of\nradius r in two dimensions."
+    } ]
+  }, {
+    "tStartMs": 1216980,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "The number of lattice\npoints inside the circle"
+    } ]
+  }, {
+    "tStartMs": 1219080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is proportional to r squared."
+    } ]
+  }, {
+    "tStartMs": 1221480,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Add a third dimension\nand the number of points"
+    } ]
+  }, {
+    "tStartMs": 1223460,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "in the sphere is proportional to r cubed."
+    } ]
+  }, {
+    "tStartMs": 1226490,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So just watch how the number\nof lattice points grows"
+    } ]
+  }, {
+    "tStartMs": 1229700,
+    "dDurationMs": 2883,
+    "segs": [ {
+      "utf8": "as we increase the number of dimensions."
+    } ]
+  }, {
+    "tStartMs": 1234050,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Solving the closest vector problem"
+    } ]
+  }, {
+    "tStartMs": 1235850,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "is a piece of cake for your\ncomputer in three dimensions."
+    } ]
+  }, {
+    "tStartMs": 1238670,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Even a hundred dimensions\nshould be manageable."
+    } ]
+  }, {
+    "tStartMs": 1241390,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "But in proposed future encryption schemes,"
+    } ]
+  }, {
+    "tStartMs": 1244280,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "we'll use around a thousand dimensions."
+    } ]
+  }, {
+    "tStartMs": 1247370,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Take one step in the right direction"
+    } ]
+  }, {
+    "tStartMs": 1248900,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "on one of those dimensions,\nand you could potentially"
+    } ]
+  }, {
+    "tStartMs": 1251990,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "be taking a wrong step in\nthe other 999 dimensions."
+    } ]
+  }, {
+    "tStartMs": 1256640,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "You win some, you lose everything else."
+    } ]
+  }, {
+    "tStartMs": 1260390,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "With that many dimensions,"
+    } ]
+  }, {
+    "tStartMs": 1261440,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "it becomes extremely hard\nto find the closest point"
+    } ]
+  }, {
+    "tStartMs": 1264290,
+    "dDurationMs": 2078,
+    "segs": [ {
+      "utf8": "even for the most powerful computers,"
+    } ]
+  }, {
+    "tStartMs": 1266368,
+    "dDurationMs": 3913,
+    "segs": [ {
+      "utf8": "that is unless you know\na good set of vectors."
+    } ]
+  }, {
+    "tStartMs": 1270281,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "So how do we use that to encrypt data?"
+    } ]
+  }, {
+    "tStartMs": 1273440,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Well, let's go back to our\ntwo-dimensional example."
+    } ]
+  }, {
+    "tStartMs": 1276410,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Each person has a good set of vectors"
+    } ]
+  }, {
+    "tStartMs": 1278300,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "that describes a lattice,"
+    } ]
+  }, {
+    "tStartMs": 1279920,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "but they keep these vectors secret,"
+    } ]
+  }, {
+    "tStartMs": 1282110,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and they only share their lattice publicly"
+    } ]
+  }, {
+    "tStartMs": 1284360,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "using a set of vectors\nthat is hard to work with."
+    } ]
+  }, {
+    "tStartMs": 1287690,
+    "dDurationMs": 1823,
+    "segs": [ {
+      "utf8": "Now, if I want to send someone a message,"
+    } ]
+  }, {
+    "tStartMs": 1289513,
+    "dDurationMs": 2974,
+    "segs": [ {
+      "utf8": "I pick a point on their\nlattice, for example,"
+    } ]
+  }, {
+    "tStartMs": 1292487,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "say this point corresponds\nto the number seven."
+    } ]
+  }, {
+    "tStartMs": 1295550,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "So if I wanna send the number\nseven, I can take that point"
+    } ]
+  }, {
+    "tStartMs": 1299210,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "but then add some random noise to it."
+    } ]
+  }, {
+    "tStartMs": 1302060,
+    "dDurationMs": 2082,
+    "segs": [ {
+      "utf8": "So the message I send is not precisely"
+    } ]
+  }, {
+    "tStartMs": 1304142,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "at that point but close to it."
+    } ]
+  }, {
+    "tStartMs": 1307178,
+    "dDurationMs": 3162,
+    "segs": [ {
+      "utf8": "Now, to decode the message,\nmy recipient must figure out"
+    } ]
+  }, {
+    "tStartMs": 1310340,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "which lattice point is\nclosest to the message point."
+    } ]
+  }, {
+    "tStartMs": 1313020,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "In a thousand dimensions,"
+    } ]
+  }, {
+    "tStartMs": 1315050,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "this will be extremely hard to do"
+    } ]
+  }, {
+    "tStartMs": 1317252,
+    "dDurationMs": 3288,
+    "segs": [ {
+      "utf8": "unless you have the nice set of vectors,"
+    } ]
+  }, {
+    "tStartMs": 1320540,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "which my recipient does."
+    } ]
+  }, {
+    "tStartMs": 1322250,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "So it's easy for the recipient,"
+    } ]
+  }, {
+    "tStartMs": 1324440,
+    "dDurationMs": 3232,
+    "segs": [ {
+      "utf8": "who has the good vectors,\nbut hard for everyone else."
+    } ]
+  }, {
+    "tStartMs": 1327672,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "And as far as we know,\nthis problem is extremely"
+    } ]
+  }, {
+    "tStartMs": 1331130,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "difficult to solve for both\nnormal and quantum computers."
+    } ]
+  }, {
+    "tStartMs": 1335630,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Behind the scenes, there's\nan army of researchers,"
+    } ]
+  }, {
+    "tStartMs": 1338390,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "mathematicians, and cryptographers,"
+    } ]
+  }, {
+    "tStartMs": 1340220,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "we're gonna make sure your\nsecret data stays secret."
+    } ]
+  }, {
+    "tStartMs": 1343550,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "These are some of the unsung heroes"
+    } ]
+  }, {
+    "tStartMs": 1345320,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "that will keep us safe moving forward,"
+    } ]
+  }, {
+    "tStartMs": 1347270,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "avoiding mass surveillance by governments"
+    } ]
+  }, {
+    "tStartMs": 1349370,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "keeping critical infrastructure protected"
+    } ]
+  }, {
+    "tStartMs": 1351530,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and allowing you to live\nas if quantum computers"
+    } ]
+  }, {
+    "tStartMs": 1354590,
+    "dDurationMs": 3074,
+    "segs": [ {
+      "utf8": "were never invented in the first place."
+    } ]
+  }, {
+    "tStartMs": 1357664,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "(digital buzzing)"
+    } ]
+  }, {
+    "tStartMs": 1363260,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Something that fascinates me is being able"
+    } ]
+  }, {
+    "tStartMs": 1365510,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to see where the world is headed."
+    } ]
+  }, {
+    "tStartMs": 1367580,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And right now it's clear\nthat quantum computers"
+    } ]
+  }, {
+    "tStartMs": 1369830,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and AI chatbots are going to\nplay bigger and bigger roles"
+    } ]
+  }, {
+    "tStartMs": 1373010,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "in our lives in the coming decades."
+    } ]
+  }, {
+    "tStartMs": 1374709,
+    "dDurationMs": 3581,
+    "segs": [ {
+      "utf8": "Even if we don't know exactly\nhow they'll be implemented,"
+    } ]
+  }, {
+    "tStartMs": 1378290,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "I think it's important to\nlearn how they work right now"
+    } ]
+  }, {
+    "tStartMs": 1381440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and you can do that with this\nvideo's sponsor, Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1384680,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Brilliant has an incredible course"
+    } ]
+  }, {
+    "tStartMs": 1386510,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "on quantum algorithms."
+    } ]
+  }, {
+    "tStartMs": 1388190,
+    "dDurationMs": 3138,
+    "segs": [ {
+      "utf8": "This one was co-developed\nwith Microsoft and Alphabet X."
+    } ]
+  }, {
+    "tStartMs": 1391328,
+    "dDurationMs": 2922,
+    "segs": [ {
+      "utf8": "I love that you can simulate\nquantum gates and write"
+    } ]
+  }, {
+    "tStartMs": 1394250,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and execute real quantum\nalgorithms right in the lesson."
+    } ]
+  }, {
+    "tStartMs": 1397430,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "No need to set up your own\ndevelopment environment."
+    } ]
+  }, {
+    "tStartMs": 1400100,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "And if you want to dive\ndeeper into cryptography,"
+    } ]
+  }, {
+    "tStartMs": 1402590,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "making and breaking codes is\nreally a matter of statistics."
+    } ]
+  }, {
+    "tStartMs": 1406430,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Strong statistical reasoning skills"
+    } ]
+  }, {
+    "tStartMs": 1408170,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "help us find patterns in data"
+    } ]
+  }, {
+    "tStartMs": 1409700,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and make sense of them,"
+    } ]
+  }, {
+    "tStartMs": 1410900,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "which is crucial to mastering"
+    } ]
+  }, {
+    "tStartMs": 1412310,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "just about any topic in math"
+    } ]
+  }, {
+    "tStartMs": 1414050,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "and computer Science."
+    } ]
+  }, {
+    "tStartMs": 1415430,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Brilliant's course on data analysis"
+    } ]
+  }, {
+    "tStartMs": 1417170,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "will help you ramp up fast."
+    } ]
+  }, {
+    "tStartMs": 1419150,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "It uses everyday situations,"
+    } ]
+  }, {
+    "tStartMs": 1420800,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "like business models to\nillustrate key concepts"
+    } ]
+  }, {
+    "tStartMs": 1423410,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "in statistics and it's interactive,"
+    } ]
+  }, {
+    "tStartMs": 1425779,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "so you can get hands on\nwith data visualizations"
+    } ]
+  }, {
+    "tStartMs": 1428990,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "and develop a real intuition\nfor interpreting them."
+    } ]
+  }, {
+    "tStartMs": 1432200,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You know the thing that\nsets Brilliant apart"
+    } ]
+  }, {
+    "tStartMs": 1434120,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "is they know how to\nbreak fundamentals down"
+    } ]
+  }, {
+    "tStartMs": 1436010,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "into their core building blocks,"
+    } ]
+  }, {
+    "tStartMs": 1437840,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "whether you're learning\nmath, computer science"
+    } ]
+  }, {
+    "tStartMs": 1439700,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "or data analysis, Brilliant's"
+    } ]
+  }, {
+    "tStartMs": 1441530,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "thousands of bite-sized\ninteractive lessons"
+    } ]
+  }, {
+    "tStartMs": 1443960,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "help you master key concepts"
+    } ]
+  }, {
+    "tStartMs": 1445550,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and build to more advanced topics."
+    } ]
+  }, {
+    "tStartMs": 1447950,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "You can try everything\nBrilliant has to offer"
+    } ]
+  }, {
+    "tStartMs": 1449900,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "for free for a full 30 days."
+    } ]
+  }, {
+    "tStartMs": 1451610,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Just go to brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1454610,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1456920,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And for viewers of this\nvideo, Brilliant is offering"
+    } ]
+  }, {
+    "tStartMs": 1459290,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "20% off their annual premium subscription"
+    } ]
+  }, {
+    "tStartMs": 1461480,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "to the first 200 people to sign up."
+    } ]
+  }, {
+    "tStartMs": 1463310,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor sponsoring this video,"
+    } ]
+  }, {
+    "tStartMs": 1466010,
+    "dDurationMs": 1863,
+    "segs": [ {
+      "utf8": "and I want to thank you for watching."
+    } ]
+  } ]
+}

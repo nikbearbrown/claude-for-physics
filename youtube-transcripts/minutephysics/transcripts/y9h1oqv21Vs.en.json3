@@ -1,0 +1,289 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1199,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "If you went to elementary school in the United\nStates (or much of the rest of the world)"
+    } ]
+  }, {
+    "tStartMs": 4899,
+    "dDurationMs": 4061,
+    "segs": [ {
+      "utf8": "you almost certainly learned about something\nboringly called the \"order of operations\""
+    } ]
+  }, {
+    "tStartMs": 8960,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "- a set of rules for whether or not you should\ndo multiplication before addition or addition"
+    } ]
+  }, {
+    "tStartMs": 12599,
+    "dDurationMs": 2691,
+    "segs": [ {
+      "utf8": "before subtraction to get the right answer\non your math test."
+    } ]
+  }, {
+    "tStartMs": 15290,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Except, you don't always get the right answer,\nor even, one answer - I mean, is 8-2+1 equal"
+    } ]
+  }, {
+    "tStartMs": 22670,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "to 5 or 7? and is 6/3/3 equal to two thirds\nor six? - the problem is, focusing on the"
+    } ]
+  }, {
+    "tStartMs": 31630,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "order of operations can lead to ambiguity\nand obscures the real, underlying, and often"
+    } ]
+  }, {
+    "tStartMs": 36230,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "beautiful mathematics."
+    } ]
+  }, {
+    "tStartMs": 37730,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "A mathematician will tell you that 8-2+1 is\nreally 8+(-2)+1, which is unambiguously equal"
+    } ]
+  }, {
+    "tStartMs": 45360,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "to 7, even though the so-called \"order of\noperations\" standard in the US tells you the"
+    } ]
+  }, {
+    "tStartMs": 50060,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "answer is 5. If you want five for your answer,\nthen you really need some parentheses!"
+    } ]
+  }, {
+    "tStartMs": 55440,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "But why is this ambiguity even possible? Because\nfundamentally, all of these operations are"
+    } ]
+  }, {
+    "tStartMs": 60710,
+    "dDurationMs": 3729,
+    "segs": [ {
+      "utf8": "simply different procedures that start with\ntwo numbers and combine them in some way to"
+    } ]
+  }, {
+    "tStartMs": 64439,
+    "dDurationMs": 5691,
+    "segs": [ {
+      "utf8": "give you a single number. Each operation takes\ntwo numbers as input - two, and no more. If"
+    } ]
+  }, {
+    "tStartMs": 70130,
+    "dDurationMs": 5279,
+    "segs": [ {
+      "utf8": "you want to be entirely unambiguous (and pedantic),\nevery single pair of numbers in an algebraic"
+    } ]
+  }, {
+    "tStartMs": 75409,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "expression should be inside parentheses, and\nthen there's no need to know ANY order of"
+    } ]
+  }, {
+    "tStartMs": 79609,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "operations - just evaluate the innermost parentheses\nfirst, and work outwards, collapsing them"
+    } ]
+  }, {
+    "tStartMs": 84579,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "down pairwise like a championships bracket."
+    } ]
+  }, {
+    "tStartMs": 87119,
+    "dDurationMs": 4471,
+    "segs": [ {
+      "utf8": "But it turns out that's not the only way - it's\npossible to CHANGE the order in which you"
+    } ]
+  }, {
+    "tStartMs": 91590,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "do the operations, to rearrange the parentheses,\nas long as you know what the underlying mathematics"
+    } ]
+  }, {
+    "tStartMs": 96270,
+    "dDurationMs": 389,
+    "segs": [ {
+      "utf8": "IS."
+    } ]
+  }, {
+    "tStartMs": 96659,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "For example, if you want to add (3+4) and\nthen multiply the result by 5, you can either"
+    } ]
+  }, {
+    "tStartMs": 101979,
+    "dDurationMs": 5331,
+    "segs": [ {
+      "utf8": "do the addition first and get 7 times 5 = 35,\nor you can do the multiplication first as"
+    } ]
+  }, {
+    "tStartMs": 107310,
+    "dDurationMs": 4309,
+    "segs": [ {
+      "utf8": "long as you know that multiplication \"distributes\"\nacross all the terms in the parentheses..."
+    } ]
+  }, {
+    "tStartMs": 111619,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "that is, (5*3) plus (5*4) = 15 plus 20 = 35\n- the same answer! And how do we know multiplication"
+    } ]
+  }, {
+    "tStartMs": 119549,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "distributes? One way is to draw rectangles...\nbut I've done that before."
+    } ]
+  }, {
+    "tStartMs": 123929,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "The same rearranging can be done for exponentiation\nand multiplication: (3*2) all squared (or"
+    } ]
+  }, {
+    "tStartMs": 130239,
+    "dDurationMs": 6791,
+    "segs": [ {
+      "utf8": "6^2=36) is the same as 3 squared times 2 squared\n- 36; It even works for addition and subtraction:"
+    } ]
+  }, {
+    "tStartMs": 137030,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "5 minus (1+2) is (5 minus 1) minus 2."
+    } ]
+  }, {
+    "tStartMs": 141349,
+    "dDurationMs": 5351,
+    "segs": [ {
+      "utf8": "So, the true order of operations is this:\nuse parentheses, and learn what exponentiation,"
+    } ]
+  }, {
+    "tStartMs": 146700,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "multiplication, addition and the rest are\nREALLY doing - then you can proceed however"
+    } ]
+  }, {
+    "tStartMs": 150540,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "you want."
+    } ]
+  }, {
+    "tStartMs": 151590,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "That's not to say that we don't have a conventional\norder of operations in mathematics... I mean,"
+    } ]
+  }, {
+    "tStartMs": 155950,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "deciding that we evaluate multiplication before\naddition allows us to get rid of lots and"
+    } ]
+  }, {
+    "tStartMs": 159900,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "lots of redundant parentheses, and noticing\nthat (1+2)+3 = 1+ (2+3) and 2*(3*4)=(2*3)*4"
+    } ]
+  }, {
+    "tStartMs": 169890,
+    "dDurationMs": 5349,
+    "segs": [ {
+      "utf8": "removes a ton more... but the point is that\nthose parentheses are still there, still implied"
+    } ]
+  }, {
+    "tStartMs": 175239,
+    "dDurationMs": 6961,
+    "segs": [ {
+      "utf8": "- just like how 3 minus 4 is secretly implying\n3+ negative 4 and 3 divided by 4 is really"
+    } ]
+  }, {
+    "tStartMs": 182200,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "3 times one fourth. But any time the result\nmight be ambiguous, you really need to use"
+    } ]
+  }, {
+    "tStartMs": 187450,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "parentheses. Then you can proceed in whatever\norder you want."
+    } ]
+  }, {
+    "tStartMs": 190569,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "The order of operations learned in school,\nhowever, is different - it's a mechanical"
+    } ]
+  }, {
+    "tStartMs": 194349,
+    "dDurationMs": 4381,
+    "segs": [ {
+      "utf8": "set of instructions that dictates just one\nof many ways you can do algebra - it locks"
+    } ]
+  }, {
+    "tStartMs": 198730,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "you into a single path through the beautiful\nmathematical landscape, which, while necessary"
+    } ]
+  }, {
+    "tStartMs": 203170,
+    "dDurationMs": 3579,
+    "segs": [ {
+      "utf8": "for a computer whose goal is merely to give\nyou the right answer, doesn't really give"
+    } ]
+  }, {
+    "tStartMs": 206749,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "any insight onto WHAT IT IS that you're doing\nwhen you do algebra."
+    } ]
+  }, {
+    "tStartMs": 210219,
+    "dDurationMs": 4681,
+    "segs": [ {
+      "utf8": "So, while, the order of operations isn't technically\nwrong, because most of the time it'll give"
+    } ]
+  }, {
+    "tStartMs": 214900,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "you the right answer, it's morally wrong,\nbecause it turns humans into robots."
+    } ]
+  } ]
+}

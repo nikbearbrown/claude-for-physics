@@ -1,0 +1,4231 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 720,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "- There is a rule in\nmathematics that is so simple,"
+    } ]
+  }, {
+    "tStartMs": 3570,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "you would think it obviously must be true,"
+    } ]
+  }, {
+    "tStartMs": 6390,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "but if you accept it,"
+    } ]
+  }, {
+    "tStartMs": 7620,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "you find there are now some line segments"
+    } ]
+  }, {
+    "tStartMs": 9900,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "that have no length."
+    } ]
+  }, {
+    "tStartMs": 11250,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "A sphere without adding anything"
+    } ]
+  }, {
+    "tStartMs": 13260,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "to it can be turned into\ntwo identical spheres."
+    } ]
+  }, {
+    "tStartMs": 17220,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "A hundred plus years"
+    } ]
+  }, {
+    "tStartMs": 18150,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "of mathematics has been\nbuilt on this axiom."
+    } ]
+  }, {
+    "tStartMs": 21210,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "It seems intuitive and it works,"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "but it also creates ridiculous paradoxes."
+    } ]
+  }, {
+    "tStartMs": 26670,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "So, is it right?"
+    } ]
+  }, {
+    "tStartMs": 29700,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Well, it all starts with\nthe issue of choice."
+    } ]
+  }, {
+    "tStartMs": 33030,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Try this, choose a number."
+    } ]
+  }, {
+    "tStartMs": 35610,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "I can just pluck a random\nnumber from my head,"
+    } ]
+  }, {
+    "tStartMs": 37830,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "like 37 or 42,"
+    } ]
+  }, {
+    "tStartMs": 40200,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "but that is the human brain at work,"
+    } ]
+  }, {
+    "tStartMs": 42570,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "not a mathematical process."
+    } ]
+  }, {
+    "tStartMs": 44760,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "In math, you can't truly\npick things at random"
+    } ]
+  }, {
+    "tStartMs": 48150,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "because formulas always\ngive the same result,"
+    } ]
+  }, {
+    "tStartMs": 51120,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "which is why computers don't have"
+    } ]
+  }, {
+    "tStartMs": 52680,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "true random number generators."
+    } ]
+  }, {
+    "tStartMs": 54660,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Instead, they usually run an algorithm"
+    } ]
+  }, {
+    "tStartMs": 56880,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "on your current local\ntime to generate numbers"
+    } ]
+  }, {
+    "tStartMs": 59310,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "that appear random."
+    } ]
+  }, {
+    "tStartMs": 62490,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So if we can't pick randomly,"
+    } ]
+  }, {
+    "tStartMs": 64800,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "how do we select anything in math?"
+    } ]
+  }, {
+    "tStartMs": 67140,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Well, the only way is to\nfollow a rule of some sort."
+    } ]
+  }, {
+    "tStartMs": 70860,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "So a rule could be always\nchoose the smallest thing."
+    } ]
+  }, {
+    "tStartMs": 74400,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "For example, if we're looking\nat whole positive integers,"
+    } ]
+  }, {
+    "tStartMs": 77370,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "the smallest is one."
+    } ]
+  }, {
+    "tStartMs": 78960,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "For prime numbers it would be two, easy,"
+    } ]
+  }, {
+    "tStartMs": 82110,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "but what about the real numbers?"
+    } ]
+  }, {
+    "tStartMs": 84180,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "That's any number, positive,\nnegative, whole, fraction,"
+    } ]
+  }, {
+    "tStartMs": 87240,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "even irrational like pi\nor the square root of two."
+    } ]
+  }, {
+    "tStartMs": 90540,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Now try to choose the smallest one."
+    } ]
+  }, {
+    "tStartMs": 93270,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It's impossible."
+    } ]
+  }, {
+    "tStartMs": 94830,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "The real numbers stretch\noff to negative infinity."
+    } ]
+  }, {
+    "tStartMs": 98340,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Even if we try to fix our rule\nby making it super specific,"
+    } ]
+  }, {
+    "tStartMs": 101670,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "like choose the smallest number"
+    } ]
+  }, {
+    "tStartMs": 103170,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "after one, we still get stuck."
+    } ]
+  }, {
+    "tStartMs": 106410,
+    "dDurationMs": 1587,
+    "segs": [ {
+      "utf8": "There's 1.01"
+    } ]
+  }, {
+    "tStartMs": 107997,
+    "dDurationMs": 2476,
+    "segs": [ {
+      "utf8": "and then 1.0001,"
+    } ]
+  }, {
+    "tStartMs": 110520,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "then 1.00000000001 and so on."
+    } ]
+  }, {
+    "tStartMs": 115200,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "So really what number comes after one?"
+    } ]
+  }, {
+    "tStartMs": 121020,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "If we can't begin to specify\nthe order of the real numbers,"
+    } ]
+  }, {
+    "tStartMs": 123900,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "next and previous, first\nand last, we're stuck."
+    } ]
+  }, {
+    "tStartMs": 127290,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "The ridiculous part is we\nknow we have infinite options,"
+    } ]
+  }, {
+    "tStartMs": 130860,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "but despite that, we can't\nfigure out how to just pick one."
+    } ]
+  }, {
+    "tStartMs": 136020,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "The mission to resolve this\nbegan with one man in 1870."
+    } ]
+  }, {
+    "tStartMs": 140250,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "He took on the task"
+    } ]
+  }, {
+    "tStartMs": 141330,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "of putting the real numbers\nin a definitive order,"
+    } ]
+  }, {
+    "tStartMs": 144240,
+    "dDurationMs": 3723,
+    "segs": [ {
+      "utf8": "even if it killed him and it nearly did."
+    } ]
+  }, {
+    "tStartMs": 151320,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Georg Cantor was a talented\nGerman mathematician"
+    } ]
+  }, {
+    "tStartMs": 154350,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "who found himself at the\ncenter of a firestorm"
+    } ]
+  }, {
+    "tStartMs": 157020,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "after publishing one of\nhis very first papers"
+    } ]
+  }, {
+    "tStartMs": 159150,
+    "dDurationMs": 1443,
+    "segs": [ {
+      "utf8": "at the age of 29."
+    } ]
+  }, {
+    "tStartMs": 162030,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "For centuries, our understanding"
+    } ]
+  }, {
+    "tStartMs": 163860,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "of infinity was heavily\ninfluenced by Galileo's 1638 book."
+    } ]
+  }, {
+    "tStartMs": 168930,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It raised a key question, are\nthere more natural numbers"
+    } ]
+  }, {
+    "tStartMs": 172770,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "or are there more square numbers?"
+    } ]
+  }, {
+    "tStartMs": 175080,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Just looking at them, the square\nnumbers are more spaced out"
+    } ]
+  }, {
+    "tStartMs": 178560,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and they only become more\nsparse the higher you go."
+    } ]
+  }, {
+    "tStartMs": 181860,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "So it would appear there are fewer squares"
+    } ]
+  }, {
+    "tStartMs": 184290,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "than natural numbers,"
+    } ]
+  }, {
+    "tStartMs": 185910,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "but Galileo realized he\ncould draw a line matching"
+    } ]
+  }, {
+    "tStartMs": 189300,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "every natural number with its own square."
+    } ]
+  }, {
+    "tStartMs": 192180,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And since he could make\nthis one-to-one mapping,"
+    } ]
+  }, {
+    "tStartMs": 194970,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "that he knew that the two sets"
+    } ]
+  }, {
+    "tStartMs": 196590,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "must be exactly the same size."
+    } ]
+  }, {
+    "tStartMs": 199500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So there are actually just\nas many square numbers"
+    } ]
+  }, {
+    "tStartMs": 202200,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "as there are natural numbers."
+    } ]
+  }, {
+    "tStartMs": 205980,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "From this counterintuitive result,"
+    } ]
+  }, {
+    "tStartMs": 208050,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Galileo concluded that terms \nlike more than or less than"
+    } ]
+  }, {
+    "tStartMs": 211590,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "don't apply to infinity,"
+    } ]
+  }, {
+    "tStartMs": 213390,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "how we normally use them."
+    } ]
+  }, {
+    "tStartMs": 215220,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "It's all just one big\nconcept of foreverness"
+    } ]
+  }, {
+    "tStartMs": 218790,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and this view prevailed for centuries."
+    } ]
+  }, {
+    "tStartMs": 221160,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "In fact, it's how many people"
+    } ]
+  }, {
+    "tStartMs": 222510,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "still understand infinity today,"
+    } ]
+  }, {
+    "tStartMs": 225390,
+    "dDurationMs": 3723,
+    "segs": [ {
+      "utf8": "but 200 years on, Cantor wasn't satisfied."
+    } ]
+  }, {
+    "tStartMs": 230070,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "In 1874, he wondered"
+    } ]
+  }, {
+    "tStartMs": 232230,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "what if there were two\ninfinite sets out there"
+    } ]
+  }, {
+    "tStartMs": 235110,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "that didn't map perfectly to each other?"
+    } ]
+  }, {
+    "tStartMs": 237930,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Would they be different infinities?"
+    } ]
+  }, {
+    "tStartMs": 240840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "So he set out to compare\nthe natural numbers"
+    } ]
+  }, {
+    "tStartMs": 243270,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "and the real numbers between zero and one."
+    } ]
+  }, {
+    "tStartMs": 246810,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Cantor started by assuming he\ncould perfectly map these sets"
+    } ]
+  }, {
+    "tStartMs": 250200,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to each other, one-to-one."
+    } ]
+  }, {
+    "tStartMs": 251940,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So he imagined writing\ndown an infinite list"
+    } ]
+  }, {
+    "tStartMs": 255090,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "with a natural number on one side"
+    } ]
+  }, {
+    "tStartMs": 256650,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "and a real number between\nzero and one on the other."
+    } ]
+  }, {
+    "tStartMs": 259920,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Since there is no smallest real number,"
+    } ]
+  }, {
+    "tStartMs": 262650,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "he would just write\nthem down in any order."
+    } ]
+  }, {
+    "tStartMs": 265860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Assuming he now has a\ncomplete infinite list,"
+    } ]
+  }, {
+    "tStartMs": 269220,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Cantor writes down another real number"
+    } ]
+  }, {
+    "tStartMs": 271980,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and to do it, he takes the\nfirst digit of the first number"
+    } ]
+  }, {
+    "tStartMs": 275040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and adds one, then the second\ndigit of the second number,"
+    } ]
+  }, {
+    "tStartMs": 278880,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and again, he adds one."
+    } ]
+  }, {
+    "tStartMs": 280740,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "He keeps doing this all\nthe way down the list."
+    } ]
+  }, {
+    "tStartMs": 283680,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "If the digit is an eight"
+    } ]
+  }, {
+    "tStartMs": 284790,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "or a nine, he subtracts\none instead of adding"
+    } ]
+  }, {
+    "tStartMs": 287880,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "to avoid duplicates,"
+    } ]
+  }, {
+    "tStartMs": 289590,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and by the end of this\nprocess, he has written down"
+    } ]
+  }, {
+    "tStartMs": 292200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "a real number between zero and one,"
+    } ]
+  }, {
+    "tStartMs": 295080,
+    "dDurationMs": 3693,
+    "segs": [ {
+      "utf8": "but that number doesn't\nappear anywhere in his list."
+    } ]
+  }, {
+    "tStartMs": 300120,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "It's different from the first number"
+    } ]
+  }, {
+    "tStartMs": 301590,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "in the first decimal place,"
+    } ]
+  }, {
+    "tStartMs": 302880,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "different from the second number"
+    } ]
+  }, {
+    "tStartMs": 303870,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "in the second decimal place\nand so on down the line."
+    } ]
+  }, {
+    "tStartMs": 307380,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "It has to be different from\nevery number on the list"
+    } ]
+  }, {
+    "tStartMs": 310260,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "by at least one digit,\nthe digit on the diagonal."
+    } ]
+  }, {
+    "tStartMs": 314010,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "That's why this is called\nCantor's Diagonalization Proof"
+    } ]
+  }, {
+    "tStartMs": 317670,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and it shows there must be\nmore real numbers between zero"
+    } ]
+  }, {
+    "tStartMs": 321030,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "and one than there are\nnatural numbers extending out"
+    } ]
+  }, {
+    "tStartMs": 324240,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "to infinity."
+    } ]
+  }, {
+    "tStartMs": 326850,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Cantor had revealed something remarkable."
+    } ]
+  }, {
+    "tStartMs": 329580,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Infinity doesn't come in just one size."
+    } ]
+  }, {
+    "tStartMs": 332760,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Some infinities like the set\nof square numbers, integers"
+    } ]
+  }, {
+    "tStartMs": 335940,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "or rational numbers\ncan be paired perfectly"
+    } ]
+  }, {
+    "tStartMs": 338610,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "with the natural numbers."
+    } ]
+  }, {
+    "tStartMs": 340050,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "You can literally count them,\none, two, three and so on."
+    } ]
+  }, {
+    "tStartMs": 343590,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "So Cantor called these\ncountable infinities,"
+    } ]
+  }, {
+    "tStartMs": 347610,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "but then there are bigger infinities,"
+    } ]
+  }, {
+    "tStartMs": 349950,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Cantor called them uncountable."
+    } ]
+  }, {
+    "tStartMs": 352170,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "These infinities like the\nset of all real numbers,"
+    } ]
+  }, {
+    "tStartMs": 354840,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "the complex numbers, they\ncan't be matched one-to-one"
+    } ]
+  }, {
+    "tStartMs": 358050,
+    "dDurationMs": 1353,
+    "segs": [ {
+      "utf8": "with the natural numbers."
+    } ]
+  }, {
+    "tStartMs": 360840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Cantor's results rocked\nthe mathematical community."
+    } ]
+  }, {
+    "tStartMs": 364440,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "After all, how can something"
+    } ]
+  }, {
+    "tStartMs": 366060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that continues forever be\nbigger than something else"
+    } ]
+  }, {
+    "tStartMs": 369420,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "that continues forever?"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "His work was labeled a\nhorror and a grave disease,"
+    } ]
+  }, {
+    "tStartMs": 375270,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "but Cantor wasn't discouraged."
+    } ]
+  }, {
+    "tStartMs": 377490,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "His success only spurred him\nto pursue his even grander goal"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "to show that even uncountably\ninfinite sets could be placed"
+    } ]
+  }, {
+    "tStartMs": 384210,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "in a definitive order."
+    } ]
+  }, {
+    "tStartMs": 385770,
+    "dDurationMs": 2283,
+    "segs": [ {
+      "utf8": "What Cantor called a well-order."
+    } ]
+  }, {
+    "tStartMs": 389370,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "For a set to be well ordered,\nhe required two conditions."
+    } ]
+  }, {
+    "tStartMs": 393480,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "First, the set must have\na clear starting point."
+    } ]
+  }, {
+    "tStartMs": 396900,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "And second, every subset,\na collection of items"
+    } ]
+  }, {
+    "tStartMs": 399960,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "from that set, must also\nhave a clear starting point."
+    } ]
+  }, {
+    "tStartMs": 404310,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So for example, the natural\nnumbers are well ordered,"
+    } ]
+  }, {
+    "tStartMs": 407520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "there's a starting point, one,"
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and any subset, say six, seven, eight,"
+    } ]
+  }, {
+    "tStartMs": 411870,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "also has a clear starting point."
+    } ]
+  }, {
+    "tStartMs": 413880,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "In this case, six, you always\nknow which number comes before"
+    } ]
+  }, {
+    "tStartMs": 417690,
+    "dDurationMs": 1413,
+    "segs": [ {
+      "utf8": "and which comes next."
+    } ]
+  }, {
+    "tStartMs": 421050,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But what about the integers?"
+    } ]
+  }, {
+    "tStartMs": 422850,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Integers stretch off to\ninfinity in both the positive"
+    } ]
+  }, {
+    "tStartMs": 425700,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and negative directions."
+    } ]
+  }, {
+    "tStartMs": 427560,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Well Cantor realized\nhe could just pick zero"
+    } ]
+  }, {
+    "tStartMs": 430650,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "as the starting point"
+    } ]
+  }, {
+    "tStartMs": 432060,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "and from there his ordering\nwent one, negative one, two,"
+    } ]
+  }, {
+    "tStartMs": 436200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "negative two, ranking the\nintegers by their absolute value,"
+    } ]
+  }, {
+    "tStartMs": 439920,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "their distance from zero."
+    } ]
+  }, {
+    "tStartMs": 441870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It doesn't matter if you\nput the positives first"
+    } ]
+  }, {
+    "tStartMs": 443970,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "or the negatives first, as\nlong as you are consistent."
+    } ]
+  }, {
+    "tStartMs": 447090,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Ordering them this way is\nactually what allows us"
+    } ]
+  }, {
+    "tStartMs": 449310,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to map the integers to the natural numbers"
+    } ]
+  }, {
+    "tStartMs": 451830,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and see that both sets are the same size,"
+    } ]
+  }, {
+    "tStartMs": 454830,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "but there are other ways we\ncould well order the integers."
+    } ]
+  }, {
+    "tStartMs": 457920,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "We could start with zero"
+    } ]
+  }, {
+    "tStartMs": 459180,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and then have one, two, three,"
+    } ]
+  }, {
+    "tStartMs": 460800,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "all the way to positive infinity"
+    } ]
+  }, {
+    "tStartMs": 462750,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and then negative one,\nnegative two, negative three,"
+    } ]
+  }, {
+    "tStartMs": 465420,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "all the way to negative infinity."
+    } ]
+  }, {
+    "tStartMs": 468240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This is not how we're used to counting,"
+    } ]
+  }, {
+    "tStartMs": 470640,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "but both of these options\nfit the definition"
+    } ]
+  }, {
+    "tStartMs": 473010,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "of a well ordering."
+    } ]
+  }, {
+    "tStartMs": 474420,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "There's a clear starting point, zero,"
+    } ]
+  }, {
+    "tStartMs": 476580,
+    "dDurationMs": 3693,
+    "segs": [ {
+      "utf8": "and all their subsets also have\na definitive starting point."
+    } ]
+  }, {
+    "tStartMs": 481800,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Cantor had successfully well ordered a set"
+    } ]
+  }, {
+    "tStartMs": 484650,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that was infinite in both directions,"
+    } ]
+  }, {
+    "tStartMs": 487170,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "but it was only countably infinite."
+    } ]
+  }, {
+    "tStartMs": 489600,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "In his next book, he published\nhis well ordering theorem."
+    } ]
+  }, {
+    "tStartMs": 493530,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It claimed that every set,"
+    } ]
+  }, {
+    "tStartMs": 495330,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "even the uncountably infinite\nones like the real numbers"
+    } ]
+  }, {
+    "tStartMs": 498600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "could be well ordered."
+    } ]
+  }, {
+    "tStartMs": 501450,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "The problem was he hadn't\nactually proven this"
+    } ]
+  }, {
+    "tStartMs": 504900,
+    "dDurationMs": 4173,
+    "segs": [ {
+      "utf8": "because he couldn't, every\nmethod he tried had failed,"
+    } ]
+  }, {
+    "tStartMs": 510450,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "but there was one big reason that Cantor"
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "was so confident in his theorem."
+    } ]
+  }, {
+    "tStartMs": 514560,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Cantor was a devout Lutheran"
+    } ]
+  }, {
+    "tStartMs": 516630,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "and he believed God was\nspeaking through him."
+    } ]
+  }, {
+    "tStartMs": 520440,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "He said, my theory\nstands as firm as a rock."
+    } ]
+  }, {
+    "tStartMs": 523980,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Every arrow directed\nagainst it will return"
+    } ]
+  }, {
+    "tStartMs": 526560,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "quickly to its archer."
+    } ]
+  }, {
+    "tStartMs": 528450,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "How do I know this?"
+    } ]
+  }, {
+    "tStartMs": 529620,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Because I have studied it\nfrom all sides for many years"
+    } ]
+  }, {
+    "tStartMs": 533220,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and above all because I have\nfollowed its roots so to speak,"
+    } ]
+  }, {
+    "tStartMs": 536700,
+    "dDurationMs": 3993,
+    "segs": [ {
+      "utf8": "to the first infallible\ncause of all created things."
+    } ]
+  }, {
+    "tStartMs": 541530,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Belief notwithstanding,\nthe well ordering theorem"
+    } ]
+  }, {
+    "tStartMs": 544890,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "was a lofty claim"
+    } ]
+  }, {
+    "tStartMs": 546120,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "to make without any mathematical proof."
+    } ]
+  }, {
+    "tStartMs": 548820,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And so for the second time,"
+    } ]
+  }, {
+    "tStartMs": 551070,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "the mathematical community attacked"
+    } ]
+  }, {
+    "tStartMs": 553200,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "and ostracized Cantor."
+    } ]
+  }, {
+    "tStartMs": 555990,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Leading the charge was Leopold Kronecker,"
+    } ]
+  }, {
+    "tStartMs": 558390,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "the head of mathematics at\nthe University of Berlin."
+    } ]
+  }, {
+    "tStartMs": 561270,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Kronecker completely dismissed\nCantor's work, labeling him"
+    } ]
+  }, {
+    "tStartMs": 564660,
+    "dDurationMs": 3243,
+    "segs": [ {
+      "utf8": "a scientific charlatan and\na corrupter of the youth."
+    } ]
+  }, {
+    "tStartMs": 568890,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "And Kronecker used to be Cantor's teacher."
+    } ]
+  }, {
+    "tStartMs": 571860,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Cantor dreamed of joining him\nat the University of Berlin,"
+    } ]
+  }, {
+    "tStartMs": 575310,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "but all his applications\nwere mysteriously denied."
+    } ]
+  }, {
+    "tStartMs": 579240,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So Cantor took the rejection personally."
+    } ]
+  }, {
+    "tStartMs": 582060,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "In 1884, he wrote 52 letters to a friend"
+    } ]
+  }, {
+    "tStartMs": 585660,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "and every one of them bemoaned Kronecker."
+    } ]
+  }, {
+    "tStartMs": 589410,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Soon Cantor suffered\nwhat would be the first"
+    } ]
+  }, {
+    "tStartMs": 591600,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "of many nervous breakdowns."
+    } ]
+  }, {
+    "tStartMs": 593490,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "He was confined to a\nsanitarium for recovery."
+    } ]
+  }, {
+    "tStartMs": 597690,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "The only way he could prove everyone wrong"
+    } ]
+  }, {
+    "tStartMs": 600450,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "was by well ordering the real numbers,"
+    } ]
+  }, {
+    "tStartMs": 603060,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "but he couldn't find a\nstarting point, literally."
+    } ]
+  }, {
+    "tStartMs": 607290,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Once Cantor was released\nfrom the sanatorium,"
+    } ]
+  }, {
+    "tStartMs": 609480,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "he stepped away from math, a broken man."
+    } ]
+  }, {
+    "tStartMs": 612330,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "And over the next 15\nyears he taught philosophy"
+    } ]
+  }, {
+    "tStartMs": 615180,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "and rarely dabbled in his old pursuits."
+    } ]
+  }, {
+    "tStartMs": 618720,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Perhaps his greatest challenge came"
+    } ]
+  }, {
+    "tStartMs": 620430,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "at the 1904 International\nCongress of mathematicians."
+    } ]
+  }, {
+    "tStartMs": 623730,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "There, Julius König, a respected\nprofessor from Budapest,"
+    } ]
+  }, {
+    "tStartMs": 627120,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "announced he had proof"
+    } ]
+  }, {
+    "tStartMs": 628830,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "that Cantor's well\nordering theorem was wrong."
+    } ]
+  }, {
+    "tStartMs": 632430,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "In the audience was not only Cantor"
+    } ]
+  }, {
+    "tStartMs": 634710,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "but also his wife, two of his\ndaughters and his colleagues."
+    } ]
+  }, {
+    "tStartMs": 639450,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "He felt utterly humiliated,"
+    } ]
+  }, {
+    "tStartMs": 642600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "but there was also another in attendance."
+    } ]
+  }, {
+    "tStartMs": 645720,
+    "dDurationMs": 1613,
+    "segs": [ {
+      "utf8": "Ernst Zermelo."
+    } ]
+  }, {
+    "tStartMs": 647333,
+    "dDurationMs": 1927,
+    "segs": [ {
+      "utf8": "Zermelo was a German mathematician"
+    } ]
+  }, {
+    "tStartMs": 649260,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "who had recently developed a\nkeen interest in Cantor's work"
+    } ]
+  }, {
+    "tStartMs": 652710,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and as he listened to\nKönig's presentation,"
+    } ]
+  }, {
+    "tStartMs": 655080,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "something felt off."
+    } ]
+  }, {
+    "tStartMs": 657120,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Within 24 hours, Zermelo\nhad pinpointed the problem."
+    } ]
+  }, {
+    "tStartMs": 661050,
+    "dDurationMs": 2793,
+    "segs": [ {
+      "utf8": "König's proof contained\na damning contradiction,"
+    } ]
+  }, {
+    "tStartMs": 665010,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and within a month, Zermello\npublished a three-page article"
+    } ]
+  }, {
+    "tStartMs": 668010,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "titled \"Proof That Every\nSet Can Be Well-Ordered\""
+    } ]
+  }, {
+    "tStartMs": 672120,
+    "dDurationMs": 1773,
+    "segs": [ {
+      "utf8": "and it was flawless."
+    } ]
+  }, {
+    "tStartMs": 675390,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Zermelo's breakthrough came\nwhen he discovered something"
+    } ]
+  }, {
+    "tStartMs": 677640,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "profound in Cantor's work,"
+    } ]
+  }, {
+    "tStartMs": 679860,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "a mechanism which Cantor\nuses unconsciously"
+    } ]
+  }, {
+    "tStartMs": 682830,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and instinctively everywhere,"
+    } ]
+  }, {
+    "tStartMs": 684720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "but formulates explicitly nowhere."
+    } ]
+  }, {
+    "tStartMs": 688200,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "See, all along, Cantor had been assuming"
+    } ]
+  }, {
+    "tStartMs": 690480,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "that he could make an infinite number"
+    } ]
+  }, {
+    "tStartMs": 692340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "of choices at once from any set,"
+    } ]
+  }, {
+    "tStartMs": 694800,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "including uncountable infinite\nsets like the real numbers,"
+    } ]
+  }, {
+    "tStartMs": 697980,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "but this was just an assumption."
+    } ]
+  }, {
+    "tStartMs": 700440,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Nowhere in the mathematical rule book"
+    } ]
+  }, {
+    "tStartMs": 702780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "was this explicitly permitted"
+    } ]
+  }, {
+    "tStartMs": 704940,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and math is built on\nrules, specifically axioms."
+    } ]
+  }, {
+    "tStartMs": 708390,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Axioms are simple statements we accept"
+    } ]
+  }, {
+    "tStartMs": 710760,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "as true without proof."
+    } ]
+  }, {
+    "tStartMs": 712620,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Zermelo realized Cantor's\nassumption needed"
+    } ]
+  }, {
+    "tStartMs": 714930,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "to be formalized into something"
+    } ]
+  }, {
+    "tStartMs": 716400,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "that holds up in a system of proof."
+    } ]
+  }, {
+    "tStartMs": 719250,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "A new axiom that said, making all"
+    } ]
+  }, {
+    "tStartMs": 721740,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "of those choices was possible."
+    } ]
+  }, {
+    "tStartMs": 724050,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "He needed the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 727770,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- The axiom of choice\ncan be said in the sense"
+    } ]
+  }, {
+    "tStartMs": 729600,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "that if you have infinitely many sets"
+    } ]
+  }, {
+    "tStartMs": 731190,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and each set is not\nempty, then there is a way"
+    } ]
+  }, {
+    "tStartMs": 733290,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to choose one element\nfrom each of the sets."
+    } ]
+  }, {
+    "tStartMs": 736140,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "- For finite sets, this seems obvious,"
+    } ]
+  }, {
+    "tStartMs": 739290,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "just go set by set and pick something."
+    } ]
+  }, {
+    "tStartMs": 742170,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Even for infinite sets, it's\neasy if there's a clear rule,"
+    } ]
+  }, {
+    "tStartMs": 745980,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "like always choose the smallest thing,"
+    } ]
+  }, {
+    "tStartMs": 749070,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but sometimes there is no natural rule."
+    } ]
+  }, {
+    "tStartMs": 751830,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "In those cases when you're choosing"
+    } ]
+  }, {
+    "tStartMs": 753750,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "from infinitely many sets,"
+    } ]
+  }, {
+    "tStartMs": 755550,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "including the uncountable ones,"
+    } ]
+  }, {
+    "tStartMs": 757140,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "you need the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 759240,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "We can't say how we're choosing,"
+    } ]
+  }, {
+    "tStartMs": 761040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but the axiom makes all of\nthese choices all at once."
+    } ]
+  }, {
+    "tStartMs": 765360,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "The axiom doesn't allow you"
+    } ]
+  }, {
+    "tStartMs": 766740,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "to say which element you've chosen,"
+    } ]
+  }, {
+    "tStartMs": 769050,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "only that infinitely many\nchoices are possible."
+    } ]
+  }, {
+    "tStartMs": 772860,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So how does this new axiom enable us"
+    } ]
+  }, {
+    "tStartMs": 775230,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "to well order the real numbers."
+    } ]
+  }, {
+    "tStartMs": 778650,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Zermelo uses the axiom of choice"
+    } ]
+  }, {
+    "tStartMs": 780660,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "to choose a number from the\nset of all real numbers."
+    } ]
+  }, {
+    "tStartMs": 783420,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "He places this number, let's\ncall it X1 into a new set, R."
+    } ]
+  }, {
+    "tStartMs": 787500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "The axiom then allows him"
+    } ]
+  }, {
+    "tStartMs": 789300,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "to choose another number from the subset"
+    } ]
+  }, {
+    "tStartMs": 791250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "of all reals minus the one taken out."
+    } ]
+  }, {
+    "tStartMs": 793650,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "He calls this number X2"
+    } ]
+  }, {
+    "tStartMs": 795120,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and places it as the\nnext number in his set"
+    } ]
+  }, {
+    "tStartMs": 798180,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and he keeps doing this,\ntaking the chosen number"
+    } ]
+  }, {
+    "tStartMs": 800610,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and placing it next, X3, X4, X5."
+    } ]
+  }, {
+    "tStartMs": 804210,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Now it feels like he's choosing\nthese numbers one at a time,"
+    } ]
+  }, {
+    "tStartMs": 806940,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "but in reality the choices are made"
+    } ]
+  }, {
+    "tStartMs": 809280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "from all possible\nsubsets at the same time."
+    } ]
+  }, {
+    "tStartMs": 812880,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "As Zermelo indexes each number\nwith the natural numbers,"
+    } ]
+  }, {
+    "tStartMs": 816060,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "at first it might seem like\nhe'd run into a problem"
+    } ]
+  }, {
+    "tStartMs": 818970,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "because the natural numbers\nare only accountably infinite,"
+    } ]
+  }, {
+    "tStartMs": 822210,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "whereas there are way more reals."
+    } ]
+  }, {
+    "tStartMs": 824250,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "So he should eventually run out of labels,"
+    } ]
+  }, {
+    "tStartMs": 827040,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "but we can count beyond infinity."
+    } ]
+  }, {
+    "tStartMs": 829830,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "We did it earlier when we\ncounted past positive infinity"
+    } ]
+  }, {
+    "tStartMs": 832590,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "to get to negative one,\nnegative two and so on."
+    } ]
+  }, {
+    "tStartMs": 836220,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "So we just need a new set of numbers"
+    } ]
+  }, {
+    "tStartMs": 838170,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "that extends past the naturals,\ncall the next number omega,"
+    } ]
+  }, {
+    "tStartMs": 842580,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "then omega plus one,\nomega plus two, and so on."
+    } ]
+  }, {
+    "tStartMs": 846090,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "These omega numbers are\nnot bigger than infinity."
+    } ]
+  }, {
+    "tStartMs": 849480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "They just come after infinity."
+    } ]
+  }, {
+    "tStartMs": 852000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "They don't tell us how\nmany things are there,"
+    } ]
+  }, {
+    "tStartMs": 854040,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "but they do tell us their order."
+    } ]
+  }, {
+    "tStartMs": 856380,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "So the next number we pull\nout, we'll label it X omega,"
+    } ]
+  }, {
+    "tStartMs": 859650,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "then X omega plus one, X\nomega plus two, and so on."
+    } ]
+  }, {
+    "tStartMs": 863910,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "This will continue until we match the size"
+    } ]
+  }, {
+    "tStartMs": 866220,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "of the real numbers and\nour original set is empty."
+    } ]
+  }, {
+    "tStartMs": 869730,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Now every real number is in our new set."
+    } ]
+  }, {
+    "tStartMs": 872880,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "There is a first number, X1,"
+    } ]
+  }, {
+    "tStartMs": 875070,
+    "dDurationMs": 2793,
+    "segs": [ {
+      "utf8": "and every subset also has a first number."
+    } ]
+  }, {
+    "tStartMs": 878785,
+    "dDurationMs": 2885,
+    "segs": [ {
+      "utf8": "And just like that, we have\nsuccessfully well ordered"
+    } ]
+  }, {
+    "tStartMs": 881670,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "the real numbers."
+    } ]
+  }, {
+    "tStartMs": 883470,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "This order looks nothing\nlike our familiar ordering."
+    } ]
+  }, {
+    "tStartMs": 886560,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "A billion could come before 0.2,"
+    } ]
+  }, {
+    "tStartMs": 889050,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "but with this process, we can prove"
+    } ]
+  }, {
+    "tStartMs": 891150,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that a well ordering exists."
+    } ]
+  }, {
+    "tStartMs": 894030,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And more than that, we now\nhave a way to resolve our issue"
+    } ]
+  }, {
+    "tStartMs": 897360,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "of how to choose mathematically."
+    } ]
+  }, {
+    "tStartMs": 899340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "We can't pick a smallest real number,"
+    } ]
+  }, {
+    "tStartMs": 901860,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "but now we can pick a first\nreal number, our starting point,"
+    } ]
+  }, {
+    "tStartMs": 905610,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and we can do this for any set,"
+    } ]
+  }, {
+    "tStartMs": 907560,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "meaning all sets can be well\nordered no matter the infinity."
+    } ]
+  }, {
+    "tStartMs": 911730,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "So Cantor's well-ordering theorem"
+    } ]
+  }, {
+    "tStartMs": 913950,
+    "dDurationMs": 3573,
+    "segs": [ {
+      "utf8": "and Zermelo's axiom of\nchoice are equivalent."
+    } ]
+  }, {
+    "tStartMs": 919320,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Cantor was so relieved."
+    } ]
+  }, {
+    "tStartMs": 921990,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Zermelo had proved the\nwell-ordering theorem"
+    } ]
+  }, {
+    "tStartMs": 924120,
+    "dDurationMs": 3813,
+    "segs": [ {
+      "utf8": "and well ordered the real\nnumbers all in under a month."
+    } ]
+  }, {
+    "tStartMs": 930540,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Zermelo took something mathematicians"
+    } ]
+  }, {
+    "tStartMs": 932280,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "had unknowingly relied on for decades"
+    } ]
+  }, {
+    "tStartMs": 934410,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and turned it into a formal axiom."
+    } ]
+  }, {
+    "tStartMs": 936960,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "He showed that understanding\nmath isn't just about numbers,"
+    } ]
+  }, {
+    "tStartMs": 940110,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "it's about the logic behind them."
+    } ]
+  }, {
+    "tStartMs": 942210,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "And lately I've been trying\nto do a similar thing,"
+    } ]
+  }, {
+    "tStartMs": 944820,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "but with AI where I'm trying\nto understand the logic behind"
+    } ]
+  }, {
+    "tStartMs": 948600,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "how models like ChatGPT work,"
+    } ]
+  }, {
+    "tStartMs": 950940,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and if you've also wanted to learn"
+    } ]
+  }, {
+    "tStartMs": 952440,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "how generative AI actually works,"
+    } ]
+  }, {
+    "tStartMs": 954900,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "well then you can do that with\ntoday's sponsor, Brilliant."
+    } ]
+  }, {
+    "tStartMs": 957540,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Brilliant has just launched a great course"
+    } ]
+  }, {
+    "tStartMs": 959610,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that breaks all of this down\nwith interactive visuals,"
+    } ]
+  }, {
+    "tStartMs": 962490,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "which is exactly what\nI love about Brilliant."
+    } ]
+  }, {
+    "tStartMs": 965130,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "The course builds your\nintuition for the math"
+    } ]
+  }, {
+    "tStartMs": 967680,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and logic behind AI, exploring\nhow models are trained"
+    } ]
+  }, {
+    "tStartMs": 971220,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "to spot patterns, generate\nimages, and even whip up a song."
+    } ]
+  }, {
+    "tStartMs": 975610,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "♪ Strandbeest striding\nthrough the sand ♪"
+    } ]
+  }, {
+    "tStartMs": 979200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Brilliant has thousands of\ninteractive lessons in math,"
+    } ]
+  }, {
+    "tStartMs": 982080,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "science, programming, technology"
+    } ]
+  }, {
+    "tStartMs": 983850,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and beyond, all designed\nto sharpen your thinking"
+    } ]
+  }, {
+    "tStartMs": 987300,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and problem solving skills."
+    } ]
+  }, {
+    "tStartMs": 989220,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And since each lesson is bite-sized,"
+    } ]
+  }, {
+    "tStartMs": 991350,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "you can jump in anywhere,\nanytime on your laptop"
+    } ]
+  }, {
+    "tStartMs": 994620,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "or even on your phone."
+    } ]
+  }, {
+    "tStartMs": 996240,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "So to try everything Brilliant\nhas to offer for free"
+    } ]
+  }, {
+    "tStartMs": 999090,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "for a full 30 days visit\nbrilliant.org/veritasium,"
+    } ]
+  }, {
+    "tStartMs": 1002600,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "click that link in the description"
+    } ]
+  }, {
+    "tStartMs": 1004250,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "or scan this handy QR code."
+    } ]
+  }, {
+    "tStartMs": 1006620,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "And if you sign up,\nyou'll also get 20% off"
+    } ]
+  }, {
+    "tStartMs": 1009530,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "their annual premium subscription."
+    } ]
+  }, {
+    "tStartMs": 1011420,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "So I want to thank Brilliant\nfor sponsoring this video."
+    } ]
+  }, {
+    "tStartMs": 1014000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And now back to the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 1017420,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "The axiom of choice may\nhave been a new idea,"
+    } ]
+  }, {
+    "tStartMs": 1020180,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "but its use was anything but."
+    } ]
+  }, {
+    "tStartMs": 1022610,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Zermelo scanned dozens of\npapers from other mathematicians"
+    } ]
+  }, {
+    "tStartMs": 1025520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and realized they had also\nbeen using the axiom all along,"
+    } ]
+  }, {
+    "tStartMs": 1029600,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "even those who had\ncriticized Cantor's work."
+    } ]
+  }, {
+    "tStartMs": 1032210,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "- It just goes to show\nhow unintuitive it is"
+    } ]
+  }, {
+    "tStartMs": 1034880,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "that it's even an axiom."
+    } ]
+  }, {
+    "tStartMs": 1036740,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "People had been using it for\nlike a decade, unknowingly."
+    } ]
+  }, {
+    "tStartMs": 1041870,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "- But this almost seems too obvious."
+    } ]
+  }, {
+    "tStartMs": 1044600,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Zermelo's proof didn't actually\nconstruct a well order."
+    } ]
+  }, {
+    "tStartMs": 1047810,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It just said one must exist,"
+    } ]
+  }, {
+    "tStartMs": 1050210,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "but can something exist if\nwe can't actually build it?"
+    } ]
+  }, {
+    "tStartMs": 1053810,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "His proof also used an\nuncountable number of steps,"
+    } ]
+  }, {
+    "tStartMs": 1057410,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "was that even allowed?"
+    } ]
+  }, {
+    "tStartMs": 1059300,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Some mathematicians argued\nproofs should be finite,"
+    } ]
+  }, {
+    "tStartMs": 1062390,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "others accepted infinity,\nbut only the countable kind"
+    } ]
+  }, {
+    "tStartMs": 1066200,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "and then things got worse."
+    } ]
+  }, {
+    "tStartMs": 1069830,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "When mathematicians played\naround with the axiom of choice,"
+    } ]
+  }, {
+    "tStartMs": 1072710,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "it created disturbing results."
+    } ]
+  }, {
+    "tStartMs": 1075650,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "One of the first came from\nGiuseppe Vitali in 1905."
+    } ]
+  }, {
+    "tStartMs": 1079400,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Vitali used the axiom of choice\nto build a set of numbers"
+    } ]
+  }, {
+    "tStartMs": 1082430,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that shattered our idea of what it means"
+    } ]
+  }, {
+    "tStartMs": 1084890,
+    "dDurationMs": 1473,
+    "segs": [ {
+      "utf8": "for something to have length."
+    } ]
+  }, {
+    "tStartMs": 1087230,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So what Vitali does is he\ntakes every real number"
+    } ]
+  }, {
+    "tStartMs": 1090860,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "between zero and one"
+    } ]
+  }, {
+    "tStartMs": 1092810,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "and assigns it to one of\nan infinite number of bins."
+    } ]
+  }, {
+    "tStartMs": 1097400,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Let's call these bins groups."
+    } ]
+  }, {
+    "tStartMs": 1099770,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "So we want each real number\nto end up in exactly one"
+    } ]
+  }, {
+    "tStartMs": 1104360,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "of our infinite bins."
+    } ]
+  }, {
+    "tStartMs": 1105980,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So how does he do it?"
+    } ]
+  }, {
+    "tStartMs": 1107660,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Well, let's say we have\ntwo numbers, X and Y."
+    } ]
+  }, {
+    "tStartMs": 1112370,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "If their difference, X minus Y is equal"
+    } ]
+  }, {
+    "tStartMs": 1116240,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "to a rational, that is one integer"
+    } ]
+  }, {
+    "tStartMs": 1119570,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "divided by another\ninteger, well then both X"
+    } ]
+  }, {
+    "tStartMs": 1123200,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "and Y will go into the same bin."
+    } ]
+  }, {
+    "tStartMs": 1127490,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "But if we have two other\nnumbers, let's say P"
+    } ]
+  }, {
+    "tStartMs": 1131660,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "and Q and their difference\nis not a rational,"
+    } ]
+  }, {
+    "tStartMs": 1136520,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "so it's an irrational difference,"
+    } ]
+  }, {
+    "tStartMs": 1138680,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "well then those two numbers"
+    } ]
+  }, {
+    "tStartMs": 1140420,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "will go into separate bins."
+    } ]
+  }, {
+    "tStartMs": 1144470,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So let's do some examples."
+    } ]
+  }, {
+    "tStartMs": 1146240,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "If this is 3/4 minus a half,"
+    } ]
+  }, {
+    "tStartMs": 1150020,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "then we get a quarter and\nso both 3/4 and a half"
+    } ]
+  }, {
+    "tStartMs": 1154070,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "will go into the same bin."
+    } ]
+  }, {
+    "tStartMs": 1157100,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "In fact, you can see"
+    } ]
+  }, {
+    "tStartMs": 1158390,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "that all rational numbers\nfrom this span, zero to one,"
+    } ]
+  }, {
+    "tStartMs": 1162200,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "they'll all end up in the same group."
+    } ]
+  }, {
+    "tStartMs": 1165140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Now if you have irrational numbers,"
+    } ]
+  }, {
+    "tStartMs": 1167540,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "well it's not clear whether\nthey will go into the same bin"
+    } ]
+  }, {
+    "tStartMs": 1170720,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "or not because for example,"
+    } ]
+  }, {
+    "tStartMs": 1172280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "if we have the number\nroot two over two minus"
+    } ]
+  }, {
+    "tStartMs": 1176120,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "say root two over two\nminus a quarter, well then"
+    } ]
+  }, {
+    "tStartMs": 1179990,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "that does have a rational\ndifference even though"
+    } ]
+  }, {
+    "tStartMs": 1182360,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "each of these numbers is irrational."
+    } ]
+  }, {
+    "tStartMs": 1184640,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So these two numbers will\ngo into the same group,"
+    } ]
+  }, {
+    "tStartMs": 1189710,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "but if we have irrational\nnumbers root two over two"
+    } ]
+  }, {
+    "tStartMs": 1193220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "minus root two over three,"
+    } ]
+  }, {
+    "tStartMs": 1195860,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "well that gives an irrational difference."
+    } ]
+  }, {
+    "tStartMs": 1197690,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So root two over three will\nhave to go into a different bin"
+    } ]
+  }, {
+    "tStartMs": 1202730,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and it will be joined\nby all of the numbers"
+    } ]
+  }, {
+    "tStartMs": 1205340,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "it has a rational difference from."
+    } ]
+  }, {
+    "tStartMs": 1207110,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And in this way, you can\nassign each real number"
+    } ]
+  }, {
+    "tStartMs": 1210560,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "to exactly one of these bins."
+    } ]
+  }, {
+    "tStartMs": 1213890,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Next, Vitali used the axiom of choice"
+    } ]
+  }, {
+    "tStartMs": 1216680,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "to reach into each group"
+    } ]
+  }, {
+    "tStartMs": 1218930,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and select exactly one number,"
+    } ]
+  }, {
+    "tStartMs": 1221450,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "which would be a\nrepresentative of the group."
+    } ]
+  }, {
+    "tStartMs": 1224120,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "So we could pull out 3/4\nfrom the rational group,"
+    } ]
+  }, {
+    "tStartMs": 1227210,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "root two over two from this group,"
+    } ]
+  }, {
+    "tStartMs": 1228680,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "root two over three from\nthat group and so on."
+    } ]
+  }, {
+    "tStartMs": 1231020,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Though of course because we're\nusing the axiom of choice,"
+    } ]
+  }, {
+    "tStartMs": 1233780,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "you don't actually know what\nthat representative number is,"
+    } ]
+  }, {
+    "tStartMs": 1237350,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "just that you have one."
+    } ]
+  }, {
+    "tStartMs": 1239420,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So we could write it down like this."
+    } ]
+  }, {
+    "tStartMs": 1243200,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "We have these representatives\nfrom each group"
+    } ]
+  }, {
+    "tStartMs": 1245870,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "and together they form the Vitali set."
+    } ]
+  }, {
+    "tStartMs": 1249080,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "You can visualize this set\nas a collection of points"
+    } ]
+  }, {
+    "tStartMs": 1251630,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "between zero and one."
+    } ]
+  }, {
+    "tStartMs": 1253550,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Next, Vitali makes\ninfinite copies of his set"
+    } ]
+  }, {
+    "tStartMs": 1257840,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "and each one he shifts by\na different rational number"
+    } ]
+  }, {
+    "tStartMs": 1262010,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "between negative one and positive one."
+    } ]
+  }, {
+    "tStartMs": 1265250,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So if you think about what that does,"
+    } ]
+  }, {
+    "tStartMs": 1267050,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "it's gonna move each representative number"
+    } ]
+  }, {
+    "tStartMs": 1269690,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "to be at the position of every\nother number in its group."
+    } ]
+  }, {
+    "tStartMs": 1273680,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "If we just had the one rational\nnumber that we plucked out"
+    } ]
+  }, {
+    "tStartMs": 1276650,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "as a representative\nfrom the rational group,"
+    } ]
+  }, {
+    "tStartMs": 1278660,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "now we're gonna shift it by\nevery possible rational number"
+    } ]
+  }, {
+    "tStartMs": 1281930,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "between negative one and positive one."
+    } ]
+  }, {
+    "tStartMs": 1283670,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "So it's going to end up at\nevery other position occupied"
+    } ]
+  }, {
+    "tStartMs": 1287090,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "by the other members of its\ngroup, at least on the span"
+    } ]
+  }, {
+    "tStartMs": 1289910,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "between zero and one."
+    } ]
+  }, {
+    "tStartMs": 1291770,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "So if you imagine now merging"
+    } ]
+  }, {
+    "tStartMs": 1294680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "all of these infinite sets together,"
+    } ]
+  }, {
+    "tStartMs": 1297080,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "there's gonna be no\noverlap between the points."
+    } ]
+  }, {
+    "tStartMs": 1299540,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And second, we are going\nto have every real number"
+    } ]
+  }, {
+    "tStartMs": 1302900,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "between zero and one"
+    } ]
+  }, {
+    "tStartMs": 1304640,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "because on that span we have\nevery member of every group."
+    } ]
+  }, {
+    "tStartMs": 1309560,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "So now the question is what is the size"
+    } ]
+  }, {
+    "tStartMs": 1313310,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "of the Vitali set?"
+    } ]
+  }, {
+    "tStartMs": 1314780,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Now we know that the union"
+    } ]
+  }, {
+    "tStartMs": 1316340,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "of those sets must be\ngreater than or equal to one"
+    } ]
+  }, {
+    "tStartMs": 1321470,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "because we have every real\nnumber between zero and one,"
+    } ]
+  }, {
+    "tStartMs": 1324980,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "but also these points only\nextend out as far as negative one"
+    } ]
+  }, {
+    "tStartMs": 1328970,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "or positive two."
+    } ]
+  }, {
+    "tStartMs": 1330710,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "So it must be less than or equal to three,"
+    } ]
+  }, {
+    "tStartMs": 1335330,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "but this is where the problem arises"
+    } ]
+  }, {
+    "tStartMs": 1337400,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "because what number for the size"
+    } ]
+  }, {
+    "tStartMs": 1340490,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "of the Vitali set could you add"
+    } ]
+  }, {
+    "tStartMs": 1342200,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "to itself infinitely many times"
+    } ]
+  }, {
+    "tStartMs": 1344630,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and end up with a value\nbetween one and three?"
+    } ]
+  }, {
+    "tStartMs": 1347660,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "There is no number like that."
+    } ]
+  }, {
+    "tStartMs": 1349880,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "I mean if the size of\nthe Vitali set was zero,"
+    } ]
+  }, {
+    "tStartMs": 1352850,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "you add it up infinitely,\nmany times you still get zero."
+    } ]
+  }, {
+    "tStartMs": 1356270,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "If the size of the Vitali set\nis a small positive value,"
+    } ]
+  }, {
+    "tStartMs": 1359330,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "then you add it up infinitely many times,"
+    } ]
+  }, {
+    "tStartMs": 1361490,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "you're gonna get infinity, not three."
+    } ]
+  }, {
+    "tStartMs": 1364100,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "So we have a contradiction"
+    } ]
+  }, {
+    "tStartMs": 1365480,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "and the only way out is\nif the Vitali set itself"
+    } ]
+  }, {
+    "tStartMs": 1369170,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "is unmeasurable, which seems crazy."
+    } ]
+  }, {
+    "tStartMs": 1374210,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Non-measurable sets like the\nVitali set have no consistent"
+    } ]
+  }, {
+    "tStartMs": 1377660,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "definition of size or length\nor area or even probability."
+    } ]
+  }, {
+    "tStartMs": 1382070,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "But math is built on the idea"
+    } ]
+  }, {
+    "tStartMs": 1383810,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "that everything can be\nquantified, whether it's distance,"
+    } ]
+  }, {
+    "tStartMs": 1386870,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "time, or weight, except now\nthere are non-measurable sets"
+    } ]
+  }, {
+    "tStartMs": 1391490,
+    "dDurationMs": 3093,
+    "segs": [ {
+      "utf8": "and it seems like the axiom\nof choice is to blame."
+    } ]
+  }, {
+    "tStartMs": 1395480,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "This was just the start of the\nuproar caused by the axiom."
+    } ]
+  }, {
+    "tStartMs": 1399440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "In 1924, two mathematicians, Stefan Banach"
+    } ]
+  }, {
+    "tStartMs": 1402320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and Alfred Tarski used\nit to show something"
+    } ]
+  }, {
+    "tStartMs": 1404960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that looks like a magic trick."
+    } ]
+  }, {
+    "tStartMs": 1407240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "They proved you could\ntake a single solid ball"
+    } ]
+  }, {
+    "tStartMs": 1409880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and split it into just five pieces,"
+    } ]
+  }, {
+    "tStartMs": 1412280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and then by carefully rotating"
+    } ]
+  }, {
+    "tStartMs": 1414440,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "and moving those pieces,"
+    } ]
+  }, {
+    "tStartMs": 1415910,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you could reassemble them\ninto two balls each identical"
+    } ]
+  }, {
+    "tStartMs": 1419510,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to the one we started with,"
+    } ]
+  }, {
+    "tStartMs": 1421250,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and you could keep going"
+    } ]
+  }, {
+    "tStartMs": 1422660,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "until eventually you have\nan infinite number of balls,"
+    } ]
+  }, {
+    "tStartMs": 1426110,
+    "dDurationMs": 2343,
+    "segs": [ {
+      "utf8": "infinity all from one."
+    } ]
+  }, {
+    "tStartMs": 1429590,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "This sounds absurd,"
+    } ]
+  }, {
+    "tStartMs": 1431060,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "but we can actually see how\nit works by building a graph."
+    } ]
+  }, {
+    "tStartMs": 1436100,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Imagine you can move in four directions,"
+    } ]
+  }, {
+    "tStartMs": 1438770,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "up, down, left and right."
+    } ]
+  }, {
+    "tStartMs": 1440930,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "After taking a step, say to the left,"
+    } ]
+  }, {
+    "tStartMs": 1443600,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "you get the same four choices,\nup, down, left and right,"
+    } ]
+  }, {
+    "tStartMs": 1447380,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "but if you go to the right, you'll end up"
+    } ]
+  }, {
+    "tStartMs": 1449030,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "back where you started."
+    } ]
+  }, {
+    "tStartMs": 1450290,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So the only rule we're gonna have is"
+    } ]
+  }, {
+    "tStartMs": 1452300,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "that you can't immediately reverse a move,"
+    } ]
+  }, {
+    "tStartMs": 1455450,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and we'll keep repeating\nthis at every step,"
+    } ]
+  }, {
+    "tStartMs": 1457970,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "drawing each new line, half\nthe size of the previous one"
+    } ]
+  }, {
+    "tStartMs": 1461180,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "so it all fits on the screen."
+    } ]
+  }, {
+    "tStartMs": 1463640,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "If we keep going, we'll end up"
+    } ]
+  }, {
+    "tStartMs": 1465230,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "with this infinitely branching graph."
+    } ]
+  }, {
+    "tStartMs": 1468590,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Looking at our graph, we can\nbreak it into five sections."
+    } ]
+  }, {
+    "tStartMs": 1472310,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "There's the middle\nsection where we started,"
+    } ]
+  }, {
+    "tStartMs": 1474650,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and then there are four other sections"
+    } ]
+  }, {
+    "tStartMs": 1476600,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "that are all identical, just rotated."
+    } ]
+  }, {
+    "tStartMs": 1479750,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "So if we take this section to the left"
+    } ]
+  }, {
+    "tStartMs": 1481700,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and we move everything\none step to the right,"
+    } ]
+  }, {
+    "tStartMs": 1484400,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "the top part ends up here,\nthe bottom part here,"
+    } ]
+  }, {
+    "tStartMs": 1487340,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and the leftmost part here,"
+    } ]
+  }, {
+    "tStartMs": 1489380,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "then we've almost\nrecreated the entire graph."
+    } ]
+  }, {
+    "tStartMs": 1492830,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "The only thing we're\nmissing is this section,"
+    } ]
+  }, {
+    "tStartMs": 1495200,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "so let's add it back in,"
+    } ]
+  }, {
+    "tStartMs": 1497270,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "but we could have done the same thing"
+    } ]
+  }, {
+    "tStartMs": 1498860,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "in a completely different way\nby taking the bottom section"
+    } ]
+  }, {
+    "tStartMs": 1502040,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and moving it one step up."
+    } ]
+  }, {
+    "tStartMs": 1504350,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Now the leftmost part ends up\nhere, the rightmost part here"
+    } ]
+  }, {
+    "tStartMs": 1508250,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "and the bottom here."
+    } ]
+  }, {
+    "tStartMs": 1509630,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Again, we're just missing one section,"
+    } ]
+  }, {
+    "tStartMs": 1511400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "so let's add it back in."
+    } ]
+  }, {
+    "tStartMs": 1513200,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "But this means I can recreate\nthe entire original graph"
+    } ]
+  }, {
+    "tStartMs": 1516590,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "in two completely different ways."
+    } ]
+  }, {
+    "tStartMs": 1518990,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "We took one graph, split it into sections,"
+    } ]
+  }, {
+    "tStartMs": 1521750,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "shifted the sections, so the\nleft section went to the right"
+    } ]
+  }, {
+    "tStartMs": 1524360,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "and the down section up"
+    } ]
+  }, {
+    "tStartMs": 1526010,
+    "dDurationMs": 3573,
+    "segs": [ {
+      "utf8": "and somehow ended up with\ntwo identical copies."
+    } ]
+  }, {
+    "tStartMs": 1530810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "This is exactly what\nBanach and Tarski did,"
+    } ]
+  }, {
+    "tStartMs": 1533270,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "but with a ball, like our\ngraph, we again have four moves."
+    } ]
+  }, {
+    "tStartMs": 1537620,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "We can rotate the ball\nup, down, left or right,"
+    } ]
+  }, {
+    "tStartMs": 1541340,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "and again, our only rule is"
+    } ]
+  }, {
+    "tStartMs": 1542810,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "that we can't immediately reverse a move."
+    } ]
+  }, {
+    "tStartMs": 1545660,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "And to make sure we never\ncome back to the same point,"
+    } ]
+  }, {
+    "tStartMs": 1547970,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "every rotation will be"
+    } ]
+  }, {
+    "tStartMs": 1549230,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "by the same irrational\nportion of a circle."
+    } ]
+  }, {
+    "tStartMs": 1552950,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "We can pick a random\nstarting point, mark it"
+    } ]
+  }, {
+    "tStartMs": 1555830,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and then start rotating the ball."
+    } ]
+  }, {
+    "tStartMs": 1558620,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Each point is colored\nbased on the direction"
+    } ]
+  }, {
+    "tStartMs": 1561380,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "of rotation used to get there."
+    } ]
+  }, {
+    "tStartMs": 1564110,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "If we do this an infinite\nnumber of times, we end up"
+    } ]
+  }, {
+    "tStartMs": 1567410,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "with this collection of points."
+    } ]
+  }, {
+    "tStartMs": 1569930,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "This is a countably infinite collection"
+    } ]
+  }, {
+    "tStartMs": 1572270,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "because we could list each rotation"
+    } ]
+  }, {
+    "tStartMs": 1574190,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and assign it a natural number,"
+    } ]
+  }, {
+    "tStartMs": 1576620,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "but the surface of a ball has\nuncountably infinite points"
+    } ]
+  }, {
+    "tStartMs": 1580130,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "just like the real number line."
+    } ]
+  }, {
+    "tStartMs": 1581990,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So if we want to cover the\nentire surface, we would need"
+    } ]
+  }, {
+    "tStartMs": 1585230,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "to repeat this process,\nbut where do we start next?"
+    } ]
+  }, {
+    "tStartMs": 1589430,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Since there are uncountably\ninfinite possible"
+    } ]
+  }, {
+    "tStartMs": 1591650,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "starting points, we can't list them all"
+    } ]
+  }, {
+    "tStartMs": 1594530,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and we wanna be sure to avoid any points"
+    } ]
+  }, {
+    "tStartMs": 1596720,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "we've already colored."
+    } ]
+  }, {
+    "tStartMs": 1598340,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So the solution is to\nuse the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 1601970,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "With it, we can choosing\nunique starting points,"
+    } ]
+  }, {
+    "tStartMs": 1605090,
+    "dDurationMs": 3483,
+    "segs": [ {
+      "utf8": "even though we can't say exactly\nhow we are choosing them."
+    } ]
+  }, {
+    "tStartMs": 1609650,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Once we've colored\nevery point on the ball,"
+    } ]
+  }, {
+    "tStartMs": 1611840,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "we can split the points into five groups,"
+    } ]
+  }, {
+    "tStartMs": 1614210,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "one for the starting points"
+    } ]
+  }, {
+    "tStartMs": 1615860,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and four others based on\nthe final rotation used"
+    } ]
+  }, {
+    "tStartMs": 1618800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "to arrive at those points."
+    } ]
+  }, {
+    "tStartMs": 1620900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "These groups can now be treated"
+    } ]
+  }, {
+    "tStartMs": 1622520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "just like the sections of our graph."
+    } ]
+  }, {
+    "tStartMs": 1624620,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "We can take the group of points that end"
+    } ]
+  }, {
+    "tStartMs": 1626150,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "with a left rotation and\nrotate it to the right."
+    } ]
+  }, {
+    "tStartMs": 1629120,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Then we add in the group that\nends with a right rotation,"
+    } ]
+  }, {
+    "tStartMs": 1632540,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "and just like that, we've\nrecreated our original ball"
+    } ]
+  }, {
+    "tStartMs": 1636950,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and we can do it again making\nan extra move to account"
+    } ]
+  }, {
+    "tStartMs": 1639770,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "for the starting points."
+    } ]
+  }, {
+    "tStartMs": 1640940,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "We can equally take the group\nthat ends with a down rotation"
+    } ]
+  }, {
+    "tStartMs": 1644180,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "and rotate it upwards."
+    } ]
+  }, {
+    "tStartMs": 1645740,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Then we add in the group\nthat ends with an up rotation"
+    } ]
+  }, {
+    "tStartMs": 1648860,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "and our starting points,"
+    } ]
+  }, {
+    "tStartMs": 1650510,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "and now we've recreated our\noriginal ball a second time."
+    } ]
+  }, {
+    "tStartMs": 1655460,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Now, this is a bit of\nan oversimplification,"
+    } ]
+  }, {
+    "tStartMs": 1657530,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "but it gives you the\nessence of how this is done."
+    } ]
+  }, {
+    "tStartMs": 1660620,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "From one ball, we have\ncreated two identical balls"
+    } ]
+  }, {
+    "tStartMs": 1663460,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "of the same volume,"
+    } ]
+  }, {
+    "tStartMs": 1665090,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and nothing stops us\nfrom doing this again."
+    } ]
+  }, {
+    "tStartMs": 1667250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Two balls can become\nfour, four become eight,"
+    } ]
+  }, {
+    "tStartMs": 1669650,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "and before you know it,\nyou've got infinite balls."
+    } ]
+  }, {
+    "tStartMs": 1673490,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "- The axiom of choice is\nsomething that's so obviously true"
+    } ]
+  }, {
+    "tStartMs": 1676910,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and it's consequences\nare so obviously false"
+    } ]
+  }, {
+    "tStartMs": 1680330,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "that you're like, what\nthe hell is going on?"
+    } ]
+  }, {
+    "tStartMs": 1682910,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "- This infinite duplication\nis theoretically possible,"
+    } ]
+  }, {
+    "tStartMs": 1686420,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "but the catch is the groups\nwe split the ball into"
+    } ]
+  }, {
+    "tStartMs": 1689330,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "aren't simple shapes."
+    } ]
+  }, {
+    "tStartMs": 1690920,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "They're actually non-measurable,\njust like the Vitali set,"
+    } ]
+  }, {
+    "tStartMs": 1694100,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "although the original ball has a volume"
+    } ]
+  }, {
+    "tStartMs": 1695990,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and the duplicated balls have a volume,"
+    } ]
+  }, {
+    "tStartMs": 1698300,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "the step in between violates\nour understanding of size."
+    } ]
+  }, {
+    "tStartMs": 1702230,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "This is what allows the paradox to happen."
+    } ]
+  }, {
+    "tStartMs": 1706340,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "- Of course, those are not\nphysically plausible cuts,"
+    } ]
+  }, {
+    "tStartMs": 1709550,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "but like there's a more\nmeta physical question like,"
+    } ]
+  }, {
+    "tStartMs": 1713480,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "should this even remotely be possible"
+    } ]
+  }, {
+    "tStartMs": 1714980,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "if we could make such cuts?"
+    } ]
+  }, {
+    "tStartMs": 1716810,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "And the answer to almost\nevery human I know"
+    } ]
+  }, {
+    "tStartMs": 1718670,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "is absolutely not."
+    } ]
+  }, {
+    "tStartMs": 1720440,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "- The truth is no one\nknew what was going on."
+    } ]
+  }, {
+    "tStartMs": 1723710,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "That same year, Tarski\ntried to push the axiom"
+    } ]
+  }, {
+    "tStartMs": 1726410,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of choice further proving it\nis equivalent to the statement"
+    } ]
+  }, {
+    "tStartMs": 1729650,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "that squaring any infinite set\nwould not increase its size."
+    } ]
+  }, {
+    "tStartMs": 1734600,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "When Tarski first submitted\nthis work to a journal in Paris,"
+    } ]
+  }, {
+    "tStartMs": 1737810,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "the editor Lebesgue\nresponded dismissively,"
+    } ]
+  }, {
+    "tStartMs": 1740720,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "nobody's interested in the equivalence"
+    } ]
+  }, {
+    "tStartMs": 1742610,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "between two false statements."
+    } ]
+  }, {
+    "tStartMs": 1745190,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Not to be deterred, Tarski\nsent it to a different editor"
+    } ]
+  }, {
+    "tStartMs": 1748220,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "at the same journal, Freche, his response,"
+    } ]
+  }, {
+    "tStartMs": 1752000,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "nobody's interested in the equivalence"
+    } ]
+  }, {
+    "tStartMs": 1753740,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "of two obviously true statements."
+    } ]
+  }, {
+    "tStartMs": 1757010,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "Tarski never submitted\na paper there again."
+    } ]
+  }, {
+    "tStartMs": 1760760,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "So math was in crisis for over 30 years"
+    } ]
+  }, {
+    "tStartMs": 1764210,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "with people not knowing what to believe."
+    } ]
+  }, {
+    "tStartMs": 1767180,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "- The question is, wait a\nsecond, is this really an axiom"
+    } ]
+  }, {
+    "tStartMs": 1770150,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "or is this something that you can prove?"
+    } ]
+  }, {
+    "tStartMs": 1772850,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "- In 1938, we finally\nstarted getting some answers."
+    } ]
+  }, {
+    "tStartMs": 1777380,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "The Austrian mathematician, Kurt Godel,"
+    } ]
+  }, {
+    "tStartMs": 1779510,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "proved there is a world all\nthe other already accepted"
+    } ]
+  }, {
+    "tStartMs": 1782900,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "axioms of set theory hold true,"
+    } ]
+  }, {
+    "tStartMs": 1785090,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and so does the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 1787940,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Then in 1963, Paul Cohen\nproved there's also a world"
+    } ]
+  }, {
+    "tStartMs": 1792200,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "where all the axioms\nof set theory hold true"
+    } ]
+  }, {
+    "tStartMs": 1794750,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "except for the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 1797840,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "This is kind of like the\nparallel postulate in geometry."
+    } ]
+  }, {
+    "tStartMs": 1801500,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You can think of geometry as a game."
+    } ]
+  }, {
+    "tStartMs": 1803780,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "The first four postulates"
+    } ]
+  }, {
+    "tStartMs": 1805220,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "or axioms are like the\nminimum rules required to play"
+    } ]
+  }, {
+    "tStartMs": 1808520,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "that game, and then the fifth axiom"
+    } ]
+  }, {
+    "tStartMs": 1810950,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "selects the universe\nthat you wanna play in."
+    } ]
+  }, {
+    "tStartMs": 1813800,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "If you choose that the\nfifth axiom doesn't hold,"
+    } ]
+  }, {
+    "tStartMs": 1816260,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "so there are no parallel lines,"
+    } ]
+  }, {
+    "tStartMs": 1818270,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "then you're playing in spherical geometry."
+    } ]
+  }, {
+    "tStartMs": 1821000,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "If you choose one parallel line,"
+    } ]
+  }, {
+    "tStartMs": 1822860,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "you're playing in flat geometry,"
+    } ]
+  }, {
+    "tStartMs": 1824900,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and if you choose more\nthan one parallel line,"
+    } ]
+  }, {
+    "tStartMs": 1827060,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "then you're playing in\nhyperbolic geometry."
+    } ]
+  }, {
+    "tStartMs": 1829970,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "All of these geometries are valid."
+    } ]
+  }, {
+    "tStartMs": 1832130,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "It just depends on the\nmath you want to do,"
+    } ]
+  }, {
+    "tStartMs": 1836060,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and it's the same for the axiom of choice."
+    } ]
+  }, {
+    "tStartMs": 1838910,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "The axiom of choice can neither be proven"
+    } ]
+  }, {
+    "tStartMs": 1841070,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "nor disproven from the other axioms."
+    } ]
+  }, {
+    "tStartMs": 1843710,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So as long as the other\naxioms are consistent,"
+    } ]
+  }, {
+    "tStartMs": 1846530,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "adding choice won't lead\nto any contradictions."
+    } ]
+  }, {
+    "tStartMs": 1849740,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Paul Cohen was awarded the\nFields Medal three years later"
+    } ]
+  }, {
+    "tStartMs": 1852650,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "for his groundbreaking result,"
+    } ]
+  }, {
+    "tStartMs": 1854300,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "as well as his other work in\nset theory, and after Godel"
+    } ]
+  }, {
+    "tStartMs": 1858320,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and Cohen's work, most of the debates"
+    } ]
+  }, {
+    "tStartMs": 1860150,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "about the axiom of choice died down."
+    } ]
+  }, {
+    "tStartMs": 1862970,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- In the end, what the hell\nis going on is that it's up"
+    } ]
+  }, {
+    "tStartMs": 1865070,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "to you whether you want to\nchoose for the axiom of choice"
+    } ]
+  }, {
+    "tStartMs": 1868430,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "to be a part of your system or not,"
+    } ]
+  }, {
+    "tStartMs": 1871760,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "and face the consequences"
+    } ]
+  }, {
+    "tStartMs": 1873230,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "of either having it or not having it."
+    } ]
+  }, {
+    "tStartMs": 1875600,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "- Despite the counterintuitive\nresults created"
+    } ]
+  }, {
+    "tStartMs": 1877790,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "by the axiom of choice,\nlike non-measurable sets"
+    } ]
+  }, {
+    "tStartMs": 1880340,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and infinite duplication,"
+    } ]
+  }, {
+    "tStartMs": 1882170,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "it is incredibly useful,\nchoice allows mathematicians"
+    } ]
+  }, {
+    "tStartMs": 1885890,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to replace lengthy explicit proofs"
+    } ]
+  }, {
+    "tStartMs": 1888110,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "with more concise arguments."
+    } ]
+  }, {
+    "tStartMs": 1890630,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "By proving statements in the finite case,"
+    } ]
+  }, {
+    "tStartMs": 1892700,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "many proofs can be extended"
+    } ]
+  }, {
+    "tStartMs": 1894080,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "to any infinite case in just one line."
+    } ]
+  }, {
+    "tStartMs": 1897620,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "This reduces proofs that\ncould have been 20 pages"
+    } ]
+  }, {
+    "tStartMs": 1900050,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "to just half a page."
+    } ]
+  }, {
+    "tStartMs": 1902450,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And the axiom of choice\ndoesn't just make math easier."
+    } ]
+  }, {
+    "tStartMs": 1905270,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It is essential to some proofs."
+    } ]
+  }, {
+    "tStartMs": 1907430,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "There are many theorems\nwhere the general case"
+    } ]
+  }, {
+    "tStartMs": 1909500,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "can't be proven without\nusing choice somewhere."
+    } ]
+  }, {
+    "tStartMs": 1913160,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Now, some mathematicians still\nprefer proofs without choice,"
+    } ]
+  }, {
+    "tStartMs": 1916700,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "even if it's harder,"
+    } ]
+  }, {
+    "tStartMs": 1917900,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "the proof has to be spelled\nout step by step to generalize"
+    } ]
+  }, {
+    "tStartMs": 1921410,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "to infinite cases, and this\nprovides additional information."
+    } ]
+  }, {
+    "tStartMs": 1925010,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Some mathematicians spend\ntheir time studying universes"
+    } ]
+  }, {
+    "tStartMs": 1927860,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "without the axiom of choice to understand"
+    } ]
+  }, {
+    "tStartMs": 1930500,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "what happens when we remove it."
+    } ]
+  }, {
+    "tStartMs": 1932630,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "But today, the axiom of choice"
+    } ]
+  }, {
+    "tStartMs": 1934490,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "is almost universally accepted."
+    } ]
+  }, {
+    "tStartMs": 1937580,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "For the past 80 plus years,\ngenerations of mathematicians"
+    } ]
+  }, {
+    "tStartMs": 1940850,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "have been taught with choice as a given"
+    } ]
+  }, {
+    "tStartMs": 1943400,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "to the point where many\nwho use the axiom of choice"
+    } ]
+  }, {
+    "tStartMs": 1946130,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "might not even realize\nwhen they're doing it."
+    } ]
+  }, {
+    "tStartMs": 1948860,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "- If you don't include\nthe axiom of choice,"
+    } ]
+  }, {
+    "tStartMs": 1950330,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "then you're kind of working"
+    } ]
+  }, {
+    "tStartMs": 1951163,
+    "dDurationMs": 1537,
+    "segs": [ {
+      "utf8": "with both hands tied behind your back."
+    } ]
+  }, {
+    "tStartMs": 1952700,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "It's very hard to make any\nprogress on modern math."
+    } ]
+  }, {
+    "tStartMs": 1956390,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "- So the question was never really"
+    } ]
+  }, {
+    "tStartMs": 1958910,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "is the axiom of choice right?"
+    } ]
+  }, {
+    "tStartMs": 1960950,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But rather is the axiom of choice right"
+    } ]
+  }, {
+    "tStartMs": 1963830,
+    "dDurationMs": 2092,
+    "segs": [ {
+      "utf8": "for what you want to do?"
+    } ]
+  }, {
+    "tStartMs": 1965922,
+    "dDurationMs": 2571,
+    "segs": [ {
+      "utf8": "(frequencies buzzing)"
+    } ]
+  }, {
+    "tStartMs": 1968493,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "(bright music)"
+    } ]
+  } ]
+}

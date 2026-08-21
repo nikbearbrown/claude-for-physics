@@ -1,0 +1,241 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 170,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Today we're going to count infinity."
+    } ]
+  }, {
+    "tStartMs": 1810,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Now counting may seem elementary, like, when\nwe say that we have five sheep, what we mean"
+    } ]
+  }, {
+    "tStartMs": 5180,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "is that we have one sheep for every number\nfrom one to five."
+    } ]
+  }, {
+    "tStartMs": 7410,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And ten sheep means one for every number from\none to ten… or two to eleven."
+    } ]
+  }, {
+    "tStartMs": 10010,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So we say that two sets have the same number\nof things in them, simply if you can draw"
+    } ]
+  }, {
+    "tStartMs": 12830,
+    "dDurationMs": 4449,
+    "segs": [ {
+      "utf8": "a line relating every item in one set to something\nin the other, and vice versa, exactly once."
+    } ]
+  }, {
+    "tStartMs": 17279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They're partners!"
+    } ]
+  }, {
+    "tStartMs": 18279,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "It's the same when we say that two plus one\nequals three, or three doesn't equal four:"
+    } ]
+  }, {
+    "tStartMs": 22120,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "we're just describing the lines you draw to\nrelate one set of things to another."
+    } ]
+  }, {
+    "tStartMs": 25340,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "But either way, counting sheep is boring,\nthat is, unless you want to count INFINITELY"
+    } ]
+  }, {
+    "tStartMs": 29310,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "many sheep."
+    } ]
+  }, {
+    "tStartMs": 30310,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "Like, if you had a sheep for every number\nbetween 0 and 2, would that be more sheep"
+    } ]
+  }, {
+    "tStartMs": 33949,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "than if you had one for every number between\n0 and 1?"
+    } ]
+  }, {
+    "tStartMs": 36590,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Nope!"
+    } ]
+  }, {
+    "tStartMs": 37590,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "Because you can relate every number between\n0 and 1 to its double, giving you every number"
+    } ]
+  }, {
+    "tStartMs": 40589,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "between 0 and 2 (and if you want to \"undo,\"\nyou can just divide every number between 0"
+    } ]
+  }, {
+    "tStartMs": 44289,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and 2 in half to get back all the numbers\nbetween 0 and 1)."
+    } ]
+  }, {
+    "tStartMs": 47019,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "But there are more real numbers between 0\nand 1 than there are in the infinite set of"
+    } ]
+  }, {
+    "tStartMs": 50679,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "integers 1, 2, 3, 4, and so on."
+    } ]
+  }, {
+    "tStartMs": 53320,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "How on earth do we know that?"
+    } ]
+  }, {
+    "tStartMs": 54780,
+    "dDurationMs": 1109,
+    "segs": [ {
+      "utf8": "Just draw some lines."
+    } ]
+  }, {
+    "tStartMs": 55889,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "For \"1\", draw a line to a number between 0\nand 1."
+    } ]
+  }, {
+    "tStartMs": 58449,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "And for \"2\", draw a line to another number\nbetween zero and one."
+    } ]
+  }, {
+    "tStartMs": 61350,
+    "dDurationMs": 2009,
+    "segs": [ {
+      "utf8": "For \"3\", draw a line to a number between..."
+    } ]
+  }, {
+    "tStartMs": 63359,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "zero and one."
+    } ]
+  }, {
+    "tStartMs": 64489,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And so on."
+    } ]
+  }, {
+    "tStartMs": 65489,
+    "dDurationMs": 2821,
+    "segs": [ {
+      "utf8": "BUT, no matter what numbers between 0 and\n1 that we've drawn lines to, we can always"
+    } ]
+  }, {
+    "tStartMs": 68310,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "write down a number between 0 and 1 that disagrees\nwith the first digit here, and the second"
+    } ]
+  }, {
+    "tStartMs": 72130,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "digit here, and the third digit here, and\nso on… so this new number will be different"
+    } ]
+  }, {
+    "tStartMs": 75950,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "from ALL of the other numbers we've drawn\nlines to."
+    } ]
+  }, {
+    "tStartMs": 78090,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But we've already drawn a line from every\ninteger, so there's no one left to be this"
+    } ]
+  }, {
+    "tStartMs": 81090,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "number's partner!"
+    } ]
+  }, {
+    "tStartMs": 82090,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "What's more, because of the clever way we\nbuilt it, we can find an extra, lonely number"
+    } ]
+  }, {
+    "tStartMs": 84070,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "like this no matter what other numbers we\npicked, which means we can NEVER draw lines"
+    } ]
+  }, {
+    "tStartMs": 87590,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "from the integers to all of the numbers between\n0 and 1 with only one line per integer…"
+    } ]
+  }, {
+    "tStartMs": 90159,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "And this means that there really are more\nreal numbers between 0 and 1 than there are"
+    } ]
+  }, {
+    "tStartMs": 93460,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "in the infinite set of counting numbers 1,\n2, 3, 4, and so on forever."
+    } ]
+  }, {
+    "tStartMs": 97329,
+    "dDurationMs": 16180,
+    "segs": [ {
+      "utf8": "So, Hazel Grace, some infinities truly are\nbigger than other infinities."
+    } ]
+  } ]
+}

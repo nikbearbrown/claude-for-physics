@@ -1,0 +1,349 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 12630,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "In our universe, when you change from a non-moving\nperspective to a moving one, or vice versa,"
+    } ]
+  }, {
+    "tStartMs": 17480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "that change of perspective is represented\nby a what's called Lorentz transformation,"
+    } ]
+  }, {
+    "tStartMs": 21360,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "which is a kind of squeeze-stretch rotation\nof spacetime that I've mechanically implemented"
+    } ]
+  }, {
+    "tStartMs": 25450,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "with this spacetime globe."
+    } ]
+  }, {
+    "tStartMs": 27180,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "A quick reminder - spacetime diagrams plot\nposition on the horizontal axis and time on"
+    } ]
+  }, {
+    "tStartMs": 32220,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the vertical axis, and something moving as\ntime passes traces out a path through spacetime"
+    } ]
+  }, {
+    "tStartMs": 37180,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "called a worldline."
+    } ]
+  }, {
+    "tStartMs": 38180,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "One of the first things you might notice about\nLorentz transformations is that events that"
+    } ]
+  }, {
+    "tStartMs": 41890,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "were at different places at the same time\nbefore the transformation aren't at the same"
+    } ]
+  }, {
+    "tStartMs": 46390,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "time after the transformation."
+    } ]
+  }, {
+    "tStartMs": 48810,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "This means that from the perspectives of people\ngoing different speeds, simultaneous events"
+    } ]
+  }, {
+    "tStartMs": 52880,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "for one person won't be simultaneous for the\nother, and vice versa."
+    } ]
+  }, {
+    "tStartMs": 56520,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "For example, if from my perspective these\ntwo boxes spontaneously combust at the same"
+    } ]
+  }, {
+    "tStartMs": 61170,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "time, and you're moving at a third the speed\nof light to my right, then from your perspective,"
+    } ]
+  }, {
+    "tStartMs": 65750,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "that is, the perpective from which you're\nnot moving so your worldline is purely vertical,"
+    } ]
+  }, {
+    "tStartMs": 69830,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "from your perspective the box on the right\nwill combust first, and the box on the left"
+    } ]
+  }, {
+    "tStartMs": 73810,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "will combust second."
+    } ]
+  }, {
+    "tStartMs": 75500,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "The takeaway here is that our universe has\nneither an absolute notion of time nor an"
+    } ]
+  }, {
+    "tStartMs": 79799,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "absolute sense of simultaneous events, and\nthat simultaneity breaks down more the farther"
+    } ]
+  }, {
+    "tStartMs": 84619,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "away from each other two things are – a\nbox even farther to the left that from my"
+    } ]
+  }, {
+    "tStartMs": 88439,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "perspective simultaneously spontaneously combusts\nwith the others will, from your moving perspective,"
+    } ]
+  }, {
+    "tStartMs": 94009,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "be even farther out of sync with the box on\nthe right."
+    } ]
+  }, {
+    "tStartMs": 96810,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": "This is described by the time part of the\nLorentz Transformation equations, the part"
+    } ]
+  }, {
+    "tStartMs": 101039,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "that says t new = gamma times t minus v times\nx over c squared)."
+    } ]
+  }, {
+    "tStartMs": 106609,
+    "dDurationMs": 3991,
+    "segs": [ {
+      "utf8": "Because of the x in there, the farther away\nan event is from you, the more its time from"
+    } ]
+  }, {
+    "tStartMs": 110600,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "the new perspective will be out of sync with\nevents closer to you."
+    } ]
+  }, {
+    "tStartMs": 113810,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": "Though because of the factor of c squared\nin the denominator, which is huge, it's hard"
+    } ]
+  }, {
+    "tStartMs": 118039,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "to notice anything being out of sync until\neither your speed or distance to the object"
+    } ]
+  }, {
+    "tStartMs": 121810,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "in question are really really really big – like,\nyou'd have to be going half the speed of light"
+    } ]
+  }, {
+    "tStartMs": 125439,
+    "dDurationMs": 3781,
+    "segs": [ {
+      "utf8": "and be comparing things farther apart than\nthe earth and moon before things would become"
+    } ]
+  }, {
+    "tStartMs": 129220,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "more than 1 second out of sync."
+    } ]
+  }, {
+    "tStartMs": 130990,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But in that case, events that were simultaneous\nfrom my perspective really would be out of"
+    } ]
+  }, {
+    "tStartMs": 134830,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "sync for you!"
+    } ]
+  }, {
+    "tStartMs": 136330,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "As surprising as this may seem, it might feel\nmore familiar and comfortable when you remember"
+    } ]
+  }, {
+    "tStartMs": 140230,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "that this “getting out of alignment” phenomenon\nhappens to points at the same place in space,"
+    } ]
+  }, {
+    "tStartMs": 144430,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "too, which is literally what we think of as\ndefining motion – from my perspective, this"
+    } ]
+  }, {
+    "tStartMs": 146591,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "box is at the same position at different times\n– that is, it's not moving; maybe, “simulspacious”–"
+    } ]
+  }, {
+    "tStartMs": 150560,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "but from your moving perspective it's at different\npositions at different times – it is moving."
+    } ]
+  }, {
+    "tStartMs": 155790,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Relativity of simultaneity is just the other\nside of the coin – the fact that events"
+    } ]
+  }, {
+    "tStartMs": 160480,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "that happen at the same time at different\nspatial positions happen at different times"
+    } ]
+  }, {
+    "tStartMs": 164810,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "when viewed from a moving perspective."
+    } ]
+  }, {
+    "tStartMs": 166810,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "All together, in our universe, the takeaway\nis this: events that were previously either"
+    } ]
+  }, {
+    "tStartMs": 170860,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "all at the same place or all at the same time\nget out of alignment with each other when"
+    } ]
+  }, {
+    "tStartMs": 175490,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "you change to a moving perspective."
+    } ]
+  }, {
+    "tStartMs": 177670,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "A big thanks again to Mark Rober for making\nthe spacetime globe a reality, and to dive"
+    } ]
+  }, {
+    "tStartMs": 183640,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "more into the details of relativity of simultaneity,\nI highly recommend heading over to Brilliant.org's"
+    } ]
+  }, {
+    "tStartMs": 188870,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "course on special relativity that they've\nbeen developing simultaneously with this video"
+    } ]
+  }, {
+    "tStartMs": 192840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "series (well, at least, simultaneous from\nmy perspective)."
+    } ]
+  }, {
+    "tStartMs": 195960,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "There, you can explore custom scenarios and\ndo actual puzzles and problems that help you"
+    } ]
+  }, {
+    "tStartMs": 200580,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "build on what you learned in this video, like\nfiguring out how laser tag would work at relativistic"
+    } ]
+  }, {
+    "tStartMs": 205230,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "speeds!"
+    } ]
+  }, {
+    "tStartMs": 206230,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "The special relativity questions on Brilliant.org\nare specifically designed to help you go deeper"
+    } ]
+  }, {
+    "tStartMs": 210190,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "on the topics I'm including in this series,\nand you can get 20% off of a Brilliant subscription"
+    } ]
+  }, {
+    "tStartMs": 214430,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "by going to Brilliant.org/minutephysics."
+    } ]
+  }, {
+    "tStartMs": 216510,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Again, that’s Brilliant.org/minutephysics\nwhich gets you 20% off premium access to all"
+    } ]
+  }, {
+    "tStartMs": 221710,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "of Brilliant's courses and puzzles, and lets\nBrilliant know you came from here."
+    } ]
+  } ]
+}

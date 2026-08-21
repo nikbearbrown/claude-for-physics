@@ -1,0 +1,1123 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 190,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "The Standard Model of particle physics is\narguably the most successful theory in the"
+    } ]
+  }, {
+    "tStartMs": 4120,
+    "dDurationMs": 5429,
+    "segs": [ {
+      "utf8": "history of physics. It predicts the results\nof experiments with a numerical precision"
+    } ]
+  }, {
+    "tStartMs": 9549,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "unmatched by any other branch of science, and it does so almost unfailingly. The theory"
+    } ]
+  }, {
+    "tStartMs": 15599,
+    "dDurationMs": 3581,
+    "segs": [ {
+      "utf8": "is encapsulated in a single equation known as"
+    } ]
+  }, {
+    "tStartMs": 19180,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "The Standard Model Lagrangian. It's probably the second most famous equation in physics,"
+    } ]
+  }, {
+    "tStartMs": 25000,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "next to good ol’ E=mc^2."
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "The latter’s popularity is aided by its\nbrevity and elegance. No problem getting it"
+    } ]
+  }, {
+    "tStartMs": 33670,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "on a coffee mug."
+    } ]
+  }, {
+    "tStartMs": 34789,
+    "dDurationMs": 5221,
+    "segs": [ {
+      "utf8": "But to fit the standard model lagrangian on a coffee mug you need to condense it massively."
+    } ]
+  }, {
+    "tStartMs": 40010,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "In its full glory it is neither brief\nnor elegant. And yet this monstrosity is far"
+    } ]
+  }, {
+    "tStartMs": 46210,
+    "dDurationMs": 6881,
+    "segs": [ {
+      "utf8": "more important than E=MC2. It represents our best understanding of the entire subatomic world. "
+    } ]
+  }, {
+    "tStartMs": 53091,
+    "dDurationMs": 3618,
+    "segs": [ {
+      "utf8": "Today we’re going to explain the entire thing."
+    } ]
+  }, {
+    "tStartMs": 62239,
+    "dDurationMs": 5081,
+    "segs": [ {
+      "utf8": "We have been laying the groundwork for this episode for a while now, with episodes on"
+    } ]
+  }, {
+    "tStartMs": 67320,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "all of the individual components of the Standard Model. We finally have what we need to bring"
+    } ]
+  }, {
+    "tStartMs": 72610,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "it together. Let’s start by recalling how\nthe standard model itself got started. One"
+    } ]
+  }, {
+    "tStartMs": 78460,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "of the most important founding insights was the idea that the symmetries of nature give"
+    } ]
+  }, {
+    "tStartMs": 83350,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "rise to the fundamental forces. Gauge invariance says that the laws of physics should not care"
+    } ]
+  }, {
+    "tStartMs": 90210,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "how certain properties of the world are defined or measured."
+    } ]
+  }, {
+    "tStartMs": 93610,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "For example, if we insist that the phase of\nthe quantum wavefunction is fundamentally"
+    } ]
+  }, {
+    "tStartMs": 99190,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "unmeasurable, then we need to add a term to the Schrodinger equation to make that the"
+    } ]
+  }, {
+    "tStartMs": 104220,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "case. That term turns out to be the electromagnetic field."
+    } ]
+  }, {
+    "tStartMs": 108450,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "So electromagnetism can be explained as being due to the fact that the universe has this"
+    } ]
+  }, {
+    "tStartMs": 113830,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "particular rather simple symmetry - which\nwe call a U(1) symmetry. That incredible success"
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "led many physicists over the following decades to try to explain the other forces of nature"
+    } ]
+  }, {
+    "tStartMs": 126290,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "in terms of gauge symmetries. And they succeeded. The weak interaction arises from a slightly"
+    } ]
+  }, {
+    "tStartMs": 132840,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "more complicated SU(2) symmetry, while the strong interaction is a consequence of the"
+    } ]
+  }, {
+    "tStartMs": 138640,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "rather more complex SU(3)."
+    } ]
+  }, {
+    "tStartMs": 141120,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "These symmetries also come from the fact that the wavefunction can be distorted in different"
+    } ]
+  }, {
+    "tStartMs": 146920,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "ways that have no effect on the laws of nature. It’s just not as straightforward to say"
+    } ]
+  }, {
+    "tStartMs": 152260,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "exactly what is being distorted, as it is\nwith the phase invariance of U(1). You may"
+    } ]
+  }, {
+    "tStartMs": 157850,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "have noticed I skipped gravity. We’re still\nworking on that one, although it may have"
+    } ]
+  }, {
+    "tStartMs": 163380,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "nothing to do with symmetries at all."
+    } ]
+  }, {
+    "tStartMs": 165660,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "It’s a nice idea for all the forces of nature\nto arise from the same underlying mechanism."
+    } ]
+  }, {
+    "tStartMs": 171500,
+    "dDurationMs": 6910,
+    "segs": [ {
+      "utf8": "But how do you go from that to actual equations describing how the forces behave? And how"
+    } ]
+  }, {
+    "tStartMs": 178410,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "do you wrap it all up in a single equation\nthat is the Standard Model Lagrangian? The"
+    } ]
+  }, {
+    "tStartMs": 183890,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "key is this Lagrangian thing, so let’s talk\nabout it."
+    } ]
+  }, {
+    "tStartMs": 187910,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "This is all possible due to an extremely powerful concept in physics called the Principle of"
+    } ]
+  }, {
+    "tStartMs": 193530,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Least Action, which we’ve talked about in\ndetail. It says that Nature will always try"
+    } ]
+  }, {
+    "tStartMs": 198500,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "to follow the path that minimizes rate of\nchange of a certain quantity called the Action."
+    } ]
+  }, {
+    "tStartMs": 204280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "This tendency can be used\nto figure out how pretty much any process"
+    } ]
+  }, {
+    "tStartMs": 208600,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "will play out - whether we’re calculating\nthe path traveled by a ball through the air"
+    } ]
+  }, {
+    "tStartMs": 212980,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "or the probability that two quantum particles will interact."
+    } ]
+  }, {
+    "tStartMs": 216220,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "The Lagrangian is the part of this action quantity that we actually work with. We can"
+    } ]
+  }, {
+    "tStartMs": 221620,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "think of it as the distance an object or system travels through the space of all possible quantum"
+    } ]
+  }, {
+    "tStartMs": 227690,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "states. For classical physics it simplifies\nto just Kinetic Energy minus Potential Energy."
+    } ]
+  }, {
+    "tStartMs": 234860,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "If we plug the Lagrangian of a system into\nthe Euler-Lagrange equation and the result"
+    } ]
+  }, {
+    "tStartMs": 240690,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "will be equations describing how that system will move and change over time."
+    } ]
+  }, {
+    "tStartMs": 245400,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "There are other ways to get these equations of motion, but Lagrangian is especially powerful"
+    } ]
+  }, {
+    "tStartMs": 251830,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "because of how it respects symmetries. If the system that we are studying has a certain symmetry"
+    } ]
+  }, {
+    "tStartMs": 258170,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "then the Lagrangian will have that symmetry too. And by applying the principle of least"
+    } ]
+  }, {
+    "tStartMs": 262940,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "action to a Lagrangian with a continuous symmetry will reveal the existence of a conserved quantity"
+    } ]
+  }, {
+    "tStartMs": 269980,
+    "dDurationMs": 6352,
+    "segs": [ {
+      "utf8": "like energy or momentum. And this is Noether's Theorem, and we also have an episode about that."
+    } ]
+  }, {
+    "tStartMs": 276332,
+    "dDurationMs": 4198,
+    "segs": [ {
+      "utf8": "So it seems like it might be a good idea to figure out the Lagrangian for a wavefunction"
+    } ]
+  }, {
+    "tStartMs": 280530,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "that has our symmetries of interest. And that is exactly what the Standard Model Lagrangian is. "
+    } ]
+  }, {
+    "tStartMs": 287870,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "I’m obliged to point out that this is technically not a Lagrangian, but rather a Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 293120,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "Density, which is like the building block\nof a Lagrangian. To get the real Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 297990,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "that describes the behavior of particles in\na certain volume, we have to add up infinitely"
+    } ]
+  }, {
+    "tStartMs": 302889,
+    "dDurationMs": 5671,
+    "segs": [ {
+      "utf8": "many Lagrangian Densities over that volume. Although in practice everyone calls Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 308560,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Densities \"Lagrangians.\""
+    } ]
+  }, {
+    "tStartMs": 311130,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "The Standard Model Lagrangian is … complicated. It has several different terms that each account"
+    } ]
+  }, {
+    "tStartMs": 316990,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "for different ways the particles of both matter and force interact. And each of these terms"
+    } ]
+  }, {
+    "tStartMs": 323240,
+    "dDurationMs": 7239,
+    "segs": [ {
+      "utf8": "is actually short-hand for a lot of other stuff. Before we dive into what all this means,"
+    } ]
+  }, {
+    "tStartMs": 330479,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "let’s go over what it has to describe - namely, the particles of the standard model and their"
+    } ]
+  }, {
+    "tStartMs": 335169,
+    "dDurationMs": 2131,
+    "segs": [ {
+      "utf8": "interactions with each other."
+    } ]
+  }, {
+    "tStartMs": 337300,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "The symmetries I mentioned allow the\nparticles to have two different types of spins. They"
+    } ]
+  }, {
+    "tStartMs": 341760,
+    "dDurationMs": 7010,
+    "segs": [ {
+      "utf8": "can either have an integer amount of spin, like 1, 2 or 3, or even 0 they can have a half integer"
+    } ]
+  }, {
+    "tStartMs": 348770,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "amount of spin, like ½, 3/2 or 5/2. It turns\nout that spin determines what might be the"
+    } ]
+  }, {
+    "tStartMs": 355350,
+    "dDurationMs": 6849,
+    "segs": [ {
+      "utf8": "most fundamental nature of a particle - whether it represents matter or force."
+    } ]
+  }, {
+    "tStartMs": 362199,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "Particles with half integer spin are called\nFermions, and they are stuff, literally, they"
+    } ]
+  }, {
+    "tStartMs": 367229,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "are what stuff is made up. Electrons, quarks, neutrinos, they are all just different kinds"
+    } ]
+  }, {
+    "tStartMs": 371600,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "of fermions. Meanwhile particles with integer spin are called bosons. They transmit energy"
+    } ]
+  }, {
+    "tStartMs": 377530,
+    "dDurationMs": 4859,
+    "segs": [ {
+      "utf8": "and momentum according to the symmetries of each force. Some parts of the standard model"
+    } ]
+  }, {
+    "tStartMs": 382389,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "lagrangian deal with bosons, other parts with fermions, and still others - perhaps the most"
+    } ]
+  }, {
+    "tStartMs": 387770,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "important parts - deal with the interactions between the two. So let’s now take a tour through"
+    } ]
+  }, {
+    "tStartMs": 393030,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "the standard model lagrangian and see what it’s all about."
+    } ]
+  }, {
+    "tStartMs": 396990,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "First we have this term with two Fs, this\nis known as the kinetic term, and it tells"
+    } ]
+  }, {
+    "tStartMs": 401940,
+    "dDurationMs": 5759,
+    "segs": [ {
+      "utf8": "us how the bosons will behave and how they’ll interact with each other. Alone, this describes"
+    } ]
+  }, {
+    "tStartMs": 407699,
+    "dDurationMs": 7041,
+    "segs": [ {
+      "utf8": "a universe with no matter whatsoever. The\nFs are actually shorthand for the separate"
+    } ]
+  }, {
+    "tStartMs": 414740,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "interaction of each of the three quantum forces."
+    } ]
+  }, {
+    "tStartMs": 417400,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "First we have the photon field which is usually represented with a capital A, this is the"
+    } ]
+  }, {
+    "tStartMs": 422820,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "field that preserves the U(1) symmetry of\nelectromagnetism, and the kinetic term for"
+    } ]
+  }, {
+    "tStartMs": 427370,
+    "dDurationMs": 6530,
+    "segs": [ {
+      "utf8": "photons is made of the derivatives of the\nA field. In other words, this is like the"
+    } ]
+  }, {
+    "tStartMs": 433900,
+    "dDurationMs": 5609,
+    "segs": [ {
+      "utf8": "energy of the photons as they change in space and time, and this is true for all the derivatives"
+    } ]
+  }, {
+    "tStartMs": 439509,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "we are going to see here, they are analogous to the kinetic energy of that object in every"
+    } ]
+  }, {
+    "tStartMs": 445080,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "direction of space and time."
+    } ]
+  }, {
+    "tStartMs": 447270,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "This is where these mu/nu symbols come from. The kinetic energy of the field in one direction"
+    } ]
+  }, {
+    "tStartMs": 452700,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "may depend on what is happening in the other direction, which means we need to take a"
+    } ]
+  }, {
+    "tStartMs": 456750,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "lot of derivatives of the field in every direction. Instead of writing each one we just write"
+    } ]
+  }, {
+    "tStartMs": 462610,
+    "dDurationMs": 8450,
+    "segs": [ {
+      "utf8": "these symbols which basically mean: first x, then y, then z, then do t for time."
+    } ]
+  }, {
+    "tStartMs": 471060,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": "Indices are gonna be a running theme here. Whenever you see them it means that whatever"
+    } ]
+  }, {
+    "tStartMs": 476639,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "was written has to be repeated several times depending on the dimensions of spacetime,"
+    } ]
+  }, {
+    "tStartMs": 481680,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "the number of charges, the number of different particles, or things like that"
+    } ]
+  }, {
+    "tStartMs": 486360,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "Next we do something similar for the fields of the other two forces, we also need their"
+    } ]
+  }, {
+    "tStartMs": 491780,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "kinetic energy in every possible direction.\nExcept if two photons come close they'll just"
+    } ]
+  }, {
+    "tStartMs": 498160,
+    "dDurationMs": 5729,
+    "segs": [ {
+      "utf8": "pass through each other, but if two say gluons come close, they will interact."
+    } ]
+  }, {
+    "tStartMs": 503889,
+    "dDurationMs": 6111,
+    "segs": [ {
+      "utf8": "We need an extra term to describe the potential energy of that interaction, which we add to"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "the kinetic term. Here we see a connection\nto the classical Lagrangian, with is kinetic"
+    } ]
+  }, {
+    "tStartMs": 515339,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "and potential energies."
+    } ]
+  }, {
+    "tStartMs": 517099,
+    "dDurationMs": 6161,
+    "segs": [ {
+      "utf8": "The many indices you see here come from the complex symmetries of SU(3), and account for"
+    } ]
+  }, {
+    "tStartMs": 523260,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "all the different types of gluon. The bosons\nof the Weak force get a term like this also,"
+    } ]
+  }, {
+    "tStartMs": 528940,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "although its SU(2) symmetry leads to different behavior."
+    } ]
+  }, {
+    "tStartMs": 532410,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "The weak force also has a second kinetic term that looks a lot like electromagnetism; a"
+    } ]
+  }, {
+    "tStartMs": 537680,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "consequence of the fact that the weak force and electromagnetism used to be components"
+    } ]
+  }, {
+    "tStartMs": 541330,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "of the one force."
+    } ]
+  }, {
+    "tStartMs": 543190,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "These complex kinetic terms are multiplied with themselves in a matrix multiplication"
+    } ]
+  }, {
+    "tStartMs": 548080,
+    "dDurationMs": 5009,
+    "segs": [ {
+      "utf8": "because that turns them into the appropriate units of energy - or something close to energy -"
+    } ]
+  }, {
+    "tStartMs": 553089,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "because that’s what the Lagrangian needs."
+    } ]
+  }, {
+    "tStartMs": 555730,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "All these kinetic terms are summarized with the F’s, representing the motion of the"
+    } ]
+  }, {
+    "tStartMs": 560850,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "bosons and their interactions with each other."
+    } ]
+  }, {
+    "tStartMs": 564110,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Let’s make the universe more interesting\nby introducing some matter. That’s what"
+    } ]
+  }, {
+    "tStartMs": 569930,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "the second term in the Lagrangian represents.\nThe psi is the wavefunction of the fermion"
+    } ]
+  }, {
+    "tStartMs": 575070,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "fields. Strictly speaking there are 12 fields for the 12 kinds of fermions we have discovered so far,"
+    } ]
+  }, {
+    "tStartMs": 581540,
+    "dDurationMs": 3859,
+    "segs": [ {
+      "utf8": "but again they're squished them together into one symbol."
+    } ]
+  }, {
+    "tStartMs": 585399,
+    "dDurationMs": 4444,
+    "segs": [ {
+      "utf8": "Let's look at this weird D thing. The slash is a shorthand that Richard Feynman came up "
+    } ]
+  }, {
+    "tStartMs": 589843,
+    "dDurationMs": 3777,
+    "segs": [ {
+      "utf8": "with it because he was tired of always  having to write gamma D"
+    } ]
+  }, {
+    "tStartMs": 593620,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "where gamma is a series of matrices to ensure everything stays compliant with general"
+    } ]
+  }, {
+    "tStartMs": 599810,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "relativity"
+    } ]
+  }, {
+    "tStartMs": 600810,
+    "dDurationMs": 6649,
+    "segs": [ {
+      "utf8": "The D itself is made of two parts. We have a derivative, which as we mentioned tells us the energy"
+    } ]
+  }, {
+    "tStartMs": 607459,
+    "dDurationMs": 7511,
+    "segs": [ {
+      "utf8": "of the field as it changes, but we also have\nthis part with the field of the bosons. This"
+    } ]
+  }, {
+    "tStartMs": 614970,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "tells us how fermions are gonna interact with the fields that preserve the symmetries of"
+    } ]
+  }, {
+    "tStartMs": 619959,
+    "dDurationMs": 4853,
+    "segs": [ {
+      "utf8": "nature. This is the piece that tells us that matter and forces interact. "
+    } ]
+  }, {
+    "tStartMs": 624812,
+    "dDurationMs": 6258,
+    "segs": [ {
+      "utf8": "The part with the EM field is equivalent\nto the piece added to the Schrodinger equation"
+    } ]
+  }, {
+    "tStartMs": 631070,
+    "dDurationMs": 5829,
+    "segs": [ {
+      "utf8": "to ensure phase invariance. And now we have to add the pieces for the other fields also."
+    } ]
+  }, {
+    "tStartMs": 636899,
+    "dDurationMs": 5601,
+    "segs": [ {
+      "utf8": "Here each field is preceded by a new symbol which represents the charge that field interacts"
+    } ]
+  }, {
+    "tStartMs": 642500,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "with: electric charge, isospin, hypercharge, and color charge, and the more"
+    } ]
+  }, {
+    "tStartMs": 648589,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "complex the symmetry the more indicies you need. Also, next to the charges are the coupling constants"
+    } ]
+  }, {
+    "tStartMs": 654529,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "which represent the strength of each interaction."
+    } ]
+  }, {
+    "tStartMs": 657830,
+    "dDurationMs": 7069,
+    "segs": [ {
+      "utf8": "And here we this \"h.c.\" thing and well I didn't want to scare you earlier"
+    } ]
+  }, {
+    "tStartMs": 664899,
+    "dDurationMs": 7771,
+    "segs": [ {
+      "utf8": "but, this Lagrangian is haunted, it has ghosts. There are ghosts of particles that cannot"
+    } ]
+  }, {
+    "tStartMs": 672670,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "be measured, and of infinities that make no sense. But it turns out that if you add a"
+    } ]
+  }, {
+    "tStartMs": 678710,
+    "dDurationMs": 6749,
+    "segs": [ {
+      "utf8": "copy of the matter term but switch the sign in front of every imaginary number, all of"
+    } ]
+  }, {
+    "tStartMs": 685459,
+    "dDurationMs": 3111,
+    "segs": [ {
+      "utf8": "the problematic ghosts cancel out."
+    } ]
+  }, {
+    "tStartMs": 688570,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "This process may sound a bit forced, and it kinda is. It would be nice to have a Lagrangian"
+    } ]
+  }, {
+    "tStartMs": 694260,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "without ghosts and perhaps we will. But until then this process gives an equation that describes"
+    } ]
+  }, {
+    "tStartMs": 699910,
+    "dDurationMs": 7049,
+    "segs": [ {
+      "utf8": "Nature very well. By the way, the h.c. stands for hermitian conjugate, which is the process"
+    } ]
+  }, {
+    "tStartMs": 706959,
+    "dDurationMs": 5731,
+    "segs": [ {
+      "utf8": "of flipping the signs of imaginary components. And it can also stand for hot coffee, because"
+    } ]
+  }, {
+    "tStartMs": 712690,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "this is the point in reading the Lagrangian\nwhere most people need a coffee break."
+    } ]
+  }, {
+    "tStartMs": 717020,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "OK, bear with me. We’re getting there. The\nparticles described by the Lagrangian so far"
+    } ]
+  }, {
+    "tStartMs": 723120,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "are massless. To add mass we need the Higgs field - and that’s what the rest of the"
+    } ]
+  }, {
+    "tStartMs": 728720,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "Lagrangian deals with. We have episodes on the Higgs mechanism if you’re interested."
+    } ]
+  }, {
+    "tStartMs": 734570,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "This term is like the previous - fermions\ninteracting with a bosonic field, but now"
+    } ]
+  }, {
+    "tStartMs": 740280,
+    "dDurationMs": 3249,
+    "segs": [ {
+      "utf8": "that’s the Higgs field, represented by this\nPhi."
+    } ]
+  }, {
+    "tStartMs": 743529,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "y is a matrix with the square of the mass\nof each different fermion. This equation doesn’t"
+    } ]
+  }, {
+    "tStartMs": 749399,
+    "dDurationMs": 4631,
+    "segs": [ {
+      "utf8": "actually predict the particle masses - that’s\nstill an unsolved problem. Instead, we have"
+    } ]
+  }, {
+    "tStartMs": 754030,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "to measure those masses with experiments and write them into this matrix by hand."
+    } ]
+  }, {
+    "tStartMs": 759010,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "And we have another \"h.c.\", but this time hermitian conjugate tells us how antimatter picks up"
+    } ]
+  }, {
+    "tStartMs": 766250,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "mass from the Higgs field, and it's pretty much the same as regular matter, as far as"
+    } ]
+  }, {
+    "tStartMs": 771240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "we know."
+    } ]
+  }, {
+    "tStartMs": 772240,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "We’ll zip through the rest of the Lagrangian. We have another one of these derivatives - D,"
+    } ]
+  }, {
+    "tStartMs": 778100,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "now applied to the Higgs field. It tells us\nhow that field changes in space and time and"
+    } ]
+  }, {
+    "tStartMs": 783310,
+    "dDurationMs": 4339,
+    "segs": [ {
+      "utf8": "how it interacts with the massive bosons of the weak force."
+    } ]
+  }, {
+    "tStartMs": 787649,
+    "dDurationMs": 5261,
+    "segs": [ {
+      "utf8": "Finally the last term refers to the potential\nof the Higgs field. This is like the kinetic"
+    } ]
+  }, {
+    "tStartMs": 792910,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "terms for the other bosons, but now just for the Higgs. The Higgs gets all its own terms separate from all the other terms"
+    } ]
+  }, {
+    "tStartMs": 799660,
+    "dDurationMs": 7271,
+    "segs": [ {
+      "utf8": "because its special and weird. Really, though this term describes the Higgs boson itself. That"
+    } ]
+  }, {
+    "tStartMs": 806931,
+    "dDurationMs": 4778,
+    "segs": [ {
+      "utf8": "particle was the last prediction of the Standard Model to be verified, and that happened 10"
+    } ]
+  }, {
+    "tStartMs": 811709,
+    "dDurationMs": 5951,
+    "segs": [ {
+      "utf8": "years ago at the large hadron collider. The\ndiscovery of the Higgs boson “completed”"
+    } ]
+  }, {
+    "tStartMs": 817660,
+    "dDurationMs": 4429,
+    "segs": [ {
+      "utf8": "the standard model, just as we’ve finished\nthe standard model lagrangian."
+    } ]
+  }, {
+    "tStartMs": 822089,
+    "dDurationMs": 7550,
+    "segs": [ {
+      "utf8": "Now, just for fun, let's look at the full\nLagrangian, unsquished. Yeah, it’s a lot."
+    } ]
+  }, {
+    "tStartMs": 829639,
+    "dDurationMs": 4861,
+    "segs": [ {
+      "utf8": "But it works. Putting in your particle\nwavefunction and setting your indices right"
+    } ]
+  }, {
+    "tStartMs": 834500,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and including the correct masses, you can\ncalculate behavior of any known particle in"
+    } ]
+  }, {
+    "tStartMs": 839060,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "the universe."
+    } ]
+  }, {
+    "tStartMs": 840519,
+    "dDurationMs": 6101,
+    "segs": [ {
+      "utf8": "Note that I said “known particle”. There\nmay be unknown particles that are not covered"
+    } ]
+  }, {
+    "tStartMs": 846620,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "by the standard model or its lagrangian. In\nfact there probably are - whatever makes up"
+    } ]
+  }, {
+    "tStartMs": 851920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "dark matter for example. And there are other mysteries that this doesn’t explain. It doesn’t"
+    } ]
+  }, {
+    "tStartMs": 857200,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "tell us how nature chooses different particle masses, or chooses coupling strengths like the fine"
+    } ]
+  }, {
+    "tStartMs": 862580,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "structure constant we discussed recently.\nAnd it doesn't explain dark energy or the"
+    } ]
+  }, {
+    "tStartMs": 867990,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "matter-antimatter imbalance, among other things. And it is a bit of a mess. Many physicists"
+    } ]
+  }, {
+    "tStartMs": 874540,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "feel that the equation that truly underlies\neverything, if it exists, should be at least"
+    } ]
+  }, {
+    "tStartMs": 880070,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "as elegant as E=mc^2."
+    } ]
+  }, {
+    "tStartMs": 883070,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "But despite all this, the standard model lagrangian is an insane victory for physics. It predicts"
+    } ]
+  }, {
+    "tStartMs": 889240,
+    "dDurationMs": 4969,
+    "segs": [ {
+      "utf8": "the behavior of the subatomic world with truly astonishing precision, and physicists are"
+    } ]
+  }, {
+    "tStartMs": 894209,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "having a very difficult time finding situations where it fails. Because it will be a glitch"
+    } ]
+  }, {
+    "tStartMs": 900399,
+    "dDurationMs": 5791,
+    "segs": [ {
+      "utf8": "in the predictions of the standard model lagrangian that could lead to an equation that is easier"
+    } ]
+  }, {
+    "tStartMs": 906190,
+    "dDurationMs": 7540,
+    "segs": [ {
+      "utf8": "to fit on a coffee mug, and to a deeper description of the mechanisms ruling space time."
+    } ]
+  }, {
+    "tStartMs": 913730,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Before we get to comments, for all the space time fans who are also history buffs, we’d"
+    } ]
+  }, {
+    "tStartMs": 918240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "like to let you know about a new pirate-based history show called Rogue History. Over on"
+    } ]
+  }, {
+    "tStartMs": 924160,
+    "dDurationMs": 7039,
+    "segs": [ {
+      "utf8": "the PBS Origins channel Rogue History unravels the historical myths, unearths lost narratives,"
+    } ]
+  }, {
+    "tStartMs": 931199,
+    "dDurationMs": 4861,
+    "segs": [ {
+      "utf8": "and champions the unsung heroes of piracy. There’s a link in the description and if"
+    } ]
+  }, {
+    "tStartMs": 936060,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "you check it out, tell them, politely that\nSpace Time sent you!"
+    } ]
+  }, {
+    "tStartMs": 940360,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "The support we get from Patreon is a big part of what makes this show possible. So thank"
+    } ]
+  }, {
+    "tStartMs": 944900,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "you to everyone who donates. Seriously even a few bucks a month goes a long way. But today,"
+    } ]
+  }, {
+    "tStartMs": 950630,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "I’d like to give very special thanks to\nVivaan Gupta Vaka, who’s supporting us at"
+    } ]
+  }, {
+    "tStartMs": 955579,
+    "dDurationMs": 4711,
+    "segs": [ {
+      "utf8": "the Quasar level. For those you who don’t\nknow, quasars are the most brilliant objects"
+    } ]
+  }, {
+    "tStartMs": 960290,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "in the universe. They are the hearts of galaxies. Maelstroms of power and mystery shining out"
+    } ]
+  }, {
+    "tStartMs": 966320,
+    "dDurationMs": 8564,
+    "segs": [ {
+      "utf8": "to us from across space and time, just like\nyou Vivaan. We wish you a most luminous future."
+    } ]
+  } ]
+}

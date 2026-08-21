@@ -1,0 +1,169 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 250,
+    "dDurationMs": 4311,
+    "segs": [ {
+      "utf8": "We take navigation for granted these days\n- GPS receivers guide airplanes, cars, and"
+    } ]
+  }, {
+    "tStartMs": 4561,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "even cell phones!"
+    } ]
+  }, {
+    "tStartMs": 5561,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "But did you know that the Global Positioning\nSystem is basically a big clock in space?"
+    } ]
+  }, {
+    "tStartMs": 10020,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "There are thirty GPS satellites in orbit,\nand they just broadcast where they are and"
+    } ]
+  }, {
+    "tStartMs": 13719,
+    "dDurationMs": 1181,
+    "segs": [ {
+      "utf8": "what time it is."
+    } ]
+  }, {
+    "tStartMs": 14900,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "All your phone GPS has to do is receive signals\nfrom four satellites and it can triangulate"
+    } ]
+  }, {
+    "tStartMs": 19460,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "its location in the four dimensions in which\nwe live – three space and one time."
+    } ]
+  }, {
+    "tStartMs": 24240,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "But actually it's not that simple!"
+    } ]
+  }, {
+    "tStartMs": 26030,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "In order for navigation to work, the satellites\ncarry atomic clocks accurate to the nanosecond"
+    } ]
+  }, {
+    "tStartMs": 30550,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "– otherwise your GPS receiver might tell\nyou you're halfway across town when you're"
+    } ]
+  }, {
+    "tStartMs": 34390,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "still in the driveway."
+    } ]
+  }, {
+    "tStartMs": 35840,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And special relativity tells us that moving\nclocks run slow, while general relativity"
+    } ]
+  }, {
+    "tStartMs": 39960,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "tells us that clocks run faster higher in\na gravitational field."
+    } ]
+  }, {
+    "tStartMs": 43470,
+    "dDurationMs": 4659,
+    "segs": [ {
+      "utf8": "These effects don't quite cancel – general\nrelativity wins out and time indeed runs faster"
+    } ]
+  }, {
+    "tStartMs": 48129,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "up in orbit with the satellites!"
+    } ]
+  }, {
+    "tStartMs": 50010,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "But some of the engineers working on the first\nGPS satellite couldn't bring themselves to"
+    } ]
+  }, {
+    "tStartMs": 53860,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "believe that their clock would actually run\nfast just from being higher up, so they sent"
+    } ]
+  }, {
+    "tStartMs": 57730,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "it up uncorrected!"
+    } ]
+  }, {
+    "tStartMs": 59090,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Within minutes it was off by enough to impair\nGPS navigation, and by the end of the day,"
+    } ]
+  }, {
+    "tStartMs": 63350,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "GPS receivers would have been wrong by tens\nof kilometers!"
+    } ]
+  }, {
+    "tStartMs": 66330,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "Needless to say, the engineers turned the\ncorrection back on, and these days they trust"
+    } ]
+  }, {
+    "tStartMs": 70409,
+    "dDurationMs": 1111,
+    "segs": [ {
+      "utf8": "general relativity!"
+    } ]
+  }, {
+    "tStartMs": 71520,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Oh, and one last thing - GPS is also a nuclear\nweapons detector: there are always at least"
+    } ]
+  }, {
+    "tStartMs": 76470,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "four GPS satellites visible from any point\non earth, and because of this, any nuclear"
+    } ]
+  }, {
+    "tStartMs": 80930,
+    "dDurationMs": 4049,
+    "segs": [ {
+      "utf8": "detonation will be seen by enough satellites\nto pinpoint exactly where and when it took"
+    } ]
+  }, {
+    "tStartMs": 84979,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "place."
+    } ]
+  } ]
+}

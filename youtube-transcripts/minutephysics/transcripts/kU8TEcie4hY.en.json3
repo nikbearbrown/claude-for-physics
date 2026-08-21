@@ -1,0 +1,379 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1220,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "uppose there are two spacecraft attached by\na very long thin string."
+    } ]
+  }, {
+    "tStartMs": 5140,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "If both craft suddenly accelerate the same\namount at the same time, they should stay"
+    } ]
+  }, {
+    "tStartMs": 8500,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "the same distance apart."
+    } ]
+  }, {
+    "tStartMs": 9610,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Except, now they’re moving... and in our\nuniverse moving objects undergo length contraction"
+    } ]
+  }, {
+    "tStartMs": 14550,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and get shorter in the direction of motion."
+    } ]
+  }, {
+    "tStartMs": 16990,
+    "dDurationMs": 3689,
+    "segs": [ {
+      "utf8": "The spacecraft and string should each have\ntheir lengths contracted, and be shorter."
+    } ]
+  }, {
+    "tStartMs": 20679,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "So do the spacecraft and string as a whole\ncontract, with the two spacecraft closer to"
+    } ]
+  }, {
+    "tStartMs": 24939,
+    "dDurationMs": 1061,
+    "segs": [ {
+      "utf8": "each other?"
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 3949,
+    "segs": [ {
+      "utf8": "Or do the spacecraft individually contract\nbut stay separated the same amount, while"
+    } ]
+  }, {
+    "tStartMs": 29949,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "the string shortens \u0026 risks snapping?"
+    } ]
+  }, {
+    "tStartMs": 32160,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Assuming the string has no significant strength,\nthe spacecraft shouldn’t move any differently"
+    } ]
+  }, {
+    "tStartMs": 36450,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "than if there were no string at all - and\nsince they both underwent the same acceleration,"
+    } ]
+  }, {
+    "tStartMs": 40070,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "they should stay separated the same as when\nthey started."
+    } ]
+  }, {
+    "tStartMs": 42730,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Which means when the string shortens, it must\nsnap."
+    } ]
+  }, {
+    "tStartMs": 46080,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "But how?"
+    } ]
+  }, {
+    "tStartMs": 47220,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Is length contraction a real, physical, force?"
+    } ]
+  }, {
+    "tStartMs": 50490,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Yes, yes it is - from a certain point of view."
+    } ]
+  }, {
+    "tStartMs": 54110,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "The electromagnetic forces which hold the\nstring together undergo length contractions,"
+    } ]
+  }, {
+    "tStartMs": 57740,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "too, and so the very atoms and intermolecular\nseparations within the string are contracted,"
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "literally pulling the string shorter - or\ntearing it apart if its ends are tied to,"
+    } ]
+  }, {
+    "tStartMs": 66910,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I dunno, two heavy spacecraft."
+    } ]
+  }, {
+    "tStartMs": 69150,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "So length contraction makes the string tear\nitself apart."
+    } ]
+  }, {
+    "tStartMs": 72500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But...from another point of view, the string\nbreaks for a different reason."
+    } ]
+  }, {
+    "tStartMs": 76500,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Because, from the perspective of a moving\nobject, events that used to be simultaneous"
+    } ]
+  }, {
+    "tStartMs": 80380,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "no longer are - in this case, from a perspective\nmoving along with the spacecraft's final speeds,"
+    } ]
+  }, {
+    "tStartMs": 85240,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "the front spacecraft actually accelerates\nfirst, and so for a while is moving away from"
+    } ]
+  }, {
+    "tStartMs": 89280,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "the back spacecraft - by the time the back\none catches up, the rockets are farther apart"
+    } ]
+  }, {
+    "tStartMs": 93350,
+    "dDurationMs": 1309,
+    "segs": [ {
+      "utf8": "than when they started!"
+    } ]
+  }, {
+    "tStartMs": 94659,
+    "dDurationMs": 3581,
+    "segs": [ {
+      "utf8": "All this is much more easy to keep track of\nif you use spacetime diagrams to correctly"
+    } ]
+  }, {
+    "tStartMs": 98240,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "describe the whole situation (rather than\njust trying to think about length contraction"
+    } ]
+  }, {
+    "tStartMs": 101479,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "on its own, or relativity simultaneity on\nits own, or whatever)."
+    } ]
+  }, {
+    "tStartMs": 104840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But the point is, from a moving perspective,\nit's the spacecraft that snap the string."
+    } ]
+  }, {
+    "tStartMs": 109240,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "OK, so then why don’t the spacecraft tear\nthemselves apart when they accelerate?"
+    } ]
+  }, {
+    "tStartMs": 115940,
+    "dDurationMs": 1719,
+    "segs": [ {
+      "utf8": "If the string snaps, why don't ALL objects\nexplode whenever they move?"
+    } ]
+  }, {
+    "tStartMs": 117659,
+    "dDurationMs": 3911,
+    "segs": [ {
+      "utf8": "Well, that can only happen if different pieces\nof the object independently accelerate, like"
+    } ]
+  }, {
+    "tStartMs": 121570,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "how the two spacecraft each have their own\npropulsion."
+    } ]
+  }, {
+    "tStartMs": 123750,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "Normal objects aren’t like that; instead,\none part is pushed or pulled, and then the"
+    } ]
+  }, {
+    "tStartMs": 127840,
+    "dDurationMs": 3422,
+    "segs": [ {
+      "utf8": "intermolecular forces in the object transmit\nthat acceleration to the other bits of the"
+    } ]
+  }, {
+    "tStartMs": 131262,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "object."
+    } ]
+  }, {
+    "tStartMs": 132262,
+    "dDurationMs": 5498,
+    "segs": [ {
+      "utf8": "And when those intermolecular forces experience\nlength contraction, the object as a whole"
+    } ]
+  }, {
+    "tStartMs": 137760,
+    "dDurationMs": 1363,
+    "segs": [ {
+      "utf8": "simply contracts instead of being torn apart."
+    } ]
+  }, {
+    "tStartMs": 139123,
+    "dDurationMs": 3696,
+    "segs": [ {
+      "utf8": "But any time there are multiple sources of\nacceleration on multiple parts of an object..."
+    } ]
+  }, {
+    "tStartMs": 142819,
+    "dDurationMs": 2981,
+    "segs": [ {
+      "utf8": "in principle it could get torn apart by length\ncontraction."
+    } ]
+  }, {
+    "tStartMs": 145800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Or you might say perhaps it gets torn apart\nbecause those different parts start accelerating"
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "at different times."
+    } ]
+  }, {
+    "tStartMs": 150630,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "It depends on your point of view - literally."
+    } ]
+  }, {
+    "tStartMs": 152670,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "In our universe, it’s not just space and\ntime that are relative - in some cases, it’s"
+    } ]
+  }, {
+    "tStartMs": 157450,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "also whether you’re torn apart, or tear\nyourself apart."
+    } ]
+  }, {
+    "tStartMs": 163170,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "In putting together this video, it was really\nhelpful for me to work out the spacetime diagram"
+    } ]
+  }, {
+    "tStartMs": 167100,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "for bell's spaceship paradox myself - and\nthat's exactly the idea behind Brilliant,"
+    } ]
+  }, {
+    "tStartMs": 171590,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "this video's sponsor."
+    } ]
+  }, {
+    "tStartMs": 173330,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "Brilliant is based off the principle that\nactive problem solving is the fastest path"
+    } ]
+  }, {
+    "tStartMs": 176599,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "towards mastery of a new concept or skill\n- and now they've taken it to the next level"
+    } ]
+  }, {
+    "tStartMs": 180140,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "with tons of visual interactivity across their\nmath and science courses."
+    } ]
+  }, {
+    "tStartMs": 183780,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "You can interact with the math of gears and\npulleys and computer programming and the pythagorean"
+    } ]
+  }, {
+    "tStartMs": 187940,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "theorem!"
+    } ]
+  }, {
+    "tStartMs": 188940,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "To gain a deeper understanding of science\nand mathematics and to sign up for free, go"
+    } ]
+  }, {
+    "tStartMs": 191880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "to Brilliant.org/MinutePhysics."
+    } ]
+  }, {
+    "tStartMs": 192880,
+    "dDurationMs": 5072,
+    "segs": [ {
+      "utf8": "The first 200 people will get 20% off an annual\nPremium subscription with full access to all"
+    } ]
+  }, {
+    "tStartMs": 197952,
+    "dDurationMs": 1798,
+    "segs": [ {
+      "utf8": "of Brilliant’s courses and puzzles."
+    } ]
+  }, {
+    "tStartMs": 199750,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Again, that's Brilliant.org/MinutePhysics\n- and thanks to Brilliant for their support."
+    } ]
+  } ]
+}

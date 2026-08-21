@@ -1,0 +1,523 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6810,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Portals - those magnificent sci-fi devices\nwhere you step into one end and are immediately"
+    } ]
+  }, {
+    "tStartMs": 11370,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "transported somewhere else - portals are just\nbegging for us to ask: what happens if you"
+    } ]
+  }, {
+    "tStartMs": 16090,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "pass a portal through itself?"
+    } ]
+  }, {
+    "tStartMs": 18390,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Because anything going into the orange portal\ncomes out of the blue portal, so when the"
+    } ]
+  }, {
+    "tStartMs": 22330,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "blue portal goes into the orange portal it\nshould come out of itself."
+    } ]
+  }, {
+    "tStartMs": 26410,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Which - is that even possible?"
+    } ]
+  }, {
+    "tStartMs": 28510,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yes - I'm going to show you how."
+    } ]
+  }, {
+    "tStartMs": 30830,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "And it's weird."
+    } ]
+  }, {
+    "tStartMs": 32060,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "To make things easier, we'll start with a\nportal in 2D space - which is basically a"
+    } ]
+  }, {
+    "tStartMs": 36160,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "line."
+    } ]
+  }, {
+    "tStartMs": 37160,
+    "dDurationMs": 3181,
+    "segs": [ {
+      "utf8": "We'll imagine these work just like portals\nin 3D: when an object enters a portal, it"
+    } ]
+  }, {
+    "tStartMs": 40341,
+    "dDurationMs": 2749,
+    "segs": [ {
+      "utf8": "exits at the same position relative to the\nother portal."
+    } ]
+  }, {
+    "tStartMs": 43090,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "The idea is that if you put two portals back\nto back, you can't tell there's a portal at"
+    } ]
+  }, {
+    "tStartMs": 46500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "all, and then you keep that same relative\nbehavior no matter where you move or how you"
+    } ]
+  }, {
+    "tStartMs": 50580,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "orient the portals [object passing back and\nforth in and out of a portal repetitively"
+    } ]
+  }, {
+    "tStartMs": 51840,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "as the portal ends move]."
+    } ]
+  }, {
+    "tStartMs": 52840,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "So an object entering near the bottom of the\norange portal exits near the bottom of the"
+    } ]
+  }, {
+    "tStartMs": 55580,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "blue portal, and so on."
+    } ]
+  }, {
+    "tStartMs": 57210,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "And if the blue portal itself starts to pass\nthrough the bottom of the orange portal [slide"
+    } ]
+  }, {
+    "tStartMs": 60200,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "portal back out to add on the star labels]\n- and we'll try to keep it clear where the"
+    } ]
+  }, {
+    "tStartMs": 61740,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "front and back and top and bottom of the portals\nare so you can tell how they're oriented - if"
+    } ]
+  }, {
+    "tStartMs": 65360,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "the top of the blue portal enters the bottom\nof the orange portal, it will emerge out the"
+    } ]
+  }, {
+    "tStartMs": 69470,
+    "dDurationMs": 3109,
+    "segs": [ {
+      "utf8": "bottom of the blue portal with the same relative\norientation."
+    } ]
+  }, {
+    "tStartMs": 72579,
+    "dDurationMs": 2951,
+    "segs": [ {
+      "utf8": "Which looks weird, but it's what logically\nshould happen!"
+    } ]
+  }, {
+    "tStartMs": 75530,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "If we just keep pushing the blue portal in\nwe're going to crash and have some problems."
+    } ]
+  }, {
+    "tStartMs": 79680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It's the same if we flip it and put it in\nthrough near the top."
+    } ]
+  }, {
+    "tStartMs": 83880,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "But if we put in the star end of the blue\nportal near the top, it comes out of itself"
+    } ]
+  }, {
+    "tStartMs": 88159,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "closer to the top until the part coming out\nof itself goes back into the orange portal"
+    } ]
+  }, {
+    "tStartMs": 92039,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "again closer to the circle end and comes out\nof the blue portal farther down."
+    } ]
+  }, {
+    "tStartMs": 94049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Weird."
+    } ]
+  }, {
+    "tStartMs": 95049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "At this point it looks like the circle end\nof the blue portal is simply disappearing"
+    } ]
+  }, {
+    "tStartMs": 96049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "into the orange portal, but that's just an\nillusion."
+    } ]
+  }, {
+    "tStartMs": 97049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "If I hide the orange portal you can see that\nthe bits of the blue portal going into the"
+    } ]
+  }, {
+    "tStartMs": 98049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "orange portal still exist - they're just now\ncoming out of the star end and happen to be"
+    } ]
+  }, {
+    "tStartMs": 99049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "right up against the face of the orange portal."
+    } ]
+  }, {
+    "tStartMs": 100049,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's all a bit confusing to keep track of,\nbut is maybe slightly easier if we add numbers"
+    } ]
+  }, {
+    "tStartMs": 101049,
+    "dDurationMs": 3271,
+    "segs": [ {
+      "utf8": "along the blue portal so you can keep track\nof which part of it is where."
+    } ]
+  }, {
+    "tStartMs": 104320,
+    "dDurationMs": 3909,
+    "segs": [ {
+      "utf8": "Because you should be able to keep track of\nthe entire blue portal: there's no \"inside\""
+    } ]
+  }, {
+    "tStartMs": 108229,
+    "dDurationMs": 4221,
+    "segs": [ {
+      "utf8": "of a portal, since anything that passes through\none portal is immediately outside the other"
+    } ]
+  }, {
+    "tStartMs": 112450,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "side."
+    } ]
+  }, {
+    "tStartMs": 113450,
+    "dDurationMs": 3589,
+    "segs": [ {
+      "utf8": "So 100% of the blue portal must remain visible\nand in existence at all times!"
+    } ]
+  }, {
+    "tStartMs": 117039,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "That is, we should always be able to account\nfor the full length of the blue portal, no"
+    } ]
+  }, {
+    "tStartMs": 120960,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "matter how weirdly recursive the situation\nbecomes - and it can be very VERY weird."
+    } ]
+  }, {
+    "tStartMs": 126069,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And pretty."
+    } ]
+  }, {
+    "tStartMs": 127069,
+    "dDurationMs": 1151,
+    "segs": [ {
+      "utf8": "But definitely weird."
+    } ]
+  }, {
+    "tStartMs": 128220,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "Anyway, to get the blue portal to go all the\nway through, the very end of the blue portal"
+    } ]
+  }, {
+    "tStartMs": 131819,
+    "dDurationMs": 5111,
+    "segs": [ {
+      "utf8": "has to finish coming out of itself as it simultaneously\ndisappears into the orange portal, which seems"
+    } ]
+  }, {
+    "tStartMs": 136930,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "impossible unless the portal is infinitely\nthin - otherwise it's going to get stuck on"
+    } ]
+  }, {
+    "tStartMs": 141010,
+    "dDurationMs": 1289,
+    "segs": [ {
+      "utf8": "itself or get squeezed or something."
+    } ]
+  }, {
+    "tStartMs": 142299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "[footnote: I suspect it's mathematically impossible\nfor a rigid, non-infinitesimal portal to pass"
+    } ]
+  }, {
+    "tStartMs": 143299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "completely through itself.]"
+    } ]
+  }, {
+    "tStartMs": 144299,
+    "dDurationMs": 3351,
+    "segs": [ {
+      "utf8": "But, if we allow ourselves a little flexibility,\na 2D portal passing through itself looks like"
+    } ]
+  }, {
+    "tStartMs": 147650,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "this."
+    } ]
+  }, {
+    "tStartMs": 148680,
+    "dDurationMs": 2059,
+    "segs": [ {
+      "utf8": "Or this."
+    } ]
+  }, {
+    "tStartMs": 150739,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Or this."
+    } ]
+  }, {
+    "tStartMs": 152239,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And in 3D?"
+    } ]
+  }, {
+    "tStartMs": 153239,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "It's similar, but slightly more confusing\nbecause of the rotations needed to fit the"
+    } ]
+  }, {
+    "tStartMs": 157069,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "portal through itself."
+    } ]
+  }, {
+    "tStartMs": 158430,
+    "dDurationMs": 3419,
+    "segs": [ {
+      "utf8": "Here's one way a portal can pass through itself,\nwhere I've colored the \"back\" side of the"
+    } ]
+  }, {
+    "tStartMs": 161849,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "portal black and kept the front side a solid\ncolor."
+    } ]
+  }, {
+    "tStartMs": 164349,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "And here's the same thing with a grid on the\nportal so you can keep track and really confirm"
+    } ]
+  }, {
+    "tStartMs": 167430,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "that it is always 100% outside, even as it's\npassing through itself."
+    } ]
+  }, {
+    "tStartMs": 170780,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "But of course, we probably want to be able\nto look through the portals as this is all"
+    } ]
+  }, {
+    "tStartMs": 174019,
+    "dDurationMs": 5871,
+    "segs": [ {
+      "utf8": "going on - which looks like this."
+    } ]
+  }, {
+    "tStartMs": 179890,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "To be honest, I was kind of surprised that\nit's as possible as it is to pass a portal"
+    } ]
+  }, {
+    "tStartMs": 183610,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "through itself."
+    } ]
+  }, {
+    "tStartMs": 184800,
+    "dDurationMs": 3609,
+    "segs": [ {
+      "utf8": "But when we follow things through to their\nlogical conclusions, sometimes the universe"
+    } ]
+  }, {
+    "tStartMs": 188409,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "- even a made up one - can surprise us."
+    } ]
+  }, {
+    "tStartMs": 193049,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "And while it may not surprise you to learn\nthat I made the animations in this video using"
+    } ]
+  }, {
+    "tStartMs": 196290,
+    "dDurationMs": 3779,
+    "segs": [ {
+      "utf8": "visual effects software, I also had to use\na fair bit of computer coding as well - computer"
+    } ]
+  }, {
+    "tStartMs": 200069,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "coding sneaks in everywhere these days, even\nvideo editing, and that's why you should check"
+    } ]
+  }, {
+    "tStartMs": 203519,
+    "dDurationMs": 2911,
+    "segs": [ {
+      "utf8": "out Nebula Classes, this video's sponsor."
+    } ]
+  }, {
+    "tStartMs": 206430,
+    "dDurationMs": 3649,
+    "segs": [ {
+      "utf8": "Nebula is the creator-owned streaming platform\nI'm a part of, and yes, there are now classes"
+    } ]
+  }, {
+    "tStartMs": 210079,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "by your favorite creators, including one on\ncomputer coding by youtuber and NYU professor"
+    } ]
+  }, {
+    "tStartMs": 214409,
+    "dDurationMs": 1311,
+    "segs": [ {
+      "utf8": "Daniel Shiffman."
+    } ]
+  }, {
+    "tStartMs": 215720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Daniel's whole approach is to give you the\nbasics so you understand how coding works,"
+    } ]
+  }, {
+    "tStartMs": 220720,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "and then when it jumps out at you in life\n- like maybe in your video editing software"
+    } ]
+  }, {
+    "tStartMs": 223650,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "- you won't be intimidated."
+    } ]
+  }, {
+    "tStartMs": 225069,
+    "dDurationMs": 4321,
+    "segs": [ {
+      "utf8": "Other classes include those by Adam Neely,\nWendover Productions, Devin Stone, Aimee Nolte,"
+    } ]
+  }, {
+    "tStartMs": 229390,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and more."
+    } ]
+  }, {
+    "tStartMs": 230390,
+    "dDurationMs": 4679,
+    "segs": [ {
+      "utf8": "Nebula classes is $119 a year if you sign\nup via nebulaclasses.com/minutephysics - and"
+    } ]
+  }, {
+    "tStartMs": 235069,
+    "dDurationMs": 1182,
+    "segs": [ {
+      "utf8": "that includes all of the rest of Nebula, too."
+    } ]
+  }, {
+    "tStartMs": 236251,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "Nebula Classes: Great Classes from your favorite\ncreators."
+    } ]
+  }, {
+    "tStartMs": 240890,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "And no, I don't have one on there..."
+    } ]
+  }, {
+    "tStartMs": 243249,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "yet."
+    } ]
+  } ]
+}

@@ -1,0 +1,1357 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 280,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Thank you to NORD VPN for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 2870,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "It’s about time we discussed an obscure\nconcept in physics that may be more fundamental"
+    } ]
+  }, {
+    "tStartMs": 7680,
+    "dDurationMs": 6141,
+    "segs": [ {
+      "utf8": "than energy and entropy and perhaps time itself. Ready? Action. "
+    } ]
+  }, {
+    "tStartMs": 18850,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "In order to wrench the laws of physics from the reluctant clutches of nature, we need"
+    } ]
+  }, {
+    "tStartMs": 23020,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "to watch for clues - patterns in its behavior\nthat can reveal deeper truths. Here’s an"
+    } ]
+  }, {
+    "tStartMs": 28660,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "example: around 40 AD, Heron of Alexandria noticed that when light moves between two"
+    } ]
+  }, {
+    "tStartMs": 33600,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "points, out of all the possible paths between them, it follows the shortest one. He proposed"
+    } ]
+  }, {
+    "tStartMs": 38780,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "what you might call a Principle of Least Distance to define the path of light. Of course we"
+    } ]
+  }, {
+    "tStartMs": 44690,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "now know that light doesn’t always travel\nin a straight line - like when it’s refracted"
+    } ]
+  }, {
+    "tStartMs": 48170,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "by glass or traveling through a gravitational\nfield. It took a millennium and a half following"
+    } ]
+  }, {
+    "tStartMs": 52850,
+    "dDurationMs": 5529,
+    "segs": [ {
+      "utf8": "Heron for Pierre de Fermat to propose a solution for the case of refraction: what if light"
+    } ]
+  }, {
+    "tStartMs": 58379,
+    "dDurationMs": 5721,
+    "segs": [ {
+      "utf8": "didn’t travel the path of least distance,\nbut rather of least time?. If light changes"
+    } ]
+  }, {
+    "tStartMs": 64100,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "speed between media, then the fastest trajectory is no longer a straight line. With this principle"
+    } ]
+  }, {
+    "tStartMs": 70030,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "of least time, Fermat was able to explain\nall of the field of optics."
+    } ]
+  }, {
+    "tStartMs": 75700,
+    "dDurationMs": 7290,
+    "segs": [ {
+      "utf8": "It seemed as if we’d stumbled on a powerful guiding pattern in nature - minimizing principles."
+    } ]
+  }, {
+    "tStartMs": 82990,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "What if there was a similar property that\ncould be minimized to determine the trajectories"
+    } ]
+  }, {
+    "tStartMs": 87330,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "of matter as well as light? There were some\nefforts - for example Euler considered properties"
+    } ]
+  }, {
+    "tStartMs": 92850,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "involving momentum and kinetic energy - but to no avail. In the meantime Isaac Newton"
+    } ]
+  }, {
+    "tStartMs": 98409,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "came up with his laws of motion which gave us the instant and miraculous power to explain"
+    } ]
+  }, {
+    "tStartMs": 103930,
+    "dDurationMs": 5249,
+    "segs": [ {
+      "utf8": "the motion of all particles in the universe.\nTo do this, all you needed to do was know the"
+    } ]
+  }, {
+    "tStartMs": 109179,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "exact vector forces on each body at each time, which lets you calculate its exact vector"
+    } ]
+  }, {
+    "tStartMs": 116049,
+    "dDurationMs": 3441,
+    "segs": [ {
+      "utf8": "positions, velocities, and accelerations at\neach time."
+    } ]
+  }, {
+    "tStartMs": 119490,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "That’s doable for, say, a ball flying through\nthe air, but it gets frankly pretty hellish"
+    } ]
+  }, {
+    "tStartMs": 124960,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "for complicated systems. So maybe we were still in the market for a simple guiding principle"
+    } ]
+  }, {
+    "tStartMs": 130629,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "after all."
+    } ]
+  }, {
+    "tStartMs": 131629,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "It was Joseph-Louis Lagrange who found that principle. Consider again the ball flying"
+    } ]
+  }, {
+    "tStartMs": 136430,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "through the air. We can describe that motion without the painful vectors if we use energy."
+    } ]
+  }, {
+    "tStartMs": 141890,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "The ball starts out moving fast - it has a\nlot of kinetic energy, which it trades for"
+    } ]
+  }, {
+    "tStartMs": 145940,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "potential energy as it rises, and then back\nto kinetic as it falls. If you need a refresher"
+    } ]
+  }, {
+    "tStartMs": 151430,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "on the energy stuff, check out our previous video when you’re done here. You can figure"
+    } ]
+  }, {
+    "tStartMs": 156360,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "out a lot using just energy - like the maximum height the ball will reach. But because energy"
+    } ]
+  }, {
+    "tStartMs": 160640,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "doesn’t include directional information\n- vectors - it seems you shouldn’t be able"
+    } ]
+  }, {
+    "tStartMs": 165800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to determine the exact path. Except you can."
+    } ]
+  }, {
+    "tStartMs": 170040,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "Lagrange realized that a particular combination of kinetic and potential energy had the same"
+    } ]
+  }, {
+    "tStartMs": 175150,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "minimizing property as does time for the path of light. He found that the ball will always"
+    } ]
+  }, {
+    "tStartMs": 180550,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "follow the path that minimizes the time-averaged difference between these energies. In other"
+    } ]
+  }, {
+    "tStartMs": 186890,
+    "dDurationMs": 4429,
+    "segs": [ {
+      "utf8": "words, add up the difference between kinetic and potential energy at all time steps during"
+    } ]
+  }, {
+    "tStartMs": 191319,
+    "dDurationMs": 6621,
+    "segs": [ {
+      "utf8": "the flight and you get a number. Then try\nthe same for any other path you can imagine."
+    } ]
+  }, {
+    "tStartMs": 197940,
+    "dDurationMs": 5499,
+    "segs": [ {
+      "utf8": "The result will come out higher for every\npath other than the path the ball actually"
+    } ]
+  }, {
+    "tStartMs": 203439,
+    "dDurationMs": 6681,
+    "segs": [ {
+      "utf8": "travels. Lagrange called this new quantity\nthe Action. Formally, it’s the integral"
+    } ]
+  }, {
+    "tStartMs": 210120,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "over time of the kinetic minus potential energies."
+    } ]
+  }, {
+    "tStartMs": 213780,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And that difference in energies itself got\nthe name Lagrangian, which itself turns out"
+    } ]
+  }, {
+    "tStartMs": 218780,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "to be an enormously important and useful quantity. Lagrange proposed that everything in Nature"
+    } ]
+  }, {
+    "tStartMs": 224150,
+    "dDurationMs": 6039,
+    "segs": [ {
+      "utf8": "happens in such a way that Action is always\nminimized. And so was discovered the Principle"
+    } ]
+  }, {
+    "tStartMs": 230189,
+    "dDurationMs": 6511,
+    "segs": [ {
+      "utf8": "of Least Action. A century later William Hamilton made the important correction that Action"
+    } ]
+  }, {
+    "tStartMs": 236700,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "is always minimized OR maximized. Here’s\nan imaginary graph of how the action can change"
+    } ]
+  }, {
+    "tStartMs": 243220,
+    "dDurationMs": 6549,
+    "segs": [ {
+      "utf8": "between paths - you get paths where it’s\nat its lowest and at its highest. Moving objects"
+    } ]
+  }, {
+    "tStartMs": 249769,
+    "dDurationMs": 5011,
+    "segs": [ {
+      "utf8": "tend to choose paths where the variation of\nthe action between nearby paths doesn’t"
+    } ]
+  }, {
+    "tStartMs": 254780,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "change much - in other words, where the slope of this curve is zero, and that’s true at"
+    } ]
+  }, {
+    "tStartMs": 260030,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "both the minima and maxima. Most of the time it’s the minimum, which is why most people"
+    } ]
+  }, {
+    "tStartMs": 264150,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "still call this the Principle of Least Action,\nbut others call it the Stationary Action Principle."
+    } ]
+  }, {
+    "tStartMs": 269410,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "If the principle of Least Action is true,\nthen it should be possible to figure out the"
+    } ]
+  }, {
+    "tStartMs": 273480,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "path that any object will take between two\npoints as long as you can find a way to determine"
+    } ]
+  }, {
+    "tStartMs": 278610,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "which has the minimum action. That sounds hard, but thankfully Lagrange and Euler already"
+    } ]
+  }, {
+    "tStartMs": 285110,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "did most of the work for us by finding the\nEuler-Lagrange equations, allowing both physics"
+    } ]
+  }, {
+    "tStartMs": 290130,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "students and nature to minimize their action. The Principle of Least Action in combination"
+    } ]
+  }, {
+    "tStartMs": 295780,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "with the Euler-Lagrange equations leads to\nLagrangian mechanics."
+    } ]
+  }, {
+    "tStartMs": 300100,
+    "dDurationMs": 4569,
+    "segs": [ {
+      "utf8": "When you study Newton’s mechanics and then move on to Lagrangian mechanics, it seems"
+    } ]
+  }, {
+    "tStartMs": 304669,
+    "dDurationMs": 5211,
+    "segs": [ {
+      "utf8": "almost like a miracle. The hellishly complex\nequations needed to solve problems using pure"
+    } ]
+  }, {
+    "tStartMs": 309880,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "Newton seem to just melt away into much simpler forms. This simplicity comes from the fact"
+    } ]
+  }, {
+    "tStartMs": 317100,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "that with Lagrangian mechanics we can dispense with forces and vectors in general, and only"
+    } ]
+  }, {
+    "tStartMs": 322770,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "consider the energies."
+    } ]
+  }, {
+    "tStartMs": 324810,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "The Principle of Least Action is so powerful\nthat it really seems like it must be telling"
+    } ]
+  }, {
+    "tStartMs": 329210,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "us something deep about the universe. But\nwhat? It’s hard to interpret what this Action"
+    } ]
+  }, {
+    "tStartMs": 335130,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "property really signifies. Well, if it really\nis so fundamental then it should apply well"
+    } ]
+  }, {
+    "tStartMs": 340700,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "beyond classical mechanics and into our modern theories - in particular general relativity"
+    } ]
+  }, {
+    "tStartMs": 345870,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "and quantum mechanics. And perhaps in these we’ll find clues as to what the action is"
+    } ]
+  }, {
+    "tStartMs": 351050,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "really about."
+    } ]
+  }, {
+    "tStartMs": 352120,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Let's start with Einstein’s General Theory\nof Relativity, which, as we’ve discussed"
+    } ]
+  }, {
+    "tStartMs": 355900,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "before, describes the force of gravity in\nterms of the bending of the fabric of space"
+    } ]
+  }, {
+    "tStartMs": 360180,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "and time. One of Einstein’s motivations\nin developing general relativity was the fact"
+    } ]
+  }, {
+    "tStartMs": 365810,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "that Newtonian mechanics failed to correctly predict the orbit of Mercury. If you calculate"
+    } ]
+  }, {
+    "tStartMs": 371500,
+    "dDurationMs": 6021,
+    "segs": [ {
+      "utf8": "that orbit using the Einstein equations in\ntheir full glory and full gory detail, you"
+    } ]
+  }, {
+    "tStartMs": 377521,
+    "dDurationMs": 4618,
+    "segs": [ {
+      "utf8": "get the right answer. But you don’t even\nneed to go that far. If the Principle of Least"
+    } ]
+  }, {
+    "tStartMs": 382139,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Action is really a fundamental law, then there should be a relativistic version of the Action"
+    } ]
+  }, {
+    "tStartMs": 387259,
+    "dDurationMs": 5051,
+    "segs": [ {
+      "utf8": "that we can minimize to find Mercury’s orbit. After all, planets trade between potential"
+    } ]
+  }, {
+    "tStartMs": 392310,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "and kinetic energy as they move around their orbits, just like the ball."
+    } ]
+  }, {
+    "tStartMs": 396180,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "It turns out that we only need to make a couple of relativistic corrections to do this. The"
+    } ]
+  }, {
+    "tStartMs": 401250,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "most important is writing the Lagrangian as\na function of something called proper time."
+    } ]
+  }, {
+    "tStartMs": 407340,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "In relativity, clocks run at different rates\ndepending on things like relative speed and"
+    } ]
+  }, {
+    "tStartMs": 412180,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "position in a gravitational field. Proper\ntime is the time that an object will perceive"
+    } ]
+  }, {
+    "tStartMs": 416930,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "in its own reference frame. If you plug the\nrelativistic Lagrangian into the Euler-Lagrange"
+    } ]
+  }, {
+    "tStartMs": 423060,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "equation, you get equations of motion correctly describing the orbit of Mercury around the Sun."
+    } ]
+  }, {
+    "tStartMs": 429660,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "This shows us that the Principle of Least\nAction holds up in GR - but it reveals a lot"
+    } ]
+  }, {
+    "tStartMs": 435290,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "more. First, it means that Lagrangian mechanics based on this principle can be made to be"
+    } ]
+  }, {
+    "tStartMs": 441080,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "“Lorentz invariant” - it gives equations\nof motion that are valid even in the shifting"
+    } ]
+  }, {
+    "tStartMs": 446300,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "frames of Einstein’s relativity. And we\nalso start to learn something about the nature"
+    } ]
+  }, {
+    "tStartMs": 450259,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "of the Action. Once we apply the relativistic corrections, the Action simplifies into just"
+    } ]
+  }, {
+    "tStartMs": 455889,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "the integral over proper time. Let's take a moment to think about that. Before Action"
+    } ]
+  }, {
+    "tStartMs": 461789,
+    "dDurationMs": 6871,
+    "segs": [ {
+      "utf8": "was a somewhat vague notion of change in energy, but working with a more precise model of the"
+    } ]
+  }, {
+    "tStartMs": 468660,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "universe we see Action is much easier to understand. Action is now just how much time is perceived"
+    } ]
+  }, {
+    "tStartMs": 476360,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "by an observer in their own frame of reference. All objects moving through space time move"
+    } ]
+  }, {
+    "tStartMs": 482319,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "through paths that minimize the time measured on that path."
+    } ]
+  }, {
+    "tStartMs": 486610,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Remember that Fermat figured out that light always travels the path that minimizes its"
+    } ]
+  }, {
+    "tStartMs": 491160,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "travel time - the principle of least time.\nWell it turns out that this is just a special"
+    } ]
+  }, {
+    "tStartMs": 495430,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "case of a Principle of Least Proper Time.\nThe reason for this is that in the classical"
+    } ]
+  }, {
+    "tStartMs": 501180,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "limit proper time becomes kinetic minus potential energy for objects with mass, but for objects"
+    } ]
+  }, {
+    "tStartMs": 507650,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "without mass, like light, proper time and\ntime are the same."
+    } ]
+  }, {
+    "tStartMs": 511830,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "OK, it seems like we’re getting somewhere.\nLet’s see if quantum mechanics will get"
+    } ]
+  }, {
+    "tStartMs": 516020,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "us any deeper, or perhaps just make everything more confusing."
+    } ]
+  }, {
+    "tStartMs": 519520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Let’s start with the famous double slit\nexperiment, as we so often do when talking"
+    } ]
+  }, {
+    "tStartMs": 524140,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "quantum mechanics. In it, a stream of quantum particles are launched at a barrier with two"
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "slits cut in it. When the stream reaches a\ndetector screen on the other side the individual"
+    } ]
+  }, {
+    "tStartMs": 533660,
+    "dDurationMs": 4429,
+    "segs": [ {
+      "utf8": "particles make individual spots, but over time the spots make out this series of bands"
+    } ]
+  }, {
+    "tStartMs": 538089,
+    "dDurationMs": 5061,
+    "segs": [ {
+      "utf8": "- an interference pattern. The quantum interpretation of this is that the particle travels between"
+    } ]
+  }, {
+    "tStartMs": 543150,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "its source and the screen not as a particle\nwith a well-defined trajectory, but as a quantum"
+    } ]
+  }, {
+    "tStartMs": 547920,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "wavefunction that represents all possible\npaths it could take. The wavefunction at the"
+    } ]
+  }, {
+    "tStartMs": 552450,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "screen represents the range of possible final locations for those paths, with some being"
+    } ]
+  }, {
+    "tStartMs": 557690,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "more probable than others. The particle then appears to randomly select a position from"
+    } ]
+  }, {
+    "tStartMs": 563040,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "that distribution."
+    } ]
+  }, {
+    "tStartMs": 564170,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "But there seems to be a conflict here. The\nprinciple of least action says that a particle"
+    } ]
+  }, {
+    "tStartMs": 568380,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "will always land where the action of the trajectory is at a minimum or maximum. That should correspond"
+    } ]
+  }, {
+    "tStartMs": 574840,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "only to the central points of those bands.\nHowever we see particles landing at every"
+    } ]
+  }, {
+    "tStartMs": 580390,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "location in between - albeit with more likelihood the closer you get to these action stationary"
+    } ]
+  }, {
+    "tStartMs": 585760,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "points. So perhaps Action isn’t as fundamental as we thought it was. Or perhaps this is telling"
+    } ]
+  }, {
+    "tStartMs": 592020,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "us more about what the Action really is."
+    } ]
+  }, {
+    "tStartMs": 596160,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "Paul Dirac very nearly figured this out. He\nrealized that a quantum analog of the action"
+    } ]
+  }, {
+    "tStartMs": 602350,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "existed that was related to the integrated\ntime evolution of the wavefunction. And he"
+    } ]
+  }, {
+    "tStartMs": 608060,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "realized that this quantity should result\nin destructive interference in most places"
+    } ]
+  }, {
+    "tStartMs": 612830,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "- like the dark bands in the double slit experiment. It would lead to constructive interference"
+    } ]
+  }, {
+    "tStartMs": 618410,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "only where this quantum action varied slowly - near it’s stationary points, just like"
+    } ]
+  }, {
+    "tStartMs": 624480,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "with classical action."
+    } ]
+  }, {
+    "tStartMs": 626570,
+    "dDurationMs": 5761,
+    "segs": [ {
+      "utf8": "But the real action hero of this story is\nRichard Feynman. Remember that the action"
+    } ]
+  }, {
+    "tStartMs": 632331,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "tells us about a particle’s history along\nsome hypothetical path. Feynman realized that"
+    } ]
+  }, {
+    "tStartMs": 637670,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "the path of a quantum object could be determined by adding together all possible paths that"
+    } ]
+  }, {
+    "tStartMs": 642380,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "particle could take weighted by this quantum action. In this case the quantum action doesn’t"
+    } ]
+  }, {
+    "tStartMs": 648660,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "come from adding up kinetic minus potential energy nor the proper time. Instead, it effectively"
+    } ]
+  }, {
+    "tStartMs": 654580,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "calculates the phase shift that a particle\npicks up along each path towards a destination."
+    } ]
+  }, {
+    "tStartMs": 660630,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "Then it adds the phases of all conceivable\npaths to that destination. We find that the"
+    } ]
+  }, {
+    "tStartMs": 666840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "most likely destinations are those where the phases line up - constructively interfere."
+    } ]
+  }, {
+    "tStartMs": 672040,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "This is Feynman’s path integral formulation\nof quantum mechanics, and it exactly reproduces"
+    } ]
+  }, {
+    "tStartMs": 677220,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the predictions of previous versions of quantum mechanics - for example, Schrodinger’s wave"
+    } ]
+  }, {
+    "tStartMs": 682020,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "mechanics that talks about the evolution of a single wavefunction. This is analogous to"
+    } ]
+  }, {
+    "tStartMs": 687110,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "how Lagrangian mechanics reproduced Newton’s mechanics. And it’s no coincidence, because"
+    } ]
+  }, {
+    "tStartMs": 692830,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "the path integral is the quantum analog of\nthe Principle of Least Action."
+    } ]
+  }, {
+    "tStartMs": 698000,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "So what does this tell us about the Action?\nWell, the path integral tells us that a particular"
+    } ]
+  }, {
+    "tStartMs": 703710,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "final destination is likely if the phases\nof the many paths that could lead to that"
+    } ]
+  }, {
+    "tStartMs": 709070,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "destination line up. Away from those special points, very tiny changes in the path lead"
+    } ]
+  }, {
+    "tStartMs": 714670,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "to rapid changes in the phase, causing those paths to cancel out."
+    } ]
+  }, {
+    "tStartMs": 719160,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "As Dirac started to guess, particles tend\nto end up near the stationary points of the"
+    } ]
+  }, {
+    "tStartMs": 723820,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "quantum action. In the path integral, this happens for paths that take the shortest path, "
+    } ]
+  }, {
+    "tStartMs": 729500,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "but not the shortest path through space, the shortest path through something called"
+    } ]
+  }, {
+    "tStartMs": 735150,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "configuration space."
+    } ]
+  }, {
+    "tStartMs": 736880,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "And this “configuration space” is what\nties all of this together. Configuration space"
+    } ]
+  }, {
+    "tStartMs": 742420,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "is the space of all possible trajectories\ngiven our object’s constraints. In the case"
+    } ]
+  }, {
+    "tStartMs": 747670,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "of the ball, configuration space refers to\nall the places the ball could reach with its"
+    } ]
+  }, {
+    "tStartMs": 752270,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "current Potential and Kinetic Energies. When we take this to relativity we see the configuration"
+    } ]
+  }, {
+    "tStartMs": 758310,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "space becomes configuration spacetime, where the shortest path minimizes proper time. In"
+    } ]
+  }, {
+    "tStartMs": 764760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "quantum mechanics configuration space could mean phase space - the space of possible positions"
+    } ]
+  }, {
+    "tStartMs": 770480,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "and momenta - or it could be more general\nstate space, representing all the quantum"
+    } ]
+  }, {
+    "tStartMs": 776870,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "states that a system could evolve through."
+    } ]
+  }, {
+    "tStartMs": 779690,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "The application of the quantum action principle to the evolution through quantum states underpins"
+    } ]
+  }, {
+    "tStartMs": 786140,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "modern quantum theory. Back to Paul Dirac just for a moment. His eponymous equation was derived"
+    } ]
+  }, {
+    "tStartMs": 793460,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "to describe the quantum evolution of the electron."
+    } ]
+  }, {
+    "tStartMs": 796940,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "Well it turns out that this equation is just\nthe Lagrangian for a spin-½ quantum field."
+    } ]
+  }, {
+    "tStartMs": 803560,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "And there’s a Lagrangian for each quantum field which describes how that field and its"
+    } ]
+  }, {
+    "tStartMs": 810120,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "particles tend to evolve. Combining these\ngives us the Standard Model Lagrangian, which"
+    } ]
+  }, {
+    "tStartMs": 816970,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "allows us to track the evolution of all quantum fields through configuration space, and so"
+    } ]
+  }, {
+    "tStartMs": 822440,
+    "dDurationMs": 3745,
+    "segs": [ {
+      "utf8": "predict the behavior of all known particles."
+    } ]
+  }, {
+    "tStartMs": 826185,
+    "dDurationMs": 5926,
+    "segs": [ {
+      "utf8": "And remember, this all started with Heron of Alexandria studying light two thousand years ago. He"
+    } ]
+  }, {
+    "tStartMs": 832111,
+    "dDurationMs": 5619,
+    "segs": [ {
+      "utf8": "found a very simple and beautiful pattern in nature, and this has been inspiring us ever"
+    } ]
+  }, {
+    "tStartMs": 837730,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "since. Through Fermat and Lagrange and Dirac and Feynman, each seeking a path through"
+    } ]
+  }, {
+    "tStartMs": 842750,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "the configuration space of ideas, guided by\nmysterious principles, not least of which"
+    } ]
+  }, {
+    "tStartMs": 849450,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "is the Action - pointing the surest way to\nthe fundamental nature of space time."
+    } ]
+  }, {
+    "tStartMs": 855030,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "We’d like to thank NORD VPN for supporting PBS. Imagine VPN as a secure, encrypted tunnel"
+    } ]
+  }, {
+    "tStartMs": 860960,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "for online traffic to flow. Nobody can see\nthrough the tunnel and get their hands on"
+    } ]
+  }, {
+    "tStartMs": 864980,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "your internet data. NordVPN allows you to\nuse public Wi-Fi in coffee shops or hotels,"
+    } ]
+  }, {
+    "tStartMs": 870100,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "or anywhere else that you’re on someone\nelse’s network. That way you can access"
+    } ]
+  }, {
+    "tStartMs": 873730,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "personal and work accounts on the road, or simply keep your browsing history to yourself."
+    } ]
+  }, {
+    "tStartMs": 879570,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "With NordVPN, you one account lets you connect securely up to 6 devices. They don’t log"
+    } ]
+  }, {
+    "tStartMs": 885140,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "your activity while you’re online, they’ve\ngot thousands of servers in 60 countries,"
+    } ]
+  }, {
+    "tStartMs": 890660,
+    "dDurationMs": 6790,
+    "segs": [ {
+      "utf8": "and 24/7 customer support. To learn more about NordVPN, just check out https://nordvpn.com/spacetime."
+    } ]
+  }, {
+    "tStartMs": 897450,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "As always, if you've joined us on Patreon,\nI can't emphasize enough how helpful your"
+    } ]
+  }, {
+    "tStartMs": 901770,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "support is in keeping this show going. But\ntoday I want to give a huge shoutout to our"
+    } ]
+  }, {
+    "tStartMs": 908050,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Quasar supporter Michael Schneider. Hamilton's principle tells us that action must always"
+    } ]
+  }, {
+    "tStartMs": 913890,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "be minimized or maximized. Michael, thank you for choosing maximal action. You clearly"
+    } ]
+  }, {
+    "tStartMs": 920550,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "have a Lagrangian of the highest order, and we're delighted that our equations of motion"
+    } ]
+  }, {
+    "tStartMs": 926510,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "have joined forces."
+    } ]
+  }, {
+    "tStartMs": 927510,
+    "dDurationMs": 4181,
+    "segs": [ {
+      "utf8": "Let’s get into your comments on our recent\nepisode on constructor theory. This was a"
+    } ]
+  }, {
+    "tStartMs": 931691,
+    "dDurationMs": 4549,
+    "segs": [ {
+      "utf8": "contentious one. Many of you were dubious that constructor theory really offers anything"
+    } ]
+  }, {
+    "tStartMs": 936240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "new. And honestly, I started out wondering\nthe same and it took me a lot of time to get"
+    } ]
+  }, {
+    "tStartMs": 940360,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "an inkling that there probably is something\nin it. I’m still not as convinced as, for"
+    } ]
+  }, {
+    "tStartMs": 944890,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "example, David Deutsch, that this is some sort of huge revolution, but it at least seems"
+    } ]
+  }, {
+    "tStartMs": 949830,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "a useful path to explore."
+    } ]
+  }, {
+    "tStartMs": 951650,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "Nestor de Buen asks: Isn’t this more of\nan epistemological framework than a theory?"
+    } ]
+  }, {
+    "tStartMs": 958000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Adding that everything would be better if\nphysicists and philosophers of science collaborated"
+    } ]
+  }, {
+    "tStartMs": 962960,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "more. So my sense is that constructor theory does try to bring a philosophical perspective"
+    } ]
+  }, {
+    "tStartMs": 968900,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "shift, which in principle can be incredibly\nuseful. All great discoveries came from perspective"
+    } ]
+  }, {
+    "tStartMs": 974380,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "shifts. But there is math behind it also,\nwhich I understand is based on set theory"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "and ergodic theory - and for a great resource on those I recommend … the internet."
+    } ]
+  }, {
+    "tStartMs": 986020,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Speaking of the math - Corbin Simpson and Skooks say that constructor theory sounds"
+    } ]
+  }, {
+    "tStartMs": 990750,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "like category theory. I only learned about\ncategory theory while researching this episode,"
+    } ]
+  }, {
+    "tStartMs": 996810,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "when Chiara Marletto was asked at the end of one of her lectures whether she’d tried"
+    } ]
+  }, {
+    "tStartMs": 1001120,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "formulating constructors theory in terms of category theory, and she said the hadn’t"
+    } ]
+  }, {
+    "tStartMs": 1005560,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "but agreed maybe they should. So nice insight there, Corbin \u0026 Skooks. As for what category"
+    } ]
+  }, {
+    "tStartMs": 1011880,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "theory is it’s loosely a way to generalize\nmathematics by representing mathematical concepts"
+    } ]
+  }, {
+    "tStartMs": 1016970,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "and the relationships between them with graphs. But for details check my previous reference"
+    } ]
+  }, {
+    "tStartMs": 1021880,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "- the internet. Chapter 7.4 I think. But as\nfar as I understand, category theory, set"
+    } ]
+  }, {
+    "tStartMs": 1027850,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "theory, and presumably constructor theory,\nare all attempts at formalizing how we define"
+    } ]
+  }, {
+    "tStartMs": 1032310,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and arrange our axiomatic foundations."
+    } ]
+  }, {
+    "tStartMs": 1035070,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "This is all some pretty obtuse stuff, and\nsome of you did better at explaining the point"
+    } ]
+  }, {
+    "tStartMs": 1040880,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "of constructor theory than I did, so let me\njust summarize."
+    } ]
+  }, {
+    "tStartMs": 1044839,
+    "dDurationMs": 4581,
+    "segs": [ {
+      "utf8": "The Andy points out that constructor theory seeks to narrow down the space of all possible"
+    } ]
+  }, {
+    "tStartMs": 1049420,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "functions that might represent physical laws into the subset of functions that are consistent"
+    } ]
+  }, {
+    "tStartMs": 1055350,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "with the restrictions that come from observation. Subsequent observations and constraints then"
+    } ]
+  }, {
+    "tStartMs": 1060750,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "allow that set to be further narrowed. The\nhope is that this process converges on a single"
+    } ]
+  }, {
+    "tStartMs": 1066240,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "function, which means physics is over. Or\nwe might find there are still infinite functions"
+    } ]
+  }, {
+    "tStartMs": 1071630,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "that can perfectly describe the universe."
+    } ]
+  }, {
+    "tStartMs": 1074050,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "Joe Habel also puts it well: If we assume the universe operates under certain assumptions"
+    } ]
+  }, {
+    "tStartMs": 1080080,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "(infinite/finite, discrete/continuous spacetime, invariance, quantum etc.) then constructor theory gives us"
+    } ]
+  }, {
+    "tStartMs": 1086920,
+    "dDurationMs": 7010,
+    "segs": [ {
+      "utf8": "insights as to what math is possible, and\nwhat math should be restricting our models."
+    } ]
+  }, {
+    "tStartMs": 1093930,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Nicely put Joe - so rather than digging for\nthe particular equation that describes the precise"
+    } ]
+  }, {
+    "tStartMs": 1099930,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "details of a given observed phenomenon - usually by trial and error - we come at in from the"
+    } ]
+  }, {
+    "tStartMs": 1105130,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "other direction and ask what sub-realm of\nmath-space we should be looking at given what"
+    } ]
+  }, {
+    "tStartMs": 1110980,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "we know with certainty is possible and impossible."
+    } ]
+  }, {
+    "tStartMs": 1114940,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "DJclub notes that constructor theory feels\nlike alchemy. Relatedly, Cluebcke says “Rough"
+    } ]
+  }, {
+    "tStartMs": 1121390,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "shade on Newton with that whole \"you can't transmute apples into gold\" line” - and for"
+    } ]
+  }, {
+    "tStartMs": 1126240,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "those are unaware, Isaac Newton was an avid alchemist. But I think there’s a point to be made here."
+    } ]
+  }, {
+    "tStartMs": 1132380,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "How could Newton have know which lines of inquiry would be “fruitful” without exploring"
+    } ]
+  }, {
+    "tStartMs": 1137780,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "them? Constructor theory might be another alchemy, or it might be another Newtonian"
+    } ]
+  }, {
+    "tStartMs": 1142660,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "mechanics. Shall we find out?"
+    } ]
+  }, {
+    "tStartMs": 1146940,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Not according to Syn Severus, who says It’s honestly the dumbest thing in existence. Best"
+    } ]
+  }, {
+    "tStartMs": 1152940,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "to forget it exists. I’m swayed by the strength of your conviction, Syn Severus… I guess"
+    } ]
+  }, {
+    "tStartMs": 1158590,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "we can rule out … What were we talking about again?"
+    } ]
+  } ]
+}

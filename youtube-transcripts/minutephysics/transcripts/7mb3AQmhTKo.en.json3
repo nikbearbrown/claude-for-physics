@@ -1,0 +1,43 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 580,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The moon has no permanent dark side,"
+    } ]
+  }, {
+    "tStartMs": 2980,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but it does have a far side, because it is tidally locked with the Earth."
+    } ]
+  }, {
+    "tStartMs": 6180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "it rotates exactly once for each revolution around the earth,"
+    } ]
+  }, {
+    "tStartMs": 8880,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "and we only ever see one side of the moon,"
+    } ]
+  }, {
+    "tStartMs": 10540,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "even though the sun, sees all."
+    } ]
+  } ]
+}

@@ -1,0 +1,1231 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "We'd like to thank opera for supporting PBS,"
+    } ]
+  }, {
+    "tStartMs": 2400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and you can learn more about \nthem at the end of our episode."
+    } ]
+  }, {
+    "tStartMs": 5040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The James Webb Space Telescope found galaxies \nthat are too ancient-looking for our young"
+    } ]
+  }, {
+    "tStartMs": 10480,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "universe. Now you may have heard that, but \nJWST keeps finding them, and our recent"
+    } ]
+  }, {
+    "tStartMs": 17920,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "efforts to solve this conundrum point in wildly \ndifferent directions. Have we found galaxies"
+    } ]
+  }, {
+    "tStartMs": 24160,
+    "dDurationMs": 12400,
+    "segs": [ {
+      "utf8": "older than the universe, or did we just learn \nsomething incredible about how galaxies form?"
+    } ]
+  }, {
+    "tStartMs": 36560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Before we get started, a couple quick \nannouncements. First, we have some new data:"
+    } ]
+  }, {
+    "tStartMs": 41760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "liking and commenting really \ndoes help get episodes shared."
+    } ]
+  }, {
+    "tStartMs": 50000,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "And we’ve also learned that the number one reason \npeople support us on Patreon isn’t the perks—it’s"
+    } ]
+  }, {
+    "tStartMs": 56720,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "simply to support the Space Time community and the \nwork we do. So thank you. If you’d like to join us"
+    } ]
+  }, {
+    "tStartMs": 65600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "on Patreon to help bring more physics to \neveryone, there’s a link in the description."
+    } ]
+  }, {
+    "tStartMs": 75600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Next up. Today’s episode is part of \nPBS Earth Month! PBS is celebrating by"
+    } ]
+  }, {
+    "tStartMs": 80720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "releasing a ton of great new episodes diving \ndeep into our amazing planet. In particular,"
+    } ]
+  }, {
+    "tStartMs": 86480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "you might enjoy the latest latest Be \nSmart, which explores the math, science,"
+    } ]
+  }, {
+    "tStartMs": 91680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "and history of the Mercator Map, a flawed \nwork of genius that, in more ways than one,"
+    } ]
+  }, {
+    "tStartMs": 97360,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "changed the world. Links to that episode and the \nfull Earth Month playlist in the description!"
+    } ]
+  }, {
+    "tStartMs": 102800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Next up we’re excited to announce our \nthird celebration of a galaxy far,"
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "far away with our Return of the Geodesic \nmerch. Because whether you’re following a"
+    } ]
+  }, {
+    "tStartMs": 111680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "geodesic on a closed universe or reliving \nyour favorite saga, you’ll always know"
+    } ]
+  }, {
+    "tStartMs": 116160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "where you’ll end up! And now until May the \n4th there’s 10% off the whole merch store,"
+    } ]
+  }, {
+    "tStartMs": 120800,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "with special deals if you combine your order with \nprevious May the 4th merch. Now on to the episode."
+    } ]
+  }, {
+    "tStartMs": 127280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Telescopes are time machines. Light takes time to \nget to us, so we see distant objects as they were"
+    } ]
+  }, {
+    "tStartMs": 132640,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "when their light began its Earthward journey. \nAs our telescopes become more powerful they"
+    } ]
+  }, {
+    "tStartMs": 138320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "see further, and so more and more of the past \nbecomes accessible to us. The James Webb Space"
+    } ]
+  }, {
+    "tStartMs": 144240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Telescope is one of the most powerful time \nmachines ever built. It’s powerful enough"
+    } ]
+  }, {
+    "tStartMs": 149440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "that it’s discovered galaxies whose light has \nbeen traveling to us since the universe was"
+    } ]
+  }, {
+    "tStartMs": 154960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "a little over 2% of its current age. The \nuniverse back then should look different,"
+    } ]
+  }, {
+    "tStartMs": 160560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "right? Those galaxies should look different. After \nall, this is when galaxies first started to grow,"
+    } ]
+  }, {
+    "tStartMs": 166800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "when they should have been vigorously \nforming many of their stars. They"
+    } ]
+  }, {
+    "tStartMs": 170880,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "should look like hyperactive kids. Those \ntypes of galaxies are around back then,"
+    } ]
+  }, {
+    "tStartMs": 177680,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "yet JWST has also seen much more developed, \n“adult” galaxies. Some that look way too big,"
+    } ]
+  }, {
+    "tStartMs": 185920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "and way too ancient-looking for a universe \nonly a few hundred million years old."
+    } ]
+  }, {
+    "tStartMs": 191200,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Over the past year or two, this mystery has made \nthe pop-sci rounds. That included some breathless"
+    } ]
+  }, {
+    "tStartMs": 197840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "speculation—like the idea that the entire \nBig Bang model is wrong. If there are ancient"
+    } ]
+  }, {
+    "tStartMs": 203200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "galaxies 13 billion years ago, then how can the \nuniverse be only 13 and a half billion years old?"
+    } ]
+  }, {
+    "tStartMs": 209920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So far we haven’t weighed in on this conundrum. \nNow many others have done a fantastic job laying"
+    } ]
+  }, {
+    "tStartMs": 215920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "it out and debunking some of the foolishness. Dr \nBecky in particular was on top of the progress"
+    } ]
+  }, {
+    "tStartMs": 220960,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "as new data came in from JWST. So, why should we \ncover it now? First, a lot of you have asked for"
+    } ]
+  }, {
+    "tStartMs": 227840,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "our take and it’s time to go on record. Second, \nthe evolution of this mystery has been quite an"
+    } ]
+  }, {
+    "tStartMs": 234560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "emotional rollercoaster, swinging from unsolvable \nto solved, and now there’s new work that swings"
+    } ]
+  }, {
+    "tStartMs": 241040,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "back in the direction of WTF. So let’s talk about \nthe current status of the early galaxy conundrum."
+    } ]
+  }, {
+    "tStartMs": 248880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And before that, let’s talk a \nbit more about what we actually"
+    } ]
+  }, {
+    "tStartMs": 253360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "expect the early universe galaxies to look like."
+    } ]
+  }, {
+    "tStartMs": 257760,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Galaxies pulled themselves together from tiny \ndensity fluctuations in the very early universe"
+    } ]
+  }, {
+    "tStartMs": 263120,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "that we see in the dappling of the cosmic \nmicrowave background. The CMB reveals regions"
+    } ]
+  }, {
+    "tStartMs": 269840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "with tiny excesses of matter—hydrogen gas, but \nmore importantly dark matter which outweighs the"
+    } ]
+  }, {
+    "tStartMs": 275840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "gas by a factor of at least five. As dark matter \npulled itself together by gravity it pulled the"
+    } ]
+  }, {
+    "tStartMs": 281840,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "gas in with it. And as that gas compacted, \nthe first stars were also born. These very"
+    } ]
+  }, {
+    "tStartMs": 287920,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "early galaxies must have started small, but with \npretty crazy star formation due to the enormous"
+    } ]
+  }, {
+    "tStartMs": 294240,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "abundance of gas at that time. As those galaxies \ncontinued to grow, they collided and merged,"
+    } ]
+  }, {
+    "tStartMs": 300640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and eventually built themselves up into \nthe mature galaxies that we see today."
+    } ]
+  }, {
+    "tStartMs": 305520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "We think we understand this stuff pretty well \n- or at least thought we did. Between the"
+    } ]
+  }, {
+    "tStartMs": 310800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "precise CMB measurements and our theoretical \nunderstanding of gravity, star formation,"
+    } ]
+  }, {
+    "tStartMs": 315600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "etc., our computer simulations allow us \nto explore the possible growth scenarios"
+    } ]
+  }, {
+    "tStartMs": 319760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "for galaxies. We can predict, for example, \nthat early galaxies should be forming stars"
+    } ]
+  }, {
+    "tStartMs": 325680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "like crazy due to the enormous amounts of raw \nmaterial—-hydrogen gas—that was around back then."
+    } ]
+  }, {
+    "tStartMs": 331280,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "One thing that should be even more robust as \na prediction is the size of dark matter halos."
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "These are the giant pools of dark matter that \nencompass all galaxies and hold them together."
+    } ]
+  }, {
+    "tStartMs": 344160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Because dark matter should not be \nstrongly effected by the complicated"
+    } ]
+  }, {
+    "tStartMs": 348640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "behavior of the gas and stars, we have \nhigh confidence in our understanding of"
+    } ]
+  }, {
+    "tStartMs": 353920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "how those halos grew over time. \nOr at least we thought we knew."
+    } ]
+  }, {
+    "tStartMs": 358560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "One very clear prediction of this whole model \nis that a lot of this halo growth should have"
+    } ]
+  }, {
+    "tStartMs": 363840,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "happened in the first 10% of the universe’s age. \nIn that first 1.5 billion years since the big bang"
+    } ]
+  }, {
+    "tStartMs": 370560,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "there shouldn’t have been essentially no very \nlarge halos, and so no very large galaxies."
+    } ]
+  }, {
+    "tStartMs": 377600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "And that’s what the theory and the simulations \nsay. But to check these we need powerful time"
+    } ]
+  }, {
+    "tStartMs": 382880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "machines— telescopes. Now as the telescopes got \nbigger and our cameras got more sensitive we"
+    } ]
+  }, {
+    "tStartMs": 388560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "were finally able to probe early enough times to \nproperly test our models of halo growth. And this"
+    } ]
+  }, {
+    "tStartMs": 395040,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "is where the problem started around 15-16 years \nago when our “high redshift galaxy surveys” - aka"
+    } ]
+  }, {
+    "tStartMs": 402080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "really far away galaxy surveys - finally \nreached these distances we got some answers."
+    } ]
+  }, {
+    "tStartMs": 408320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "And those surveys started seeing a few \ncases of what looked like giant halos at"
+    } ]
+  }, {
+    "tStartMs": 414480,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "earlier and earlier times. And also the hint \nof overly red galaxies in the early universe."
+    } ]
+  }, {
+    "tStartMs": 421600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Galaxies that are actively forming \nnew stars should be bright at short"
+    } ]
+  }, {
+    "tStartMs": 427120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "wavelengths because they have lots of \ngiant, hot, short-lived stars. They"
+    } ]
+  }, {
+    "tStartMs": 431920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "are relatively blue in color compared \nto older galaxies. And older galaxies"
+    } ]
+  }, {
+    "tStartMs": 437520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "that are no longer so actively forming \nstars look much redder because these"
+    } ]
+  }, {
+    "tStartMs": 442720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "short-lived blue stars exploded already."
+    } ]
+  }, {
+    "tStartMs": 445600,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Those early surveys didn't reveal anything crazy \nyet—just a handful of cases where the galaxies"
+    } ]
+  }, {
+    "tStartMs": 451200,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "looked too big and/or too evolved compared to \nwhat was expected from our models. In 2018,"
+    } ]
+  }, {
+    "tStartMs": 457440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Charles Steinhardt and team articulated this \nemerging tension in their paper “the impossibly"
+    } ]
+  }, {
+    "tStartMs": 463600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "early galaxy problem”. But impossible \nthings are well, impossible. It’s right"
+    } ]
+  }, {
+    "tStartMs": 469680,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "there in the name. So several not-impossible \nexplanations for these galaxies were devised."
+    } ]
+  }, {
+    "tStartMs": 477120,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "For one, we don’t see these overly-large dark \nmatter halos directly. We only see the starlight,"
+    } ]
+  }, {
+    "tStartMs": 484240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and we use that starlight to infer the \nmass of the stars and then the mass of"
+    } ]
+  }, {
+    "tStartMs": 488480,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "halos that contain them. But that step requires \nassumptions, and if any of those assumptions"
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "are wrong then perhaps we got the wrong halo \nmass. And the redness that suggests an old"
+    } ]
+  }, {
+    "tStartMs": 501200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "stellar population could be due to other \nthings too, and there are several other"
+    } ]
+  }, {
+    "tStartMs": 505760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "issues with these inferences besides. I’ll \ncome back to possible solutions in a bit."
+    } ]
+  }, {
+    "tStartMs": 511680,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But even if the galaxies observed in \nthese ground-based surveys were really"
+    } ]
+  }, {
+    "tStartMs": 517680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "too old looking and too big looking, \nwell we haven’t quite broken all of"
+    } ]
+  }, {
+    "tStartMs": 522640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "astrophysics and cosmology yet. If we \nstrain our models of galaxy formation,"
+    } ]
+  }, {
+    "tStartMs": 527280,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "we can potentially speed up galaxy \nevolution to show why these things exist"
+    } ]
+  }, {
+    "tStartMs": 533440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "by the time the universe is 10% of its \ncurrent age. What we’d really like to do"
+    } ]
+  }, {
+    "tStartMs": 539120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "is to look back even further in time to see \nif we can find the time when these galaxies"
+    } ]
+  }, {
+    "tStartMs": 544960,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "were themselves growing. And that’s what \nwe did with the James Webb Space Telescope."
+    } ]
+  }, {
+    "tStartMs": 551040,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "JWST was designed to push this early-galaxies \ngame to new extreme limits. It’s the largest"
+    } ]
+  }, {
+    "tStartMs": 558400,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "telescope ever deployed to space, which means the \nmost powerful. It’s also designed to be sensitive"
+    } ]
+  }, {
+    "tStartMs": 564320,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "to very long wavelengths of light—deep into the \ninfrared part of the electromagnetic spectrum."
+    } ]
+  }, {
+    "tStartMs": 569440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "The “mid-infrared” as we like to call it. \nThat’s important for these first galaxies"
+    } ]
+  }, {
+    "tStartMs": 575120,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "because of the expansion of the universe. Their \nlight has been traveling to us for much of the"
+    } ]
+  }, {
+    "tStartMs": 580480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "age of the universe. Because these EM waves \ntraveled through expanding space, they were"
+    } ]
+  }, {
+    "tStartMs": 587200,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "stretched out—their wavelengths lengthened. This \nis cosmological redshift, and higher redshift"
+    } ]
+  }, {
+    "tStartMs": 593120,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "means longer travel time and greater distance. For \nthe galaxies we’re interested in, this redshift"
+    } ]
+  }, {
+    "tStartMs": 599680,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "converts visible and even ultraviolet light \ninto mid-infrared—which is why JWST is needed."
+    } ]
+  }, {
+    "tStartMs": 606800,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "The first efforts with JWST used similar methods \nto our ground-based galaxy surveys. So maybe I"
+    } ]
+  }, {
+    "tStartMs": 614000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "give you a bit more detail on that. The first \nthing you do in a galaxy survey is to take"
+    } ]
+  }, {
+    "tStartMs": 618720,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "pics with different filters corresponding to \ndifferent wavelength bands and then you compare"
+    } ]
+  }, {
+    "tStartMs": 625040,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "the amount of light in each filter—we call this \nphotometric imaging. We can learn a lot of stuff"
+    } ]
+  }, {
+    "tStartMs": 631520,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "from the ratios of filter brightnesses— and so the \ncolors. We discover candidate galaxies this way,"
+    } ]
+  }, {
+    "tStartMs": 637760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "we make a crude estimate of the distance \nbecause the color ratios suggest a redshift,"
+    } ]
+  }, {
+    "tStartMs": 642560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "we can constrain the stellar population—both \nthe number of stars and the distribution of"
+    } ]
+  }, {
+    "tStartMs": 647920,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "different types—for example, the redder colors \nmean an older population with few massive stars."
+    } ]
+  }, {
+    "tStartMs": 654240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So what did JWST find? Well first, it \nconfirmed the presence of overly massive"
+    } ]
+  }, {
+    "tStartMs": 659200,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and overly old-looking galaxies from the \nearlier studies—and remember that was from"
+    } ]
+  }, {
+    "tStartMs": 664720,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "a cosmic age of around 10%--a redshift \nof 4. Now a critical advantage of JWST"
+    } ]
+  }, {
+    "tStartMs": 670960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "is that it’s sensitive enough to do proper \nspectroscopy on these galaxies—it can measure"
+    } ]
+  }, {
+    "tStartMs": 676160,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "their “spectrum”-- the amount of light as \na function of wavelength. These spectra"
+    } ]
+  }, {
+    "tStartMs": 681280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "confirmed that the redshifts are indeed very \nhigh. They also confirmed that the redness of"
+    } ]
+  }, {
+    "tStartMs": 687120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "the spectra is due to highly evolved stellar \npopulations, rather than, say, there being a"
+    } ]
+  }, {
+    "tStartMs": 692880,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "lot of dust in the galaxies, which can cause \nsimilar reddening in photometric analyses."
+    } ]
+  }, {
+    "tStartMs": 699360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "With these confirmations of old-looking early \ngalaxies, researchers more broadly really"
+    } ]
+  }, {
+    "tStartMs": 704560,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "started to pay attention. The media started \nto pick up on it when JWST pushed to greater"
+    } ]
+  }, {
+    "tStartMs": 711200,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "distances and earlier times and kept finding these \nthings. Currently, the earliest candidate giant,"
+    } ]
+  }, {
+    "tStartMs": 717840,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "evolved galaxy discovered by JWST is at \nredshift 7.3, at just 5% of the universe’s age."
+    } ]
+  }, {
+    "tStartMs": 725520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Now it seems we have a real conflict \nwith our models of galaxy formation."
+    } ]
+  }, {
+    "tStartMs": 730560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Dark matter halos too large and stellar \npopulations too evolved for the short amount"
+    } ]
+  }, {
+    "tStartMs": 736080,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "of time they had to develop. And this is about why \nwe started to hear some hysterical claims that the"
+    } ]
+  }, {
+    "tStartMs": 742880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "universe is twice as old as we thought, or that \nthe big bang model is completely overturned."
+    } ]
+  }, {
+    "tStartMs": 748000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "It’s not. And it isn't. There’s just so much \nindependent corroboration of our model of an"
+    } ]
+  }, {
+    "tStartMs": 755040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "expanding 13 point something billion \nyear old universe. You can’t point to"
+    } ]
+  }, {
+    "tStartMs": 760000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "one admittedly intriguing discrepancy and \ndecide to throw the baby universe out with"
+    } ]
+  }, {
+    "tStartMs": 765440,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "the bath water. There are much more parsimonious \nexplanations for our improbably early galaxies."
+    } ]
+  }, {
+    "tStartMs": 773440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Let’s look at one of the most compelling. Remember"
+    } ]
+  }, {
+    "tStartMs": 776400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "that when we calculate the masses of \nthese supposedly gigantic dark matter"
+    } ]
+  }, {
+    "tStartMs": 780560,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "halos, we based them on the starlight that \nwe see, and  that requires an understanding"
+    } ]
+  }, {
+    "tStartMs": 786480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "of the relationship between these two things, \nthe starlight and the dark matter halo mass."
+    } ]
+  }, {
+    "tStartMs": 791280,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And that involves assumptions. Here’s how that"
+    } ]
+  }, {
+    "tStartMs": 793680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "works. One assumption is that halo \nmass is connected to the mass in"
+    } ]
+  }, {
+    "tStartMs": 797440,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "stars,  and that “stellar mass” is connected \nto the amount of light we see in those stars."
+    } ]
+  }, {
+    "tStartMs": 804080,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "But we don’t see the light from all of the \nstars—typically the light we collect is dominated"
+    } ]
+  }, {
+    "tStartMs": 810800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "by the brightest stars in the galaxy. We then have \nto decide on the relative numbers of the different"
+    } ]
+  }, {
+    "tStartMs": 816480,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "types of stars so we can extrapolate from the \nobserver starlight to the mass of all stars,"
+    } ]
+  }, {
+    "tStartMs": 821600,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "seen and unseen. And there's another assumption. \nAnd, yes, from there we can get to the halo mass."
+    } ]
+  }, {
+    "tStartMs": 829280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Knowing the distribution of stellar masses \nin a galaxy on the other side of the universe"
+    } ]
+  }, {
+    "tStartMs": 834720,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "takes some guesswork to say the least. And \nmaybe the biggest unknown there is something"
+    } ]
+  }, {
+    "tStartMs": 840800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "called the initial mass function—the \nIMF. It tells us the relative numbers"
+    } ]
+  }, {
+    "tStartMs": 845600,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "of stars at different masses that form \nwhen a burst of star formation happens."
+    } ]
+  }, {
+    "tStartMs": 851760,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "We typically use the IMF that has been measured \nfor the Milky Way galaxy, sometimes with various"
+    } ]
+  }, {
+    "tStartMs": 857280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "refinements. But we don’t know that stars \nformed with similar mass distributions in"
+    } ]
+  }, {
+    "tStartMs": 862560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the early universe. And they probably didn’t. \nFor example, when there’s less heavy elements"
+    } ]
+  }, {
+    "tStartMs": 867520,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "around from generations of old stars, its easier \nto make really gigantic stars because gas clouds"
+    } ]
+  }, {
+    "tStartMs": 873840,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "don’t fragment as much when the collapse. That \nwould give what we call a “top-heavy” IMF— so"
+    } ]
+  }, {
+    "tStartMs": 881680,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "more massive stars form in a given burst of star \nformation relative to what happens in the Milky"
+    } ]
+  }, {
+    "tStartMs": 888080,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Way. And more bright, massive stars means that \nthese galaxies would be overly bright for a given"
+    } ]
+  }, {
+    "tStartMs": 896080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "halo mass. So if we’re determining halo mass \nfrom the light of those massive stars then we"
+    } ]
+  }, {
+    "tStartMs": 902320,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "over estimate halo mass. Such a “top-heavy” IMF \nis probably the leading contender for explaining"
+    } ]
+  }, {
+    "tStartMs": 908960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "the apparent giantness of the dark matter \nhalos. And this may even solve the conundrum."
+    } ]
+  }, {
+    "tStartMs": 914560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "But the mystery does stop here. A new \nstudy just found exactly the opposite"
+    } ]
+  }, {
+    "tStartMs": 920160,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "result of this. This study claims to have \nidentified a sample of galaxies that are"
+    } ]
+  }, {
+    "tStartMs": 925680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "what those “impossibly early” galaxies \nbecame in this part of the universe."
+    } ]
+  }, {
+    "tStartMs": 931440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "And because this sample is much closer, \nwe can detect the light of much fainter,"
+    } ]
+  }, {
+    "tStartMs": 936480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "lower-mass stars. And so figure out the initial \nmass function down to much lower masses."
+    } ]
+  }, {
+    "tStartMs": 942480,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "And the result is bad. This study found \nthat the IMF is actually bottom-heavy in"
+    } ]
+  }, {
+    "tStartMs": 948880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "those galaxies. There are way more low mass \nstars—little red dwarfs and whatnot—compared"
+    } ]
+  }, {
+    "tStartMs": 954800,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "to  the Milky Way for example. And \ndefinitely very bottom-heavy compared"
+    } ]
+  }, {
+    "tStartMs": 960160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "to what we think a top-heavy IMF might look \nlike. The top-heavy IMF that was supposed"
+    } ]
+  }, {
+    "tStartMs": 966240,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "to solve the problem of the impossible galaxies. \nAnd in fact, this bottom-heavy IMFworsens the"
+    } ]
+  }, {
+    "tStartMs": 973200,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "problem. An excess of low-mass stars means \nthat when we convert galaxy light to stellar"
+    } ]
+  }, {
+    "tStartMs": 978320,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "mass we underestimate that stellar mass, and \npresumably underestimate it's dark matter halo"
+    } ]
+  }, {
+    "tStartMs": 984720,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "mass. And that makes it even harder to figure \nout how those things grew so fast so quick."
+    } ]
+  }, {
+    "tStartMs": 992800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "OK, before we join our crazy uncle on the anti-Big \nBang conspiracy facebook group, some words of"
+    } ]
+  }, {
+    "tStartMs": 998400,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "caution. We don’t really know whether this new \nstudy really did successfully identify the modern"
+    } ]
+  }, {
+    "tStartMs": 1004800,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "counterparts of our impossible galaxies, and \nthe authors admit that, calling them “likely"
+    } ]
+  }, {
+    "tStartMs": 1009680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "descendents”. We also don’t know what complicating \ninteractions these galaxies could have had in the"
+    } ]
+  }, {
+    "tStartMs": 1014960,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "intervening 13 billion years to muddle the \nIMF. We also don’t know that a bottom-heavy"
+    } ]
+  }, {
+    "tStartMs": 1020480,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "IMF rules out an IMF that’s also top-heavy. In \nother words, there could be an over-abundance"
+    } ]
+  }, {
+    "tStartMs": 1027440,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "of low mass stars AND of high mass stars all \ncompared to masses around that of the Sun. And"
+    } ]
+  }, {
+    "tStartMs": 1035200,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "it is plausible to assume an IMF like this that \nwould still bring down those early halo masses."
+    } ]
+  }, {
+    "tStartMs": 1043360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "There are similar challenges in explaining \nthe apparent redness of these early galaxies."
+    } ]
+  }, {
+    "tStartMs": 1049040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "The key here is that we need a way \nto shut star formation down much"
+    } ]
+  }, {
+    "tStartMs": 1053920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "more quickly than we thought likely. Perhaps \nthe leading contender is quite awesome—early"
+    } ]
+  }, {
+    "tStartMs": 1059600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "quasars—supermassive black holes in the \nhearts of these galaxies blasting out"
+    } ]
+  }, {
+    "tStartMs": 1064560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "radiation and winds that heats up and \nexpels gas so that stars stop forming"
+    } ]
+  }, {
+    "tStartMs": 1069200,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and the population can evolve quickly. We \nknow this sort of feedback from quasars"
+    } ]
+  }, {
+    "tStartMs": 1075520,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "happens, but we now need to understand why its \nso extreme in the early universe. That involves"
+    } ]
+  }, {
+    "tStartMs": 1083280,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "very rapid growth of supermassive black holes—yet \nanother very real and very interesting problem."
+    } ]
+  }, {
+    "tStartMs": 1090160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The most likely solution to all of this \nis that we’re going to learn an enormous"
+    } ]
+  }, {
+    "tStartMs": 1094000,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "amount about the surprising processes \nbehind structure growth, star formation,"
+    } ]
+  }, {
+    "tStartMs": 1100080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "black hole seeding and growth, and who \nknows what else. And once we figure it out,"
+    } ]
+  }, {
+    "tStartMs": 1105520,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "the impossible early galaxies will become more \nthan just possible—they’ll become inevitable:"
+    } ]
+  }, {
+    "tStartMs": 1111600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "a natural part of our updated \nunderstanding of our early spacetime."
+    } ]
+  }, {
+    "tStartMs": 1116400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Thank you to Opera for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 1118720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Opera offers a unique way to explore complex topics"
+    } ]
+  }, {
+    "tStartMs": 1121520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and the world around us. If your \nresearch requires a lot of tabs,"
+    } ]
+  }, {
+    "tStartMs": 1125120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "then Opera’s Tab Islands and Tab traces can \nhelp keep your tabs organized and visible."
+    } ]
+  }, {
+    "tStartMs": 1130960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "With Tab Islands you can group your tabs based on \ntheme, project or context or whatever organization"
+    } ]
+  }, {
+    "tStartMs": 1136800,
+    "dDurationMs": 6045,
+    "segs": [ {
+      "utf8": "makes sense to you. Just hover over the island and you can name them, coordinate them by color and expand and collapse"
+    } ]
+  }, {
+    "tStartMs": 1142845,
+    "dDurationMs": 4675,
+    "segs": [ {
+      "utf8": " as needed. And if you’re the type to keep 30 or more tabs \nopen while going down a research rabbit hole,"
+    } ]
+  }, {
+    "tStartMs": 1147520,
+    "dDurationMs": 5378,
+    "segs": [ {
+      "utf8": "Tab Traces lets you track your most \nrecently used tabs with a subtle"
+    } ]
+  }, {
+    "tStartMs": 1152898,
+    "dDurationMs": 4622,
+    "segs": [ {
+      "utf8": "visual underscore. The darker the underscore, the \nmore recently you visited that deep dive."
+    } ]
+  }, {
+    "tStartMs": 1157520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Opera’s split screen feature is \ndesigned to help users make use of"
+    } ]
+  }, {
+    "tStartMs": 1161600,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "screen space by letting you choose from \nvertical, horizontal, or grid layouts:"
+    } ]
+  }, {
+    "tStartMs": 1167360,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "when you drag your tabs downward, Opera \nsplits the screen up to four, resizable ways."
+    } ]
+  }, {
+    "tStartMs": 1173680,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "If you’d like to try out all the features of the \nOpera browser there’s a link in the description."
+    } ]
+  } ]
+}

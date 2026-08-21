@@ -1,0 +1,3127 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "- Mathematics began as a\nway to quantify our world,"
+    } ]
+  }, {
+    "tStartMs": 3730,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "to measure land,"
+    } ]
+  }, {
+    "tStartMs": 4910,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "predict the motions of planets,\nand keep track of commerce."
+    } ]
+  }, {
+    "tStartMs": 8480,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Then came a problem considered impossible."
+    } ]
+  }, {
+    "tStartMs": 11590,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "The secret to solving\nit was to separate math"
+    } ]
+  }, {
+    "tStartMs": 14450,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "from the real world, to\nsplit algebra from geometry"
+    } ]
+  }, {
+    "tStartMs": 18220,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "and to invent new numbers so fanciful"
+    } ]
+  }, {
+    "tStartMs": 20840,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "they are called imaginary."
+    } ]
+  }, {
+    "tStartMs": 23020,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Ironically, 400 years later,\nthese very numbers turn up"
+    } ]
+  }, {
+    "tStartMs": 26750,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "in the heart of our best\nphysical theory of the universe."
+    } ]
+  }, {
+    "tStartMs": 30400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Only by abandoning math's\nconnection to reality"
+    } ]
+  }, {
+    "tStartMs": 33940,
+    "dDurationMs": 3016,
+    "segs": [ {
+      "utf8": "could we discover reality's true nature."
+    } ]
+  }, {
+    "tStartMs": 36956,
+    "dDurationMs": 1764,
+    "segs": [ {
+      "utf8": "(light music)"
+    } ]
+  }, {
+    "tStartMs": 38720,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "In 1494, Luca Pacioli"
+    } ]
+  }, {
+    "tStartMs": 41290,
+    "dDurationMs": 2907,
+    "segs": [ {
+      "utf8": "who is Leonardo da Vinci's\nmath teacher publishes"
+    } ]
+  }, {
+    "tStartMs": 44197,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "\"Summa de Arithmetica,\"\na comprehensive summary"
+    } ]
+  }, {
+    "tStartMs": 47560,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "of all mathematics known in\nRenaissance Italy at the time."
+    } ]
+  }, {
+    "tStartMs": 51230,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "In it, there's a section on the cubic,"
+    } ]
+  }, {
+    "tStartMs": 53380,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "any equation which today\nwe would write as ax cubed"
+    } ]
+  }, {
+    "tStartMs": 56370,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "plus bx squared plus\ncx plus d equals zero."
+    } ]
+  }, {
+    "tStartMs": 60200,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "People have been trying\nto find a general solution"
+    } ]
+  }, {
+    "tStartMs": 62550,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "to the cubic for at least 4,000 years,"
+    } ]
+  }, {
+    "tStartMs": 65630,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "but each ancient civilization\nthat encountered it,"
+    } ]
+  }, {
+    "tStartMs": 68100,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "the Babylonians, Greeks, Chinese,"
+    } ]
+  }, {
+    "tStartMs": 70430,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Indians, Egyptians, and Persians,"
+    } ]
+  }, {
+    "tStartMs": 72740,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "they all came up empty-handed."
+    } ]
+  }, {
+    "tStartMs": 75380,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Pacioli's conclusion is that a solution"
+    } ]
+  }, {
+    "tStartMs": 77990,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "to the cubic equation is impossible."
+    } ]
+  }, {
+    "tStartMs": 81410,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Now, this should be at\nleast a little surprising,"
+    } ]
+  }, {
+    "tStartMs": 83370,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "since without the X cubed term,"
+    } ]
+  }, {
+    "tStartMs": 85130,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "the equation is simply a quadratic."
+    } ]
+  }, {
+    "tStartMs": 87200,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "And many ancient civilizations"
+    } ]
+  }, {
+    "tStartMs": 89310,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "had solved quadratics\nthousands of years earlier."
+    } ]
+  }, {
+    "tStartMs": 92620,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Today, anyone who's passed eighth grade"
+    } ]
+  }, {
+    "tStartMs": 94610,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "knows the general solution."
+    } ]
+  }, {
+    "tStartMs": 96260,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "It's minus b plus minus\nroot b squared minus four ac"
+    } ]
+  }, {
+    "tStartMs": 99340,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "all over two a."
+    } ]
+  }, {
+    "tStartMs": 101170,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "But most people just plug\nand chug into this formula"
+    } ]
+  }, {
+    "tStartMs": 104250,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "completely oblivious to the geometry"
+    } ]
+  }, {
+    "tStartMs": 106840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "that ancient mathematicians\nused to derive it."
+    } ]
+  }, {
+    "tStartMs": 110320,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "You know, back in those days,"
+    } ]
+  }, {
+    "tStartMs": 112080,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "mathematics wasn't\nwritten down in equations."
+    } ]
+  }, {
+    "tStartMs": 114810,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "It was written with words and pictures."
+    } ]
+  }, {
+    "tStartMs": 118220,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Take, for example,"
+    } ]
+  }, {
+    "tStartMs": 119053,
+    "dDurationMs": 3997,
+    "segs": [ {
+      "utf8": "the equation x squared plus 26x equals 27."
+    } ]
+  }, {
+    "tStartMs": 123050,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Ancient mathematicians would\nthink of the x squared term"
+    } ]
+  }, {
+    "tStartMs": 126480,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "like a literal square\nwith sides of length x."
+    } ]
+  }, {
+    "tStartMs": 130980,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "And then 26x,"
+    } ]
+  }, {
+    "tStartMs": 132670,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "well, that would be a rectangle\nwith one side of length 26"
+    } ]
+  }, {
+    "tStartMs": 137010,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "and the other side of length x,"
+    } ]
+  }, {
+    "tStartMs": 139780,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "and these two areas together add to 27."
+    } ]
+  }, {
+    "tStartMs": 144430,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "So how do we figure out what x is?"
+    } ]
+  }, {
+    "tStartMs": 146880,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Well, we can take this 26x\nrectangle and cut it in half."
+    } ]
+  }, {
+    "tStartMs": 153290,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "So now I have two 13x rectangles\nand I can position them"
+    } ]
+  }, {
+    "tStartMs": 158230,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "so the new shape I create\nis almost a square,"
+    } ]
+  }, {
+    "tStartMs": 161420,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "It's just missing this section down here."
+    } ]
+  }, {
+    "tStartMs": 164250,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "But I know the dimensions of this section."
+    } ]
+  }, {
+    "tStartMs": 166160,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "It's just 13 by 13."
+    } ]
+  }, {
+    "tStartMs": 168450,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So I can complete the square by adding in"
+    } ]
+  }, {
+    "tStartMs": 172410,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "a 13 by 13 square."
+    } ]
+  }, {
+    "tStartMs": 175970,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Now, since I've added 13-squared"
+    } ]
+  }, {
+    "tStartMs": 177860,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "or 169 to the left-hand\nside of the equation,"
+    } ]
+  }, {
+    "tStartMs": 181450,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "I also have to add 169"
+    } ]
+  }, {
+    "tStartMs": 183480,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "to the right-hand side of the equation"
+    } ]
+  }, {
+    "tStartMs": 185980,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "to maintain the equality."
+    } ]
+  }, {
+    "tStartMs": 187670,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "So now I have this larger square"
+    } ]
+  }, {
+    "tStartMs": 189640,
+    "dDurationMs": 4277,
+    "segs": [ {
+      "utf8": "with sides of length X plus\n13, and it is equal to 196."
+    } ]
+  }, {
+    "tStartMs": 196470,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Now the square root of 196 is 14."
+    } ]
+  }, {
+    "tStartMs": 199700,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So I know that the sides of\nthis square have length 14,"
+    } ]
+  }, {
+    "tStartMs": 203330,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "which means X is equal to one."
+    } ]
+  }, {
+    "tStartMs": 206820,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Now this is a great visual way"
+    } ]
+  }, {
+    "tStartMs": 209870,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "to solve a quadratic equation,\nbut it isn't complete."
+    } ]
+  }, {
+    "tStartMs": 214910,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "I mean, if you look at\nour original equation,"
+    } ]
+  }, {
+    "tStartMs": 217080,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "x equals one is a solution."
+    } ]
+  }, {
+    "tStartMs": 219820,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "But so is negative 27."
+    } ]
+  }, {
+    "tStartMs": 222960,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "For thousands of years,\nmathematicians were oblivious"
+    } ]
+  }, {
+    "tStartMs": 226620,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "to the negative solutions\nto their equations"
+    } ]
+  }, {
+    "tStartMs": 229430,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "because they were dealing\nwith things in the real world,"
+    } ]
+  }, {
+    "tStartMs": 232020,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "lengths and areas and volumes."
+    } ]
+  }, {
+    "tStartMs": 234130,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I mean, what would it\nmean to have a square"
+    } ]
+  }, {
+    "tStartMs": 236650,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "with sides of length negative 27?"
+    } ]
+  }, {
+    "tStartMs": 239590,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "That just doesn't make any sense."
+    } ]
+  }, {
+    "tStartMs": 242080,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So for those mathematicians,\nnegative numbers didn't exist."
+    } ]
+  }, {
+    "tStartMs": 246360,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "You could subtract,"
+    } ]
+  }, {
+    "tStartMs": 247320,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "that is find the difference\nbetween two positive quantities,"
+    } ]
+  }, {
+    "tStartMs": 249930,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "but you couldn't have a negative answer"
+    } ]
+  }, {
+    "tStartMs": 251740,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "or negative coefficients."
+    } ]
+  }, {
+    "tStartMs": 253630,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Mathematicians were so\naverse to negative numbers"
+    } ]
+  }, {
+    "tStartMs": 255960,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "that there was no single\nquadratic equation."
+    } ]
+  }, {
+    "tStartMs": 259540,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Instead, there were six different versions"
+    } ]
+  }, {
+    "tStartMs": 261880,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "arranged so that the coefficients\nwere always positive."
+    } ]
+  }, {
+    "tStartMs": 265820,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "The same approach was\ntaken with the cubic."
+    } ]
+  }, {
+    "tStartMs": 268350,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "In the 11th century, Persian\nmathematician Omar Khayyam"
+    } ]
+  }, {
+    "tStartMs": 271750,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "identified 19 different cubic equations,"
+    } ]
+  }, {
+    "tStartMs": 274800,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "again, keeping all coefficients positive."
+    } ]
+  }, {
+    "tStartMs": 277610,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "He found numerical\nsolutions to some of them"
+    } ]
+  }, {
+    "tStartMs": 279680,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "by considering the\nintersections of shapes,"
+    } ]
+  }, {
+    "tStartMs": 281770,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "like hyperbolas and circles,"
+    } ]
+  }, {
+    "tStartMs": 283960,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "but he fell short of his ultimate goal,"
+    } ]
+  }, {
+    "tStartMs": 286210,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "a general solution to the cubic."
+    } ]
+  }, {
+    "tStartMs": 288510,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "He wrote, \"Maybe one of\nthose who will come after us"
+    } ]
+  }, {
+    "tStartMs": 291100,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "will succeed in finding it.\""
+    } ]
+  }, {
+    "tStartMs": 293490,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "400 years later and 4,000 kilometers away,"
+    } ]
+  }, {
+    "tStartMs": 296230,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the solution begins to take shape."
+    } ]
+  }, {
+    "tStartMs": 300550,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Scipione del Ferro is\na mathematics professor"
+    } ]
+  }, {
+    "tStartMs": 303090,
+    "dDurationMs": 1563,
+    "segs": [ {
+      "utf8": "at the University of Bologna."
+    } ]
+  }, {
+    "tStartMs": 305500,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Sometime around 1510,"
+    } ]
+  }, {
+    "tStartMs": 307280,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "he finds a method to reliably\nsolve depressed cubics."
+    } ]
+  }, {
+    "tStartMs": 311610,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "These are a subset of cubic equations"
+    } ]
+  }, {
+    "tStartMs": 313680,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "with no X squared term."
+    } ]
+  }, {
+    "tStartMs": 316140,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "So what does he do after solving a problem"
+    } ]
+  }, {
+    "tStartMs": 318210,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "that has stumped\nmathematicians from millennia?"
+    } ]
+  }, {
+    "tStartMs": 320370,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "One considered impossible"
+    } ]
+  }, {
+    "tStartMs": 321890,
+    "dDurationMs": 2393,
+    "segs": [ {
+      "utf8": "by Leonardo da Vinci's math teacher?"
+    } ]
+  }, {
+    "tStartMs": 325340,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "He tells no one."
+    } ]
+  }, {
+    "tStartMs": 328100,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "See, being a mathematician\nin the 1500s is hard."
+    } ]
+  }, {
+    "tStartMs": 331450,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Your job is constantly under threat"
+    } ]
+  }, {
+    "tStartMs": 333280,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "from other mathematicians\nwho can show up at any time"
+    } ]
+  }, {
+    "tStartMs": 336220,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and challenge you for your position."
+    } ]
+  }, {
+    "tStartMs": 338460,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "You can think of it like a math duel."
+    } ]
+  }, {
+    "tStartMs": 341110,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Each participant submits a\nset of questions to the other,"
+    } ]
+  }, {
+    "tStartMs": 344140,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "and the person who solves\nthe most questions correctly"
+    } ]
+  }, {
+    "tStartMs": 347010,
+    "dDurationMs": 4283,
+    "segs": [ {
+      "utf8": "gets the job while the loser\nsuffers public humiliation."
+    } ]
+  }, {
+    "tStartMs": 352170,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "As far as del Ferro knows,"
+    } ]
+  }, {
+    "tStartMs": 353960,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "no one else in the world can\nsolve the depressed cubic."
+    } ]
+  }, {
+    "tStartMs": 357260,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So by keeping his solutions secret,"
+    } ]
+  }, {
+    "tStartMs": 359500,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "he guarantees his own job security."
+    } ]
+  }, {
+    "tStartMs": 362520,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "For nearly two decades,\ndel Ferro keeps his secret."
+    } ]
+  }, {
+    "tStartMs": 366580,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Only on his deathbed in 1526"
+    } ]
+  }, {
+    "tStartMs": 369050,
+    "dDurationMs": 4187,
+    "segs": [ {
+      "utf8": "does he let it slip to\nhis student Antonio Fior."
+    } ]
+  }, {
+    "tStartMs": 373237,
+    "dDurationMs": 2863,
+    "segs": [ {
+      "utf8": "Fior is not as talented a\nmathematician as his mentor,"
+    } ]
+  }, {
+    "tStartMs": 376100,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "but he is young and ambitious."
+    } ]
+  }, {
+    "tStartMs": 378380,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "And after del Ferro's death,"
+    } ]
+  }, {
+    "tStartMs": 379680,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "he boasts about his own\nmathematical prowess"
+    } ]
+  }, {
+    "tStartMs": 382120,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "and specifically, his ability\nto solve the depressed cubic."
+    } ]
+  }, {
+    "tStartMs": 386190,
+    "dDurationMs": 2296,
+    "segs": [ {
+      "utf8": "On February 12, 1535,"
+    } ]
+  }, {
+    "tStartMs": 388486,
+    "dDurationMs": 3874,
+    "segs": [ {
+      "utf8": "Fior challenges mathematician\nNiccolo Fontana Tartaglia"
+    } ]
+  }, {
+    "tStartMs": 392360,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "who has recently moved to\nFior's hometown of Venice."
+    } ]
+  }, {
+    "tStartMs": 396110,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Niccolo Fontana is no\nstranger to adversity."
+    } ]
+  }, {
+    "tStartMs": 399580,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "As a kid, his face was cut\nopen by a French soldier,"
+    } ]
+  }, {
+    "tStartMs": 402870,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "leaving him with a stutter."
+    } ]
+  }, {
+    "tStartMs": 404770,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That's why he's known as Tartaglia,"
+    } ]
+  }, {
+    "tStartMs": 406690,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "which means stutterer in Italian."
+    } ]
+  }, {
+    "tStartMs": 409260,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Growing up in poverty, Tartaglia\nis largely self-taught."
+    } ]
+  }, {
+    "tStartMs": 412630,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "He claws his way up\nthrough Italian society"
+    } ]
+  }, {
+    "tStartMs": 414910,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "to become a respected mathematician."
+    } ]
+  }, {
+    "tStartMs": 417740,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Now, all of that is at stake."
+    } ]
+  }, {
+    "tStartMs": 420980,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "As is the custom, in the\nchallenge Tartaglia gives"
+    } ]
+  }, {
+    "tStartMs": 423450,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "a very discernment of 30 problems to Fior."
+    } ]
+  }, {
+    "tStartMs": 426830,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Fior gives 30 problems to Tartaglia,"
+    } ]
+  }, {
+    "tStartMs": 429630,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "all of which are depressed cubics."
+    } ]
+  }, {
+    "tStartMs": 433080,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Each mathematician has 40 days"
+    } ]
+  }, {
+    "tStartMs": 434810,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "to solve the 30 problems\nthey've been given."
+    } ]
+  }, {
+    "tStartMs": 437369,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "Fior can't solve a single problem."
+    } ]
+  }, {
+    "tStartMs": 441250,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Tartaglia solves all 30\nof Fior's depressed cubics"
+    } ]
+  }, {
+    "tStartMs": 444800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "in just two hours."
+    } ]
+  }, {
+    "tStartMs": 446800,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It seems Fior's boastfulness\nwas his undoing."
+    } ]
+  }, {
+    "tStartMs": 450360,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Before the challenge\ncame, Tartaglia learns"
+    } ]
+  }, {
+    "tStartMs": 452820,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "that Fior's claimed to have\nsolved the depressed cubic,"
+    } ]
+  }, {
+    "tStartMs": 455130,
+    "dDurationMs": 1487,
+    "segs": [ {
+      "utf8": "but he's skeptical."
+    } ]
+  }, {
+    "tStartMs": 456617,
+    "dDurationMs": 1493,
+    "segs": [ {
+      "utf8": "\"I did not deem him capable"
+    } ]
+  }, {
+    "tStartMs": 458110,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "of finding such a rule on\nhis own,\" Tartaglia writes."
+    } ]
+  }, {
+    "tStartMs": 461230,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "But word was that a great mathematician"
+    } ]
+  }, {
+    "tStartMs": 463020,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "had revealed the secret to Fior,\nwhich seems more plausible."
+    } ]
+  }, {
+    "tStartMs": 466710,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "So with the knowledge"
+    } ]
+  }, {
+    "tStartMs": 467820,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "that a solution to the cubic is possible,"
+    } ]
+  }, {
+    "tStartMs": 470090,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and with his livelihood on the line,"
+    } ]
+  }, {
+    "tStartMs": 472170,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Tartaglia sets about solving\nthe depressed cubic himself."
+    } ]
+  }, {
+    "tStartMs": 476070,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "To do it, he extends the idea"
+    } ]
+  }, {
+    "tStartMs": 478600,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "of completing the square\ninto three dimensions."
+    } ]
+  }, {
+    "tStartMs": 482610,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Take the equation x cubed\nplus nine x equals 26."
+    } ]
+  }, {
+    "tStartMs": 487090,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can think of x cubed\nas the volume of a cube"
+    } ]
+  }, {
+    "tStartMs": 490090,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "with sides of length x."
+    } ]
+  }, {
+    "tStartMs": 491860,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And if you add a volume\nof nine x, you get 26."
+    } ]
+  }, {
+    "tStartMs": 495540,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So just like with completing the square,"
+    } ]
+  }, {
+    "tStartMs": 497460,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "we need to add onto the cube"
+    } ]
+  }, {
+    "tStartMs": 499440,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "to increase its volume by nine x."
+    } ]
+  }, {
+    "tStartMs": 502690,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Imagine extending three sides\nof this cube out a distance y,"
+    } ]
+  }, {
+    "tStartMs": 507270,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "creating a new, larger cube\nwith sides of length, call it z."
+    } ]
+  }, {
+    "tStartMs": 511920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "z is just x plus y."
+    } ]
+  }, {
+    "tStartMs": 514680,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "The original cube has been padded out"
+    } ]
+  }, {
+    "tStartMs": 516900,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "and we can break up the additional\nvolume into seven shapes."
+    } ]
+  }, {
+    "tStartMs": 521200,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "There are three rectangular prisms"
+    } ]
+  }, {
+    "tStartMs": 523220,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "with dimensions of x by x by y,"
+    } ]
+  }, {
+    "tStartMs": 526710,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "and another three narrower prisms"
+    } ]
+  }, {
+    "tStartMs": 528700,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "with dimensions of x by y by y,"
+    } ]
+  }, {
+    "tStartMs": 531820,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "plus there's a cube with a volume y cubed."
+    } ]
+  }, {
+    "tStartMs": 534890,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Tartaglia rearranges the\nsix rectangular prisms"
+    } ]
+  }, {
+    "tStartMs": 538080,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "into one block."
+    } ]
+  }, {
+    "tStartMs": 539720,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "One side has length three y,"
+    } ]
+  }, {
+    "tStartMs": 542010,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "the other has a length\nx plus y, which is z,"
+    } ]
+  }, {
+    "tStartMs": 545280,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and the height is x."
+    } ]
+  }, {
+    "tStartMs": 547400,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So the volume of this shape"
+    } ]
+  }, {
+    "tStartMs": 548840,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "is its base, three yz times its height, x."
+    } ]
+  }, {
+    "tStartMs": 552490,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And Tartaglia realizes this\nvolume can perfectly represent"
+    } ]
+  }, {
+    "tStartMs": 556010,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "the nine x term in the equation,"
+    } ]
+  }, {
+    "tStartMs": 558180,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "if its base is equal to nine."
+    } ]
+  }, {
+    "tStartMs": 560830,
+    "dDurationMs": 3227,
+    "segs": [ {
+      "utf8": "So he sets three yz equals nine."
+    } ]
+  }, {
+    "tStartMs": 564057,
+    "dDurationMs": 2173,
+    "segs": [ {
+      "utf8": "Putting the cube back together,"
+    } ]
+  }, {
+    "tStartMs": 566230,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "you find we're missing the\none small y cubed block,"
+    } ]
+  }, {
+    "tStartMs": 569380,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "so we can complete the cube"
+    } ]
+  }, {
+    "tStartMs": 572090,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "by adding y cubed to both\nsides of the equation."
+    } ]
+  }, {
+    "tStartMs": 575340,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "Now we have z cubed, the\ncomplete larger cube,"
+    } ]
+  }, {
+    "tStartMs": 578320,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "equals 26 plus y cubed."
+    } ]
+  }, {
+    "tStartMs": 580650,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "We have two equations and two unknowns."
+    } ]
+  }, {
+    "tStartMs": 583900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Solving the first equation for z"
+    } ]
+  }, {
+    "tStartMs": 585520,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and substituting into the second,"
+    } ]
+  }, {
+    "tStartMs": 587140,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "we get y to the six plus\n26 y cubed equals 27."
+    } ]
+  }, {
+    "tStartMs": 591830,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "At first glance, it seems\nlike we're now worse off"
+    } ]
+  }, {
+    "tStartMs": 594670,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "than when we started."
+    } ]
+  }, {
+    "tStartMs": 595770,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "The variable is now raised\nto the power of six,"
+    } ]
+  }, {
+    "tStartMs": 597890,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "instead of just three."
+    } ]
+  }, {
+    "tStartMs": 599490,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "However, if you think of\ny cubed as a new variable,"
+    } ]
+  }, {
+    "tStartMs": 602990,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "the equation is actually a quadratic,"
+    } ]
+  }, {
+    "tStartMs": 606040,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "the same quadratic that we\nsolved by completing the square."
+    } ]
+  }, {
+    "tStartMs": 609780,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So we know y cubed equals one,"
+    } ]
+  }, {
+    "tStartMs": 612330,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "which means y equals one,\nand z equals three over y,"
+    } ]
+  }, {
+    "tStartMs": 616340,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "so z is three."
+    } ]
+  }, {
+    "tStartMs": 617900,
+    "dDurationMs": 4063,
+    "segs": [ {
+      "utf8": "And since x plus y equals\nz, x must be equal to two,"
+    } ]
+  }, {
+    "tStartMs": 622840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "which is indeed, a solution\nto the original equation."
+    } ]
+  }, {
+    "tStartMs": 626440,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "And with that,"
+    } ]
+  }, {
+    "tStartMs": 627280,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Tartaglia becomes the\nsecond human on the planet"
+    } ]
+  }, {
+    "tStartMs": 630030,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "to solve the depressed cubic."
+    } ]
+  }, {
+    "tStartMs": 632270,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "To save himself the work of\ngoing through the geometry"
+    } ]
+  }, {
+    "tStartMs": 634590,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "for each new cubic he encounters,"
+    } ]
+  }, {
+    "tStartMs": 636840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Tartaglia summarizes his\nmethod in an algorithm,"
+    } ]
+  }, {
+    "tStartMs": 639880,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "a set of instructions."
+    } ]
+  }, {
+    "tStartMs": 641680,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "He writes this down not\nas a set of equations"
+    } ]
+  }, {
+    "tStartMs": 644350,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "like we would today."
+    } ]
+  }, {
+    "tStartMs": 645390,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Modern algebraic notation wouldn't exist"
+    } ]
+  }, {
+    "tStartMs": 647440,
+    "dDurationMs": 3473,
+    "segs": [ {
+      "utf8": "for another hundred years,\nbut instead, as a poem."
+    } ]
+  }, {
+    "tStartMs": 652369,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "Tartaglia's victory makes\nhim something of a celebrity."
+    } ]
+  }, {
+    "tStartMs": 655830,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Mathematicians are desperate to learn"
+    } ]
+  }, {
+    "tStartMs": 657760,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "how he solved the cubic,"
+    } ]
+  }, {
+    "tStartMs": 659170,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "especially Gerolamo Cardano,\na polymath based in Milan."
+    } ]
+  }, {
+    "tStartMs": 663640,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "As you can guess, Tartaglia\nwill have none of it."
+    } ]
+  }, {
+    "tStartMs": 666310,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "He refuses to reveal"
+    } ]
+  }, {
+    "tStartMs": 667550,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "even a single question\nfrom the competition."
+    } ]
+  }, {
+    "tStartMs": 670310,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "But Cardano is persistent."
+    } ]
+  }, {
+    "tStartMs": 672290,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "He writes a series of\nletters that alternate"
+    } ]
+  }, {
+    "tStartMs": 674420,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "between flattery and aggressive attacks."
+    } ]
+  }, {
+    "tStartMs": 677830,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Eventually with the\npromise of an introduction"
+    } ]
+  }, {
+    "tStartMs": 680110,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "to his wealthy benefactor,"
+    } ]
+  }, {
+    "tStartMs": 681800,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Cardono manages to lure\nTartaglia to Milan."
+    } ]
+  }, {
+    "tStartMs": 685490,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "And there on March 25, 1539\nTartaglia reveals his method,"
+    } ]
+  }, {
+    "tStartMs": 690300,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "but only after forcing\nCardono to swear a solemn oath"
+    } ]
+  }, {
+    "tStartMs": 694210,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "not to tell anyone the method,"
+    } ]
+  }, {
+    "tStartMs": 695940,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "not to publish it, and to\nwrite it only in cipher."
+    } ]
+  }, {
+    "tStartMs": 699670,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Quote, \"So that after my death,"
+    } ]
+  }, {
+    "tStartMs": 702240,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "no one shall be able to understand it.\""
+    } ]
+  }, {
+    "tStartMs": 705300,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Cardono is delighted and\nimmediately starts playing around"
+    } ]
+  }, {
+    "tStartMs": 708640,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "with Tartaglia's algorithm."
+    } ]
+  }, {
+    "tStartMs": 710470,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "But he has a loftier goal in mind,"
+    } ]
+  }, {
+    "tStartMs": 712740,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "a solution to the full cubic equation,"
+    } ]
+  }, {
+    "tStartMs": 714930,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "including the x squared term."
+    } ]
+  }, {
+    "tStartMs": 717050,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And amazingly, he discovers it."
+    } ]
+  }, {
+    "tStartMs": 719760,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "If you substitute for x,"
+    } ]
+  }, {
+    "tStartMs": 721700,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "x minus b over three a,"
+    } ]
+  }, {
+    "tStartMs": 724060,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "then all the X squared terms cancel out."
+    } ]
+  }, {
+    "tStartMs": 727270,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "This is the way to turn\nany general cubic equation"
+    } ]
+  }, {
+    "tStartMs": 730200,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "into a depressed cubic,"
+    } ]
+  }, {
+    "tStartMs": 731880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "which can then be solved\nby Tartaglia's formula."
+    } ]
+  }, {
+    "tStartMs": 735000,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Cardano is so excited to\nhave solved the problem"
+    } ]
+  }, {
+    "tStartMs": 737570,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "that stumped the best mathematicians\nfor thousands of years,"
+    } ]
+  }, {
+    "tStartMs": 740390,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "he wants to publish it."
+    } ]
+  }, {
+    "tStartMs": 742280,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Unlike his peers,"
+    } ]
+  }, {
+    "tStartMs": 743210,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Cardano has no need to\nkeep the solution a secret."
+    } ]
+  }, {
+    "tStartMs": 746120,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "He makes his living\nnot as a mathematician,"
+    } ]
+  }, {
+    "tStartMs": 748620,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "but as a physician and\nfamous intellectual."
+    } ]
+  }, {
+    "tStartMs": 751490,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "For him, the credit is more\nvaluable than the secret."
+    } ]
+  }, {
+    "tStartMs": 755510,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "The only problem is the\noath he swore to Tartaglia"
+    } ]
+  }, {
+    "tStartMs": 759100,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "who won't let him break it."
+    } ]
+  }, {
+    "tStartMs": 761460,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "And you might think this\nwould be the end of it."
+    } ]
+  }, {
+    "tStartMs": 763730,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "But in 1542, Cardano travels to Bologna"
+    } ]
+  }, {
+    "tStartMs": 767790,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and there he visits a mathematician"
+    } ]
+  }, {
+    "tStartMs": 769650,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "who just happens to be the son-in-law"
+    } ]
+  }, {
+    "tStartMs": 771780,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "of one Scipione del Ferro,\nthe man who on his deathbed,"
+    } ]
+  }, {
+    "tStartMs": 775700,
+    "dDurationMs": 3673,
+    "segs": [ {
+      "utf8": "gave the solution to the\ndepressed cubic to Antonio Fior."
+    } ]
+  }, {
+    "tStartMs": 779373,
+    "dDurationMs": 3377,
+    "segs": [ {
+      "utf8": "Cardano finds the solution\nin del Ferro's old notebook,"
+    } ]
+  }, {
+    "tStartMs": 782750,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "which is shared with him during the visit."
+    } ]
+  }, {
+    "tStartMs": 784840,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "This solution predates\nTartaglia's by decades."
+    } ]
+  }, {
+    "tStartMs": 788020,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "So now, as Cardano sees it,"
+    } ]
+  }, {
+    "tStartMs": 789750,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "he can publish the full\nsolution to the cubic"
+    } ]
+  }, {
+    "tStartMs": 791960,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "without violating his oath to Tartaglia."
+    } ]
+  }, {
+    "tStartMs": 795500,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "Three years later,"
+    } ]
+  }, {
+    "tStartMs": 796470,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Cardano publishes \"Ars\nMagna,\" The Great Art,"
+    } ]
+  }, {
+    "tStartMs": 799430,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "an updated compendium of mathematics."
+    } ]
+  }, {
+    "tStartMs": 801897,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "\"Written in five years, may\nit last for five hundred.\""
+    } ]
+  }, {
+    "tStartMs": 805960,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Cardano writes a chapter\nwith a unique geometric proof"
+    } ]
+  }, {
+    "tStartMs": 808830,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "for each of the 13 arrangements\nof the cubic equation."
+    } ]
+  }, {
+    "tStartMs": 812250,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Although he acknowledges"
+    } ]
+  }, {
+    "tStartMs": 813280,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "the contributions of\nTartaglia, del Ferro and Fior,"
+    } ]
+  }, {
+    "tStartMs": 816590,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Tartaglia is displeased, to say the least."
+    } ]
+  }, {
+    "tStartMs": 819950,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "He writes insulting letters to Cardano,"
+    } ]
+  }, {
+    "tStartMs": 821830,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and CC's a good fraction of\nthe mathematics community."
+    } ]
+  }, {
+    "tStartMs": 825250,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "And he has a point."
+    } ]
+  }, {
+    "tStartMs": 826320,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "To this day, the general\nsolution to the cubic"
+    } ]
+  }, {
+    "tStartMs": 828590,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "is often called Cardano's method."
+    } ]
+  }, {
+    "tStartMs": 831780,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But \"Ars Magna\" is a\nphenomenal achievement."
+    } ]
+  }, {
+    "tStartMs": 834900,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "It pushes geometrical reasoning\nto its very breaking point."
+    } ]
+  }, {
+    "tStartMs": 839540,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Literally."
+    } ]
+  }, {
+    "tStartMs": 841010,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "While Cardano is writing \"Ars Magna \""
+    } ]
+  }, {
+    "tStartMs": 843070,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "he comes across some cubic equations"
+    } ]
+  }, {
+    "tStartMs": 845170,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "that can't easily be\nsolved in the usual way,"
+    } ]
+  }, {
+    "tStartMs": 848270,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "like x cubed equals 15x plus four."
+    } ]
+  }, {
+    "tStartMs": 851910,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Plugging this into the\nalgorithm yields a solution"
+    } ]
+  }, {
+    "tStartMs": 854580,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "that contains the square\nroots of negative numbers."
+    } ]
+  }, {
+    "tStartMs": 857890,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Cardano asks Tartaglia about the case,"
+    } ]
+  }, {
+    "tStartMs": 860220,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "but he evades and implies Cardano"
+    } ]
+  }, {
+    "tStartMs": 862270,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "is just not clever enough\nto use his formula properly."
+    } ]
+  }, {
+    "tStartMs": 865450,
+    "dDurationMs": 3473,
+    "segs": [ {
+      "utf8": "The reality is Tartaglia has\nno idea what to do either."
+    } ]
+  }, {
+    "tStartMs": 870120,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Cardano walks back through\nthe geometric derivation"
+    } ]
+  }, {
+    "tStartMs": 872820,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "of a similar problem to see\nexactly what goes wrong."
+    } ]
+  }, {
+    "tStartMs": 876950,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "While the 3D cube slicing and\nrearrangement works just fine,"
+    } ]
+  }, {
+    "tStartMs": 880690,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "the final quadratic\ncompleting the square step"
+    } ]
+  }, {
+    "tStartMs": 883360,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "leads to a geometric paradox."
+    } ]
+  }, {
+    "tStartMs": 886150,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Cardano finds part of a square\nthat must have an area of 30,"
+    } ]
+  }, {
+    "tStartMs": 890530,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "but also sides of length five."
+    } ]
+  }, {
+    "tStartMs": 893660,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Since the full square has an area of 25,"
+    } ]
+  }, {
+    "tStartMs": 896600,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "to complete the square,"
+    } ]
+  }, {
+    "tStartMs": 897940,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Cardano has to somehow add negative area."
+    } ]
+  }, {
+    "tStartMs": 902460,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "That is where the square\nroots of negatives come from,"
+    } ]
+  }, {
+    "tStartMs": 905240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the idea of negative area."
+    } ]
+  }, {
+    "tStartMs": 908520,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Now, this isn't the first time"
+    } ]
+  }, {
+    "tStartMs": 909730,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "square roots of negatives\nshow up in mathematics."
+    } ]
+  }, {
+    "tStartMs": 912150,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "In fact, earlier in \"Ars\nMagnae\" is this problem."
+    } ]
+  }, {
+    "tStartMs": 915670,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Find two numbers that add\nto 10 and multiply to 40."
+    } ]
+  }, {
+    "tStartMs": 919960,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "You can combine these\nequations into the quadratic"
+    } ]
+  }, {
+    "tStartMs": 922500,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "X squared plus 40 equals 10 X."
+    } ]
+  }, {
+    "tStartMs": 925550,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But if you plug this into\nthe quadratic formula,"
+    } ]
+  }, {
+    "tStartMs": 928130,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "the solutions contain the\nsquare roots of negatives."
+    } ]
+  }, {
+    "tStartMs": 931830,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "The obvious conclusion is\nthat a solution doesn't exist,"
+    } ]
+  }, {
+    "tStartMs": 935630,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "which you can verify by looking\nat the original problem."
+    } ]
+  }, {
+    "tStartMs": 938370,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "There are no two real numbers,"
+    } ]
+  }, {
+    "tStartMs": 940330,
+    "dDurationMs": 2493,
+    "segs": [ {
+      "utf8": "which add to 10 and multiply to 40."
+    } ]
+  }, {
+    "tStartMs": 943660,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "So mathematicians understood"
+    } ]
+  }, {
+    "tStartMs": 945840,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "square roots of negative numbers"
+    } ]
+  }, {
+    "tStartMs": 947520,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "were maths way of telling\nyou there is no solution."
+    } ]
+  }, {
+    "tStartMs": 951310,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "But this cubic equation is different."
+    } ]
+  }, {
+    "tStartMs": 954280,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "With the little guessing and checking,"
+    } ]
+  }, {
+    "tStartMs": 955710,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "you can find that x\nequals four is a solution."
+    } ]
+  }, {
+    "tStartMs": 959700,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "So why doesn't the approach\nthat works for all other cubics"
+    } ]
+  }, {
+    "tStartMs": 962830,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "find the perfectly reasonable\nsolution to this one?"
+    } ]
+  }, {
+    "tStartMs": 966520,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Unable to see a way forward,"
+    } ]
+  }, {
+    "tStartMs": 967970,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Cardano avoids this case in \"Ars Magna\""
+    } ]
+  }, {
+    "tStartMs": 970520,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "saying the idea of the\nsquare root of negatives"
+    } ]
+  }, {
+    "tStartMs": 972930,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "\"is as subtle as it is useless\"."
+    } ]
+  }, {
+    "tStartMs": 976910,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "But around 10 years later,\nthe Italian engineer"
+    } ]
+  }, {
+    "tStartMs": 979350,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "Rafael Bombelli picks up\nwhere Cardano left off."
+    } ]
+  }, {
+    "tStartMs": 982840,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Undeterred by the square\nroots of negatives"
+    } ]
+  }, {
+    "tStartMs": 984650,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and the impossible geometry they imply,"
+    } ]
+  }, {
+    "tStartMs": 986870,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "he wants to find a way through\nthe mess to the solution."
+    } ]
+  }, {
+    "tStartMs": 990520,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Observing that the\nsquare root of a negative"
+    } ]
+  }, {
+    "tStartMs": 992360,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "\"cannot be called either\npositive or negative\","
+    } ]
+  }, {
+    "tStartMs": 995370,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "he lets it be its own new type of number."
+    } ]
+  }, {
+    "tStartMs": 999100,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Bombelli assumes the two\nterms in Cardano's solution"
+    } ]
+  }, {
+    "tStartMs": 1001670,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "can be represented as some combination"
+    } ]
+  }, {
+    "tStartMs": 1003920,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "of an ordinary number and\nthis new type of number,"
+    } ]
+  }, {
+    "tStartMs": 1006590,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "which involves the square\nroot of negative one."
+    } ]
+  }, {
+    "tStartMs": 1009130,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And this way, Bombelli figures out"
+    } ]
+  }, {
+    "tStartMs": 1011350,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "that the two cube roots\nin Cardano's equation"
+    } ]
+  }, {
+    "tStartMs": 1013900,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "are equivalent to two"
+    } ]
+  }, {
+    "tStartMs": 1015110,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "plus or minus the square\nroot of negative one."
+    } ]
+  }, {
+    "tStartMs": 1017520,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "So when he takes the final\nstep and adds them together,"
+    } ]
+  }, {
+    "tStartMs": 1020060,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "the square roots cancel out,"
+    } ]
+  }, {
+    "tStartMs": 1021520,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "leaving the correct answer, four."
+    } ]
+  }, {
+    "tStartMs": 1024430,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "This feels nothing short of miraculous."
+    } ]
+  }, {
+    "tStartMs": 1027080,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Cardano's method does work,"
+    } ]
+  }, {
+    "tStartMs": 1029010,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "but you have to abandon\nthe geometric proof"
+    } ]
+  }, {
+    "tStartMs": 1031370,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "that generated it in the first place."
+    } ]
+  }, {
+    "tStartMs": 1033960,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Negative areas, which\nmake no sense in reality,"
+    } ]
+  }, {
+    "tStartMs": 1036930,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "must exist as an intermediate step"
+    } ]
+  }, {
+    "tStartMs": 1039350,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "on the way to the solution."
+    } ]
+  }, {
+    "tStartMs": 1041450,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Over the next hundred years,\nmodern mathematics takes shape."
+    } ]
+  }, {
+    "tStartMs": 1045030,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "In the 1600s, Francois Viete"
+    } ]
+  }, {
+    "tStartMs": 1047200,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "introduces the modern\nsymbolic notation for algebra,"
+    } ]
+  }, {
+    "tStartMs": 1050440,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "ending the millennia-long tradition"
+    } ]
+  }, {
+    "tStartMs": 1052130,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "of math problems as drawings\nand wordy descriptions."
+    } ]
+  }, {
+    "tStartMs": 1055450,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Geometry is no longer the source of truth."
+    } ]
+  }, {
+    "tStartMs": 1059110,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Rene Descartes makes heavy use"
+    } ]
+  }, {
+    "tStartMs": 1060870,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "of the square roots of negatives,"
+    } ]
+  }, {
+    "tStartMs": 1062410,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "popularizing them as a result."
+    } ]
+  }, {
+    "tStartMs": 1064700,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "And while he recognizes their utility,"
+    } ]
+  }, {
+    "tStartMs": 1066690,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "he calls them imaginary\nnumbers, a name that sticks,"
+    } ]
+  }, {
+    "tStartMs": 1070330,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "which is why Euler later\nintroduces the letter i"
+    } ]
+  }, {
+    "tStartMs": 1072740,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "to represent the square\nroot of negative one."
+    } ]
+  }, {
+    "tStartMs": 1075330,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "When combined with regular numbers,"
+    } ]
+  }, {
+    "tStartMs": 1077230,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "they form complex numbers."
+    } ]
+  }, {
+    "tStartMs": 1079900,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "The cubic led to the\ninvention of these new numbers"
+    } ]
+  }, {
+    "tStartMs": 1082670,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and liberated algebra from geometry."
+    } ]
+  }, {
+    "tStartMs": 1085830,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "By letting go"
+    } ]
+  }, {
+    "tStartMs": 1086950,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "of what seems like the best\ndescription of reality,"
+    } ]
+  }, {
+    "tStartMs": 1089410,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "the geometry you can see and touch,"
+    } ]
+  }, {
+    "tStartMs": 1092060,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "you get a much more powerful\nand complete mathematics"
+    } ]
+  }, {
+    "tStartMs": 1094810,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "that can solve real problems."
+    } ]
+  }, {
+    "tStartMs": 1097130,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And it turns out the cubic\nis just the beginning."
+    } ]
+  }, {
+    "tStartMs": 1100770,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "In 1925, Erwin Schrödinger is\nsearching for a wave equation"
+    } ]
+  }, {
+    "tStartMs": 1104950,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that governs the behavior\nof quantum particles"
+    } ]
+  }, {
+    "tStartMs": 1107410,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "building on de Broglie's insight"
+    } ]
+  }, {
+    "tStartMs": 1108750,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "that matter consists of waves."
+    } ]
+  }, {
+    "tStartMs": 1111190,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "He comes up with one of the most important"
+    } ]
+  }, {
+    "tStartMs": 1113500,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and famous equations in all of physics,"
+    } ]
+  }, {
+    "tStartMs": 1115960,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "the Schrödinger equation."
+    } ]
+  }, {
+    "tStartMs": 1117770,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And featured prominently within it is i,"
+    } ]
+  }, {
+    "tStartMs": 1120770,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "the square root of negative one."
+    } ]
+  }, {
+    "tStartMs": 1123220,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "While mathematicians have grown accustomed"
+    } ]
+  }, {
+    "tStartMs": 1124890,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to imaginary numbers, physicists have not"
+    } ]
+  }, {
+    "tStartMs": 1127740,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "and are uncomfortable seeing it show up"
+    } ]
+  }, {
+    "tStartMs": 1129560,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "in such a fundamental theory."
+    } ]
+  }, {
+    "tStartMs": 1131500,
+    "dDurationMs": 1777,
+    "segs": [ {
+      "utf8": "Schrödinger himself writes"
+    } ]
+  }, {
+    "tStartMs": 1133277,
+    "dDurationMs": 1413,
+    "segs": [ {
+      "utf8": "\"What is unpleasant here,"
+    } ]
+  }, {
+    "tStartMs": 1134690,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and indeed directly to be objected to,"
+    } ]
+  }, {
+    "tStartMs": 1137370,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "is the use of complex numbers."
+    } ]
+  }, {
+    "tStartMs": 1139640,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "The wave function Psi"
+    } ]
+  }, {
+    "tStartMs": 1141100,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "is surely fundamentally a real function.\""
+    } ]
+  }, {
+    "tStartMs": 1144760,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "This seems like a fair objection,"
+    } ]
+  }, {
+    "tStartMs": 1146740,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "so why does an imaginary number"
+    } ]
+  }, {
+    "tStartMs": 1148730,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that first appeared in\nthe solution to the cubic"
+    } ]
+  }, {
+    "tStartMs": 1151010,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "turn up in fundamental physics?"
+    } ]
+  }, {
+    "tStartMs": 1153560,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "Well, it's because of\nsome unique properties"
+    } ]
+  }, {
+    "tStartMs": 1156490,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "of imaginary numbers."
+    } ]
+  }, {
+    "tStartMs": 1158510,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "Imaginary numbers exist on\na dimension perpendicular"
+    } ]
+  }, {
+    "tStartMs": 1162120,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "to the real number line."
+    } ]
+  }, {
+    "tStartMs": 1163920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Together, they form the complex plane."
+    } ]
+  }, {
+    "tStartMs": 1167160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Watch what happens when we\nrepeatedly multiply by i."
+    } ]
+  }, {
+    "tStartMs": 1170800,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Starting with one."
+    } ]
+  }, {
+    "tStartMs": 1172330,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "One times i is i,"
+    } ]
+  }, {
+    "tStartMs": 1174810,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "i times i is negative one, by definition."
+    } ]
+  }, {
+    "tStartMs": 1178100,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Negative one times i is negative i,"
+    } ]
+  }, {
+    "tStartMs": 1181010,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "and negative i times i is one."
+    } ]
+  }, {
+    "tStartMs": 1183630,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "We've come back to where we started,"
+    } ]
+  }, {
+    "tStartMs": 1185050,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "and if we keep multiplying by i,"
+    } ]
+  }, {
+    "tStartMs": 1186740,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "the point will keep rotating around."
+    } ]
+  }, {
+    "tStartMs": 1189250,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "So when you're multiplying by i,"
+    } ]
+  }, {
+    "tStartMs": 1191300,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "what you're really doing is rotating"
+    } ]
+  }, {
+    "tStartMs": 1193830,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "by 90 degrees in the complex plane."
+    } ]
+  }, {
+    "tStartMs": 1196800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Now, there is a function that\nrepeatedly multiplies by i"
+    } ]
+  }, {
+    "tStartMs": 1200300,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "as you go down the X-axis."
+    } ]
+  }, {
+    "tStartMs": 1202420,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And that is e to the ix."
+    } ]
+  }, {
+    "tStartMs": 1205460,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "It creates a spiral by\nessentially spreading out"
+    } ]
+  }, {
+    "tStartMs": 1208560,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "these rotations all along the X-axis."
+    } ]
+  }, {
+    "tStartMs": 1212070,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "If you look at the real\npart of the spiral,"
+    } ]
+  }, {
+    "tStartMs": 1214030,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "it's a cosine wave."
+    } ]
+  }, {
+    "tStartMs": 1215630,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "And if you look at the imaginary\npart, it's a sine wave."
+    } ]
+  }, {
+    "tStartMs": 1219120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "The two quintessential\nfunctions that describe waves"
+    } ]
+  }, {
+    "tStartMs": 1222160,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "are both contained in e to the ix."
+    } ]
+  }, {
+    "tStartMs": 1226210,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So when Schrodinger goes to\nwrite down a wave equation,"
+    } ]
+  }, {
+    "tStartMs": 1228770,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "he naturally assumes that\nthe solutions to his equation"
+    } ]
+  }, {
+    "tStartMs": 1231750,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "will look something like e to the ix,"
+    } ]
+  }, {
+    "tStartMs": 1233860,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "specifically e to the ikx minus omega t."
+    } ]
+  }, {
+    "tStartMs": 1237420,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "You might wonder why he\nwould use that formulation"
+    } ]
+  }, {
+    "tStartMs": 1240450,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and not just a simple sine wave,"
+    } ]
+  }, {
+    "tStartMs": 1242670,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "but the exponential has\nsome useful properties."
+    } ]
+  }, {
+    "tStartMs": 1245440,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "If you take the derivative with\nrespect to position or time,"
+    } ]
+  }, {
+    "tStartMs": 1248890,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "that derivative is proportional"
+    } ]
+  }, {
+    "tStartMs": 1250560,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "to the original function itself."
+    } ]
+  }, {
+    "tStartMs": 1252790,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "And that's not true if\nyou use the sine function"
+    } ]
+  }, {
+    "tStartMs": 1255610,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "whose derivative is cosine."
+    } ]
+  }, {
+    "tStartMs": 1257760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Plus, since the Schrodinger\nequation is linear,"
+    } ]
+  }, {
+    "tStartMs": 1260640,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "you can add together an\narbitrary number of solutions"
+    } ]
+  }, {
+    "tStartMs": 1263390,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "of this form, creating any\nsort of wave shape you like,"
+    } ]
+  }, {
+    "tStartMs": 1267310,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and it too, will be a solution\nto Schrodinger's equation."
+    } ]
+  }, {
+    "tStartMs": 1270670,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "The physicist Freeman Dyson later writes,"
+    } ]
+  }, {
+    "tStartMs": 1273437,
+    "dDurationMs": 2063,
+    "segs": [ {
+      "utf8": "\"Schrödinger put the\nsquare root of minus one"
+    } ]
+  }, {
+    "tStartMs": 1275500,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "into the equation, and\nsuddenly it made sense."
+    } ]
+  }, {
+    "tStartMs": 1278810,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Suddenly it became a wave equation"
+    } ]
+  }, {
+    "tStartMs": 1281190,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "instead of a heat conduction equation."
+    } ]
+  }, {
+    "tStartMs": 1283340,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "And Schrodinger found to his delight"
+    } ]
+  }, {
+    "tStartMs": 1285640,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "that the equation has solutions"
+    } ]
+  }, {
+    "tStartMs": 1287160,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "corresponding to the quantized orbits"
+    } ]
+  }, {
+    "tStartMs": 1289310,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "in the Bohr model of the atom."
+    } ]
+  }, {
+    "tStartMs": 1291560,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "It turns out that the Schrodinger equation"
+    } ]
+  }, {
+    "tStartMs": 1293640,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "describes correctly everything we know"
+    } ]
+  }, {
+    "tStartMs": 1296130,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "about the behavior of atoms."
+    } ]
+  }, {
+    "tStartMs": 1298290,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "It is the basis of all of\nchemistry and most of physics."
+    } ]
+  }, {
+    "tStartMs": 1302600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "And that square root of minus one"
+    } ]
+  }, {
+    "tStartMs": 1304200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "means that nature works\nwith complex numbers"
+    } ]
+  }, {
+    "tStartMs": 1307600,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "and not with real numbers."
+    } ]
+  }, {
+    "tStartMs": 1310340,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "This discovery came as\na complete surprise,"
+    } ]
+  }, {
+    "tStartMs": 1313520,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "to Schrodinger as well\nas to everybody else.\""
+    } ]
+  }, {
+    "tStartMs": 1316980,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "So imaginary numbers"
+    } ]
+  }, {
+    "tStartMs": 1318630,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "discovered as a quirky, intermediate step"
+    } ]
+  }, {
+    "tStartMs": 1321440,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "on the way to solving the cubic\nturn out to be fundamental"
+    } ]
+  }, {
+    "tStartMs": 1324830,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "to our description of reality."
+    } ]
+  }, {
+    "tStartMs": 1327230,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Only by giving up maths\nconnection to reality"
+    } ]
+  }, {
+    "tStartMs": 1330530,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "could it guide us to a deeper truth"
+    } ]
+  }, {
+    "tStartMs": 1332980,
+    "dDurationMs": 2473,
+    "segs": [ {
+      "utf8": "about the way the universe works."
+    } ]
+  }, {
+    "tStartMs": 1341290,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Not gonna lie, I learned a\nton while making this video,"
+    } ]
+  }, {
+    "tStartMs": 1344370,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "because I really had to\nengage with some ideas"
+    } ]
+  }, {
+    "tStartMs": 1347060,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "that I was already familiar with."
+    } ]
+  }, {
+    "tStartMs": 1348800,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "And that is exactly what\nhappens with Brilliant,"
+    } ]
+  }, {
+    "tStartMs": 1350890,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "the sponsor of this video."
+    } ]
+  }, {
+    "tStartMs": 1352680,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Brilliant is a website\nand app that teaches you"
+    } ]
+  }, {
+    "tStartMs": 1354750,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "all kinds of STEM concepts,"
+    } ]
+  }, {
+    "tStartMs": 1356630,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "from geometry to quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 1358750,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "And you learn by doing."
+    } ]
+  }, {
+    "tStartMs": 1360680,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "They use interactivity to\nbring your understanding"
+    } ]
+  }, {
+    "tStartMs": 1362930,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "to the next level."
+    } ]
+  }, {
+    "tStartMs": 1364100,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Like calculus?"
+    } ]
+  }, {
+    "tStartMs": 1365250,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "No problem."
+    } ]
+  }, {
+    "tStartMs": 1366260,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "It's way more fun"
+    } ]
+  }, {
+    "tStartMs": 1367420,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "when you work through\nthe material yourself"
+    } ]
+  }, {
+    "tStartMs": 1369240,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and get to manipulate it visually."
+    } ]
+  }, {
+    "tStartMs": 1371670,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Check out these Surfaces of Revolution,"
+    } ]
+  }, {
+    "tStartMs": 1373740,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "a clear demonstration of how you can use"
+    } ]
+  }, {
+    "tStartMs": 1376050,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "an integral to find volume."
+    } ]
+  }, {
+    "tStartMs": 1378170,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "The problems are carefully curated"
+    } ]
+  }, {
+    "tStartMs": 1380030,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "to increase in difficulty as you go."
+    } ]
+  }, {
+    "tStartMs": 1382200,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "And if you get stuck, there\nis always a helpful hint."
+    } ]
+  }, {
+    "tStartMs": 1385550,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "If this video has whetted your\nappetite for complex numbers,"
+    } ]
+  }, {
+    "tStartMs": 1388020,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "they have an awesome\ncourse on that subject"
+    } ]
+  }, {
+    "tStartMs": 1390300,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "from the Mandelbrot\nset to Euler's formula."
+    } ]
+  }, {
+    "tStartMs": 1393060,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "And for viewers of this channel,"
+    } ]
+  }, {
+    "tStartMs": 1394680,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Brilliant is offering 20%\noff an annual subscription"
+    } ]
+  }, {
+    "tStartMs": 1397480,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "to the first 200 people to sign up."
+    } ]
+  }, {
+    "tStartMs": 1399440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Just go to brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1402320,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1404570,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor supporting Veritasium"
+    } ]
+  }, {
+    "tStartMs": 1406810,
+    "dDurationMs": 1943,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

@@ -1,0 +1,1003 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 89,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "Normal maps are useless inside black holes.\nAt the event horizon - the ultimate point"
+    } ]
+  }, {
+    "tStartMs": 5130,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "of no return as you approach a black hole\n- time and space themselves change their character."
+    } ]
+  }, {
+    "tStartMs": 10750,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "We need new coordinate systems to trace paths\ninto the black hole interior. But the maps"
+    } ]
+  }, {
+    "tStartMs": 16550,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "we draw using those coordinates reveal something\nunexpected - they don’t simply end inside"
+    } ]
+  }, {
+    "tStartMs": 22570,
+    "dDurationMs": 6530,
+    "segs": [ {
+      "utf8": "the black hole, but continue beyond. In these\nmaps, black holes become wormholes, and new"
+    } ]
+  }, {
+    "tStartMs": 29100,
+    "dDurationMs": 8520,
+    "segs": [ {
+      "utf8": "universes lie on the other side."
+    } ]
+  }, {
+    "tStartMs": 37620,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "Cartographers grid up the surface of the Earth\nin lines of longitude and latitude so that"
+    } ]
+  }, {
+    "tStartMs": 41489,
+    "dDurationMs": 5551,
+    "segs": [ {
+      "utf8": "every point on the planet can be clearly defined\nwith two numbers. Everywhere but at the north"
+    } ]
+  }, {
+    "tStartMs": 47040,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "and south poles, that is. There, all lines\nof longitude merge, and all directions become"
+    } ]
+  }, {
+    "tStartMs": 53520,
+    "dDurationMs": 7519,
+    "segs": [ {
+      "utf8": "south. We call these points coordinate singularities.\nA singularity is where a variable in the equation"
+    } ]
+  }, {
+    "tStartMs": 61039,
+    "dDurationMs": 5731,
+    "segs": [ {
+      "utf8": "becomes infinite - and a single swivel at\na pole carries you through the longitudes"
+    } ]
+  }, {
+    "tStartMs": 66770,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "at an infinite rate. The coordinate singularity\nof the poles can be banished by shifting the"
+    } ]
+  }, {
+    "tStartMs": 73350,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "spherical coordinate system used to grid the\nearth, or by changing the coordinate system"
+    } ]
+  }, {
+    "tStartMs": 77560,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "entirely - for example, you can expand the\ndistance between lines of longitude as you"
+    } ]
+  }, {
+    "tStartMs": 83030,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "approach the pole so that those lines don’t\nconverge at all. Unroll the resulting cylinder"
+    } ]
+  }, {
+    "tStartMs": 88240,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "and you have the Mercator projection - a perfectly\nuseful map for plotting your path, as long"
+    } ]
+  }, {
+    "tStartMs": 93789,
+    "dDurationMs": 4981,
+    "segs": [ {
+      "utf8": "as you remember that Greenland isn’t really\nlarger than south america."
+    } ]
+  }, {
+    "tStartMs": 98770,
+    "dDurationMs": 5449,
+    "segs": [ {
+      "utf8": "To map the universe we need 3 dimensions of\nspace instead of two, plus the dimension of"
+    } ]
+  }, {
+    "tStartMs": 104219,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "time. And maps of the universe in this 4-dimensional\nspacetime also have coordinate singularities"
+    } ]
+  }, {
+    "tStartMs": 110349,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "- for example around the black hole."
+    } ]
+  }, {
+    "tStartMs": 113680,
+    "dDurationMs": 4249,
+    "segs": [ {
+      "utf8": "Our first map of the spacetime of a black\nhole was the Schwarzschild metric -"
+    } ]
+  }, {
+    "tStartMs": 117929,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "a relatively simple bit of algebra derived\nby Karl Schwarzschild just a couple of months"
+    } ]
+  }, {
+    "tStartMs": 122619,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "after Einstein published his general theory\nof relativity. It allows us to calculate the"
+    } ]
+  }, {
+    "tStartMs": 128140,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": "path of an object moving in the insane gravitational\nfield approaching a black hole. It even works"
+    } ]
+  }, {
+    "tStartMs": 133719,
+    "dDurationMs": 6541,
+    "segs": [ {
+      "utf8": "inside the black hole - beneath the inescapable\nevent horizon. Although it works in both these"
+    } ]
+  }, {
+    "tStartMs": 140260,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "regions, the Schwarzschild metric canNOT be\nused to plot a trajectory that actually crosses"
+    } ]
+  }, {
+    "tStartMs": 145340,
+    "dDurationMs": 5649,
+    "segs": [ {
+      "utf8": "the event horizon. That’s because at the\nevent horizon, time appears to freeze from"
+    } ]
+  }, {
+    "tStartMs": 150989,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "the point of view of a distant observer. And\nthe Schwarzschild metric is defined in terms"
+    } ]
+  }, {
+    "tStartMs": 155849,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "of that observer’s units of space and time.\nSo if they try to trace a path across the"
+    } ]
+  }, {
+    "tStartMs": 161129,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "horizon in terms of their own clock, the moment\nof crossing never happens. It’s like Achilles"
+    } ]
+  }, {
+    "tStartMs": 167859,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "chasing the tortoise in Zeno’s paradox - Achilles\ncovers half the remaining distance at each"
+    } ]
+  }, {
+    "tStartMs": 173180,
+    "dDurationMs": 3149,
+    "segs": [ {
+      "utf8": "step, and so never closes the gap."
+    } ]
+  }, {
+    "tStartMs": 176329,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "Of course Achilles WOULD actually catch the\ntortoise, and a plummeting cartographer would"
+    } ]
+  }, {
+    "tStartMs": 181819,
+    "dDurationMs": 5991,
+    "segs": [ {
+      "utf8": "fall through the event horizon. The event\nhorizon is just a coordinate singularity like"
+    } ]
+  }, {
+    "tStartMs": 187810,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "the earth’s poles, and to make a smooth\nmap through it we need a Mercator projection"
+    } ]
+  }, {
+    "tStartMs": 193150,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "of a black hole."
+    } ]
+  }, {
+    "tStartMs": 194750,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "In the Mercator projection, the separation\nof lines of longitude are multiplied by a"
+    } ]
+  }, {
+    "tStartMs": 198950,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "factor that depends on their latitude - and\nthat multiplication factor becomes infinite"
+    } ]
+  }, {
+    "tStartMs": 203340,
+    "dDurationMs": 5179,
+    "segs": [ {
+      "utf8": "at the poles, to cancel out the converging\nlines of longitude. For black holes we instead"
+    } ]
+  }, {
+    "tStartMs": 208519,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "fuse time with a something called a tortoise\ncoordinate, after Zeno’s paradox. It’s"
+    } ]
+  }, {
+    "tStartMs": 214359,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "a measure of distance that becomes infinitesimally\ncompact approaching the horizon. That compactification"
+    } ]
+  }, {
+    "tStartMs": 220329,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "cancels out the infinite stretching of time\nso that gridlines pass smoothly across the"
+    } ]
+  }, {
+    "tStartMs": 225659,
+    "dDurationMs": 1011,
+    "segs": [ {
+      "utf8": "event horizon."
+    } ]
+  }, {
+    "tStartMs": 226670,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "The first such scheme was Eddington-Finkelstein\ncoordinates, and they revealed that the singularity"
+    } ]
+  }, {
+    "tStartMs": 232060,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "of the event horizon was an illusion. Kruskal–Szekeres\ncoordinates improved our map by enforcing"
+    } ]
+  }, {
+    "tStartMs": 239420,
+    "dDurationMs": 6769,
+    "segs": [ {
+      "utf8": "that the trajectory of light always be at\na 45 degree angle. In the resulting Kruskal–Szekeres"
+    } ]
+  }, {
+    "tStartMs": 246189,
+    "dDurationMs": 5621,
+    "segs": [ {
+      "utf8": "diagram, the event horizon becomes is also\na 45 degree line, even though it actually"
+    } ]
+  }, {
+    "tStartMs": 251810,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "has a constant physical size."
+    } ]
+  }, {
+    "tStartMs": 254760,
+    "dDurationMs": 4779,
+    "segs": [ {
+      "utf8": "Because nothing can travel faster than light,\nthis makes very clear what parts of the universe"
+    } ]
+  }, {
+    "tStartMs": 259539,
+    "dDurationMs": 6491,
+    "segs": [ {
+      "utf8": "are accessible. Close to the event horizon,\neven a light-speed path has only a narrow"
+    } ]
+  }, {
+    "tStartMs": 266030,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "window of escape. Once inside the event horizon,\nno such window remains."
+    } ]
+  }, {
+    "tStartMs": 271460,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "These days Penrose coordinates are even more\npopular for intergalactic travelers. On Penrose"
+    } ]
+  }, {
+    "tStartMs": 277370,
+    "dDurationMs": 7390,
+    "segs": [ {
+      "utf8": "diagrams, space and time also bunch up at\ninfinite distance so tha t the entire universe"
+    } ]
+  }, {
+    "tStartMs": 284760,
+    "dDurationMs": 7110,
+    "segs": [ {
+      "utf8": "fits on the one diagram. Well, the whole universe?\nNot quite."
+    } ]
+  }, {
+    "tStartMs": 291870,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "In the Mercator projection, we know that lines\nof longitude and latitude don’t just end"
+    } ]
+  }, {
+    "tStartMs": 296620,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "at the edge of the page - they loop."
+    } ]
+  }, {
+    "tStartMs": 300070,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "General relativity uses null geodesics - the\npaths taken by light rays - to grid spacetime,"
+    } ]
+  }, {
+    "tStartMs": 307030,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "and we also assume that those lines don’t\njust end. There’s no abrupt edge to spacetime"
+    } ]
+  }, {
+    "tStartMs": 313210,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "flapping in the wind. The only place geodesics\nend is at true singularities, like at the"
+    } ]
+  }, {
+    "tStartMs": 319360,
+    "dDurationMs": 6559,
+    "segs": [ {
+      "utf8": "center of the black hole. On our Penrose diagram,\nwe see that light rays can either travel away"
+    } ]
+  }, {
+    "tStartMs": 325919,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "from the black hole to infinite distance,\nor they can travel towards the center of the"
+    } ]
+  }, {
+    "tStartMs": 330490,
+    "dDurationMs": 6649,
+    "segs": [ {
+      "utf8": "black hole and be lost. That’s all fine.\nWe also see that light rays can come in from"
+    } ]
+  }, {
+    "tStartMs": 337139,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "far away towards the black hole - no problem\nthere. But what about light rays going in"
+    } ]
+  }, {
+    "tStartMs": 342979,
+    "dDurationMs": 6071,
+    "segs": [ {
+      "utf8": "the other direction? These don’t have a\nsensible point of origin."
+    } ]
+  }, {
+    "tStartMs": 349050,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "We say this Penrose diagram is geodesically\nincomplete because there are light rays with"
+    } ]
+  }, {
+    "tStartMs": 354530,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "undefined origins. This is equivalent to saying\nthat we have not explored the full range of"
+    } ]
+  }, {
+    "tStartMs": 359420,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "the Penrose coordinates within the Schwarzschild\ndescription of the black hole. If we trace"
+    } ]
+  }, {
+    "tStartMs": 364210,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "those coordinates to their full extent, we\nget what we call a maximally extended Schwarzschild"
+    } ]
+  }, {
+    "tStartMs": 369690,
+    "dDurationMs": 5379,
+    "segs": [ {
+      "utf8": "solution - and it reveals strange new regions\non the Penrose diagram."
+    } ]
+  }, {
+    "tStartMs": 375069,
+    "dDurationMs": 4491,
+    "segs": [ {
+      "utf8": "If we trace our light ray backwards from our\nuniverse we encounter a region that looks"
+    } ]
+  }, {
+    "tStartMs": 379560,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "just like the black hole - but with time reversed.\nThis is the white hole, and we’ve this before"
+    } ]
+  }, {
+    "tStartMs": 386600,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "- but perhaps we’ll get a little more insight\ninto them today. Today we’re going to explore"
+    } ]
+  }, {
+    "tStartMs": 391750,
+    "dDurationMs": 5949,
+    "segs": [ {
+      "utf8": "an even stranger region. This c orner. The\nregion defined by tracing right-moving light"
+    } ]
+  }, {
+    "tStartMs": 397699,
+    "dDurationMs": 4631,
+    "segs": [ {
+      "utf8": "rays backwards from within the black hole.\nIn our Penrose or Kruskal–Szekeres coordinates"
+    } ]
+  }, {
+    "tStartMs": 402330,
+    "dDurationMs": 4809,
+    "segs": [ {
+      "utf8": "this region LOOKS like our universe. In fact\nit looks like a mirror-reflected version of"
+    } ]
+  }, {
+    "tStartMs": 407139,
+    "dDurationMs": 4691,
+    "segs": [ {
+      "utf8": "our universe, at least in terms of the coordinates\nof space and time."
+    } ]
+  }, {
+    "tStartMs": 411830,
+    "dDurationMs": 6059,
+    "segs": [ {
+      "utf8": "Questions abound: is this parallel universe\nreal? Can we get there? Well before I go on,"
+    } ]
+  }, {
+    "tStartMs": 417889,
+    "dDurationMs": 6691,
+    "segs": [ {
+      "utf8": "I should say - the map I just drew is for\nthe case of an eternal Schwarzschild black"
+    } ]
+  }, {
+    "tStartMs": 424580,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "hole. One whose coordinates do not change\nover time, implying that it always existed."
+    } ]
+  }, {
+    "tStartMs": 430090,
+    "dDurationMs": 5231,
+    "segs": [ {
+      "utf8": "We’ll see later how things change in the\ncase of a black hole born of the collapse"
+    } ]
+  }, {
+    "tStartMs": 435321,
+    "dDurationMs": 1378,
+    "segs": [ {
+      "utf8": "of a star."
+    } ]
+  }, {
+    "tStartMs": 436699,
+    "dDurationMs": 5211,
+    "segs": [ {
+      "utf8": "For now, let’s see if we can travel to the\nparallel universe of the eternal black hole."
+    } ]
+  }, {
+    "tStartMs": 441910,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "The only way to pass between these universes\nis to travel faster than light. You can see"
+    } ]
+  }, {
+    "tStartMs": 446509,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "that by the fact that the only paths shallower\nthan 45 degrees can pass between the universes."
+    } ]
+  }, {
+    "tStartMs": 452909,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "But imagine you could travel at infinite speed\n- then you could take these horizontal which"
+    } ]
+  }, {
+    "tStartMs": 458470,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "would dip beneath the event horizons and emerge\nin the mirror universe. You’ve just traversed"
+    } ]
+  }, {
+    "tStartMs": 464430,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "an Einstein-Rosen bridge - a wormhole. We’ll\ncome back to the detailed physics of wormholes"
+    } ]
+  }, {
+    "tStartMs": 470160,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "another time - today we’re interested in\nwhat that journey can tell us about the parallel"
+    } ]
+  }, {
+    "tStartMs": 475310,
+    "dDurationMs": 1829,
+    "segs": [ {
+      "utf8": "universe on the other side."
+    } ]
+  }, {
+    "tStartMs": 477139,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "Let’s say you drop into a black hole to\ntry to get to the other side. Within the black"
+    } ]
+  }, {
+    "tStartMs": 482210,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "hole, space and time have switched roles.\nThese lines represent steps towards the central"
+    } ]
+  }, {
+    "tStartMs": 488240,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "singularity - it’s the old radial direction,\nbut now flows only in one direction - to your"
+    } ]
+  }, {
+    "tStartMs": 494840,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "crushing demise. These lines are the old time\ndimension, but now traversable in both directions."
+    } ]
+  }, {
+    "tStartMs": 502810,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "Once inside the black hole what do you see?\nLight can reach you from the universe behind"
+    } ]
+  }, {
+    "tStartMs": 507569,
+    "dDurationMs": 5831,
+    "segs": [ {
+      "utf8": "- those are photons that overtake you heading\ntowards the central singularity. Light can"
+    } ]
+  }, {
+    "tStartMs": 513400,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "also reach you from below - that’s light\nfrom anything that fell in before you. It’s"
+    } ]
+  }, {
+    "tStartMs": 518960,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "trying to escape and will ultimately fail,\ndragged down by the cascading fabric of space."
+    } ]
+  }, {
+    "tStartMs": 524430,
+    "dDurationMs": 5461,
+    "segs": [ {
+      "utf8": "But for now you overtake that light and get\na glimpse of the black hole’s past. You"
+    } ]
+  }, {
+    "tStartMs": 529891,
+    "dDurationMs": 6739,
+    "segs": [ {
+      "utf8": "never actually see the singularity - that\nis manifest as an inevitable crushing future,"
+    } ]
+  }, {
+    "tStartMs": 536630,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "in which the space around you becomes infinitely\ncurved."
+    } ]
+  }, {
+    "tStartMs": 540350,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "So what do you do? You can turn around and\ntry go back the way you came - and if you"
+    } ]
+  }, {
+    "tStartMs": 545660,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "can travel faster than light you’ll emerge\nfrom the same event horizon that swallowed"
+    } ]
+  }, {
+    "tStartMs": 549890,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "you. Or you can plunge faster than light towards\nthe light coming from below - that means going"
+    } ]
+  }, {
+    "tStartMs": 557270,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "this way. Against intuition, traveling faster\nthan light in that direction doesn’t get"
+    } ]
+  }, {
+    "tStartMs": 562900,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "you to the singularity more quickly - instead\nyou’re ejected through the parallel horizon"
+    } ]
+  }, {
+    "tStartMs": 568160,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "into the parallel universe. Within the black\nhole, you see an event horizon both behind"
+    } ]
+  }, {
+    "tStartMs": 574070,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "AND ahead of you. But only superluminal speeds\nwill get you to either."
+    } ]
+  }, {
+    "tStartMs": 579190,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Assuming you could reach the parallel universe,\nwhat would you see? This is where opinion"
+    } ]
+  }, {
+    "tStartMs": 583760,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "is divided. Some think that the parallel universe\nAND the white hole are just coordinate reflections"
+    } ]
+  }, {
+    "tStartMs": 589920,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "of the regular universe and black hole - that\nthey don’t have an independent existence."
+    } ]
+  }, {
+    "tStartMs": 595510,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Just as with the Mercator projection, traveling\noff the edge of the Schwarzschild spacetime"
+    } ]
+  }, {
+    "tStartMs": 600330,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "brings you back somewhere else in the same\nspacetime. Exactly where depends on how that"
+    } ]
+  }, {
+    "tStartMs": 604760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "reflection works. Perhaps you emerge from\nthe past “white hole” traveling forward"
+    } ]
+  }, {
+    "tStartMs": 609680,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "in time, or from the future black hole but\ntraveling backwards in time. Which would just"
+    } ]
+  }, {
+    "tStartMs": 614770,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "look like falling into the black hole to someone\nwho themselves are moving forwards in time."
+    } ]
+  }, {
+    "tStartMs": 620530,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "Confusing. And it’s okay that this doesn’t\nmake much sense - faster than light travel"
+    } ]
+  }, {
+    "tStartMs": 626260,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "always leads to silly paradoxes because it’s\nimpossible."
+    } ]
+  }, {
+    "tStartMs": 630240,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Not only is faster than light travel impossible,\nbut eternal black holes don’t exist either."
+    } ]
+  }, {
+    "tStartMs": 635250,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "The parallel universe and white hole are needed\nin the map of the eternal Schwarzschild black"
+    } ]
+  }, {
+    "tStartMs": 640680,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "hole in order for geodesics to have somewhere\nto come from. But real black holes form from"
+    } ]
+  }, {
+    "tStartMs": 646150,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "collapsing stars - there’s no white hole\nin their past. And within those black holes,"
+    } ]
+  }, {
+    "tStartMs": 651890,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "any outgoing light ray can be traced back\nto the surface of the collapsing star and"
+    } ]
+  }, {
+    "tStartMs": 656950,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "to its interior."
+    } ]
+  }, {
+    "tStartMs": 658430,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Even though the parallel universe of the Schwazschild\nblack hole isn’t likely to be real, there"
+    } ]
+  }, {
+    "tStartMs": 663770,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "are intriguing possibilities. That Einstein-Rosen\nbridge can potentially be made to lead to"
+    } ]
+  }, {
+    "tStartMs": 669870,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "different parts of THIS universe, and could\nbe traversed if it could be pried open. That’s"
+    } ]
+  }, {
+    "tStartMs": 675110,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "a huge if, but it would allow instant travel\nbetween distant locations. And in the case"
+    } ]
+  }, {
+    "tStartMs": 680740,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "of rotating black holes, the traversable wormhole\nand even the parallel universe are not so"
+    } ]
+  }, {
+    "tStartMs": 686260,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "easy to dismiss as is the Schwarzschild black\nhole. In fact we’ll soon follow a sublightspeed"
+    } ]
+  }, {
+    "tStartMs": 692710,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "path through a Kerr black holes into parallel\nregions of spacetime."
+    } ]
+  }, {
+    "tStartMs": 697740,
+    "dDurationMs": 7130,
+    "segs": [ {
+      "utf8": "Hey Everyone. Welcome to the new Space Time\nstudio aka my apartment because New York is"
+    } ]
+  }, {
+    "tStartMs": 704870,
+    "dDurationMs": 5682,
+    "segs": [ {
+      "utf8": "in lockdown, but as you can see we are doing\neverything we can to keep bringing you Space"
+    } ]
+  }, {
+    "tStartMs": 710552,
+    "dDurationMs": 5868,
+    "segs": [ {
+      "utf8": "Time every week. Okay today we’re doing\ncomments for the last two episodes which are"
+    } ]
+  }, {
+    "tStartMs": 716420,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "on rotating black holes and quantum darwinism.\nLet’s see what you had to say."
+    } ]
+  }, {
+    "tStartMs": 722940,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Eddy Mich always thought entanglement could\nonly occur between two particles. What you're"
+    } ]
+  }, {
+    "tStartMs": 728640,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "thinking about is the principle of monogamy\nof entanglement, which states that a given"
+    } ]
+  }, {
+    "tStartMs": 733260,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "quantum state can only be maximally entangled\nwith one other quantum state. The key word"
+    } ]
+  }, {
+    "tStartMs": 739420,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "here is \"maximal\". As an example, the spin\nof a newly created electron-positron pair"
+    } ]
+  }, {
+    "tStartMs": 745420,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "are perfectly correlated as being in opposite\ndirections. Measure the spin of one and you"
+    } ]
+  }, {
+    "tStartMs": 750620,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "know with perfect certainty the spin of the\nother. That's maximal entanglement for the"
+    } ]
+  }, {
+    "tStartMs": 755350,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "spin state. If the electron then interacts\nwith, say, a photon so that the photon and"
+    } ]
+  }, {
+    "tStartMs": 760940,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "electron spin states are entangled, then that\nwill either completely break the original"
+    } ]
+  }, {
+    "tStartMs": 765690,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "entanglement or at least introduce some level\nof undertainty in the correlation. So entanglement"
+    } ]
+  }, {
+    "tStartMs": 771670,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "can be completely tranfered, or it can be\nshared among many particles with reduced strength"
+    } ]
+  }, {
+    "tStartMs": 778920,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "to the correlation between any two particles."
+    } ]
+  }, {
+    "tStartMs": 781750,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "SaintCergue gives a nice analogy to describe\nthis idea: the macroscopic \"world\" is a filter"
+    } ]
+  }, {
+    "tStartMs": 787410,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "function which selects quantum states immune\nto entanglement diffusion. So that's almost"
+    } ]
+  }, {
+    "tStartMs": 793080,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "it, but actually ALL entanglement gets diffused.\nThe \"filter function\" instead causes quantum"
+    } ]
+  }, {
+    "tStartMs": 800520,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "states to become correlated with macroscopic\nobservables. The entanglement is dispersed"
+    } ]
+  }, {
+    "tStartMs": 805670,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "through the environment, but in a coherent\nway that enables us to infer the intitial"
+    } ]
+  }, {
+    "tStartMs": 810470,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "quantum state."
+    } ]
+  }, {
+    "tStartMs": 811750,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "John Cramer wants to know how big an explosion\nyou can get from a black hole bomb, and kindly"
+    } ]
+  }, {
+    "tStartMs": 816520,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "requests a whole video. Well for the video\nI'm going to directly you to Kurzgesagt, who"
+    } ]
+  }, {
+    "tStartMs": 822880,
+    "dDurationMs": 8790,
+    "segs": [ {
+      "utf8": "have some more details and better animations.\nBut how big is the bomb? Well the limit is"
+    } ]
+  }, {
+    "tStartMs": 831670,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "as much rotational energy as the black hole\ncontains. for a maximally rotating black hole"
+    } ]
+  }, {
+    "tStartMs": 837630,
+    "dDurationMs": 10060,
+    "segs": [ {
+      "utf8": "that's 40% of its total mass - all released\nas energy. To put that in context, think of"
+    } ]
+  }, {
+    "tStartMs": 847690,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "any ridiculously energetic process - now multiply\nthat by 10 to the power of some stupidly large"
+    } ]
+  }, {
+    "tStartMs": 854110,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "number. Impressive, right?"
+    } ]
+  }, {
+    "tStartMs": 855110,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Cliff86 points out that the way quantum states\nbecome increasingly entangled with their environment"
+    } ]
+  }, {
+    "tStartMs": 859420,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "seems analogous to the second law of thermodynamics\n- aka that entropy must increase over time."
+    } ]
+  }, {
+    "tStartMs": 865910,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Nice observation - but it's not just analogous\n- entropy and entanglement seem to be fundamentally"
+    } ]
+  }, {
+    "tStartMs": 871590,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "connected. I've been meaning to get around\nto a whole episode on quantum entropy - aka"
+    } ]
+  }, {
+    "tStartMs": 875890,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "von neumann entropy, and how it relates to\nentopy. We'll get there."
+    } ]
+  }, {
+    "tStartMs": 881250,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Yuval Nehemia points out that Wojciech Zurek\nlooks like the physicist version of Bob Ross."
+    } ]
+  }, {
+    "tStartMs": 888330,
+    "dDurationMs": 10660,
+    "segs": [ {
+      "utf8": "That was the first thing I thought. Happy\nlittle entanglements. Stay safe everyone."
+    } ]
+  } ]
+}

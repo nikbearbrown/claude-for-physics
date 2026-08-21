@@ -1,0 +1,403 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Hi, this is Henry, and this is the first in a series of videos about special relativity"
+    } ]
+  }, {
+    "tStartMs": 5020,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "This is definitely not an academic course,"
+    } ]
+  }, {
+    "tStartMs": 7080,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "but it's going to be a more in-depth and developed exploration of a single topic"
+    } ]
+  }, {
+    "tStartMs": 10540,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "than a typical standalone minute physics video."
+    } ]
+  }, {
+    "tStartMs": 12520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I've been greatly inspired and heckled to do this by my friend Grant Sanderson of Three Blue One Brown"
+    } ]
+  }, {
+    "tStartMs": 17720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "who set the standard for this kind of thing with his excellent series"
+    } ]
+  }, {
+    "tStartMs": 20650,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "series'es? on calculus and linear algebra."
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So, special relativity."
+    } ]
+  }, {
+    "tStartMs": 25720,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Special relativity is one of the most popularly famous ideas in physics"
+    } ]
+  }, {
+    "tStartMs": 29840,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "It's the thing that Einstein figured out about the speed of light and space and time and e equals mc-squared"
+    } ]
+  }, {
+    "tStartMs": 34420,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "It changed our understanding of the universe and its core ideas are accessible in principle to anyone who understands some basic algebra and geometry"
+    } ]
+  }, {
+    "tStartMs": 41770,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You don't even need to know calculus"
+    } ]
+  }, {
+    "tStartMs": 43270,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "And yet in spite of this"
+    } ]
+  }, {
+    "tStartMs": 44950,
+    "dDurationMs": 6979,
+    "segs": [ {
+      "utf8": "special relativity is one of the subjects in physics that confuses the most people and in many cases turns them away from physics altogether I"
+    } ]
+  }, {
+    "tStartMs": 51969,
+    "dDurationMs": 831,
+    "segs": [ {
+      "utf8": "think in part"
+    } ]
+  }, {
+    "tStartMs": 52800,
+    "dDurationMs": 6209,
+    "segs": [ {
+      "utf8": "This is because special relativity is not quite a big enough subject to ever get its own full class in physics departments you might see"
+    } ]
+  }, {
+    "tStartMs": 59079,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "classical mechanics or quantum mechanics or electromagnetism or intro to general relativity on a course syllabus"
+    } ]
+  }, {
+    "tStartMs": 64559,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "But it's surprisingly rare to see special relativity"
+    } ]
+  }, {
+    "tStartMs": 67210,
+    "dDurationMs": 4819,
+    "segs": [ {
+      "utf8": "Even though relativity is an essential building block upon which most of the rest of modern physics depends"
+    } ]
+  }, {
+    "tStartMs": 72400,
+    "dDurationMs": 5659,
+    "segs": [ {
+      "utf8": "Special relativity is typically relegated to just a few days squeezed into the beginning or end of other physics courses."
+    } ]
+  }, {
+    "tStartMs": 78460,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "However, the more important reason special relativity confuses so many people is that it's almost always introduced"
+    } ]
+  }, {
+    "tStartMs": 84430,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "confusingly with lots of complicated algebraic equations with Delta X's and Delta X Prime's and square roots"
+    } ]
+  }, {
+    "tStartMs": 89790,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "Which sometimes you divide by and sometimes you multiply by and all the while you're scrambling to figure out where in all this symbol logical"
+    } ]
+  }, {
+    "tStartMs": 95250,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "mess they're hiding a supposedly mind-blowing insight about the fundamental nature of space and time"
+    } ]
+  }, {
+    "tStartMs": 101049,
+    "dDurationMs": 991,
+    "segs": [ {
+      "utf8": "Special relativity"
+    } ]
+  }, {
+    "tStartMs": 102040,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "doesn't have to be that way."
+    } ]
+  }, {
+    "tStartMs": 103530,
+    "dDurationMs": 5909,
+    "segs": [ {
+      "utf8": "And I think the complicated explanations have only survived this long because they're how Einstein did it. But he was a professional"
+    } ]
+  }, {
+    "tStartMs": 109540,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "physicist climbing an intellectual mountain up its steepest face."
+    } ]
+  }, {
+    "tStartMs": 112500,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "And I don't think that we should require everyone who learns about special relativity now to have to follow the same path Einstein did"
+    } ]
+  }, {
+    "tStartMs": 118450,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Especially not now that we have super beautiful and simple geometric ways of explaining it"
+    } ]
+  }, {
+    "tStartMs": 122710,
+    "dDurationMs": 5779,
+    "segs": [ {
+      "utf8": "Essentially we figured out afterwards that there's a much easier way to climb the mountain than what Einstein did, a way that you could probably"
+    } ]
+  }, {
+    "tStartMs": 128489,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "even figure out on your own, given the right prompting. And it's that"
+    } ]
+  }, {
+    "tStartMs": 132350,
+    "dDurationMs": 6529,
+    "segs": [ {
+      "utf8": "fundamentally beautiful simple geometric way to understand space and time that I want you to leave with after watching this series of videos."
+    } ]
+  }, {
+    "tStartMs": 139100,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "If all goes well, hopefully you'll gain some intuition for what special relativity really is, why it works"
+    } ]
+  }, {
+    "tStartMs": 144920,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "why it's right, and why all those paradoxes you've probably heard about aren't paradoxical at all."
+    } ]
+  }, {
+    "tStartMs": 150170,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "They're just easy confusions to stumble into when you're attacking things with an army of square roots"
+    } ]
+  }, {
+    "tStartMs": 155150,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "This is going to require some mental effort from your end."
+    } ]
+  }, {
+    "tStartMs": 157750,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "There's a very real"
+    } ]
+  }, {
+    "tStartMs": 158900,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "mathematical sense in which learning special relativity is kind of like living your entire life thinking the earth is flat"
+    } ]
+  }, {
+    "tStartMs": 163900,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And then learning that the earth is actually round. A round Earth isn't actually that complicated of a thing to picture"
+    } ]
+  }, {
+    "tStartMs": 169060,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I mean, it's just a ball"
+    } ]
+  }, {
+    "tStartMs": 170420,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "But trying to get used to that idea, to really take it in and figure out how your day-to-day"
+    } ]
+  }, {
+    "tStartMs": 174980,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "experiences on this flat seeming surface of the earth-- how they fit into this new round earth idea-- that would certainly take some mental effort."
+    } ]
+  }, {
+    "tStartMs": 182420,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "It is, though, a totally different kind of mental effort from plugging lots of numbers into complicated square root formulas and"
+    } ]
+  }, {
+    "tStartMs": 188300,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "ultimately, much more worthwhile"
+    } ]
+  }, {
+    "tStartMs": 189710,
+    "dDurationMs": 6949,
+    "segs": [ {
+      "utf8": "I mean you probably have a pretty good intuition about round Earth concepts, like what happens if you just keep walking east and"
+    } ]
+  }, {
+    "tStartMs": 196940,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "what's the shape of the Earth's shadow on the moon without having to do complicated calculations in spherical polar"
+    } ]
+  }, {
+    "tStartMs": 202520,
+    "dDurationMs": 3439,
+    "segs": [ {
+      "utf8": "coordinates. In fact we're gonna take this analogy to the extreme."
+    } ]
+  }, {
+    "tStartMs": 206150,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Just like a globe is a really useful"
+    } ]
+  }, {
+    "tStartMs": 208340,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "hands-on visual way to explore what it means for the earth to be round because a globe comes with roundness built-in,"
+    } ]
+  }, {
+    "tStartMs": 214580,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I've designed and had built a hands-on"
+    } ]
+  }, {
+    "tStartMs": 217640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "space-time globe that has special relativity built in."
+    } ]
+  }, {
+    "tStartMs": 220459,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "It's not quite as simple as a globe globe because special relativity is a little weirder than roundness"
+    } ]
+  }, {
+    "tStartMs": 226310,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "But the thing I like about this machined aluminum space-time globe is that it's a physical"
+    } ]
+  }, {
+    "tStartMs": 230180,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "manifestation of the intuition that I hope you develop for special relativity."
+    } ]
+  }, {
+    "tStartMs": 233540,
+    "dDurationMs": 5029,
+    "segs": [ {
+      "utf8": "We're going to use it to gain a hands-on understanding of the twins paradox, length contraction, and time dilation,"
+    } ]
+  }, {
+    "tStartMs": 238820,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "why nothing can go faster than light, and much more. I hope to see you in the next video"
+    } ]
+  }, {
+    "tStartMs": 245590,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "And while you're waiting for the next special relativity video to come out you might want to check out this video's sponsor: Brilliant.org"
+    } ]
+  }, {
+    "tStartMs": 251709,
+    "dDurationMs": 6529,
+    "segs": [ {
+      "utf8": "a site full of interactive quizzes and mini courses on physics and math. As you've probably heard me say before, if you want to"
+    } ]
+  }, {
+    "tStartMs": 258239,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "understand physics deeply, you really have to think through ideas and solve problems yourself and Brilliant offers a great way to do just that--"
+    } ]
+  }, {
+    "tStartMs": 264790,
+    "dDurationMs": 2629,
+    "segs": [ {
+      "utf8": "either by learning a new topic, like neural networks"
+    } ]
+  }, {
+    "tStartMs": 267790,
+    "dDurationMs": 3349,
+    "segs": [ {
+      "utf8": "practicing problem solving in an area you already know, like algebra or"
+    } ]
+  }, {
+    "tStartMs": 271300,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "solving tricky puzzles, like this one. If you decide to sign up for"
+    } ]
+  }, {
+    "tStartMs": 275080,
+    "dDurationMs": 6890,
+    "segs": [ {
+      "utf8": "premium access to all of their courses and quizzes, you can get 20% off by going to brilliant.org/minutephysics. Again,"
+    } ]
+  }, {
+    "tStartMs": 281970,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": "that's brilliant.org/minutephysics, which lets Brilliant know you came from here"
+    } ]
+  } ]
+}

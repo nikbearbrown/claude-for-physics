@@ -1,0 +1,3001 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "- This is the world's largest 3D metal printer."
+    } ]
+  }, {
+    "tStartMs": 3710,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "It was built by Relativity Space,"
+    } ]
+  }, {
+    "tStartMs": 6060,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "a startup that aims to\nprint an entire rocket,"
+    } ]
+  }, {
+    "tStartMs": 9090,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "including fuel tanks and rocket\nengines, in just 60 days."
+    } ]
+  }, {
+    "tStartMs": 13510,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "I'm like looking inside\na 3D printed rocket"
+    } ]
+  }, {
+    "tStartMs": 15650,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "that is actually gonna go to space."
+    } ]
+  }, {
+    "tStartMs": 16970,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "This giant hunk of\nmetal, it's unbelievable."
+    } ]
+  }, {
+    "tStartMs": 19610,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "This video is sponsored by Omaze."
+    } ]
+  }, {
+    "tStartMs": 21850,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Offering you the chance\nto win a trip to space."
+    } ]
+  }, {
+    "tStartMs": 24060,
+    "dDurationMs": 1993,
+    "segs": [ {
+      "utf8": "More about that at the end of the show."
+    } ]
+  }, {
+    "tStartMs": 27060,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "- There's a lot of UV\ncoming off the welds,"
+    } ]
+  }, {
+    "tStartMs": 30480,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "you can film it, but\ndon't look directly at it."
+    } ]
+  }, {
+    "tStartMs": 32490,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "You get sunburned fast, so\nit's like you're suiting up"
+    } ]
+  }, {
+    "tStartMs": 35120,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "to go in a volcano."
+    } ]
+  }, {
+    "tStartMs": 36710,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "All right, we're gonna\ngo in to the 3D printer,"
+    } ]
+  }, {
+    "tStartMs": 40270,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "and see how it works."
+    } ]
+  }, {
+    "tStartMs": 44580,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "All right, so, yep, just hold this up."
+    } ]
+  }, {
+    "tStartMs": 46050,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Don't look at it."
+    } ]
+  }, {
+    "tStartMs": 49940,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "We are in the printer."
+    } ]
+  }, {
+    "tStartMs": 51270,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "- I can see it over there."
+    } ]
+  }, {
+    "tStartMs": 52810,
+    "dDurationMs": 2848,
+    "segs": [ {
+      "utf8": "- If we walk around here,\nwe can get up close."
+    } ]
+  }, {
+    "tStartMs": 55658,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "(machinery whirring)"
+    } ]
+  }, {
+    "tStartMs": 59830,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "(machinery beating)"
+    } ]
+  }, {
+    "tStartMs": 63300,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "So that's the wire melt team,"
+    } ]
+  }, {
+    "tStartMs": 65040,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and the print head moving around."
+    } ]
+  }, {
+    "tStartMs": 67230,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So that's the plasma discharge,\nand it's hard to tell,"
+    } ]
+  }, {
+    "tStartMs": 70790,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "but it's doing things every\ncouple of milliseconds,"
+    } ]
+  }, {
+    "tStartMs": 74150,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "it's actually changing\nthe electric wave form,"
+    } ]
+  }, {
+    "tStartMs": 76551,
+    "dDurationMs": 3149,
+    "segs": [ {
+      "utf8": "which is how it's controlling\nthe deposition so well."
+    } ]
+  }, {
+    "tStartMs": 79700,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "- Do you know the temperature of it?"
+    } ]
+  }, {
+    "tStartMs": 80930,
+    "dDurationMs": 1603,
+    "segs": [ {
+      "utf8": "Like, is it just above melt temp?"
+    } ]
+  }, {
+    "tStartMs": 82533,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "- It's just above melting for aluminum."
+    } ]
+  }, {
+    "tStartMs": 84410,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Yeah, probably a few\nhundred degrees above."
+    } ]
+  }, {
+    "tStartMs": 87120,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "- The melting point of aluminum\nis 660 degrees Celsius."
+    } ]
+  }, {
+    "tStartMs": 90930,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "So the whole body of the rocket"
+    } ]
+  }, {
+    "tStartMs": 92560,
+    "dDurationMs": 3973,
+    "segs": [ {
+      "utf8": "is effectively melted together\none tiny bit at a time."
+    } ]
+  }, {
+    "tStartMs": 98410,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "- All the raw metal"
+    } ]
+  }, {
+    "tStartMs": 99480,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "for the whole rocket\nthat's printed is this."
+    } ]
+  }, {
+    "tStartMs": 102200,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "It's a, you know, we kind of joke"
+    } ]
+  }, {
+    "tStartMs": 104090,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "it's like Charlotte's web."
+    } ]
+  }, {
+    "tStartMs": 105656,
+    "dDurationMs": 3807,
+    "segs": [ {
+      "utf8": "Like a spider silk, but\nthis is an aluminum alloy"
+    } ]
+  }, {
+    "tStartMs": 109463,
+    "dDurationMs": 2137,
+    "segs": [ {
+      "utf8": "that's on a wire spool."
+    } ]
+  }, {
+    "tStartMs": 111600,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "We actually print about\n10 inches a second."
+    } ]
+  }, {
+    "tStartMs": 115260,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "So this wire is really going super fast,"
+    } ]
+  }, {
+    "tStartMs": 118150,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "and then the combination of\nlasers and plasma arc discharge"
+    } ]
+  }, {
+    "tStartMs": 122660,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "are working to melt both of\nthem together at the same time."
+    } ]
+  }, {
+    "tStartMs": 125750,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "- So where does the wire come out?"
+    } ]
+  }, {
+    "tStartMs": 127810,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "- So it's right there, and\nthen the electric arc discharge"
+    } ]
+  }, {
+    "tStartMs": 132580,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "happens right at the tip of the wire too."
+    } ]
+  }, {
+    "tStartMs": 135100,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- This is a camera.\n- Yeah, that's a camera."
+    } ]
+  }, {
+    "tStartMs": 137020,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "- But why would you want\nto 3D print a rocket?"
+    } ]
+  }, {
+    "tStartMs": 140630,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Is it just because we can?"
+    } ]
+  }, {
+    "tStartMs": 142460,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's funny to me that"
+    } ]
+  }, {
+    "tStartMs": 143660,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "you had this experience with\n3D printing where you're like,"
+    } ]
+  }, {
+    "tStartMs": 146010,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "oh, 3D printing is clearly the future."
+    } ]
+  }, {
+    "tStartMs": 148240,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Whereas, I feel like a\nlot of people's experience"
+    } ]
+  }, {
+    "tStartMs": 149830,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "with 3D printers as mine has been,"
+    } ]
+  }, {
+    "tStartMs": 152610,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "it's like incredibly frustrating."
+    } ]
+  }, {
+    "tStartMs": 154180,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "I feel like 3D printing is that thing"
+    } ]
+  }, {
+    "tStartMs": 156240,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "that seems like it should be great,"
+    } ]
+  }, {
+    "tStartMs": 157850,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "and yet whenever I try it,"
+    } ]
+  }, {
+    "tStartMs": 159700,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "I don't get a result that I'm happy with."
+    } ]
+  }, {
+    "tStartMs": 161430,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "- Yeah, I know."
+    } ]
+  }, {
+    "tStartMs": 162440,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "I can tell you, we had\nplenty of experiences"
+    } ]
+  }, {
+    "tStartMs": 164550,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "the first couple of years,"
+    } ]
+  }, {
+    "tStartMs": 165540,
+    "dDurationMs": 3229,
+    "segs": [ {
+      "utf8": "where we ended up with a pile\nof metal and it didn't work."
+    } ]
+  }, {
+    "tStartMs": 168769,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "- But there are actually good\nreasons to 3D print a rocket."
+    } ]
+  }, {
+    "tStartMs": 173290,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "A rocket has four major systems."
+    } ]
+  }, {
+    "tStartMs": 175470,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Payload, guidance,\nstructural, and propulsion."
+    } ]
+  }, {
+    "tStartMs": 179060,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "The bulk of the rocket is made\nup of the propulsion system,"
+    } ]
+  }, {
+    "tStartMs": 181920,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "including the propellant\ntanks and the rocket engines."
+    } ]
+  }, {
+    "tStartMs": 185070,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Cryogenic fuel and oxidizer are pumped"
+    } ]
+  }, {
+    "tStartMs": 187540,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "through an injector into\nthe combustion chamber"
+    } ]
+  }, {
+    "tStartMs": 189920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "where they react, releasing\nan enormous amount of heat."
+    } ]
+  }, {
+    "tStartMs": 193760,
+    "dDurationMs": 2471,
+    "segs": [ {
+      "utf8": "This causes the exhaust gases to expand,"
+    } ]
+  }, {
+    "tStartMs": 196231,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "exiting the rocket\nnozzle at high velocity."
+    } ]
+  }, {
+    "tStartMs": 199600,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "The faster this exit velocity"
+    } ]
+  }, {
+    "tStartMs": 201310,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "and the higher the mass flow rate,"
+    } ]
+  }, {
+    "tStartMs": 202940,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "the more thrust that can be generated."
+    } ]
+  }, {
+    "tStartMs": 205510,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So rockets are huge, complex\nengineering projects,"
+    } ]
+  }, {
+    "tStartMs": 209070,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "which up to this point have\nlargely been manufactured"
+    } ]
+  }, {
+    "tStartMs": 211570,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "using traditional techniques."
+    } ]
+  }, {
+    "tStartMs": 213250,
+    "dDurationMs": 2274,
+    "segs": [ {
+      "utf8": "That means before you\ncan build the rocket,"
+    } ]
+  }, {
+    "tStartMs": 215524,
+    "dDurationMs": 3616,
+    "segs": [ {
+      "utf8": "you first have to build the\ntools to build the rocket."
+    } ]
+  }, {
+    "tStartMs": 219140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "For example, to build\nNASA's next huge rocket,"
+    } ]
+  }, {
+    "tStartMs": 221360,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "the Space Launch System or SLS,"
+    } ]
+  }, {
+    "tStartMs": 223810,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "they first needed to construct"
+    } ]
+  }, {
+    "tStartMs": 225090,
+    "dDurationMs": 1943,
+    "segs": [ {
+      "utf8": "the vertical assembly center or VAC."
+    } ]
+  }, {
+    "tStartMs": 227900,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This is a 170 foot tall\ntool for welding together"
+    } ]
+  }, {
+    "tStartMs": 231740,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "the domes, rings, and barrel sections"
+    } ]
+  }, {
+    "tStartMs": 234200,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "of the rocket's fuel tanks."
+    } ]
+  }, {
+    "tStartMs": 236350,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "- They built that like an aerospace thing,"
+    } ]
+  }, {
+    "tStartMs": 238410,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "and they've had to spin up all\nthese custom tooling designs"
+    } ]
+  }, {
+    "tStartMs": 241740,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "and validate that those work"
+    } ]
+  }, {
+    "tStartMs": 243140,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "before actually starts\nbuilding the rocket."
+    } ]
+  }, {
+    "tStartMs": 245530,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "And they finally got one\nbeing assembled on the pad"
+    } ]
+  }, {
+    "tStartMs": 248720,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "after 11 years of development."
+    } ]
+  }, {
+    "tStartMs": 251370,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "In contrast, Relativity Space the company,"
+    } ]
+  }, {
+    "tStartMs": 253570,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "is just five and a half years old,"
+    } ]
+  }, {
+    "tStartMs": 255091,
+    "dDurationMs": 3489,
+    "segs": [ {
+      "utf8": "and they plan to launch\ntheir first rocket this year."
+    } ]
+  }, {
+    "tStartMs": 258580,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "- I see this as a like\nold engineering style"
+    } ]
+  }, {
+    "tStartMs": 262080,
+    "dDurationMs": 3262,
+    "segs": [ {
+      "utf8": "versus Silicon valley\nstyle of build something,"
+    } ]
+  }, {
+    "tStartMs": 265342,
+    "dDurationMs": 1688,
+    "segs": [ {
+      "utf8": "figure out what's wrong with it,"
+    } ]
+  }, {
+    "tStartMs": 267030,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "and build another thing\nthat fixes those, right?"
+    } ]
+  }, {
+    "tStartMs": 269360,
+    "dDurationMs": 2635,
+    "segs": [ {
+      "utf8": "The differences, I've always\ndone that with software."
+    } ]
+  }, {
+    "tStartMs": 271995,
+    "dDurationMs": 3685,
+    "segs": [ {
+      "utf8": "These guys are doing it\nwith aerospace hardware."
+    } ]
+  }, {
+    "tStartMs": 275680,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "- So this is the actual\nrocket tank structure"
+    } ]
+  }, {
+    "tStartMs": 278649,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "of what we're gonna be launching to orbit"
+    } ]
+  }, {
+    "tStartMs": 280930,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "at the end of this year."
+    } ]
+  }, {
+    "tStartMs": 281763,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "So this actual thing\nis launching to space."
+    } ]
+  }, {
+    "tStartMs": 284103,
+    "dDurationMs": 1477,
+    "segs": [ {
+      "utf8": "- That will go to space?"
+    } ]
+  }, {
+    "tStartMs": 285580,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "- This will go to space,"
+    } ]
+  }, {
+    "tStartMs": 286790,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "and it's by far the largest\n3D printed product really,"
+    } ]
+  }, {
+    "tStartMs": 290250,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "of any type ever made that's gonna fly."
+    } ]
+  }, {
+    "tStartMs": 292950,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "I think maybe of any type in the world."
+    } ]
+  }, {
+    "tStartMs": 294830,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "- But it still looks 3D printed."
+    } ]
+  }, {
+    "tStartMs": 296170,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Like you can still see the layers."
+    } ]
+  }, {
+    "tStartMs": 297580,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "- Yeah, yeah, you can\nstill see the layers."
+    } ]
+  }, {
+    "tStartMs": 299910,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "It only adds an extra\n5 to 10% of the mass"
+    } ]
+  }, {
+    "tStartMs": 304600,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "with the roughness."
+    } ]
+  }, {
+    "tStartMs": 305860,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "When you actually cross\nsection the material"
+    } ]
+  }, {
+    "tStartMs": 308030,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and look at the machine parts of it,"
+    } ]
+  }, {
+    "tStartMs": 310070,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "it looks like normal metal."
+    } ]
+  }, {
+    "tStartMs": 311360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Like actually at this end,\nthis is printed as well."
+    } ]
+  }, {
+    "tStartMs": 314080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "We just machine it afterwards."
+    } ]
+  }, {
+    "tStartMs": 316160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So it looks like normal\nmetal in the joint sections."
+    } ]
+  }, {
+    "tStartMs": 319360,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "- Does the surface roughness\ncause any aerodynamic problems?"
+    } ]
+  }, {
+    "tStartMs": 322520,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "- No, none at all."
+    } ]
+  }, {
+    "tStartMs": 323640,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Yeah, it's actually the\nexact same aerodynamically."
+    } ]
+  }, {
+    "tStartMs": 326560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "This whole thing, we simulate\nthe print before printing,"
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "because if you just printed,\nyou know, the 3D file"
+    } ]
+  }, {
+    "tStartMs": 333060,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and said press print, you\nwould end up with a printer"
+    } ]
+  }, {
+    "tStartMs": 335730,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "that's warped and like material\nfalling all over the place"
+    } ]
+  }, {
+    "tStartMs": 339270,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "that wouldn't actually work."
+    } ]
+  }, {
+    "tStartMs": 340700,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So we've invented software\nthat reverse warps"
+    } ]
+  }, {
+    "tStartMs": 343860,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "the whole part before printing it."
+    } ]
+  }, {
+    "tStartMs": 345980,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "So the robots are actually doing this"
+    } ]
+  }, {
+    "tStartMs": 347700,
+    "dDurationMs": 2122,
+    "segs": [ {
+      "utf8": "really wobbly, weird shape,"
+    } ]
+  }, {
+    "tStartMs": 349822,
+    "dDurationMs": 3038,
+    "segs": [ {
+      "utf8": "but then it's actually perfectly straight"
+    } ]
+  }, {
+    "tStartMs": 352860,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "within a human hair at the entire length."
+    } ]
+  }, {
+    "tStartMs": 357270,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "- As it cools\n- As it cools."
+    } ]
+  }, {
+    "tStartMs": 358250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The warpy thing turns into the..."
+    } ]
+  }, {
+    "tStartMs": 360650,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "- And then we simulate all of that."
+    } ]
+  }, {
+    "tStartMs": 362070,
+    "dDurationMs": 2444,
+    "segs": [ {
+      "utf8": "So it's a big computational solver"
+    } ]
+  }, {
+    "tStartMs": 364514,
+    "dDurationMs": 3736,
+    "segs": [ {
+      "utf8": "that simulates it, and there's\nmany, many other problems"
+    } ]
+  }, {
+    "tStartMs": 368250,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "we've had to solve to actually get"
+    } ]
+  }, {
+    "tStartMs": 370120,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "printing a rocket to work."
+    } ]
+  }, {
+    "tStartMs": 371430,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "But it's all these little pieces"
+    } ]
+  }, {
+    "tStartMs": 373340,
+    "dDurationMs": 1324,
+    "segs": [ {
+      "utf8": "over the last couple of years,"
+    } ]
+  }, {
+    "tStartMs": 374664,
+    "dDurationMs": 2806,
+    "segs": [ {
+      "utf8": "and we've really started\nto hit some breakthroughs,"
+    } ]
+  }, {
+    "tStartMs": 377470,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "which is also why now\nyou see a whole rocket."
+    } ]
+  }, {
+    "tStartMs": 380770,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Yeah, you can step up here actually"
+    } ]
+  }, {
+    "tStartMs": 382230,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "if you want.\n- Can I?"
+    } ]
+  }, {
+    "tStartMs": 383063,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 384885,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "(man laughs)"
+    } ]
+  }, {
+    "tStartMs": 387420,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "- Hello."
+    } ]
+  }, {
+    "tStartMs": 389490,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I'm like looking inside\na 3D printed rocket"
+    } ]
+  }, {
+    "tStartMs": 391650,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "that is actually gonna go to space."
+    } ]
+  }, {
+    "tStartMs": 392980,
+    "dDurationMs": 897,
+    "segs": [ {
+      "utf8": "- Yes."
+    } ]
+  }, {
+    "tStartMs": 393877,
+    "dDurationMs": 1973,
+    "segs": [ {
+      "utf8": "- This giant hunk of metal."
+    } ]
+  }, {
+    "tStartMs": 395850,
+    "dDurationMs": 1183,
+    "segs": [ {
+      "utf8": "It's unbelievable."
+    } ]
+  }, {
+    "tStartMs": 398480,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "There's like rings inside."
+    } ]
+  }, {
+    "tStartMs": 401280,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "- Those are printed in stiffeners."
+    } ]
+  }, {
+    "tStartMs": 403250,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "And so those help prevent the rocket"
+    } ]
+  }, {
+    "tStartMs": 405400,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "from buckling and crumpling."
+    } ]
+  }, {
+    "tStartMs": 407010,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "So if you had a Coke can,\nand didn't pop the tab,"
+    } ]
+  }, {
+    "tStartMs": 410600,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "if you try to step on it,\nit's almost impossible"
+    } ]
+  }, {
+    "tStartMs": 413260,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "because there's pressure inside"
+    } ]
+  }, {
+    "tStartMs": 414700,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that keeps it from buckling."
+    } ]
+  }, {
+    "tStartMs": 416980,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "But then when you pop the tab,"
+    } ]
+  }, {
+    "tStartMs": 418240,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "there's no pressure and you\ncan crunch it super easy."
+    } ]
+  }, {
+    "tStartMs": 420920,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "It's not hard at all."
+    } ]
+  }, {
+    "tStartMs": 422100,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "So rockets are the same."
+    } ]
+  }, {
+    "tStartMs": 423340,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "The 50 PSI of pressure,"
+    } ]
+  }, {
+    "tStartMs": 425550,
+    "dDurationMs": 2156,
+    "segs": [ {
+      "utf8": "which is about the same as a car tire,"
+    } ]
+  }, {
+    "tStartMs": 427706,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "keeps it inflated and\nkeeps it from crumpling,"
+    } ]
+  }, {
+    "tStartMs": 430940,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "but then the stiffeners\nalso help keep it rigid."
+    } ]
+  }, {
+    "tStartMs": 434320,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "- Yeah, so believe it or not,"
+    } ]
+  }, {
+    "tStartMs": 435440,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "a rocket tank is thinner\nversus its diameter"
+    } ]
+  }, {
+    "tStartMs": 438250,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "than a Coke can."
+    } ]
+  }, {
+    "tStartMs": 439280,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "So when you look at a Coke can,"
+    } ]
+  }, {
+    "tStartMs": 441050,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "you know how big it is\nand then how thin it is,"
+    } ]
+  }, {
+    "tStartMs": 443890,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "a rocket tank is actually\nthinner than that."
+    } ]
+  }, {
+    "tStartMs": 446010,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "So yeah, it's pretty light."
+    } ]
+  }, {
+    "tStartMs": 447660,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "It has to be very light."
+    } ]
+  }, {
+    "tStartMs": 448700,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "- Sure."
+    } ]
+  }, {
+    "tStartMs": 449570,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Aerospace companies started\nusing metal 3D printing"
+    } ]
+  }, {
+    "tStartMs": 452360,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "over a decade ago to\nconstruct small complex parts."
+    } ]
+  }, {
+    "tStartMs": 455410,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "For example, the injector."
+    } ]
+  }, {
+    "tStartMs": 457280,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "- That is the most important\npart of any rocket engine,"
+    } ]
+  }, {
+    "tStartMs": 459720,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "where you basically gotta\ntake the liquid propellant,"
+    } ]
+  }, {
+    "tStartMs": 462093,
+    "dDurationMs": 4707,
+    "segs": [ {
+      "utf8": "and turn it into a fine mist\nthat mixes really rapidly."
+    } ]
+  }, {
+    "tStartMs": 466800,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And those have actually been transitioned"
+    } ]
+  }, {
+    "tStartMs": 469170,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "to 3D printing all over the industry."
+    } ]
+  }, {
+    "tStartMs": 471890,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "- Traditionally, something like this,"
+    } ]
+  }, {
+    "tStartMs": 473700,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "it's a bucket engine injector."
+    } ]
+  }, {
+    "tStartMs": 475590,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "So it mixes liquid oxygen"
+    } ]
+  }, {
+    "tStartMs": 477040,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "and liquid methane propellants together,"
+    } ]
+  }, {
+    "tStartMs": 479460,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "and this is what actually\nproduces all the fire and flame"
+    } ]
+  }, {
+    "tStartMs": 482170,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "that is in a rocket engine."
+    } ]
+  }, {
+    "tStartMs": 483470,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "Traditionally, it would be over\na thousand individual pieces"
+    } ]
+  }, {
+    "tStartMs": 486869,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "and it would take nine months,"
+    } ]
+  }, {
+    "tStartMs": 488970,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "but here we're 3D printing\nthe whole thing in one piece."
+    } ]
+  }, {
+    "tStartMs": 492120,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "It takes two weeks and\nit costs 10 times less."
+    } ]
+  }, {
+    "tStartMs": 495420,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "- One of the big benefits of 3D printing"
+    } ]
+  }, {
+    "tStartMs": 497270,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "is reducing the number of parts."
+    } ]
+  }, {
+    "tStartMs": 499590,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Have you ever thought about"
+    } ]
+  }, {
+    "tStartMs": 500530,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "how inside a rockets combustion\nchamber, it gets really hot."
+    } ]
+  }, {
+    "tStartMs": 504380,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Up to 3,500 Kelvin."
+    } ]
+  }, {
+    "tStartMs": 507010,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "That's hot enough to\nmelt virtually any metal."
+    } ]
+  }, {
+    "tStartMs": 510150,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So how do the combustion chamber\nand rocket nozzle not melt?"
+    } ]
+  }, {
+    "tStartMs": 514230,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "The answer is they're cooled by passing"
+    } ]
+  }, {
+    "tStartMs": 516530,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "the cryogenic propellants over them."
+    } ]
+  }, {
+    "tStartMs": 519030,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- On the Space Shuttle main engines."
+    } ]
+  }, {
+    "tStartMs": 520590,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I love to talk about them\nbecause inside those engines,"
+    } ]
+  }, {
+    "tStartMs": 523590,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "it's hot enough to boil iron."
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "On the outside, you can freeze stuff"
+    } ]
+  }, {
+    "tStartMs": 528710,
+    "dDurationMs": 3173,
+    "segs": [ {
+      "utf8": "to the exterior of this\nbecause you're running liquid"
+    } ]
+  }, {
+    "tStartMs": 531883,
+    "dDurationMs": 2397,
+    "segs": [ {
+      "utf8": "hydrogen through these things."
+    } ]
+  }, {
+    "tStartMs": 534280,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "But to make those,"
+    } ]
+  }, {
+    "tStartMs": 535210,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "you basically had to take\nthousands of very small pipes,"
+    } ]
+  }, {
+    "tStartMs": 540150,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "and then you would form them"
+    } ]
+  }, {
+    "tStartMs": 541380,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "into the shape of the combustion\nchamber and the nozzle,"
+    } ]
+  }, {
+    "tStartMs": 544520,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "and then you would braze\nweld them together."
+    } ]
+  }, {
+    "tStartMs": 546510,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "And this was a ridiculously\nlabor-intensive task."
+    } ]
+  }, {
+    "tStartMs": 549940,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "You would have 1,080 individual\npipes running up the side,"
+    } ]
+  }, {
+    "tStartMs": 554200,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "all having to be weld together"
+    } ]
+  }, {
+    "tStartMs": 556310,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "to make the combustion\nchamber and the nozzle"
+    } ]
+  }, {
+    "tStartMs": 558540,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "on the Space Shuttle engines."
+    } ]
+  }, {
+    "tStartMs": 560650,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "So you can actually 3D print these things."
+    } ]
+  }, {
+    "tStartMs": 563760,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "- This is a rocket\nnozzle being 3D printed,"
+    } ]
+  }, {
+    "tStartMs": 566300,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and you can see the channels\nfor the cryogenic propellants"
+    } ]
+  }, {
+    "tStartMs": 568880,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "being printed right into the single part"
+    } ]
+  }, {
+    "tStartMs": 571100,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "instead of having to add a\nthousand pipes on the outside."
+    } ]
+  }, {
+    "tStartMs": 574990,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Smaller parts like these\nare typically 3D printed"
+    } ]
+  }, {
+    "tStartMs": 577510,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "using metal powder and lasers."
+    } ]
+  }, {
+    "tStartMs": 580030,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "- So you can see the cooling channels"
+    } ]
+  }, {
+    "tStartMs": 581560,
+    "dDurationMs": 2418,
+    "segs": [ {
+      "utf8": "are all being built as the one piece."
+    } ]
+  }, {
+    "tStartMs": 583978,
+    "dDurationMs": 1742,
+    "segs": [ {
+      "utf8": "So this is a nozzle."
+    } ]
+  }, {
+    "tStartMs": 585720,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "It really just lays down a layer of powder"
+    } ]
+  }, {
+    "tStartMs": 589350,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "that's about a 20th the\nthickness of a human hair."
+    } ]
+  }, {
+    "tStartMs": 592330,
+    "dDurationMs": 1928,
+    "segs": [ {
+      "utf8": "So it's really, really fine layers"
+    } ]
+  }, {
+    "tStartMs": 594258,
+    "dDurationMs": 3432,
+    "segs": [ {
+      "utf8": "just over and over and\nover and over relentlessly"
+    } ]
+  }, {
+    "tStartMs": 597690,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "for probably about a week or so,"
+    } ]
+  }, {
+    "tStartMs": 599820,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "and then out comes the rocket nozzle"
+    } ]
+  }, {
+    "tStartMs": 601660,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "all printed as one piece."
+    } ]
+  }, {
+    "tStartMs": 603630,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "It's way cheaper than traditional."
+    } ]
+  }, {
+    "tStartMs": 605550,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "And this has four lasers going at once."
+    } ]
+  }, {
+    "tStartMs": 607890,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "- That's amazing."
+    } ]
+  }, {
+    "tStartMs": 609060,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "- I get asked a lot, well,\naren't 3D printed metals"
+    } ]
+  }, {
+    "tStartMs": 612100,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "not very strong?"
+    } ]
+  }, {
+    "tStartMs": 613200,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Or how can it actually work?"
+    } ]
+  }, {
+    "tStartMs": 615180,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "But the printed materials are stronger"
+    } ]
+  }, {
+    "tStartMs": 617750,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "than they would be built\ntraditionally, actually."
+    } ]
+  }, {
+    "tStartMs": 619960,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "It's counterintuitive."
+    } ]
+  }, {
+    "tStartMs": 621090,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- It is."
+    } ]
+  }, {
+    "tStartMs": 621923,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "- Because we develop our\nown custom alloys in house."
+    } ]
+  }, {
+    "tStartMs": 624860,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So we have a whole material science team"
+    } ]
+  }, {
+    "tStartMs": 626360,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "just developing our own\nalloys for 3D printing,"
+    } ]
+  }, {
+    "tStartMs": 628990,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and the fact that it melts\nand then cools and solidifies"
+    } ]
+  }, {
+    "tStartMs": 633070,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "very, very quickly, you can take advantage"
+    } ]
+  }, {
+    "tStartMs": 635430,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "of that physics principle\nto get really strong alloys."
+    } ]
+  }, {
+    "tStartMs": 639640,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- Another major benefit of 3D printing"
+    } ]
+  }, {
+    "tStartMs": 641260,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "is that it allows for rapid iteration."
+    } ]
+  }, {
+    "tStartMs": 643580,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "You can build a part quickly, test it,"
+    } ]
+  }, {
+    "tStartMs": 645870,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and then redesign rapidly and print again."
+    } ]
+  }, {
+    "tStartMs": 648900,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- So this is a version of the engine"
+    } ]
+  }, {
+    "tStartMs": 650280,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "that's about three\nyears old at this point,"
+    } ]
+  }, {
+    "tStartMs": 652400,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "but what's amazing is\nwhen you actually look"
+    } ]
+  }, {
+    "tStartMs": 654940,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "at the engine design today,"
+    } ]
+  }, {
+    "tStartMs": 656430,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "it looks entirely different than this."
+    } ]
+  }, {
+    "tStartMs": 658440,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "So each version we build, we\ncan iterate and make better."
+    } ]
+  }, {
+    "tStartMs": 662060,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "So that's the other, you know,"
+    } ]
+  }, {
+    "tStartMs": 663750,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "when we say software driven manufacturing,"
+    } ]
+  }, {
+    "tStartMs": 665590,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "that's really what it is."
+    } ]
+  }, {
+    "tStartMs": 667050,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Since you don't have fixed tooling,"
+    } ]
+  }, {
+    "tStartMs": 668870,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "all the part geometries\nare just controlled"
+    } ]
+  }, {
+    "tStartMs": 671170,
+    "dDurationMs": 2631,
+    "segs": [ {
+      "utf8": "via the CAD model, and then\nthe printers just print"
+    } ]
+  }, {
+    "tStartMs": 673801,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "direct from file essentially."
+    } ]
+  }, {
+    "tStartMs": 676270,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "It means you can actually change\nthe design extremely fast."
+    } ]
+  }, {
+    "tStartMs": 679500,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So building a whole engine\nonly takes us about a month."
+    } ]
+  }, {
+    "tStartMs": 682420,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "So then a month later, you\ncan do a better version,"
+    } ]
+  }, {
+    "tStartMs": 684610,
+    "dDurationMs": 2012,
+    "segs": [ {
+      "utf8": "and a month later, a\nbetter version than that."
+    } ]
+  }, {
+    "tStartMs": 686622,
+    "dDurationMs": 2978,
+    "segs": [ {
+      "utf8": "So this particular one will actually be,"
+    } ]
+  }, {
+    "tStartMs": 689600,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "I believe one of the first flight engines"
+    } ]
+  }, {
+    "tStartMs": 691890,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "that's actually launching to\norbit on our first rocket."
+    } ]
+  }, {
+    "tStartMs": 695720,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "- So this tubing, not 3D printed, right?"
+    } ]
+  }, {
+    "tStartMs": 699170,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "- Not today."
+    } ]
+  }, {
+    "tStartMs": 700200,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Okay."
+    } ]
+  }, {
+    "tStartMs": 701033,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "- In the future versions,\nwe're actually integrating that"
+    } ]
+  }, {
+    "tStartMs": 704500,
+    "dDurationMs": 2431,
+    "segs": [ {
+      "utf8": "into the printed housings."
+    } ]
+  }, {
+    "tStartMs": 706931,
+    "dDurationMs": 1499,
+    "segs": [ {
+      "utf8": "And we're gonna have a way\nthat that's all printed too."
+    } ]
+  }, {
+    "tStartMs": 708430,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "- Perhaps the biggest impact"
+    } ]
+  }, {
+    "tStartMs": 709850,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "of the 3D printing approach\ncould be to totally transform"
+    } ]
+  }, {
+    "tStartMs": 712830,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "what a rocket looks like."
+    } ]
+  }, {
+    "tStartMs": 714200,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "With 3D printing,\nengineers can build parts"
+    } ]
+  }, {
+    "tStartMs": 716360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "that would be impractical or impossible"
+    } ]
+  }, {
+    "tStartMs": 718840,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "with traditional techniques."
+    } ]
+  }, {
+    "tStartMs": 720460,
+    "dDurationMs": 2747,
+    "segs": [ {
+      "utf8": "Smooth, curvy, bio-inspired designs"
+    } ]
+  }, {
+    "tStartMs": 723207,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "are just as easy to print\nas ordinary structures."
+    } ]
+  }, {
+    "tStartMs": 726290,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "- This is actually part of\nour next rocket, Terran R."
+    } ]
+  }, {
+    "tStartMs": 729660,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "So it's even larger."
+    } ]
+  }, {
+    "tStartMs": 731360,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- This is like the base of a tank."
+    } ]
+  }, {
+    "tStartMs": 733190,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "- Yeah. Yeah."
+    } ]
+  }, {
+    "tStartMs": 734050,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "So it's gonna go out."
+    } ]
+  }, {
+    "tStartMs": 735180,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "It's almost done printing."
+    } ]
+  }, {
+    "tStartMs": 736580,
+    "dDurationMs": 1153,
+    "segs": [ {
+      "utf8": "It's gonna go out about to here."
+    } ]
+  }, {
+    "tStartMs": 737733,
+    "dDurationMs": 3769,
+    "segs": [ {
+      "utf8": "So it's 16 foot diameter,\nbut it's almost like a shell."
+    } ]
+  }, {
+    "tStartMs": 741502,
+    "dDurationMs": 2958,
+    "segs": [ {
+      "utf8": "- I was gonna say like,\nthis reminds me of suddenly"
+    } ]
+  }, {
+    "tStartMs": 744460,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "we're in The Little Mermaid or something."
+    } ]
+  }, {
+    "tStartMs": 745820,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "- Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 747220,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Yeah, it's just for stiffness though."
+    } ]
+  }, {
+    "tStartMs": 749490,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "- It's not that you plan\nto make it bio inspired."
+    } ]
+  }, {
+    "tStartMs": 751550,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's like that structure is\nactually the optimal structure."
+    } ]
+  }, {
+    "tStartMs": 754150,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "- Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 755690,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "- We're actually designing\nmany features in the rocket"
+    } ]
+  }, {
+    "tStartMs": 758390,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "that could not be manufactured\nunless it was 3D printed,"
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "which is one of the secret sauces"
+    } ]
+  }, {
+    "tStartMs": 764100,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "of why you had to build a\nwhole company around it,"
+    } ]
+  }, {
+    "tStartMs": 766970,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "is because our rocket actually looks"
+    } ]
+  }, {
+    "tStartMs": 768400,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "entirely different 3D printed\nthan it does traditionally."
+    } ]
+  }, {
+    "tStartMs": 771610,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Like in my mind, it's been more akin"
+    } ]
+  }, {
+    "tStartMs": 773670,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "to like gas internal\ncombustion engine to electric."
+    } ]
+  }, {
+    "tStartMs": 777280,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "You know, really, people\nare trying to put batteries"
+    } ]
+  }, {
+    "tStartMs": 779880,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and electric motors into\nexisting products for decades."
+    } ]
+  }, {
+    "tStartMs": 782800,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Like everyone knew electric\nvehicles were the future,"
+    } ]
+  }, {
+    "tStartMs": 785080,
+    "dDurationMs": 4146,
+    "segs": [ {
+      "utf8": "but Nissan and Ford had\nreally not compelling products"
+    } ]
+  }, {
+    "tStartMs": 789226,
+    "dDurationMs": 1524,
+    "segs": [ {
+      "utf8": "for a long time."
+    } ]
+  }, {
+    "tStartMs": 790750,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "It wasn't until a company\ncame along called Tesla"
+    } ]
+  }, {
+    "tStartMs": 794460,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "that decided, well, actually\nthe shift to electrification"
+    } ]
+  }, {
+    "tStartMs": 797390,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "means the batteries, the\nelectric motors, the factory,"
+    } ]
+  }, {
+    "tStartMs": 801100,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "the design of the product,"
+    } ]
+  }, {
+    "tStartMs": 802420,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "how we're actually\ngonna scale the company,"
+    } ]
+  }, {
+    "tStartMs": 804240,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the supply chain, all of it's different"
+    } ]
+  }, {
+    "tStartMs": 806240,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "because of electrification."
+    } ]
+  }, {
+    "tStartMs": 807620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "I mean, that's in some ways,"
+    } ]
+  }, {
+    "tStartMs": 808940,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "the dirty secret of electric cars"
+    } ]
+  }, {
+    "tStartMs": 810840,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and why they're able to\nbe automated in production"
+    } ]
+  }, {
+    "tStartMs": 813420,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "because the part count is so much lower."
+    } ]
+  }, {
+    "tStartMs": 815700,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "So for a fully 3D printed rocket,"
+    } ]
+  }, {
+    "tStartMs": 817360,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "we have a hundred times fewer parts,"
+    } ]
+  }, {
+    "tStartMs": 819270,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "which is what we're guiding to."
+    } ]
+  }, {
+    "tStartMs": 821150,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "There's no fixed tooling\nin our factory at all."
+    } ]
+  }, {
+    "tStartMs": 824487,
+    "dDurationMs": 2093,
+    "segs": [ {
+      "utf8": "Unlike the rest of aerospace"
+    } ]
+  }, {
+    "tStartMs": 826580,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "that's still really, 60 years later,"
+    } ]
+  }, {
+    "tStartMs": 828450,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "even since Apollo building products"
+    } ]
+  }, {
+    "tStartMs": 830300,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "one at a time by hand\nwith hundreds of thousands"
+    } ]
+  }, {
+    "tStartMs": 832840,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "to millions of individual parts."
+    } ]
+  }, {
+    "tStartMs": 834920,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "And no one's really changed that paradigm"
+    } ]
+  }, {
+    "tStartMs": 837310,
+    "dDurationMs": 3515,
+    "segs": [ {
+      "utf8": "of how an aerospace factory\nactually fundamentally works."
+    } ]
+  }, {
+    "tStartMs": 840825,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "- Yeah, this is the new\nfully 3D printed rocket."
+    } ]
+  }, {
+    "tStartMs": 844195,
+    "dDurationMs": 3555,
+    "segs": [ {
+      "utf8": "So yeah, we'll have dragon\nfly wing type structures"
+    } ]
+  }, {
+    "tStartMs": 847750,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "and we're building it so."
+    } ]
+  }, {
+    "tStartMs": 848920,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "But that's the first one,"
+    } ]
+  }, {
+    "tStartMs": 849950,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "and then that's that one for scale."
+    } ]
+  }, {
+    "tStartMs": 852340,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So yeah, it is definitely bigger."
+    } ]
+  }, {
+    "tStartMs": 855660,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Yeah, so our rocket is named\nTerran One and Terran R,"
+    } ]
+  }, {
+    "tStartMs": 860210,
+    "dDurationMs": 1628,
+    "segs": [ {
+      "utf8": "and then our 3D printer's Stargate."
+    } ]
+  }, {
+    "tStartMs": 861838,
+    "dDurationMs": 1812,
+    "segs": [ {
+      "utf8": "So all the things here at Relativity"
+    } ]
+  }, {
+    "tStartMs": 863650,
+    "dDurationMs": 2016,
+    "segs": [ {
+      "utf8": "are named after StarCraft."
+    } ]
+  }, {
+    "tStartMs": 865666,
+    "dDurationMs": 3384,
+    "segs": [ {
+      "utf8": "So yeah, of course, the Stargate printer"
+    } ]
+  }, {
+    "tStartMs": 869050,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "was with the Protoss\nused to warp in spaceships."
+    } ]
+  }, {
+    "tStartMs": 872030,
+    "dDurationMs": 3491,
+    "segs": [ {
+      "utf8": "And so, that's what's warping\nin spaceships at Relativity."
+    } ]
+  }, {
+    "tStartMs": 875521,
+    "dDurationMs": 3459,
+    "segs": [ {
+      "utf8": "We have a system in our\navionics called the Pylon"
+    } ]
+  }, {
+    "tStartMs": 878980,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "that we have to build a lot of."
+    } ]
+  }, {
+    "tStartMs": 880150,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So we always joke, we have to\nconstruct additional Pylons."
+    } ]
+  }, {
+    "tStartMs": 883360,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "Most people don't know how rockets"
+    } ]
+  }, {
+    "tStartMs": 885496,
+    "dDurationMs": 3454,
+    "segs": [ {
+      "utf8": "are built traditionally at all anyway."
+    } ]
+  }, {
+    "tStartMs": 888950,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "And I think a lot of\npeople assume it's rockets,"
+    } ]
+  }, {
+    "tStartMs": 891180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "so shouldn't it be already very advanced"
+    } ]
+  }, {
+    "tStartMs": 894360,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "and robots everywhere and you know,"
+    } ]
+  }, {
+    "tStartMs": 896540,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Elon's got Space X and Tesla,"
+    } ]
+  }, {
+    "tStartMs": 898540,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "so doesn't Space X just look like Tesla"
+    } ]
+  }, {
+    "tStartMs": 900760,
+    "dDurationMs": 2038,
+    "segs": [ {
+      "utf8": "with all these robots and automation?"
+    } ]
+  }, {
+    "tStartMs": 902798,
+    "dDurationMs": 1542,
+    "segs": [ {
+      "utf8": "But that's really not true."
+    } ]
+  }, {
+    "tStartMs": 904340,
+    "dDurationMs": 2817,
+    "segs": [ {
+      "utf8": "I mean, aerospace hasn't\nadopted automation at all."
+    } ]
+  }, {
+    "tStartMs": 907157,
+    "dDurationMs": 2693,
+    "segs": [ {
+      "utf8": "- One of the issues, right,\nis that you're not making"
+    } ]
+  }, {
+    "tStartMs": 909850,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "a lot of rockets?"
+    } ]
+  }, {
+    "tStartMs": 911260,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Right?"
+    } ]
+  }, {
+    "tStartMs": 912093,
+    "dDurationMs": 2717,
+    "segs": [ {
+      "utf8": "- So there's no incentive\nto like figure out"
+    } ]
+  }, {
+    "tStartMs": 914810,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "how to tool up a factory\nto like pump out rockets"
+    } ]
+  }, {
+    "tStartMs": 917280,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "like a hundred a day or something."
+    } ]
+  }, {
+    "tStartMs": 918590,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Exactly."
+    } ]
+  }, {
+    "tStartMs": 919423,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Like you would for cars."
+    } ]
+  }, {
+    "tStartMs": 920256,
+    "dDurationMs": 1284,
+    "segs": [ {
+      "utf8": "- Exactly, you're not making a lot."
+    } ]
+  }, {
+    "tStartMs": 921540,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Even with commercial aircraft,"
+    } ]
+  }, {
+    "tStartMs": 922980,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "you're not making nearly as many"
+    } ]
+  }, {
+    "tStartMs": 924450,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and there's orders of magnitude\nmore parts and complexity."
+    } ]
+  }, {
+    "tStartMs": 927770,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "A commercial aircraft has\nseveral million individual parts."
+    } ]
+  }, {
+    "tStartMs": 932290,
+    "dDurationMs": 2944,
+    "segs": [ {
+      "utf8": "So to have robots assemble\nseveral million parts"
+    } ]
+  }, {
+    "tStartMs": 935234,
+    "dDurationMs": 3596,
+    "segs": [ {
+      "utf8": "when an automobile has tens of thousands"
+    } ]
+  }, {
+    "tStartMs": 938830,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "is completely different."
+    } ]
+  }, {
+    "tStartMs": 940250,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "It's a much harder problem."
+    } ]
+  }, {
+    "tStartMs": 941780,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "So that's where 3D printing\nis automation for aerospace"
+    } ]
+  }, {
+    "tStartMs": 945230,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "because you're not assembling\nall those parts with robots"
+    } ]
+  }, {
+    "tStartMs": 948340,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "like you would with a car,"
+    } ]
+  }, {
+    "tStartMs": 950030,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "you're assembling them in the 3D file"
+    } ]
+  }, {
+    "tStartMs": 952600,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and then the printer just\nprints them assembled."
+    } ]
+  }, {
+    "tStartMs": 955450,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "- The plan for Relativity Space,"
+    } ]
+  }, {
+    "tStartMs": 958660,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "is it low-earth orbit or is\nit going further than that?"
+    } ]
+  }, {
+    "tStartMs": 961320,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- So for Terran One, it's\nmostly low earth orbit."
+    } ]
+  }, {
+    "tStartMs": 963870,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "The first rocket."
+    } ]
+  }, {
+    "tStartMs": 965204,
+    "dDurationMs": 3356,
+    "segs": [ {
+      "utf8": "Terran R can actually send\npayload to the moon to Mars."
+    } ]
+  }, {
+    "tStartMs": 968560,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "I mean, it's pretty, pretty huge."
+    } ]
+  }, {
+    "tStartMs": 970350,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I founded the company\nbecause I really thought"
+    } ]
+  }, {
+    "tStartMs": 972750,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "that there needed to be, you know,"
+    } ]
+  }, {
+    "tStartMs": 974420,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "dozens of hundreds of\ncompanies making Mars happen."
+    } ]
+  }, {
+    "tStartMs": 976870,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "We're focused on taking\nthis 3D printing tech"
+    } ]
+  }, {
+    "tStartMs": 979460,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and what we call the\nfactory of the future,"
+    } ]
+  }, {
+    "tStartMs": 981620,
+    "dDurationMs": 1798,
+    "segs": [ {
+      "utf8": "and one day shrinking it down to something"
+    } ]
+  }, {
+    "tStartMs": 983418,
+    "dDurationMs": 2932,
+    "segs": [ {
+      "utf8": "we'll actually launch to Mars\nand build an industrial base."
+    } ]
+  }, {
+    "tStartMs": 986350,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "So that's the long-term\nvision of the company,"
+    } ]
+  }, {
+    "tStartMs": 988580,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "is build the industrial base on Mars."
+    } ]
+  }, {
+    "tStartMs": 990640,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "In many ways, this factory\nis just a prototype."
+    } ]
+  }, {
+    "tStartMs": 993050,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It's still far smaller\nthan a traditional factory."
+    } ]
+  }, {
+    "tStartMs": 995120,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "It's far lighter."
+    } ]
+  }, {
+    "tStartMs": 996220,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And I think it's inevitable"
+    } ]
+  }, {
+    "tStartMs": 998220,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "someone has to build this company."
+    } ]
+  }, {
+    "tStartMs": 1000270,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "- I don't know that in 10, 20 years"
+    } ]
+  }, {
+    "tStartMs": 1002140,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "that you will be 3D printing\nrockets all the time."
+    } ]
+  }, {
+    "tStartMs": 1004220,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Because if you are flying lots of rockets,"
+    } ]
+  }, {
+    "tStartMs": 1006440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it becomes cheaper to have\na dedicated machine for it."
+    } ]
+  }, {
+    "tStartMs": 1008840,
+    "dDurationMs": 4011,
+    "segs": [ {
+      "utf8": "I do think that as a\ncompany, they are well-placed"
+    } ]
+  }, {
+    "tStartMs": 1012851,
+    "dDurationMs": 4589,
+    "segs": [ {
+      "utf8": "because even if Terran fails\nto capitalize on the market,"
+    } ]
+  }, {
+    "tStartMs": 1017440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "even if nobody wants to\nuse it as a launch vehicle,"
+    } ]
+  }, {
+    "tStartMs": 1020040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "they are clearly now the world experts"
+    } ]
+  }, {
+    "tStartMs": 1022840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "on 3D printing rocket hardware,"
+    } ]
+  }, {
+    "tStartMs": 1024680,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "'cause they've done everything, right?"
+    } ]
+  }, {
+    "tStartMs": 1026570,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "They've tried to apply\n3D printing to places"
+    } ]
+  }, {
+    "tStartMs": 1028520,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "where a lot of people dismissed it."
+    } ]
+  }, {
+    "tStartMs": 1029970,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "So I think they're sort\nof secure as a company."
+    } ]
+  }, {
+    "tStartMs": 1032950,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "Whether we will see rockets\nbeing 3D printed all the time?"
+    } ]
+  }, {
+    "tStartMs": 1038000,
+    "dDurationMs": 1903,
+    "segs": [ {
+      "utf8": "That's a good question."
+    } ]
+  }, {
+    "tStartMs": 1039903,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "- There've been a lot of talk recently"
+    } ]
+  }, {
+    "tStartMs": 1041270,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "about billionaires going to space."
+    } ]
+  }, {
+    "tStartMs": 1043580,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "- Yeah."
+    } ]
+  }, {
+    "tStartMs": 1044670,
+    "dDurationMs": 2468,
+    "segs": [ {
+      "utf8": "- Will a 3D printed\nrocket make it possible"
+    } ]
+  }, {
+    "tStartMs": 1047138,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "and a lot cheaper for me to go to space?"
+    } ]
+  }, {
+    "tStartMs": 1051180,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "- Yes, I mean, certainly what we're doing"
+    } ]
+  }, {
+    "tStartMs": 1053330,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "is lowering the cost."
+    } ]
+  }, {
+    "tStartMs": 1054720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So our rockets are\ncosting about five times"
+    } ]
+  }, {
+    "tStartMs": 1058800,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to, you know, I believe we can get to 10"
+    } ]
+  }, {
+    "tStartMs": 1061260,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "or even a hundred times cheaper"
+    } ]
+  }, {
+    "tStartMs": 1062980,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "with a fully reusable rocket\nthan what we have today."
+    } ]
+  }, {
+    "tStartMs": 1068000,
+    "dDurationMs": 2687,
+    "segs": [ {
+      "utf8": "So it can definitely\nclimb down the cost curve."
+    } ]
+  }, {
+    "tStartMs": 1070687,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "But I also think, you know, going to Mars"
+    } ]
+  }, {
+    "tStartMs": 1072966,
+    "dDurationMs": 2226,
+    "segs": [ {
+      "utf8": "and the first people that are going,"
+    } ]
+  }, {
+    "tStartMs": 1075192,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "it really is about what is the\npoint of being a human being?"
+    } ]
+  }, {
+    "tStartMs": 1077986,
+    "dDurationMs": 2014,
+    "segs": [ {
+      "utf8": "Like for me, why go to Mars?"
+    } ]
+  }, {
+    "tStartMs": 1080000,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "If we were having this conversation"
+    } ]
+  }, {
+    "tStartMs": 1081919,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and a million people were\nliving on another planet,"
+    } ]
+  }, {
+    "tStartMs": 1085009,
+    "dDurationMs": 2037,
+    "segs": [ {
+      "utf8": "I think it would expand the possibilities"
+    } ]
+  }, {
+    "tStartMs": 1087046,
+    "dDurationMs": 3068,
+    "segs": [ {
+      "utf8": "of human experience and what\nit means to be a person."
+    } ]
+  }, {
+    "tStartMs": 1090114,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "Like we'd have YouTube channels on Mars"
+    } ]
+  }, {
+    "tStartMs": 1092915,
+    "dDurationMs": 3088,
+    "segs": [ {
+      "utf8": "and people sharing what life\non Mars is like versus earth."
+    } ]
+  }, {
+    "tStartMs": 1096003,
+    "dDurationMs": 2689,
+    "segs": [ {
+      "utf8": "And there'd be long distance\nAmelie, like love stories."
+    } ]
+  }, {
+    "tStartMs": 1098692,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "Like I think there's\njust a lot of richness"
+    } ]
+  }, {
+    "tStartMs": 1101249,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "in what human culture\nand society can be about."
+    } ]
+  }, {
+    "tStartMs": 1105332,
+    "dDurationMs": 2175,
+    "segs": [ {
+      "utf8": "Yes, I think there's criticism about,"
+    } ]
+  }, {
+    "tStartMs": 1107507,
+    "dDurationMs": 1978,
+    "segs": [ {
+      "utf8": "you know, billionaires going to space"
+    } ]
+  }, {
+    "tStartMs": 1109485,
+    "dDurationMs": 1821,
+    "segs": [ {
+      "utf8": "and I don't agree with."
+    } ]
+  }, {
+    "tStartMs": 1111306,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "You know, all of the projects"
+    } ]
+  }, {
+    "tStartMs": 1112945,
+    "dDurationMs": 2405,
+    "segs": [ {
+      "utf8": "need to actually add up to\nsome vision that is meaningful."
+    } ]
+  }, {
+    "tStartMs": 1115350,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "I think that's really important."
+    } ]
+  }, {
+    "tStartMs": 1118023,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "But I do think going to\nMars is really just about,"
+    } ]
+  }, {
+    "tStartMs": 1120926,
+    "dDurationMs": 2046,
+    "segs": [ {
+      "utf8": "you know, we've lived\nfor generations on earth,"
+    } ]
+  }, {
+    "tStartMs": 1122972,
+    "dDurationMs": 1994,
+    "segs": [ {
+      "utf8": "so what's it all about like,"
+    } ]
+  }, {
+    "tStartMs": 1124966,
+    "dDurationMs": 3694,
+    "segs": [ {
+      "utf8": "why do we want to keep\nimproving and getting better"
+    } ]
+  }, {
+    "tStartMs": 1128660,
+    "dDurationMs": 2273,
+    "segs": [ {
+      "utf8": "and furthering society on earth?"
+    } ]
+  }, {
+    "tStartMs": 1130933,
+    "dDurationMs": 1756,
+    "segs": [ {
+      "utf8": "So for me, it's pretty existential."
+    } ]
+  }, {
+    "tStartMs": 1132689,
+    "dDurationMs": 1943,
+    "segs": [ {
+      "utf8": "What it means to be a human being."
+    } ]
+  }, {
+    "tStartMs": 1134796,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "(techy sound effect)"
+    } ]
+  }, {
+    "tStartMs": 1140160,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- Hey, this video is sponsored by Omaze."
+    } ]
+  }, {
+    "tStartMs": 1142710,
+    "dDurationMs": 2445,
+    "segs": [ {
+      "utf8": "Offering you the chance\nto win a trip to space."
+    } ]
+  }, {
+    "tStartMs": 1145182,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "The winner will get two seats\non one of Virgin Galactic's"
+    } ]
+  }, {
+    "tStartMs": 1147892,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "first commercial space flights."
+    } ]
+  }, {
+    "tStartMs": 1149518,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Meaning you and a guest\nwill travel 80 kilometers"
+    } ]
+  }, {
+    "tStartMs": 1151848,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "up in the sky."
+    } ]
+  }, {
+    "tStartMs": 1153128,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "You'll get to see the\ncurve of planet earth,"
+    } ]
+  }, {
+    "tStartMs": 1155088,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "experience weightlessness,"
+    } ]
+  }, {
+    "tStartMs": 1156238,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "and become one of the\nfew people in the world"
+    } ]
+  }, {
+    "tStartMs": 1158378,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "to have gone to space."
+    } ]
+  }, {
+    "tStartMs": 1159588,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And you also get to\njoin Sir Richard Branson"
+    } ]
+  }, {
+    "tStartMs": 1161538,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "for a personal VIP tour\nof Spaceport America."
+    } ]
+  }, {
+    "tStartMs": 1164778,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "The flight is estimated to\ntake place in early 2022."
+    } ]
+  }, {
+    "tStartMs": 1167421,
+    "dDurationMs": 4047,
+    "segs": [ {
+      "utf8": "So enter at omaze.com/veritasium\nfor your chance to win."
+    } ]
+  }, {
+    "tStartMs": 1171522,
+    "dDurationMs": 2053,
+    "segs": [ {
+      "utf8": "Now, Omaze partners with charities,"
+    } ]
+  }, {
+    "tStartMs": 1173602,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "in this case Space for Humanity,"
+    } ]
+  }, {
+    "tStartMs": 1175352,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "an organization whose mission\nis to expand access to space"
+    } ]
+  }, {
+    "tStartMs": 1178245,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and train global leaders\nin the eventual goal"
+    } ]
+  }, {
+    "tStartMs": 1180585,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "of creating a sustainable future."
+    } ]
+  }, {
+    "tStartMs": 1182422,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "So part of your contribution\nsupports this cause."
+    } ]
+  }, {
+    "tStartMs": 1184625,
+    "dDurationMs": 1843,
+    "segs": [ {
+      "utf8": "To potentially win a trip to space"
+    } ]
+  }, {
+    "tStartMs": 1186468,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "and support Space for\nHumanity, a great cause,"
+    } ]
+  }, {
+    "tStartMs": 1189048,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "go to omaze.com/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1191005,
+    "dDurationMs": 2348,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description."
+    } ]
+  }, {
+    "tStartMs": 1193353,
+    "dDurationMs": 1896,
+    "segs": [ {
+      "utf8": "So I wanna thank Omaze\nfor sponsoring this video,"
+    } ]
+  }, {
+    "tStartMs": 1195276,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

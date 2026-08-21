@@ -1,0 +1,4603 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 90,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "- This is a video about\na single simple rule"
+    } ]
+  }, {
+    "tStartMs": 3240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "that underpins all of\nphysics, every principle,"
+    } ]
+  }, {
+    "tStartMs": 6720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "from classical mechanics\nto electromagnetism,"
+    } ]
+  }, {
+    "tStartMs": 10080,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "from quantum theory to general relativity,"
+    } ]
+  }, {
+    "tStartMs": 13560,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "right down to the ultimate\nconstituents of matter,"
+    } ]
+  }, {
+    "tStartMs": 16740,
+    "dDurationMs": 1593,
+    "segs": [ {
+      "utf8": "the fundamental particles."
+    } ]
+  }, {
+    "tStartMs": 19620,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "All of it can be replaced\nby this single rule."
+    } ]
+  }, {
+    "tStartMs": 24030,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It feels like we're\napproaching spooky territory."
+    } ]
+  }, {
+    "tStartMs": 26100,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- We're approaching spooky territory."
+    } ]
+  }, {
+    "tStartMs": 27870,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "I hear you and I agree."
+    } ]
+  }, {
+    "tStartMs": 30990,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "- [Derek] It may in fact\nexplain the behavior"
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "of life itself."
+    } ]
+  }, {
+    "tStartMs": 34260,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "- I think I'm stuck in some\nclassical mindset where, to me,"
+    } ]
+  }, {
+    "tStartMs": 37260,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "the local picture,"
+    } ]
+  }, {
+    "tStartMs": 38520,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "the differential equation way"
+    } ]
+  }, {
+    "tStartMs": 39840,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "of thinking about the universe,"
+    } ]
+  }, {
+    "tStartMs": 41490,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "that that's really what's going on."
+    } ]
+  }, {
+    "tStartMs": 46980,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "But I fear that I have\nit exactly backwards."
+    } ]
+  }, {
+    "tStartMs": 51210,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "- And it all starts with a simple problem."
+    } ]
+  }, {
+    "tStartMs": 55650,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "If you wanna slide a mass\nfrom point A to point B,"
+    } ]
+  }, {
+    "tStartMs": 58950,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "what shape of ramp will\nget it there the fastest?"
+    } ]
+  }, {
+    "tStartMs": 63270,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "This is known as the\nproblem of fastest descent."
+    } ]
+  }, {
+    "tStartMs": 66870,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "- You know, common sense, you might say"
+    } ]
+  }, {
+    "tStartMs": 68370,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "take the shortest path."
+    } ]
+  }, {
+    "tStartMs": 70110,
+    "dDurationMs": 1503,
+    "segs": [ {
+      "utf8": "Straight line from A to B."
+    } ]
+  }, {
+    "tStartMs": 72720,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- [Derek] But if you\nbend the ramp down a bit"
+    } ]
+  }, {
+    "tStartMs": 74640,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "at the beginning,"
+    } ]
+  }, {
+    "tStartMs": 75540,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "well, the mass accelerates\nto a higher speed earlier."
+    } ]
+  }, {
+    "tStartMs": 78480,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "So even though it\ntravels slightly farther,"
+    } ]
+  }, {
+    "tStartMs": 80730,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "it travels faster and\nbeats the straight ramp."
+    } ]
+  }, {
+    "tStartMs": 84270,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So the question is, what shape\nprovides the perfect balance"
+    } ]
+  }, {
+    "tStartMs": 87840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "of acceleration and path length"
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 1773,
+    "segs": [ {
+      "utf8": "to minimize travel time?"
+    } ]
+  }, {
+    "tStartMs": 92610,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "According to Galileo, it\nwas the arc of a circle."
+    } ]
+  }, {
+    "tStartMs": 96540,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "He showed that this is\nfaster than any polygon."
+    } ]
+  }, {
+    "tStartMs": 99600,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "But is it the fastest?"
+    } ]
+  }, {
+    "tStartMs": 103950,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Nearly 60 years later, in June of 1696,"
+    } ]
+  }, {
+    "tStartMs": 107250,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Johann Bernoulli set this\nproblem as a challenge"
+    } ]
+  }, {
+    "tStartMs": 109920,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to the best mathematicians in the world."
+    } ]
+  }, {
+    "tStartMs": 112770,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- Mainly because he's a big show off"
+    } ]
+  }, {
+    "tStartMs": 114480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and he wants to show that\nhe's better than all of them."
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- [Derek] He gave everyone six months"
+    } ]
+  }, {
+    "tStartMs": 119610,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "to come up with solutions,"
+    } ]
+  }, {
+    "tStartMs": 121260,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "but none were submitted."
+    } ]
+  }, {
+    "tStartMs": 124050,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So Gottfried Leibniz, a\nfriend of Bernoulli's,"
+    } ]
+  }, {
+    "tStartMs": 126420,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "persuaded him to extend the deadline"
+    } ]
+  }, {
+    "tStartMs": 128340,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "to give foreigners a chance."
+    } ]
+  }, {
+    "tStartMs": 132060,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "- And I think Newton was\nprobably the intended target"
+    } ]
+  }, {
+    "tStartMs": 134400,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "because everybody thought\nof him as the best,"
+    } ]
+  }, {
+    "tStartMs": 136770,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and so Johann would've wanted to show"
+    } ]
+  }, {
+    "tStartMs": 139050,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "that he was better than Newton."
+    } ]
+  }, {
+    "tStartMs": 141150,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "He was no longer a really active\nmathematician or physicist."
+    } ]
+  }, {
+    "tStartMs": 145890,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "He was working as the warden of the Mint,"
+    } ]
+  }, {
+    "tStartMs": 148080,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "like a big high government position."
+    } ]
+  }, {
+    "tStartMs": 150900,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "- [Derek] And on the\n29th of January, 1697,"
+    } ]
+  }, {
+    "tStartMs": 153750,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Newton returned home\nafter a long day at work"
+    } ]
+  }, {
+    "tStartMs": 156300,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "to find Bernoulli's challenge in the mail."
+    } ]
+  }, {
+    "tStartMs": 159150,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Irritated, he wrote,"
+    } ]
+  }, {
+    "tStartMs": 160777,
+    "dDurationMs": 3443,
+    "segs": [ {
+      "utf8": "\"I do not love to be dunned\nand teased by foreigners"
+    } ]
+  }, {
+    "tStartMs": 164220,
+    "dDurationMs": 1887,
+    "segs": [ {
+      "utf8": "about mathematical things.\""
+    } ]
+  }, {
+    "tStartMs": 167190,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "But the problem was too enticing,"
+    } ]
+  }, {
+    "tStartMs": 169800,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "so Newton spent the rest\nof the day and night on it,"
+    } ]
+  }, {
+    "tStartMs": 173970,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and by 4:00 a.m. he had\ncome up with a solution,"
+    } ]
+  }, {
+    "tStartMs": 177810,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "something that took Bernoulli two weeks."
+    } ]
+  }, {
+    "tStartMs": 182250,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Newton submitted his solution"
+    } ]
+  }, {
+    "tStartMs": 183690,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "to the journal Philosophical Transactions."
+    } ]
+  }, {
+    "tStartMs": 187110,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "- He sent his solution\nthere but didn't sign it."
+    } ]
+  }, {
+    "tStartMs": 189540,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And Johann Bernoulli,\nafter seeing the solution,"
+    } ]
+  }, {
+    "tStartMs": 193380,
+    "dDurationMs": 2437,
+    "segs": [ {
+      "utf8": "is alleged to have said,"
+    } ]
+  }, {
+    "tStartMs": 195817,
+    "dDurationMs": 3443,
+    "segs": [ {
+      "utf8": "\"I recognize the lion by his claw.\""
+    } ]
+  }, {
+    "tStartMs": 199260,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "You know, that, \"Okay, you\ndon't need to sign it, Newton,"
+    } ]
+  }, {
+    "tStartMs": 202560,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "I can tell who you are."
+    } ]
+  }, {
+    "tStartMs": 203940,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Who else could give such a solution?\""
+    } ]
+  }, {
+    "tStartMs": 207180,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "- [Derek] And while overall\nNewton dominated Bernoulli,"
+    } ]
+  }, {
+    "tStartMs": 210630,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "in this instance,"
+    } ]
+  }, {
+    "tStartMs": 211860,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Bernoulli's solution\nactually out-shone Newton's."
+    } ]
+  }, {
+    "tStartMs": 216330,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "- I could see why Johann Bernoulli"
+    } ]
+  }, {
+    "tStartMs": 218010,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "wanted to challenge everybody,"
+    } ]
+  }, {
+    "tStartMs": 219600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "because he came up with a really clever,"
+    } ]
+  }, {
+    "tStartMs": 222000,
+    "dDurationMs": 3873,
+    "segs": [ {
+      "utf8": "I would say like a truly\ncreative, beautiful solution."
+    } ]
+  }, {
+    "tStartMs": 226710,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "- To do it, he took inspiration"
+    } ]
+  }, {
+    "tStartMs": 228510,
+    "dDurationMs": 2793,
+    "segs": [ {
+      "utf8": "from a problem faced by\nancient philosophers."
+    } ]
+  }, {
+    "tStartMs": 232440,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "How does light travel\nfrom one place to another?"
+    } ]
+  }, {
+    "tStartMs": 236490,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "This was contemplated\nby Hero of Alexandria"
+    } ]
+  }, {
+    "tStartMs": 239040,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "in the 1st century AD."
+    } ]
+  }, {
+    "tStartMs": 241230,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "He realized that in a\nsingle medium, like air,"
+    } ]
+  }, {
+    "tStartMs": 244290,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "light always follows the shortest path."
+    } ]
+  }, {
+    "tStartMs": 247050,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "A consequence is that when\nlight reflects, say, off a lake,"
+    } ]
+  }, {
+    "tStartMs": 250590,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "the angle of incidence is always equal"
+    } ]
+  }, {
+    "tStartMs": 252810,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "to the angle of reflection."
+    } ]
+  }, {
+    "tStartMs": 255030,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Any other path between\nthe start and end points"
+    } ]
+  }, {
+    "tStartMs": 257280,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "would be longer."
+    } ]
+  }, {
+    "tStartMs": 258900,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "But when light goes from\none medium into another,"
+    } ]
+  }, {
+    "tStartMs": 261330,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "like from air into water,"
+    } ]
+  }, {
+    "tStartMs": 263010,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "it bends in a peculiar way."
+    } ]
+  }, {
+    "tStartMs": 265050,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "It refracts and it doesn't\nfollow the shortest path."
+    } ]
+  }, {
+    "tStartMs": 269280,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "- If you've ever dropped something"
+    } ]
+  }, {
+    "tStartMs": 270450,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "at the bottom of a swimming pool"
+    } ]
+  }, {
+    "tStartMs": 272280,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and you look for it through the water,"
+    } ]
+  }, {
+    "tStartMs": 274290,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "if you put your hand in there,"
+    } ]
+  }, {
+    "tStartMs": 275610,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "it's not necessarily where you think it is"
+    } ]
+  }, {
+    "tStartMs": 277620,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "because the light has bent\naway from the flat surface."
+    } ]
+  }, {
+    "tStartMs": 282270,
+    "dDurationMs": 2853,
+    "segs": [ {
+      "utf8": "- So what is the guiding principle here?"
+    } ]
+  }, {
+    "tStartMs": 287310,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Well, over the next 1,600\nyears people slowly figured out"
+    } ]
+  }, {
+    "tStartMs": 290550,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "that the sine of the angle of incidence"
+    } ]
+  }, {
+    "tStartMs": 292860,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "divided by the sine of\nthe angle of refraction"
+    } ]
+  }, {
+    "tStartMs": 295530,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "is equal to a constant, n,"
+    } ]
+  }, {
+    "tStartMs": 298170,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "which depends on the\nnature of the two media."
+    } ]
+  }, {
+    "tStartMs": 301260,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "This came to be known as Snell's Law."
+    } ]
+  }, {
+    "tStartMs": 304020,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "But no one knew why it worked."
+    } ]
+  }, {
+    "tStartMs": 306930,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "That is, until 1657."
+    } ]
+  }, {
+    "tStartMs": 309630,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- So another great mathematician"
+    } ]
+  }, {
+    "tStartMs": 311190,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "enters our story at this point."
+    } ]
+  }, {
+    "tStartMs": 312630,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "This is Pierre Fermat."
+    } ]
+  }, {
+    "tStartMs": 314310,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "By day he was a judge,"
+    } ]
+  }, {
+    "tStartMs": 316440,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but at night he'd come home"
+    } ]
+  }, {
+    "tStartMs": 317940,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and hang out with his wife and kids"
+    } ]
+  }, {
+    "tStartMs": 320010,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and then do what he really loved the most,"
+    } ]
+  }, {
+    "tStartMs": 321900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "which was work on math for fun."
+    } ]
+  }, {
+    "tStartMs": 324300,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "And he mostly worked in pure math"
+    } ]
+  }, {
+    "tStartMs": 325830,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "but at one point he got\ninterested in the question of,"
+    } ]
+  }, {
+    "tStartMs": 329460,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "why does light obey this\nprinciple of refraction?"
+    } ]
+  }, {
+    "tStartMs": 334020,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "- [Derek] And he thought\nmaybe Hero of Alexandria"
+    } ]
+  }, {
+    "tStartMs": 336840,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "was on the right track,"
+    } ]
+  }, {
+    "tStartMs": 338190,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "but it's not distance\nthat is being minimized,"
+    } ]
+  }, {
+    "tStartMs": 340680,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "but rather time."
+    } ]
+  }, {
+    "tStartMs": 342900,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But to see if this was true for refraction"
+    } ]
+  }, {
+    "tStartMs": 345420,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "would be difficult."
+    } ]
+  }, {
+    "tStartMs": 346800,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "He would have to work out"
+    } ]
+  }, {
+    "tStartMs": 347940,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "every possible path light could take"
+    } ]
+  }, {
+    "tStartMs": 350430,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "by varying the point where\nit intersects the boundary"
+    } ]
+  }, {
+    "tStartMs": 353280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and compute the time for each,"
+    } ]
+  }, {
+    "tStartMs": 355320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and then show that light takes the path"
+    } ]
+  }, {
+    "tStartMs": 357360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "for which the total travel\ntime is the shortest."
+    } ]
+  }, {
+    "tStartMs": 360720,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- He doesn't know how to solve it"
+    } ]
+  }, {
+    "tStartMs": 362100,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and he worries that it's\ngonna come out complicated"
+    } ]
+  }, {
+    "tStartMs": 364620,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "even if he could solve it,"
+    } ]
+  }, {
+    "tStartMs": 366210,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "so he's not gonna do it. "
+    } ]
+  }, {
+    "tStartMs": 369270,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I think it's 'cause he\nwasn't super interested"
+    } ]
+  }, {
+    "tStartMs": 371190,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "in physics, actually."
+    } ]
+  }, {
+    "tStartMs": 372810,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "But anyway, years go by,"
+    } ]
+  }, {
+    "tStartMs": 375180,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "he gets interested in it five years later"
+    } ]
+  }, {
+    "tStartMs": 377130,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and tries to solve it,"
+    } ]
+  }, {
+    "tStartMs": 378240,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and then he does solve it"
+    } ]
+  }, {
+    "tStartMs": 379560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and he shows that Snell's\nLaw actually pops out"
+    } ]
+  }, {
+    "tStartMs": 382440,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "as the minimizing path\nfor light, you know,"
+    } ]
+  }, {
+    "tStartMs": 385830,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "under these conditions\nof moving from one medium"
+    } ]
+  }, {
+    "tStartMs": 388080,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "with one speed of light\nto another with another."
+    } ]
+  }, {
+    "tStartMs": 390780,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "- [Derek] And that constant, n,"
+    } ]
+  }, {
+    "tStartMs": 392460,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "well, that's just equal\nto the speed of light"
+    } ]
+  }, {
+    "tStartMs": 394320,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "in the first medium"
+    } ]
+  }, {
+    "tStartMs": 395310,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "divided by the speed of\nlight in the second medium,"
+    } ]
+  }, {
+    "tStartMs": 397740,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "which allows us to rewrite\nSnell's Law like this."
+    } ]
+  }, {
+    "tStartMs": 402330,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- And he says this thing,"
+    } ]
+  }, {
+    "tStartMs": 403163,
+    "dDurationMs": 2197,
+    "segs": [ {
+      "utf8": "I just wanna read you a\nlittle quote 'cause I love it."
+    } ]
+  }, {
+    "tStartMs": 405360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "He says that this is\n\"the most extraordinary,"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "the most unforeseen,"
+    } ]
+  }, {
+    "tStartMs": 409440,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "and the happiest calculation\" of his life."
+    } ]
+  }, {
+    "tStartMs": 413100,
+    "dDurationMs": 1473,
+    "segs": [ {
+      "utf8": "See, it's good to do physics."
+    } ]
+  }, {
+    "tStartMs": 414573,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "(both laugh)"
+    } ]
+  }, {
+    "tStartMs": 417510,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "If you use that principle of least time,"
+    } ]
+  }, {
+    "tStartMs": 419400,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "you can explain everything\nthat was known about light"
+    } ]
+  }, {
+    "tStartMs": 422250,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "at the time of Fermat."
+    } ]
+  }, {
+    "tStartMs": 424320,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "It's the first time, as far as I know,"
+    } ]
+  }, {
+    "tStartMs": 426750,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that anyone shows that nature obeys"
+    } ]
+  }, {
+    "tStartMs": 429030,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "an optimization principle,"
+    } ]
+  }, {
+    "tStartMs": 430920,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "that nature does the best possible thing."
+    } ]
+  }, {
+    "tStartMs": 433770,
+    "dDurationMs": 3543,
+    "segs": [ {
+      "utf8": "In this case, that light takes\nthe shortest possible time."
+    } ]
+  }, {
+    "tStartMs": 438450,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "- [Derek] Now, Bernoulli knew"
+    } ]
+  }, {
+    "tStartMs": 439680,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "about Fermat's principle of least time,"
+    } ]
+  }, {
+    "tStartMs": 441990,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and he thought he could\nuse it to solve the problem"
+    } ]
+  }, {
+    "tStartMs": 444510,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "of fastest descent."
+    } ]
+  }, {
+    "tStartMs": 446460,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "- He converted the problem\nfrom a mechanics problem"
+    } ]
+  }, {
+    "tStartMs": 448770,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "about a particle sliding down a chute"
+    } ]
+  }, {
+    "tStartMs": 451110,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "to a problem about optics."
+    } ]
+  }, {
+    "tStartMs": 455220,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "- [Derek] Instead of a mass\nthat's accelerated by gravity,"
+    } ]
+  }, {
+    "tStartMs": 457830,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "he imagined a ray of light\nthat would go faster and faster"
+    } ]
+  }, {
+    "tStartMs": 461250,
+    "dDurationMs": 3093,
+    "segs": [ {
+      "utf8": "as it went into layers of\nless and less dense media."
+    } ]
+  }, {
+    "tStartMs": 465180,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And if you make the\nlayers thinner and thinner"
+    } ]
+  }, {
+    "tStartMs": 467550,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "where Snell's Law is\nobeyed at each interface,"
+    } ]
+  }, {
+    "tStartMs": 470340,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "you eventually get a continuous curve."
+    } ]
+  }, {
+    "tStartMs": 474240,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Now the question is,"
+    } ]
+  }, {
+    "tStartMs": 475470,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "how should the speed of light change"
+    } ]
+  }, {
+    "tStartMs": 477060,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "from one layer to the next"
+    } ]
+  }, {
+    "tStartMs": 478620,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "so that it accurately\nmodels a falling object?"
+    } ]
+  }, {
+    "tStartMs": 481980,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "- [Steven] You could try to\nsolve the problem by thinking,"
+    } ]
+  }, {
+    "tStartMs": 483780,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "if the particle has to fall from A to B,"
+    } ]
+  }, {
+    "tStartMs": 486150,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "it's gonna be picking up kinetic energy,"
+    } ]
+  }, {
+    "tStartMs": 488580,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "it's going faster and faster\nas it slides down the chute"
+    } ]
+  }, {
+    "tStartMs": 491640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and it's converting the\nloss in potential energy"
+    } ]
+  }, {
+    "tStartMs": 494400,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "into this kinetic energy."
+    } ]
+  }, {
+    "tStartMs": 495870,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "If you write down the\nconservation of energy"
+    } ]
+  }, {
+    "tStartMs": 498180,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "for that relationship,"
+    } ]
+  }, {
+    "tStartMs": 499770,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "you find that the velocity\nthat the particle achieves"
+    } ]
+  }, {
+    "tStartMs": 503490,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "at any time,"
+    } ]
+  }, {
+    "tStartMs": 504323,
+    "dDurationMs": 2947,
+    "segs": [ {
+      "utf8": "having fallen a distance, let's say y,"
+    } ]
+  }, {
+    "tStartMs": 507270,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "its velocity squared will\nbe proportional to y,"
+    } ]
+  }, {
+    "tStartMs": 510360,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "the height from the top."
+    } ]
+  }, {
+    "tStartMs": 511830,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "So velocity goes like\nthe square root of y."
+    } ]
+  }, {
+    "tStartMs": 514920,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And that'd be sort of like saying"
+    } ]
+  }, {
+    "tStartMs": 517290,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "imagine light moving in a way where,"
+    } ]
+  }, {
+    "tStartMs": 519780,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "instead of a constant speed of light,"
+    } ]
+  }, {
+    "tStartMs": 521730,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "the speed of light is proportional"
+    } ]
+  }, {
+    "tStartMs": 523500,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "to the distance from the top."
+    } ]
+  }, {
+    "tStartMs": 527130,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "- [Derek] Now let's zoom in\nand look at a single interface."
+    } ]
+  }, {
+    "tStartMs": 530280,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "We can plug in our expression"
+    } ]
+  }, {
+    "tStartMs": 531750,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "for the speed of light in each layer"
+    } ]
+  }, {
+    "tStartMs": 533250,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "into Snell's Law."
+    } ]
+  }, {
+    "tStartMs": 534780,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Then find that the sine of the first angle"
+    } ]
+  }, {
+    "tStartMs": 536850,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "divided by the square root\nof y for the first layer"
+    } ]
+  }, {
+    "tStartMs": 539520,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "is equal to the sine of the second angle"
+    } ]
+  }, {
+    "tStartMs": 541350,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "divided by the square root\nof y for the second layer."
+    } ]
+  }, {
+    "tStartMs": 544470,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And now here's the key insight."
+    } ]
+  }, {
+    "tStartMs": 546570,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Snell's Law also holds for the next layer,"
+    } ]
+  }, {
+    "tStartMs": 549330,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and there the ingoing\nangle is simply theta 2."
+    } ]
+  }, {
+    "tStartMs": 552570,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So this is also equal to\nthe sine of the third angle"
+    } ]
+  }, {
+    "tStartMs": 555450,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "divided by the square root of y3."
+    } ]
+  }, {
+    "tStartMs": 557880,
+    "dDurationMs": 3843,
+    "segs": [ {
+      "utf8": "And the same goes for the next\nlayer and the next and so on."
+    } ]
+  }, {
+    "tStartMs": 562980,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "In other words,"
+    } ]
+  }, {
+    "tStartMs": 563813,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "this ratio must be equal to\nsome constant, call it k."
+    } ]
+  }, {
+    "tStartMs": 568080,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And this equation, the story goes,"
+    } ]
+  }, {
+    "tStartMs": 570330,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Bernoulli immediately recognized"
+    } ]
+  }, {
+    "tStartMs": 572490,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "as the equation of a cycloid."
+    } ]
+  }, {
+    "tStartMs": 575730,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "That is the path traced out by a point"
+    } ]
+  }, {
+    "tStartMs": 578190,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "attached to the rim of a rolling wheel."
+    } ]
+  }, {
+    "tStartMs": 580950,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "This is also known as\na brachistochrone curve"
+    } ]
+  }, {
+    "tStartMs": 583830,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "from the Greek for shortest time."
+    } ]
+  }, {
+    "tStartMs": 586800,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- [Steven] And so the astonishing solution"
+    } ]
+  }, {
+    "tStartMs": 588510,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "is that the fastest way to get from A to B"
+    } ]
+  }, {
+    "tStartMs": 590790,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "is to follow an arc of a cycloid."
+    } ]
+  }, {
+    "tStartMs": 593040,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Not a circle, a shape called a cycloid."
+    } ]
+  }, {
+    "tStartMs": 596460,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "- Now, this curve also has\nanother surprising property."
+    } ]
+  }, {
+    "tStartMs": 599760,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "No matter where I release the mass from,"
+    } ]
+  }, {
+    "tStartMs": 601830,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "it always reaches the\nend at the same time."
+    } ]
+  }, {
+    "tStartMs": 604860,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "For this reason,"
+    } ]
+  }, {
+    "tStartMs": 605820,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "it's also known as the tautochrone curve,"
+    } ]
+  }, {
+    "tStartMs": 608610,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "from the Greek for same time."
+    } ]
+  }, {
+    "tStartMs": 613020,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Upon finding this solution,"
+    } ]
+  }, {
+    "tStartMs": 614550,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Bernoulli wrote, \"In this way\nI have solved at one stroke"
+    } ]
+  }, {
+    "tStartMs": 618120,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "two important problems,"
+    } ]
+  }, {
+    "tStartMs": 620010,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "an optical and a mechanical one,"
+    } ]
+  }, {
+    "tStartMs": 622530,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and have achieved more than\nI demanded from others."
+    } ]
+  }, {
+    "tStartMs": 625530,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I have shown that the two problems"
+    } ]
+  }, {
+    "tStartMs": 627420,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "taken from entirely separate\nfields of mathematics"
+    } ]
+  }, {
+    "tStartMs": 630330,
+    "dDurationMs": 1527,
+    "segs": [ {
+      "utf8": "have the same character.\""
+    } ]
+  }, {
+    "tStartMs": 632700,
+    "dDurationMs": 4383,
+    "segs": [ {
+      "utf8": "Little did Bernoulli know he\nwas onto something much bigger."
+    } ]
+  }, {
+    "tStartMs": 638040,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Around 40 years later,"
+    } ]
+  }, {
+    "tStartMs": 639390,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "one of his students,\nPierre Louis de Maupertuis,"
+    } ]
+  }, {
+    "tStartMs": 641940,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "also studied the behavior\nof light and particles,"
+    } ]
+  }, {
+    "tStartMs": 644880,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "and he noticed that there are cases"
+    } ]
+  }, {
+    "tStartMs": 646590,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "where the two behave very similarly."
+    } ]
+  }, {
+    "tStartMs": 649590,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "This made him think,"
+    } ]
+  }, {
+    "tStartMs": 650820,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "what if Fermat's principle of least time"
+    } ]
+  }, {
+    "tStartMs": 652980,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "wasn't the most fundamental?"
+    } ]
+  }, {
+    "tStartMs": 654900,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "I mean, why should nature\ncare about minimizing time?"
+    } ]
+  }, {
+    "tStartMs": 658710,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Maybe there is a more foundational\nquantity being minimized,"
+    } ]
+  }, {
+    "tStartMs": 662700,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "one that doesn't only govern\nlight, but also particles."
+    } ]
+  }, {
+    "tStartMs": 667440,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So, in the 1740s, he\nproposed a new quantity,"
+    } ]
+  }, {
+    "tStartMs": 670260,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "which he called the action."
+    } ]
+  }, {
+    "tStartMs": 672600,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "It is mass times velocity times distance."
+    } ]
+  }, {
+    "tStartMs": 676380,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "His thinking went something like this."
+    } ]
+  }, {
+    "tStartMs": 678600,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "The farther something travels,\nthe greater the action."
+    } ]
+  }, {
+    "tStartMs": 681570,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "The faster it goes,\nthe greater the action."
+    } ]
+  }, {
+    "tStartMs": 684390,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "And if it's a particle,\nthen the more massive it is,"
+    } ]
+  }, {
+    "tStartMs": 687090,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "the greater the action."
+    } ]
+  }, {
+    "tStartMs": 689100,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "If there are multiple\nsegments to the journey,"
+    } ]
+  }, {
+    "tStartMs": 691440,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "then the total action is just the sum"
+    } ]
+  }, {
+    "tStartMs": 693750,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "of the mass times velocity\ntimes distance for each segment."
+    } ]
+  }, {
+    "tStartMs": 698070,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "To see the principle in action,"
+    } ]
+  }, {
+    "tStartMs": 699810,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "here is a super simple example\nwith no friction or losses."
+    } ]
+  }, {
+    "tStartMs": 704820,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Imagine a 0.5 kilogram ball\nis rolled over the ground"
+    } ]
+  }, {
+    "tStartMs": 708270,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "for 6 meters at 3 meters per second."
+    } ]
+  }, {
+    "tStartMs": 711270,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Then that would be 9 units of action."
+    } ]
+  }, {
+    "tStartMs": 714510,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "If the ball then bounces"
+    } ]
+  }, {
+    "tStartMs": 715860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and travels another 6 meters\nat 3 meters per second,"
+    } ]
+  }, {
+    "tStartMs": 719220,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "then the action for the whole trip"
+    } ]
+  }, {
+    "tStartMs": 721050,
+    "dDurationMs": 4203,
+    "segs": [ {
+      "utf8": "is 9 plus 9, or 18 units of action."
+    } ]
+  }, {
+    "tStartMs": 726270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Now, what Maupertuis claimed"
+    } ]
+  }, {
+    "tStartMs": 727890,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "is that out of all possible trajectories"
+    } ]
+  }, {
+    "tStartMs": 730170,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "where the ball bounces off the wall,"
+    } ]
+  }, {
+    "tStartMs": 732030,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "the path it will follow"
+    } ]
+  }, {
+    "tStartMs": 733350,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "is the one that minimizes the action."
+    } ]
+  }, {
+    "tStartMs": 737880,
+    "dDurationMs": 1927,
+    "segs": [ {
+      "utf8": "In 1744, he wrote,"
+    } ]
+  }, {
+    "tStartMs": 739807,
+    "dDurationMs": 3443,
+    "segs": [ {
+      "utf8": "\"This action is the\ntrue expense of Nature,"
+    } ]
+  }, {
+    "tStartMs": 743250,
+    "dDurationMs": 3117,
+    "segs": [ {
+      "utf8": "which she manages to make\nas small as possible.\""
+    } ]
+  }, {
+    "tStartMs": 748140,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "So what was the response to\nMaupertuis' revolutionary idea?"
+    } ]
+  }, {
+    "tStartMs": 752730,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "He was attacked and ridiculed."
+    } ]
+  }, {
+    "tStartMs": 755340,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "One of his longtime friends,"
+    } ]
+  }, {
+    "tStartMs": 756570,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "a fellow physicist named Samuel Konig,"
+    } ]
+  }, {
+    "tStartMs": 758580,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "wrote that \"not only is\nyour principal wrong,"
+    } ]
+  }, {
+    "tStartMs": 761670,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "you also stole it from Leibniz.\""
+    } ]
+  }, {
+    "tStartMs": 764340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Voltaire, who used to be a\nclose friend of Maupertuis,"
+    } ]
+  }, {
+    "tStartMs": 766800,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "accused him of plagiarism,\nbad physics, being stupid,"
+    } ]
+  }, {
+    "tStartMs": 770070,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and just about anything\nelse he could think of."
+    } ]
+  }, {
+    "tStartMs": 772380,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "In fact, he wrote a 32-page pamphlet"
+    } ]
+  }, {
+    "tStartMs": 774870,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "just to mock Maupertuis."
+    } ]
+  }, {
+    "tStartMs": 776880,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Of course, this may have\nbeen partly due to rumors"
+    } ]
+  }, {
+    "tStartMs": 778890,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "Voltaire's lover had an\naffair with Maupertuis."
+    } ]
+  }, {
+    "tStartMs": 782910,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But not everyone attacked him."
+    } ]
+  }, {
+    "tStartMs": 785490,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "Some just ignored him."
+    } ]
+  }, {
+    "tStartMs": 788910,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "- Maupertuis, I've taken\na lot of math and physics"
+    } ]
+  }, {
+    "tStartMs": 791610,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "in my life."
+    } ]
+  }, {
+    "tStartMs": 792443,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I think you're the first person\nI ever heard pronounce it."
+    } ]
+  }, {
+    "tStartMs": 794910,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "He doesn't get much mention."
+    } ]
+  }, {
+    "tStartMs": 798630,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "- All of this was terribly\nstressful for Maupertuis"
+    } ]
+  }, {
+    "tStartMs": 801660,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "who was nearing the end of his life,"
+    } ]
+  }, {
+    "tStartMs": 803730,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "and more than anything,"
+    } ]
+  }, {
+    "tStartMs": 804750,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "he thought the principle of least action"
+    } ]
+  }, {
+    "tStartMs": 806640,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "would be what he was remembered for."
+    } ]
+  }, {
+    "tStartMs": 808950,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "That would be his legacy."
+    } ]
+  }, {
+    "tStartMs": 811140,
+    "dDurationMs": 4443,
+    "segs": [ {
+      "utf8": "But now he was attacked,\nmocked, ridiculed, and ignored."
+    } ]
+  }, {
+    "tStartMs": 817140,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Unfortunately, this treatment"
+    } ]
+  }, {
+    "tStartMs": 818670,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "was at least somewhat justified"
+    } ]
+  }, {
+    "tStartMs": 820830,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "because Maupertuis came\nup with this principle"
+    } ]
+  }, {
+    "tStartMs": 823080,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "by kind of just picking\nit out of thin air."
+    } ]
+  }, {
+    "tStartMs": 826350,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "There was no obvious reason\nwhy nature should care"
+    } ]
+  }, {
+    "tStartMs": 829470,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "about mass times velocity times distance,"
+    } ]
+  }, {
+    "tStartMs": 832200,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "or even less, why that\nquantity should be minimized."
+    } ]
+  }, {
+    "tStartMs": 836250,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And mathematically, the\nprinciple of least action"
+    } ]
+  }, {
+    "tStartMs": 839010,
+    "dDurationMs": 1653,
+    "segs": [ {
+      "utf8": "wasn't rigorous either."
+    } ]
+  }, {
+    "tStartMs": 841830,
+    "dDurationMs": 3688,
+    "segs": [ {
+      "utf8": "But there was one man who\nvehemently defended it,"
+    } ]
+  }, {
+    "tStartMs": 845518,
+    "dDurationMs": 1985,
+    "segs": [ {
+      "utf8": "and that man was Leonhard Euler."
+    } ]
+  }, {
+    "tStartMs": 849390,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "The first thing Euler did"
+    } ]
+  }, {
+    "tStartMs": 850620,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "was he replaced the sum with an integral"
+    } ]
+  }, {
+    "tStartMs": 853320,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "so you could calculate the action"
+    } ]
+  }, {
+    "tStartMs": 855180,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "while speed or direction\nchanged continuously."
+    } ]
+  }, {
+    "tStartMs": 858570,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And he used this to find\nthe path of a particle"
+    } ]
+  }, {
+    "tStartMs": 860940,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "around a central mass,"
+    } ]
+  }, {
+    "tStartMs": 862590,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "like the orbit of a planet around a star."
+    } ]
+  }, {
+    "tStartMs": 865830,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Solving this meant that\nout of every possible path"
+    } ]
+  }, {
+    "tStartMs": 868560,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "between two points,"
+    } ]
+  }, {
+    "tStartMs": 869850,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "he would have to find the one"
+    } ]
+  }, {
+    "tStartMs": 870930,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "for which the action was the smallest."
+    } ]
+  }, {
+    "tStartMs": 873660,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "This is similar to the\nproblem Fermat tried to solve,"
+    } ]
+  }, {
+    "tStartMs": 876780,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "only now, instead of\nchanging one variable,"
+    } ]
+  }, {
+    "tStartMs": 879270,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "he would have to vary every\npossible point along the path,"
+    } ]
+  }, {
+    "tStartMs": 882570,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "which is infinitely many."
+    } ]
+  }, {
+    "tStartMs": 885060,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Needless to say, this was an arduous task."
+    } ]
+  }, {
+    "tStartMs": 887940,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Math had not yet developed the tools"
+    } ]
+  }, {
+    "tStartMs": 889770,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "required to handle such problems."
+    } ]
+  }, {
+    "tStartMs": 894300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Fortunately, Euler himself\ninvented a new method."
+    } ]
+  }, {
+    "tStartMs": 898620,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "It was clunky and time\nconsuming, but it worked."
+    } ]
+  }, {
+    "tStartMs": 902280,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Through this process,"
+    } ]
+  }, {
+    "tStartMs": 903450,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "he realized that the\nprinciple of least action"
+    } ]
+  }, {
+    "tStartMs": 905580,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "only works if the total\nenergy is conserved,"
+    } ]
+  }, {
+    "tStartMs": 909210,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and it is the same for\nall paths considered."
+    } ]
+  }, {
+    "tStartMs": 912810,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "These were two conditions"
+    } ]
+  }, {
+    "tStartMs": 914190,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "that Maupertuis hadn't\nrealized were necessary."
+    } ]
+  }, {
+    "tStartMs": 916890,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "So Euler improved the mathematical\nrigor of the principle."
+    } ]
+  }, {
+    "tStartMs": 920520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "He found two extra conditions"
+    } ]
+  }, {
+    "tStartMs": 922620,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "and he provided a specific\nexample of it working."
+    } ]
+  }, {
+    "tStartMs": 927000,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "- Euler is an astonishingly powerful"
+    } ]
+  }, {
+    "tStartMs": 930060,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and not just great mathematician,"
+    } ]
+  }, {
+    "tStartMs": 931740,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "but appears to be a good guy."
+    } ]
+  }, {
+    "tStartMs": 933480,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "As far as we could tell,\nhe was very generous."
+    } ]
+  }, {
+    "tStartMs": 936540,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "You can still read Euler\nand really understand it."
+    } ]
+  }, {
+    "tStartMs": 940440,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "He helps you, he's empathetic."
+    } ]
+  }, {
+    "tStartMs": 942330,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "You know, he was like you are, man."
+    } ]
+  }, {
+    "tStartMs": 944970,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "He's trying to explain stuff."
+    } ]
+  }, {
+    "tStartMs": 948060,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "- But Euler was still\nfar from a general proof."
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "That would have to wait for\nanother legendary mathematician,"
+    } ]
+  }, {
+    "tStartMs": 955620,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "Joseph-Louis Lagrange."
+    } ]
+  }, {
+    "tStartMs": 959400,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Joseph-Louis Lagrange\nwas a shy 19-year-old,"
+    } ]
+  }, {
+    "tStartMs": 962310,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "mostly self-taught."
+    } ]
+  }, {
+    "tStartMs": 964110,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "But despite his age,"
+    } ]
+  }, {
+    "tStartMs": 965310,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "he was already working at\nthe forefront of mathematics,"
+    } ]
+  }, {
+    "tStartMs": 968250,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "including with Euler's new method."
+    } ]
+  }, {
+    "tStartMs": 970620,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "In 1754, he shared his results with Euler,"
+    } ]
+  }, {
+    "tStartMs": 973680,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "who replied that Lagrange\nhad \"extolled the theory"
+    } ]
+  }, {
+    "tStartMs": 976290,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to the highest summit of perfection,\""
+    } ]
+  }, {
+    "tStartMs": 978810,
+    "dDurationMs": 2247,
+    "segs": [ {
+      "utf8": "which caused him \"the greatest joy.\""
+    } ]
+  }, {
+    "tStartMs": 982290,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But besides being world\nclass mathematicians,"
+    } ]
+  }, {
+    "tStartMs": 984690,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "the two had another thing in common."
+    } ]
+  }, {
+    "tStartMs": 986820,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "They were both huge proponents"
+    } ]
+  }, {
+    "tStartMs": 988620,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "of the principle of least action."
+    } ]
+  }, {
+    "tStartMs": 990630,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "And around five years later,"
+    } ]
+  }, {
+    "tStartMs": 992310,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "just a year after Maupertuis' death,"
+    } ]
+  }, {
+    "tStartMs": 994860,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "Lagrange succeeded in\nproviding a general proof."
+    } ]
+  }, {
+    "tStartMs": 1000560,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Is there any intuitive\nway to think about action?"
+    } ]
+  }, {
+    "tStartMs": 1004260,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "I feel like there's an intuitive\nway to think about force"
+    } ]
+  }, {
+    "tStartMs": 1007310,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "and there's kind of an intuitive\nway to think about energy,"
+    } ]
+  }, {
+    "tStartMs": 1010520,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "but is there an intuitive\nway to think about action?"
+    } ]
+  }, {
+    "tStartMs": 1013190,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "- I don't know."
+    } ]
+  }, {
+    "tStartMs": 1014180,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "I wanna watch your show to learn."
+    } ]
+  }, {
+    "tStartMs": 1016610,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "I hope you'll come up with it"
+    } ]
+  }, {
+    "tStartMs": 1017780,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "because I don't have a\ngood feeling about action."
+    } ]
+  }, {
+    "tStartMs": 1021380,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- [Derek] Now I wanna\nexplain Lagrange's proof,"
+    } ]
+  }, {
+    "tStartMs": 1023660,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "but I don't want to do it the way he did."
+    } ]
+  }, {
+    "tStartMs": 1026270,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So instead, we'll go through three steps."
+    } ]
+  }, {
+    "tStartMs": 1028910,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "First we'll explain the general approach"
+    } ]
+  }, {
+    "tStartMs": 1030860,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Euler and Lagrange came up with."
+    } ]
+  }, {
+    "tStartMs": 1032810,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Then we'll rewrite the\nprinciple into its modern form."
+    } ]
+  }, {
+    "tStartMs": 1036140,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "And finally we'll apply this\nmath to a simple example"
+    } ]
+  }, {
+    "tStartMs": 1039290,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "to show you why it works."
+    } ]
+  }, {
+    "tStartMs": 1043010,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So first, the general approach."
+    } ]
+  }, {
+    "tStartMs": 1045380,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "If there are infinite possible paths,"
+    } ]
+  }, {
+    "tStartMs": 1047960,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "how do you find the one\nwith the least action?"
+    } ]
+  }, {
+    "tStartMs": 1050870,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Well, Euler and Lagrange\nrealized you can do it"
+    } ]
+  }, {
+    "tStartMs": 1053450,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "in a similar way to how you\nfind the minimum of a function."
+    } ]
+  }, {
+    "tStartMs": 1057140,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "There you take the derivative\nand set it equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1060680,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "And where the slope is horizontal,\nthat must be the minimum."
+    } ]
+  }, {
+    "tStartMs": 1064970,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "So if you took a tiny step\nto the left or the right,"
+    } ]
+  }, {
+    "tStartMs": 1068420,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "the value of the function\nbasically doesn't change."
+    } ]
+  }, {
+    "tStartMs": 1071690,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "And similarly, if you have\nthe path of least action,"
+    } ]
+  }, {
+    "tStartMs": 1075440,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "then if you were to change it a little bit"
+    } ]
+  }, {
+    "tStartMs": 1077630,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "by, say, adding a tiny bump\nhere or flattening it out there,"
+    } ]
+  }, {
+    "tStartMs": 1081530,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "imagine we're just adding\na tiny function, eta,"
+    } ]
+  }, {
+    "tStartMs": 1084590,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "to our path of least action,"
+    } ]
+  }, {
+    "tStartMs": 1086390,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "well, then the action\nbasically shouldn't change"
+    } ]
+  }, {
+    "tStartMs": 1089660,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "because we're at this\nreally special point,"
+    } ]
+  }, {
+    "tStartMs": 1092030,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "the path of least action."
+    } ]
+  }, {
+    "tStartMs": 1094220,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "You add a little bit to the minimal path"
+    } ]
+  }, {
+    "tStartMs": 1096200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "but the action is still the same."
+    } ]
+  }, {
+    "tStartMs": 1097520,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "If that is the optimal path\nthat has the least action,"
+    } ]
+  }, {
+    "tStartMs": 1100190,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "then any other path must have more action."
+    } ]
+  }, {
+    "tStartMs": 1103340,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "- So the counter there"
+    } ]
+  }, {
+    "tStartMs": 1104870,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "is like all of this is the first order."
+    } ]
+  }, {
+    "tStartMs": 1107360,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "So if you're looking at linear terms"
+    } ]
+  }, {
+    "tStartMs": 1109850,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "that are proportional\nto eta, the deviation,"
+    } ]
+  }, {
+    "tStartMs": 1112463,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "then the first order,"
+    } ]
+  }, {
+    "tStartMs": 1113840,
+    "dDurationMs": 1013,
+    "segs": [ {
+      "utf8": "the difference in action will be 0."
+    } ]
+  }, {
+    "tStartMs": 1114853,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "And the way you could imagine this is like"
+    } ]
+  }, {
+    "tStartMs": 1117020,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "let's say you're at the bottom of a bowl"
+    } ]
+  }, {
+    "tStartMs": 1118790,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and you're at the minimum"
+    } ]
+  }, {
+    "tStartMs": 1120110,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and you make some tiny step\naway and we call that step eta."
+    } ]
+  }, {
+    "tStartMs": 1123410,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "If that change would\nbe proportional to eta,"
+    } ]
+  }, {
+    "tStartMs": 1125510,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "you would maybe increase on this side"
+    } ]
+  }, {
+    "tStartMs": 1127310,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "but decrease on this side"
+    } ]
+  }, {
+    "tStartMs": 1128420,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and then this would no\nlonger be a minimum."
+    } ]
+  }, {
+    "tStartMs": 1130430,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "So sort of the coefficient\nof eta has to be 0."
+    } ]
+  }, {
+    "tStartMs": 1134600,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "But since you're at a minimum,"
+    } ]
+  }, {
+    "tStartMs": 1136010,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "it kind of goes like a parabola,"
+    } ]
+  }, {
+    "tStartMs": 1138080,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "so it can be proportional to eta squared"
+    } ]
+  }, {
+    "tStartMs": 1139940,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "or potentially some higher order term."
+    } ]
+  }, {
+    "tStartMs": 1141800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So there is a tiny\ndeviation in the action,"
+    } ]
+  }, {
+    "tStartMs": 1145400,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "but it's not proportional to eta."
+    } ]
+  }, {
+    "tStartMs": 1147410,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So the first order,"
+    } ]
+  }, {
+    "tStartMs": 1149120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the change in action\nbetween the optimal path"
+    } ]
+  }, {
+    "tStartMs": 1151520,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "and some trial path is 0."
+    } ]
+  }, {
+    "tStartMs": 1155090,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "- So what you can write"
+    } ]
+  }, {
+    "tStartMs": 1156350,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "is that the action of this trial path"
+    } ]
+  }, {
+    "tStartMs": 1158390,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "minus the action of the true path"
+    } ]
+  }, {
+    "tStartMs": 1160310,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "is equal to 0 to first order."
+    } ]
+  }, {
+    "tStartMs": 1164000,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "This is a compact way"
+    } ]
+  }, {
+    "tStartMs": 1165560,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "of writing the principle of least action,"
+    } ]
+  }, {
+    "tStartMs": 1167780,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and it's the general approach you use"
+    } ]
+  }, {
+    "tStartMs": 1169640,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "to solve all these problems."
+    } ]
+  }, {
+    "tStartMs": 1172250,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "So with that in hand,"
+    } ]
+  }, {
+    "tStartMs": 1173390,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "let's rewrite the principle\ninto its modern form,"
+    } ]
+  }, {
+    "tStartMs": 1176420,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "starting with Maupertuis' action,"
+    } ]
+  }, {
+    "tStartMs": 1178430,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "which is the sum of mass\ntimes velocity times distance."
+    } ]
+  }, {
+    "tStartMs": 1182360,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "But Euler changed this into an integral,"
+    } ]
+  }, {
+    "tStartMs": 1184190,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "so it's the integral\nof mass times velocity"
+    } ]
+  }, {
+    "tStartMs": 1186680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "integrated over distance."
+    } ]
+  }, {
+    "tStartMs": 1188840,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Now the velocity is equal to ds over dt,"
+    } ]
+  }, {
+    "tStartMs": 1192140,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "which we can rearrange\nto get ds equals vdt."
+    } ]
+  }, {
+    "tStartMs": 1195500,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "And plugging this in,"
+    } ]
+  }, {
+    "tStartMs": 1196790,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "we have an integral of\nmv squared over time."
+    } ]
+  }, {
+    "tStartMs": 1200570,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But wait, that's just\ntwice the kinetic energy."
+    } ]
+  }, {
+    "tStartMs": 1203570,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "And as Euler pointed out,"
+    } ]
+  }, {
+    "tStartMs": 1204500,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "the total energy must be conserved."
+    } ]
+  }, {
+    "tStartMs": 1206990,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Total energy is just\nkinetic plus potential."
+    } ]
+  }, {
+    "tStartMs": 1210050,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So we can rewrite this\nas T equals E minus V."
+    } ]
+  }, {
+    "tStartMs": 1214490,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "And filling this in for\nthe second T gives us"
+    } ]
+  }, {
+    "tStartMs": 1216830,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "that the variation of T plus\nE minus V integrated over time"
+    } ]
+  }, {
+    "tStartMs": 1221780,
+    "dDurationMs": 1563,
+    "segs": [ {
+      "utf8": "is equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1224330,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Now we can split this integral into two,"
+    } ]
+  }, {
+    "tStartMs": 1226610,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "and since the energy is constant,"
+    } ]
+  }, {
+    "tStartMs": 1228380,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "we can integrate this term\nover time to get this."
+    } ]
+  }, {
+    "tStartMs": 1231980,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And we can simplify this even further."
+    } ]
+  }, {
+    "tStartMs": 1234110,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Just like with a normal derivative,"
+    } ]
+  }, {
+    "tStartMs": 1235760,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "we can write the variation of E times t"
+    } ]
+  }, {
+    "tStartMs": 1238340,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "as E times the variation of t"
+    } ]
+  }, {
+    "tStartMs": 1240200,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "plus t times the variation of E."
+    } ]
+  }, {
+    "tStartMs": 1242690,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "But remember, as Euler found,"
+    } ]
+  }, {
+    "tStartMs": 1244400,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "the energy of different\npaths has to be the same,"
+    } ]
+  }, {
+    "tStartMs": 1247250,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "so the variation between them is 0"
+    } ]
+  }, {
+    "tStartMs": 1249530,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and this term drops out."
+    } ]
+  }, {
+    "tStartMs": 1251750,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "If we rearrange this like so,"
+    } ]
+  }, {
+    "tStartMs": 1253670,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "then we find that the\nvariation of this integral"
+    } ]
+  }, {
+    "tStartMs": 1256010,
+    "dDurationMs": 4443,
+    "segs": [ {
+      "utf8": "is equal to minus the energy\ntimes the variation of time."
+    } ]
+  }, {
+    "tStartMs": 1261560,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This looks a lot like some\nother minimization principle,"
+    } ]
+  }, {
+    "tStartMs": 1264920,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "if only this was equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1267530,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Well, we can make this 0"
+    } ]
+  }, {
+    "tStartMs": 1269330,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "by only considering paths that\nhave the same travel time."
+    } ]
+  }, {
+    "tStartMs": 1272750,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "If you do that, then there's\nno longer any variation in time"
+    } ]
+  }, {
+    "tStartMs": 1276350,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and this term drops out."
+    } ]
+  }, {
+    "tStartMs": 1278330,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "And what we find is that\nMaupertuis' principle"
+    } ]
+  }, {
+    "tStartMs": 1281000,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "has changed into another form"
+    } ]
+  }, {
+    "tStartMs": 1283580,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "where now the variation of kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 1286340,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "minus potential energy"
+    } ]
+  }, {
+    "tStartMs": 1287960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "integrated over time is equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1291320,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "- T minus V, kinetic energy\nminus potential energy,"
+    } ]
+  }, {
+    "tStartMs": 1295250,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and then you integrate that along a path"
+    } ]
+  }, {
+    "tStartMs": 1297770,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "that you're traveling from A to B,"
+    } ]
+  }, {
+    "tStartMs": 1299300,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and then integrate it\nwith respect to time."
+    } ]
+  }, {
+    "tStartMs": 1301490,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "It's all very strange"
+    } ]
+  }, {
+    "tStartMs": 1302720,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "and yet that turns out to be\nthe correct thing to integrate."
+    } ]
+  }, {
+    "tStartMs": 1306710,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "- [Derek] Now this is a little weird."
+    } ]
+  }, {
+    "tStartMs": 1308120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "We started with mass times velocity"
+    } ]
+  }, {
+    "tStartMs": 1310160,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "integrated over distance,"
+    } ]
+  }, {
+    "tStartMs": 1311570,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and now we have the kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 1313070,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "minus the potential energy"
+    } ]
+  }, {
+    "tStartMs": 1314480,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "integrated over time."
+    } ]
+  }, {
+    "tStartMs": 1316250,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "And somehow both are ways"
+    } ]
+  }, {
+    "tStartMs": 1318020,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to write the principle of least action."
+    } ]
+  }, {
+    "tStartMs": 1320540,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "But that also means\nthat this integral here,"
+    } ]
+  }, {
+    "tStartMs": 1322670,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "T minus V integrated over time,"
+    } ]
+  }, {
+    "tStartMs": 1324440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "is another way to write the action."
+    } ]
+  }, {
+    "tStartMs": 1327200,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "The first person"
+    } ]
+  }, {
+    "tStartMs": 1328033,
+    "dDurationMs": 1897,
+    "segs": [ {
+      "utf8": "to write the principle\nof least action like this"
+    } ]
+  }, {
+    "tStartMs": 1329930,
+    "dDurationMs": 3345,
+    "segs": [ {
+      "utf8": "was William Rowan Hamilton in 1834,"
+    } ]
+  }, {
+    "tStartMs": 1333275,
+    "dDurationMs": 3615,
+    "segs": [ {
+      "utf8": "and by doing so, he got the\nprinciple named after him."
+    } ]
+  }, {
+    "tStartMs": 1336890,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- So the principle of least action"
+    } ]
+  }, {
+    "tStartMs": 1338810,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "that we write as integral of Ldt,"
+    } ]
+  }, {
+    "tStartMs": 1341750,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "L being being the Lagrangian,"
+    } ]
+  }, {
+    "tStartMs": 1343400,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "the T minus V, the kinetic\nminus potential energy,"
+    } ]
+  }, {
+    "tStartMs": 1346370,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "they don't call it Lagrange's Principle,"
+    } ]
+  }, {
+    "tStartMs": 1348050,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "they call it Hamilton's Principle."
+    } ]
+  }, {
+    "tStartMs": 1350000,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "So I guess Hamilton is building\non Lagrange in that way."
+    } ]
+  }, {
+    "tStartMs": 1353810,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- Hamilton's Principle is the modern way"
+    } ]
+  }, {
+    "tStartMs": 1355970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "of writing the principle of least action"
+    } ]
+  }, {
+    "tStartMs": 1357950,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and the way you'd find it in\nalmost every physics book."
+    } ]
+  }, {
+    "tStartMs": 1360890,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "In part that's because\nHamilton's Principle tells you"
+    } ]
+  }, {
+    "tStartMs": 1363230,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "how objects move from one place to another"
+    } ]
+  }, {
+    "tStartMs": 1366020,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "rather than just giving\nyou the shape of the path."
+    } ]
+  }, {
+    "tStartMs": 1369170,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Two other important differences\nbetween both principles"
+    } ]
+  }, {
+    "tStartMs": 1371630,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "are that the action is\nnow an integral over time"
+    } ]
+  }, {
+    "tStartMs": 1374480,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "instead of space."
+    } ]
+  }, {
+    "tStartMs": 1375680,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And a consequence is that\nwith Hamilton's Principle,"
+    } ]
+  }, {
+    "tStartMs": 1378200,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "you now need a start and end point,"
+    } ]
+  }, {
+    "tStartMs": 1380150,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and also a start and end time."
+    } ]
+  }, {
+    "tStartMs": 1383210,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "The third is that with\nMaupertuis' principle,"
+    } ]
+  }, {
+    "tStartMs": 1385520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "you need to keep the energy\nof different paths the same,"
+    } ]
+  }, {
+    "tStartMs": 1388880,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "but the time can vary."
+    } ]
+  }, {
+    "tStartMs": 1390500,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "While with Hamilton's Principle,"
+    } ]
+  }, {
+    "tStartMs": 1391910,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "the energies can differ"
+    } ]
+  }, {
+    "tStartMs": 1393290,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "but the time has to be\nthe same between paths."
+    } ]
+  }, {
+    "tStartMs": 1397820,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So now we have our general approach"
+    } ]
+  }, {
+    "tStartMs": 1399920,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and the modern way of\nwriting the principle,"
+    } ]
+  }, {
+    "tStartMs": 1401780,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "so let's apply it to a simple\nexample to see why it works."
+    } ]
+  }, {
+    "tStartMs": 1405950,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Let's say I throw this ball\nstraight up in the air,"
+    } ]
+  }, {
+    "tStartMs": 1409520,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "so it goes from some start point"
+    } ]
+  }, {
+    "tStartMs": 1411620,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "to say a different end point\nin a certain amount of time."
+    } ]
+  }, {
+    "tStartMs": 1415910,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Now if we call the height\nof the ball y of t,"
+    } ]
+  }, {
+    "tStartMs": 1418910,
+    "dDurationMs": 2847,
+    "segs": [ {
+      "utf8": "then we can plot these two points like so,"
+    } ]
+  }, {
+    "tStartMs": 1421757,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "and then we can imagine"
+    } ]
+  }, {
+    "tStartMs": 1423650,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "infinitely many possible trajectories"
+    } ]
+  }, {
+    "tStartMs": 1426020,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "that could connect these two points."
+    } ]
+  }, {
+    "tStartMs": 1427760,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Some go a little higher, some lower,"
+    } ]
+  }, {
+    "tStartMs": 1430430,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "some have wiggles, others don't."
+    } ]
+  }, {
+    "tStartMs": 1432860,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "The only condition"
+    } ]
+  }, {
+    "tStartMs": 1433970,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "is that all paths must have\nthe same start and end point"
+    } ]
+  }, {
+    "tStartMs": 1437360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and the same amount of\ntime elapsed between them."
+    } ]
+  }, {
+    "tStartMs": 1440360,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Now to find the real trajectory,"
+    } ]
+  }, {
+    "tStartMs": 1442160,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "we proceed as before."
+    } ]
+  }, {
+    "tStartMs": 1444110,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "We imagine that this is\nthe true path, y of t,"
+    } ]
+  }, {
+    "tStartMs": 1447110,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "the one with the least action."
+    } ]
+  }, {
+    "tStartMs": 1448910,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "And then we imagine making\nsmall variations to it"
+    } ]
+  }, {
+    "tStartMs": 1451820,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "by pushing it up a little here,"
+    } ]
+  }, {
+    "tStartMs": 1453650,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "down a little there, and so on,"
+    } ]
+  }, {
+    "tStartMs": 1455870,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "making tiny changes at every time step,"
+    } ]
+  }, {
+    "tStartMs": 1458510,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "which we'll call eta of t."
+    } ]
+  }, {
+    "tStartMs": 1460760,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So when you add y and eta together,"
+    } ]
+  }, {
+    "tStartMs": 1463130,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "you get this new trial path,"
+    } ]
+  }, {
+    "tStartMs": 1464810,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "let's call it q of t."
+    } ]
+  }, {
+    "tStartMs": 1466820,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "And since the variations are small,"
+    } ]
+  }, {
+    "tStartMs": 1468800,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "the difference in action\nbetween these two paths is 0."
+    } ]
+  }, {
+    "tStartMs": 1472610,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Our next task is to solve this equation."
+    } ]
+  }, {
+    "tStartMs": 1476240,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So we compute the action for each path."
+    } ]
+  }, {
+    "tStartMs": 1478910,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "For this, we need the kinetic\nand potential energy for each,"
+    } ]
+  }, {
+    "tStartMs": 1481850,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and we write them as a\nfunction of y and eta."
+    } ]
+  }, {
+    "tStartMs": 1485270,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Plugging that in,"
+    } ]
+  }, {
+    "tStartMs": 1486103,
+    "dDurationMs": 3607,
+    "segs": [ {
+      "utf8": "you get the difference in\nactions is equal to this."
+    } ]
+  }, {
+    "tStartMs": 1489710,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "But wait, this first integral"
+    } ]
+  }, {
+    "tStartMs": 1491540,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "is just the action of the true path,"
+    } ]
+  }, {
+    "tStartMs": 1493550,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "so these integrals cancel,"
+    } ]
+  }, {
+    "tStartMs": 1495560,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and what you're left with is just that."
+    } ]
+  }, {
+    "tStartMs": 1498500,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "m times dy over dt"
+    } ]
+  }, {
+    "tStartMs": 1500420,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "times d eta over dt"
+    } ]
+  }, {
+    "tStartMs": 1502220,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "minus eta times the\nderivative of the potential"
+    } ]
+  }, {
+    "tStartMs": 1505100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "integrated over time"
+    } ]
+  }, {
+    "tStartMs": 1506600,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "is equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1508580,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "We can rewrite this further\nby using integration by parts."
+    } ]
+  }, {
+    "tStartMs": 1511970,
+    "dDurationMs": 3843,
+    "segs": [ {
+      "utf8": "That allows us to replace\nthis term with this one."
+    } ]
+  }, {
+    "tStartMs": 1517130,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "And if we plug that in,"
+    } ]
+  }, {
+    "tStartMs": 1518120,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "we now have some function"
+    } ]
+  }, {
+    "tStartMs": 1519680,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "that when multiplied by eta\nand integrated over time"
+    } ]
+  }, {
+    "tStartMs": 1522590,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "has to be equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1524570,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "But since eta can be just about anything,"
+    } ]
+  }, {
+    "tStartMs": 1527120,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "this can only be true if this part is 0."
+    } ]
+  }, {
+    "tStartMs": 1531110,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "So what we found is that the\naction is minimal for the path"
+    } ]
+  }, {
+    "tStartMs": 1534500,
+    "dDurationMs": 3783,
+    "segs": [ {
+      "utf8": "that satisfies this curious\ndifferential equation."
+    } ]
+  }, {
+    "tStartMs": 1539660,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Now it might look\ncomplicated, but it's not."
+    } ]
+  }, {
+    "tStartMs": 1543080,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Minus the derivative of the\npotential is just the force."
+    } ]
+  }, {
+    "tStartMs": 1547370,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And the second derivative of height?"
+    } ]
+  }, {
+    "tStartMs": 1549770,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Well, that's just acceleration."
+    } ]
+  }, {
+    "tStartMs": 1552320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So if we rearrange this,"
+    } ]
+  }, {
+    "tStartMs": 1554000,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "we find that the path that satisfies"
+    } ]
+  }, {
+    "tStartMs": 1555860,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "the principle of least action"
+    } ]
+  }, {
+    "tStartMs": 1557600,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "is the one that obeys F equals ma."
+    } ]
+  }, {
+    "tStartMs": 1564050,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "In other words, the principle\nof least action is equivalent"
+    } ]
+  }, {
+    "tStartMs": 1567440,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "to Newton's Second Law,"
+    } ]
+  }, {
+    "tStartMs": 1569930,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "but it covers more than just mechanics."
+    } ]
+  }, {
+    "tStartMs": 1574520,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Fermat's principle of least time"
+    } ]
+  }, {
+    "tStartMs": 1575990,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "turned out to be nothing\nmore than a special case"
+    } ]
+  }, {
+    "tStartMs": 1578420,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "of the principle of least action."
+    } ]
+  }, {
+    "tStartMs": 1581810,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So with this single principle,"
+    } ]
+  }, {
+    "tStartMs": 1583700,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "you could suddenly describe everything,"
+    } ]
+  }, {
+    "tStartMs": 1585560,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "from light reflecting and refracting,"
+    } ]
+  }, {
+    "tStartMs": 1588320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "to the swinging of a pendulum clock,"
+    } ]
+  }, {
+    "tStartMs": 1590720,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "to planets orbiting the sun"
+    } ]
+  }, {
+    "tStartMs": 1592310,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "and stars orbiting the core of the galaxy."
+    } ]
+  }, {
+    "tStartMs": 1595910,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "What used to be viewed"
+    } ]
+  }, {
+    "tStartMs": 1596990,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "as entirely separate fields of physics"
+    } ]
+  }, {
+    "tStartMs": 1599450,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "were now all unified under\na single simple rule."
+    } ]
+  }, {
+    "tStartMs": 1603710,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "The variation of the action is 0."
+    } ]
+  }, {
+    "tStartMs": 1608270,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "After Euler found out\nabout Lagrange's proof,"
+    } ]
+  }, {
+    "tStartMs": 1610490,
+    "dDurationMs": 1387,
+    "segs": [ {
+      "utf8": "he wrote to him,"
+    } ]
+  }, {
+    "tStartMs": 1611877,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "\"How satisfied would\nnot Mr. Maupertuis be,"
+    } ]
+  }, {
+    "tStartMs": 1614510,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "were he still alive,"
+    } ]
+  }, {
+    "tStartMs": 1615950,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "if he could see his\nprinciple of least action"
+    } ]
+  }, {
+    "tStartMs": 1618050,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "applied to the highest degree of dignity"
+    } ]
+  }, {
+    "tStartMs": 1620030,
+    "dDurationMs": 1737,
+    "segs": [ {
+      "utf8": "to which it is susceptible.\""
+    } ]
+  }, {
+    "tStartMs": 1628700,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "With Lagrange's proof,"
+    } ]
+  }, {
+    "tStartMs": 1630260,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "we now have two ways to\nsolve any mechanics problem."
+    } ]
+  }, {
+    "tStartMs": 1633740,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You can either use forces and vectors"
+    } ]
+  }, {
+    "tStartMs": 1636020,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "or you can use energies and scalars."
+    } ]
+  }, {
+    "tStartMs": 1638750,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It seems like the\nprinciple of least action"
+    } ]
+  }, {
+    "tStartMs": 1640820,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "is just way too complicated."
+    } ]
+  }, {
+    "tStartMs": 1642710,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It is so unnecessary."
+    } ]
+  }, {
+    "tStartMs": 1644510,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Who would ever use this, you know,"
+    } ]
+  }, {
+    "tStartMs": 1646190,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "when you could just use\nNewton's Second Law?"
+    } ]
+  }, {
+    "tStartMs": 1647660,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Like that's a piece of cake."
+    } ]
+  }, {
+    "tStartMs": 1649400,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "- Your options are either use all of this"
+    } ]
+  }, {
+    "tStartMs": 1653060,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "or just start with F equals ma,"
+    } ]
+  }, {
+    "tStartMs": 1654590,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and they give you the same answer."
+    } ]
+  }, {
+    "tStartMs": 1655910,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Why ever use the\nprinciple of least action?"
+    } ]
+  }, {
+    "tStartMs": 1658310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Well, that's because Euler and\nLagrange came up with a way"
+    } ]
+  }, {
+    "tStartMs": 1661370,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "to make all of this like\nsuper, super simple."
+    } ]
+  }, {
+    "tStartMs": 1664970,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- [Derek] If this is the action,"
+    } ]
+  }, {
+    "tStartMs": 1666800,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "then T minus V is called the Lagrangian."
+    } ]
+  }, {
+    "tStartMs": 1669980,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now let's replace everything we did before"
+    } ]
+  }, {
+    "tStartMs": 1672170,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "with the Lagrangian."
+    } ]
+  }, {
+    "tStartMs": 1674150,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Then you see that the\nprinciple of least action works"
+    } ]
+  }, {
+    "tStartMs": 1676790,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "whenever this differential\nequation is satisfied."
+    } ]
+  }, {
+    "tStartMs": 1680090,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "- So all you have to do now"
+    } ]
+  }, {
+    "tStartMs": 1681590,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "if you wanna solve any mechanics problem"
+    } ]
+  }, {
+    "tStartMs": 1684050,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "is you just write down the\nkinetic and potential energy"
+    } ]
+  }, {
+    "tStartMs": 1686930,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "and you plug it into this\nequation and you're done."
+    } ]
+  }, {
+    "tStartMs": 1690950,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "And that becomes extremely powerful."
+    } ]
+  }, {
+    "tStartMs": 1694490,
+    "dDurationMs": 997,
+    "segs": [ {
+      "utf8": "- I remember thinking,"
+    } ]
+  }, {
+    "tStartMs": 1695487,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "\"Man, force is like hard\nto get the right answer.\""
+    } ]
+  }, {
+    "tStartMs": 1698210,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "You can do it if you're good,"
+    } ]
+  }, {
+    "tStartMs": 1699620,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and people who are good\nat mechanics can do it."
+    } ]
+  }, {
+    "tStartMs": 1701960,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "But with the Lagrangian approach,"
+    } ]
+  }, {
+    "tStartMs": 1703730,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "you have this machine"
+    } ]
+  }, {
+    "tStartMs": 1705290,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "crank out the principle\nof least action on it"
+    } ]
+  }, {
+    "tStartMs": 1707780,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and you get the right equation to motion"
+    } ]
+  }, {
+    "tStartMs": 1709460,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and you don't have to be a good physicist."
+    } ]
+  }, {
+    "tStartMs": 1711320,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "That was what I took from it,"
+    } ]
+  }, {
+    "tStartMs": 1712970,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that as a math guy I can do physics"
+    } ]
+  }, {
+    "tStartMs": 1715250,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "thanks to Lagrange and Euler."
+    } ]
+  }, {
+    "tStartMs": 1717350,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "- And it doesn't just\nwork in one dimension."
+    } ]
+  }, {
+    "tStartMs": 1719870,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "If you have more dimensions,"
+    } ]
+  }, {
+    "tStartMs": 1721400,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "then you just solve the\nEuler-Lagrange equation"
+    } ]
+  }, {
+    "tStartMs": 1723980,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "for each coordinate."
+    } ]
+  }, {
+    "tStartMs": 1725720,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- Another thing that's great is"
+    } ]
+  }, {
+    "tStartMs": 1726830,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "you could use weird coordinate systems"
+    } ]
+  }, {
+    "tStartMs": 1728810,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that might be better\nsuited to the problem."
+    } ]
+  }, {
+    "tStartMs": 1731090,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Like if you were doing a\nproblem with something rotating,"
+    } ]
+  }, {
+    "tStartMs": 1733850,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "you might want to use polar coordinates"
+    } ]
+  }, {
+    "tStartMs": 1736070,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "instead of Cartesian coordinates."
+    } ]
+  }, {
+    "tStartMs": 1737960,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "And this will give you the\ncorrect equations of motion"
+    } ]
+  }, {
+    "tStartMs": 1740210,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "in polar coordinates,"
+    } ]
+  }, {
+    "tStartMs": 1741830,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "which again might be kind of\ntricky to do with vectors."
+    } ]
+  }, {
+    "tStartMs": 1744920,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- [Derek] Like with the double pendulum."
+    } ]
+  }, {
+    "tStartMs": 1746660,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Trying to solve this using\nforces is extremely hard."
+    } ]
+  }, {
+    "tStartMs": 1750020,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- Because as one pendulum is swinging,"
+    } ]
+  }, {
+    "tStartMs": 1752150,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "it provides the attachment point"
+    } ]
+  }, {
+    "tStartMs": 1753710,
+    "dDurationMs": 1317,
+    "segs": [ {
+      "utf8": "for the pendulum hanging below it,"
+    } ]
+  }, {
+    "tStartMs": 1755027,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "and so that pendulum is in\nthis moving reference frame"
+    } ]
+  }, {
+    "tStartMs": 1757700,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "as it's swinging."
+    } ]
+  }, {
+    "tStartMs": 1758900,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "It's a very nasty job to write\ndown the correct F equals ma"
+    } ]
+  }, {
+    "tStartMs": 1763040,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "for a double pendulum."
+    } ]
+  }, {
+    "tStartMs": 1764870,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But if you write it down with\nkinetic and potential energy,"
+    } ]
+  }, {
+    "tStartMs": 1767750,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "it's pretty easy."
+    } ]
+  }, {
+    "tStartMs": 1769250,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "- This is actually how\nwe made this simulation."
+    } ]
+  }, {
+    "tStartMs": 1773690,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Now, there is one little side note"
+    } ]
+  }, {
+    "tStartMs": 1775760,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "we should give about the\nprinciple of least action,"
+    } ]
+  }, {
+    "tStartMs": 1777770,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "because the name is a little misleading."
+    } ]
+  }, {
+    "tStartMs": 1780950,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- Although we often refer to the principle"
+    } ]
+  }, {
+    "tStartMs": 1783110,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "as the principle of least action,"
+    } ]
+  }, {
+    "tStartMs": 1786170,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "it's probably good to\nadd a little caveat here,"
+    } ]
+  }, {
+    "tStartMs": 1789140,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that sometimes it's not\nnecessarily the minimum."
+    } ]
+  }, {
+    "tStartMs": 1792020,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Just as when you find in calculus"
+    } ]
+  }, {
+    "tStartMs": 1793880,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "when you set a derivative to 0,"
+    } ]
+  }, {
+    "tStartMs": 1795650,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "that doesn't guarantee\nyou're getting the minimum"
+    } ]
+  }, {
+    "tStartMs": 1797660,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "of a function."
+    } ]
+  }, {
+    "tStartMs": 1798710,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "The principle of least\naction more properly stated"
+    } ]
+  }, {
+    "tStartMs": 1801440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "should be the principle\nof stationary action."
+    } ]
+  }, {
+    "tStartMs": 1803960,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "That the laws of motion"
+    } ]
+  }, {
+    "tStartMs": 1804980,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "come from demanding a stationary point,"
+    } ]
+  }, {
+    "tStartMs": 1807170,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "which is tantamount to this condition"
+    } ]
+  }, {
+    "tStartMs": 1809180,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "of setting a certain derivative to 0"
+    } ]
+  }, {
+    "tStartMs": 1811460,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and then getting the\nEuler-Lagrange equation from that."
+    } ]
+  }, {
+    "tStartMs": 1814760,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "So very often it is a true\nminimum, but not always."
+    } ]
+  }, {
+    "tStartMs": 1819500,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "- But action is much more fundamental"
+    } ]
+  }, {
+    "tStartMs": 1821810,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "than just classical mechanics."
+    } ]
+  }, {
+    "tStartMs": 1823910,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Around the turn of the 20th century,"
+    } ]
+  }, {
+    "tStartMs": 1825890,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "action popped up as the\nkey part of a solution"
+    } ]
+  }, {
+    "tStartMs": 1828620,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "to one of the biggest\nproblems in atomic physics"
+    } ]
+  }, {
+    "tStartMs": 1830870,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "at the time."
+    } ]
+  }, {
+    "tStartMs": 1831890,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "The UV catastrophe."
+    } ]
+  }, {
+    "tStartMs": 1834020,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "- It's kind of spooky\nthat this breakthrough"
+    } ]
+  }, {
+    "tStartMs": 1838010,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "that starts the ball rolling\ntoward quantum theory"
+    } ]
+  }, {
+    "tStartMs": 1840920,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "brings action in."
+    } ]
+  }, {
+    "tStartMs": 1842210,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "Not energy and not force, action."
+    } ]
+  }, {
+    "tStartMs": 1846440,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "It gives you a hint, yeah."
+    } ]
+  }, {
+    "tStartMs": 1849110,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "- But that and much more"
+    } ]
+  }, {
+    "tStartMs": 1851300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "will have to wait for a separate video,"
+    } ]
+  }, {
+    "tStartMs": 1853400,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "so make sure you're subscribed"
+    } ]
+  }, {
+    "tStartMs": 1854720,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "to get notified when it comes out."
+    } ]
+  }, {
+    "tStartMs": 1862640,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "The story of the principle of least action"
+    } ]
+  }, {
+    "tStartMs": 1864590,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is the story of how knowledge compounds,"
+    } ]
+  }, {
+    "tStartMs": 1866990,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "growing through steady\nprogress one step at a time"
+    } ]
+  }, {
+    "tStartMs": 1870170,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "until it changes how we\nsee the world completely."
+    } ]
+  }, {
+    "tStartMs": 1873080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And it's not just big\nscientific discoveries"
+    } ]
+  }, {
+    "tStartMs": 1875480,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "where this happens."
+    } ]
+  }, {
+    "tStartMs": 1876440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Learning a little every\nday compounds over time,"
+    } ]
+  }, {
+    "tStartMs": 1879680,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "making you smarter and\na better problem-solver."
+    } ]
+  }, {
+    "tStartMs": 1882290,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "And you can start doing\nthis right now for free"
+    } ]
+  }, {
+    "tStartMs": 1884840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "with this video's sponsor, Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1886940,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Brilliant helps you get smarter every day"
+    } ]
+  }, {
+    "tStartMs": 1889400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "while building real practical skills"
+    } ]
+  }, {
+    "tStartMs": 1891560,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "in everything from math and physics"
+    } ]
+  }, {
+    "tStartMs": 1893480,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to data science and programming,"
+    } ]
+  }, {
+    "tStartMs": 1895550,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "whatever it is that sparks your curiosity."
+    } ]
+  }, {
+    "tStartMs": 1898250,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "What I love most about Brilliant\nis that you learn by doing,"
+    } ]
+  }, {
+    "tStartMs": 1901040,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "getting hands on with real problems"
+    } ]
+  }, {
+    "tStartMs": 1903260,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "that help you build intuition."
+    } ]
+  }, {
+    "tStartMs": 1904970,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And since all their\nlessons are bite-sized,"
+    } ]
+  }, {
+    "tStartMs": 1907250,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "it's easy to take small steps\ntoward mastering huge topics"
+    } ]
+  }, {
+    "tStartMs": 1911450,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "like the language of most\nof physics, calculus."
+    } ]
+  }, {
+    "tStartMs": 1914390,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Brilliant recently updated"
+    } ]
+  }, {
+    "tStartMs": 1915770,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "their excellent course on calculus"
+    } ]
+  }, {
+    "tStartMs": 1917300,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "which doesn't just\nexplain the big concepts,"
+    } ]
+  }, {
+    "tStartMs": 1920120,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "it guides you through them\ninteractively one step at a time."
+    } ]
+  }, {
+    "tStartMs": 1924350,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "That way you don't just memorize concepts,"
+    } ]
+  }, {
+    "tStartMs": 1926750,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "you really understand them\nin a way that just clicks."
+    } ]
+  }, {
+    "tStartMs": 1929840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Now, I truly believe that\nlearning a little bit every day"
+    } ]
+  }, {
+    "tStartMs": 1932600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "is one of the best gifts\nyou can give yourself."
+    } ]
+  }, {
+    "tStartMs": 1934760,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "And with Brilliant, it's super easy."
+    } ]
+  }, {
+    "tStartMs": 1937340,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "All it takes is a few minutes,"
+    } ]
+  }, {
+    "tStartMs": 1938960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "which could be on your\ncommute, on a break, whenever."
+    } ]
+  }, {
+    "tStartMs": 1942080,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "And before you know it,"
+    } ]
+  }, {
+    "tStartMs": 1943160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you're ending each day a bit smarter."
+    } ]
+  }, {
+    "tStartMs": 1945560,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So to try everything Brilliant\nhas to offer for free"
+    } ]
+  }, {
+    "tStartMs": 1947930,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "for a full 30 days,"
+    } ]
+  }, {
+    "tStartMs": 1949070,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "visit brilliant.org/veritasium,"
+    } ]
+  }, {
+    "tStartMs": 1951560,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "click that link in the\ndescription or scan this QR code."
+    } ]
+  }, {
+    "tStartMs": 1954620,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "And if you sign up,"
+    } ]
+  }, {
+    "tStartMs": 1955580,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "you'll also get 20% off their\nannual premium subscription."
+    } ]
+  }, {
+    "tStartMs": 1958940,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor sponsoring this video"
+    } ]
+  }, {
+    "tStartMs": 1961250,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

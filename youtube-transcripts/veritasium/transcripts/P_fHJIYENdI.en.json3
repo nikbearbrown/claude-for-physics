@@ -1,0 +1,3463 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 450,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "What if, all"
+    } ]
+  }, {
+    "tStartMs": 1590,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "of the world's biggest\nproblems from climate change,"
+    } ]
+  }, {
+    "tStartMs": 4170,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "to curing diseases, to\ndisposal of plastic waste,"
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "what if they all had the same solution?"
+    } ]
+  }, {
+    "tStartMs": 10590,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "A solution so tiny it would be invisible."
+    } ]
+  }, {
+    "tStartMs": 14040,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I'm inclined to believe this is possible,"
+    } ]
+  }, {
+    "tStartMs": 16170,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "thanks to a recent\nbreakthrough that solved one"
+    } ]
+  }, {
+    "tStartMs": 18300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "of the biggest problems\nof the last century."
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "How to determine the\nstructure of a protein?"
+    } ]
+  }, {
+    "tStartMs": 23670,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- It's been described to me as equivalent"
+    } ]
+  }, {
+    "tStartMs": 25530,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "to Fermat's last theorem, but for biology."
+    } ]
+  }, {
+    "tStartMs": 28410,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- Over six decades, tens of thousands"
+    } ]
+  }, {
+    "tStartMs": 30540,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "of biologists painstakingly worked out"
+    } ]
+  }, {
+    "tStartMs": 32550,
+    "dDurationMs": 3232,
+    "segs": [ {
+      "utf8": "the structure of 150,000 proteins."
+    } ]
+  }, {
+    "tStartMs": 35782,
+    "dDurationMs": 2888,
+    "segs": [ {
+      "utf8": "Then in just a few years, a team of"
+    } ]
+  }, {
+    "tStartMs": 38670,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "around 15 determined the\nstructure of 200 million."
+    } ]
+  }, {
+    "tStartMs": 42990,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "That's basically every protein\nknown to exist in nature."
+    } ]
+  }, {
+    "tStartMs": 46650,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So how did they do it"
+    } ]
+  }, {
+    "tStartMs": 48360,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "and why does this have the potential"
+    } ]
+  }, {
+    "tStartMs": 49950,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "to solve problems way\noutside the realm of biology?"
+    } ]
+  }, {
+    "tStartMs": 55940,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "A protein starts simply as\na string of amino acids."
+    } ]
+  }, {
+    "tStartMs": 59610,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Each amino acid has a\ncarbon atom at the center."
+    } ]
+  }, {
+    "tStartMs": 62250,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Then on one side is an amine group,"
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and on the other side is a carboxyl group."
+    } ]
+  }, {
+    "tStartMs": 67200,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And the last thing it's\nbonded to could be one"
+    } ]
+  }, {
+    "tStartMs": 69210,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "of 20 different side chains,"
+    } ]
+  }, {
+    "tStartMs": 71460,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "and which one determines which"
+    } ]
+  }, {
+    "tStartMs": 73200,
+    "dDurationMs": 3393,
+    "segs": [ {
+      "utf8": "of the 20 different amino\nacids this molecule is."
+    } ]
+  }, {
+    "tStartMs": 77456,
+    "dDurationMs": 2674,
+    "segs": [ {
+      "utf8": "The amine group from\none amino acid can react"
+    } ]
+  }, {
+    "tStartMs": 80130,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "with the carboxyl group of\nanother to form a peptide bond."
+    } ]
+  }, {
+    "tStartMs": 83970,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So a series of amino acids\ncan bond to form a string"
+    } ]
+  }, {
+    "tStartMs": 87870,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "and pushing and pulling"
+    } ]
+  }, {
+    "tStartMs": 89100,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "between countless molecules,\nelectrostatic forces,"
+    } ]
+  }, {
+    "tStartMs": 91950,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "hydrogen bonds, solvent interactions"
+    } ]
+  }, {
+    "tStartMs": 94470,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "can cause this string to\ncoil up and fold onto itself."
+    } ]
+  }, {
+    "tStartMs": 97770,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "This ultimately determines the\n3D structure of the protein."
+    } ]
+  }, {
+    "tStartMs": 101940,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "And this shape is the thing"
+    } ]
+  }, {
+    "tStartMs": 103350,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "that really matters about the protein."
+    } ]
+  }, {
+    "tStartMs": 105840,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "It's built for a specific purpose,"
+    } ]
+  }, {
+    "tStartMs": 108060,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "like how hemoglobin has\nthe perfect binding site"
+    } ]
+  }, {
+    "tStartMs": 110430,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "to carry around oxygen in your blood."
+    } ]
+  }, {
+    "tStartMs": 113790,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- These are machines, they need"
+    } ]
+  }, {
+    "tStartMs": 115140,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "to be in their correct orientation\nin order to work together"
+    } ]
+  }, {
+    "tStartMs": 118530,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "to move, for example, the\nproteins in your muscles."
+    } ]
+  }, {
+    "tStartMs": 121080,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "They change their shape a little bit"
+    } ]
+  }, {
+    "tStartMs": 122460,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "in order to pull and contract."
+    } ]
+  }, {
+    "tStartMs": 124410,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "- But it would take people a long time"
+    } ]
+  }, {
+    "tStartMs": 126780,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "to get the structure of just one protein."
+    } ]
+  }, {
+    "tStartMs": 128850,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Absolutely."
+    } ]
+  }, {
+    "tStartMs": 129683,
+    "dDurationMs": 1897,
+    "segs": [ {
+      "utf8": "So what should proteins look like?"
+    } ]
+  }, {
+    "tStartMs": 131580,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Was only started to answer really"
+    } ]
+  }, {
+    "tStartMs": 132930,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "with experimental techniques."
+    } ]
+  }, {
+    "tStartMs": 135060,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- [Derek] The first way protein\nstructure was determined"
+    } ]
+  }, {
+    "tStartMs": 137190,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "was by creating a crystal\nout of that protein."
+    } ]
+  }, {
+    "tStartMs": 140310,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "This was then exposed to x-rays"
+    } ]
+  }, {
+    "tStartMs": 142260,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "to get a diffraction pattern,"
+    } ]
+  }, {
+    "tStartMs": 144270,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and then scientists would work backwards"
+    } ]
+  }, {
+    "tStartMs": 146310,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "to try to figure out what shape"
+    } ]
+  }, {
+    "tStartMs": 147780,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "of molecules would create such a pattern."
+    } ]
+  }, {
+    "tStartMs": 151680,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "It took British biochemist,\nJohn Kendrew, 12 years"
+    } ]
+  }, {
+    "tStartMs": 154530,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "to get the first protein structure."
+    } ]
+  }, {
+    "tStartMs": 156660,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "His target was an oxygen storing\nprotein called myoglobin,"
+    } ]
+  }, {
+    "tStartMs": 160230,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "an important protein in our hearts."
+    } ]
+  }, {
+    "tStartMs": 163170,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "He first tried a horse heart,"
+    } ]
+  }, {
+    "tStartMs": 165090,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but this produced rather small crystals"
+    } ]
+  }, {
+    "tStartMs": 166890,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "because it didn't have enough myoglobin."
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "He knew diving mammals would have lots"
+    } ]
+  }, {
+    "tStartMs": 172110,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "of myoglobin in their muscles"
+    } ]
+  }, {
+    "tStartMs": 173490,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "since they're the best\nat conserving oxygen."
+    } ]
+  }, {
+    "tStartMs": 175890,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So he obtained a huge chunk\nof whale meat from Peru."
+    } ]
+  }, {
+    "tStartMs": 179970,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "This finally gave Kendrew\nlarge enough crystals"
+    } ]
+  }, {
+    "tStartMs": 182190,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "to create an x-ray diffraction image."
+    } ]
+  }, {
+    "tStartMs": 184980,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "- And when it came out,\nit looked really weird."
+    } ]
+  }, {
+    "tStartMs": 187410,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "People expected something"
+    } ]
+  }, {
+    "tStartMs": 188700,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "kind of logical,\nmathematical, understandable,"
+    } ]
+  }, {
+    "tStartMs": 191310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and it almost looked, I\nwouldn't say ugly, but intricate"
+    } ]
+  }, {
+    "tStartMs": 194370,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "and complex and kind"
+    } ]
+  }, {
+    "tStartMs": 195600,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "of like if you see a rocket motor,"
+    } ]
+  }, {
+    "tStartMs": 198330,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and all the parts hanging off."
+    } ]
+  }, {
+    "tStartMs": 200010,
+    "dDurationMs": 1687,
+    "segs": [ {
+      "utf8": "- [Derek] This structure,\nwhich has been called"
+    } ]
+  }, {
+    "tStartMs": 201697,
+    "dDurationMs": 1673,
+    "segs": [ {
+      "utf8": "\"Turd of the century,\""
+    } ]
+  }, {
+    "tStartMs": 203370,
+    "dDurationMs": 3783,
+    "segs": [ {
+      "utf8": "won Kendrew, the 1962\nNobel Prize in chemistry."
+    } ]
+  }, {
+    "tStartMs": 208230,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Over the next two decades,"
+    } ]
+  }, {
+    "tStartMs": 209520,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "only around a hundred more\nstructures were resolved."
+    } ]
+  }, {
+    "tStartMs": 212850,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Even today, protein crystallization\nremains a big challenge."
+    } ]
+  }, {
+    "tStartMs": 216990,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "- Frankly it is not uncommon"
+    } ]
+  }, {
+    "tStartMs": 218790,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that just a couple protein structures"
+    } ]
+  }, {
+    "tStartMs": 221070,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "can be someone's entire PhD."
+    } ]
+  }, {
+    "tStartMs": 222690,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Sometimes just one, sometimes\neven just progress toward one,"
+    } ]
+  }, {
+    "tStartMs": 226200,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "- And it's expensive."
+    } ]
+  }, {
+    "tStartMs": 227460,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "X-ray crystallography\ncan cost 10s of thousands"
+    } ]
+  }, {
+    "tStartMs": 230100,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "of dollars per protein."
+    } ]
+  }, {
+    "tStartMs": 232110,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So scientists sought another way"
+    } ]
+  }, {
+    "tStartMs": 233820,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "to work out protein structure."
+    } ]
+  }, {
+    "tStartMs": 235380,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "It only costs around a hundred dollars"
+    } ]
+  }, {
+    "tStartMs": 237570,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "to find a protein sequence of amino acids."
+    } ]
+  }, {
+    "tStartMs": 240240,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "So if you could use this to figure out"
+    } ]
+  }, {
+    "tStartMs": 242070,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "how the protein would fold,"
+    } ]
+  }, {
+    "tStartMs": 243480,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "that would save a lot of\ntime, effort, and money."
+    } ]
+  }, {
+    "tStartMs": 247110,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "I kind of know how carbon behaves"
+    } ]
+  }, {
+    "tStartMs": 248520,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and I know how carbon sticks to a sulfur"
+    } ]
+  }, {
+    "tStartMs": 250140,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and how that might stick\nnext to a nitrogen."
+    } ]
+  }, {
+    "tStartMs": 252780,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "And if these ones are here,"
+    } ]
+  }, {
+    "tStartMs": 253710,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "then I can imagine this one\nfolding, making that bond there."
+    } ]
+  }, {
+    "tStartMs": 255930,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So it seems like if you have some sense"
+    } ]
+  }, {
+    "tStartMs": 257640,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "of basic molecular dynamics,\nyou might be able to figure out"
+    } ]
+  }, {
+    "tStartMs": 261630,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "how this protein's gonna fold."
+    } ]
+  }, {
+    "tStartMs": 262800,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "- One of the few true\npredictions in biology"
+    } ]
+  }, {
+    "tStartMs": 265230,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "was actually Linus Pauling\nlooking at just the geometry"
+    } ]
+  }, {
+    "tStartMs": 268260,
+    "dDurationMs": 1077,
+    "segs": [ {
+      "utf8": "of the building blocks of proteins"
+    } ]
+  }, {
+    "tStartMs": 269337,
+    "dDurationMs": 3543,
+    "segs": [ {
+      "utf8": "and saying, actually they\nshould make helices and sheets."
+    } ]
+  }, {
+    "tStartMs": 272880,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "That's what we call secondary structure,"
+    } ]
+  }, {
+    "tStartMs": 274470,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "the very local kind of twists\nand turns of the protein."
+    } ]
+  }, {
+    "tStartMs": 277800,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- But beyond helices and sheets,"
+    } ]
+  }, {
+    "tStartMs": 279570,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "biochemists could not figure\nout any reliable patterns"
+    } ]
+  }, {
+    "tStartMs": 282840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that would lead to the final\nstructure of all proteins."
+    } ]
+  }, {
+    "tStartMs": 286200,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "One reason for this is that\nevolution didn't design proteins"
+    } ]
+  }, {
+    "tStartMs": 289440,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "from the ground up."
+    } ]
+  }, {
+    "tStartMs": 290730,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "- It's kind of like a programmer"
+    } ]
+  }, {
+    "tStartMs": 292860,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "that doesn't know what they're doing,"
+    } ]
+  }, {
+    "tStartMs": 294030,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "and whenever it looked good,"
+    } ]
+  }, {
+    "tStartMs": 294990,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "they just kept adding that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 296550,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "And that's how you end up"
+    } ]
+  }, {
+    "tStartMs": 297960,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "with these both amazing objects"
+    } ]
+  }, {
+    "tStartMs": 299610,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and incredibly complex\nand hard to describe."
+    } ]
+  }, {
+    "tStartMs": 302010,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "They don't have purpose\nunderneath them in the same way"
+    } ]
+  }, {
+    "tStartMs": 305040,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "as like a human designed machine would."
+    } ]
+  }, {
+    "tStartMs": 308970,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "- [Derek] To illustrate just\nhow complicated this process"
+    } ]
+  }, {
+    "tStartMs": 311460,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "can get, MIT biologist Cyrus Levinthal did"
+    } ]
+  }, {
+    "tStartMs": 314640,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "a back-of-the-envelope calculation,"
+    } ]
+  }, {
+    "tStartMs": 316680,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and he showed that even\na short protein chain"
+    } ]
+  }, {
+    "tStartMs": 318930,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "with 35 amino acids can fold"
+    } ]
+  }, {
+    "tStartMs": 321330,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "in an astronomical number of ways."
+    } ]
+  }, {
+    "tStartMs": 324780,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So even if a computer checked\nthe energy instability"
+    } ]
+  }, {
+    "tStartMs": 327480,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "of 30,000 configurations every nanosecond,"
+    } ]
+  }, {
+    "tStartMs": 330660,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "it would take 200 times\nthe age of the universe"
+    } ]
+  }, {
+    "tStartMs": 333960,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "to find the correct structure."
+    } ]
+  }, {
+    "tStartMs": 337894,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "Refusing to give up,"
+    } ]
+  }, {
+    "tStartMs": 339660,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the University of Maryland\nprofessor John Moult"
+    } ]
+  }, {
+    "tStartMs": 341700,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "started a competition called CASP in 1994."
+    } ]
+  }, {
+    "tStartMs": 345630,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "The challenge was simple,\nto design a computer model"
+    } ]
+  }, {
+    "tStartMs": 348600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "that could take an amino acid sequence"
+    } ]
+  }, {
+    "tStartMs": 350520,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and output its structure."
+    } ]
+  }, {
+    "tStartMs": 352710,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "The modelers would not\nknow the correct structure"
+    } ]
+  }, {
+    "tStartMs": 355440,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "beforehand, but the output from\neach model would be compared"
+    } ]
+  }, {
+    "tStartMs": 359040,
+    "dDurationMs": 2493,
+    "segs": [ {
+      "utf8": "to the experimentally\ndetermined structure."
+    } ]
+  }, {
+    "tStartMs": 362511,
+    "dDurationMs": 2349,
+    "segs": [ {
+      "utf8": "A perfect match would\nget a score of a hundred,"
+    } ]
+  }, {
+    "tStartMs": 364860,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "but anything over 90 was\nconsidered close enough"
+    } ]
+  }, {
+    "tStartMs": 367560,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "that the structure was solved."
+    } ]
+  }, {
+    "tStartMs": 369810,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "CASP competitors gathered\nat an old wooden chapel"
+    } ]
+  }, {
+    "tStartMs": 372480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "turned conference center\nin Monterey, California,"
+    } ]
+  }, {
+    "tStartMs": 375480,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and at any point where a\nprediction didn't make sense,"
+    } ]
+  }, {
+    "tStartMs": 377910,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "they were encouraged to tap\ntheir feet as friendly banter."
+    } ]
+  }, {
+    "tStartMs": 381540,
+    "dDurationMs": 2309,
+    "segs": [ {
+      "utf8": "There was a lot of foot tapping."
+    } ]
+  }, {
+    "tStartMs": 383849,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "(foot tapping)"
+    } ]
+  }, {
+    "tStartMs": 385680,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "In the first year, teams\ncould not achieve scores"
+    } ]
+  }, {
+    "tStartMs": 388290,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "higher than 40."
+    } ]
+  }, {
+    "tStartMs": 390000,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "The early front runner was\nan algorithm called Rosetta,"
+    } ]
+  }, {
+    "tStartMs": 393270,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "created by University of\nWashington biologist David Baker."
+    } ]
+  }, {
+    "tStartMs": 397050,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "One of his innovations\nwas to boost computation"
+    } ]
+  }, {
+    "tStartMs": 399660,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "by pooling together processing\npower from idle computers"
+    } ]
+  }, {
+    "tStartMs": 402870,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "in homes, schools, and\nlibraries that volunteered"
+    } ]
+  }, {
+    "tStartMs": 405990,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "to install his software\ncalled Rosetta at Home."
+    } ]
+  }, {
+    "tStartMs": 409440,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "- As part of it, there was a screensaver"
+    } ]
+  }, {
+    "tStartMs": 411090,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "that showed basically the course"
+    } ]
+  }, {
+    "tStartMs": 412440,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "of the protein folding calculation."
+    } ]
+  }, {
+    "tStartMs": 415650,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And then we started getting\npeople writing in saying"
+    } ]
+  }, {
+    "tStartMs": 417810,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "that they were watching the screensaver"
+    } ]
+  }, {
+    "tStartMs": 419730,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "and they thought they could\ndo better than the computer."
+    } ]
+  }, {
+    "tStartMs": 422550,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "- So Baker had an idea."
+    } ]
+  }, {
+    "tStartMs": 424350,
+    "dDurationMs": 2137,
+    "segs": [ {
+      "utf8": "He created a video game."
+    } ]
+  }, {
+    "tStartMs": 426487,
+    "dDurationMs": 2153,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 428640,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "The game called Fold It,"
+    } ]
+  }, {
+    "tStartMs": 430110,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "set up a protein chain capable of twisting"
+    } ]
+  }, {
+    "tStartMs": 432510,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and turning into different arrangements."
+    } ]
+  }, {
+    "tStartMs": 434970,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "- But now instead of the\ncomputer making the moves,"
+    } ]
+  }, {
+    "tStartMs": 437940,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the game players, the\nhumans could make the moves."
+    } ]
+  }, {
+    "tStartMs": 440220,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "- Within three weeks,"
+    } ]
+  }, {
+    "tStartMs": 441300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "more than 50,000 gamers pooled"
+    } ]
+  }, {
+    "tStartMs": 443400,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "their efforts to decipher an enzyme"
+    } ]
+  }, {
+    "tStartMs": 445140,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that plays a key role in HIV."
+    } ]
+  }, {
+    "tStartMs": 447600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "X-Ray crystallography showed\ntheir result was correct."
+    } ]
+  }, {
+    "tStartMs": 450720,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "The gamers even got credited"
+    } ]
+  }, {
+    "tStartMs": 452310,
+    "dDurationMs": 2013,
+    "segs": [ {
+      "utf8": "as co-authors on the research paper."
+    } ]
+  }, {
+    "tStartMs": 456120,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Now, one man who played Fold It"
+    } ]
+  }, {
+    "tStartMs": 457800,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "was a former child chess\nprodigy named Demis Hassabis."
+    } ]
+  }, {
+    "tStartMs": 461340,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Hassabis had recently started\nan AI company called DeepMind."
+    } ]
+  }, {
+    "tStartMs": 465180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Their AI algorithm, AlphaGo made headlines"
+    } ]
+  }, {
+    "tStartMs": 467880,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "for beating world champion\nLee Sedol at the game of Go."
+    } ]
+  }, {
+    "tStartMs": 471690,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "One of AlphaGo's moves, move\n37, shook Sedol to his core."
+    } ]
+  }, {
+    "tStartMs": 476820,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "But Hassabis never forgot about\nhis time as a Fold It gamer."
+    } ]
+  }, {
+    "tStartMs": 480720,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- So of course I was fascinated this"
+    } ]
+  }, {
+    "tStartMs": 482280,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "just from games design perspective."
+    } ]
+  }, {
+    "tStartMs": 483750,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "You know, wouldn't it be\namazing if we could mimic"
+    } ]
+  }, {
+    "tStartMs": 485880,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "the intuition of these gamers\nwho were only, by the way,"
+    } ]
+  }, {
+    "tStartMs": 488940,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "of course, amateur biologists."
+    } ]
+  }, {
+    "tStartMs": 491130,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- After returning from Korea,"
+    } ]
+  }, {
+    "tStartMs": 492870,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "DeepMind researchers had\na week-long hackathon"
+    } ]
+  }, {
+    "tStartMs": 495030,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "where they tried to\ntrain AI to play Fold It."
+    } ]
+  }, {
+    "tStartMs": 498270,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "This was the beginning of\nHassabis' longstanding goal"
+    } ]
+  }, {
+    "tStartMs": 501270,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "of using AI to advance science."
+    } ]
+  }, {
+    "tStartMs": 503700,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "He initiated a new\nproject called Alpha Fold"
+    } ]
+  }, {
+    "tStartMs": 506520,
+    "dDurationMs": 2193,
+    "segs": [ {
+      "utf8": "to solve the protein folding problem."
+    } ]
+  }, {
+    "tStartMs": 510030,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Meanwhile at CASP, the quality"
+    } ]
+  }, {
+    "tStartMs": 511920,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "of prediction from the best performers,"
+    } ]
+  }, {
+    "tStartMs": 513450,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "including Rosetta had plateaued."
+    } ]
+  }, {
+    "tStartMs": 516240,
+    "dDurationMs": 3483,
+    "segs": [ {
+      "utf8": "In fact, the performance went\ndownhill after CASP eight."
+    } ]
+  }, {
+    "tStartMs": 520890,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "The predictions weren't good enough,"
+    } ]
+  }, {
+    "tStartMs": 522360,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "even with faster computers"
+    } ]
+  }, {
+    "tStartMs": 523830,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and a growing number of structures"
+    } ]
+  }, {
+    "tStartMs": 525330,
+    "dDurationMs": 1863,
+    "segs": [ {
+      "utf8": "in the protein data bank to train on."
+    } ]
+  }, {
+    "tStartMs": 528390,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "DeepMind hoped to change\nthis with AlphaFold."
+    } ]
+  }, {
+    "tStartMs": 532380,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Its first iteration, AlphaFold 1,"
+    } ]
+  }, {
+    "tStartMs": 534540,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "was a standard off-the-shelf\ndeep neural network like"
+    } ]
+  }, {
+    "tStartMs": 537060,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "the ones used for computer\nvision at that time."
+    } ]
+  }, {
+    "tStartMs": 539880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The researchers trained it on lots"
+    } ]
+  }, {
+    "tStartMs": 541920,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and lots of protein structures\nfrom the protein data bank."
+    } ]
+  }, {
+    "tStartMs": 545580,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "As input, AlphaFold took the\nprotein's amino acid sequence"
+    } ]
+  }, {
+    "tStartMs": 549060,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "and an important set of\nclues given by evolution."
+    } ]
+  }, {
+    "tStartMs": 553680,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Evolution is driven by mutations,"
+    } ]
+  }, {
+    "tStartMs": 555810,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "changes in the genetic code,"
+    } ]
+  }, {
+    "tStartMs": 557160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "which in turn change the amino acids"
+    } ]
+  }, {
+    "tStartMs": 559440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "within a given protein sequence."
+    } ]
+  }, {
+    "tStartMs": 561600,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "But as species evolve, proteins\nneed to retain the shape"
+    } ]
+  }, {
+    "tStartMs": 564690,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "that allows them to perform\ntheir specific function."
+    } ]
+  }, {
+    "tStartMs": 567270,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "For instance, hemoglobin looks\nthe same in humans, cats,"
+    } ]
+  }, {
+    "tStartMs": 570720,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "horses, and basically any mammal."
+    } ]
+  }, {
+    "tStartMs": 573150,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Evolution says, if it\nain't broke, don't fix it."
+    } ]
+  }, {
+    "tStartMs": 576270,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So we can compare sequences"
+    } ]
+  }, {
+    "tStartMs": 577950,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "of the same protein\nacross different species"
+    } ]
+  }, {
+    "tStartMs": 580170,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "in this evolutionary table."
+    } ]
+  }, {
+    "tStartMs": 582660,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Where sequences are similar,"
+    } ]
+  }, {
+    "tStartMs": 584190,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "it's likely they are important"
+    } ]
+  }, {
+    "tStartMs": 585870,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "in the protein structure and function."
+    } ]
+  }, {
+    "tStartMs": 588120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "But even where the\nsequences are different,"
+    } ]
+  }, {
+    "tStartMs": 590160,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "it's helpful to look at where\nmutations happen in pairs"
+    } ]
+  }, {
+    "tStartMs": 594090,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "because they can identify\nwhich amino acids"
+    } ]
+  }, {
+    "tStartMs": 596700,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "are close to each other\nin the final structure."
+    } ]
+  }, {
+    "tStartMs": 599550,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Say two amino acids, a\npositively charged lysine"
+    } ]
+  }, {
+    "tStartMs": 602760,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and a negatively charged\nglutamic acid attract"
+    } ]
+  }, {
+    "tStartMs": 605700,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and hold each other in the folded protein."
+    } ]
+  }, {
+    "tStartMs": 608610,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now, if a mutation changes lysine"
+    } ]
+  }, {
+    "tStartMs": 610800,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to a negatively charged amino acid,"
+    } ]
+  }, {
+    "tStartMs": 613080,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "it would repel glutamic acid"
+    } ]
+  }, {
+    "tStartMs": 615060,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and destabilize the whole protein."
+    } ]
+  }, {
+    "tStartMs": 617250,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Therefore, another mutation\nmust replace glutamic acid"
+    } ]
+  }, {
+    "tStartMs": 620550,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "with a positively charged amino acid."
+    } ]
+  }, {
+    "tStartMs": 623340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This is known as co-evolution."
+    } ]
+  }, {
+    "tStartMs": 625860,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "These evolutionary tables"
+    } ]
+  }, {
+    "tStartMs": 627210,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "were an important input for AlphaFold."
+    } ]
+  }, {
+    "tStartMs": 631620,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "As output, instead of directly\nproducing a 3D structure,"
+    } ]
+  }, {
+    "tStartMs": 635250,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "AlphaFold predicted a simpler\n2D pair representation"
+    } ]
+  }, {
+    "tStartMs": 638760,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "of that structure."
+    } ]
+  }, {
+    "tStartMs": 640020,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "The amino acid sequence"
+    } ]
+  }, {
+    "tStartMs": 641550,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "is laid out horizontally and vertically."
+    } ]
+  }, {
+    "tStartMs": 643980,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Whenever two amino acids are close"
+    } ]
+  }, {
+    "tStartMs": 645870,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "to each other in the final structure,"
+    } ]
+  }, {
+    "tStartMs": 647400,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "their corresponding row\ncolumn intersection is bright."
+    } ]
+  }, {
+    "tStartMs": 652290,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "Distant amino acid pairs are dim."
+    } ]
+  }, {
+    "tStartMs": 656940,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "In addition to distances,"
+    } ]
+  }, {
+    "tStartMs": 658170,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "the pair representation\ncan also hold information"
+    } ]
+  }, {
+    "tStartMs": 660600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "on how amino acid molecules are twisted"
+    } ]
+  }, {
+    "tStartMs": 663120,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "within the structure."
+    } ]
+  }, {
+    "tStartMs": 665130,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "AlphaFold 1 fed the protein sequence"
+    } ]
+  }, {
+    "tStartMs": 667230,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and its evolutionary table\ninto its deep neural network,"
+    } ]
+  }, {
+    "tStartMs": 670320,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "which it had trained to predict\nthe pair representation."
+    } ]
+  }, {
+    "tStartMs": 674010,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Once it had this, a\nseparate algorithm folded"
+    } ]
+  }, {
+    "tStartMs": 676500,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "the amino acid string based"
+    } ]
+  }, {
+    "tStartMs": 678090,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "on the distance and torsion constraints."
+    } ]
+  }, {
+    "tStartMs": 680640,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "And this was the final\nprotein structure prediction."
+    } ]
+  }, {
+    "tStartMs": 684480,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "With this framework,\nAlphaFold entered CASP 13"
+    } ]
+  }, {
+    "tStartMs": 688110,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and it immediately turned heads."
+    } ]
+  }, {
+    "tStartMs": 691080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "It was the clear winner\nafter many additions,"
+    } ]
+  }, {
+    "tStartMs": 694680,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "but it wasn't perfect."
+    } ]
+  }, {
+    "tStartMs": 696720,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Its score of 70 was not enough"
+    } ]
+  }, {
+    "tStartMs": 698610,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "to clear the CASP threshold of 90."
+    } ]
+  }, {
+    "tStartMs": 702600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "DeepMind needed to get\nback to the drawing board"
+    } ]
+  }, {
+    "tStartMs": 704760,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "to get better results."
+    } ]
+  }, {
+    "tStartMs": 706140,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "So Hassabis recruited John\nJumper to lead AlphaFold."
+    } ]
+  }, {
+    "tStartMs": 710077,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "- AlphaFold 2 was really\na system about designing"
+    } ]
+  }, {
+    "tStartMs": 712980,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "our deep learning."
+    } ]
+  }, {
+    "tStartMs": 714120,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "The individual blocks to be\ngood at learning about proteins,"
+    } ]
+  }, {
+    "tStartMs": 717210,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "have the types of geometric\nphysical, evolutionary concepts"
+    } ]
+  }, {
+    "tStartMs": 721320,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "that were needed and put it\ninto the middle of the network"
+    } ]
+  }, {
+    "tStartMs": 723630,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "instead of a process around it."
+    } ]
+  }, {
+    "tStartMs": 724860,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And that was a tremendous accuracy boost."
+    } ]
+  }, {
+    "tStartMs": 727380,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "- [Derek] There were three key steps\nto get better results with AI."
+    } ]
+  }, {
+    "tStartMs": 731040,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "First, maximum compute power."
+    } ]
+  }, {
+    "tStartMs": 733680,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Here, DeepMind was\nalready better positioned"
+    } ]
+  }, {
+    "tStartMs": 735930,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "than anybody in the world."
+    } ]
+  }, {
+    "tStartMs": 738180,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "It had access to the enormous\ncomputing power of Google,"
+    } ]
+  }, {
+    "tStartMs": 741060,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "including their tensor processing units."
+    } ]
+  }, {
+    "tStartMs": 744180,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Second, they needed a\nlarge and diverse data set."
+    } ]
+  }, {
+    "tStartMs": 747660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Is data the biggest roadblock and why?"
+    } ]
+  }, {
+    "tStartMs": 751200,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "- I think it's too easy to\nsay data's the roadblock"
+    } ]
+  }, {
+    "tStartMs": 753960,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "and we should be careful about it."
+    } ]
+  }, {
+    "tStartMs": 754793,
+    "dDurationMs": 2947,
+    "segs": [ {
+      "utf8": "AlphaFold 2 was trained on\nthe exact same data with much,"
+    } ]
+  }, {
+    "tStartMs": 757740,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "much better machine\nlearning as AlphaFold 1."
+    } ]
+  }, {
+    "tStartMs": 761430,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So everyone overestimates\nthe data blockage"
+    } ]
+  }, {
+    "tStartMs": 764160,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "because it gets less severe\nwith better machine learning."
+    } ]
+  }, {
+    "tStartMs": 768840,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "- [Derek] And that was the third key\nelement, better AI algorithms."
+    } ]
+  }, {
+    "tStartMs": 773010,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Now AI is not just good\nat protein folding."
+    } ]
+  }, {
+    "tStartMs": 776040,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "It can do all kinds of tasks"
+    } ]
+  }, {
+    "tStartMs": 777750,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "that no one likes from writing emails"
+    } ]
+  }, {
+    "tStartMs": 779850,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "to answering phone calls."
+    } ]
+  }, {
+    "tStartMs": 781620,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Something I hate is building\nand maintaining a website."
+    } ]
+  }, {
+    "tStartMs": 784950,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "It's so much work from\noptimizing the website"
+    } ]
+  }, {
+    "tStartMs": 787680,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "for different platforms,\nfinding a good design"
+    } ]
+  }, {
+    "tStartMs": 789900,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "so it looks professional\nto constantly updating it"
+    } ]
+  }, {
+    "tStartMs": 792840,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "with new information about\nthe business as it grows."
+    } ]
+  }, {
+    "tStartMs": 796260,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "That's why we partnered with Hostinger,"
+    } ]
+  }, {
+    "tStartMs": 798270,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "the sponsor of today's video."
+    } ]
+  }, {
+    "tStartMs": 800370,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Hostinger makes it super\neasy to build a website"
+    } ]
+  }, {
+    "tStartMs": 802980,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "for yourself or your business."
+    } ]
+  }, {
+    "tStartMs": 804390,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "And with their advanced AI\ntools, you can simply describe"
+    } ]
+  }, {
+    "tStartMs": 808020,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "what you want your website to look like."
+    } ]
+  }, {
+    "tStartMs": 810090,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "And in just a few seconds,"
+    } ]
+  }, {
+    "tStartMs": 811260,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "your personalized website\nis up and running."
+    } ]
+  }, {
+    "tStartMs": 814170,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Hostinger is designed to\nbe as easy as possible"
+    } ]
+  }, {
+    "tStartMs": 816870,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "for beginners and professionals."
+    } ]
+  }, {
+    "tStartMs": 818520,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "So any tweaks you need to make"
+    } ]
+  }, {
+    "tStartMs": 820230,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "after that are super easy too."
+    } ]
+  }, {
+    "tStartMs": 822330,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Just drag and drop any pictures"
+    } ]
+  }, {
+    "tStartMs": 823890,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "or videos you want, where you want them,"
+    } ]
+  }, {
+    "tStartMs": 826110,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "or just type what you want to say"
+    } ]
+  }, {
+    "tStartMs": 828180,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "or have the AI help you here too,"
+    } ]
+  }, {
+    "tStartMs": 829950,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "if writing isn't your thing either."
+    } ]
+  }, {
+    "tStartMs": 831690,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And if you still want that\nhuman touch, Hostinger"
+    } ]
+  }, {
+    "tStartMs": 833820,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "is always available"
+    } ]
+  }, {
+    "tStartMs": 834960,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "with 24/7 support if you\never run into any issues."
+    } ]
+  }, {
+    "tStartMs": 837990,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "But when you're done building\nin just a few clicks,"
+    } ]
+  }, {
+    "tStartMs": 839970,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "your website is live."
+    } ]
+  }, {
+    "tStartMs": 841740,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "It's all incredibly\naffordable too, with a domain"
+    } ]
+  }, {
+    "tStartMs": 844290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "and business email included for free."
+    } ]
+  }, {
+    "tStartMs": 846720,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "So to take your big idea online today,"
+    } ]
+  }, {
+    "tStartMs": 848790,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "visit hostinger.com/ve or\nscan this QR code right here."
+    } ]
+  }, {
+    "tStartMs": 853950,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "And when you sign up, remember\nto use code VE at checkout"
+    } ]
+  }, {
+    "tStartMs": 857280,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "to get 10% off your plan."
+    } ]
+  }, {
+    "tStartMs": 859290,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "I wanna thank Hostinger for sponsoring"
+    } ]
+  }, {
+    "tStartMs": 860910,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "this part of the video."
+    } ]
+  }, {
+    "tStartMs": 861870,
+    "dDurationMs": 1863,
+    "segs": [ {
+      "utf8": "And now back to protein folding."
+    } ]
+  }, {
+    "tStartMs": 864660,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "As the AlphaFold 2 team\nsearched for better algorithms,"
+    } ]
+  }, {
+    "tStartMs": 867540,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "they turned to the transformer."
+    } ]
+  }, {
+    "tStartMs": 869340,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "That's the T in ChatGPT."
+    } ]
+  }, {
+    "tStartMs": 871950,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "And it relies on a\nconcept called attention."
+    } ]
+  }, {
+    "tStartMs": 875100,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "In the sentence,"
+    } ]
+  }, {
+    "tStartMs": 875933,
+    "dDurationMs": 3517,
+    "segs": [ {
+      "utf8": "the animal didn't cross the\nstreet because it was too tired."
+    } ]
+  }, {
+    "tStartMs": 879450,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Attention recognizes\nthat it refers to animal"
+    } ]
+  }, {
+    "tStartMs": 882300,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and not street based on the word tired."
+    } ]
+  }, {
+    "tStartMs": 885750,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Attention adds context to any\nkind of sequential information"
+    } ]
+  }, {
+    "tStartMs": 889380,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "by breaking it down into chunks,"
+    } ]
+  }, {
+    "tStartMs": 891510,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "converting these into\nnumerical representations"
+    } ]
+  }, {
+    "tStartMs": 893730,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "or embeddings and making\nconnections between them."
+    } ]
+  }, {
+    "tStartMs": 896910,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "In this case, the word it and animal."
+    } ]
+  }, {
+    "tStartMs": 900030,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "3Blue1Brown has a great series"
+    } ]
+  }, {
+    "tStartMs": 901860,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "of videos specifically about\ntransformers and attention."
+    } ]
+  }, {
+    "tStartMs": 906210,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Large language models use attention"
+    } ]
+  }, {
+    "tStartMs": 907950,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "to predict the most appropriate\nword to add to a sentence,"
+    } ]
+  }, {
+    "tStartMs": 910860,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "but AlphaFold also has\nsequential information,"
+    } ]
+  }, {
+    "tStartMs": 913740,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "not sentences, but amino acid sequences."
+    } ]
+  }, {
+    "tStartMs": 917100,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "And to analyze them,"
+    } ]
+  }, {
+    "tStartMs": 918150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "the AlphaFold team built their own version"
+    } ]
+  }, {
+    "tStartMs": 920460,
+    "dDurationMs": 2613,
+    "segs": [ {
+      "utf8": "of the transformer called an EVO Former."
+    } ]
+  }, {
+    "tStartMs": 924090,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "The EVO Former contained two towers,"
+    } ]
+  }, {
+    "tStartMs": 926790,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "evolutionary information\nin the biology tower"
+    } ]
+  }, {
+    "tStartMs": 929520,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "and pair representations\nin the geometry tower."
+    } ]
+  }, {
+    "tStartMs": 933090,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Gone was AlphaFold 1's deep\nneural network that started"
+    } ]
+  }, {
+    "tStartMs": 936180,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "with one tower and predicted the other."
+    } ]
+  }, {
+    "tStartMs": 938400,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Instead, AlphaFold 2's EVO Former"
+    } ]
+  }, {
+    "tStartMs": 940620,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "builds each tower separately."
+    } ]
+  }, {
+    "tStartMs": 942480,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It starts with some initial guesses,"
+    } ]
+  }, {
+    "tStartMs": 944550,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "evolutionary tables taken from\nknown data sets as before,"
+    } ]
+  }, {
+    "tStartMs": 948150,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and the pair representations"
+    } ]
+  }, {
+    "tStartMs": 949560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "based on similar known proteins."
+    } ]
+  }, {
+    "tStartMs": 951960,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "And this time there's a bridge\nconnecting the two towers"
+    } ]
+  }, {
+    "tStartMs": 954690,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "that conveys newly found\nbiological and geometry clues"
+    } ]
+  }, {
+    "tStartMs": 958350,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "back and forth."
+    } ]
+  }, {
+    "tStartMs": 960030,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "In the biology tower,"
+    } ]
+  }, {
+    "tStartMs": 961260,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "attention applied on a column identifies"
+    } ]
+  }, {
+    "tStartMs": 963390,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "amino acid sequences\nthat have been conserved."
+    } ]
+  }, {
+    "tStartMs": 966540,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "While along a row, it\nfinds amino acid mutations"
+    } ]
+  }, {
+    "tStartMs": 969390,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "that have occurred together."
+    } ]
+  }, {
+    "tStartMs": 971070,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Whenever the EVO Former finds\ntoo closely linked amino acids"
+    } ]
+  }, {
+    "tStartMs": 974490,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "in the evolutionary table."
+    } ]
+  }, {
+    "tStartMs": 975900,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "It means they are important to structure"
+    } ]
+  }, {
+    "tStartMs": 978210,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and it sends this information\nto the geometry tower."
+    } ]
+  }, {
+    "tStartMs": 980910,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Here attention is applied"
+    } ]
+  }, {
+    "tStartMs": 982440,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "to help calculate distances\nbetween amino acids."
+    } ]
+  }, {
+    "tStartMs": 985410,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "- There's also this thing\ncalled triangular attention"
+    } ]
+  }, {
+    "tStartMs": 988590,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "that got introduced,"
+    } ]
+  }, {
+    "tStartMs": 990270,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "which is essentially about letting"
+    } ]
+  }, {
+    "tStartMs": 991410,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "triplets attend to each other."
+    } ]
+  }, {
+    "tStartMs": 993270,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "- [Derek] For each triplet of amino acids,"
+    } ]
+  }, {
+    "tStartMs": 995160,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "AlphaFold applies the triangle inequality."
+    } ]
+  }, {
+    "tStartMs": 997920,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "The sum of two sides must\nbe greater than the third."
+    } ]
+  }, {
+    "tStartMs": 1001490,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "This constrains how far apart"
+    } ]
+  }, {
+    "tStartMs": 1003320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "these three amino acids can be."
+    } ]
+  }, {
+    "tStartMs": 1005840,
+    "dDurationMs": 3477,
+    "segs": [ {
+      "utf8": "This information is used to\nupdate the pair representation,"
+    } ]
+  }, {
+    "tStartMs": 1009317,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "- And that helps the model produce like"
+    } ]
+  }, {
+    "tStartMs": 1011450,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "a self-consistent\npicture of the structure."
+    } ]
+  }, {
+    "tStartMs": 1013840,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "- [Derek] If the geometry\ntower finds it's impossible"
+    } ]
+  }, {
+    "tStartMs": 1016340,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "for two amino acids to\nbe close to each other,"
+    } ]
+  }, {
+    "tStartMs": 1018680,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "then it tells the first tower"
+    } ]
+  }, {
+    "tStartMs": 1020030,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "to ignore their relationship\nin the evolutionary table."
+    } ]
+  }, {
+    "tStartMs": 1023510,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "This exchange of information\nwithin the EVO Former"
+    } ]
+  }, {
+    "tStartMs": 1026150,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "goes on for 48 times,"
+    } ]
+  }, {
+    "tStartMs": 1028070,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "until information within\nboth towers is refined."
+    } ]
+  }, {
+    "tStartMs": 1031250,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "The geometrical features\nlearned by this network"
+    } ]
+  }, {
+    "tStartMs": 1033440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "are passed onto AlphaFold\n2's second main innovation,"
+    } ]
+  }, {
+    "tStartMs": 1037160,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "the structure module."
+    } ]
+  }, {
+    "tStartMs": 1038750,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "- For each amino acid,"
+    } ]
+  }, {
+    "tStartMs": 1039920,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "we pick three special\natoms in the amino acid"
+    } ]
+  }, {
+    "tStartMs": 1042980,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "and say that those define a frame."
+    } ]
+  }, {
+    "tStartMs": 1044570,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And what the network does is it imagines"
+    } ]
+  }, {
+    "tStartMs": 1046670,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "that all the amino acids\nstart out with the origin"
+    } ]
+  }, {
+    "tStartMs": 1049160,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and it has to predict the\nappropriate translation"
+    } ]
+  }, {
+    "tStartMs": 1051230,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and rotation to move these frames"
+    } ]
+  }, {
+    "tStartMs": 1053300,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to where they sit in the real structure."
+    } ]
+  }, {
+    "tStartMs": 1055040,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So that's essentially what\nthe structure module does."
+    } ]
+  }, {
+    "tStartMs": 1057170,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "- But the thing that sets\nthe structure module apart"
+    } ]
+  }, {
+    "tStartMs": 1059990,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "is what it doesn't do."
+    } ]
+  }, {
+    "tStartMs": 1061880,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- Previously, people might\nhave imagined that you would"
+    } ]
+  }, {
+    "tStartMs": 1064130,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "like to encode the fact that\nthis is a chain, you know,"
+    } ]
+  }, {
+    "tStartMs": 1067490,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and that certain residue\nshould sit next to each other."
+    } ]
+  }, {
+    "tStartMs": 1070790,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "We don't really explicitly\ntell AlphaFold that."
+    } ]
+  }, {
+    "tStartMs": 1073220,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's more like we give\nit a bag of amino acids"
+    } ]
+  }, {
+    "tStartMs": 1076220,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and it's allowed to position\neach of them separately."
+    } ]
+  }, {
+    "tStartMs": 1078770,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "And some people have\nthought that that helps it"
+    } ]
+  }, {
+    "tStartMs": 1082040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "to not get stuck in terms of\nwhere things should be placed."
+    } ]
+  }, {
+    "tStartMs": 1085520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "It doesn't have to always be\nthinking about the constraint"
+    } ]
+  }, {
+    "tStartMs": 1087380,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "of these things forming a chain,"
+    } ]
+  }, {
+    "tStartMs": 1089030,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "that's something that\nemerges naturally later."
+    } ]
+  }, {
+    "tStartMs": 1091640,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "- [Derek] That's why live\nAlphaFold folding videos"
+    } ]
+  }, {
+    "tStartMs": 1093980,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "can show it doing some\nweirdly non-physical stuff."
+    } ]
+  }, {
+    "tStartMs": 1100070,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "The structure module outputs a 3D protein,"
+    } ]
+  }, {
+    "tStartMs": 1102980,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "but it still isn't ready."
+    } ]
+  }, {
+    "tStartMs": 1104870,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "It's recycled at least three more times"
+    } ]
+  }, {
+    "tStartMs": 1107000,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "through the Evo Former to\ngain a deeper understanding"
+    } ]
+  }, {
+    "tStartMs": 1109580,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "of the protein only then the\nfinal prediction is made."
+    } ]
+  }, {
+    "tStartMs": 1115490,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "In December, 2020, DeepMind\nreturned to a virtual CASP"
+    } ]
+  }, {
+    "tStartMs": 1119360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "with AlphaFold 2, and\nthis time they did it."
+    } ]
+  }, {
+    "tStartMs": 1123920,
+    "dDurationMs": 2617,
+    "segs": [ {
+      "utf8": "- I'm going to read an\nemail from John Moult."
+    } ]
+  }, {
+    "tStartMs": 1126537,
+    "dDurationMs": 3803,
+    "segs": [ {
+      "utf8": "\"Your group has performed\namazingly well in CASP 14,"
+    } ]
+  }, {
+    "tStartMs": 1130340,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "both relative to other groups"
+    } ]
+  }, {
+    "tStartMs": 1132350,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and in absolute model accuracy."
+    } ]
+  }, {
+    "tStartMs": 1134840,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Congratulations on this work.\""
+    } ]
+  }, {
+    "tStartMs": 1137450,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "- [Derek] For many proteins,\nAlphaFold 2 predictions"
+    } ]
+  }, {
+    "tStartMs": 1140090,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "were virtually indistinguishable\nfrom the actual structures"
+    } ]
+  }, {
+    "tStartMs": 1143930,
+    "dDurationMs": 3393,
+    "segs": [ {
+      "utf8": "and they finally beat the\ngold standard score of 90."
+    } ]
+  }, {
+    "tStartMs": 1150470,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "- For me, having worked\non this problem so long,"
+    } ]
+  }, {
+    "tStartMs": 1153470,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "after many, many stops and starts,"
+    } ]
+  }, {
+    "tStartMs": 1156050,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and suddenly this is a solution."
+    } ]
+  }, {
+    "tStartMs": 1157880,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "We'd solved the problem."
+    } ]
+  }, {
+    "tStartMs": 1159440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This gives you such excitement\nabout the way science works."
+    } ]
+  }, {
+    "tStartMs": 1163280,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "- [Derek] Over six decades,\nall of the scientists working"
+    } ]
+  }, {
+    "tStartMs": 1166100,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "around the world on\nproteins painstakingly found"
+    } ]
+  }, {
+    "tStartMs": 1169010,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "about 150,000 protein structures."
+    } ]
+  }, {
+    "tStartMs": 1172670,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Then in one fell swoop, AlphaFold came in"
+    } ]
+  }, {
+    "tStartMs": 1175940,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "and unveiled over 200 million of them."
+    } ]
+  }, {
+    "tStartMs": 1179630,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Nearly all proteins\nknown to exist in nature."
+    } ]
+  }, {
+    "tStartMs": 1183620,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "In just a few months,\nAlphaFold advanced the work"
+    } ]
+  }, {
+    "tStartMs": 1186770,
+    "dDurationMs": 3273,
+    "segs": [ {
+      "utf8": "of research labs worldwide\nby several decades."
+    } ]
+  }, {
+    "tStartMs": 1191030,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "It has directly helped us\ndevelop a vaccine for malaria."
+    } ]
+  }, {
+    "tStartMs": 1195020,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It's made possible the breaking down"
+    } ]
+  }, {
+    "tStartMs": 1197090,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "of antibiotic resistance enzymes,"
+    } ]
+  }, {
+    "tStartMs": 1199070,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "which make many life-saving\ndrugs effective again."
+    } ]
+  }, {
+    "tStartMs": 1202340,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's even helped us understand"
+    } ]
+  }, {
+    "tStartMs": 1203540,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "how protein mutations lead"
+    } ]
+  }, {
+    "tStartMs": 1204830,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "to various diseases from\nschizophrenia to cancer,"
+    } ]
+  }, {
+    "tStartMs": 1207800,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and biologists studying little known"
+    } ]
+  }, {
+    "tStartMs": 1209690,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and endangered species suddenly"
+    } ]
+  }, {
+    "tStartMs": 1211640,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "had access to proteins\nand their life mechanism."
+    } ]
+  }, {
+    "tStartMs": 1215630,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "The AlphaFold 2 paper has\nbeen cited over 30,000 times."
+    } ]
+  }, {
+    "tStartMs": 1219740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "It has truly made a step function leap"
+    } ]
+  }, {
+    "tStartMs": 1222320,
+    "dDurationMs": 1593,
+    "segs": [ {
+      "utf8": "in our understanding of life."
+    } ]
+  }, {
+    "tStartMs": 1224870,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "John Jumper and Demis\nHassabis were awarded one half"
+    } ]
+  }, {
+    "tStartMs": 1227540,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "of the 2024 Nobel Prize in\nchemistry for this breakthrough."
+    } ]
+  }, {
+    "tStartMs": 1230900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "The other half went to David Baker,"
+    } ]
+  }, {
+    "tStartMs": 1233000,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "but not for predicting\nstructures using Rosetta."
+    } ]
+  }, {
+    "tStartMs": 1235700,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Instead, it was for designing"
+    } ]
+  }, {
+    "tStartMs": 1237410,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "completely new proteins from scratch."
+    } ]
+  }, {
+    "tStartMs": 1240170,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "- It was really hard to\nmake brand new proteins"
+    } ]
+  }, {
+    "tStartMs": 1242240,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "that would do things."
+    } ]
+  }, {
+    "tStartMs": 1243320,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "And so that's kind of the\nproblem that we solved."
+    } ]
+  }, {
+    "tStartMs": 1245510,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "- To do so, he uses the\nsame kind of generative AI"
+    } ]
+  }, {
+    "tStartMs": 1248630,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that makes art in programs like Dall-E."
+    } ]
+  }, {
+    "tStartMs": 1251630,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "- You can say draw a picture"
+    } ]
+  }, {
+    "tStartMs": 1252770,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "of a kangaroo riding on a rabbit"
+    } ]
+  }, {
+    "tStartMs": 1254210,
+    "dDurationMs": 2418,
+    "segs": [ {
+      "utf8": "or something, and it will do that."
+    } ]
+  }, {
+    "tStartMs": 1256628,
+    "dDurationMs": 1932,
+    "segs": [ {
+      "utf8": "And so it's exactly what\nwe did with proteins."
+    } ]
+  }, {
+    "tStartMs": 1258560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "- His technique called\n\"RF Diffusion\" is trained"
+    } ]
+  }, {
+    "tStartMs": 1261680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "by adding random noise to\na known protein structure,"
+    } ]
+  }, {
+    "tStartMs": 1264800,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and then the AI has to remove this noise."
+    } ]
+  }, {
+    "tStartMs": 1267830,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Once trained in this\nway, the AI can be asked"
+    } ]
+  }, {
+    "tStartMs": 1270290,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "to produce proteins for various functions."
+    } ]
+  }, {
+    "tStartMs": 1272660,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It's given a random noise input,"
+    } ]
+  }, {
+    "tStartMs": 1274760,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and the AI figures out a brand new protein"
+    } ]
+  }, {
+    "tStartMs": 1277730,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "that does what you asked it to do."
+    } ]
+  }, {
+    "tStartMs": 1280400,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "This work has huge implications."
+    } ]
+  }, {
+    "tStartMs": 1282950,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "I mean, imagine you got\nbitten by a venomous snake."
+    } ]
+  }, {
+    "tStartMs": 1285819,
+    "dDurationMs": 3251,
+    "segs": [ {
+      "utf8": "If you're lucky, you'll have\naccess to anti-venom prepared"
+    } ]
+  }, {
+    "tStartMs": 1289070,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "by milking venom from\nthe exact kind of snake,"
+    } ]
+  }, {
+    "tStartMs": 1292130,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "which is then injected into live animals,"
+    } ]
+  }, {
+    "tStartMs": 1295100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and the antibodies from\nthat animal are extracted"
+    } ]
+  }, {
+    "tStartMs": 1297800,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "and refined and then given\nto you as an anti-venom."
+    } ]
+  }, {
+    "tStartMs": 1301610,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "The trouble is often people\nhave allergic reactions"
+    } ]
+  }, {
+    "tStartMs": 1304340,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "to these antibodies from other organisms."
+    } ]
+  }, {
+    "tStartMs": 1306890,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "But your odds of survival\ncan be a lot better"
+    } ]
+  }, {
+    "tStartMs": 1308780,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "with the latest synthetic\nproteins designed in Baker's lab."
+    } ]
+  }, {
+    "tStartMs": 1312200,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "They've created human\ncompatible antibodies"
+    } ]
+  }, {
+    "tStartMs": 1314570,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "that can neutralize lethal snake venom."
+    } ]
+  }, {
+    "tStartMs": 1317120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "This anti-venom could be\nmanufactured in large quantities"
+    } ]
+  }, {
+    "tStartMs": 1320240,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "and easily transported to\nthe places where it's needed."
+    } ]
+  }, {
+    "tStartMs": 1323960,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "With these tiny molecular machines,"
+    } ]
+  }, {
+    "tStartMs": 1325940,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "the possibilities are endless."
+    } ]
+  }, {
+    "tStartMs": 1327950,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "What are the applications\nyou're most excited about?"
+    } ]
+  }, {
+    "tStartMs": 1330380,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "- So I think vaccines are\ngonna be really powerful."
+    } ]
+  }, {
+    "tStartMs": 1332930,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "We have a number of proteins"
+    } ]
+  }, {
+    "tStartMs": 1334100,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "that are in human clinical\ntrials for cancer,"
+    } ]
+  }, {
+    "tStartMs": 1336260,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and we're working on\nautoimmune disease now."
+    } ]
+  }, {
+    "tStartMs": 1338180,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "We're really excited about problems"
+    } ]
+  }, {
+    "tStartMs": 1339950,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "like capturing greenhouse gases."
+    } ]
+  }, {
+    "tStartMs": 1341570,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "So we're designing enzymes"
+    } ]
+  }, {
+    "tStartMs": 1342920,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "that can fix methane, break down plastic."
+    } ]
+  }, {
+    "tStartMs": 1346640,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "- What makes this approach so effective is"
+    } ]
+  }, {
+    "tStartMs": 1348890,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "how fast they can create\nand iterate the proteins."
+    } ]
+  }, {
+    "tStartMs": 1352550,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "- It's really quite miraculous"
+    } ]
+  }, {
+    "tStartMs": 1354440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "for anyone who's a\nconventional school biochemist"
+    } ]
+  }, {
+    "tStartMs": 1356840,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "or protein scientist."
+    } ]
+  }, {
+    "tStartMs": 1358190,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "We can now have designs on the computer,"
+    } ]
+  }, {
+    "tStartMs": 1360830,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "get the amino acid sequence\nof the design proteins,"
+    } ]
+  }, {
+    "tStartMs": 1363530,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "and then in just a couple days\nwe can get the protein out."
+    } ]
+  }, {
+    "tStartMs": 1368060,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Yeah. We've given a name to this,"
+    } ]
+  }, {
+    "tStartMs": 1369320,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "which is \"Cowboy Biochemistry\""
+    } ]
+  }, {
+    "tStartMs": 1371210,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "because we just like, you\njust got kind of go for it"
+    } ]
+  }, {
+    "tStartMs": 1374750,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "as fast as you can, and it\nturns out to work pretty well."
+    } ]
+  }, {
+    "tStartMs": 1378050,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "- What AI has done for\nproteins is just a hint"
+    } ]
+  }, {
+    "tStartMs": 1380840,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "of what it can do in other fields"
+    } ]
+  }, {
+    "tStartMs": 1382880,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and on larger scales."
+    } ]
+  }, {
+    "tStartMs": 1385070,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "In materials science, for example,"
+    } ]
+  }, {
+    "tStartMs": 1386840,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "DeepMind's GNoME program has\nfound 2.2 million new crystals,"
+    } ]
+  }, {
+    "tStartMs": 1391220,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "including over 400,000 stable materials"
+    } ]
+  }, {
+    "tStartMs": 1394250,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "that could power future technologies"
+    } ]
+  }, {
+    "tStartMs": 1395900,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "from superconductors to batteries."
+    } ]
+  }, {
+    "tStartMs": 1398840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "AI is creating transformative\nleaps in science"
+    } ]
+  }, {
+    "tStartMs": 1401840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "by helping to solve some\nof the fundamental problems"
+    } ]
+  }, {
+    "tStartMs": 1404240,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "that have blocked human progress."
+    } ]
+  }, {
+    "tStartMs": 1406550,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- If we think of the\nwhole tree of knowledge,"
+    } ]
+  }, {
+    "tStartMs": 1408320,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "you know there are certain problems"
+    } ]
+  }, {
+    "tStartMs": 1409550,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "where you know if their root, no problems."
+    } ]
+  }, {
+    "tStartMs": 1411530,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "If you unlock them, if you\ndiscover a solution to them,"
+    } ]
+  }, {
+    "tStartMs": 1413870,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "it would unlock a whole new\nbranch or avenue of discovery."
+    } ]
+  }, {
+    "tStartMs": 1418100,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "- And with this, AI is\npushing forward the boundaries"
+    } ]
+  }, {
+    "tStartMs": 1421430,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "of human knowledge at a\nrate never seen before."
+    } ]
+  }, {
+    "tStartMs": 1424760,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- Speed ups of 2x are nice,"
+    } ]
+  }, {
+    "tStartMs": 1426860,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "they're great, we love them."
+    } ]
+  }, {
+    "tStartMs": 1428810,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Speed ups of a 100,000x, change what you do."
+    } ]
+  }, {
+    "tStartMs": 1433250,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "You do fundamentally different stuff"
+    } ]
+  }, {
+    "tStartMs": 1435800,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "and you start to rebuild your science"
+    } ]
+  }, {
+    "tStartMs": 1438740,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "around the things that got easy."
+    } ]
+  }, {
+    "tStartMs": 1441350,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "- And that's what I'm excited about."
+    } ]
+  }, {
+    "tStartMs": 1443780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "These discoveries represent\nreal step function"
+    } ]
+  }, {
+    "tStartMs": 1446600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "changes in science."
+    } ]
+  }, {
+    "tStartMs": 1448400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Even if AI doesn't advance\nbeyond where it is today,"
+    } ]
+  }, {
+    "tStartMs": 1450920,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "we will be reaping the benefits"
+    } ]
+  }, {
+    "tStartMs": 1452690,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "of these breakthroughs for decades."
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And assuming AI does continue to develop,"
+    } ]
+  }, {
+    "tStartMs": 1457520,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "well, it will open up opportunities"
+    } ]
+  }, {
+    "tStartMs": 1459320,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "that were previously thought impossible."
+    } ]
+  }, {
+    "tStartMs": 1461390,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Whether that's curing all diseases,"
+    } ]
+  }, {
+    "tStartMs": 1463940,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "creating novel materials,"
+    } ]
+  }, {
+    "tStartMs": 1465380,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "or restoring the environment\nto a pristine state."
+    } ]
+  }, {
+    "tStartMs": 1469430,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This sounds like an amazing future as long"
+    } ]
+  }, {
+    "tStartMs": 1472790,
+    "dDurationMs": 3849,
+    "segs": [ {
+      "utf8": "as the AI doesn't take over\nand destroy us all first."
+    } ]
+  }, {
+    "tStartMs": 1476639,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "(slow cosmic music)"
+    } ]
+  } ]
+}

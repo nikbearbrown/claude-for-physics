@@ -1,0 +1,1201 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "I have good news and bad news. Bad news first: two years ago we reported on the Crisis in Cosmology.  "
+    } ]
+  }, {
+    "tStartMs": 6880,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Since then, it’s only gotten worse. And actually  the good news is also that the crisis in cosmology  "
+    } ]
+  }, {
+    "tStartMs": 13120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "has actually gotten worse, which \nmeans we may be onto something!"
+    } ]
+  }, {
+    "tStartMs": 22320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The most exciting thing for any scientist is when something they thought they knew turns out to be  "
+    } ]
+  }, {
+    "tStartMs": 27760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "wrong. So it’s no wonder that many cosmologists are starting to get excited by what has become  "
+    } ]
+  }, {
+    "tStartMs": 32880,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "known as the Hubble tension, or the crisis \nin cosmology. The “crisis” is the fact that  "
+    } ]
+  }, {
+    "tStartMs": 38880,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "we have two extremely careful, increasingly precise measurements of how fast the universe  "
+    } ]
+  }, {
+    "tStartMs": 43600,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "is expanding which should agree with each other, and yet they don’t. We first reported on the  "
+    } ]
+  }, {
+    "tStartMs": 49520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "growing hints of this tension 2 years ago. Back then, the most likely explanation was that new,  "
+    } ]
+  }, {
+    "tStartMs": 53360,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "refined measurements would bring the numbers into agreement. So far that’s not been the case.  "
+    } ]
+  }, {
+    "tStartMs": 59120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But just recently, one of these methods \nreceived a massive refinement due to the  "
+    } ]
+  }, {
+    "tStartMs": 64640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Gaia mission and its unprecedented survey of a billion stars in the Milky Way.  "
+    } ]
+  }, {
+    "tStartMs": 69520,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "And guess what - the tension is now even tenser. So is it time to rethink all of cosmology?"
+    } ]
+  }, {
+    "tStartMs": 76560,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Before we can even think about that, we should probably do a refresher on what the issue actually  "
+    } ]
+  }, {
+    "tStartMs": 82720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "is. So you may have heard that the universe is expanding. Space on the largest scales  "
+    } ]
+  }, {
+    "tStartMs": 87680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "is stretching, throwing galaxies apart from \neach other. We’ve talked about how astronomers  "
+    } ]
+  }, {
+    "tStartMs": 92560,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "first figured this out. Long story short \n- when a distant galaxy’s light travels to  "
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "us through the expanding universe it gets \nstretched out - its wavelength increases.  "
+    } ]
+  }, {
+    "tStartMs": 102480,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "If we also know how far that light traveled - the distance to the galaxy - then we can figure  "
+    } ]
+  }, {
+    "tStartMs": 108400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "out the rate at which space is expanding - at least along the path to that galaxy. Combine  "
+    } ]
+  }, {
+    "tStartMs": 113920,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "the redshifts and distances of many, many galaxies and you have the expansion rate of the universe,  "
+    } ]
+  }, {
+    "tStartMs": 120560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "typically expressed as Hubble’s constant"
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "after Edwin Hubble, the guy who first \nproperly measured it back in 1929."
+    } ]
+  }, {
+    "tStartMs": 127600,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "By comparison, getting the distances is much, much trickier than getting the redshifts. It depends  "
+    } ]
+  }, {
+    "tStartMs": 133600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "on a long chain of distance measurements that we call the cosmic distance ladder. First you measure  "
+    } ]
+  }, {
+    "tStartMs": 138960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "distances to objects in the solar system - then use those to measure distances to nearby stars,  "
+    } ]
+  }, {
+    "tStartMs": 144800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "then more distant stars, then nearby \ngalaxies, then distant galaxies, "
+    } ]
+  }, {
+    "tStartMs": 148800,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "etc."
+    } ]
+  }, {
+    "tStartMs": 150080,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "If one of those distance measures is wrong,  "
+    } ]
+  }, {
+    "tStartMs": 153010,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "all the subsequent rungs of \nthe distance ladder are off."
+    } ]
+  }, {
+    "tStartMs": 156320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Hubble’s distance measurements were based on a method pioneered by Henrietta Swan Leavitt.  "
+    } ]
+  }, {
+    "tStartMs": 161040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "She developed one of the first so-called standard candles. These are objects whose true brightness  "
+    } ]
+  }, {
+    "tStartMs": 166400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "or luminosity can be known. Knowing the true luminosity of an object means you can figure  "
+    } ]
+  }, {
+    "tStartMs": 171520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "out its distance just by observing how its \nbrightness has been dimmed by that distance.  "
+    } ]
+  }, {
+    "tStartMs": 176400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Swan Leavitt realized that a type \npulsating star known as a Cepheid variable  "
+    } ]
+  }, {
+    "tStartMs": 180960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "has a rate of pulsation that \ndepends on its luminosity.  "
+    } ]
+  }, {
+    "tStartMs": 184640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Measure the pulsation rate and you know its true brightness, and so can find its distance.  "
+    } ]
+  }, {
+    "tStartMs": 188960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And if the Cepheid is in another galaxy, \nyou have the distance to that galaxy also."
+    } ]
+  }, {
+    "tStartMs": 193840,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Cepheid variables are great standard candles, but they’re just stars, and are too faint to see  "
+    } ]
+  }, {
+    "tStartMs": 199280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "beyond a certain distance. In the 1990s two teams of astronomers employed a new type of  "
+    } ]
+  }, {
+    "tStartMs": 204720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "standard candle - the incredibly bright “type 1a” supernovae that result when a white dwarf  "
+    } ]
+  }, {
+    "tStartMs": 211280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "star explodes after cannibalizing its binary \npartner. Using these supernovae to get distances  "
+    } ]
+  }, {
+    "tStartMs": 216320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "to galaxies halfway across the universe, they found something totally unexpected - not only is  "
+    } ]
+  }, {
+    "tStartMs": 222240,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "the universe expanding, but that expansion is accelerating. And so dark energy was discovered  "
+    } ]
+  }, {
+    "tStartMs": 228640,
+    "dDurationMs": 7099,
+    "segs": [ {
+      "utf8": "- a mysterious and ubiquitous energy that grows as the universe grows, speeding up its expansion."
+    } ]
+  }, {
+    "tStartMs": 235739,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "Dark energy very likely holds deep, deep \nclues about the fundamentals of reality.  "
+    } ]
+  }, {
+    "tStartMs": 241680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "With its discovery it suddenly became VERY important to perfect our measurements of the  "
+    } ]
+  }, {
+    "tStartMs": 246640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "expansion rate - both to confirm dark energy’s existence and to learn of its nature. And this  "
+    } ]
+  }, {
+    "tStartMs": 252640,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "is where our story splits. There are, broadly, two approaches to improving that measurement.  "
+    } ]
+  }, {
+    "tStartMs": 259040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "One is to double down on the old method - find more type 1a supernova and improve those  "
+    } ]
+  }, {
+    "tStartMs": 264560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "distance measures. The other is to find a totally independent measurement of the expansion rate.  "
+    } ]
+  }, {
+    "tStartMs": 270320,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "A good reason to do that is that the \nsupernova method is a pretty high rung on  "
+    } ]
+  }, {
+    "tStartMs": 275360,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "the cosmic distance ladder - which means if any rung below it is broken, the method fails."
+    } ]
+  }, {
+    "tStartMs": 282160,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So different teams of astronomers pursued both approaches - and this is where the crisis  "
+    } ]
+  }, {
+    "tStartMs": 287280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "emerged. One alternative method for getting the expansion rate is to study the oldest light in the  "
+    } ]
+  }, {
+    "tStartMs": 292640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "universe - the cosmic microwave background. This \nlight was released only a few hundred thousand  "
+    } ]
+  }, {
+    "tStartMs": 297520,
+    "dDurationMs": 6107,
+    "segs": [ {
+      "utf8": "years after the big bang, and carries with it vast information about the universe’s early state.  "
+    } ]
+  }, {
+    "tStartMs": 303627,
+    "dDurationMs": 6053,
+    "segs": [ {
+      "utf8": "I’ll leave you to watch our previous video on the subject to see how our map of the CMB using the  "
+    } ]
+  }, {
+    "tStartMs": 309680,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Planck satellite can give us the expansion rate. The Planck team calculated a Hubble constant of  "
+    } ]
+  }, {
+    "tStartMs": 316240,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "67.6 km/s/Mpc - let’s not worry about the weird units right now. But they also claim an uncertainty of  "
+    } ]
+  }, {
+    "tStartMs": 325120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "about half a percent, making it the most precise measurement of the expansion rate ever made."
+    } ]
+  }, {
+    "tStartMs": 331200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Meanwhile, Adam Reiss, one of the \nNobel-winning discoverers of dark energy  "
+    } ]
+  }, {
+    "tStartMs": 335200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "has doubled down on the supernova \nmethod. A couple of years ago his  "
+    } ]
+  }, {
+    "tStartMs": 339520,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "team published a new Hubble constant \nof 73 and a half.+/- 1.5 km/s/Mpc."
+    } ]
+  }, {
+    "tStartMs": 346000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "That’s in the same ballpark, but far \nenough off to raise many, many eyebrows."
+    } ]
+  }, {
+    "tStartMs": 352320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "One possible explanation for the difference is that the nature of dark energy has  "
+    } ]
+  }, {
+    "tStartMs": 356240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "changed over time. The Planck team’s Hubble constant assumes that dark energy has had a  "
+    } ]
+  }, {
+    "tStartMs": 361840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "constant density for the \nentire age of the universe."
+    } ]
+  }, {
+    "tStartMs": 365200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "That’s what you expect for the simplest models of what dark energy might be, But if dark energy  "
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "has HAS changed over time it could explain the discrepancy AND indicate the dark energy  "
+    } ]
+  }, {
+    "tStartMs": 376480,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "is even weirder than we thought. It’s hard to overstate how huge a discovery that would be."
+    } ]
+  }, {
+    "tStartMs": 382800,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So you can see how it might be nice \nto find out one way or the other  "
+    } ]
+  }, {
+    "tStartMs": 386080,
+    "dDurationMs": 4475,
+    "segs": [ {
+      "utf8": "if the difference between the Planck \nand supernova results is real.  "
+    } ]
+  }, {
+    "tStartMs": 390555,
+    "dDurationMs": 4245,
+    "segs": [ {
+      "utf8": "Most people still think that there are \nunknown errors that are affecting one or both.  "
+    } ]
+  }, {
+    "tStartMs": 394800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "For example, the cosmological distance \nladder could have a broken rung. The  "
+    } ]
+  }, {
+    "tStartMs": 398880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "supernova standard candles are calibrated based on distances from our good-ole Cepheid variables  "
+    } ]
+  }, {
+    "tStartMs": 404560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "in galaxies where both are observed. But those distant Cepheids are in turn calibrated based on  "
+    } ]
+  }, {
+    "tStartMs": 410400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Cepheids in our own galaxy, for which we can get distances by a method that’s much more reliable.  "
+    } ]
+  }, {
+    "tStartMs": 416400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "That method is stellar parallax - and it’s \nabout as direct a method as you can get,  "
+    } ]
+  }, {
+    "tStartMs": 420880,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "short of building a giant space ruler. Ultimately, refining the supernova distance measurements comes  "
+    } ]
+  }, {
+    "tStartMs": 426960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "down to refining parallax measurements, \nand that’s what we’ve finally achieved."
+    } ]
+  }, {
+    "tStartMs": 432000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "You’re already familiar with parallax. \nPlace a finger in front of your eyes  "
+    } ]
+  }, {
+    "tStartMs": 436320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and blink left and right. Your finger moves \nrelative to the background, which I guess is  "
+    } ]
+  }, {
+    "tStartMs": 441760,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "me in this case. Move your finger away and the displacement is less. Closer and it increases."
+    } ]
+  }, {
+    "tStartMs": 448960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "We can use this same trick to measure the distance to stars. As the earth orbits the  "
+    } ]
+  }, {
+    "tStartMs": 453680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "sun over the course of the year, nearby stars appear to move relative to more distant stars.  "
+    } ]
+  }, {
+    "tStartMs": 458400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "That’s stellar parallax, and our quest to measure it has been central to understanding our universe  "
+    } ]
+  }, {
+    "tStartMs": 464400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "for hundreds of years. Prior to the invention \nof the telescope, the fact that we didn’t see  "
+    } ]
+  }, {
+    "tStartMs": 469280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "obvious stellar parallax was taken as evidence that the Earth is NOT orbiting the Sun.  "
+    } ]
+  }, {
+    "tStartMs": 474560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "It turns out that the stars are just so \nfar away that you need careful observations  "
+    } ]
+  }, {
+    "tStartMs": 478640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "with quite a good telescope to see \nparallax in even the nearest stars."
+    } ]
+  }, {
+    "tStartMs": 483360,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "And so it was that in 1912 Henrietta Swan Leavitt used parallax measurements of Cepheids in the  "
+    } ]
+  }, {
+    "tStartMs": 489440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Milky Way to turn these stars into standard candles and so founded our distance ladder,  "
+    } ]
+  }, {
+    "tStartMs": 495040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "which ultimately led to the discovery of dark energy. But this feels like a bit of a house of  "
+    } ]
+  }, {
+    "tStartMs": 499920,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "cards - the ladder was entirely dependent on the relatively few Cepheids that are close enough for  "
+    } ]
+  }, {
+    "tStartMs": 505760,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "parallax measurements. Things started to get better when we put telescopes in space - above  "
+    } ]
+  }, {
+    "tStartMs": 511600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "the blurring effect of Earth’s atmosphere it’s possible to make better position measurements.  "
+    } ]
+  }, {
+    "tStartMs": 517120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "The Hubble Space Telescope has done great work here, and so has the European Space Agency’s  "
+    } ]
+  }, {
+    "tStartMs": 521840,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "HIPPARCOS satellite, which tracked the motion of 100,000 stars in our local patch of the galaxy"
+    } ]
+  }, {
+    "tStartMs": 527600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "But to really nail down the lowest \nrung of the distance ladder,  "
+    } ]
+  }, {
+    "tStartMs": 530800,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "we need a lot more Cepheid \nparallaxes to much greater distances.  "
+    } ]
+  }, {
+    "tStartMs": 534960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And that’s what ESA’s Gaia mission has given us. Parked in an orbit just past the moon,  "
+    } ]
+  }, {
+    "tStartMs": 539920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Gaia scans the sky year after year, mapping the structure and motion of a good faction  "
+    } ]
+  }, {
+    "tStartMs": 545120,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "of the Milky Way galaxy. Gaia is making the most accurate catalogue yet of parallax measurements,  "
+    } ]
+  }, {
+    "tStartMs": 551520,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "for the nearest brightest stars, it’s 200 times more accurate than any previous measurement."
+    } ]
+  }, {
+    "tStartMs": 557200,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Gaia has allowed us to recalibrate Cepheid variables as standard candles, which in turned  "
+    } ]
+  }, {
+    "tStartMs": 563040,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "enabled a recalibration of type 1a supernovae - which in turn gave Adam Reiss and team a refined  "
+    } ]
+  }, {
+    "tStartMs": 568880,
+    "dDurationMs": 6522,
+    "segs": [ {
+      "utf8": "measure of the Hubble constant. So what do you think - do the supernova and Planck results agree?  "
+    } ]
+  }, {
+    "tStartMs": 575402,
+    "dDurationMs": 8038,
+    "segs": [ {
+      "utf8": "Not in the least. The Gaia-based Hubble constant of 73.2 km/s/mpc seems to confirm the previous  "
+    } ]
+  }, {
+    "tStartMs": 583440,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "type-1a supernova result, now with more surety about the distance ladder it’s based on."
+    } ]
+  }, {
+    "tStartMs": 590560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Before we start jumping up and \ndown and yelling about new physics,  "
+    } ]
+  }, {
+    "tStartMs": 593680,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "remember that we’re level-headed scientists. Two independent methods aren’t enough.  "
+    } ]
+  }, {
+    "tStartMs": 598320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We need more - and we have some great \noptions that will either to break the  "
+    } ]
+  }, {
+    "tStartMs": 602400,
+    "dDurationMs": 5886,
+    "segs": [ {
+      "utf8": "tie between Planck and supernova, \nor to confirm that the difference is real."
+    } ]
+  }, {
+    "tStartMs": 608286,
+    "dDurationMs": 4354,
+    "segs": [ {
+      "utf8": "We’ve already talked about one of these options. It’s to look for vast ring-like patterns in the  "
+    } ]
+  }, {
+    "tStartMs": 612640,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "way galaxies are scattered across the universe and use those rings as a sort of standard ruler.  "
+    } ]
+  }, {
+    "tStartMs": 618560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "These “baryon acoustic oscillations” \nare the fossils of ancient sound waves  "
+    } ]
+  }, {
+    "tStartMs": 623760,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "that reverberated through the hot, dense plasma of the early universe. Now those ripples are frozen  "
+    } ]
+  }, {
+    "tStartMs": 629200,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "into the distribution of galaxies that formed from that matter. The Baryon acoustic oscillations seem  "
+    } ]
+  }, {
+    "tStartMs": 635040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "to be coming on the side of the Planck \nresult - a Hubble constant in the high 60s."
+    } ]
+  }, {
+    "tStartMs": 640720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Another extremely promising method is \ngravitational lensing - the bending of  "
+    } ]
+  }, {
+    "tStartMs": 645360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "light around massive objects due \nto their warping of spacetime.  "
+    } ]
+  }, {
+    "tStartMs": 648720,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "One manifestation of this is when a distant quasar - a giant, gas-guzzling black hole - happens to be  "
+    } ]
+  }, {
+    "tStartMs": 654640,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "closely aligned behind a more nearby galaxy. Then, that quasar’s light travels multiple paths through  "
+    } ]
+  }, {
+    "tStartMs": 660960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "this gravitational lens, resulting in multiple \nimages of the quasar from our point of view.  "
+    } ]
+  }, {
+    "tStartMs": 666240,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Quasars are violent beasts - the maelstrom of gas fluctuates in brightness as it spirals into  "
+    } ]
+  }, {
+    "tStartMs": 672800,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "the black hole. And so we see lensed quasar images flicker - but they flicker out of sync.  "
+    } ]
+  }, {
+    "tStartMs": 679520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "There’s a time offset due to the fact that \nthese different paths through the universe  "
+    } ]
+  }, {
+    "tStartMs": 683360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "have slightly different lengths. By measuring the time delay in these flickering lenses, we can  "
+    } ]
+  }, {
+    "tStartMs": 689760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "get a measurement of cosmic distances, and with that a measurement of the expansion rate that’s  "
+    } ]
+  }, {
+    "tStartMs": 695040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "independent of the cosmic distance ladder. So far we’ve only done this with a small number of lenses"
+    } ]
+  }, {
+    "tStartMs": 700240,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and so the uncertainty is large - but published results give a Hubble constant in the low 70s - so  "
+    } ]
+  }, {
+    "tStartMs": 706560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "in agreement with the supernova guys. But this game is about to take off, with upcoming giant  "
+    } ]
+  }, {
+    "tStartMs": 712400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "surveys set to discover thousands of new lenses that should massively improve this measurement."
+    } ]
+  }, {
+    "tStartMs": 717920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And before too long we may even be able to use gravitational waves from merging black holes  "
+    } ]
+  }, {
+    "tStartMs": 722400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "to measure the Hubble constant. These waves get stretched by the expanding universe, just like  "
+    } ]
+  }, {
+    "tStartMs": 727520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "light does. But unlike light, they also encode information about the distance they’ve traveled,  "
+    } ]
+  }, {
+    "tStartMs": 732640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and so can be used to measure the expansion rate without the cosmic distance ladder.  "
+    } ]
+  }, {
+    "tStartMs": 737200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "We’re calling these black hole \nmergers 'standard sirens’,  "
+    } ]
+  }, {
+    "tStartMs": 740560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "and while the error bars they give are still \nlarge, they’ll only get smaller over time."
+    } ]
+  }, {
+    "tStartMs": 745840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "That is where the crisis stands - it’s \nincreasingly clear that there’s a hole in  "
+    } ]
+  }, {
+    "tStartMs": 750560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "our understanding of the universe - whether it’s a crack in the rung of the cosmic distance ladder or  "
+    } ]
+  }, {
+    "tStartMs": 755840,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "something more fundamental about how the universe expands. Scientists love being wrong - because  "
+    } ]
+  }, {
+    "tStartMs": 761760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "when you find the source of that wrongness, it can only lead to greater understanding - in this case,  "
+    } ]
+  }, {
+    "tStartMs": 767360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of the strange forces driving \nour ever-expanding spacetime."
+    } ]
+  }, {
+    "tStartMs": 772240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "As always, I want to give a shoutout to all of our Patreon supporters - your continued support  "
+    } ]
+  }, {
+    "tStartMs": 776960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "is such a huge help. If anyone would like to pitch in - even a couple of bucks a month makes  "
+    } ]
+  }, {
+    "tStartMs": 782640,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "a real difference and also gets you access to the Space Time discord where you can nerd-out 24-7.  "
+    } ]
+  }, {
+    "tStartMs": 788960,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "And today’s extra special shoutout goes to Sandy \nWu, who’s supporting us at the big bang level.  "
+    } ]
+  }, {
+    "tStartMs": 794080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Sandy, these are such strange and uncertain times - I mean seriously, we don’t even know what  "
+    } ]
+  }, {
+    "tStartMs": 799280,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Hubble’s constant is. But your support grants some much needed stability to spacetime - the  "
+    } ]
+  }, {
+    "tStartMs": 806080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "youtube show, not the expanding fabric of the universe - that’s still freaking everybody out."
+    } ]
+  }, {
+    "tStartMs": 810640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Today we’re doing comments \nfor the last two episodes,  "
+    } ]
+  }, {
+    "tStartMs": 813280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "in which we explored the connection between gravity, light, and the flow of time."
+    } ]
+  }, {
+    "tStartMs": 818800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Timebucks asks how can we be traveling at the light speed in the time dimension? I'm glad you  "
+    } ]
+  }, {
+    "tStartMs": 825760,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "asked, because this notion gets stated without much justification. The idea that massive objects  "
+    } ]
+  }, {
+    "tStartMs": 832800,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "travel through time at the speed of light its\njust one way to interpret the math of special  "
+    } ]
+  }, {
+    "tStartMs": 839360,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "relativity. In relativity, there's this thing \ncalled the spacetime interval which describes  "
+    } ]
+  }, {
+    "tStartMs": 844640,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "the separation between two events in space and time. It's the minus the sum of squares of the x,  "
+    } ]
+  }, {
+    "tStartMs": 852400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "y, and z spatial intervals, plus the square of time interval times the speed of light.  "
+    } ]
+  }, {
+    "tStartMs": 858240,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "You need the speed of light in here to give time the same dimentions as space. Your velocity through  "
+    } ]
+  }, {
+    "tStartMs": 865600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "spacetime - also called your 4-velocity - is just the change in spacetime interval  "
+    } ]
+  }, {
+    "tStartMs": 871280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "divided by the change in time. But if you are motionless then you have no change in the space  "
+    } ]
+  }, {
+    "tStartMs": 877040,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "intervals - and your spacetime interval is just c-times-delta t divided by delta t - or just c,  "
+    } ]
+  }, {
+    "tStartMs": 883520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the speed of light. That's where \nthe idea comes from in the math."
+    } ]
+  }, {
+    "tStartMs": 887120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But what does this mean physically? Does it mean anything physically? That's less clear,  "
+    } ]
+  }, {
+    "tStartMs": 892160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "because we don't really know what time is. Nor space for that matter - or whether they're really  "
+    } ]
+  }, {
+    "tStartMs": 896960,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "the same type of thing - dimensionally speaking. We would also need to justify why the c in the  "
+    } ]
+  }, {
+    "tStartMs": 902960,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "spacetime interval has to be the speed of light. It's worth a full episode to explore that one,  "
+    } ]
+  }, {
+    "tStartMs": 909440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and we'll definitely get around to it. \nBut if you want a much better description  "
+    } ]
+  }, {
+    "tStartMs": 913440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "of the math, check out Sabine Hossenfelder's episode on this - link in the description."
+    } ]
+  }, {
+    "tStartMs": 919440,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "John Smith Noted that the Huygen's Principle seems eerily similar to the double slit experiment if  "
+    } ]
+  }, {
+    "tStartMs": 926960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "there were an infinite number of slits. Well, John Smith, you're in good company. There's this story  "
+    } ]
+  }, {
+    "tStartMs": 932800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of a young physics student hearing the description of the double slit experiment, in which the  "
+    } ]
+  }, {
+    "tStartMs": 937760,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "professor describes how you can figure out the interference pattern by thinking of circular waves  "
+    } ]
+  }, {
+    "tStartMs": 944560,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "originating from the slits, and calculating how these ripples add up at the screen. The student  "
+    } ]
+  }, {
+    "tStartMs": 950880,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "raises his hand and asks \"but what if you had 3 slits\" - so the professor says that you just add  "
+    } ]
+  }, {
+    "tStartMs": 956880,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "up the ripples of three waves. The student trolls the teacher with \"what about four slits\" which they reply with"
+    } ]
+  }, {
+    "tStartMs": 964000,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "\"obviously you add up the ripples of four waves\" And then \"what about 5 slits\" etc.. until finally  "
+    } ]
+  }, {
+    "tStartMs": 970160,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "\"what about infinite slits\". That student was Richard Feynman, or so the story goes - and  "
+    } ]
+  }, {
+    "tStartMs": 976560,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "he'd just figured out Huygen-Fresnel principle all on his own - a couple of hundred years late, but  "
+    } ]
+  }, {
+    "tStartMs": 982960,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "independently nonetheless. So, John Smith, you're  another 100 years late, but good work anyway."
+    } ]
+  }, {
+    "tStartMs": 988720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Tom Kerruish and clearnightsky saw the \nFeynman connection also - pointing out  "
+    } ]
+  }, {
+    "tStartMs": 992480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the Huygen's principle feels like Feynman's \npath integral formulation of quantum mechanics.  "
+    } ]
+  }, {
+    "tStartMs": 996800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "For those who don't know, the path integral calculates the trajectory of a quantum object  "
+    } ]
+  }, {
+    "tStartMs": 1001120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "by adding up all possible and even impossible paths between two locations or states.  "
+    } ]
+  }, {
+    "tStartMs": 1005680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "The unlikely paths cancel out leaving your with a prediction of the path it'll actually take.  "
+    } ]
+  }, {
+    "tStartMs": 1012320,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "We did an episode - search for path integral on the channel home page. But it seems that  "
+    } ]
+  }, {
+    "tStartMs": 1017920,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Feynman was influenced by Huygens-Fresnel, as well as by the principle of least action."
+    } ]
+  }, {
+    "tStartMs": 1025120,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So, yeah, nice work reinventing \nall of physics guys."
+    } ]
+  }, {
+    "tStartMs": 1028640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Several of you commented that this whole \ngravity bending light thing might explain  "
+    } ]
+  }, {
+    "tStartMs": 1032080,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "why stormtroopers have such terrible aim. I think you may be onto something. Think about it - these  "
+    } ]
+  }, {
+    "tStartMs": 1038000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "poor guys have to fight in so many \ndifferent gravitational fields - star destroyers,  "
+    } ]
+  }, {
+    "tStartMs": 1041840,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the death star, forest moons, ice planets - must be hard to recalibrate every time. Who knew George  "
+    } ]
+  }, {
+    "tStartMs": 1048080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Lucas was such a jedi master of general relativity. But the whole series makes so much more sense when you  "
+    } ]
+  }, {
+    "tStartMs": 1054080,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "think about it. For exame, when Greedo shot before Han in the “updated” releases, we were really just  "
+    } ]
+  }, {
+    "tStartMs": 1060160,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "watching the same scene from the perspective of a passing star destroyer in hyperspace - it’s  "
+    } ]
+  }, {
+    "tStartMs": 1065600,
+    "dDurationMs": 6881,
+    "segs": [ {
+      "utf8": "superluminal motion reversed the apparent causal ordering. In other words, shot first, Han did."
+    } ]
+  } ]
+}

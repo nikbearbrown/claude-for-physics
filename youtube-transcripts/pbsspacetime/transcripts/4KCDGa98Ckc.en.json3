@@ -1,0 +1,1579 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 320,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Your extensive posting history on r/birdswitharms\nand your old fanfiction-heavy livejournal"
+    } ]
+  }, {
+    "tStartMs": 6120,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "are both one tiny math problem away from becoming\npublic knowledge."
+    } ]
+  }, {
+    "tStartMs": 10719,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "That math problem is prime number factoring,\nand the new era of quantum computers may lay"
+    } ]
+  }, {
+    "tStartMs": 15929,
+    "dDurationMs": 4341,
+    "segs": [ {
+      "utf8": "bare your indiscretions, as well as collapse\nthe entire digital economy."
+    } ]
+  }, {
+    "tStartMs": 20270,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Unless we get us some post-quantum cryptography\npost-haste."
+    } ]
+  }, {
+    "tStartMs": 23920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So, how close are we?"
+    } ]
+  }, {
+    "tStartMs": 31420,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It’s said that quantum computers will threaten\nthe security of our digital civilization because"
+    } ]
+  }, {
+    "tStartMs": 35120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "they can easily overcome the encryption method\nthat underpins almost all of it."
+    } ]
+  }, {
+    "tStartMs": 39520,
+    "dDurationMs": 3949,
+    "segs": [ {
+      "utf8": "Every email, every online purchase, every\nlogin—is secured by the fact that it’s"
+    } ]
+  }, {
+    "tStartMs": 43469,
+    "dDurationMs": 4831,
+    "segs": [ {
+      "utf8": "a lot harder to factor out prime numbers than\nit is to multiply them together."
+    } ]
+  }, {
+    "tStartMs": 48300,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Large products of prime numbers become encryption\nlocks, and the prime numbers that go into them"
+    } ]
+  }, {
+    "tStartMs": 53620,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "become the keys to the secrets in your inbox."
+    } ]
+  }, {
+    "tStartMs": 58019,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Your secrets are safe-ish for now because\nthe most powerful classical computers will"
+    } ]
+  }, {
+    "tStartMs": 63219,
+    "dDurationMs": 5621,
+    "segs": [ {
+      "utf8": "take thousands to billions of years to find\nthose factors, depending on the key size."
+    } ]
+  }, {
+    "tStartMs": 68840,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "But in 1994, a mathematician named Peter Shor\ndeveloped an algorithm - Shor’s algorithm"
+    } ]
+  }, {
+    "tStartMs": 74980,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "- that could use a quantum computer to factor\na prime number in, well, a human lifetime,"
+    } ]
+  }, {
+    "tStartMs": 81670,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "or a human lunchbreak."
+    } ]
+  }, {
+    "tStartMs": 83360,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Quantum computers did not exist in 1994,\nbut just last year, Google’s quantum computer,"
+    } ]
+  }, {
+    "tStartMs": 88960,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Sycamore, outsped the best classical computers"
+    } ]
+  }, {
+    "tStartMs": 91630,
+    "dDurationMs": 1529,
+    "segs": [ {
+      "utf8": "for a very specific task."
+    } ]
+  }, {
+    "tStartMs": 93159,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "According to the researchers, Sycamore performed\ncalculations to simulate another quantum system"
+    } ]
+  }, {
+    "tStartMs": 98829,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "exponentially faster than would have been\npossible with a pure classical computer."
+    } ]
+  }, {
+    "tStartMs": 102829,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "We’ll talk about exactly what happened here\nin another episode - but what does this mean"
+    } ]
+  }, {
+    "tStartMs": 107189,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "for internet cryptography?"
+    } ]
+  }, {
+    "tStartMs": 108979,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Is it game over?"
+    } ]
+  }, {
+    "tStartMs": 111380,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Not quite - quantum computers need to become\nfar more reliable - have better “fault tolerance”"
+    } ]
+  }, {
+    "tStartMs": 116700,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and/or support vastly more quibits"
+    } ]
+  }, {
+    "tStartMs": 120080,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "to do the sort of prime factoring required\nfor decryption."
+    } ]
+  }, {
+    "tStartMs": 123259,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "But those computers will eventually arrive."
+    } ]
+  }, {
+    "tStartMs": 125540,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "So what’s to be done?"
+    } ]
+  }, {
+    "tStartMs": 127560,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "One option is to match quantum decryption\nwith new quantum encryption techniques to"
+    } ]
+  }, {
+    "tStartMs": 132900,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "replace prime factoring."
+    } ]
+  }, {
+    "tStartMs": 135040,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "We talked about all this in our episode on\nquantum key distribution - and we’ve also"
+    } ]
+  }, {
+    "tStartMs": 138630,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "talked about the challenges."
+    } ]
+  }, {
+    "tStartMs": 141230,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "To distribute a quantum key, you also need\na quantum internet to transport quantum states."
+    } ]
+  }, {
+    "tStartMs": 146880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "This is a far more challenging problem."
+    } ]
+  }, {
+    "tStartMs": 149440,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Quantum states are insanely fragile and difficult\nto transport, and the quantum internet may"
+    } ]
+  }, {
+    "tStartMs": 153770,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "not arrive before better quantum computers\ncan crack current encryption techniques and"
+    } ]
+  }, {
+    "tStartMs": 158830,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "collapse the modern digital world."
+    } ]
+  }, {
+    "tStartMs": 161940,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Fortunately there is another option - and\none that’ll be a lot cheaper than building"
+    } ]
+  }, {
+    "tStartMs": 166820,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "a quantum internet."
+    } ]
+  }, {
+    "tStartMs": 168530,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "It turns out there are some ingenious non-quantum\nways to thwart the hacking powers of quantum"
+    } ]
+  }, {
+    "tStartMs": 174710,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "computers."
+    } ]
+  }, {
+    "tStartMs": 175710,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "Enter post-quantum cryptography, or quantum\nresistant algorithms - which might replace"
+    } ]
+  }, {
+    "tStartMs": 180880,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "our vulnerable prime factoring-based cryptography."
+    } ]
+  }, {
+    "tStartMs": 184420,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "To understand why some algorithms are vulnerable\nto quantum computing attacks while others"
+    } ]
+  }, {
+    "tStartMs": 188380,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "are thought to be quantum resistant, we need\nto review a bit about bit about encryption."
+    } ]
+  }, {
+    "tStartMs": 193830,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Prime factoring is an example of what we call\na one-way function."
+    } ]
+  }, {
+    "tStartMs": 197370,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "That’s a mathematical operation that’s\nvery easy to figure out in one direction,"
+    } ]
+  }, {
+    "tStartMs": 201610,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "but very difficult to reverse."
+    } ]
+  }, {
+    "tStartMs": 203920,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Let’s start with a more visual example."
+    } ]
+  }, {
+    "tStartMs": 206450,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "Let’s say Alice has a secret shade of yellow,\nBob has a secret shade of blue, and there’s"
+    } ]
+  }, {
+    "tStartMs": 211680,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "a shade of red that is publicly broadcast."
+    } ]
+  }, {
+    "tStartMs": 214330,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "That’s the public key."
+    } ]
+  }, {
+    "tStartMs": 216450,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Alice combines her yellow with a public shade\nof red, which gives her an orange."
+    } ]
+  }, {
+    "tStartMs": 221420,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Bob combines his blue with red to get a purple."
+    } ]
+  }, {
+    "tStartMs": 224790,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Alice sends her orange to Bob, and Bob sends\nhis purple to Alice."
+    } ]
+  }, {
+    "tStartMs": 228120,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Then, Alice combines Bob’s purple with her\nyellow and Bob combines Alice’s orange with"
+    } ]
+  }, {
+    "tStartMs": 233340,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "his blue."
+    } ]
+  }, {
+    "tStartMs": 234550,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "The resulting brown is a shared secret that\ncan be used to encode text between them."
+    } ]
+  }, {
+    "tStartMs": 240660,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "Unless an eavesdropper - Eve - can unmix Alice\nor Bob’s colors, she can’t figure out"
+    } ]
+  }, {
+    "tStartMs": 245870,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "what their shared secret key is."
+    } ]
+  }, {
+    "tStartMs": 247990,
+    "dDurationMs": 4991,
+    "segs": [ {
+      "utf8": "The current dominant encryption protocol uses\nprime factors instead of colours, and this"
+    } ]
+  }, {
+    "tStartMs": 252981,
+    "dDurationMs": 6579,
+    "segs": [ {
+      "utf8": "is the RSA protocol after Ron Rivest, Adi\nShamir, and Leonard Adleman who came up with"
+    } ]
+  }, {
+    "tStartMs": 259560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "it in 1977."
+    } ]
+  }, {
+    "tStartMs": 261680,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "It works great except for its vulnerability\nto Shor’s algorithm and quantum computers."
+    } ]
+  }, {
+    "tStartMs": 268340,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But prime factoring is only one example of\na one-way function."
+    } ]
+  }, {
+    "tStartMs": 271620,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Are there other possibilities that don’t\nhave the same vulnerability?"
+    } ]
+  }, {
+    "tStartMs": 276270,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "To understand that, we need a brief word on\nhow quantum computers do their magic."
+    } ]
+  }, {
+    "tStartMs": 280960,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "If you try prime factorization using a classical\ncomputer you’re stuck using an algorithm"
+    } ]
+  }, {
+    "tStartMs": 286770,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "similar to one that was developed over 2,000\nyears ago by the Greek mathematician Eratosthenes."
+    } ]
+  }, {
+    "tStartMs": 292900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "First, divide a number by 2 and see if you\nget an integer."
+    } ]
+  }, {
+    "tStartMs": 297000,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "If not try 3, 5, 7, 11, 13, and so on."
+    } ]
+  }, {
+    "tStartMs": 301070,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "This is laborious—it takes an insane amount\nof time to factor large numbers this way."
+    } ]
+  }, {
+    "tStartMs": 305980,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "Or you could run an insane number of computers\nin parallel to each check every different"
+    } ]
+  }, {
+    "tStartMs": 311160,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "factor."
+    } ]
+  }, {
+    "tStartMs": 312160,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Still effectively impossible"
+    } ]
+  }, {
+    "tStartMs": 313350,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Shor’s algorithm is potentially exponentially\nfaster."
+    } ]
+  }, {
+    "tStartMs": 316400,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "For the full explanation, I’m going to point\nyou to the episodes made by Infinite Series"
+    } ]
+  }, {
+    "tStartMs": 320260,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "a while back."
+    } ]
+  }, {
+    "tStartMs": 321260,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Today we’ll just do the quick version."
+    } ]
+  }, {
+    "tStartMs": 324510,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "It turns out there’s a structure to factorization\nthat can be exploited by quantum computers."
+    } ]
+  }, {
+    "tStartMs": 330500,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "That structure is a period."
+    } ]
+  }, {
+    "tStartMs": 332470,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "For example, let’s consider powers of 2—2,\n4, 8, 16, 32, 64, 128, 256, 1024."
+    } ]
+  }, {
+    "tStartMs": 339490,
+    "dDurationMs": 7450,
+    "segs": [ {
+      "utf8": "If we divide these powers by 5 and look at\nthe remainder (an operation called “mod”)"
+    } ]
+  }, {
+    "tStartMs": 346940,
+    "dDurationMs": 7930,
+    "segs": [ {
+      "utf8": "we get 2, 4, 3, 1, 2, 4, 3, 1, 2, 4, 3, 1—it\nrepeats every four numbers."
+    } ]
+  }, {
+    "tStartMs": 354870,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "It turns out that if you can figure out the\nperiod of this sequence you can figure out"
+    } ]
+  }, {
+    "tStartMs": 359650,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "the original number - in this case the 2."
+    } ]
+  }, {
+    "tStartMs": 362889,
+    "dDurationMs": 5511,
+    "segs": [ {
+      "utf8": "The 18th century mathematician Leonhard Euler\nfigured this structure extends to numbers"
+    } ]
+  }, {
+    "tStartMs": 368400,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "that are the multiple of two prime numbers\n— just like our RSA numbers."
+    } ]
+  }, {
+    "tStartMs": 373270,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "That doesn’t help us immediately - for the\npowers of large numbers, guessing the period"
+    } ]
+  }, {
+    "tStartMs": 379010,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "is as hard as guessing the factors."
+    } ]
+  }, {
+    "tStartMs": 381470,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "It would take at least as long, or require\nat least as many parallel classical computers."
+    } ]
+  }, {
+    "tStartMs": 387980,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "This is where quantum weirdness comes in."
+    } ]
+  }, {
+    "tStartMs": 390900,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Classical computers store information in bits\nthat are either 0 or 1."
+    } ]
+  }, {
+    "tStartMs": 395180,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Quantum computers store information in qubits,\nwhich, until they give an output, are in a"
+    } ]
+  }, {
+    "tStartMs": 400430,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "quantum superposition of 0 and 1, with some\nprobability of either being measured when"
+    } ]
+  }, {
+    "tStartMs": 405950,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "you try to read out the qubit."
+    } ]
+  }, {
+    "tStartMs": 408180,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "So a set of qubits can be in any one of a\nlarge number of possible states, and each"
+    } ]
+  }, {
+    "tStartMs": 413980,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "state represents a different number, each\nwith a different probability."
+    } ]
+  }, {
+    "tStartMs": 419380,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "You can think of each state as being like\na parallel processor - but now instead of"
+    } ]
+  }, {
+    "tStartMs": 423400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "processing across different computers, you’re\nprocessing in different parts of the quantum"
+    } ]
+  }, {
+    "tStartMs": 427900,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "wavefunction - or in different parallel realities\nif you’re into the Many Worlds interpretation"
+    } ]
+  }, {
+    "tStartMs": 433630,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 436370,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "The problem with this parallel processing\nis that you only get one answer when you try"
+    } ]
+  }, {
+    "tStartMs": 441120,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "to read out the qubits."
+    } ]
+  }, {
+    "tStartMs": 443030,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "If you tried to use a quantum computer to\nguess the factors of a prime number, you’d"
+    } ]
+  }, {
+    "tStartMs": 446870,
+    "dDurationMs": 4191,
+    "segs": [ {
+      "utf8": "read out one of the guesses but it’s no\nmore likely to be the correct one than if"
+    } ]
+  }, {
+    "tStartMs": 451061,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "you used a classical computer."
+    } ]
+  }, {
+    "tStartMs": 452960,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "But it turns out there’s a way to boost\nthe chances of getting the right answer."
+    } ]
+  }, {
+    "tStartMs": 458840,
+    "dDurationMs": 6329,
+    "segs": [ {
+      "utf8": "Instead of trying to hold possible prime factors\nin our quibits, our array of qubits holds"
+    } ]
+  }, {
+    "tStartMs": 465169,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "these repeating moduli of Shor’s algorithm\n- one per quantum state in the superposition."
+    } ]
+  }, {
+    "tStartMs": 471770,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "But now the entire superposition - all elements\nof the wavefunction are related by the period"
+    } ]
+  }, {
+    "tStartMs": 478930,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "of their repetition."
+    } ]
+  }, {
+    "tStartMs": 480889,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "And now it’s possible to perform an operation\nthat suppresses all possible periods besides"
+    } ]
+  }, {
+    "tStartMs": 485639,
+    "dDurationMs": 5341,
+    "segs": [ {
+      "utf8": "besides the correct one - essentially, you cause those\nincorrect parts of the wavefunction to destructively"
+    } ]
+  }, {
+    "tStartMs": 490980,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "interfere, leaving the correct period boosted."
+    } ]
+  }, {
+    "tStartMs": 495680,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Once you read out that period you can determine\nthe prime factors."
+    } ]
+  }, {
+    "tStartMs": 500580,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "So far, quantum computers are stuck under\n100 qubits and none have managed to factor"
+    } ]
+  }, {
+    "tStartMs": 506600,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "a number higher than 21 with Shor’s algorithm."
+    } ]
+  }, {
+    "tStartMs": 509350,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Which, honestly, I can do in my head."
+    } ]
+  }, {
+    "tStartMs": 511870,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Does that mean I’m a quantum computer?"
+    } ]
+  }, {
+    "tStartMs": 513560,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "There are some who might say so - I reserve\nmy opinion."
+    } ]
+  }, {
+    "tStartMs": 517200,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "At any rate, although current technology isn’t\nthere yet, when we figure out how to build"
+    } ]
+  }, {
+    "tStartMs": 522500,
+    "dDurationMs": 7270,
+    "segs": [ {
+      "utf8": "quantum computers with thousands of qubits\neven the very high digit RSA keys will not be"
+    } ]
+  }, {
+    "tStartMs": 529770,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "safe."
+    } ]
+  }, {
+    "tStartMs": 530770,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "So how do we fix this problem?"
+    } ]
+  }, {
+    "tStartMs": 533460,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "The answer is to find one-way functions that\ndon’t have a known exploitable quality like"
+    } ]
+  }, {
+    "tStartMs": 539440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "the periodicity of prime factoring."
+    } ]
+  }, {
+    "tStartMs": 541800,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "That’s the goal of a competition currently\nbeing run by NIST, the National Institute"
+    } ]
+  }, {
+    "tStartMs": 546610,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "for Standards and Technology."
+    } ]
+  }, {
+    "tStartMs": 548520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Algorithm applicants have been whittled down\nfrom a field of nearly 70 to only 7 finalists"
+    } ]
+  }, {
+    "tStartMs": 552120,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and a couple alternates, which were announced\nin June."
+    } ]
+  }, {
+    "tStartMs": 555210,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "In 2022, NIST is expected to narrow it down\nto one or two quantum resistant algorithms."
+    } ]
+  }, {
+    "tStartMs": 560960,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "These will become the new standards for public\nkey encryption and digital signatures—and"
+    } ]
+  }, {
+    "tStartMs": 565770,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "they’ll hopefully be able to protect our\ndata from quantum computing attacks."
+    } ]
+  }, {
+    "tStartMs": 570490,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "One of the NIST finalists achieves that through\nthe McEliece cryptosystem, which gets its"
+    } ]
+  }, {
+    "tStartMs": 574800,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "name from cryptographer Robert McEliece, who\ndeveloped the hard math problem back in the"
+    } ]
+  }, {
+    "tStartMs": 579450,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "1970s."
+    } ]
+  }, {
+    "tStartMs": 580450,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The principle behind McEliece is that it’s\nreally difficult to repair errors in large"
+    } ]
+  }, {
+    "tStartMs": 584890,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "messages."
+    } ]
+  }, {
+    "tStartMs": 585890,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "That gives us the potential for a one-way\nfunction."
+    } ]
+  }, {
+    "tStartMs": 588550,
+    "dDurationMs": 3539,
+    "segs": [ {
+      "utf8": "Here's a very basic example of error decoding."
+    } ]
+  }, {
+    "tStartMs": 592089,
+    "dDurationMs": 5891,
+    "segs": [ {
+      "utf8": "Suppose Alice wants to send a message to Bob—”CAT”\nwhich is represented by the binary string"
+    } ]
+  }, {
+    "tStartMs": 597980,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "1 1 0 1."
+    } ]
+  }, {
+    "tStartMs": 600460,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Once in a while, Alice sends the code, but\na bit flips and she sends 1 0 0 1, which means"
+    } ]
+  }, {
+    "tStartMs": 607500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "DOG."
+    } ]
+  }, {
+    "tStartMs": 608500,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Bob knows Alice doesn’t have a dog, so he’s\npretty sure there’s been an error."
+    } ]
+  }, {
+    "tStartMs": 612730,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What can he do?"
+    } ]
+  }, {
+    "tStartMs": 613730,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Well, Bob can cross-reference his received\nmessage."
+    } ]
+  }, {
+    "tStartMs": 616410,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "He can add an error to each of the codewords."
+    } ]
+  }, {
+    "tStartMs": 619460,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "We’re working in binary, so 1+1=0."
+    } ]
+  }, {
+    "tStartMs": 622720,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "An error of 0100 to CAT (1101) equals DOG\n(1001), which is the message Bob got."
+    } ]
+  }, {
+    "tStartMs": 629000,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "So Bob can decode his message and know Alice’s\ntrue intent."
+    } ]
+  }, {
+    "tStartMs": 633690,
+    "dDurationMs": 5491,
+    "segs": [ {
+      "utf8": "But decoding errors becomes much, much harder\nas the codeword size increases—unless you"
+    } ]
+  }, {
+    "tStartMs": 639181,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "know some things about the codeword ahead\nof time."
+    } ]
+  }, {
+    "tStartMs": 642740,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "In the McEliece cryptosystem, the key is to\nmodify the message in a reversible way to"
+    } ]
+  }, {
+    "tStartMs": 648360,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "create a very large codeword - then add errors\nto that codeword."
+    } ]
+  }, {
+    "tStartMs": 653890,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Unless you know how that modification was done in the first place, it’s essentially impossible to remove the"
+    } ]
+  }, {
+    "tStartMs": 658890,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "added errors."
+    } ]
+  }, {
+    "tStartMs": 660660,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "McEliece does this by coding messages into\nlarge matrices."
+    } ]
+  }, {
+    "tStartMs": 664170,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "You have a big array of numbers - a matrix\n- and you scramble it using key matrices and"
+    } ]
+  }, {
+    "tStartMs": 670390,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "code your message into the result."
+    } ]
+  }, {
+    "tStartMs": 672690,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Then you add some errors."
+    } ]
+  }, {
+    "tStartMs": 673690,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "If someone knows the keys - the matrices used to do that scramble in the first place, they can pretty easily eliminate"
+    } ]
+  }, {
+    "tStartMs": 678650,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "the errors - find a message that makes sense."
+    } ]
+  }, {
+    "tStartMs": 681820,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "But without those keys it’s near impossible\nto decode the errors from this gigantic matrix,"
+    } ]
+  }, {
+    "tStartMs": 685360,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "and the presence of the errors makes it impossible\nto brute force the one-way function in the"
+    } ]
+  }, {
+    "tStartMs": 689590,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "backwards direction."
+    } ]
+  }, {
+    "tStartMs": 690880,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "McEliece avoids the periodicity that makes\nRSA vulnerable to Shor’s algorithm."
+    } ]
+  }, {
+    "tStartMs": 698200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Computing in parallel universes just isn’t helpful\nhere."
+    } ]
+  }, {
+    "tStartMs": 701760,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "But there’s a reason we haven’t been using\nMcEliece: the public key - this giant matrix"
+    } ]
+  }, {
+    "tStartMs": 707520,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "- is, well, giant."
+    } ]
+  }, {
+    "tStartMs": 709860,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "RSA uses public keys on the order of a kilobyte."
+    } ]
+  }, {
+    "tStartMs": 713100,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "To be secure against quantum attacks for the\nforeseeable future, McEliece would need an"
+    } ]
+  }, {
+    "tStartMs": 719570,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "8 Mb public key—8,000 times larger."
+    } ]
+  }, {
+    "tStartMs": 723420,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Right now, network protocols aren’t built\nfor this and it could cause dramatic slowdowns"
+    } ]
+  }, {
+    "tStartMs": 728640,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "in transactions."
+    } ]
+  }, {
+    "tStartMs": 729940,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "This is problem is shared by at least three of\nthe other public key encryption finalists—NTRU,"
+    } ]
+  }, {
+    "tStartMs": 736020,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "CRYSTALS-KYBER, and SABER, which are lattice-based\ncryptosystems."
+    } ]
+  }, {
+    "tStartMs": 740980,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Lattice-based cryptosystems rely on the difficulty\nof problems like the shortest vector problem."
+    } ]
+  }, {
+    "tStartMs": 747340,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "Suppose you have an enormous field dotted\nregularly with points."
+    } ]
+  }, {
+    "tStartMs": 752120,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Imagine that you’re forming giant parallelepipeds\nto cover the whole space."
+    } ]
+  }, {
+    "tStartMs": 757980,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "This is the lattice."
+    } ]
+  }, {
+    "tStartMs": 759250,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "But here’s a question: What is the shortest\nvector, or distance from one point to another"
+    } ]
+  }, {
+    "tStartMs": 764910,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "point?"
+    } ]
+  }, {
+    "tStartMs": 765910,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "So far there’s no known classical or quantum\nalgorithm that solves it quickly for large"
+    } ]
+  }, {
+    "tStartMs": 769940,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "lattices."
+    } ]
+  }, {
+    "tStartMs": 770980,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Unfortunately, those large lattices are also\nwhy the lattice candidates also have large"
+    } ]
+  }, {
+    "tStartMs": 776940,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "public keys."
+    } ]
+  }, {
+    "tStartMs": 778390,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Perhaps a bigger issue than the size of public\nkeys is the question is whether these algorithms"
+    } ]
+  }, {
+    "tStartMs": 782120,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "are really robust against quantum and classical\nattacks."
+    } ]
+  }, {
+    "tStartMs": 785950,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Well, one important factor in this question is the age of the alorgithm."
+    } ]
+  }, {
+    "tStartMs": 790790,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "The line of thought is basically this: the\nlonger a cryptosystem has been around, the"
+    } ]
+  }, {
+    "tStartMs": 794610,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "longer someone has had to break it."
+    } ]
+  }, {
+    "tStartMs": 796640,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "Since they haven’t, age is a good sign."
+    } ]
+  }, {
+    "tStartMs": 800279,
+    "dDurationMs": 6291,
+    "segs": [ {
+      "utf8": "People have more confidence in a 40 year old\nsystem like the McEliece than more recent lattice-based"
+    } ]
+  }, {
+    "tStartMs": 806570,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "systems."
+    } ]
+  }, {
+    "tStartMs": 808120,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So will post-quantum cryptography save digital\ncivilization?"
+    } ]
+  }, {
+    "tStartMs": 811900,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It’s hard to say."
+    } ]
+  }, {
+    "tStartMs": 814180,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "It’s true that these quantum resistant algorithms\nseem like they will be hard, if not impossible"
+    } ]
+  }, {
+    "tStartMs": 819430,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "for quantum computers to crack, but that doesn’t\nmean no one will come up with a way to do"
+    } ]
+  }, {
+    "tStartMs": 823940,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it."
+    } ]
+  }, {
+    "tStartMs": 824940,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "In fact, there’s no guarantee a classical\ncomputer won’t come up with a fast algorithm"
+    } ]
+  }, {
+    "tStartMs": 829550,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "to solve them."
+    } ]
+  }, {
+    "tStartMs": 831190,
+    "dDurationMs": 4211,
+    "segs": [ {
+      "utf8": "Mathematicians and cryptographers have decades\nof security to point to as proof of their"
+    } ]
+  }, {
+    "tStartMs": 835401,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "encrypting and decrypting abilities."
+    } ]
+  }, {
+    "tStartMs": 838560,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "But at the end of the day, quantum key distribution\nproponents would rather put their faith in"
+    } ]
+  }, {
+    "tStartMs": 844399,
+    "dDurationMs": 6661,
+    "segs": [ {
+      "utf8": "fundamental laws of physics - pretty darn\nsecure if only we had a quantum internet."
+    } ]
+  }, {
+    "tStartMs": 851060,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "In the meantime, post-quantum crypto may be\nour only hope as black hat quantum hackers"
+    } ]
+  }, {
+    "tStartMs": 857110,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "attempt to decrypt your embarrassing emails\nacross the parallel quantum space time."
+    } ]
+  }, {
+    "tStartMs": 864010,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Last week we talked about a highly speculative\nidea - lifeforms inside stars, formed from"
+    } ]
+  }, {
+    "tStartMs": 868930,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "cosmic strings and magnetic monopoles."
+    } ]
+  }, {
+    "tStartMs": 870990,
+    "dDurationMs": 8140,
+    "segs": [ {
+      "utf8": "Zoltan asks whether these cosmic necklaces would undergo reactions faster\nor slower than chemical reactions - so what"
+    } ]
+  }, {
+    "tStartMs": 879130,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "would be the timescale of evolution or lifespan\nof these critters?"
+    } ]
+  }, {
+    "tStartMs": 883170,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "The answer is the researchers did not speculate\non that, except to say that the reaction timescale"
+    } ]
+  }, {
+    "tStartMs": 887600,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "has to be shorter than the timescale for these\ncosmic necklaces being destroyed."
+    } ]
+  }, {
+    "tStartMs": 892040,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "That destruction is actually slower inside\na star than outside - cosmic necklaces can"
+    } ]
+  }, {
+    "tStartMs": 896839,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "be locked into the magnetic fields within\nthe solar plasma so they don’t fall apart"
+    } ]
+  }, {
+    "tStartMs": 901240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "immediately."
+    } ]
+  }, {
+    "tStartMs": 902240,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "But we really have no idea how quickly cosmic-string\nchemistry might proceed."
+    } ]
+  }, {
+    "tStartMs": 906540,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "The theory just isn’t there."
+    } ]
+  }, {
+    "tStartMs": 908330,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "But what can we say?"
+    } ]
+  }, {
+    "tStartMs": 910990,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Timescales may be driven by the timescale\nof the motion of plasma in the stars and by"
+    } ]
+  }, {
+    "tStartMs": 915490,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "the size of these critters."
+    } ]
+  }, {
+    "tStartMs": 917250,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "that timescale is days, and size is kilometers."
+    } ]
+  }, {
+    "tStartMs": 919990,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "That would suggest slower timescales than\nthe evolution of chemical life."
+    } ]
+  }, {
+    "tStartMs": 923930,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So maybe these things are very ancient and\nvery, very slow."
+    } ]
+  }, {
+    "tStartMs": 928730,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "John Momberg asks if this could all happen\nwith electric monopoles, given that magnetic"
+    } ]
+  }, {
+    "tStartMs": 933480,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "monopoles don’t exist."
+    } ]
+  }, {
+    "tStartMs": 935510,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Well, first let me say that magnetic monopoles\nmay well exist - in fact mainstream grand"
+    } ]
+  }, {
+    "tStartMs": 940020,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "unified theory candidates routinely predict\nthem."
+    } ]
+  }, {
+    "tStartMs": 943900,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "Could we do this with electric monopoles which definitely exist?"
+    } ]
+  }, {
+    "tStartMs": 947380,
+    "dDurationMs": 2019,
+    "segs": [ {
+      "utf8": "Well, yes - and it exists."
+    } ]
+  }, {
+    "tStartMs": 949399,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Electrons and quarks are electric monopoles."
+    } ]
+  }, {
+    "tStartMs": 952529,
+    "dDurationMs": 2941,
+    "segs": [ {
+      "utf8": "So that bizarre electric monopole-based life\nis us."
+    } ]
+  }, {
+    "tStartMs": 955470,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "I feel so exotic!"
+    } ]
+  }, {
+    "tStartMs": 957240,
+    "dDurationMs": 4539,
+    "segs": [ {
+      "utf8": "Many of you pointed out science fiction works\nthat had similar critters."
+    } ]
+  }, {
+    "tStartMs": 961779,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "There was Frederik Pohl's \"The world at the\nend of time\" has a Plasma creature living"
+    } ]
+  }, {
+    "tStartMs": 965500,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "in a star at war with copies of itself."
+    } ]
+  }, {
+    "tStartMs": 968660,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "There’s david brin’s sundiver, and Frank\nHerbert's \"Whipping Star\", and several more."
+    } ]
+  }, {
+    "tStartMs": 973190,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "I love when science fiction writers predict\nthings that turn out to be true, but also"
+    } ]
+  }, {
+    "tStartMs": 979130,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "things that almost certainly aren’t true\n- but which still took physicists much longer"
+    } ]
+  }, {
+    "tStartMs": 983769,
+    "dDurationMs": 1811,
+    "segs": [ {
+      "utf8": "to come up with."
+    } ]
+  }, {
+    "tStartMs": 985580,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Some of you thought it was funny that we would\ndo an episode on life in the sun right after"
+    } ]
+  }, {
+    "tStartMs": 989850,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the potential discovery of life on venus."
+    } ]
+  }, {
+    "tStartMs": 991850,
+    "dDurationMs": 4179,
+    "segs": [ {
+      "utf8": "Yeah, sorry that our production schedule isn't,\nlike, 30 minutes."
+    } ]
+  }, {
+    "tStartMs": 996029,
+    "dDurationMs": 3151,
+    "segs": [ {
+      "utf8": "It takes time to do kick ass animations."
+    } ]
+  }, {
+    "tStartMs": 999180,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "The life on venus episode will follow soon, don't worry."
+    } ]
+  }, {
+    "tStartMs": 1002860,
+    "dDurationMs": 5219,
+    "segs": [ {
+      "utf8": "And besides, don't you think it's important\nto understand possible life in the sun before"
+    } ]
+  }, {
+    "tStartMs": 1008079,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "we decide what diplomatic relations to develop\nwith the venusians?"
+    } ]
+  }, {
+    "tStartMs": 1011800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1012800,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Well, Celsius notes that these sun creatures\nwould have had a very different experience"
+    } ]
+  }, {
+    "tStartMs": 1017100,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "in their scientific development."
+    } ]
+  }, {
+    "tStartMs": 1019320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "No Copernican revolution for them, where they\nrealised they weren’t the center of the"
+    } ]
+  }, {
+    "tStartMs": 1024120,
+    "dDurationMs": 1829,
+    "segs": [ {
+      "utf8": "solar system after all."
+    } ]
+  }, {
+    "tStartMs": 1025949,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "The modicrum of humility that humanity developed\nfrom that realization would not apply ... so"
+    } ]
+  }, {
+    "tStartMs": 1032279,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "like, yeah, \"we’re creatures made of light\nand energy and are at the center of the universe,"
+    } ]
+  }, {
+    "tStartMs": 1037309,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "and we're orbited by specks of dust infested\nwith some sort of mud-based life."
+    } ]
+  }, {
+    "tStartMs": 1041759,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Eww.\""
+    } ]
+  }, {
+    "tStartMs": 1042759,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "So yeah, Probably we should team up with the\nvenusians real quick."
+    } ]
+  } ]
+}

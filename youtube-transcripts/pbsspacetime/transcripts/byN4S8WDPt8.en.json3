@@ -1,0 +1,1093 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Thank you to Opera for supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 2100,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "A few weeks ago the world's gravitational \nwave astronomers announced something pretty  "
+    } ]
+  }, {
+    "tStartMs": 6240,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "wild. The moderately confident detection of \npervasive ripples in the fabric of space time  "
+    } ]
+  }, {
+    "tStartMs": 11700,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "that presumably fills the cosmos, detected by \nwatching for subtle connections between the  "
+    } ]
+  }, {
+    "tStartMs": 17520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "signals from rapidly spinning cores of dead stars \nin our galactic neighbourhood. In other words,  "
+    } ]
+  }, {
+    "tStartMs": 22800,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "the gravitational wave background has probably \nbeen detected using a pulsar timing array."
+    } ]
+  }, {
+    "tStartMs": 33360,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "The likely detection of the gravitational \nwave background is huge. Several channels  "
+    } ]
+  }, {
+    "tStartMs": 38760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "have gotten to this news item \nbefore us, but, in our defence,  "
+    } ]
+  }, {
+    "tStartMs": 41640,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "we did an episode on the slightly more \ntentative detection two years ago. Now the  "
+    } ]
+  }, {
+    "tStartMs": 47520,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "detection is on firm footing and the basics have \nbeen thoroughly covered by ourselves and others,  "
+    } ]
+  }, {
+    "tStartMs": 52620,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "we can dig a little deeper. Today I want to \ntalk a bit about what it took to spot the  "
+    } ]
+  }, {
+    "tStartMs": 57420,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "gravitational wave background, and then more \nabout what it tells us about our universe."
+    } ]
+  }, {
+    "tStartMs": 61860,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "First up, let’s take a moment to appreciate \nthe awesomeness of this achievement."
+    } ]
+  }, {
+    "tStartMs": 66840,
+    "dDurationMs": 8340,
+    "segs": [ {
+      "utf8": "We started with a deceptively simple idea. And \nby we I mean humanity, but specifically the  "
+    } ]
+  }, {
+    "tStartMs": 75180,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "incidence of humanity named Albert Einstein. \nThe following thought popped into his head: "
+    } ]
+  }, {
+    "tStartMs": 81900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "“For a man falling from the roof of a \nhouse, there is no gravitational field.”  "
+    } ]
+  }, {
+    "tStartMs": 86880,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "This became the equivalence principle, \nwhich basically states that the feeling  "
+    } ]
+  }, {
+    "tStartMs": 90780,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "of weightlessness you have while falling is \nthe same as weightlessness in the absence  "
+    } ]
+  }, {
+    "tStartMs": 96120,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "of gravity. And the feeling of heaviness \nwhen accelerating is the same as that when  "
+    } ]
+  }, {
+    "tStartMs": 100860,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "stationary in a gravitational field. At least \nas far as the laws of physics are concerned.  "
+    } ]
+  }, {
+    "tStartMs": 106620,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "From the equivalence principle and one more \naxiom that the speed of light is constant for  "
+    } ]
+  }, {
+    "tStartMs": 111180,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "all observers, an inevitable chain of reasoning \nled Einstein to the general theory of relativity,  "
+    } ]
+  }, {
+    "tStartMs": 116340,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "which explains gravity as being due \nto the warping of space and time."
+    } ]
+  }, {
+    "tStartMs": 119580,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "The equations of GR give us so much \nmore than gravity—they predict that  "
+    } ]
+  }, {
+    "tStartMs": 125160,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "gravitational fields slow clocks and deflect \nlight, reveal the inevitability of black holes,  "
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and also predict that the fabric \nof spacetime should carry waves."
+    } ]
+  }, {
+    "tStartMs": 134460,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Gravitational waves were the last great prediction \nof general relativity to be experimentally  "
+    } ]
+  }, {
+    "tStartMs": 140340,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "verified, and that happened only in 2016 \nwhen LIGO spotted the spacetime ripples caused  "
+    } ]
+  }, {
+    "tStartMs": 146760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "when a pair of black holes spiraled together \nand merged over a billion light years away.  "
+    } ]
+  }, {
+    "tStartMs": 151080,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "LIGO did this by measuring the literal stretching \nand squishing of space, using what amount to a  "
+    } ]
+  }, {
+    "tStartMs": 158040,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "pair of ultra-precise rulers a few kilometers \nin length, set at right angles to each other."
+    } ]
+  }, {
+    "tStartMs": 163860,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "In the 8 years we’ve been doing this, we’ve \nobserved the gravitational waves resulting  "
+    } ]
+  }, {
+    "tStartMs": 168780,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "from the final inspiral of pairs of black holes \nand/or neutron stars. These have mass from a few  "
+    } ]
+  }, {
+    "tStartMs": 175620,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "to a few tens of times the mass of the Sun. \nOur Earth-based facilities were built to be  "
+    } ]
+  }, {
+    "tStartMs": 181260,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "sensitive to these, because we knew there should \nbe lots of these sorts of gravitational waves.  "
+    } ]
+  }, {
+    "tStartMs": 187680,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Now as waves, gravitational waves \nhave wavelengths. An observatory  "
+    } ]
+  }, {
+    "tStartMs": 192780,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "will be sensitive to wavelengths that have a \nsimilar size to the detector arm—to its rulers.  "
+    } ]
+  }, {
+    "tStartMs": 199380,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "And inspiralling stellar corpses generate \nwavelengths roughly equal to their orbital  "
+    } ]
+  }, {
+    "tStartMs": 204960,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "period times the speed of light—which is a few \nkilometers in the last seconds of that inspiral."
+    } ]
+  }, {
+    "tStartMs": 209580,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "The larger the orbit the longer the \nwavelength. The gravitational waves  "
+    } ]
+  }, {
+    "tStartMs": 213480,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "produced by binary stellar mass black \nholes when they’re further apart should  "
+    } ]
+  }, {
+    "tStartMs": 218160,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "be visible to the Laser Interferometer \nSpace Antenna—LISA—with its 2.5 million  "
+    } ]
+  }, {
+    "tStartMs": 224460,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "km long arms of its laser-connected \nspacecraft. At least, after it launches."
+    } ]
+  }, {
+    "tStartMs": 229020,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "But there are also gravitational waves that \nstretch for light years—waves that no human-built  "
+    } ]
+  }, {
+    "tStartMs": 234420,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "device could hope to detect because we can’t build \ngalactic-scale rulers. However by happy chance  "
+    } ]
+  }, {
+    "tStartMs": 241140,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "the galaxy has obliged and provided us with a \nnetwork of natural rulers—the pulsars. Well,  "
+    } ]
+  }, {
+    "tStartMs": 248820,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "more clocks than rulers. Pulsars are rapidly \nrotating and precessing neutron stars whose  "
+    } ]
+  }, {
+    "tStartMs": 254580,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "jets sweep past the Earth, resulting in blips of \nelectromagnetic radiation that repeat with extreme  "
+    } ]
+  }, {
+    "tStartMs": 260040,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "regularity, sometimes several hundred times a \nsecond. Those ridiculously fast ones are called  "
+    } ]
+  }, {
+    "tStartMs": 266820,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "millisecond pulsars, and they are the most precise \nclocks in the universe, natural or unnatural."
+    } ]
+  }, {
+    "tStartMs": 272340,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "But we wanted a ruler, not a clock. But with \nthe conveniently constant speed of light,  "
+    } ]
+  }, {
+    "tStartMs": 277920,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "a clock becomes a ruler if we just measure the \ntravel time of light. If a gravitational wave  "
+    } ]
+  }, {
+    "tStartMs": 284520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "passes by the stream of incoming signals \nfrom a pulsar, it will stretch and compact  "
+    } ]
+  }, {
+    "tStartMs": 290040,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the space between those pulses. Measuring \nthe change in pulse arrival time measures  "
+    } ]
+  }, {
+    "tStartMs": 295320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "the gravitational wave. This can, in principle, \nbe used to spot individual gravitational waves."
+    } ]
+  }, {
+    "tStartMs": 302040,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "But that’s not what this new result is. Several \ninternational collaborations have now been  "
+    } ]
+  }, {
+    "tStartMs": 307440,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "watching dozens of pulsars for over 15 years using \nmany of the largest radio telescopes on Earth.  "
+    } ]
+  }, {
+    "tStartMs": 313560,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "These pulsar timing arrays don’t yet have a \nsure signal from a single gravitational wave,  "
+    } ]
+  }, {
+    "tStartMs": 319140,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "but essentially all these teams agree that their \ndata reveal something that’s arguably even cooler.  "
+    } ]
+  }, {
+    "tStartMs": 326760,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "All of spacetime across the pulsar network,  "
+    } ]
+  }, {
+    "tStartMs": 329700,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "and probably across the universe, is a bit \nwibbly wobbly. They claim detection of the  "
+    } ]
+  }, {
+    "tStartMs": 335940,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "stochastic gravitational wave background—the \njumbled overlap of many many very weak but  "
+    } ]
+  }, {
+    "tStartMs": 341220,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "very long wavelength gravitational waves that \nmust originate from across the known universe."
+    } ]
+  }, {
+    "tStartMs": 346260,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "We don’t know what creates the background \nyet—it could be echoes from the inflationary  "
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "epoch which kickstarted the Big Bang, or \nuniverse-wide phase transitions right after  "
+    } ]
+  }, {
+    "tStartMs": 357780,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "that. It could be cosmic string collisions in \nwhich fissures in spacetime tangle and split,  "
+    } ]
+  }, {
+    "tStartMs": 363600,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "or the frolicking of galactic gigawhales in \ngalaxies far far away. Well probably not that,  "
+    } ]
+  }, {
+    "tStartMs": 369960,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "but we can hope. Most likely, however, this \ngravitational wave background results from  "
+    } ]
+  }, {
+    "tStartMs": 375120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "binary black holes. Although in this case, \nit’s not from the individual 10s-of-solar-mass  "
+    } ]
+  }, {
+    "tStartMs": 380040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "black holes seen by LIGO. We’re probably \nseeing the reverberating tremors caused  "
+    } ]
+  }, {
+    "tStartMs": 385560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "by binary pairs of behemoth supermassive \nblack holes in the hearts of galaxies."
+    } ]
+  }, {
+    "tStartMs": 391080,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "These SMBHs with masses of millions \nto billions that of our sun,  "
+    } ]
+  }, {
+    "tStartMs": 396240,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "are close to my own heart as a researcher, \nso I’m more than a little excited about what  "
+    } ]
+  }, {
+    "tStartMs": 402660,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "we can learn about them, and I’m going to \nspend some time talking about them today."
+    } ]
+  }, {
+    "tStartMs": 407580,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "But first, let’s start with an analogy to \nget a better picture of all this craziness."
+    } ]
+  }, {
+    "tStartMs": 412620,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Take the surface of a still lake and very \nrapidly stir it at one point with a pin point.  "
+    } ]
+  }, {
+    "tStartMs": 418920,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "The expanding ripples are like the \ngravitational radiation detected by LIGO.  "
+    } ]
+  }, {
+    "tStartMs": 423840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Now, instead of one pin-point spiral, stir \nthe surface of the lake with many many,  "
+    } ]
+  }, {
+    "tStartMs": 428640,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "I dunno, tree trunks or something, but much \nmore slowly. The entire lake is now covered  "
+    } ]
+  }, {
+    "tStartMs": 435180,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "in a jumble of very low-frequency ripples \nthat aren’t distinguishable from each other."
+    } ]
+  }, {
+    "tStartMs": 439860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "This is similar to what the stochastic \ngravitational wave background should  "
+    } ]
+  }, {
+    "tStartMs": 443280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "look like if it's caused by \nbinary supermassive black holes.  "
+    } ]
+  }, {
+    "tStartMs": 447240,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "LIGO is tiny compared to the resulting spacetime \nripples. Both of its arms are affected to the same  "
+    } ]
+  }, {
+    "tStartMs": 454020,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "degree by lightyears-long oscillation, \nand so it doesn’t notice their passage.  "
+    } ]
+  }, {
+    "tStartMs": 459900,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "But the relative distances to pulsars \nare affected by these enormous waves,  "
+    } ]
+  }, {
+    "tStartMs": 464760,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "and so they should cause observable shifts in \nthe timing of their pulses as we observe them."
+    } ]
+  }, {
+    "tStartMs": 469980,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "These ripples are messy—apparently random, or \n“stochastic”. So how can we be sure we’re even  "
+    } ]
+  }, {
+    "tStartMs": 476820,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "seeing gravitational waves? After all, there \nare various reasons why the rate of a pulsar’s  "
+    } ]
+  }, {
+    "tStartMs": 481560,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "signal may change. Pulsar rotations rates \ncan slow down or speed up, and the travel  "
+    } ]
+  }, {
+    "tStartMs": 487260,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "time of their signals to us can be affected \nby more than gravitational waves. For example,  "
+    } ]
+  }, {
+    "tStartMs": 491460,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "passing through a region of ionized gas slows the \nradio light. But all of these things should affect  "
+    } ]
+  }, {
+    "tStartMs": 497100,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "each pulsar individually, or at worst affect \ngroups of pulsars in one particular direction."
+    } ]
+  }, {
+    "tStartMs": 502080,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "However, gravitational waves cause the pulse \nrates of pulsars across the galaxy to change  "
+    } ]
+  }, {
+    "tStartMs": 508440,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "in ways that are correlated with each other. \nImagine signals traveling to us from different  "
+    } ]
+  }, {
+    "tStartMs": 513060,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "pairs of pulsars. Those signals could be traveling \ntogether if the pulsars are near each other on the  "
+    } ]
+  }, {
+    "tStartMs": 518100,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "sky. They could be traveling to us from opposite \ndirections on the sky. Or the signals could be  "
+    } ]
+  }, {
+    "tStartMs": 523320,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "traveling at right angles to each other. Or they \ncould be situated in between those extreme cases."
+    } ]
+  }, {
+    "tStartMs": 528360,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Any given gravitational wave that makes up \npart of the background will also be traveling  "
+    } ]
+  }, {
+    "tStartMs": 534420,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "through the galaxy in some direction \nrelative to both of the pulsar signals.  "
+    } ]
+  }, {
+    "tStartMs": 540480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "In some cases, that relative direction will \ncause both pulse rates to be affected in the  "
+    } ]
+  }, {
+    "tStartMs": 545520,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "same way—correlated, and in some cases they’ll \nbe affected in opposite ways or — anticorrelated."
+    } ]
+  }, {
+    "tStartMs": 553200,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "For example, you would get a correlated \npulsar timing shift if both pulsar signals  "
+    } ]
+  }, {
+    "tStartMs": 558120,
+    "dDurationMs": 7980,
+    "segs": [ {
+      "utf8": "are surfing the same gravitational wave, or if \na 180-degree-separated pulsar pair encounters  "
+    } ]
+  }, {
+    "tStartMs": 566100,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "a gravitational wave moving at right angles to \nboth signals. And you’d get an anti-correlated  "
+    } ]
+  }, {
+    "tStartMs": 572100,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "shift if the pulsar signals are traveling \nat right angles to each other because of the  "
+    } ]
+  }, {
+    "tStartMs": 576540,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "way gravitational waves alternatively stretch \nand squish space at 90 degrees as they pass."
+    } ]
+  }, {
+    "tStartMs": 581520,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "The correlation or anticorrelation due to a single \ngravitational wave is extremely difficult to pick  "
+    } ]
+  }, {
+    "tStartMs": 587940,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "out from all the sources of noise. However, if you \nlook at enough pairs of pulsars for enough time,  "
+    } ]
+  }, {
+    "tStartMs": 593580,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "you expect to see a statistical correlation \nin what we call the pulsar timing residual—  "
+    } ]
+  }, {
+    "tStartMs": 598440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "that'sthe amount of deviation from the very \nprecise expected arrival time of these pulses."
+    } ]
+  }, {
+    "tStartMs": 604440,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "This is the Hellings-Downs curve. It’s \nthe theoretical correlation between pulsar  "
+    } ]
+  }, {
+    "tStartMs": 610500,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "timing residuals for pairs of pulsars as \na function of their separation on the sky.  "
+    } ]
+  }, {
+    "tStartMs": 615600,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Pulsars with little separation should be highly \ncorrelated. Pulsars with 180 degree separation  "
+    } ]
+  }, {
+    "tStartMs": 621720,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "should be somewhat correlated. Pulsars with \n90 degree separation should be anticorrelated."
+    } ]
+  }, {
+    "tStartMs": 627420,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "OK, so how are the real pulsars behaving? \nThis is the result published by the  "
+    } ]
+  }, {
+    "tStartMs": 632220,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "NANOgrav collaboration. This is for \nevery combination of pairs for 67  "
+    } ]
+  }, {
+    "tStartMs": 637080,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "pulsars observed over 15 years. It’s very \nconsistent with our Hellings-Downs curve.  "
+    } ]
+  }, {
+    "tStartMs": 643740,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "NANOgrav claims that this is from 3.5 \nto 4 sigma depending on the statistical  "
+    } ]
+  }, {
+    "tStartMs": 650520,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "analysis used. That means it’s not \nquite a slam-dunk 5 sigma detection,  "
+    } ]
+  }, {
+    "tStartMs": 655740,
+    "dDurationMs": 7860,
+    "segs": [ {
+      "utf8": "in that this apparent correlation could still have \npopped out of random noise by a 1 in thousands  "
+    } ]
+  }, {
+    "tStartMs": 663600,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "chance. But it’s looking increasingly likely \nthat the correlations are real. The same results  "
+    } ]
+  }, {
+    "tStartMs": 668820,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "have been observed by other pulsar timing array \nexperiments, with varying degrees of confidence."
+    } ]
+  }, {
+    "tStartMs": 674940,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Now we can start looking into what we learn \nabout the universe from this observation.  "
+    } ]
+  }, {
+    "tStartMs": 680820,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "But before we do that, let’s pause for a moment to \nappreciate how crazy this achievement really is.  "
+    } ]
+  }, {
+    "tStartMs": 687480,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Remember that"
+    } ]
+  }, {
+    "tStartMs": 688380,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "we started with a simple \nthought experiment about the  "
+    } ]
+  }, {
+    "tStartMs": 691920,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "experience of someone falling off a \nroof. That “what if” scenario led us  "
+    } ]
+  }, {
+    "tStartMs": 696600,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "all the way to an actual observation \nof galactic-scale spacetime ripples."
+    } ]
+  }, {
+    "tStartMs": 701460,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "But spacetime ripples from what? I’ve been talking \nabout binary supermassive black holes, because  "
+    } ]
+  }, {
+    "tStartMs": 707400,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "that’s what the NANOgrav team thinks this is. The \ntype of timing correlation that was observed is  "
+    } ]
+  }, {
+    "tStartMs": 714480,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "what you’d expect from many, many sources of \ngravitational waves that are a) powerful and  "
+    } ]
+  }, {
+    "tStartMs": 720060,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "low frequency, b) randomly distributed across \nthe cosmos, and c) randomly polarized - so no  "
+    } ]
+  }, {
+    "tStartMs": 726900,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "preferred direction for the stretching and \nsquishing of space from any given wave.  "
+    } ]
+  }, {
+    "tStartMs": 731220,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Any such population of sources should \ngive you this characteristic curve."
+    } ]
+  }, {
+    "tStartMs": 736500,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "So why binary SMBHs? Well they do potentially \nfit the requirements, but just as importantly,  "
+    } ]
+  }, {
+    "tStartMs": 742620,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "we know they should exist. We know that every \ngalaxy contains a huge black hole at its center.  "
+    } ]
+  }, {
+    "tStartMs": 749160,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "And we know that bigger galaxies are made from \nsmaller galaxies combining, and that bigger  "
+    } ]
+  }, {
+    "tStartMs": 755040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "galaxies have bigger black holes. It only stands \nto reason that there are a good number of binary  "
+    } ]
+  }, {
+    "tStartMs": 760200,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "supermassive black holes out there, even if we \nhaven’t seen them directly detected them yet.  "
+    } ]
+  }, {
+    "tStartMs": 765360,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Any other source of gravitational wave background  "
+    } ]
+  }, {
+    "tStartMs": 768420,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "like this is much more speculative—and we \ntalk about those in our previous episode."
+    } ]
+  }, {
+    "tStartMs": 774600,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "OK, so what does this signal tell us about \ngiant black holes, assuming they’re the cause?  "
+    } ]
+  }, {
+    "tStartMs": 780600,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "The pulsar timing data contains more information \nthan the Hellings-Downs correlation. We also learn  "
+    } ]
+  }, {
+    "tStartMs": 786540,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "about the frequencies of the underlying waves. \nFor binary black holes, the frequency of the  "
+    } ]
+  }, {
+    "tStartMs": 791940,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "outgoing gravitational wave is basically the rate \nat which the monsters orbit each other. If we can  "
+    } ]
+  }, {
+    "tStartMs": 797880,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "see what different frequencies make up the jumbled \nmess of the gravitational wave background we can  "
+    } ]
+  }, {
+    "tStartMs": 802980,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "learn something about those black hole orbits. \nIn particular, we can learn about how they spiral  "
+    } ]
+  }, {
+    "tStartMs": 808200,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "together and eventually merge. For example, \nif those binaries spend a lot of time orbiting  "
+    } ]
+  }, {
+    "tStartMs": 813720,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "each other at a great distance, then there \nshould be a very strong low frequency signal."
+    } ]
+  }, {
+    "tStartMs": 818220,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "This is the NANOgrav frequency spectrum. \nThe grey … funny shapes represent the  "
+    } ]
+  }, {
+    "tStartMs": 825120,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "strength of each frequency observed \nin the gravitational wave background.  "
+    } ]
+  }, {
+    "tStartMs": 829740,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The dashed line is what we expect from \na simple model of how supermassive black  "
+    } ]
+  }, {
+    "tStartMs": 834180,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "holes grew and formed binary pairs over cosmic \nhistory. It’s not inconsistent with the data,  "
+    } ]
+  }, {
+    "tStartMs": 840900,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "but there’s a hint of difference compared to \nthe simple model prediction. Perhaps too much  "
+    } ]
+  }, {
+    "tStartMs": 847080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "high frequency signal, or too little low frequency \nsignal. The NANOgrav collaboration speculate that  "
+    } ]
+  }, {
+    "tStartMs": 853080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the latter could be due to the binary supermassive \nblack holes interacting with the stars of their  "
+    } ]
+  }, {
+    "tStartMs": 858360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "surrounding galaxies, causing them to spiral \ntogether quicker than without that interaction."
+    } ]
+  }, {
+    "tStartMs": 864180,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "There’s also hint that the gravitational \nwave background is a bit stronger than  "
+    } ]
+  }, {
+    "tStartMs": 867840,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "expected from the simple binary black hole model,  "
+    } ]
+  }, {
+    "tStartMs": 870900,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "which means the SMBH pairs may be more massive \nthan expected or there may be many more of them.  "
+    } ]
+  }, {
+    "tStartMs": 877620,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "But this is all very loose, and there isn’t \nenough data yet to make any conclusive statements."
+    } ]
+  }, {
+    "tStartMs": 883440,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "But that data is coming. With this spectacular \nresult you can be sure our pulsar timing array  "
+    } ]
+  }, {
+    "tStartMs": 888780,
+    "dDurationMs": 7980,
+    "segs": [ {
+      "utf8": "projects will continue. Now, the longer we \nwatch, the larger these arrays get. That’s  "
+    } ]
+  }, {
+    "tStartMs": 896760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "because gravitational waves will have time to \ntraverse larger distances and affect the timing of  "
+    } ]
+  }, {
+    "tStartMs": 902400,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "more distant pulsars. For example, in NANOgrav’s \n12.5 year data release they included 47 pulsars,  "
+    } ]
+  }, {
+    "tStartMs": 909540,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "while at 15 years they could include 67. \nAs the pulsar timing array gets larger,  "
+    } ]
+  }, {
+    "tStartMs": 915600,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and as we track the correlations \nbetween pulsar pairs for longer,  "
+    } ]
+  }, {
+    "tStartMs": 919260,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "we hope this detection of the gravitational \nwave background becomes rock solid. Then we  "
+    } ]
+  }, {
+    "tStartMs": 924720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "can really start to pin down its origin, and use \nour new galaxy-scale observatory to study those  "
+    } ]
+  }, {
+    "tStartMs": 930480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "mysterious cosmic cataclysms that are sending \ntremors through the fabric of all of spacetime."
+    } ]
+  }, {
+    "tStartMs": 937200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Thank you to Opera for supporting PBS. One \nnew way to explore complex topics and the  "
+    } ]
+  }, {
+    "tStartMs": 942240,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "world around us is with Opera One - Opera’s \ncompletely redesigned AI-integrated browser.  "
+    } ]
+  }, {
+    "tStartMs": 948600,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Opera One has a multitude of new \nfunctionalities including Aria,  "
+    } ]
+  }, {
+    "tStartMs": 953040,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "an artificial intelligence powered by OpenAI’s \nGPT model. While browsing with Aria, you’ll have  "
+    } ]
+  }, {
+    "tStartMs": 959640,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "commands such as “Explain Briefly”, which provides \na short explanation about a highlighted topic;  "
+    } ]
+  }, {
+    "tStartMs": 965940,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "“Explore,” which provides an overview of the \ncontext of highlighted text and suggests how to  "
+    } ]
+  }, {
+    "tStartMs": 971820,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "explore further by providing links and keywords. \nAnd “Translate” which translates highlighted text  "
+    } ]
+  }, {
+    "tStartMs": 978000,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "into the detected browser language. Plus, \nyou’ll be able to do all this exploration  "
+    } ]
+  }, {
+    "tStartMs": 983460,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "with tab navigation that automatically builds \ncollapsible groups of tabs arranged by context  "
+    } ]
+  }, {
+    "tStartMs": 988740,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "into dedicated tab islands. To learn more about \nOpera One There’s a link in the description."
+    } ]
+  } ]
+}

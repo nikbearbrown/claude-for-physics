@@ -1,0 +1,1027 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Whenever we open a new window on the universe, \nwe discover things that no one expected.  "
+    } ]
+  }, {
+    "tStartMs": 5700,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Our newfound ability to measure ripples \nin the fabric of spacetime—gravitational  "
+    } ]
+  }, {
+    "tStartMs": 10020,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "waves—is a very new window, and so \nfar we’ve seen a lot of wild stuff.  "
+    } ]
+  }, {
+    "tStartMs": 16020,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "We’ve observed black holes merging, and their \noddly high masses challenges our understanding  "
+    } ]
+  }, {
+    "tStartMs": 22080,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "of black hole formation and growth. We’ve \nseen colliding neutron stars that have  "
+    } ]
+  }, {
+    "tStartMs": 26940,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "forced us to rewrite our ideas of how many of \nthe elements of the periodic table get made.  "
+    } ]
+  }, {
+    "tStartMs": 32460,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "But what else might be hiding in the ripples’ \nof spacetime? Oh, I know: how about the  "
+    } ]
+  }, {
+    "tStartMs": 38760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "gravitational wakes caused by planet-sized alien \nspacecraft accelerating to near light speed."
+    } ]
+  }, {
+    "tStartMs": 49440,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "The Laser Interferometer Gravitational \nWave Observatory—LIGO—was built with  "
+    } ]
+  }, {
+    "tStartMs": 54840,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "some very particular natural phenomena in mind—in \nparticular merging black holes and neutron stars,  "
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "which we’ve now seen, and supernova \nexplosions which we haven’t yet.  "
+    } ]
+  }, {
+    "tStartMs": 65400,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Gravitational waves are produced whenever \nan object with mass is accelerated, and so  "
+    } ]
+  }, {
+    "tStartMs": 70980,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "we’re constantly bathed in complex network of\nspacetime ripples. LIGO can only see the most  "
+    } ]
+  }, {
+    "tStartMs": 77340,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "powerful of these—caused by very massive objects \nundergoing extreme acceleration—and those only  "
+    } ]
+  }, {
+    "tStartMs": 83280,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "within a certain frequency range. Still, it’s \nworth asking what else might LIGO be able to see.  "
+    } ]
+  }, {
+    "tStartMs": 90960,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "For example, could an alien spacecraft be massive \nenough and accelerate rapidly enough to produce  "
+    } ]
+  }, {
+    "tStartMs": 97920,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "observable gravitational waves? That was the \nquestion asked by Luke Sellers and team. Their  "
+    } ]
+  }, {
+    "tStartMs": 104640,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "recent paper introduces the RAMAcraft—the rapid \nand massive accelerating spacecraft—a ship that  "
+    } ]
+  }, {
+    "tStartMs": 111720,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "creates a wake of detectable spacetime ripples. \nBut just how massive and how rapidly accelerating  "
+    } ]
+  }, {
+    "tStartMs": 118440,
+    "dDurationMs": 7860,
+    "segs": [ {
+      "utf8": "and how close would a RAMAcraft have to be for \nLIGO to be sensitive to it? Let’s find out."
+    } ]
+  }, {
+    "tStartMs": 126300,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Let me add a couple of notes of caution. \nFirst, this paper is not yet passed through  "
+    } ]
+  }, {
+    "tStartMs": 132420,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "the peer review process, though you \ncan get it on the preprint archive.  "
+    } ]
+  }, {
+    "tStartMs": 136920,
+    "dDurationMs": 7980,
+    "segs": [ {
+      "utf8": "Second, we have NOT observed signals like this—at \nleast as far as anyone has noticed. The paper is  "
+    } ]
+  }, {
+    "tStartMs": 144900,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "extremely speculative, and in a way it’s just \na bit of fun. But beneath the fun premise,  "
+    } ]
+  }, {
+    "tStartMs": 150720,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "the paper asks a serious question: given \nLIGO’s capabilities and known sensitivity,  "
+    } ]
+  }, {
+    "tStartMs": 156180,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "what kind of other signals might \nit be capable of detecting?"
+    } ]
+  }, {
+    "tStartMs": 160200,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "First, though, a brief reminder \nabout gravitational waves and LIGO.  "
+    } ]
+  }, {
+    "tStartMs": 165060,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "We’ve covered this stuff before, of \ncourse. Einstein’s general theory of  "
+    } ]
+  }, {
+    "tStartMs": 169440,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "relativity predicts that accelerating masses \ncreate self-propagating ripples in spacetime,  "
+    } ]
+  }, {
+    "tStartMs": 174720,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "just as accelerating electric charges make ripples \nin the electromagnetic field—also known as light."
+    } ]
+  }, {
+    "tStartMs": 181680,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Gravitational waves are waves in the \nfabric of space and time—they change  "
+    } ]
+  }, {
+    "tStartMs": 186180,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "lengths and durations when they pass \nby. LIGO spots gravitational waves  "
+    } ]
+  }, {
+    "tStartMs": 191100,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "by detecting the tiny variations in the \nrelative lengths of its 4-km-long arms.  "
+    } ]
+  }, {
+    "tStartMs": 197820,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Those arms alternately grow and shrink as \na wave passes by, and from the pattern of  "
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "those changes we can identify the nature \nof the gravitational wave source. The two  "
+    } ]
+  }, {
+    "tStartMs": 208440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "LIGO detectors in Washington and Lousianna in the \nUS, and with the help of their cousins, European  "
+    } ]
+  }, {
+    "tStartMs": 214680,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "VIRGO and Japanese KAGRA, we can triangulate \nlocation of the source of a gravitational wave."
+    } ]
+  }, {
+    "tStartMs": 221640,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Now, it’s super easy to make gravitational \nwaves- just flap your arms up and down,  "
+    } ]
+  }, {
+    "tStartMs": 226380,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "and you’re emitting gravitational waves. Making \ndetectable gravitational waves is a different  "
+    } ]
+  }, {
+    "tStartMs": 232080,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "story. Gravity is by far the weakest force, so \nwhile the electromagnetic signature of your little  "
+    } ]
+  }, {
+    "tStartMs": 238560,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "chicken dance is all too observable, you’re \neffectively invisible in gravitational waves."
+    } ]
+  }, {
+    "tStartMs": 244680,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "To make detectable gravitational waves you \nneed really big masses and you need to wiggle  "
+    } ]
+  }, {
+    "tStartMs": 251100,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "them really really hard. For example, a pair of \nblack holes in a binary pair are accelerating  "
+    } ]
+  }, {
+    "tStartMs": 257400,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "towards each other, and so generate gravitational \nwaves. These waves carry energy away, causing the  "
+    } ]
+  }, {
+    "tStartMs": 263220,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "black holes to sink closer together. \nIn a tighter orbit they move faster,  "
+    } ]
+  }, {
+    "tStartMs": 268260,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "and the stronger acceleration results in stronger \ngravitational waves at higher frequencies.  "
+    } ]
+  }, {
+    "tStartMs": 274620,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "If a pair of black holes the mass of our Sun were \nto spiral together, then just before merger they’d  "
+    } ]
+  }, {
+    "tStartMs": 280620,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "be moving at roughly half the speed of light. \nAnd the power they radiate in gravitational  "
+    } ]
+  }, {
+    "tStartMs": 285540,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "waves is more than the power emitted in light \nby all the stars in the observable universe."
+    } ]
+  }, {
+    "tStartMs": 292020,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "And this is what LIGO was designed \nto be sensitive to- the most powerful  "
+    } ]
+  }, {
+    "tStartMs": 296160,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "burst of waves emitted right \nat the end of such an inspiral."
+    } ]
+  }, {
+    "tStartMs": 300900,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "I made a point of emphasizing that it’s \nnot the speed of the black holes that  "
+    } ]
+  }, {
+    "tStartMs": 305820,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "creates gravitational waves, \nbut rather the acceleration.  "
+    } ]
+  }, {
+    "tStartMs": 309180,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "More precisely it’s the change in “quadrupole \nmoment of the mass distribution”—but let’s just  "
+    } ]
+  }, {
+    "tStartMs": 314340,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "think about acceleration because that’s what \nwe need for today. A black hole moving at an  "
+    } ]
+  }, {
+    "tStartMs": 319500,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "insane but constant speed in a straight line \nwouldn’t emit waves. But orbiting black holes  "
+    } ]
+  }, {
+    "tStartMs": 325680,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "do emit waves, because they’re accelerating \ntowards the center of mass of the binary  "
+    } ]
+  }, {
+    "tStartMs": 329340,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "system. But there are potentially other types \nof acceleration besides orbits. For example,  "
+    } ]
+  }, {
+    "tStartMs": 334080,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "we have linear acceleration—just \ngood-ol’ speeding up in a straight line."
+    } ]
+  }, {
+    "tStartMs": 338700,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "So what speeds up in a straight \nline? People trying to get somewhere.  "
+    } ]
+  }, {
+    "tStartMs": 343800,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "So what if those people are aliens yeeting \nthemselves through the cosmos? In the paper  "
+    } ]
+  }, {
+    "tStartMs": 349440,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "we’re looking at today the team does a pretty \nstraightforward general relativity calculation  "
+    } ]
+  }, {
+    "tStartMs": 354540,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "to figure out what the gravitational radiation \nshould look like for a massive body accelerating  "
+    } ]
+  }, {
+    "tStartMs": 360540,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "at a constant rate. And, importantly, in \nwhat circumstances LIGO could detect it."
+    } ]
+  }, {
+    "tStartMs": 365400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Gravitational waves in four-dimensional spacetime \nare hard to visualize, so let’s start with an  "
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "analogy: waves on the surface of water. An \ninspiraling orbit is a bit like stirring the  "
+    } ]
+  }, {
+    "tStartMs": 377280,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "water in circles, a linearly accelerating object \nmakes something more like the wake of a boat.  "
+    } ]
+  }, {
+    "tStartMs": 385140,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "And it’s this wake that would wash over the \nearth, and LIGO, and we could potentially detect."
+    } ]
+  }, {
+    "tStartMs": 392280,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "In order to figure out what types \nof spaceship wake LIGO could detect,  "
+    } ]
+  }, {
+    "tStartMs": 396540,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "we need to work backwards. We need to figure \nout the mass and acceleration rate that would  "
+    } ]
+  }, {
+    "tStartMs": 401640,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "produce a gravitational wave with the right \nintensity and frequency to be detected by LIGO."
+    } ]
+  }, {
+    "tStartMs": 408060,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Let's start with frequency, just like with \ntelescopes, LIGO is optimized for a specific  "
+    } ]
+  }, {
+    "tStartMs": 412560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "range of frequencies. It’s sensitive to \ngravitational waves between a few tens  "
+    } ]
+  }, {
+    "tStartMs": 416880,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "of hertz up to a few thousand hertz, with the \nsweet spot somewhere in the middle of that range.  "
+    } ]
+  }, {
+    "tStartMs": 422700,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Outside that range, the ‘noise’ gets too \nloud and tends to drown out real signals.  "
+    } ]
+  }, {
+    "tStartMs": 428640,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "The frequency of a gravitational wave is roughly \nequal to the frequency of the phenomenon that  "
+    } ]
+  }, {
+    "tStartMs": 433740,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "produced it, or the inverse of the timescale \nof that phenomenon—which would be the orbital  "
+    } ]
+  }, {
+    "tStartMs": 439500,
+    "dDurationMs": 6613,
+    "segs": [ {
+      "utf8": "period in the case of inspiraling objects. LIGO is \ndesigned to be most sensitive to the frequency of  "
+    } ]
+  }, {
+    "tStartMs": 446113,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "inspiralling black holes just before they merge, \nand particularly to the mass range expected for  "
+    } ]
+  }, {
+    "tStartMs": 451980,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "black holes produced in the deaths of massive \nstars. It’s just a coincidence that the resulting  "
+    } ]
+  }, {
+    "tStartMs": 458640,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "frequencies are the range of human hearing—as \nlong as you convert the gravitational wave to  "
+    } ]
+  }, {
+    "tStartMs": 463860,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "a sound wave first.\n…"
+    } ]
+  }, {
+    "tStartMs": 465540,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "So what ‘frequency’ is a spaceship wake?"
+    } ]
+  }, {
+    "tStartMs": 470940,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "It’s a little more complicated than the frequency \nof a black hole merger. The gravitational wave  "
+    } ]
+  }, {
+    "tStartMs": 475560,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "signal ends up being a mix of frequencies, \nsome high, and some low. But crudely speaking,  "
+    } ]
+  }, {
+    "tStartMs": 480960,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "larger acceleration means more energy \nis emitted in higher frequency waves,  "
+    } ]
+  }, {
+    "tStartMs": 485460,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "while lower accelerations have stronger \nlow-frequency waves. For an accelerating  "
+    } ]
+  }, {
+    "tStartMs": 491460,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "spacecraft it’s nicer to think about this in terms \nof time spent accelerating. If we assume that the  "
+    } ]
+  }, {
+    "tStartMs": 499860,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "aliens want to reach a certain maximum speed—say, \na certain fraction of the speed of light—then the  "
+    } ]
+  }, {
+    "tStartMs": 505680,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "acceleration is determined by the amount of \ntime taken to reach that speed. The longer  "
+    } ]
+  }, {
+    "tStartMs": 510120,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "the acceleration time to reach a given speed, \nthe stronger the low-frequency waves will be."
+    } ]
+  }, {
+    "tStartMs": 517380,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "We can also think about this in terms of \nwavelength. Low frequency means long wavelength.  "
+    } ]
+  }, {
+    "tStartMs": 523140,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "And the longer our craft spends accelerating, \nthe longer the gravitational wave it can emit."
+    } ]
+  }, {
+    "tStartMs": 528240,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Based on LIGO’s frequency sensitivity \nand assuming acceleration to"
+    } ]
+  }, {
+    "tStartMs": 533520,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "30%  the speed of light, this team of \nscientists figures that they’d need to  "
+    } ]
+  }, {
+    "tStartMs": 538380,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "reach that speed from standstill in just a few \ntens of seconds in order to be detectable by LIGO."
+    } ]
+  }, {
+    "tStartMs": 545820,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "And that's really slamming the foot - or pseudopod \nor plasma tentacle or whatever on the gas pretty  "
+    } ]
+  }, {
+    "tStartMs": 552840,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "hard. But how massive and how nearby would such \na craft need to be in order to be detectable by  "
+    } ]
+  }, {
+    "tStartMs": 558480,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "LIGO? The more massive the craft, the stronger its \ngravitational wake. Now LIGO is a very sensitive  "
+    } ]
+  }, {
+    "tStartMs": 566760,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "instrument, capable of detecting changes in \nthe lengths of its arms by a thousandth the  "
+    } ]
+  }, {
+    "tStartMs": 571980,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "width of a proton. That lets us spot black \nholes merging a billion light years away."
+    } ]
+  }, {
+    "tStartMs": 578460,
+    "dDurationMs": 8700,
+    "segs": [ {
+      "utf8": "In fact, LIGO could also detect an acceleration \nstarship an entire universe away… if that starship  "
+    } ]
+  }, {
+    "tStartMs": 587160,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "had the mass of the the entire Sun. That’s a solar \nmass accelerated to 30% light speed in a fraction  "
+    } ]
+  }, {
+    "tStartMs": 594660,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "of a second. Not too plausible perhaps. Although \nwe are talking about the hundreds of billions of  "
+    } ]
+  }, {
+    "tStartMs": 602100,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "galaxies each with hundreds of billions of \nstars, and we just need one civilization  "
+    } ]
+  }, {
+    "tStartMs": 606720,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "in all of that to reach this frankly absurd \ntechnological power. Still, it sounds pretty iffy."
+    } ]
+  }, {
+    "tStartMs": 614460,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "But thinking more modestly, how massive \nwould the craft have to be in order for  "
+    } ]
+  }, {
+    "tStartMs": 620040,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "an acceleration inside the Milky Way to be \nvisible? Well, from the other side of the  "
+    } ]
+  }, {
+    "tStartMs": 625740,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "galaxy it would have to be the mass of Jupiter. \nMoving a Jupiter mass to a good fraction of light  "
+    } ]
+  }, {
+    "tStartMs": 631980,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "speed in less than a second is also pretty \nfar out, and still doesn’t seem likely that  "
+    } ]
+  }, {
+    "tStartMs": 637920,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "such insane levels of tech exist in our galaxy, \ngiven we don’t see any other evidence for it."
+    } ]
+  }, {
+    "tStartMs": 644880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "If this were to happen closer to Earth - say, \nwithin 30 light years, or our local stellar  "
+    } ]
+  }, {
+    "tStartMs": 650160,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "neighbors, then we could potentially \ndetect a moon-mass accelerating ship."
+    } ]
+  }, {
+    "tStartMs": 655320,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "Some of you may remember that warp fields do\nrequire the entire mass-energy of a star or  "
+    } ]
+  }, {
+    "tStartMs": 663480,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "a Jupiter or a moon depending on how you calculate \nit. Now maybe that’s a way to produce the stupid  "
+    } ]
+  }, {
+    "tStartMs": 669840,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "accelerations required, while at the same time \nprotecting the RAMAcraft from the cataclysmic  "
+    } ]
+  }, {
+    "tStartMs": 675780,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "g-forces from that acceleration. Unfortunately, \nthe known warp field solutions don’t produce the  "
+    } ]
+  }, {
+    "tStartMs": 682200,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "same space-time wakes as simply accelerating a \nlarge mass. But perhaps there are undiscovered  "
+    } ]
+  }, {
+    "tStartMs": 689820,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "warp solutions that can do the job. But however \nthey do it, the aliens are going to need to  "
+    } ]
+  }, {
+    "tStartMs": 695580,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "access an unthinkable amount of energy. Remember \nthat a single merging black hole binary produces  "
+    } ]
+  }, {
+    "tStartMs": 702540,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "more power than emitted by all the stars in the \nuniverse for an instant. Scale that down to a mere  "
+    } ]
+  }, {
+    "tStartMs": 711420,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "planet-mass craft, and we’re still talking entire \ngalaxies or at least many stars worth of power."
+    } ]
+  }, {
+    "tStartMs": 717720,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "This all sounds pretty out there.  "
+    } ]
+  }, {
+    "tStartMs": 720540,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "But this isn’t a fool’s errand. There are a \ncouple of good reasons that we might want to  "
+    } ]
+  }, {
+    "tStartMs": 726120,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "think of weird sources of gravitational \nwaves, whether RAMAcraft or otherwise."
+    } ]
+  }, {
+    "tStartMs": 731520,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "We mostly think about looking for aliens through \nelectromagnetic radiation, whether their radio  "
+    } ]
+  }, {
+    "tStartMs": 736620,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "transmissions, their planet-covering city lights, \nor the light blotted out by their Dyson spheres.  "
+    } ]
+  }, {
+    "tStartMs": 743400,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "But the problem with electromagnetic waves is \nthat they dim very quickly with distance. The  "
+    } ]
+  }, {
+    "tStartMs": 748860,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "intensity of the light drops as the square of its \ndistance. Double your distance from a light source  "
+    } ]
+  }, {
+    "tStartMs": 754140,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "and it’s a quarter the strength. 10 times further \naway and it’s a factor 100 fainter. In addition,  "
+    } ]
+  }, {
+    "tStartMs": 760860,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "electromagnetic observatories - especially \ntraditional telescopes but also to some  "
+    } ]
+  }, {
+    "tStartMs": 765720,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "extent radio observatories - tend to be \nlimited to relatively small patches of  "
+    } ]
+  }, {
+    "tStartMs": 770580,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "the sky at a time, which further slows \nthe process of looking for this stuff."
+    } ]
+  }, {
+    "tStartMs": 775680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Due to this, our searches for artificial \nelectromagnetic signals are pretty much  "
+    } ]
+  }, {
+    "tStartMs": 780840,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "limited to nearby stars in the Milky Way. For \nexample, even the most ambitious search to date,  "
+    } ]
+  }, {
+    "tStartMs": 786600,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "Breakthrough Listen, has an ongoing goal of \nobserving a million stars and a handful of  "
+    } ]
+  }, {
+    "tStartMs": 793140,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "exotic candidates requiring literally years worth \nof observing telescope time on some of the biggest  "
+    } ]
+  }, {
+    "tStartMs": 799560,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "radio dishes in the world. That’s a fraction \nof a percent of the stars in the Milky Way."
+    } ]
+  }, {
+    "tStartMs": 804600,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "In contrast, the “strain”—or stretching and \nsquishing of space caused by gravitational  "
+    } ]
+  }, {
+    "tStartMs": 809940,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "wave weakens not as an inverse square \nlaw, but just as an inverse law.  "
+    } ]
+  }, {
+    "tStartMs": 816000,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "Being ten times farther only means ten times  \nweaker in strain, versus being 100 times weaker.  "
+    } ]
+  }, {
+    "tStartMs": 823320,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "Another convenient fact about gravitational waves \nis that they pass through anything. Photons are  "
+    } ]
+  }, {
+    "tStartMs": 829860,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "easily blocked by a bit of dust between the stars, \nor by our atmosphere. But gravitational waves are  "
+    } ]
+  }, {
+    "tStartMs": 836340,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "literal spacetime ripples. All the matter they \npass through just wibble-wobbles a little bit,  "
+    } ]
+  }, {
+    "tStartMs": 841620,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "leaving the wave largely unaffected. So we’re \nable to monitor gravitational waves coming from  "
+    } ]
+  }, {
+    "tStartMs": 847380,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "all directions constantly, and to very large \ndistances. So if that gigatech civilization  "
+    } ]
+  }, {
+    "tStartMs": 854100,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "is out there with its stupidly large spaceship, \nwe will detect it as long as it’s close enough."
+    } ]
+  }, {
+    "tStartMs": 859920,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Now there are other gravitational wave \nobservatories that can or will do better  "
+    } ]
+  }, {
+    "tStartMs": 865740,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "than LIGO in some respects. The upcoming LISA- \nthe Laser Interferometer Space Antenna - will  "
+    } ]
+  }, {
+    "tStartMs": 871620,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "have arms a million times longer than \nLIGO. And that means it’s sensitive to  "
+    } ]
+  }, {
+    "tStartMs": 875700,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "frequencies almost a million times lower. \nIt’s a little complicated to make a direct  "
+    } ]
+  }, {
+    "tStartMs": 880140,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "comparison of frequency sensitivity, but \nadding the fact tha LISA is able to monitor  "
+    } ]
+  }, {
+    "tStartMs": 885360,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "uninterrupted for many days due to the lack \nof gravitational noise out there in space,  "
+    } ]
+  }, {
+    "tStartMs": 891480,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "means it should be able to detect RAMAcraft \nthat take several days to accelerate. The  "
+    } ]
+  }, {
+    "tStartMs": 897360,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Pulsar Timing Array - a gravitational wave \nobservatory consisting of pulsars scattered  "
+    } ]
+  }, {
+    "tStartMs": 901980,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "across the Milky Way - could be sensitive to \ncraft that accelerate over months or years.  "
+    } ]
+  }, {
+    "tStartMs": 907620,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "They still need to be of Jupiter-ish masses \nfor us to spot them from across the Milky Way,  "
+    } ]
+  }, {
+    "tStartMs": 912780,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "but now the aliens don’t have to get whiplash \nfrom the g-forces in order to be seen."
+    } ]
+  }, {
+    "tStartMs": 917940,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "We probably are not going to see RAMAcraft \n- they’re a bit too outlandish to be likely.  "
+    } ]
+  }, {
+    "tStartMs": 924480,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "On the other hand, we would not want to miss them \nif they exist. And on the other, other hand, we  "
+    } ]
+  }, {
+    "tStartMs": 930780,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "may well see signals with LIGO and its successors \nthat look like linearly accelerating masses,  "
+    } ]
+  }, {
+    "tStartMs": 937800,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "and this paper does a good job of laying out what \nthe physical conditions of such phenomena would  "
+    } ]
+  }, {
+    "tStartMs": 944640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "have to be for us to spot them. For example, \nwe could have orbiting black holes with highly  "
+    } ]
+  }, {
+    "tStartMs": 950640,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "elongated orbits, or maybe a star or giant planet \naccelerating as it plummets into an enormous black  "
+    } ]
+  }, {
+    "tStartMs": 956820,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "hole, or a weird type of supernova where an \nintact chunk of the core gets exploded out.  "
+    } ]
+  }, {
+    "tStartMs": 963420,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The universe does weird stuff all the time \nand it's good to know what to look for,  "
+    } ]
+  }, {
+    "tStartMs": 968100,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "as long as we don’t immediately conclude \nthat it’s aliens. Because it’s never aliens.  "
+    } ]
+  }, {
+    "tStartMs": 974700,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "But it would be cool to find out that there are \nplanet-sized spacecraft hooning around on the  "
+    } ]
+  }, {
+    "tStartMs": 979800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "other side of the galaxy, leaving us sloshing \naround in their wakes of rippling spacetime."
+    } ]
+  } ]
+}

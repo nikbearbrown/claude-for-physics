@@ -1,0 +1,1321 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 560,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Entropy is surely one of the most perplexing concepts in physics. It’s variously described  "
+    } ]
+  }, {
+    "tStartMs": 5680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "as a measure of a system’s disorder - or as the amount of useful work that you can get from  "
+    } ]
+  }, {
+    "tStartMs": 10160,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "it - or as the information hidden by the system. Despite the seeming ambiguity in its definition,  "
+    } ]
+  }, {
+    "tStartMs": 16000,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "many physicists hold entropy to be behind \none of the most fundamental laws of physics."
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The great astrophysicist Arthur Eddington \nonce said, “The law that entropy always  "
+    } ]
+  }, {
+    "tStartMs": 32480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "increases holds, I think, the supreme \nposition among the laws of Nature...  "
+    } ]
+  }, {
+    "tStartMs": 36800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "if your theory is found to be against the Second Law of Thermodynamics I can give you no hope;  "
+    } ]
+  }, {
+    "tStartMs": 41520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "there is nothing for it to collapse in deepest humiliation.” Eddington wasn’t the only one  "
+    } ]
+  }, {
+    "tStartMs": 46640,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "to see the 2nd law as fundamental. As we’ve discussed in previous episodes, the 2nd law of  "
+    } ]
+  }, {
+    "tStartMs": 51840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "thermodynamics may be responsible for the arrow of time and is a key ingredient in solving the  "
+    } ]
+  }, {
+    "tStartMs": 56880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "black hole information paradox—a solution that may one day unite quantum physics with gravity."
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But despite these clues to the importance of entropy and the 2nd law, it’s not obvious what  "
+    } ]
+  }, {
+    "tStartMs": 67920,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "makes it so fundamental. A system’s entropy is what we call an emergent property, and the  "
+    } ]
+  }, {
+    "tStartMs": 73760,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "2nd law seems to be an emergent law. Emergent properties and laws arise from the statistical  "
+    } ]
+  }, {
+    "tStartMs": 79280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "behavior of large numbers of particles. For example, a room full of air has a temperature,  "
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "which is a measure of the average energy of motion of all the individual air molecules. But a single  "
+    } ]
+  }, {
+    "tStartMs": 89680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "air molecule doesn’t have a temperature - at least not in the same way. Instead, that molecule has a  "
+    } ]
+  }, {
+    "tStartMs": 94640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "velocity and a mass and so on, which define how it bounces off the walls or other particles,  "
+    } ]
+  }, {
+    "tStartMs": 99680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "giving rise to what we perceive as temperature, and giving rise to the laws of thermodynamics."
+    } ]
+  }, {
+    "tStartMs": 105520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So we tend to think of emergent properties and laws as less fundamental than the properties and  "
+    } ]
+  }, {
+    "tStartMs": 110800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "laws governing individual particles. Entropy IS a thermodynamic property, and the 2nd law  "
+    } ]
+  }, {
+    "tStartMs": 116480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "is the … well, second law of thermodynamics, so is also statistical in nature. Why, when are these  "
+    } ]
+  }, {
+    "tStartMs": 122080,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "things considered so fundamental? To answer that we need to understand what these things emerge  "
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "from. What underlying property of nature do all these different definitions of entropy describe?"
+    } ]
+  }, {
+    "tStartMs": 133040,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "As is often the case, getting more fundamental means getting quantum - and there is indeed a  "
+    } ]
+  }, {
+    "tStartMs": 138080,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "type of entropy that applies to quantum systems like our air molecule - it’s von Neumann entropy,  "
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and understanding it may help us understand not just the 2nd law, but also the arrow of time  "
+    } ]
+  }, {
+    "tStartMs": 149200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and how the large scale world emerges from the quantum world in the first place."
+    } ]
+  }, {
+    "tStartMs": 154240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Before we dive into that, let’s review \nthe more familiar definitions of entropy.  "
+    } ]
+  }, {
+    "tStartMs": 158640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "To really understand these we have a full \nplaylist on the mysteries of what I’ll call  "
+    } ]
+  }, {
+    "tStartMs": 163360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "classical entropy and its relationship \nto information. But let’s run through them."
+    } ]
+  }, {
+    "tStartMs": 168560,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Rudolf Clausius came up with the first \ndefinition of entropy as essentially the  "
+    } ]
+  }, {
+    "tStartMs": 172080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "amount of useful work that could be extracted by moving heat energy around. If heat energy  "
+    } ]
+  }, {
+    "tStartMs": 177040,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "is perfectly mixed inside and out of an engine then no work can be extracted, while if heat  "
+    } ]
+  }, {
+    "tStartMs": 183600,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "energy is separated - hotter inside the piston chamber - then it will tend to become mixed, and  "
+    } ]
+  }, {
+    "tStartMs": 189040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "we can harness that flow. Ludwig Boltzmann recast entropy in terms of the number of configurations  "
+    } ]
+  }, {
+    "tStartMs": 194160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of particles that give the same set of crude thermodynamic properties. For example, there are  "
+    } ]
+  }, {
+    "tStartMs": 199120,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "more configurations of particles in which energy is perfectly mixed than if energy is concentrated  "
+    } ]
+  }, {
+    "tStartMs": 204240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "in one spot - like in our piston chamber. Systems will tend towards the more common configurations. "
+    } ]
+  }, {
+    "tStartMs": 209040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Hence, entropy increases. Here we can start to see the connection between entropy and information.  "
+    } ]
+  }, {
+    "tStartMs": 214800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "If all the air is in a corner of the room for example, then you know more about the positions of the  "
+    } ]
+  }, {
+    "tStartMs": 220640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "individual particles - they’re all in the corner or the room - versus if they’re spread through the room."
+    } ]
+  }, {
+    "tStartMs": 225440,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "But it took the invention of information theory to really see the connection between information and entropy. It was Claude Shannon  "
+    } ]
+  }, {
+    "tStartMs": 232320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "who founded the field of Information theory, and also invented the entropy of information - Shannon  "
+    } ]
+  }, {
+    "tStartMs": 237840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "entropy. Shannon entropy can be thought of as the amount of hidden information in a system - or more  "
+    } ]
+  }, {
+    "tStartMs": 243040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "precisely the amount of information we can hope to gain by making a measurement on the system.  "
+    } ]
+  }, {
+    "tStartMs": 247840,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "If all the particles are bunched up in the corner then measuring their exact positions gets you  "
+    } ]
+  }, {
+    "tStartMs": 252480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "some information. But if you \nmeasure their positions when  "
+    } ]
+  }, {
+    "tStartMs": 255360,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "they’re spread through the room you \nincrease your information by a lot more."
+    } ]
+  }, {
+    "tStartMs": 259840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Another way to think about Shannon entropy is in terms of events. The more possible  "
+    } ]
+  }, {
+    "tStartMs": 264320,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "outcomes, the more entropy the event has. For example, a flipped coin is a low-Shannon-entropy  "
+    } ]
+  }, {
+    "tStartMs": 271360,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "event because it only has two outcomes, while flipping a million coins is a high entropy event.  "
+    } ]
+  }, {
+    "tStartMs": 277280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Shannon entropy is actually more \nfundamental than thermodynamic entropy  "
+    } ]
+  }, {
+    "tStartMs": 281280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "in that it is the generalization \nof the more familiar entropy.  "
+    } ]
+  }, {
+    "tStartMs": 285120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "It applies to any system of information and any type of action that reveals that information."
+    } ]
+  }, {
+    "tStartMs": 290560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "When he first came up with this theory, though, Shannon didn’t fully realize its importance.  "
+    } ]
+  }, {
+    "tStartMs": 295760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "As the (perhaps apocryphal) origin story goes, he only started calling his invention “entropy”  "
+    } ]
+  }, {
+    "tStartMs": 301360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "after talking to the great Hungarian mathematician and physicist John von Neumann. Supposedly, Von  "
+    } ]
+  }, {
+    "tStartMs": 307360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Neumann said that he should call it entropy for 2 reasons: 1. it looks exactly like the equation  "
+    } ]
+  }, {
+    "tStartMs": 313760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "for thermodynamic entropy, and 2. nobody knows what entropy is, so nobody would argue with him."
+    } ]
+  }, {
+    "tStartMs": 319680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But von Neumann probably knew perfectly \nwell that Shannon’s entropy was the real  "
+    } ]
+  }, {
+    "tStartMs": 324080,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "deal. One because von Neumann was a savant level genius who had out-math’d and out-physic’ed  "
+    } ]
+  }, {
+    "tStartMs": 330560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "many of the greatest minds of the last century;  "
+    } ]
+  }, {
+    "tStartMs": 333600,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and two because, of part one, von Neumann had already invented his own brand of entropy. Von  "
+    } ]
+  }, {
+    "tStartMs": 339600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Neumann entropy. Its the entropy of quantum systems, and because everything else is  "
+    } ]
+  }, {
+    "tStartMs": 344800,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "made of quantum systems, it may be the most fundamental definition of entropy, Even Shannon  "
+    } ]
+  }, {
+    "tStartMs": 350240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "entropy is a just a special case of von Neumann entropy - at least so says von Neumann himself."
+    } ]
+  }, {
+    "tStartMs": 355840,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "The concept of von Neumann entropy is at least incredibly powerful. It’s at the heart of quantum information theory,  "
+    } ]
+  }, {
+    "tStartMs": 362320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "enabling us to calculate how much quantum information is contained in a system,  "
+    } ]
+  }, {
+    "tStartMs": 366640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and it can also be used to determine how many bits of classical information we can get out of  "
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the system when we make a measurement. But perhaps the most interesting - von  "
+    } ]
+  }, {
+    "tStartMs": 375280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Neumann entropy tells us the amount of \nentanglement in the system. In fact it’s  "
+    } ]
+  }, {
+    "tStartMs": 380400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "driven by entanglement - this mysterious connection between quantum particles that Einstein called  "
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "“spooky action at a distance”. As a bit of a \nspoiler - von Neumann entropy seems to reveal the  "
+    } ]
+  }, {
+    "tStartMs": 392560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "evolution of entanglement connections is \nwhat drives the 2nd law of thermodynamics."
+    } ]
+  }, {
+    "tStartMs": 398400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Ok, we’re getting ahead of ourselves. To \nget a glimmer of understanding of what  "
+    } ]
+  }, {
+    "tStartMs": 402560,
+    "dDurationMs": 5246,
+    "segs": [ {
+      "utf8": "von Neumann entropy is about, let’s think \nabout information in quantum mechanics.  "
+    } ]
+  }, {
+    "tStartMs": 407806,
+    "dDurationMs": 3714,
+    "segs": [ {
+      "utf8": "Quantum systems are described by what we call the wavefunction - that’s the distribution of  "
+    } ]
+  }, {
+    "tStartMs": 411520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "probabilities of all the possible properties the system could have if you tried to measure it."
+    } ]
+  }, {
+    "tStartMs": 416000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "As an example, imagine you have a quantum coin. It has a wavefunction that just  "
+    } ]
+  }, {
+    "tStartMs": 420320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "describes which side is up - heads or tails. \nSo you flip the quantum coin it enters what  "
+    } ]
+  }, {
+    "tStartMs": 425280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "we call a superposition of states - \nit is simultaneously heads AND tails  "
+    } ]
+  }, {
+    "tStartMs": 430640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "until you look at the result, at which \npoint it becomes either heads or tails."
+    } ]
+  }, {
+    "tStartMs": 434960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "By the way, the quantum coin is just like \nthe both alive-and-dead Schrodinger’s cat,  "
+    } ]
+  }, {
+    "tStartMs": 438960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and while these are just illustrative examples,  "
+    } ]
+  }, {
+    "tStartMs": 442400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "there are many real quantum systems that can exhibit these superposition states - like a  "
+    } ]
+  }, {
+    "tStartMs": 448160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "particle simultaneously having spin up and spin down as revealed in the Stern-Gerlach experiment,  "
+    } ]
+  }, {
+    "tStartMs": 453840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "or a simultaneously passing through two slits in the double-slit experiment. And we’ve  "
+    } ]
+  }, {
+    "tStartMs": 458560,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "talked before about how these experiments verify these overlapping split realities."
+    } ]
+  }, {
+    "tStartMs": 464880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Here’s a counter-intuitive thing about \nsuperposition: after you flip the quantum coin,  "
+    } ]
+  }, {
+    "tStartMs": 469040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "you actually DO know its current unrevealed \nstate. That’s because its state is entirely  "
+    } ]
+  }, {
+    "tStartMs": 474480,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "defined by its superposition wavefunction \n- it is in a pure state of 50% heads 50%  "
+    } ]
+  }, {
+    "tStartMs": 480960,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "tails. This is subtly different to the state of a classical coin being either heads OR tails, with a 50% chance of  "
+    } ]
+  }, {
+    "tStartMs": 488960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "each after you look at it. That superposition really represents the coin’s current reality  "
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "from your perspective. But if you have full \nknowledge of the unrevealed coin’s current state,  "
+    } ]
+  }, {
+    "tStartMs": 499920,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "then there is no hidden information - which means its entropy - its von Neumann entropy - is zero.  "
+    } ]
+  }, {
+    "tStartMs": 507760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Observing the coin doesn’t reveal new \ninformation about the unrevealed state.  "
+    } ]
+  }, {
+    "tStartMs": 512160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Rather it changes the quantum state in a \nrandom way - now 100% heads or 100% tails,  "
+    } ]
+  }, {
+    "tStartMs": 517520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "but the information about which way it would go wasn’t hidden in the unrevealed wavefunction."
+    } ]
+  }, {
+    "tStartMs": 522640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "This is very different from the result of \nflipping a regular coin, which is definitely  "
+    } ]
+  }, {
+    "tStartMs": 526960,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "heads OR tails before you reveal it. That \ninformation of IS embedded in its wavefunction,  "
+    } ]
+  }, {
+    "tStartMs": 532480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "it just isn’t known to you. So the regular coin's entropy - in this case its Shannon entropy - is positive."
+    } ]
+  }, {
+    "tStartMs": 539200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "In case superposition wasn’t weird enough, let’s bring in quantum entanglement. That means we need  "
+    } ]
+  }, {
+    "tStartMs": 544240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "a second quantum coin. It’s \nspookily connected to the first,  "
+    } ]
+  }, {
+    "tStartMs": 547360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "in that when both coins are flipped they have to land opposite to each other. After the flip  "
+    } ]
+  }, {
+    "tStartMs": 552720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "we say that the flip results are entangled. \nThey are correlated - even though we don’t  "
+    } ]
+  }, {
+    "tStartMs": 557920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "know the individual results. If we reveal one we’ll immediately know the result of the other."
+    } ]
+  }, {
+    "tStartMs": 562960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So you flip your pair of entangled \nquantum coins. There are  "
+    } ]
+  }, {
+    "tStartMs": 566880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "two ways this can turn out - either the first coin lands tails and the second heads, or vice versa.  "
+    } ]
+  }, {
+    "tStartMs": 572560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Before they’re revealed they exist in a \nsuperposition of states - both possibilities  "
+    } ]
+  }, {
+    "tStartMs": 577040,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "exist simultaneously. The unrevealed wavefunction is like this, which means 50% heads tails  "
+    } ]
+  }, {
+    "tStartMs": 583760,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "and 50% tails heads. The von Neumann entropy of that entire wavefunction is still zero because  "
+    } ]
+  }, {
+    "tStartMs": 590800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the combined wavefunction of the two coins holds all the information about their current state.  "
+    } ]
+  }, {
+    "tStartMs": 595440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But what if we consider only a single \ncoin? Because of the entanglement,  "
+    } ]
+  }, {
+    "tStartMs": 599840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the part of the wavefunction corresponding to a single coin does not contain all the information  "
+    } ]
+  }, {
+    "tStartMs": 605200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "about that coin’s state. Its von Neumann entropy is no longer zero - information IS hidden - it’s  "
+    } ]
+  }, {
+    "tStartMs": 611200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "hidden in the part of the wavefunction \ncorresponding to its entangled partner."
+    } ]
+  }, {
+    "tStartMs": 615760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And this is where we can connect von Neumann entropy to all of the other forms of entropy,  "
+    } ]
+  }, {
+    "tStartMs": 620640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and glimpse the real origin of the second law."
+    } ]
+  }, {
+    "tStartMs": 623760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "When viewed WITH its entangled partner, the coin exhibits quantum weirdness like superposition.  "
+    } ]
+  }, {
+    "tStartMs": 629360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "That could be revealed in experiments like a Bell test, which we covered previously. But treated  "
+    } ]
+  }, {
+    "tStartMs": 635200,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "individually, each separate entangled quantum coin behaves kind of like a regular classical coin -  "
+    } ]
+  }, {
+    "tStartMs": 640960,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "for example it doesn’t by itself exist in a pure superposition of states; that superposition only  "
+    } ]
+  }, {
+    "tStartMs": 646720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "appears when you include its entangled partner. It’s in what we call a mixed state - heads  "
+    } ]
+  }, {
+    "tStartMs": 653280,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "or tails, not heads and tails. And, just like the regular, classical coin - it has non-zero entropy."
+    } ]
+  }, {
+    "tStartMs": 660720,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "This similarity between the entangled but \nisolated quantum coin is no coincidence. Its  "
+    } ]
+  }, {
+    "tStartMs": 667440,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "entanglement is the first step in the transition between the quantum and classical world.  "
+    } ]
+  }, {
+    "tStartMs": 673280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Our capacity to observe quantum \neffects like superposition  "
+    } ]
+  }, {
+    "tStartMs": 676480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "depends on being able to access the entire wavefunction. With one partner coin in entanglement,  "
+    } ]
+  }, {
+    "tStartMs": 682480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "that becomes more difficult - but as a \nquantum object interacts with the countless  "
+    } ]
+  }, {
+    "tStartMs": 687680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "particles of a macroscopic environment, and those particles interact with each other,  "
+    } ]
+  }, {
+    "tStartMs": 692800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the web of entanglement grows so quickly that it soon becomes impossible to access the entire  "
+    } ]
+  }, {
+    "tStartMs": 697600,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "wavefunction. We call this process decoherence - it’s how the ordinary macroscopic world emerges  "
+    } ]
+  }, {
+    "tStartMs": 704240,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "from its very weird quantum pieces - and for a deeper dive into decoherence we do have you covered."
+    } ]
+  }, {
+    "tStartMs": 710480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Looking at it this way, our classical coin is just like our isolated entangled coin. Except now we  "
+    } ]
+  }, {
+    "tStartMs": 716480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "don’t have a simple entanglement between two coins - the entanglement is between the coin’s countless  "
+    } ]
+  }, {
+    "tStartMs": 721680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "constituent quantum parts and every particle they’ve ever interacted with. That network of  "
+    } ]
+  }, {
+    "tStartMs": 727360,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "entanglement IS in a superposition of states - heads AND tails - but you can’t ever access it.  "
+    } ]
+  }, {
+    "tStartMs": 733920,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "In part because you’re part of that network - you’ve already become entangled with the coin and  "
+    } ]
+  }, {
+    "tStartMs": 739760,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "live in the slice of the wavefunction - the mixed state -where the coin is either heads OR tails."
+    } ]
+  }, {
+    "tStartMs": 746080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The propagation of entanglement \nleads to our experience of the  "
+    } ]
+  }, {
+    "tStartMs": 750080,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "very un-quantum macroscopic world, but \nit also drives the growth of entropy."
+    } ]
+  }, {
+    "tStartMs": 755120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Information about the detailed quantum states of all particles becomes increasingly inaccessible,  "
+    } ]
+  }, {
+    "tStartMs": 760800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "leaving only crude observable properties - for example, thermodynamic properties  "
+    } ]
+  }, {
+    "tStartMs": 765760,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "like temperature. We call these properties that are preserved through this diffusion of entanglement pointer states  "
+    } ]
+  }, {
+    "tStartMs": 772080,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "in the language of quantum darwinism. Over time, systems move towards a state of maximum  "
+    } ]
+  }, {
+    "tStartMs": 777760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "entanglement, at which point most information is hidden, and the systems are describable by  "
+    } ]
+  }, {
+    "tStartMs": 783680,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the fewest properties - for example, when \na system equalizes to a single temperature."
+    } ]
+  }, {
+    "tStartMs": 789120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So there you have it - the growth of \nentanglement drives both the 2nd law  "
+    } ]
+  }, {
+    "tStartMs": 792880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "of thermodynamics AND the emergence of the classical world from the quantum.  "
+    } ]
+  }, {
+    "tStartMs": 797360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "And, as an extra trick, it also defines the arrow of time which itself points in the direction of  "
+    } ]
+  }, {
+    "tStartMs": 802400,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "increasing entropy and multiplying entanglement, as, of course, we’ve discussed. But there’s a lot  "
+    } ]
+  }, {
+    "tStartMs": 808320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "more to talk about - because von Neumann’s insights lead us to a picture of reality  "
+    } ]
+  }, {
+    "tStartMs": 813040,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "that is more informational than physical. \nBut that information won't stay hidden for  "
+    } ]
+  }, {
+    "tStartMs": 818960,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "long - only until our next episode on \nthis information-theoretic space time."
+    } ]
+  }, {
+    "tStartMs": 824880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Today we’re doing comment responses for the last 2 episodes - there was the one on the Kessler  "
+    } ]
+  }, {
+    "tStartMs": 829520,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "syndrome - the exponential buildup of space junk around the earth. And then the one about the Plank  "
+    } ]
+  }, {
+    "tStartMs": 834880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "length - the smallest meaningful length, and what that tells us about the nature of space.\n \n "
+    } ]
+  }, {
+    "tStartMs": 839520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Jason Burbank asks for a citation for my statement that 40% of catalogued space debris comes from  "
+    } ]
+  }, {
+    "tStartMs": 845520,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "exploded US rocket stages. And I’m glad you asked, because digging that up and re-reading it,  "
+    } ]
+  }, {
+    "tStartMs": 852000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "I realize the number isn’t right. The original reference is a paper by Donald Kessler back  "
+    } ]
+  }, {
+    "tStartMs": 857280,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "in 1981, where he finds that 42% of the debris tracked by NORAD was from 19 US rocket stages that exploded  "
+    } ]
+  }, {
+    "tStartMs": 866000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "after releasing payloads - in some cases a \nfew years later. But that was 40 years ago,  "
+    } ]
+  }, {
+    "tStartMs": 871200,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "and the number of tracked orbital debris has increased from around 4500 to more like 15000.  "
+    } ]
+  }, {
+    "tStartMs": 877440,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Now some of those new pieces were due to the rocket fragments, but the 42% is no longer  "
+    } ]
+  }, {
+    "tStartMs": 883920,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "accurate - presumably it’s lower by a factor of more than 3, due to all the new debris  "
+    } ]
+  }, {
+    "tStartMs": 889680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "and the fact that some of the rocket-stage debris orbits would have decayed. That still leaves it at  "
+    } ]
+  }, {
+    "tStartMs": 895920,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "a significant fraction, but not 40%. Anyway, the link to the Kessler paper is in the description."
+    } ]
+  }, {
+    "tStartMs": 902400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Regarding exponential processes in general, Frederf reminds us that there’s no part of  "
+    } ]
+  }, {
+    "tStartMs": 906800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the exponential curve that suddenly switches from slow growth to fast growth, objectively.  "
+    } ]
+  }, {
+    "tStartMs": 912320,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Exactly right. The location of the apparent kink in the curve where it seems to go rapidly vertical  "
+    } ]
+  }, {
+    "tStartMs": 917920,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "depends on the axis choice. If you zoom in on that kink you’ll see - what? An exponential curve. Zoom  "
+    } ]
+  }, {
+    "tStartMs": 924320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "in again - exponential curve. The exponential is scale-invariant and the location of the spot where  "
+    } ]
+  }, {
+    "tStartMs": 930240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "the gradient exceeds 45% depends on the range you choose for your x-axis. For an exponential  "
+    } ]
+  }, {
+    "tStartMs": 936160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "process, the rate of doubling stays constant. Of course, the rate of doubling doesn’t have to  "
+    } ]
+  }, {
+    "tStartMs": 941760,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "stay constant, and that may be defined by certain thresholds on the exponential rise. For example,  "
+    } ]
+  }, {
+    "tStartMs": 947760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "there’s a threshold in the exponential increase of space debris where we can no longer operate  "
+    } ]
+  }, {
+    "tStartMs": 952480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "safely in space, which may reduce the rate \nof increase. There’s a threshold in the  "
+    } ]
+  }, {
+    "tStartMs": 957680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "exponential increase in computing power - it’s where computers are designing better computers,  "
+    } ]
+  }, {
+    "tStartMs": 963440,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "which may actually increase the doubling rate. And there’s a feedback between exponential processes.  "
+    } ]
+  }, {
+    "tStartMs": 969200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "For example, presumably our future AI overlords will be better at managing our orbital space,  "
+    } ]
+  }, {
+    "tStartMs": 975200,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "which will further reduce the Kessler syndrome."
+    } ]
+  }, {
+    "tStartMs": 977760,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "OK, and moving on to our \nepisode on the Planck Length."
+    } ]
+  }, {
+    "tStartMs": 980720,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Russ Johnson asks a good one. If space is like a 3-D grid of Planck-length scale, and movement  "
+    } ]
+  }, {
+    "tStartMs": 986880,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "means flicking from one cell to the next, then A) why is movement restricted only to adjacent cells,  "
+    } ]
+  }, {
+    "tStartMs": 993760,
+    "dDurationMs": 5675,
+    "segs": [ {
+      "utf8": "and B) in such quantized motion, would certain types of motion be disallowed?"
+    } ]
+  }, {
+    "tStartMs": 999435,
+    "dDurationMs": 4645,
+    "segs": [ {
+      "utf8": "Some of you replied with good \nanswers - Daemonxblaze points out  "
+    } ]
+  }, {
+    "tStartMs": 1004080,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "that quantum teleportation, aka quantum tunneling,  "
+    } ]
+  }, {
+    "tStartMs": 1007040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "is basically moving instantaneously \nbeyond your adjacent grid points. "
+    } ]
+  }, {
+    "tStartMs": 1011040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "But really we can’t think of space as a simple rectilinear grid. For example, Michal Breznicky  "
+    } ]
+  }, {
+    "tStartMs": 1016000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "points out that a grid like that introduce weird effects that depend on orientation. Diagonal  "
+    } ]
+  }, {
+    "tStartMs": 1020960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "motion would be different from rectilinear motion. There would be preferred directions in  "
+    } ]
+  }, {
+    "tStartMs": 1025360,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "space. But we know for sure that this universe has a continuous rotational symmetry - there  "
+    } ]
+  }, {
+    "tStartMs": 1031280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "is no preferred angle. That’s the basis for the conservation of angular momentum, which we know  "
+    } ]
+  }, {
+    "tStartMs": 1035840,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "is obeyed. Another issue with the simple grid is that it’s not by itself Lorentz invariant.  "
+    } ]
+  }, {
+    "tStartMs": 1041280,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "The distances have to depend on the velocity of the observer. Moving fast should then collapse the  "
+    } ]
+  }, {
+    "tStartMs": 1046880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "grid in one direction - but that would reduce the grid width and hence the Planck length in  "
+    } ]
+  }, {
+    "tStartMs": 1050880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "that direction, which is also wrong - the observed Planck length should be independent of velocity.  "
+    } ]
+  }, {
+    "tStartMs": 1056880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Michal asks whether there’s a way to quantize space that doesn’t lead to these violations.  "
+    } ]
+  }, {
+    "tStartMs": 1061520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The answer is yes - and various people \nhave tried. Loop quantum gravity is a  "
+    } ]
+  }, {
+    "tStartMs": 1065440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "good example - but for that to work the \nunderlying grid is not a grid of space at  "
+    } ]
+  }, {
+    "tStartMs": 1069920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "all - it’s a grid of abstract connections between points. Space emerges only on larger scales."
+    } ]
+  }, {
+    "tStartMs": 1075920,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "F asks one that I wish I’d had time to \ndiscuss in the episode. When using the  "
+    } ]
+  }, {
+    "tStartMs": 1080800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Heisenberg microscope to measure position, I said that the uncertainty in the final momentum of  "
+    } ]
+  }, {
+    "tStartMs": 1085280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the particle is roughly equal to the momentum of the photon used to measure that position.  "
+    } ]
+  }, {
+    "tStartMs": 1089760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "F points out that surely we should have some idea how that momentum transfer should happen,  "
+    } ]
+  }, {
+    "tStartMs": 1095040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "so we should be able to calculate the final momentum of the particle - so then where  "
+    } ]
+  }, {
+    "tStartMs": 1099840,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "is the uncertainty? The answer is that there’s uncertainty in how the photon hits the particle.  "
+    } ]
+  }, {
+    "tStartMs": 1105120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Dead-on? A glancing blow to the left or \nright? In the former the full momentum  "
+    } ]
+  }, {
+    "tStartMs": 1109440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "of the particle is away from the photon. \nIn the latter its lateral - which means a  "
+    } ]
+  }, {
+    "tStartMs": 1114960,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "range in possible momentum along each axis is roughly the momentum of the photon."
+    } ]
+  }, {
+    "tStartMs": 1121440,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Harys John points out that \nthe Kessler syndrome is like  "
+    } ]
+  }, {
+    "tStartMs": 1124640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "zombies - getting hit by other space \ndebris turns you into space debris.  "
+    } ]
+  }, {
+    "tStartMs": 1128960,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Which could mean there’s space debris out there pretending it hasn’t been bitten."
+    } ]
+  }, {
+    "tStartMs": 1134080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "It’s worse than that actually. It’s like \nif you got bitten by a zombie you exploded  "
+    } ]
+  }, {
+    "tStartMs": 1139040,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "into 1000s of tiny zombies. Moving at 7.6 \nkm/s, so these would be fast zombies a la  "
+    } ]
+  }, {
+    "tStartMs": 1146400,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "28 days later - formally the worst zombie type. Fortunately there’s no sound in space so you can’t  "
+    } ]
+  }, {
+    "tStartMs": 1152640,
+    "dDurationMs": 7047,
+    "segs": [ {
+      "utf8": "here all the gurgling and screaming that must wreath the earth at all times. Small blessings."
+    } ]
+  } ]
+}

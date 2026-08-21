@@ -1,0 +1,607 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Most moons in the solar system are thousands of \ntimes lighter than the planets they orbit – but  "
+    } ]
+  }, {
+    "tStartMs": 5680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The moon is only 80 times lighter than earth. \nSo how do we know the moon is actually a moon,  "
+    } ]
+  }, {
+    "tStartMs": 10000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and not say – a binary planet together with Earth? \nWhat about Pluto and its moon, Charon? For that  "
+    } ]
+  }, {
+    "tStartMs": 14400,
+    "dDurationMs": 427,
+    "segs": [ {
+      "utf8": "matter, how do we know that Jupiter actually \norbits the sun, rather than Jupiter and the sun  "
+    } ]
+  }, {
+    "tStartMs": 14827,
+    "dDurationMs": 99,
+    "segs": [ {
+      "utf8": "together being a binary system? And what about the \nplanet TOI-2379b, which is 5 times heavier than  "
+    } ]
+  }, {
+    "tStartMs": 14926,
+    "dDurationMs": 95,
+    "segs": [ {
+      "utf8": "Jupiter and whose star is smaller than our sun?\nQuestions like these are best answered with the  "
+    } ]
+  }, {
+    "tStartMs": 15021,
+    "dDurationMs": 98,
+    "segs": [ {
+      "utf8": "Trojan test, which I suspect you haven't heard of \nbefore, in part because I only just now gave it  "
+    } ]
+  }, {
+    "tStartMs": 15119,
+    "dDurationMs": 721,
+    "segs": [ {
+      "utf8": "that name, but also because it’s not usually \nmentioned when defining moons – normally, we  "
+    } ]
+  }, {
+    "tStartMs": 15840,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "say “the earth and moon orbit around their \ncommon center of mass, called their barycenter,  "
+    } ]
+  }, {
+    "tStartMs": 19920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and the earth is sufficiently heavier than \nthe moon so the center of mass is actually  "
+    } ]
+  }, {
+    "tStartMs": 22960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "inside the earth, which means we can say it’s \nthe moon that orbits the earth (rather than  "
+    } ]
+  }, {
+    "tStartMs": 26400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the two orbiting each other). Done.” But this \nbarycenter criteria has two major problems. "
+    } ]
+  }, {
+    "tStartMs": 31840,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The first problem is that (perhaps surprisingly) \nthe barycenter criteria doesn’t actually tell us  "
+    } ]
+  }, {
+    "tStartMs": 35760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "anything about the movement of the objects. On \none extreme, take two objects with the same mass  "
+    } ]
+  }, {
+    "tStartMs": 39920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "on opposite sides of an identical orbit around \ntheir center of mass – this is the quintessential  "
+    } ]
+  }, {
+    "tStartMs": 43920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "definition of a binary system. But, if one \nof the objects had a low enough density,  "
+    } ]
+  }, {
+    "tStartMs": 47680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "its radius could be big enough that the \ncenter of mass would be inside that object,  "
+    } ]
+  }, {
+    "tStartMs": 51280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and suddenly our quintessential binary system \nbecomes – according to the barycenter test – a  "
+    } ]
+  }, {
+    "tStartMs": 55520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "satellite/planet system. And at the other \nextreme… A star could be a million times  "
+    } ]
+  }, {
+    "tStartMs": 59600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "more massive than an orbiting planet, and \nso the planet’s orbit around the barycenter  "
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "would be a million times further out than \nthe star’s – the polar opposite of a binary  "
+    } ]
+  }, {
+    "tStartMs": 66320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "system. But in spite of all that, if the orbit \nwas ten million times the radius of the star,  "
+    } ]
+  }, {
+    "tStartMs": 70080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "then the barycenter would be located at ten times \nthe radius of the star… which is outside the star,  "
+    } ]
+  }, {
+    "tStartMs": 74400,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "and the system is then – according to the \nbarycenter test – a binary system. The problem is,  "
+    } ]
+  }, {
+    "tStartMs": 81200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "the barycenter criteria isn’t testing the right \nthing: binary-looking orbits and satellite-looking  "
+    } ]
+  }, {
+    "tStartMs": 84240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "orbits can both get labeled as either binaries \nor satellites. What's more, objects with  "
+    } ]
+  }, {
+    "tStartMs": 88480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "elliptical orbits move closer or farther from \nthe barycenter throughout their orbit, and so  "
+    } ]
+  }, {
+    "tStartMs": 92000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "can have the barycenter move from outside them to \ninside to outside to inside over and over again. "
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The second problem with the “barycenter being \ninside one object” criteria is that it’s an  "
+    } ]
+  }, {
+    "tStartMs": 100960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "intellectual threshold, not a physical one \nwith physical consequences. There’s nothing  "
+    } ]
+  }, {
+    "tStartMs": 104560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "different that happens when the center of mass \nof a system moves outside of an object’s radius.  "
+    } ]
+  }, {
+    "tStartMs": 108400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The barycenter of the solar system regularly \nmoves in and out of the sun without any effect  "
+    } ]
+  }, {
+    "tStartMs": 112160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "whatsoever. This contrasts with other physically \nmeaningful thresholds, such as the definition of  "
+    } ]
+  }, {
+    "tStartMs": 115600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "a star (where below a certain mass you can’t \ndo fusion and above it you can), or how an  "
+    } ]
+  }, {
+    "tStartMs": 119680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "elliptical orbit (where the object returns again \nand again) becomes – once the eccentricity goes  "
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "above 1 – a hyperbolic trajectory where the \nobject will escape, passing by only once. So,  "
+    } ]
+  }, {
+    "tStartMs": 127760,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "when it comes to binaries, a much more \nnatural and physically meaningful cutoff  "
+    } ]
+  }, {
+    "tStartMs": 131120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for being able to say one object orbits another \nis – you guessed it – the Trojan Test – which  "
+    } ]
+  }, {
+    "tStartMs": 135120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "is a name I’ve just now given to something \nnormally called the “L4/L5 instability.”  "
+    } ]
+  }, {
+    "tStartMs": 139040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If you have two planets, or stars, or whatever, \norbiting each other, there are always – no matter  "
+    } ]
+  }, {
+    "tStartMs": 143040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the relative masses or distances of the objects – \nthere are always five points where the combination  "
+    } ]
+  }, {
+    "tStartMs": 147280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "of their gravitational attractions together \nwith the centrifugal completely cancel out,  "
+    } ]
+  }, {
+    "tStartMs": 150960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and so an asteroid or spacecraft at one of the \npoints can in principle orbit “along with” the  "
+    } ]
+  }, {
+    "tStartMs": 154560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "smaller planet or star. These points are called \n“Lagrange Points” and are labeled L1 through L5.  "
+    } ]
+  }, {
+    "tStartMs": 159440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But it turns out that only L4 and L5 are what’s \ncalled “stable” – if you park your spacecraft  "
+    } ]
+  }, {
+    "tStartMs": 163520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "near points 1 through 3, it will slowly but \neventually drift off and stop orbiting along with  "
+    } ]
+  }, {
+    "tStartMs": 167600,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the smaller planet or star, or get ejected from \nthe system entirely. L4 and L5, on the other hand,  "
+    } ]
+  }, {
+    "tStartMs": 172080,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "are stable [Due to coriolis force being dominant \nover the gravitational forces], so your spacecraft  "
+    } ]
+  }, {
+    "tStartMs": 173600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "(or space rock) can be parked there indefinitely, \norbiting in tandem ahead of or behind you. "
+    } ]
+  }, {
+    "tStartMs": 178320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "For example, Jupiter has tons of asteroids \norbiting in the vicinity of its L4 and L5  "
+    } ]
+  }, {
+    "tStartMs": 182640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "points relative to the sun, called the “Trojan \nasteroids” because the first ones discovered  "
+    } ]
+  }, {
+    "tStartMs": 186160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "were named after figures from the Trojan war. \nAnd Earth has a few small asteroids orbiting  "
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "along with us at our L4 and L5 points relative to \nthe Sun, which we also call Trojan asteroids in  "
+    } ]
+  }, {
+    "tStartMs": 194880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "imitation of the ones in Jupiter’s orbit. A couple \nof Saturn’s moons even have smaller moons orbiting  "
+    } ]
+  }, {
+    "tStartMs": 199360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "at their Trojan points relative to Saturn!\nBut there’s a less well-known property of  "
+    } ]
+  }, {
+    "tStartMs": 203120,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the Trojan points L4 and L5: they’re not always \nstable –  their stability requires the bigger  "
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "object to be more than 25 times the mass of the \nsmaller one. If the two objects are too close in  "
+    } ]
+  }, {
+    "tStartMs": 212880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "size – too close to being a binary system – then \nthe L4 and L5 points become unstable like L1,  "
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "L2 \u0026 L3. Though unstable doesn’t mean un-useful \n– the “unstable” L1 and L2 lagrange points  "
+    } ]
+  }, {
+    "tStartMs": 223680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "around Earth are regularly used for positioning \nspacecraft. The spacecraft do gradually drift away  "
+    } ]
+  }, {
+    "tStartMs": 228160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "from the L1 \u0026 L2 lagrange points, but only enough \nto need a small correction from a rocket thruster  "
+    } ]
+  }, {
+    "tStartMs": 231440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "every few months. Asteroids don’t have thrusters, \nso they can only collect at the L4 and L5 points,  "
+    } ]
+  }, {
+    "tStartMs": 236320,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and only, as we’ve mentioned, if the bigger \nobject is more than 25 times the mass of the  "
+    } ]
+  }, {
+    "tStartMs": 239760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "smaller one. In short, you can only have Trojan \nasteroids or moons (or park your spacecraft  "
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "with the engine off) if you’re at least 25 \ntimes less massive than the thing you’re  "
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "orbiting. This is the trojan test: if you can in \nprinciple have Trojan asteroids (regardless of  "
+    } ]
+  }, {
+    "tStartMs": 252960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "whether or not you actually do) then you’re \na little thing orbiting a big thing. If the  "
+    } ]
+  }, {
+    "tStartMs": 256240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "big object is less than 25 times more massive \nthan you, then you can’t have Trojan asteroids  "
+    } ]
+  }, {
+    "tStartMs": 259920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and you should be considered a binary system.\nCase in point: both Jupiter and the Earth can  "
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "in principle have Trojan asteroids (and both do) \n– so by the Trojan test, they're orbiting the Sun  "
+    } ]
+  }, {
+    "tStartMs": 268480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "(unlike the faulty barycenter test that thinks \nJupiter and the sun might be binary companions  "
+    } ]
+  }, {
+    "tStartMs": 272240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because their shared barycenter is outside of \nthe sun). In contrast, Pluto is only around eight  "
+    } ]
+  }, {
+    "tStartMs": 276560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "times more massive than Charon, so Charon can’t \nhave Trojan asteroids, and therefore (according  "
+    } ]
+  }, {
+    "tStartMs": 280560,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to the Trojan test) the two are a binary planet.\nThe great thing about the Trojan test is that  "
+    } ]
+  }, {
+    "tStartMs": 284720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "it’s purely about the relative masses of the two \nobjects. It doesn’t matter how dense they are,  "
+    } ]
+  }, {
+    "tStartMs": 288160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "or how far apart you put them: Earth, for \nexample, would still be able to have trojan  "
+    } ]
+  }, {
+    "tStartMs": 291360,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "asteroids regardless of how far you moved \nit away from the sun (in contrast with  "
+    } ]
+  }, {
+    "tStartMs": 294160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "the barycenter center test where if you move the \nEarth far enough away from the Sun, like really,  "
+    } ]
+  }, {
+    "tStartMs": 297120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "really far away, eventually the barycenter of the \nEarth-Sun system will move outside of the Sun’s  "
+    } ]
+  }, {
+    "tStartMs": 300720,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "radius). Another great thing is that the Trojan \ntest is a cutoff with an actual physical effect:  "
+    } ]
+  }, {
+    "tStartMs": 304960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "on one side of the cutoff, an object can have \nTrojan asteroids orbiting along with it. On the  "
+    } ]
+  }, {
+    "tStartMs": 308720,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "other side of the cutoff, Trojans are impossible. \nThe Trojan test is so good it has been proposed to  "
+    } ]
+  }, {
+    "tStartMs": 319120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "be used as part of a criteria to determine if \nan exoplanet is really orbiting a star instead  "
+    } ]
+  }, {
+    "tStartMs": 322880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "of being a binary companion. But I think that we \nshould use it even more broadly! In my mind, if  "
+    } ]
+  }, {
+    "tStartMs": 326880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you have ANY two objects gravitationally orbiting \neach other, anywhere in the universe, regardless  "
+    } ]
+  }, {
+    "tStartMs": 330480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "of what they are, we should use the Trojan Test to \ndistinguish between the two possible situations:  "
+    } ]
+  }, {
+    "tStartMs": 334480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "either one of the objects is less than a 25th \nthe mass and is actually orbiting the other  "
+    } ]
+  }, {
+    "tStartMs": 338480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "(like a moon around a planet, or primary planet \naround a star), or they’re closer in mass and  "
+    } ]
+  }, {
+    "tStartMs": 343200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "therefore orbiting each other as a binary pair.\nAnd what does the Trojan Test say about our moon?  "
+    } ]
+  }, {
+    "tStartMs": 348080,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Well, the earth is about 80 times heavier than \nthe moon, well above the Trojan test cutoff,  "
+    } ]
+  }, {
+    "tStartMs": 352000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "which means the moon can in principle have \ntrojan asteroids… (even though we haven’t  "
+    } ]
+  }, {
+    "tStartMs": 355360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "discovered any yet). Therefore, according to \nthe Trojan test the moon is indeed orbiting the  "
+    } ]
+  }, {
+    "tStartMs": 359360,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "earth – that is, the moon is a moon.\nHello, I’m Josh from MinutePhysics,  "
+    } ]
+  }, {
+    "tStartMs": 366080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "letting you know that we recently made a T shirt \nthat shows how musical harmony works - and it has  "
+    } ]
+  }, {
+    "tStartMs": 370800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "been incredibly popular. We’ve just restocked for \nthe holidays, so this is your reminder to pick one  "
+    } ]
+  }, {
+    "tStartMs": 376080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "up for the Physics \u0026 Music nerds in your life. We \nhave also teamed up with MinuteEarth to create a  "
+    } ]
+  }, {
+    "tStartMs": 381280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "special bundle where you get the Dissonance \nTee, the Solar Eclipses Across The Solar  "
+    } ]
+  }, {
+    "tStartMs": 385360,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "System Tee and the Earth and Moon Tee. That’s \n3 discounted physics shirts, all in time for  "
+    } ]
+  }, {
+    "tStartMs": 391680,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "the holidays (if you order in the US)! Get yours \nnow at the DFTBA store, link in the description."
+    } ]
+  } ]
+}

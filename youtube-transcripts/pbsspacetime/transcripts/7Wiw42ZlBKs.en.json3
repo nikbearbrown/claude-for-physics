@@ -1,0 +1,1159 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Modern physics is weird. In quantum mechanics we \nhave the Schrodinger’s cat thought experiment,"
+    } ]
+  }, {
+    "tStartMs": 4160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "a cat in a quantum superposition of \nbeing simultaneously alive and dead."
+    } ]
+  }, {
+    "tStartMs": 8320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "And in relativity the twin paradox thought \nexperiment, a space-faring twin ages less"
+    } ]
+  }, {
+    "tStartMs": 13760,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "than her stay-at-home sibling. But what if we \ncould combine these and send our quantum twin"
+    } ]
+  }, {
+    "tStartMs": 19760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "around the galaxy. Could we be simultaneously \nold and young? What would that tell us about"
+    } ]
+  }, {
+    "tStartMs": 24640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the quantum nature of time? And would \nwe need schrodinger birthday candles?"
+    } ]
+  }, {
+    "tStartMs": 35600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Before we get started, a couple of quick \nannouncements. First, we have some new data."
+    } ]
+  }, {
+    "tStartMs": 40800,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Liking and commenting really does help get the \nepisodes shared. So, you know, please do both"
+    } ]
+  }, {
+    "tStartMs": 47680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "of those things. And we've also learned that \nthe number one reason that people support us on"
+    } ]
+  }, {
+    "tStartMs": 52960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Patreon isn't actually the perks. It's simply to \nsupport the Spacetime community and the work that"
+    } ]
+  }, {
+    "tStartMs": 58800,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "we do. So, for those of you who do support, thank \nyou so so much. But don't get me wrong, there are"
+    } ]
+  }, {
+    "tStartMs": 66480,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "perks and they're good. There's a link in the \ndescription if you'd like to join. This really"
+    } ]
+  }, {
+    "tStartMs": 72880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "would be a huge help."
+    } ]
+  }, {
+    "tStartMs": 74560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "This month marks an incredible milestone: 50 \nyears since humanity first landed on Mars. On"
+    } ]
+  }, {
+    "tStartMs": 80640,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "July 20, 1976, Viking 1 became the first \nspacecraft to successfully touch down. To"
+    } ]
+  }, {
+    "tStartMs": 86240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "celebrate, we've created a limited-edition \n50 Years on Mars collection featuring the"
+    } ]
+  }, {
+    "tStartMs": 91040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "iconic Viking 1 lander as a UV glow t-shirt and \nhoodie. We also have a new desktop and gaming"
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Matt that shows the actual location of every Mars \nlander. If Mars exploration has inspired you as"
+    } ]
+  }, {
+    "tStartMs": 102080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "much as it's inspired us, check it out at the \nSpace Time merch store. Now on to the episode."
+    } ]
+  }, {
+    "tStartMs": 106960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Time is both the most intuitive and most \nmysterious feature of the universe. It"
+    } ]
+  }, {
+    "tStartMs": 110640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "seems fundamental and unavoidable, \nbut physicists and philosophers have"
+    } ]
+  }, {
+    "tStartMs": 113760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "argued over its true nature forever. Even our \nbest modern theories of physics don’t agree."
+    } ]
+  }, {
+    "tStartMs": 118160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In our strangest modern theory, quantum mechanics, \ntime is surprisingly straightforward. It appears"
+    } ]
+  }, {
+    "tStartMs": 123360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the Schrodinger equation as a well defined \nparameter that moves at the same rate for all"
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "particles—even if those particles have all the \nother sorts of quantum weirdness. That’s just"
+    } ]
+  }, {
+    "tStartMs": 134720,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "as it is in good ol’ Newtonian physics, time is a \nglobal parameter that ticks the same for everyone"
+    } ]
+  }, {
+    "tStartMs": 140000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "and everyone agrees on a singular “now”.\nBut in relativity, time isn’t global,"
+    } ]
+  }, {
+    "tStartMs": 145760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "it’s local. The rate of its passage depends \non the relative location and speed of a clock"
+    } ]
+  }, {
+    "tStartMs": 150880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "compared to whoever’s watching the clock. Even the \ndefinitions of past, present and future get warped"
+    } ]
+  }, {
+    "tStartMs": 156800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "in relativity. That leads to strange scenarios, \nlike the twin paradox, where one twin goes on"
+    } ]
+  }, {
+    "tStartMs": 162880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "a quick space adventure at close to the speed \nof light and returns to find her stay-at-home"
+    } ]
+  }, {
+    "tStartMs": 168080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "sibling has been worried sick for decades.\nAn essential step in our quest for a unified"
+    } ]
+  }, {
+    "tStartMs": 174080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "picture of reality is to bring together \nquantum mechanics and the full relativity"
+    } ]
+  }, {
+    "tStartMs": 178080,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "theory—general relativity. At a bare minimum \nthat means they need to agree on what time is."
+    } ]
+  }, {
+    "tStartMs": 184800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "In relativity, there’s a beautiful symmetry \nbetween the nature of time and the nature"
+    } ]
+  }, {
+    "tStartMs": 188800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "of space. But in the quantum, time remains .. \nspecial somehow. For example, a quantum object"
+    } ]
+  }, {
+    "tStartMs": 194800,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "can occupy two places or travel two paths at \nonce—like in the double slit experiment. But"
+    } ]
+  }, {
+    "tStartMs": 201440,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "can an quantum object occupy two times at once, \nor have two different ages at the same time. We"
+    } ]
+  }, {
+    "tStartMs": 208400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "really don’t know how to “make time quantum”.\nWell, one thing we can try is to explore the"
+    } ]
+  }, {
+    "tStartMs": 213920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "strange relativistic effects of time on \ntruly quantum systems. Maybe something"
+    } ]
+  }, {
+    "tStartMs": 219120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "like a quantum twin paradox.\nBut what does that even mean?"
+    } ]
+  }, {
+    "tStartMs": 223360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "One approach might be to take a two different \nquantum particles and send them on different"
+    } ]
+  }, {
+    "tStartMs": 228320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "routes—with different speeds and/or different \npositions in a gravitational field—and then"
+    } ]
+  }, {
+    "tStartMs": 232640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "see how they age differently. In fact, this has \nbeen done already and with incredible precision."
+    } ]
+  }, {
+    "tStartMs": 237760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The quantum particles in question are the \ncores of atomic clocks. I’ll come back to"
+    } ]
+  }, {
+    "tStartMs": 241920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "exactly how atomic clocks work later, because \nthey may be the key to this whole thing."
+    } ]
+  }, {
+    "tStartMs": 246320,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The first twin paradox experiment—the 1971 \nHafele–Keating experiment—involved sending"
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "an atomic clock on a plane ride around the world \nand comparing to one that stayed at home. Time"
+    } ]
+  }, {
+    "tStartMs": 257040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "on the traveling clock slowed due to relative \nspeed—we’ll call that motional time dilation—but"
+    } ]
+  }, {
+    "tStartMs": 262720,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "time sped up due to its increased distance from \nEarth’s center—that’s gravitational time dilation."
+    } ]
+  }, {
+    "tStartMs": 269200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The resulting difference was exactly as predicted \nby Einstein’s relativity theory. By the way,"
+    } ]
+  }, {
+    "tStartMs": 274640,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "relativistic time dilation had already been \nmeasured decades earlier using muons and other"
+    } ]
+  }, {
+    "tStartMs": 279840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "unstable particles, but the Hafele-Keating \nshowed it directly with atomic clocks."
+    } ]
+  }, {
+    "tStartMs": 285840,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Modern atomic clocks are so precise that \nmotional time dilation can in principle be"
+    } ]
+  }, {
+    "tStartMs": 290720,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "observed taking an atomic clock for a walk, \nand gravitational version is measurable by"
+    } ]
+  }, {
+    "tStartMs": 297040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "moving an atomic clock up by centimeters.\nAs fascinating as these experiments are,"
+    } ]
+  }, {
+    "tStartMs": 302160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "they aren’t measuring anything quantum \nabout time, even if the mechanism at the"
+    } ]
+  }, {
+    "tStartMs": 307360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "heart of the clock is quantum. Really there \nare just precision measurements of a purely"
+    } ]
+  }, {
+    "tStartMs": 312160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "relativistic version of the twin paradox.\nWhat we really want to do is some sort of"
+    } ]
+  }, {
+    "tStartMs": 316640,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "quantum twin paradox. The quintessential weirdness \nof quantum mechanics is superposition—the fact"
+    } ]
+  }, {
+    "tStartMs": 322160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "that quantum systems can occupy multiple states \nsimultaneously. So what about doing a twin paradox"
+    } ]
+  }, {
+    "tStartMs": 328240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "experiment where, instead of sending identical \ntwins on paths that have different time flows,"
+    } ]
+  }, {
+    "tStartMs": 333040,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "we send the same particle on two separate paths \nat the same time by using quantum superposition."
+    } ]
+  }, {
+    "tStartMs": 339440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Well, that sounds like the double-slit \nexperiment but with time dilation."
+    } ]
+  }, {
+    "tStartMs": 343520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "In the double slit experiment, the “wavefunction” \nof a single particle travels through two slits,"
+    } ]
+  }, {
+    "tStartMs": 349520,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "recombining on the other side to be detected as a \nsingle particle again at a screen. Although each"
+    } ]
+  }, {
+    "tStartMs": 355440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "particle is detected at a single point, successive \nparticles build up an interference pattern that"
+    } ]
+  }, {
+    "tStartMs": 360560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "reflects a wave-like passage though both slits. \nThe interpretation is that each particle travels"
+    } ]
+  }, {
+    "tStartMs": 365840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "through both slits as a probability wave, \nand is more likely to be detected where the"
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "two components of this wavefunction stack up or \nare “in phase”. In general, clean, double-slit"
+    } ]
+  }, {
+    "tStartMs": 376560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "interference is observed when there are strong \nphase correlations between the two paths. A"
+    } ]
+  }, {
+    "tStartMs": 381840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "disruption of that phase correlation blurs and \nultimately erases the interference pattern."
+    } ]
+  }, {
+    "tStartMs": 386160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Curiously, this elimination of double-slit \ninterference seems to precisely track how"
+    } ]
+  }, {
+    "tStartMs": 390320,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "much knowledge we can gain about which path \nthe particle took. If a measurement is strong"
+    } ]
+  }, {
+    "tStartMs": 395680,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "enough to tell you with certainty which path was \ntraveled, it also scrambles phase information"
+    } ]
+  }, {
+    "tStartMs": 400240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and eliminates the interference pattern. \nIf the measurement is weaker and leaves"
+    } ]
+  }, {
+    "tStartMs": 405200,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "uncertainty as to the path, then the interference \npattern will be blurred rather than destroyed."
+    } ]
+  }, {
+    "tStartMs": 410960,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "So, what happens if one of the double-slit paths \nexperiences a different amount of time? For"
+    } ]
+  }, {
+    "tStartMs": 417520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "example, we could orient the experiment \nso the paths have different altitudes"
+    } ]
+  }, {
+    "tStartMs": 421680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "so that gravitational time dilation slows the \nclock of the lower path relative to the upper."
+    } ]
+  }, {
+    "tStartMs": 427280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The easiest way to do this is to use a \nMach-Zehnder interferometer—an MZI—rather"
+    } ]
+  }, {
+    "tStartMs": 433280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "than a classic double slit experiment. \nIn this version, a source of particles"
+    } ]
+  }, {
+    "tStartMs": 436880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "is split into two paths by a beamsplitter and \nthen the two paths are brought back together"
+    } ]
+  }, {
+    "tStartMs": 441360,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and scrambled by a second beamsplitter. \nThe “interference pattern” is observed"
+    } ]
+  }, {
+    "tStartMs": 445840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "in the relative probability of the particle \nbeing seen in each of the final detectors."
+    } ]
+  }, {
+    "tStartMs": 451200,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Those probabilities shift with any \nphase shift of the particles along the"
+    } ]
+  }, {
+    "tStartMs": 455120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "paths. And if we do something along those \npaths to determine which path was taken,"
+    } ]
+  }, {
+    "tStartMs": 461200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "interference fades or vanishes just like \nwith the regular double-slit experiment."
+    } ]
+  }, {
+    "tStartMs": 465680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "So what if the MZI paths are at different \naltitudes? Particles should accrue more"
+    } ]
+  }, {
+    "tStartMs": 471920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "age on the upper path compared to the lower path. \nMeasuring the age of the particle should tell us"
+    } ]
+  }, {
+    "tStartMs": 476080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "which path it took. Or, if a particle travels both \npaths simulaneously it should be simultaneously"
+    } ]
+  }, {
+    "tStartMs": 478160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "older and younger. At the very least, checking\nSeems simple, right? Well, this requires"
+    } ]
+  }, {
+    "tStartMs": 482720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "incredible precision, but it’s “simple” \nenough as an experiment that we actually"
+    } ]
+  }, {
+    "tStartMs": 487280,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "did it half a century ago. Back in the \n70s the Colella–Overhauser–Werner​ or COW"
+    } ]
+  }, {
+    "tStartMs": 493920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "​experiment sent neutrons through a \nMZI-style interferometer and found"
+    } ]
+  }, {
+    "tStartMs": 498640,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "that the neutrons taking the elevated path \nshowed a phase shift you’d expect from the"
+    } ]
+  }, {
+    "tStartMs": 504240,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "tiny speedup of time at their higher altitude.\nOn the surface this feels like it can only be"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "explained with both quantum mechanics and \ngeneral relativity, bringing us closer to"
+    } ]
+  }, {
+    "tStartMs": 514480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "a union between the two. And maybe that’s \nright. But this isn’t a slam dunk. It turns"
+    } ]
+  }, {
+    "tStartMs": 519680,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "out that this effect can be perfectly well \ndescribed with quantum mechanics plus good"
+    } ]
+  }, {
+    "tStartMs": 524480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "old Newtonian gravity. If we treat gravity as a \nsimple force rather than some timey-wimey thing,"
+    } ]
+  }, {
+    "tStartMs": 530560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "then we find that the force induces exactly the \nsame phase shift in the neutrons. This effect"
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "has been called the “Gravitational Aharonov-Bohm​ \nEffect,” where the regular Aharonov-Bohm​ effect"
+    } ]
+  }, {
+    "tStartMs": 541440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "is the same thing but for an electric field.\nSo, yeah, relative particle phase shift can"
+    } ]
+  }, {
+    "tStartMs": 547680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "track relative time, and the COW experiment \nis consistent with seeing a superposition of"
+    } ]
+  }, {
+    "tStartMs": 552800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "gravitational time dilation this way. But \nthe interpretation is a bit muddy. But to"
+    } ]
+  }, {
+    "tStartMs": 557920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "really say for sure that we’ve observed \na superposition of different time flows,"
+    } ]
+  }, {
+    "tStartMs": 562560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "we need something closer to an internal clock \nfor our particle rather than a simple phase."
+    } ]
+  }, {
+    "tStartMs": 567520,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "And that’s exactly what Magdalena Zych and company \nproposed in a paper 15 years ago. Actually they"
+    } ]
+  }, {
+    "tStartMs": 575120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "proposed something a bit simpler—an internal \nquantum pendulum rather than the full quantum"
+    } ]
+  }, {
+    "tStartMs": 580160,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "clock. More precisely, a superposition of two \ninternal energy states whose relative quantum"
+    } ]
+  }, {
+    "tStartMs": 586080,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "phase evolves predictably. They propose that if \ngravitational time dilation changes timeflow of"
+    } ]
+  }, {
+    "tStartMs": 592640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "our two paths at different heights, then \nthe tick-tocking of this quantum pendulum"
+    } ]
+  }, {
+    "tStartMs": 597680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "will get out of sync for the superposition \ncomponents of a particle traveling the two"
+    } ]
+  }, {
+    "tStartMs": 601840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "paths. Each component should build up \nan internal memory of the path it took,"
+    } ]
+  }, {
+    "tStartMs": 606640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "recorded in the flow of time that it measured. So \nwhen those components are brought back together,"
+    } ]
+  }, {
+    "tStartMs": 612880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "they would “know” which path they took.\nNow if you remember from the double-slit"
+    } ]
+  }, {
+    "tStartMs": 617360,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "experiment, path information disrupts the \nappearance of an interference pattern."
+    } ]
+  }, {
+    "tStartMs": 621840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Such a disruption in this case could be taken \nas evidence of a superposition of different"
+    } ]
+  }, {
+    "tStartMs": 626000,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "particle ages—the two superposed clocks got out \nof sync, so they have a record of the path taken,"
+    } ]
+  }, {
+    "tStartMs": 633200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "so can no longer interfere perfectly. On \nthe other hand, if no change is seen in"
+    } ]
+  }, {
+    "tStartMs": 637440,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the interference pattern, then there’s no path \ninformation and it must be the clocks remained in"
+    } ]
+  }, {
+    "tStartMs": 642720,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "sync. That might indicate that both wavefunction \ncomponents were kicking to the same global clock."
+    } ]
+  }, {
+    "tStartMs": 648960,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "In practice, this quantum pendulum gives an \nimperfect measure of the time and so an imperfect"
+    } ]
+  }, {
+    "tStartMs": 655040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "determination of the path traveled. The result is \na blurred interference pattern, but it turns out"
+    } ]
+  }, {
+    "tStartMs": 660640,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "that the amount of this blurring can be precisely \ndetermined by the difference in time flow between"
+    } ]
+  }, {
+    "tStartMs": 666480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "the paths. So, time dilation should in principle \nbe measurable this way and would be less ambiguous"
+    } ]
+  }, {
+    "tStartMs": 672240,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "in its interpretation than the COW experiment \nwhich depends on simple phase difference along the"
+    } ]
+  }, {
+    "tStartMs": 677280,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "paths. On the other hand, some have argued that \neven the internal quantum clock of a Zych-type"
+    } ]
+  }, {
+    "tStartMs": 683680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "experiment can be interpreted in terms of the \nphase of those internal degrees of freedom. So,"
+    } ]
+  }, {
+    "tStartMs": 689760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I dunno, maybe there’s no way to disentangle \nthe interpretations of phase decoherance vs."
+    } ]
+  }, {
+    "tStartMs": 694080,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "time dilation as a which-path marker. So maybe \nthe COW experiment got it right 50 years ago."
+    } ]
+  }, {
+    "tStartMs": 700720,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The Zych et al paper was 15 years ago. And no \none has managed to actually pull it off yet. To"
+    } ]
+  }, {
+    "tStartMs": 706160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "be fair it’s a very hard experiment to do, and \nalthough there are many clever ideas of how,"
+    } ]
+  }, {
+    "tStartMs": 711040,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "we haven’t managed to main quantum coherence \non paths separated by enough height and with"
+    } ]
+  }, {
+    "tStartMs": 717600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "enough length for a measurable relative time \ndifference to build up. Hopefully that experiment"
+    } ]
+  }, {
+    "tStartMs": 722960,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "will come along. But actually we may not need it. \nThere’s a much “easier” way to measure a quantum"
+    } ]
+  }, {
+    "tStartMs": 729520,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "superposition of time in an actual quantum clock.\nIn September last year, a new paper came"
+    } ]
+  }, {
+    "tStartMs": 734960,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "out by Gabriel Sorci and colleagues in Igor​\n​Pikovski's group, together with the experimental"
+    } ]
+  }, {
+    "tStartMs": 741280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "teams at the national institute for standards \nand technology--NIST-- and Colorado State."
+    } ]
+  }, {
+    "tStartMs": 746640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "This idea brings us back full circle to \nthe atomic clock that we started with. The"
+    } ]
+  }, {
+    "tStartMs": 751600,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "experiment proposed by the Zych team used only \nthe heart of an atomic clock—a quantum pendulum,"
+    } ]
+  }, {
+    "tStartMs": 758080,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "more technically a quantum oscillator.\nBut every clock in history has​ ​the same"
+    } ]
+  }, {
+    "tStartMs": 763440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "basic anatomy: an oscillator and something to \ncount the oscillations. Like the pendulum of a"
+    } ]
+  }, {
+    "tStartMs": 768960,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "grandfather clock and the gear system to tick \nover on each swing. Now nature gives us a very"
+    } ]
+  }, {
+    "tStartMs": 774320,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "precise pendulum: the electron transition inside \nan atom, which in some cases can oscillate between"
+    } ]
+  }, {
+    "tStartMs": 779920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "two states with near perfect regularity. To turn \nsuch a quantum pendulum into an atomic clock,"
+    } ]
+  }, {
+    "tStartMs": 785360,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "you take an ion and hit it with a laser pulse that \nplaces it​ ​in a superposition of its ground state"
+    } ]
+  }, {
+    "tStartMs": 790800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and its excited state. This triggers the quantum \nsystem​ ​to begin evolving in a predictable"
+    } ]
+  }, {
+    "tStartMs": 795280,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "fashion, with the phase of the system evolving at \nprecisely​ ​the transition frequency. By locking"
+    } ]
+  }, {
+    "tStartMs": 801360,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "the frequency of a laser to that oscillator, and \nthen “gearing down” to lower frequency laser, the"
+    } ]
+  }, {
+    "tStartMs": 808640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "oscillations can be counted. The resulting clock \ncan be so precise that it loses less than a second"
+    } ]
+  }, {
+    "tStartMs": 814640,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "in precision over the entire age of the universe.\nThe reason that no one has sent a full atomic"
+    } ]
+  }, {
+    "tStartMs": 820240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "clock through a full double-slit or MZI-like \nexperiment is that we haven’t figured out"
+    } ]
+  }, {
+    "tStartMs": 825200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "how to create a quantum superposition of \ndifferent spatial paths for such complex"
+    } ]
+  }, {
+    "tStartMs": 830160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "systems. But there’s another way to create a \nsuperposition of different rates of time flow"
+    } ]
+  }, {
+    "tStartMs": 834640,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "without the spatial separation. Now we’ve been \ntalking about gravitational time dilation—time"
+    } ]
+  }, {
+    "tStartMs": 840400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "ticks slower when you’re deeper in gravitational \nfields. But remember there’s also the motional"
+    } ]
+  }, {
+    "tStartMs": 845440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "time dilation due to relative speed.\nNow that doesn’t sound immediately useful."
+    } ]
+  }, {
+    "tStartMs": 850400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "If you try to put an object in a superposition \nof two different speeds moving in a straight"
+    } ]
+  }, {
+    "tStartMs": 855520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "line then one will outpace the other and end up \non different spatial trajectories … which we just"
+    } ]
+  }, {
+    "tStartMs": 861040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "figured out was hard to do for an atomic clock.\nBut the idea of Sorci et al. is to put the quantum"
+    } ]
+  }, {
+    "tStartMs": 866000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "oscillator in a superposition of different \ninternal motional states. Take an atom with an"
+    } ]
+  }, {
+    "tStartMs": 872320,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "electron that can move between energy levels \nin a way that makes it a good atomic clock."
+    } ]
+  }, {
+    "tStartMs": 877200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The atom can have a net charge—it’s an"
+    } ]
+  }, {
+    "tStartMs": 880320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "ion—and that means it can be trapped \nin an electric or magnetic field."
+    } ]
+  }, {
+    "tStartMs": 884400,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Then it can be made to vibrate back and forth \nin that EM trap. Its motional states are also"
+    } ]
+  }, {
+    "tStartMs": 891040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "quantized—it can be moving back and forth with \nspecific frequencies. The higher the frequency,"
+    } ]
+  }, {
+    "tStartMs": 896000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the faster the motion, and so, in principle, \nthe more relativistic time dilation."
+    } ]
+  }, {
+    "tStartMs": 900640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "The critical thing here is that if these \nmotional states are really quantum, then the"
+    } ]
+  }, {
+    "tStartMs": 904160,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "ion can be in a quantum superposition of moving \nslower and faster at the same time. Without any"
+    } ]
+  }, {
+    "tStartMs": 910480,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "time dilation, this superposition state would be \nstable and lead to a regular oscillation in the"
+    } ]
+  }, {
+    "tStartMs": 916160,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "interference between the states, which is measured \nby the laser. But with motional time dilation,"
+    } ]
+  }, {
+    "tStartMs": 921280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the superposition of speeds means also a \nsuperposition of rates of time flow. The"
+    } ]
+  }, {
+    "tStartMs": 926320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "“faster” motional state accrues time slower \nthan the slower motional state, and so they"
+    } ]
+  }, {
+    "tStartMs": 930640,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "become increasingly distinguished from each other. \nThe regular interference pattern is disrupted,"
+    } ]
+  }, {
+    "tStartMs": 936160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and this is picked up by the coupled laser.\nIn this proposal, the superposition of speeds"
+    } ]
+  }, {
+    "tStartMs": 941520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "of the trapped ion takes the place \nof the superposition of paths in the"
+    } ]
+  }, {
+    "tStartMs": 945760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "various interferometer experiments. But the \npowerful thing here is that no large spatial"
+    } ]
+  }, {
+    "tStartMs": 950880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "separations are needed. A downside is that \nthis is a purely special-relativistic effect,"
+    } ]
+  }, {
+    "tStartMs": 955920,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and gravity is irrelevant. So it’s not the \nquantum-general relativity link everyone is"
+    } ]
+  }, {
+    "tStartMs": 960800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "desperate for. There’s also debate about how to \ninterpret the math of this proposal—is the flow"
+    } ]
+  }, {
+    "tStartMs": 966320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "of time changing due to motion, or is the motion \nchanging the internal mass of the system, which"
+    } ]
+  }, {
+    "tStartMs": 972320,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "in turn affects the evolution of that motion.\nWhatever the interpretational limitations,"
+    } ]
+  }, {
+    "tStartMs": 978160,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "being able to actually do an experiment counts for \na lot. And according to the Sorci paper we do have"
+    } ]
+  }, {
+    "tStartMs": 984880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the measurement precision to do this experiment \nnow. ​For example, for an Aluminum-ion clock, the"
+    } ]
+  }, {
+    "tStartMs": 989840,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "time shift​ ​is of order few parts in ten billion \nbillion. But the best NIST ion clocks do now have"
+    } ]
+  }, {
+    "tStartMs": 997600,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the precision to measure that discrepancy.\nThis means soon quantum mechanics​ ​may"
+    } ]
+  }, {
+    "tStartMs": 1003040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "have to give up its single clock ticking \nin the background and instead treat time"
+    } ]
+  }, {
+    "tStartMs": 1008240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "as a​ ​quantum property of each branch of \nthe wavefunction, just as the double-slit"
+    } ]
+  }, {
+    "tStartMs": 1012560,
+    "dDurationMs": 25600,
+    "segs": [ {
+      "utf8": "experiment does with space. One step closer \nto a unified quantum description of spacetime."
+    } ]
+  } ]
+}

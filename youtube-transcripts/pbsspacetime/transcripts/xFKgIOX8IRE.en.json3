@@ -1,0 +1,1429 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 110,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "The great physicist Herman Weyl once said,\n“My work always tried to unite the true"
+    } ]
+  }, {
+    "tStartMs": 5470,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "with the beautiful, but when I had to choose\none or the other, I usually chose the beautiful.”"
+    } ]
+  }, {
+    "tStartMs": 10200,
+    "dDurationMs": 10200,
+    "segs": [ {
+      "utf8": "But is this actually good advice for doing\nphysics?"
+    } ]
+  }, {
+    "tStartMs": 20400,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Many physicists believe that, in fact, you\ndon’t need to choose between beauty and"
+    } ]
+  }, {
+    "tStartMs": 24270,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "truth - there’s this idea that mathematical\nbeauty is a powerful guiding force towards"
+    } ]
+  }, {
+    "tStartMs": 29660,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "truth - the more beautiful the equations of\na proposed law of physics, the more likely"
+    } ]
+  }, {
+    "tStartMs": 34440,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "it is to truly represent reality."
+    } ]
+  }, {
+    "tStartMs": 37780,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But it’s also been argued that modern theoretical\nphysics, and in particular string theory,"
+    } ]
+  }, {
+    "tStartMs": 41980,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "has been overly transfixed by the allure of\nbeauty for decades, and that perhaps this"
+    } ]
+  }, {
+    "tStartMs": 47021,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "is the reason for the lack of major breakthroughs\nin the last half century."
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 6739,
+    "segs": [ {
+      "utf8": "Indeed, Hermann Weyl himself was led astray\nby his adherence to beauty, as we’ll see."
+    } ]
+  }, {
+    "tStartMs": 57739,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Hermann Weyl was hardly the first to be guided\n- and misguided by this abstract notion of"
+    } ]
+  }, {
+    "tStartMs": 63059,
+    "dDurationMs": 4331,
+    "segs": [ {
+      "utf8": "beauty in trying to guess the mathematical\nbehavior of the world."
+    } ]
+  }, {
+    "tStartMs": 67390,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "A prime example is our effort to understand\nthe motion of the planets."
+    } ]
+  }, {
+    "tStartMs": 72100,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "In the first effort, by Claudius Ptolemy,\nthe planets orbited the Earth in complicated"
+    } ]
+  }, {
+    "tStartMs": 76710,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "systems of circles embedded within circles\n- what we call epicycles - needed to explain"
+    } ]
+  }, {
+    "tStartMs": 82140,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "retrograde motion."
+    } ]
+  }, {
+    "tStartMs": 83820,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "It was pretty messy."
+    } ]
+  }, {
+    "tStartMs": 85950,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ugly even."
+    } ]
+  }, {
+    "tStartMs": 86950,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "Nicholaus Copernicus found more beauty of\nsimplicity by placing the Earth along with"
+    } ]
+  }, {
+    "tStartMs": 92580,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "all planets in simple circular orbits around\nthe Sun."
+    } ]
+  }, {
+    "tStartMs": 95950,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "However Copernicus was unable to actually\nimprove on the precision of Ptolemy’s predictions"
+    } ]
+  }, {
+    "tStartMs": 101100,
+    "dDurationMs": 5809,
+    "segs": [ {
+      "utf8": "- or at least to do so, he had to add epicycles\nof his own, which countered the elegance of"
+    } ]
+  }, {
+    "tStartMs": 106909,
+    "dDurationMs": 2271,
+    "segs": [ {
+      "utf8": "his original model."
+    } ]
+  }, {
+    "tStartMs": 109180,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "It turns out both Ptolemy and Copernicus were\nlured by the same bias towards beauty - here,"
+    } ]
+  }, {
+    "tStartMs": 114770,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "the mathematical perfection of the circle."
+    } ]
+  }, {
+    "tStartMs": 118740,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "But the planets move in ellipses, not circles\n- as deduced a century after Copernicus by"
+    } ]
+  }, {
+    "tStartMs": 123150,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Johanne Kepler."
+    } ]
+  }, {
+    "tStartMs": 124189,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Kepler’s three laws of planetary motion\nare arguably much less elegant than Copernicus’"
+    } ]
+  }, {
+    "tStartMs": 130009,
+    "dDurationMs": 2951,
+    "segs": [ {
+      "utf8": "simple model - a touch uglier."
+    } ]
+  }, {
+    "tStartMs": 132960,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "So did Copernicus ride the beauty train one\nstop too far?"
+    } ]
+  }, {
+    "tStartMs": 136700,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "More like he rode it in the wrong direction."
+    } ]
+  }, {
+    "tStartMs": 139989,
+    "dDurationMs": 5621,
+    "segs": [ {
+      "utf8": "There IS an extremely simple, elegant law\nunderlying planetary motion - it's Newton’s"
+    } ]
+  }, {
+    "tStartMs": 145610,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Law of Universal Gravitation."
+    } ]
+  }, {
+    "tStartMs": 147480,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Not only can Kepler’s complicated laws be\nderived from Newton, but Newtonian gravity"
+    } ]
+  }, {
+    "tStartMs": 152620,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "makes predictions far beyond the motion of\nthe planets."
+    } ]
+  }, {
+    "tStartMs": 155540,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "But even Newtonian gravity proved to be a\nspecial case of a much deeper law."
+    } ]
+  }, {
+    "tStartMs": 161660,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "Einstein’s equations of general relativity\ngive even better precision than Newton’s"
+    } ]
+  }, {
+    "tStartMs": 166930,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "law - perhaps perfect precision - in their\ndescription of gravity."
+    } ]
+  }, {
+    "tStartMs": 170770,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "And general relativity is also more explanatory\nthan Newton - it tells us that gravity results"
+    } ]
+  }, {
+    "tStartMs": 175920,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "from the warping of space and time."
+    } ]
+  }, {
+    "tStartMs": 177800,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Yet the equations of general relativity are\nnotoriously complex."
+    } ]
+  }, {
+    "tStartMs": 182660,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Most who’ve studied the field equations\ndeeply find it supremely elegant - but it’s"
+    } ]
+  }, {
+    "tStartMs": 188540,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "not straightforward to define where that sense\nof elegance comes from."
+    } ]
+  }, {
+    "tStartMs": 193080,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Ptolemy, Copernicus, Kepler, Newton, Einstein\n- each followed their own sense of mathematical"
+    } ]
+  }, {
+    "tStartMs": 200160,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "beauty in this long quest to understand gravity."
+    } ]
+  }, {
+    "tStartMs": 203390,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "But the process seems ... unsteady - treacherous\neven."
+    } ]
+  }, {
+    "tStartMs": 207880,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So why is this pursuit sometimes so powerful,\nbut sometimes so fraught?"
+    } ]
+  }, {
+    "tStartMs": 213280,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "To understand that, we need to think about\nwhat mathematical beauty even means."
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "Just as with beauty in any field, it’s fundamentally\na subjective sense, and so difficult to define."
+    } ]
+  }, {
+    "tStartMs": 224170,
+    "dDurationMs": 4649,
+    "segs": [ {
+      "utf8": "But let’s think about some of the ways in\nwhich math can be considered beautiful."
+    } ]
+  }, {
+    "tStartMs": 228819,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "For Ptolemy and Copernicus it was a sense\nthat certain mathematical forms are intrinsically"
+    } ]
+  }, {
+    "tStartMs": 233620,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "more beautiful or perfect than others - in\ntheir case circular orbits - and so surely"
+    } ]
+  }, {
+    "tStartMs": 238450,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "nature must preferentially choose these for\nits laws."
+    } ]
+  }, {
+    "tStartMs": 243159,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "Even Kepler fell for that one - he tried to\nrelate his “messy” elliptical orbits to"
+    } ]
+  }, {
+    "tStartMs": 249349,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "the more perfect Platonic solids."
+    } ]
+  }, {
+    "tStartMs": 251810,
+    "dDurationMs": 5629,
+    "segs": [ {
+      "utf8": "It’s the geometric symmetry of the circle\nor the platonic solid that seems beautiful."
+    } ]
+  }, {
+    "tStartMs": 257439,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "But in physics, when we talk about symmetry\nwe mean that a physical law is unchanged by"
+    } ]
+  }, {
+    "tStartMs": 262569,
+    "dDurationMs": 4981,
+    "segs": [ {
+      "utf8": "some transformation - whether shifts in time,\nspace, angle, or something more abstract like"
+    } ]
+  }, {
+    "tStartMs": 267550,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "the phase of the wavefunction."
+    } ]
+  }, {
+    "tStartMs": 269839,
+    "dDurationMs": 6531,
+    "segs": [ {
+      "utf8": "The universe does obey deep, underlying symmetries\nthat are reflected on all scales of complexity."
+    } ]
+  }, {
+    "tStartMs": 276370,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "We make powerful use of these symmetries to\nderive our laws of physics, and so perhaps"
+    } ]
+  }, {
+    "tStartMs": 280439,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "it’s not surprising these equations possess\nsome of the beauty of the underlying symmetries."
+    } ]
+  }, {
+    "tStartMs": 287479,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "A law of physics might also be considered\nbeautiful if it reduces to a compact expression"
+    } ]
+  }, {
+    "tStartMs": 292629,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "- a small number of physical properties linked\nin a mathematically simple way."
+    } ]
+  }, {
+    "tStartMs": 298289,
+    "dDurationMs": 5511,
+    "segs": [ {
+      "utf8": "If an ugly set of expressions reduces to one\nor few simple laws that explain a wide range"
+    } ]
+  }, {
+    "tStartMs": 303800,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "of phenomena, that feels extremely compelling."
+    } ]
+  }, {
+    "tStartMs": 307319,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "This is connected to the principle of parsimony,\nalso known as Occam’s Razor."
+    } ]
+  }, {
+    "tStartMs": 311199,
+    "dDurationMs": 5851,
+    "segs": [ {
+      "utf8": "It can be stated as follows \"other things\nbeing equal, simpler explanations are generally"
+    } ]
+  }, {
+    "tStartMs": 317050,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "better than more complex ones\"."
+    } ]
+  }, {
+    "tStartMs": 320009,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "You can describe any complex phenomenon with\na mathematical model if you’re willing to"
+    } ]
+  }, {
+    "tStartMs": 324749,
+    "dDurationMs": 5111,
+    "segs": [ {
+      "utf8": "give your model enough moving parts - but\nthat doesn’t mean it holds more truth or"
+    } ]
+  }, {
+    "tStartMs": 329860,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "explanatory power."
+    } ]
+  }, {
+    "tStartMs": 332020,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "Add enough epicycles, and Ptolemy’s circles\nwithin circles within circles could describe"
+    } ]
+  }, {
+    "tStartMs": 336979,
+    "dDurationMs": 5131,
+    "segs": [ {
+      "utf8": "the motion of anything, from a planet to a\nparticle of air - but it wouldn’t explain"
+    } ]
+  }, {
+    "tStartMs": 342110,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "that motion."
+    } ]
+  }, {
+    "tStartMs": 343710,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "At its heart, Occam’s Razor comes from the\nidea that the extreme complexity we observe"
+    } ]
+  }, {
+    "tStartMs": 348520,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "in our world - in which there are many, seemingly\ndisconnected phenomena - emerges from the"
+    } ]
+  }, {
+    "tStartMs": 354039,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "action of few simple underlying causes."
+    } ]
+  }, {
+    "tStartMs": 357259,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And that’s an observational fact."
+    } ]
+  }, {
+    "tStartMs": 359969,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "Newton’s law of gravitation is a great example,\nand we can be sure that Newton himself felt"
+    } ]
+  }, {
+    "tStartMs": 365039,
+    "dDurationMs": 6231,
+    "segs": [ {
+      "utf8": "a sense of aesthetic pleasure when he realized\nthat the motions of both the moon and an apple"
+    } ]
+  }, {
+    "tStartMs": 371270,
+    "dDurationMs": 4209,
+    "segs": [ {
+      "utf8": "could be explained by one piece of high-school\nalgebra."
+    } ]
+  }, {
+    "tStartMs": 375479,
+    "dDurationMs": 8110,
+    "segs": [ {
+      "utf8": "So is base reality represented by the simplest\npossible interaction or relationship, expressible"
+    } ]
+  }, {
+    "tStartMs": 383589,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "with the simplest conceivable mathematical\nstatement?"
+    } ]
+  }, {
+    "tStartMs": 386490,
+    "dDurationMs": 6979,
+    "segs": [ {
+      "utf8": "And if so, does pursuing mathematical parsimony\nguide us inexorably towards the most elementary"
+    } ]
+  }, {
+    "tStartMs": 393469,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "driving forces?"
+    } ]
+  }, {
+    "tStartMs": 395550,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "The step from Kepler to Newton suggests so,\nbut then why does complexity seem to increase"
+    } ]
+  }, {
+    "tStartMs": 401740,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "when you go one level deeper from Newton to\nEinstein?"
+    } ]
+  }, {
+    "tStartMs": 405590,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "This is probably a good time for a quote from\nEinstein himself: “The supreme goal of all"
+    } ]
+  }, {
+    "tStartMs": 411009,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "theory is to make the irreducible basic elements\nas simple and as few as possible without having"
+    } ]
+  }, {
+    "tStartMs": 416979,
+    "dDurationMs": 5761,
+    "segs": [ {
+      "utf8": "to surrender the adequate representation of\na single datum of experience.”"
+    } ]
+  }, {
+    "tStartMs": 422740,
+    "dDurationMs": 5329,
+    "segs": [ {
+      "utf8": "In other words, no matter how pretty and parsimonious\nour theory, if it doesn’t match reality"
+    } ]
+  }, {
+    "tStartMs": 428069,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "as measured by experimental data, then we’ve\ngone too far."
+    } ]
+  }, {
+    "tStartMs": 432099,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "One of Einstein’s contemporaries, and one\nof the very few that might be considered his"
+    } ]
+  }, {
+    "tStartMs": 436180,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "intellectual peer, seems to have disagreed."
+    } ]
+  }, {
+    "tStartMs": 439899,
+    "dDurationMs": 5621,
+    "segs": [ {
+      "utf8": "Paul Dirac, one of the principal founders\nof quantum mechanics, said “It is more important"
+    } ]
+  }, {
+    "tStartMs": 445520,
+    "dDurationMs": 4659,
+    "segs": [ {
+      "utf8": "to have beauty in one's equation than to have\nthem fit experiment.”"
+    } ]
+  }, {
+    "tStartMs": 450179,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "By which he meant that an experiment might\ngive incorrect results, and so incorrectly"
+    } ]
+  }, {
+    "tStartMs": 455560,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "discredit a true hypothesis."
+    } ]
+  }, {
+    "tStartMs": 458639,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But if a physical law is mathematically ugly,\nthen you can be sure it’s wrong, experiment"
+    } ]
+  }, {
+    "tStartMs": 463639,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "or no."
+    } ]
+  }, {
+    "tStartMs": 464639,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Dirac’s most famous result came from exactly\nthis pursuit of mathematical beauty."
+    } ]
+  }, {
+    "tStartMs": 469089,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "He sought to develop a quantum mechanical\nwave equation that agreed with Einstein’s"
+    } ]
+  }, {
+    "tStartMs": 473379,
+    "dDurationMs": 1171,
+    "segs": [ {
+      "utf8": "special relativity."
+    } ]
+  }, {
+    "tStartMs": 474550,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "We’ve talked about how he did this before,\nbut the result was that Dirac’s algebra"
+    } ]
+  }, {
+    "tStartMs": 478580,
+    "dDurationMs": 5829,
+    "segs": [ {
+      "utf8": "looked like a dog’s breakfast of cross-terms\nthat could only be described as ugly."
+    } ]
+  }, {
+    "tStartMs": 484409,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "But then a simple modification to the founding\nassumptions caused this mess to collapse into"
+    } ]
+  }, {
+    "tStartMs": 489679,
+    "dDurationMs": 2061,
+    "segs": [ {
+      "utf8": "a supremely elegant form."
+    } ]
+  }, {
+    "tStartMs": 491740,
+    "dDurationMs": 6449,
+    "segs": [ {
+      "utf8": "The resulting Dirac equation is the entirely\ncorrect relativistic quantum description of"
+    } ]
+  }, {
+    "tStartMs": 498189,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the behavior of the electron."
+    } ]
+  }, {
+    "tStartMs": 500189,
+    "dDurationMs": 5271,
+    "segs": [ {
+      "utf8": "Dirac knew he was on the right track based\non an abstract sense that the underlying laws"
+    } ]
+  }, {
+    "tStartMs": 505460,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "of the universe SHOULD be elegant."
+    } ]
+  }, {
+    "tStartMs": 508419,
+    "dDurationMs": 6691,
+    "segs": [ {
+      "utf8": "Oh, by the way, the modified assumption that\nled to Dirac’s miraculous algebraic convergence?"
+    } ]
+  }, {
+    "tStartMs": 515110,
+    "dDurationMs": 5619,
+    "segs": [ {
+      "utf8": "He allowed the electron to have states with\nnegative energy levels - not technically possible,"
+    } ]
+  }, {
+    "tStartMs": 520729,
+    "dDurationMs": 5191,
+    "segs": [ {
+      "utf8": "but we now understand these as corresponding\nto the antimatter counterpart of the electron."
+    } ]
+  }, {
+    "tStartMs": 525920,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "Dirac’s pursuit of pure mathematical elegance\nled him to predict the existence of antimatter,"
+    } ]
+  }, {
+    "tStartMs": 532610,
+    "dDurationMs": 6169,
+    "segs": [ {
+      "utf8": "which was discovered only a couple of years\nafter the 1929 publication of his equation."
+    } ]
+  }, {
+    "tStartMs": 538779,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "Nobel laureate physicist Frank Wilcek talks\nabout a form of mathematical beauty that he"
+    } ]
+  }, {
+    "tStartMs": 544300,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "calls the exuberance of a theory - its productivity."
+    } ]
+  }, {
+    "tStartMs": 549410,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "The equations of physical law are beautiful\nif you get out more than you put in."
+    } ]
+  }, {
+    "tStartMs": 554970,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "If it predicts or describes more aspects of\nthe world than were used to derive the law"
+    } ]
+  }, {
+    "tStartMs": 559740,
+    "dDurationMs": 1539,
+    "segs": [ {
+      "utf8": "in the first place."
+    } ]
+  }, {
+    "tStartMs": 561279,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "The Dirac equation is a good example."
+    } ]
+  }, {
+    "tStartMs": 563509,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Same with Newton’s gravity, derived from\nobservations of apples and the moon, but it"
+    } ]
+  }, {
+    "tStartMs": 567699,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "predicts the motions of galaxies."
+    } ]
+  }, {
+    "tStartMs": 570129,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "And Maxwell’s equations, which parsimoniously\nunite electricity and magnetism but also predict"
+    } ]
+  }, {
+    "tStartMs": 575149,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "the existence of electromagnetic waves - of\nlight."
+    } ]
+  }, {
+    "tStartMs": 579269,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "And then there’s Einstein’s field equations\nof general relativity."
+    } ]
+  }, {
+    "tStartMs": 582230,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "They were derived following the simplest thought\nexperiments - he imagined falling off a roof,"
+    } ]
+  }, {
+    "tStartMs": 588160,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "or a photon bouncing between mirrors - but\nthe resulting theory predicts black holes,"
+    } ]
+  }, {
+    "tStartMs": 594250,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "gravitational waves, and even the big bang."
+    } ]
+  }, {
+    "tStartMs": 597040,
+    "dDurationMs": 4149,
+    "segs": [ {
+      "utf8": "The beauty of predictive power was a big part\nof what drove Hermann Weyl."
+    } ]
+  }, {
+    "tStartMs": 601189,
+    "dDurationMs": 4292,
+    "segs": [ {
+      "utf8": "A couple of years after Einstein presented\nhis general theory of relativity - Weyl found"
+    } ]
+  }, {
+    "tStartMs": 605481,
+    "dDurationMs": 5379,
+    "segs": [ {
+      "utf8": "a simple, elegant way to unify Einsteinian\ngravity with the other force of nature known"
+    } ]
+  }, {
+    "tStartMs": 610860,
+    "dDurationMs": 2289,
+    "segs": [ {
+      "utf8": "at the time - electromagnetism."
+    } ]
+  }, {
+    "tStartMs": 613149,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Just add an additional degree of freedom - actually\na symmetry - at each point in space and electromagnetism"
+    } ]
+  }, {
+    "tStartMs": 618769,
+    "dDurationMs": 1791,
+    "segs": [ {
+      "utf8": "appears, almost miraculously."
+    } ]
+  }, {
+    "tStartMs": 620560,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "We’ve discussed the details before."
+    } ]
+  }, {
+    "tStartMs": 622750,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "But Weyl’s theory made some predictions\nthat simply did not reflect the real universe"
+    } ]
+  }, {
+    "tStartMs": 627029,
+    "dDurationMs": 2941,
+    "segs": [ {
+      "utf8": "- ultimately it was just plain wrong."
+    } ]
+  }, {
+    "tStartMs": 629970,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Weyl had a hard time accepting that such a\nbeautiful theory could be wrong, and he modified"
+    } ]
+  }, {
+    "tStartMs": 634880,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "his idea to fix the issues - added some metaphorical\nepicycles - but that robbed the initial idea"
+    } ]
+  }, {
+    "tStartMs": 640670,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "of its elegance, just as they had for Copernicus."
+    } ]
+  }, {
+    "tStartMs": 644370,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "So now we come to string theory."
+    } ]
+  }, {
+    "tStartMs": 646200,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "The first compellingly beautiful aspect of\nstring theory is that gravity, in the form"
+    } ]
+  }, {
+    "tStartMs": 649569,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "of the Einstein field equations - automatically\nemerged from it."
+    } ]
+  }, {
+    "tStartMs": 652990,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "We described how in a previous video."
+    } ]
+  }, {
+    "tStartMs": 654690,
+    "dDurationMs": 4209,
+    "segs": [ {
+      "utf8": "But there are other things too - for example,\ndisparate versions of string theory seem to"
+    } ]
+  }, {
+    "tStartMs": 658899,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "miraculously converge into one master theory."
+    } ]
+  }, {
+    "tStartMs": 661839,
+    "dDurationMs": 3731,
+    "segs": [ {
+      "utf8": "This seemed too mathematically neat to be\na coincidence."
+    } ]
+  }, {
+    "tStartMs": 665570,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "String theorists find their math beautiful,\neven if it is far from being simple."
+    } ]
+  }, {
+    "tStartMs": 670610,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "And yet it hasn’t managed to produce a testable\nprediction - besides the whole gravity thing"
+    } ]
+  }, {
+    "tStartMs": 674620,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of course."
+    } ]
+  }, {
+    "tStartMs": 675620,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "So did string theory fall for the same sort\nof misguided obsession with beauty as did"
+    } ]
+  }, {
+    "tStartMs": 679290,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Weyl?"
+    } ]
+  }, {
+    "tStartMs": 680290,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Well, I don’t know."
+    } ]
+  }, {
+    "tStartMs": 681720,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "But let’s get back to Weyl anyway."
+    } ]
+  }, {
+    "tStartMs": 684519,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "Actually, Weyl’s “incorrect” attempt\nto integrate gravity and electromagnetism"
+    } ]
+  }, {
+    "tStartMs": 688330,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "wasn’t such a failure."
+    } ]
+  }, {
+    "tStartMs": 690490,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "His idea of introducing a new symmetry to\nspace was translated to adding a new symmetry"
+    } ]
+  }, {
+    "tStartMs": 695970,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "to the wavefunction in quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 698860,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "The result was the same - the electromagnetic\nfield popped out like magic."
+    } ]
+  }, {
+    "tStartMs": 703779,
+    "dDurationMs": 5141,
+    "segs": [ {
+      "utf8": "And Weyl’s idea evolved into what we now\ncall gauge symmetry, and it’s the basis"
+    } ]
+  }, {
+    "tStartMs": 708920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "for the slightly ugly but fantastically successful\nstandard model of particle physics."
+    } ]
+  }, {
+    "tStartMs": 714520,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "So perhaps mathematical beauty and convergence\nDOES provide a reliable indicator that we’re"
+    } ]
+  }, {
+    "tStartMs": 720620,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "moving in the right direction, but it’s\nless of a sure compass, and more a hint - getting"
+    } ]
+  }, {
+    "tStartMs": 725710,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "warmer, getting colder - and much cleverness\nstill has to be applied in interpreting that"
+    } ]
+  }, {
+    "tStartMs": 730980,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "hint."
+    } ]
+  }, {
+    "tStartMs": 731980,
+    "dDurationMs": 4529,
+    "segs": [ {
+      "utf8": "And so perhaps the mathematical wonders of\nstring theory DO reflect something true about"
+    } ]
+  }, {
+    "tStartMs": 736509,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "reality, but we’re struggling with how to\ninterpret it all."
+    } ]
+  }, {
+    "tStartMs": 740180,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "Ultimately, our sense of beauty can’t be\ncleanly defined - not in art and not in physics."
+    } ]
+  }, {
+    "tStartMs": 745930,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "It results from the hidden workings of our\nbrains - many factors contribute subconsciously"
+    } ]
+  }, {
+    "tStartMs": 750540,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "to this qualitative sense of ... yes, that\nfeels right, or that stirs me."
+    } ]
+  }, {
+    "tStartMs": 756230,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "And that imprecise subjectivity may be a reason\nto pay attention to our sense of beauty in"
+    } ]
+  }, {
+    "tStartMs": 761740,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "physics, rather than reject it."
+    } ]
+  }, {
+    "tStartMs": 763800,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "It symbolizes the synthesis of our unconscious\nintelligence - our intuition."
+    } ]
+  }, {
+    "tStartMs": 768999,
+    "dDurationMs": 3441,
+    "segs": [ {
+      "utf8": "In science we’re skeptical of pure intuition,\nand rightly so."
+    } ]
+  }, {
+    "tStartMs": 772440,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Alone it can lead us astray."
+    } ]
+  }, {
+    "tStartMs": 774990,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "But it also points us true, if we take care\nto apply scientific rigor in between leaps"
+    } ]
+  }, {
+    "tStartMs": 780670,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "of intuition."
+    } ]
+  }, {
+    "tStartMs": 782360,
+    "dDurationMs": 5329,
+    "segs": [ {
+      "utf8": "Used judiciously, the intuition of beauty\nmay ultimately point the way to the deepest"
+    } ]
+  }, {
+    "tStartMs": 787689,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "truths, leading to the most beautifully fundamental\nexplanations of space time."
+    } ]
+  }, {
+    "tStartMs": 793509,
+    "dDurationMs": 5111,
+    "segs": [ {
+      "utf8": "Hey everyone, we're doubling up on comments\ntoday - last week I was offline in Yellowstone"
+    } ]
+  }, {
+    "tStartMs": 798620,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "communing with Bison and supervolcanos."
+    } ]
+  }, {
+    "tStartMs": 801519,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Huge shoutout to David who let me and Bahar\nlook through his scope to see one of the famous"
+    } ]
+  }, {
+    "tStartMs": 805329,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Yellowstone wolves that was busy restabilizing\nthe ecosystem."
+    } ]
+  }, {
+    "tStartMs": 809069,
+    "dDurationMs": 2791,
+    "segs": [ {
+      "utf8": "And like digging for worms or something."
+    } ]
+  }, {
+    "tStartMs": 811860,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Amazing place."
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So today we're covering our episode on the\nfuture circular collider and on how we know"
+    } ]
+  }, {
+    "tStartMs": 820160,
+    "dDurationMs": 2089,
+    "segs": [ {
+      "utf8": "the composition of stars."
+    } ]
+  }, {
+    "tStartMs": 822249,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "In fact let's start with the stars."
+    } ]
+  }, {
+    "tStartMs": 825379,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "Cognitive Failure asked a great PhD level\nquestion on stellar absorption lines."
+    } ]
+  }, {
+    "tStartMs": 830740,
+    "dDurationMs": 5269,
+    "segs": [ {
+      "utf8": "Basically, why do we see specific wavelengths\nmissing from starlight due to electrons absorbing"
+    } ]
+  }, {
+    "tStartMs": 836009,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "those wavelengths in atoms?"
+    } ]
+  }, {
+    "tStartMs": 838389,
+    "dDurationMs": 4661,
+    "segs": [ {
+      "utf8": "Shouldn't those same electrons then drop back\ndown in energy level, emitting the same wavelengths"
+    } ]
+  }, {
+    "tStartMs": 843050,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "they absorbed?"
+    } ]
+  }, {
+    "tStartMs": 844370,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "So the answer is yes they absolutely do - and\nin some cases you see extra light at those"
+    } ]
+  }, {
+    "tStartMs": 851170,
+    "dDurationMs": 7070,
+    "segs": [ {
+      "utf8": "special wavelengths - what we call emission\nlines, in some cases less light - absorption"
+    } ]
+  }, {
+    "tStartMs": 858240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "lines."
+    } ]
+  }, {
+    "tStartMs": 859240,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "It depends on what the background light looks\nlike."
+    } ]
+  }, {
+    "tStartMs": 862410,
+    "dDurationMs": 5979,
+    "segs": [ {
+      "utf8": "If the atoms in question are between us and\na source of light that's bright at all wavelengths,"
+    } ]
+  }, {
+    "tStartMs": 868389,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "then we see absorption - that's because although\nthose atoms to reemit the absorbed energy,"
+    } ]
+  }, {
+    "tStartMs": 873389,
+    "dDurationMs": 5661,
+    "segs": [ {
+      "utf8": "they do so in random directions AND potentially\nthrough a cascade of energy level drops that"
+    } ]
+  }, {
+    "tStartMs": 879050,
+    "dDurationMs": 3349,
+    "segs": [ {
+      "utf8": "may not be the same as the initial energy\nlevel jump."
+    } ]
+  }, {
+    "tStartMs": 882399,
+    "dDurationMs": 5511,
+    "segs": [ {
+      "utf8": "That's the case when looking through the Sun's\natmosphere at it's bright interior."
+    } ]
+  }, {
+    "tStartMs": 887910,
+    "dDurationMs": 4929,
+    "segs": [ {
+      "utf8": "On the other hand, if you have a cloud of\ngas hanging out in space like a nebula - it"
+    } ]
+  }, {
+    "tStartMs": 892839,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "will be illuminated by stars but you're not\nlooking directly AT those stars through the"
+    } ]
+  }, {
+    "tStartMs": 897639,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "cloud."
+    } ]
+  }, {
+    "tStartMs": 898639,
+    "dDurationMs": 4651,
+    "segs": [ {
+      "utf8": "In that case you'll see all of those photons\nproduced when absorbed light is reemitted"
+    } ]
+  }, {
+    "tStartMs": 903290,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "- emission lines."
+    } ]
+  }, {
+    "tStartMs": 905410,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "You won't see absorption unless you look directly\nthrough the cloud at one of those stars."
+    } ]
+  }, {
+    "tStartMs": 911360,
+    "dDurationMs": 6919,
+    "segs": [ {
+      "utf8": "OK, on to the future circular collider - well\nactually Awesome Octagon dropped some knowledge"
+    } ]
+  }, {
+    "tStartMs": 918279,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "on a different next-generation particle collider\nthat's worth sharing."
+    } ]
+  }, {
+    "tStartMs": 922410,
+    "dDurationMs": 7310,
+    "segs": [ {
+      "utf8": "The Belle II experiment that just started\ntaking data on Japan's superKEKB electron-positron"
+    } ]
+  }, {
+    "tStartMs": 929720,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "collider."
+    } ]
+  }, {
+    "tStartMs": 930759,
+    "dDurationMs": 6050,
+    "segs": [ {
+      "utf8": "This is nowhere near as big as even the large\nhadron collider, but it does achieve higher"
+    } ]
+  }, {
+    "tStartMs": 936809,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "luminosities - more collisions per second."
+    } ]
+  }, {
+    "tStartMs": 940100,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "The point is that there are some insanely\nrare interactions and extremely subtle deviations"
+    } ]
+  }, {
+    "tStartMs": 946670,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "from the predictions of the standard model."
+    } ]
+  }, {
+    "tStartMs": 949149,
+    "dDurationMs": 3851,
+    "segs": [ {
+      "utf8": "To detect these you need more collisions,\nnot higher energies."
+    } ]
+  }, {
+    "tStartMs": 953000,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "That said, I want to add that we don't know\nin which direction the new knowledge is hiding,"
+    } ]
+  }, {
+    "tStartMs": 958560,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "so we need to explore multiple paths."
+    } ]
+  }, {
+    "tStartMs": 962410,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "Regarding the value of pursuing crazy ambitious\nscience projects - DG put it better than I"
+    } ]
+  }, {
+    "tStartMs": 966199,
+    "dDurationMs": 4281,
+    "segs": [ {
+      "utf8": "can: If Humans only did what looked to be\nthe most immediately important task we'd still"
+    } ]
+  }, {
+    "tStartMs": 970480,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "be living in trees, if not extinct."
+    } ]
+  }, {
+    "tStartMs": 973249,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "Deep Time goes in both directions."
+    } ]
+  }, {
+    "tStartMs": 975370,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "I love the idea of future deep time."
+    } ]
+  }, {
+    "tStartMs": 978529,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "I hope it actually happens."
+    } ]
+  }, {
+    "tStartMs": 980250,
+    "dDurationMs": 1389,
+    "segs": [ {
+      "utf8": "For humans, I mean."
+    } ]
+  }, {
+    "tStartMs": 981639,
+    "dDurationMs": 4021,
+    "segs": [ {
+      "utf8": "John Constantine offers a different type of\nwisdom regarding the motivation for building"
+    } ]
+  }, {
+    "tStartMs": 985660,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "the FCC: Their demon overlords have demanded\na larger summoning circle."
+    } ]
+  }, {
+    "tStartMs": 992139,
+    "dDurationMs": 3021,
+    "segs": [ {
+      "utf8": "Yes, and this time we'll summon a God."
+    } ]
+  }, {
+    "tStartMs": 995160,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Particle."
+    } ]
+  }, {
+    "tStartMs": 996259,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "In fact countless of them."
+    } ]
+  }, {
+    "tStartMs": 997660,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Bwa ha ha."
+    } ]
+  } ]
+}

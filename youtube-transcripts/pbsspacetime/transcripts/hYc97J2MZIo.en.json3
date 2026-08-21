@@ -1,0 +1,1345 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "The people behind the greatest leaps in physics\n- Einstein, Newton, Heisenberg, all had the"
+    } ]
+  }, {
+    "tStartMs": 5920,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "uncanny ability to see the fundamentals - see\nthe deepest, underlying facts about the world,"
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and from simple statements about reality they\nbuilt up their incredible theories."
+    } ]
+  }, {
+    "tStartMs": 16960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well what if we all had a recipe book for\ndoing exactly this."
+    } ]
+  }, {
+    "tStartMs": 20960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Well, one might be just around the corner."
+    } ]
+  }, {
+    "tStartMs": 23520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "------Intro Sequence-----"
+    } ]
+  }, {
+    "tStartMs": 28800,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Pretty much all of physics can be boiled down\nthe following:"
+    } ]
+  }, {
+    "tStartMs": 32160,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Step 1."
+    } ]
+  }, {
+    "tStartMs": 32960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "describe some aspect of the universe with\nnumbers - like the temperature, pressure,"
+    } ]
+  }, {
+    "tStartMs": 37120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "etc of a gas or the position, velocity, etc.\nof a particle"
+    } ]
+  }, {
+    "tStartMs": 41200,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Step 2."
+    } ]
+  }, {
+    "tStartMs": 42080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Come up with a set of equations that predict\nhow those numbers change over time - e.g."
+    } ]
+  }, {
+    "tStartMs": 46640,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "the laws of thermodynamics or Newton’s laws\nof motion"
+    } ]
+  }, {
+    "tStartMs": 50080,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Step 3."
+    } ]
+  }, {
+    "tStartMs": 51200,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Based on some initial state - a starting set\nof these numbers predict how the system will"
+    } ]
+  }, {
+    "tStartMs": 56320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "evolve at all future times\nStep 4."
+    } ]
+  }, {
+    "tStartMs": 59360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Profit, by building heat engines, airplanes,\nskyscrapers, and our entire modern world"
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "In short, physics works by applying dynamical\nlaws to some input state in order to predict"
+    } ]
+  }, {
+    "tStartMs": 70240,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "an output state."
+    } ]
+  }, {
+    "tStartMs": 71600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "We consider those laws to be “true” when\nthese predictions match reality."
+    } ]
+  }, {
+    "tStartMs": 76880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "This mechanistic approach to describing the\nworld has been wildly successful."
+    } ]
+  }, {
+    "tStartMs": 81680,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "In fact it’s hard to imagine another way\nto do physics."
+    } ]
+  }, {
+    "tStartMs": 84720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Except that, in many ways, the mechanistic\napproach may have reached its limit."
+    } ]
+  }, {
+    "tStartMs": 90240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "It’s nice to have a set of equations for\neach separate aspect of the world - but if"
+    } ]
+  }, {
+    "tStartMs": 95840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "these theories are really true then they should\nultimately come together into some master"
+    } ]
+  }, {
+    "tStartMs": 100640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "theory - and they do, to an extent."
+    } ]
+  }, {
+    "tStartMs": 103600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "You can derive all of thermodynamics and Newtonian\nmechanics and electromagnetism and so on from"
+    } ]
+  }, {
+    "tStartMs": 108800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "two master theories: quantum mechanics and\nEinstein’s general relativity."
+    } ]
+  }, {
+    "tStartMs": 113600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But the master theory that unifies those last\ntwo has so far eluded us."
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "For nearly a century, our greatest minds have\nbeen trying to come up with dynamical laws"
+    } ]
+  }, {
+    "tStartMs": 123920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "that describe all of nature - a mechanistic\ntheory of everything."
+    } ]
+  }, {
+    "tStartMs": 128160,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "And they’ve failed."
+    } ]
+  }, {
+    "tStartMs": 130000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Some are starting to wonder if we need to\nrethink how we do physics at the fundamental"
+    } ]
+  }, {
+    "tStartMs": 134640,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "level."
+    } ]
+  }, {
+    "tStartMs": 135680,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "One such approach is constructor theory, developed\nby David Deustch and Chiara Marletto at Oxford"
+    } ]
+  }, {
+    "tStartMs": 142640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "University since 2012."
+    } ]
+  }, {
+    "tStartMs": 145040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "In the mechanistic approach the fundamentals\nare the mathematical descriptions of how a"
+    } ]
+  }, {
+    "tStartMs": 150000,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "process occurs."
+    } ]
+  }, {
+    "tStartMs": 151600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "In constructor theory, the fundamentals are\nsimpler - they are binary facts about whether"
+    } ]
+  }, {
+    "tStartMs": 157680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "or not a particular process is possible."
+    } ]
+  }, {
+    "tStartMs": 160640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "It uses theories like general relativity and\nquantum mechanics, along with more fundamental"
+    } ]
+  }, {
+    "tStartMs": 165280,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "conservation laws, or principles, to rule\nout impossible output states given an input"
+    } ]
+  }, {
+    "tStartMs": 171360,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "state of a system."
+    } ]
+  }, {
+    "tStartMs": 173440,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "The transformations between the input and\noutput states are dubbed tasks, and if a task"
+    } ]
+  }, {
+    "tStartMs": 179920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "is possible, then there exists a system known\nas a constructor which can perform the task."
+    } ]
+  }, {
+    "tStartMs": 185280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Constructor theory is inspired by information\ntheory and the theory of quantum computation."
+    } ]
+  }, {
+    "tStartMs": 191040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "As David Deutsch says, if a quantum computer\ncan, in principle, simulate any process in"
+    } ]
+  }, {
+    "tStartMs": 196560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "physics, then all of physics can be expressed\nin terms of the theory of quantum computation."
+    } ]
+  }, {
+    "tStartMs": 202320,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "This hails back to the work of John von Neumann,\nwho came up with the concept of the universal"
+    } ]
+  }, {
+    "tStartMs": 207440,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "constructor - basically a generalization of\na universal computer - it’s a system that"
+    } ]
+  }, {
+    "tStartMs": 212720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "can perform any computation OR physical task,\nincluding creating a copy of itself."
+    } ]
+  }, {
+    "tStartMs": 218400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Deutsch realized that this notion could be\nused as a way to describe how nature works"
+    } ]
+  }, {
+    "tStartMs": 223760,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "- we can break up reality in terms of constructors\nthat can cause changes in the world via “tasks”"
+    } ]
+  }, {
+    "tStartMs": 230240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "- transformations that for a given constructor\nare either possible or impossible."
+    } ]
+  }, {
+    "tStartMs": 234880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Ultimately, constructor theory is about something\ncalled a counterfactual - which in constructor"
+    } ]
+  }, {
+    "tStartMs": 240640,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "theory is a sort of a meta-fact - it’s the\nfact of whether or not a given task is possible"
+    } ]
+  }, {
+    "tStartMs": 246160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "or impossible for a given constructor."
+    } ]
+  }, {
+    "tStartMs": 248960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And, in fact, the counterfactuals are more\nimportant than the constructors."
+    } ]
+  }, {
+    "tStartMs": 253680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "As Marletto puts it, it’s the science of\ncan and can’t, which is also the title of"
+    } ]
+  }, {
+    "tStartMs": 259920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "her pop-sci book on the subject."
+    } ]
+  }, {
+    "tStartMs": 261840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "The power of constructor theory is that it\nallows us to explore physics without having"
+    } ]
+  }, {
+    "tStartMs": 266240,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "to solve the detailed equations of motion."
+    } ]
+  }, {
+    "tStartMs": 268960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "On the one hand that allows us to make far\nmore general statements about how a system"
+    } ]
+  }, {
+    "tStartMs": 273040,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "can behave."
+    } ]
+  }, {
+    "tStartMs": 274160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I’ll come back to an example of that."
+    } ]
+  }, {
+    "tStartMs": 276480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "But it also potentially allows us to understand\naspects of nature where we don’t even know"
+    } ]
+  }, {
+    "tStartMs": 281440,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "the dynamical laws."
+    } ]
+  }, {
+    "tStartMs": 282960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "For example, understanding the union of quantum\nmechanics and general relativity."
+    } ]
+  }, {
+    "tStartMs": 287440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Before we get to how constructor theory is\ngoing to explain everything, let’s look"
+    } ]
+  }, {
+    "tStartMs": 292560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "at a simple example to define some of these\nconcepts."
+    } ]
+  }, {
+    "tStartMs": 295680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "The mechanistic philosophy that dominates\nphysics really started with Isaac Newton,"
+    } ]
+  }, {
+    "tStartMs": 300560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "so it’s appropriate to start with the falling\napple that apocryphally inspired a lot of"
+    } ]
+  }, {
+    "tStartMs": 305760,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "this."
+    } ]
+  }, {
+    "tStartMs": 306240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "In Newton’s picture, the apple has a current\nstate, stationary and up in the tree."
+    } ]
+  }, {
+    "tStartMs": 311360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We use that state as the input, apply the\nlaws of gravity and motion - and we find the"
+    } ]
+  }, {
+    "tStartMs": 316400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "output state - that the apple fell to the\nground."
+    } ]
+  }, {
+    "tStartMs": 318960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "In the constructor theory view, we ask what\ntasks are possible and impossible for the"
+    } ]
+  }, {
+    "tStartMs": 323440,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "apple given its input state."
+    } ]
+  }, {
+    "tStartMs": 325680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Is it possible for the apple to stay where\nit is, hovering in the air?"
+    } ]
+  }, {
+    "tStartMs": 330560,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "It’s not."
+    } ]
+  }, {
+    "tStartMs": 331360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The laws of general relativity forbid this\ntask: as a free-falling body the apple must"
+    } ]
+  }, {
+    "tStartMs": 336320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "follow a geodesic through spacetime, which\nresults in it falling towards the Earth."
+    } ]
+  }, {
+    "tStartMs": 341200,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "What about the task of the apple transmuting\ninto gold?"
+    } ]
+  }, {
+    "tStartMs": 344320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Again, this task is impossible, since it’s\nruled out by the laws of quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 348480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and the principle of conservation of energy."
+    } ]
+  }, {
+    "tStartMs": 351040,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "In fact, the only possible task available\nto our apple is the one which results in the"
+    } ]
+  }, {
+    "tStartMs": 355520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "output state that we calculated earlier."
+    } ]
+  }, {
+    "tStartMs": 357920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "This just serves to give \nan idea of the perspective "
+    } ]
+  }, {
+    "tStartMs": 360800,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "shift in constructor theory."
+    } ]
+  }, {
+    "tStartMs": 363040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Let’s look at a case where this is actually\nuseful."
+    } ]
+  }, {
+    "tStartMs": 366480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "David Deustch gives the example of the perpetual\nmotion machine of the first kind - a device"
+    } ]
+  }, {
+    "tStartMs": 372320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "from which infinite energy can be extracted."
+    } ]
+  }, {
+    "tStartMs": 374960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "For example, a wheel powered by falling water\nthat also pumps that same water back up to"
+    } ]
+  }, {
+    "tStartMs": 379680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the top while at the same time driving an\nelectric generator."
+    } ]
+  }, {
+    "tStartMs": 383280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "We can rule out the possibility of this with\na mechanistic explanation, talking about the"
+    } ]
+  }, {
+    "tStartMs": 388160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "torque induced by the generator to slow the\nwheel, which stops it pumping water fast enough"
+    } ]
+  }, {
+    "tStartMs": 392880,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "to maintain the same power."
+    } ]
+  }, {
+    "tStartMs": 394800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "But that’s not very general."
+    } ]
+  }, {
+    "tStartMs": 396400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "We’d need a separate mechanistic approach\nto rule out every different type of the perpetual"
+    } ]
+  }, {
+    "tStartMs": 400800,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "motion machine."
+    } ]
+  }, {
+    "tStartMs": 402320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Or we could take a shortcut."
+    } ]
+  }, {
+    "tStartMs": 403920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The law of conservation of energy says that\nit’s impossible to create energy from nothing,"
+    } ]
+  }, {
+    "tStartMs": 409600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and the second law of thermodynamics tells\nus that it’s impossible for a non-isolated"
+    } ]
+  }, {
+    "tStartMs": 413920,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "system to keep running forever."
+    } ]
+  }, {
+    "tStartMs": 415360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "By applying general rules about what is possible\nor impossible - by applying counterfactual"
+    } ]
+  }, {
+    "tStartMs": 420560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "statements - we can rule out a much larger\nspace of impossible processes than in the"
+    } ]
+  }, {
+    "tStartMs": 425840,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "mechanistic approach."
+    } ]
+  }, {
+    "tStartMs": 427520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "You’d be justified in thinking that there’s\nnothing new here."
+    } ]
+  }, {
+    "tStartMs": 431680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We already use counterfactuals regularly in\nphysics."
+    } ]
+  }, {
+    "tStartMs": 435200,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "There’s a whole family of rules and laws\nand theorems that say what can and can’t"
+    } ]
+  }, {
+    "tStartMs": 440320,
+    "dDurationMs": 160,
+    "segs": [ {
+      "utf8": "be."
+    } ]
+  }, {
+    "tStartMs": 441280,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "We cobble them together into chains of deductive\nreasoning to carve out our physical laws - they"
+    } ]
+  }, {
+    "tStartMs": 447360,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "are the sculpture that’s left after we carve\noff all the “can’ts” from the marble"
+    } ]
+  }, {
+    "tStartMs": 452480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "block of all possible mathematics."
+    } ]
+  }, {
+    "tStartMs": 454400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But there’s something a little ad-hoc about\nthe way these rules are applied."
+    } ]
+  }, {
+    "tStartMs": 458560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "An aim of constructor theory is to formalise\nour statements about what is possible and"
+    } ]
+  }, {
+    "tStartMs": 462960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "impossible into a sort of \n“algebra of possibility”."
+    } ]
+  }, {
+    "tStartMs": 467040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "At its heart, constructor theory is based\non information theory and uses related tools"
+    } ]
+  }, {
+    "tStartMs": 472160,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "like set theory in its formalism."
+    } ]
+  }, {
+    "tStartMs": 474560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "It focuses on what can and can’t be done\nwith information."
+    } ]
+  }, {
+    "tStartMs": 478720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "This means that constructor theory can be\napplied even when we don’t know the dynamical"
+    } ]
+  }, {
+    "tStartMs": 483440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "laws of a system - when we don’t have a\nfull mechanistic theory."
+    } ]
+  }, {
+    "tStartMs": 487520,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "For example Chiara Marletto has used constructor\ntheory to describe a scenario for testing"
+    } ]
+  }, {
+    "tStartMs": 493120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "whether gravity is quantum in nature."
+    } ]
+  }, {
+    "tStartMs": 496160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And we certainly don’t have a mechanistic\ntheory for quantum gravity."
+    } ]
+  }, {
+    "tStartMs": 500320,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "This approach relies on defining systems of\ninformation - called information media - and"
+    } ]
+  }, {
+    "tStartMs": 506080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "how systems of quantum \ninformation - or superinformation "
+    } ]
+  }, {
+    "tStartMs": 509600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "media - must differ from regular information"
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "media, which would be purely classical."
+    } ]
+  }, {
+    "tStartMs": 514880,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "For example, for systems of quantum information\nthere’s a particular task that is possible"
+    } ]
+  }, {
+    "tStartMs": 520320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that is impossible for classical systems."
+    } ]
+  }, {
+    "tStartMs": 523440,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "That task is entanglement between the information\nelements - the qubits in the quantum case."
+    } ]
+  }, {
+    "tStartMs": 530640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "The thought experiment goes as follows."
+    } ]
+  }, {
+    "tStartMs": 532800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "You have two qubits, which could in principle\nbe entangled with each other."
+    } ]
+  }, {
+    "tStartMs": 537360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "That means their states could be correlated\nin a way that allows them to have an apparently"
+    } ]
+  }, {
+    "tStartMs": 542720,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "non-local effect on each other."
+    } ]
+  }, {
+    "tStartMs": 544480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "That entanglement has to be initially induced\nby a local interaction - the qubits must come"
+    } ]
+  }, {
+    "tStartMs": 549840,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "into contact."
+    } ]
+  }, {
+    "tStartMs": 551040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Or it could be induced by a chain of contact\n- one qubit to another to another to our final"
+    } ]
+  }, {
+    "tStartMs": 556480,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "qubit."
+    } ]
+  }, {
+    "tStartMs": 557600,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "From the definitions of what an information\nmedium is, Marletto argues that this chain"
+    } ]
+  }, {
+    "tStartMs": 563520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "of quantum elements is equivalent to a quantum\nfield."
+    } ]
+  }, {
+    "tStartMs": 567280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "And she argues that only a \"superinformation\nmedium\" - aka a quantum field - could mediate"
+    } ]
+  }, {
+    "tStartMs": 573040,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "the entanglement of two spatially separated\nqubits."
+    } ]
+  }, {
+    "tStartMs": 575920,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Therefore if we could design an experiment\nthat showed that gravity could induce entanglement"
+    } ]
+  }, {
+    "tStartMs": 582080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "between separated qubits, then gravity has\nquantum properties."
+    } ]
+  }, {
+    "tStartMs": 587600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "This is cool because it gives us an experimental\ntest of quantum gravity that has absolutely"
+    } ]
+  }, {
+    "tStartMs": 592240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "no dependence on a particular theory of quantum\ngravity."
+    } ]
+  }, {
+    "tStartMs": 595360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "It doesn't need the dynamical laws of such\na theory, or even of quantum mechanics or"
+    } ]
+  }, {
+    "tStartMs": 600080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "general relativity as they currently stand."
+    } ]
+  }, {
+    "tStartMs": 602800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "At the very least, it pares down the facts\nthat we need to assume about the mechanistic"
+    } ]
+  }, {
+    "tStartMs": 607760,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "theory in order to make the argument - in\nthis case, just the way informational elements"
+    } ]
+  }, {
+    "tStartMs": 613520,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "interact, say, by entanglement."
+    } ]
+  }, {
+    "tStartMs": 615760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "David Deustch has said that constructor theory\nmay be the most fundamental way to describe"
+    } ]
+  }, {
+    "tStartMs": 621360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "reality - in which case the rest of physics\ncan be derived from Constructor Theory once"
+    } ]
+  }, {
+    "tStartMs": 626320,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "it’s properly developed."
+    } ]
+  }, {
+    "tStartMs": 628000,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "That’s a lofty claim, but consider how previous\ngreat theories emerged."
+    } ]
+  }, {
+    "tStartMs": 634560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "They came from deductive \nreasoning - the application "
+    } ]
+  }, {
+    "tStartMs": 637520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "of crystal clear logic - to the most stripped-down"
+    } ]
+  }, {
+    "tStartMs": 640960,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "facts about the world."
+    } ]
+  }, {
+    "tStartMs": 642160,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Einstein’s general theory of relativity\ncame from asking what were the inevitable"
+    } ]
+  }, {
+    "tStartMs": 646080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "implications of simple statements like the\nequivalence principle and the invariance of"
+    } ]
+  }, {
+    "tStartMs": 650160,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "the speed of light."
+    } ]
+  }, {
+    "tStartMs": 651760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Werner Heisenberg came up with the first version\nof quantum mechanics by stripping away all"
+    } ]
+  }, {
+    "tStartMs": 656320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "but the bare facts about the nature of electron "
+    } ]
+  }, {
+    "tStartMs": 659280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "energy levels - including \nabandoning any pre-existing"
+    } ]
+  }, {
+    "tStartMs": 663120,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "dynamical laws."
+    } ]
+  }, {
+    "tStartMs": 664240,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Deustch has called such efforts “antecedents”\nof constructor theory, which sounds presumptuous,"
+    } ]
+  }, {
+    "tStartMs": 671120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "but it gets to the spirit of the effort: to\nformalize the process of applying logical"
+    } ]
+  }, {
+    "tStartMs": 675840,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "deduction  "
+    } ]
+  }, {
+    "tStartMs": 676640,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "from the barest facts - or counterfactuals\n- of what is possible and what is impossible"
+    } ]
+  }, {
+    "tStartMs": 682800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "within this physical space time."
+    } ]
+  }, {
+    "tStartMs": 685520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Before we get to comments, I want to tell you \nabout a new documentary series on PBS Voices,  "
+    } ]
+  }, {
+    "tStartMs": 690640,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "“American Veteran: Keep It Close.” Each episode \ntells the story of a U.S. military veteran  "
+    } ]
+  }, {
+    "tStartMs": 696320,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "and a special object they have from their time \nin service — a vial of lip gloss, a small stone,  "
+    } ]
+  }, {
+    "tStartMs": 702400,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "even a microphone — and how these mementos helped \nkeep them grounded through extreme circumstances.  "
+    } ]
+  }, {
+    "tStartMs": 708800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Check it out, link in our description, and \nlet them know that Space Time sent you."
+    } ]
+  }, {
+    "tStartMs": 712720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "As always, if you've joined us on Patreon, I \ncan't emphasize enough how helpful your support  "
+    } ]
+  }, {
+    "tStartMs": 716800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "is in keeping this show going. But today I want \nto give a huge shoutout to our Big Bang supporter  "
+    } ]
+  }, {
+    "tStartMs": 722000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Ari Paul. Ari, without your support, the \ntask of Space Time would be impossible,  "
+    } ]
+  }, {
+    "tStartMs": 727680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "which in the language of constructor theory \nmakes you a counterfactual. We are humbled  "
+    } ]
+  }, {
+    "tStartMs": 732560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and grateful that, as one of the deciders of \nwhat is and isn’t possible in this universe,  "
+    } ]
+  }, {
+    "tStartMs": 737360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you’ve decided that the laws of physics \nshould permit the existence of Space Time."
+    } ]
+  }, {
+    "tStartMs": 741920,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Last time we talked about the latest ideas \non the weird world of quantum tunneling.  "
+    } ]
+  }, {
+    "tStartMs": 747440,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Let’s see what you had to say."
+    } ]
+  }, {
+    "tStartMs": 750160,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Jeff page has a great question: Could a particle \ntunnel through .. nothing. As in could it  "
+    } ]
+  }, {
+    "tStartMs": 757200,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "quantum teleport even through empty space in \nFact do particles even travel at all or do  "
+    } ]
+  }, {
+    "tStartMs": 763680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "their wave functions just randomly tunnel every \nwhich way so that their apparent path is just  "
+    } ]
+  }, {
+    "tStartMs": 768720,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "the averaging out of all of this motion. \n \nThere’s a LOT to unpack here. First on the  "
+    } ]
+  }, {
+    "tStartMs": 774720,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "question of whether tunneling can happen through \nempty space. A particle moving in free space does  "
+    } ]
+  }, {
+    "tStartMs": 780640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "have a range of possible positions defined by \nthe spread of its position wavefunction, so if  "
+    } ]
+  }, {
+    "tStartMs": 785520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "you want to define tunneling as “the particle not \nbeing exactly where you thought it would be” then  "
+    } ]
+  }, {
+    "tStartMs": 790480,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the answer is sort of, yes. A particle can appear \nsome distance from its most likely position.  "
+    } ]
+  }, {
+    "tStartMs": 796720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "But that’s not the technical definition of \ntunneling. The presence of a barrier changes the  "
+    } ]
+  }, {
+    "tStartMs": 801280,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "potential energy in that region. If that potential \nbarrier is too high for the particle to cross by  "
+    } ]
+  }, {
+    "tStartMs": 807680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "virtue of its own energy, its wavefunction drops \naway exponentially. Tunneling is explicitly  "
+    } ]
+  }, {
+    "tStartMs": 813280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "defined as motion across this exponential \ndecay to the other side of the barrier.\n "
+    } ]
+  }, {
+    "tStartMs": 818320,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "As for whether we can think of all motion as \ntunneling - well, not by the technical definition.  "
+    } ]
+  }, {
+    "tStartMs": 823200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "It’s probably better to think of all motion \nas … not motion, but rather as the evolution  "
+    } ]
+  }, {
+    "tStartMs": 828480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "of the wavefunction until some event causes a \nchoice of position to be made. At that time the  "
+    } ]
+  }, {
+    "tStartMs": 834320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "position is chosen from all possible positions, \nincluding the low chance of some unexpected jumps."
+    } ]
+  }, {
+    "tStartMs": 840480,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "Farfa asks a related question: can the “travel” \nduring a tunneling event be considered travel at  "
+    } ]
+  }, {
+    "tStartMs": 847840,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "all. Does it just start existing on the other side \nof the barrier without crossing the intervening  "
+    } ]
+  }, {
+    "tStartMs": 853760,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "space. This is a tough one. It’s not clear that \nthe particle itself is ever “inside the barrier”,  "
+    } ]
+  }, {
+    "tStartMs": 861280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "but its wavefunction certainly is inside the \nbarrier, and its wavefunction does seem to  "
+    } ]
+  }, {
+    "tStartMs": 865840,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "take time to traverse the barrier. It’s very, very \ndifficult to define a reasonable concept for time  "
+    } ]
+  }, {
+    "tStartMs": 871440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "to measure how long this takes - as we discussed \nin the episode. But various efforts since the  "
+    } ]
+  }, {
+    "tStartMs": 876880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "1980s using various definitions of crossing \ntime have shown that it’s not instantaneous.  "
+    } ]
+  }, {
+    "tStartMs": 882880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "In some cases its pretty quick - quicker than \nlight would make the same journey sans barrier."
+    } ]
+  }, {
+    "tStartMs": 888560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Dragrath1 says, and I quote Interesting if \nthis does indeed get confirmed to be unable  "
+    } ]
+  }, {
+    "tStartMs": 894640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "to violate causality this may be able to greatly \nstrengthen the case for distance being an emergent  "
+    } ]
+  }, {
+    "tStartMs": 900880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "consequence of causality. If every particles \nwavefunction is really spread over all of space  "
+    } ]
+  }, {
+    "tStartMs": 906800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "can anything really move at all except \nin relation to something, say a causal  "
+    } ]
+  }, {
+    "tStartMs": 912400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "update propagating through a network?”\n \nTo that I only have Daniel Jensen’s  "
+    } ]
+  }, {
+    "tStartMs": 916960,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "comment to quote in reply: “That feel when \ncausality is only highly statistically likely”  "
+    } ]
+  }, {
+    "tStartMs": 924720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "These comments are telling me that you \nlot are really starting to get a sense  "
+    } ]
+  }, {
+    "tStartMs": 928800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "of how far our perception of \nreality is from baseline reality."
+    } ]
+  }, {
+    "tStartMs": 934000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "For example we could be a simulation. TBatlas says  "
+    } ]
+  }, {
+    "tStartMs": 938480,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "that the universe saves CPU space by not fully \nrendering particles that aren't being viewed by  "
+    } ]
+  }, {
+    "tStartMs": 944160,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the player. This leads to entities \nsometimes glitching through walls.  "
+    } ]
+  }, {
+    "tStartMs": 949520,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Seriously - Imagine you built a video game and one \nday you noticed the mobs were tapping on the walls  "
+    } ]
+  }, {
+    "tStartMs": 955600,
+    "dDurationMs": 12240,
+    "segs": [ {
+      "utf8": "and measuring framerates. Shush everyone, back \nto your assigned paths, the devs will notice."
+    } ]
+  } ]
+}

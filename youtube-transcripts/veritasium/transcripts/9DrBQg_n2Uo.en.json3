@@ -1,0 +1,1147 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 220,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "A portion of this video was sponsored by Salesforce."
+    } ]
+  }, {
+    "tStartMs": 3020,
+    "dDurationMs": 4339,
+    "segs": [ {
+      "utf8": "More about Salesforce at the end of the show."
+    } ]
+  }, {
+    "tStartMs": 7359,
+    "dDurationMs": 5101,
+    "segs": [ {
+      "utf8": "The first piece of evidence that showed our\nuniverse is expanding came in the light from"
+    } ]
+  }, {
+    "tStartMs": 12460,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "distant galaxies."
+    } ]
+  }, {
+    "tStartMs": 14280,
+    "dDurationMs": 3309,
+    "segs": [ {
+      "utf8": "If you look at the spectrum of the sun you\nsee these dark lines."
+    } ]
+  }, {
+    "tStartMs": 17589,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "And we see those lines in the spectra from\ngalaxies except they are shitfed to longer"
+    } ]
+  }, {
+    "tStartMs": 23599,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "wavelengths, towards the red end of the spectrum."
+    } ]
+  }, {
+    "tStartMs": 27019,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "So we say their light is red-shifted."
+    } ]
+  }, {
+    "tStartMs": 31220,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Now the usual explanation for this redshift\nis that: as the light is traveling through"
+    } ]
+  }, {
+    "tStartMs": 35780,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "expanding space,"
+    } ]
+  }, {
+    "tStartMs": 37510,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "the photons themselves become “stretched.”"
+    } ]
+  }, {
+    "tStartMs": 40640,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So short wavelengths get longer."
+    } ]
+  }, {
+    "tStartMs": 43480,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "This is known as cosmological redshift."
+    } ]
+  }, {
+    "tStartMs": 46300,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "The explanation is fairly intuitively satisfying\nand most people go on without giving it a"
+    } ]
+  }, {
+    "tStartMs": 50430,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "second though."
+    } ]
+  }, {
+    "tStartMs": 51430,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "But the problem is if you do give it a second\nthought, you think, well,"
+    } ]
+  }, {
+    "tStartMs": 55700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "If expanding space can stretch something like\na photon,"
+    } ]
+  }, {
+    "tStartMs": 59100,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "Something that's so incredibly tiny, does\nit also stretch atoms and molecules?"
+    } ]
+  }, {
+    "tStartMs": 65540,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Is expanding space stretching stars and galaxies?"
+    } ]
+  }, {
+    "tStartMs": 70330,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "And what about you - are you expanding with\nthe universe?"
+    } ]
+  }, {
+    "tStartMs": 77470,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "To answer these questions we’ve got to take\na closer look at what it really means to redshift."
+    } ]
+  }, {
+    "tStartMs": 83350,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Physicists actually talk about three different\ntypes of redshift:"
+    } ]
+  }, {
+    "tStartMs": 87080,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Doppler Redshift, where observers moving relative\nto one another measure photons to have different"
+    } ]
+  }, {
+    "tStartMs": 91330,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "wavelengths."
+    } ]
+  }, {
+    "tStartMs": 93080,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Gravitational Redshift, where observers at\ndifferent locations in a gravitational field"
+    } ]
+  }, {
+    "tStartMs": 97180,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "measure different wavelengths and"
+    } ]
+  }, {
+    "tStartMs": 99680,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Cosmological Redshift, where observers exchanging\nphotons over vast cosmological distances"
+    } ]
+  }, {
+    "tStartMs": 104690,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "in an expanding universe measure different\nwavelengths."
+    } ]
+  }, {
+    "tStartMs": 108690,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "These three cases appear very different and\nthey’re governed by different equations,"
+    } ]
+  }, {
+    "tStartMs": 114180,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "so how does each redshift actually occur?"
+    } ]
+  }, {
+    "tStartMs": 117310,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Let’s start with a photon in a gravitational\nfield."
+    } ]
+  }, {
+    "tStartMs": 120850,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "There is this famous experiment conducted\nin 1959 by Pound and Rebka sending photons"
+    } ]
+  }, {
+    "tStartMs": 126510,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "up and down a 22m tower at Harvard."
+    } ]
+  }, {
+    "tStartMs": 129360,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Now, they used gamma rays but I’ll represent\nthem with visible light."
+    } ]
+  }, {
+    "tStartMs": 134060,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "They found that photons detected at the top\nof the tower were red-shifted relative to"
+    } ]
+  }, {
+    "tStartMs": 138900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the source"
+    } ]
+  }, {
+    "tStartMs": 139900,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "by the exact amount predicted by General Relativity\n(which is a tiny amount - I’m dramatically"
+    } ]
+  }, {
+    "tStartMs": 146230,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "exaggerating the effect so you can see it)."
+    } ]
+  }, {
+    "tStartMs": 149700,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Now where along the photon’s path does this\nredshift take place?"
+    } ]
+  }, {
+    "tStartMs": 153230,
+    "dDurationMs": 3509,
+    "segs": [ {
+      "utf8": "Well it seems to happen continuously."
+    } ]
+  }, {
+    "tStartMs": 156739,
+    "dDurationMs": 6321,
+    "segs": [ {
+      "utf8": "The photon loses a little bit of energy, each\nmillimeter it climbs up that tower."
+    } ]
+  }, {
+    "tStartMs": 163060,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Meaning that the photon in the middle of the\ntower would appear green."
+    } ]
+  }, {
+    "tStartMs": 167850,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Now according to Einstein’s equivalence\nprinciple, being at rest on Earth’s surface"
+    } ]
+  }, {
+    "tStartMs": 172300,
+    "dDurationMs": 6530,
+    "segs": [ {
+      "utf8": "is indistinguishable from being in a rocket\nin deep space accelerating up at 1g."
+    } ]
+  }, {
+    "tStartMs": 178830,
+    "dDurationMs": 5739,
+    "segs": [ {
+      "utf8": "So we could do the same experiment in a rocketship\nand we should get the same result."
+    } ]
+  }, {
+    "tStartMs": 184569,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": "If we send blue photons from the back of the\nrocket they should be red when they reach"
+    } ]
+  }, {
+    "tStartMs": 189660,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "the front."
+    } ]
+  }, {
+    "tStartMs": 190790,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And in the middle of the ship they would be\ngreen."
+    } ]
+  }, {
+    "tStartMs": 193550,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "This is exactly what we saw at rest in a gravitational\nfield so the equivalence principle holds."
+    } ]
+  }, {
+    "tStartMs": 199640,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "Now imagine there are a line of external observers\njust hanging out in space at rest relative"
+    } ]
+  }, {
+    "tStartMs": 206340,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "to each other and they can all see into the\nrocket."
+    } ]
+  }, {
+    "tStartMs": 209790,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "Let’s also say the rocket is initially at\nrest and the thrusters are switched on the"
+    } ]
+  }, {
+    "tStartMs": 214940,
+    "dDurationMs": 2379,
+    "segs": [ {
+      "utf8": "instant the photon is released."
+    } ]
+  }, {
+    "tStartMs": 217319,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "Now since both observers are at rest at this\nmoment, they will both measure the photon"
+    } ]
+  }, {
+    "tStartMs": 221360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "as having the exact same wavelength - it’s\nblue."
+    } ]
+  }, {
+    "tStartMs": 224480,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "But what about when the photon reaches the\nmiddle of the rocket?"
+    } ]
+  }, {
+    "tStartMs": 227250,
+    "dDurationMs": 3489,
+    "segs": [ {
+      "utf8": "Well we know someone inside will see it as\ngreen."
+    } ]
+  }, {
+    "tStartMs": 230739,
+    "dDurationMs": 3251,
+    "segs": [ {
+      "utf8": "But what about a stationary observer outside?"
+    } ]
+  }, {
+    "tStartMs": 233990,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Well to them the photon has just been moving\nthrough ordinary flat spacetime,"
+    } ]
+  }, {
+    "tStartMs": 238790,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "so it must look blue - just as blue as it\nwas when it was emitted."
+    } ]
+  }, {
+    "tStartMs": 244080,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "So what’s the deal?"
+    } ]
+  }, {
+    "tStartMs": 245500,
+    "dDurationMs": 5409,
+    "segs": [ {
+      "utf8": "How can the same photon look green and blue\nat the same time?"
+    } ]
+  }, {
+    "tStartMs": 250909,
+    "dDurationMs": 2781,
+    "segs": [ {
+      "utf8": "Has the equivalence principle been violated?"
+    } ]
+  }, {
+    "tStartMs": 253690,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "The answer is no."
+    } ]
+  }, {
+    "tStartMs": 255890,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "It matters a lot to this measurement, who\nis doing the observation."
+    } ]
+  }, {
+    "tStartMs": 260489,
+    "dDurationMs": 4661,
+    "segs": [ {
+      "utf8": "Consider this: after the photon is emitted\nthe rocket accelerates, it's speeding up"
+    } ]
+  }, {
+    "tStartMs": 265150,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "so by the time the photon reaches the middle\nof the rocket, everyone inside is moving at"
+    } ]
+  }, {
+    "tStartMs": 270710,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "high velocity relative to the source when\nthe light was emitted"
+    } ]
+  }, {
+    "tStartMs": 274460,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "and relative to the observers outside the\nrocket."
+    } ]
+  }, {
+    "tStartMs": 277560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So it makes sense that the photon as measured\ninside will look different - it'll be redshifted"
+    } ]
+  }, {
+    "tStartMs": 282240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "-"
+    } ]
+  }, {
+    "tStartMs": 283240,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "this is the Doppler redshift because the observer\nin the middle of the ship is moving very quickly"
+    } ]
+  }, {
+    "tStartMs": 287800,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "away from the source."
+    } ]
+  }, {
+    "tStartMs": 289860,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "By the time the photon makes it to the top\nof the rocket, the rocket will be going even"
+    } ]
+  }, {
+    "tStartMs": 293930,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "faster and this is why it appears red,"
+    } ]
+  }, {
+    "tStartMs": 297310,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "but to a stationary observer outside, well\nit still looks blue."
+    } ]
+  }, {
+    "tStartMs": 303000,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "This thought experiment shows us that wavelength\nand energy are not intrinsic properties of"
+    } ]
+  }, {
+    "tStartMs": 308960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "photons."
+    } ]
+  }, {
+    "tStartMs": 309960,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "They are properties of the photon-observer\nsystem."
+    } ]
+  }, {
+    "tStartMs": 313660,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Now let’s recreate the Harvard tower experiment."
+    } ]
+  }, {
+    "tStartMs": 317630,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Observers in the building see the photon redshifted\nas it climbs."
+    } ]
+  }, {
+    "tStartMs": 320900,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "But here’s a question for you: what would\na free-falling observer see?"
+    } ]
+  }, {
+    "tStartMs": 327110,
+    "dDurationMs": 5059,
+    "segs": [ {
+      "utf8": "Well they would be just like the stationary\nobservers in space, watching the rocket accelerate"
+    } ]
+  }, {
+    "tStartMs": 332169,
+    "dDurationMs": 1261,
+    "segs": [ {
+      "utf8": "up."
+    } ]
+  }, {
+    "tStartMs": 333430,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "The physics of these two situations are identical!"
+    } ]
+  }, {
+    "tStartMs": 336240,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "So they would measure no redshift - to them\nthe photon would look blue the whole time."
+    } ]
+  }, {
+    "tStartMs": 343460,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "What I want to show is that there aren’t\nactually three different types of redshifts"
+    } ]
+  }, {
+    "tStartMs": 347360,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "- there is only one."
+    } ]
+  }, {
+    "tStartMs": 349240,
+    "dDurationMs": 4739,
+    "segs": [ {
+      "utf8": "We’ve seen that gravitational redshift,\ncan equivalently be seen as a doppler redshift"
+    } ]
+  }, {
+    "tStartMs": 353979,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "when we do the same analysis in an accelerating\nrocket ship."
+    } ]
+  }, {
+    "tStartMs": 358100,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So what about cosmological redshift?"
+    } ]
+  }, {
+    "tStartMs": 360650,
+    "dDurationMs": 7630,
+    "segs": [ {
+      "utf8": "Well, for this we have to zoom waaaay out\n- past our solar system, the milky way galaxy,"
+    } ]
+  }, {
+    "tStartMs": 368280,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "our local cluster of galaxies."
+    } ]
+  }, {
+    "tStartMs": 370449,
+    "dDurationMs": 6171,
+    "segs": [ {
+      "utf8": "We want to zoom so far out that the galaxies\nin the observable universe are like molecules"
+    } ]
+  }, {
+    "tStartMs": 376620,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "in a fluid: The cosmic fluid."
+    } ]
+  }, {
+    "tStartMs": 380380,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "At this scale, we can treat the whole universe\nas being smooth and uniform - cosmologists"
+    } ]
+  }, {
+    "tStartMs": 385950,
+    "dDurationMs": 2339,
+    "segs": [ {
+      "utf8": "say it is homogeneous."
+    } ]
+  }, {
+    "tStartMs": 388289,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "And just as you don’t notice the individual\nmolecules in a cup of water, at this scale"
+    } ]
+  }, {
+    "tStartMs": 392949,
+    "dDurationMs": 3381,
+    "segs": [ {
+      "utf8": "we don’t notice individual galaxies in the\ncosmic fluid."
+    } ]
+  }, {
+    "tStartMs": 396330,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "And the cosmic fluid looks the same in every\ndirection, there is no preferred orientation"
+    } ]
+  }, {
+    "tStartMs": 402300,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "- it’s said to be isotropic."
+    } ]
+  }, {
+    "tStartMs": 405730,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Now what you’ll notice is that the cosmic\nfluid is spreading out."
+    } ]
+  }, {
+    "tStartMs": 410310,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "It doesn’t matter where you look, you see\nthe same thing - things moving apart."
+    } ]
+  }, {
+    "tStartMs": 415930,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "The density of the cosmic fluid is decreasing\nover time."
+    } ]
+  }, {
+    "tStartMs": 420380,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And this is the basic property of an expanding\nuniverse."
+    } ]
+  }, {
+    "tStartMs": 424580,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "We can draw some coordinates on the universe."
+    } ]
+  }, {
+    "tStartMs": 427110,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "We could pick any different coordinate system\nwe like, but one way it’s often done is"
+    } ]
+  }, {
+    "tStartMs": 431910,
+    "dDurationMs": 4819,
+    "segs": [ {
+      "utf8": "to make a coordinate system that expands with\nthe cosmic fluid."
+    } ]
+  }, {
+    "tStartMs": 436729,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "So there will be certain observers whose coordinates\ndon’t change over time."
+    } ]
+  }, {
+    "tStartMs": 442090,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "And these are known as co-moving observers\n- they are at rest with respect to the cosmic"
+    } ]
+  }, {
+    "tStartMs": 448310,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "fluid."
+    } ]
+  }, {
+    "tStartMs": 449360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "By the way on Earth we are not a co-moving\nobserver."
+    } ]
+  }, {
+    "tStartMs": 452960,
+    "dDurationMs": 6549,
+    "segs": [ {
+      "utf8": "Our galaxy is moving at 600 km/s relative\nto the cosmic microwave background radiation."
+    } ]
+  }, {
+    "tStartMs": 459509,
+    "dDurationMs": 5431,
+    "segs": [ {
+      "utf8": "Now let’s pick two co-moving observers a\nlarge distance apart and have them exchange"
+    } ]
+  }, {
+    "tStartMs": 464940,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "a photon."
+    } ]
+  }, {
+    "tStartMs": 466380,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Its wavelength will be stretched by the amount\nthe universe has expanded during the photon’s"
+    } ]
+  }, {
+    "tStartMs": 471660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "journey."
+    } ]
+  }, {
+    "tStartMs": 472660,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "This is the standard picture of cosmological\nredshift."
+    } ]
+  }, {
+    "tStartMs": 475370,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "But now consider a bunch of other co-moving\nobservers along the path of this photon."
+    } ]
+  }, {
+    "tStartMs": 481580,
+    "dDurationMs": 5809,
+    "segs": [ {
+      "utf8": "Each one absorbs the photon and instantaneously\nemits another, identical to the one they measured."
+    } ]
+  }, {
+    "tStartMs": 487389,
+    "dDurationMs": 5171,
+    "segs": [ {
+      "utf8": "Now, each successive observer will measure\na slightly longer wavelength than the observer"
+    } ]
+  }, {
+    "tStartMs": 492560,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "before them,"
+    } ]
+  }, {
+    "tStartMs": 493599,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "the photon stretching out just as you’d\nexpect in an expanding universe."
+    } ]
+  }, {
+    "tStartMs": 498240,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "But the reason they would give for this redshift\nwould be different."
+    } ]
+  }, {
+    "tStartMs": 502539,
+    "dDurationMs": 5461,
+    "segs": [ {
+      "utf8": "To each observer, their neighbouring co-moving\nobservers would appear to be moving away from"
+    } ]
+  }, {
+    "tStartMs": 508000,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "them in locally flat space-time."
+    } ]
+  }, {
+    "tStartMs": 510910,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "So they would attribute the increase in wavelength\nto the Doppler shift, just due to the relative"
+    } ]
+  }, {
+    "tStartMs": 515789,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "motion between them."
+    } ]
+  }, {
+    "tStartMs": 517699,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "The entirety of the cosmological redshift\nthen can equivalently be thought of as the"
+    } ]
+  }, {
+    "tStartMs": 523949,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "result of a long series of Doppler shifts."
+    } ]
+  }, {
+    "tStartMs": 529510,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "What we’ve seen is redshifting is not something\nthat happens to a photon itself."
+    } ]
+  }, {
+    "tStartMs": 535230,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Instead it depends on what’s happening to\nobservers at the point of emission and absorption"
+    } ]
+  }, {
+    "tStartMs": 539470,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "of that photon."
+    } ]
+  }, {
+    "tStartMs": 541380,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Because of this, there are actually not three\ndifferent types of redshift,"
+    } ]
+  }, {
+    "tStartMs": 544540,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "there’s only one, described by a single\nunderlying mathematical framework."
+    } ]
+  }, {
+    "tStartMs": 549050,
+    "dDurationMs": 3409,
+    "segs": [ {
+      "utf8": "They only look different depending on your\nframe of reference."
+    } ]
+  }, {
+    "tStartMs": 552459,
+    "dDurationMs": 5411,
+    "segs": [ {
+      "utf8": "Now, it can be convenient to talk about expanding\nspace when you have two comoving observers"
+    } ]
+  }, {
+    "tStartMs": 557870,
+    "dDurationMs": 3589,
+    "segs": [ {
+      "utf8": "exchanging a photon over vast distances in\nan expanding universe -"
+    } ]
+  }, {
+    "tStartMs": 561459,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "then the photon’s wavelength is stretched\nby the amount the universe expanded during"
+    } ]
+  }, {
+    "tStartMs": 566220,
+    "dDurationMs": 2489,
+    "segs": [ {
+      "utf8": "its journey - that's nice and simple."
+    } ]
+  }, {
+    "tStartMs": 568709,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "But you can equally well describe this redshift\nby a long chain of Doppler shifts, no expanding"
+    } ]
+  }, {
+    "tStartMs": 574079,
+    "dDurationMs": 6351,
+    "segs": [ {
+      "utf8": "space required."
+    } ]
+  }, {
+    "tStartMs": 580430,
+    "dDurationMs": 5069,
+    "segs": [ {
+      "utf8": "The misconception is to think that because\nphotons are redshifted as they travel across"
+    } ]
+  }, {
+    "tStartMs": 585499,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the universe, that means ‘expanding space’\nis pulling on things and stretching things"
+    } ]
+  }, {
+    "tStartMs": 591179,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "apart."
+    } ]
+  }, {
+    "tStartMs": 592480,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "That's not how it works."
+    } ]
+  }, {
+    "tStartMs": 593519,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "Space is not like that."
+    } ]
+  }, {
+    "tStartMs": 595600,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "So let’s come back to the central question\nof this video: which is do you expand with"
+    } ]
+  }, {
+    "tStartMs": 600300,
+    "dDurationMs": 1219,
+    "segs": [ {
+      "utf8": "the universe?"
+    } ]
+  }, {
+    "tStartMs": 601519,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "The answer is no."
+    } ]
+  }, {
+    "tStartMs": 604040,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "Because:\nOn the scale of people, the universe is not"
+    } ]
+  }, {
+    "tStartMs": 608049,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "homogeneous, I mean matter is condensed down\ninto objects and the Earth."
+    } ]
+  }, {
+    "tStartMs": 612559,
+    "dDurationMs": 6990,
+    "segs": [ {
+      "utf8": "And the universe is not isotropic, looking\nup looks decidedly different from looking"
+    } ]
+  }, {
+    "tStartMs": 619549,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "down down."
+    } ]
+  }, {
+    "tStartMs": 621879,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "The basic assumptions we made about our expanding\nuniverse just don’t apply here."
+    } ]
+  }, {
+    "tStartMs": 627029,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "I mean the local spacetime curvature is dominated\nby the Earth."
+    } ]
+  }, {
+    "tStartMs": 632499,
+    "dDurationMs": 4561,
+    "segs": [ {
+      "utf8": "So what if we took you out into deep space,\nthe middle of nowhere."
+    } ]
+  }, {
+    "tStartMs": 637060,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Then would you expand?"
+    } ]
+  }, {
+    "tStartMs": 639180,
+    "dDurationMs": 5149,
+    "segs": [ {
+      "utf8": "Still no. because your body is held together\nby electromagnetic forces."
+    } ]
+  }, {
+    "tStartMs": 644329,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "But what if we could turn off the electromagnetic\nforce, so your body is just a jumble of particles"
+    } ]
+  }, {
+    "tStartMs": 649999,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "that don’t interact."
+    } ]
+  }, {
+    "tStartMs": 652299,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Well in that case... over time you would expand."
+    } ]
+  }, {
+    "tStartMs": 657619,
+    "dDurationMs": 3851,
+    "segs": [ {
+      "utf8": "But only because our universe is now dominated\nby dark energy."
+    } ]
+  }, {
+    "tStartMs": 661470,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "So the take home message of this video is\nthat redshifting photons don’t mean space"
+    } ]
+  }, {
+    "tStartMs": 667600,
+    "dDurationMs": 3739,
+    "segs": [ {
+      "utf8": "is expanding and pulling on everything, stretching\nthings apart."
+    } ]
+  }, {
+    "tStartMs": 671339,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "So molecules are not expanding, and neither\nare stars and neither are galaxies, and neither"
+    } ]
+  }, {
+    "tStartMs": 676749,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "are you…"
+    } ]
+  }, {
+    "tStartMs": 677869,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "except under extraordinary circumstances."
+    } ]
+  }, {
+    "tStartMs": 681449,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "-Why's it red?"
+    } ]
+  }, {
+    "tStartMs": 686040,
+    "dDurationMs": 1339,
+    "segs": [ {
+      "utf8": "-That tells you it's recording."
+    } ]
+  }, {
+    "tStartMs": 687379,
+    "dDurationMs": 2491,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 689870,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "Hey, this portion of the video was sponsored\nby Salesforce, a company that can help you"
+    } ]
+  }, {
+    "tStartMs": 694149,
+    "dDurationMs": 2771,
+    "segs": [ {
+      "utf8": "expand your business."
+    } ]
+  }, {
+    "tStartMs": 696920,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The world is transforming right now, a lot\nof people are working from home or working"
+    } ]
+  }, {
+    "tStartMs": 701060,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "from anywhere, accelerating the shift to doing\nbusiness online."
+    } ]
+  }, {
+    "tStartMs": 705029,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Salesforce Essentials can help your business\nadapt to evolving customer needs."
+    } ]
+  }, {
+    "tStartMs": 709299,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "For example, you can make your website work\nharder for you by using lead capture forms"
+    } ]
+  }, {
+    "tStartMs": 713679,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "from Salesforce on your site."
+    } ]
+  }, {
+    "tStartMs": 715660,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "You can then generate new business and develop\nrelationships with customers right from your"
+    } ]
+  }, {
+    "tStartMs": 719800,
+    "dDurationMs": 1259,
+    "segs": [ {
+      "utf8": "CRM."
+    } ]
+  }, {
+    "tStartMs": 721059,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "To get a message out or share a special promo,\nSalesforce Essentials helps you target the"
+    } ]
+  }, {
+    "tStartMs": 725319,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "specific customers you want, whether that’s\nbroad or focused."
+    } ]
+  }, {
+    "tStartMs": 729240,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "You can also help customers find answers with\na help center page."
+    } ]
+  }, {
+    "tStartMs": 732309,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Or meet customers where they are by connecting\nyour email, phone, and social channels."
+    } ]
+  }, {
+    "tStartMs": 736769,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Follow the link down in the description to\nlearn more."
+    } ]
+  }, {
+    "tStartMs": 739470,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "I want to thank Salesforce for sponsoring\nthis portion of the video and I want to thank"
+    } ]
+  }, {
+    "tStartMs": 742920,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "you for watching."
+    } ]
+  }, {
+    "tStartMs": 745019,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "-Who?"
+    } ]
+  }, {
+    "tStartMs": 746369,
+    "dDurationMs": 791,
+    "segs": [ {
+      "utf8": "-That's where you push the button again"
+    } ]
+  } ]
+}

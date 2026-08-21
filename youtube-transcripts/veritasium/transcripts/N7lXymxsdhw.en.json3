@@ -1,0 +1,709 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 380,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "These are magnetic microrobots,"
+    } ]
+  }, {
+    "tStartMs": 5580,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "just\nmillimeters in size."
+    } ]
+  }, {
+    "tStartMs": 8860,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "They bend and move in response to applied magnetic fields"
+    } ]
+  }, {
+    "tStartMs": 19380,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And with these magnetic fields\ncontrolled by a gaming controller the"
+    } ]
+  }, {
+    "tStartMs": 22800,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "micro robots can be driven carefully and\nprecisely."
+    } ]
+  }, {
+    "tStartMs": 29400,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "They can turn by changing the"
+    } ]
+  }, {
+    "tStartMs": 31260,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "direction of the magnetic field."
+    } ]
+  }, {
+    "tStartMs": 35040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Roll in a rotating field"
+    } ]
+  }, {
+    "tStartMs": 39880,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "And even grasp and jump"
+    } ]
+  }, {
+    "tStartMs": 46560,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "It often feels like you're playing a\nvideo game."
+    } ]
+  }, {
+    "tStartMs": 49240,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "In some previous work I did"
+    } ]
+  }, {
+    "tStartMs": 50370,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "as a demonstration I was pushing blocks\nof material around and using a micro robot"
+    } ]
+  }, {
+    "tStartMs": 56190,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "like a bulldozer."
+    } ]
+  }, {
+    "tStartMs": 57280,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "And the demonstration I\ndid was playing Tetris."
+    } ]
+  }, {
+    "tStartMs": 65440,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "The idea is this technique could be used\nto assemble human organ tissues by"
+    } ]
+  }, {
+    "tStartMs": 69780,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "arranging blocks of different types of\ncells in particular patterns."
+    } ]
+  }, {
+    "tStartMs": 75080,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "The way these scientists actually fabricate the\nmicro robots is pretty ingenious."
+    } ]
+  }, {
+    "tStartMs": 79820,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Tiny rare earth magnets are magnetized in a\nstrong magnetic field."
+    } ]
+  }, {
+    "tStartMs": 84140,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Then they're mixed into a UV resin that will harden when\nexposed to UV light."
+    } ]
+  }, {
+    "tStartMs": 88980,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "The mixture is poured into a mold and placed on a stage\nbelow which is a rotatable permanent magnet."
+    } ]
+  }, {
+    "tStartMs": 95360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This creates an adjustable\nmagnetic field to which all the tiny"
+    } ]
+  }, {
+    "tStartMs": 98720,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "magnets in the resin align."
+    } ]
+  }, {
+    "tStartMs": 101220,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "When the\ndesired orientation is reached UV light"
+    } ]
+  }, {
+    "tStartMs": 104070,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "cures the resin in one particular spot\nlocking those magnets in place."
+    } ]
+  }, {
+    "tStartMs": 109220,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Then the magnetic field can be adjusted and the\nnext section cured."
+    } ]
+  }, {
+    "tStartMs": 113180,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Ultimately the result is a flexible device with imbedded\nmagnets that have different orientations"
+    } ]
+  }, {
+    "tStartMs": 118020,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "depending on where they are."
+    } ]
+  }, {
+    "tStartMs": 119860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "This pattern of orientations is what"
+    } ]
+  }, {
+    "tStartMs": 121980,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "gives these micro robots their unique\nbehavior in response to magnetic fields."
+    } ]
+  }, {
+    "tStartMs": 126820,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "If we can point multiple compass needles in opposite directions within a flexible\ndevice,"
+    } ]
+  }, {
+    "tStartMs": 131380,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "if we apply the field vertically"
+    } ]
+  }, {
+    "tStartMs": 133080,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "those compass needles will both try to\norient and align with that applied field."
+    } ]
+  }, {
+    "tStartMs": 138260,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "With the right magnetic fields the results can be pretty\nsophisticated."
+    } ]
+  }, {
+    "tStartMs": 142380,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Watch this micro robot"
+    } ]
+  }, {
+    "tStartMs": 144060,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "pick up a block"
+    } ]
+  }, {
+    "tStartMs": 146040,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "and then roll with it over to a ramp."
+    } ]
+  }, {
+    "tStartMs": 150840,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "It rolls up the ramp,"
+    } ]
+  }, {
+    "tStartMs": 153460,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "deposits the block at the top,"
+    } ]
+  }, {
+    "tStartMs": 156440,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "and then\nreturns to its original position."
+    } ]
+  }, {
+    "tStartMs": 160760,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "The idea is that devices like this could be\nused in medical applications."
+    } ]
+  }, {
+    "tStartMs": 165020,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "So this could be sending a device into fluid\nareas in your body or into your"
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "gastrointestinal tract. For example a\ncapsule that you could swallow which"
+    } ]
+  }, {
+    "tStartMs": 174060,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "will go passively through your GI tract,\nhave no wires attached and at the right"
+    } ]
+  }, {
+    "tStartMs": 178380,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "moment we can activate a sampling\nchamber basically to open up and take"
+    } ]
+  }, {
+    "tStartMs": 183540,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "samples of either stomach or small\nintestine contents, take biopsy samples"
+    } ]
+  }, {
+    "tStartMs": 189480,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "of the intestinal wall."
+    } ]
+  }, {
+    "tStartMs": 190900,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "But grippers like\nthese may not be the only magnetic"
+    } ]
+  }, {
+    "tStartMs": 193830,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "microrobots invading your body."
+    } ]
+  }, {
+    "tStartMs": 196200,
+    "dDurationMs": 2259,
+    "segs": [ {
+      "utf8": "A different research group has pioneered"
+    } ]
+  }, {
+    "tStartMs": 198460,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "these even smaller peanut-shaped\nmagnetic particles."
+    } ]
+  }, {
+    "tStartMs": 202480,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "And under the right magnetic field conditions they form\nswarms."
+    } ]
+  }, {
+    "tStartMs": 207420,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "This warm can take on different"
+    } ]
+  }, {
+    "tStartMs": 208920,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "configurations: the vortex, where many\nparticles travel together like a school of fish,"
+    } ]
+  }, {
+    "tStartMs": 214720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the chain, where particles line\nup and travel single-file."
+    } ]
+  }, {
+    "tStartMs": 218560,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "And the ribbon, where motion is perpendicular to the\nline of particles."
+    } ]
+  }, {
+    "tStartMs": 223320,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "One potential application of micro robotic swarms is\ndrug delivery."
+    } ]
+  }, {
+    "tStartMs": 227866,
+    "dDurationMs": 1493,
+    "segs": [ {
+      "utf8": "Each magnetic particle"
+    } ]
+  }, {
+    "tStartMs": 229359,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "could carry a small amount of drug and\nbe guided toward the intended drug delivery site."
+    } ]
+  }, {
+    "tStartMs": 234920,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "So to make a swarm useful\nfor essential biomedical applications, you'd"
+    } ]
+  }, {
+    "tStartMs": 240460,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "like to keep the swarm aggregated."
+    } ]
+  }, {
+    "tStartMs": 243380,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "You probably will not be able to see single"
+    } ]
+  }, {
+    "tStartMs": 245680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "micrometer sized particles but you could\nsee the entire swarm."
+    } ]
+  }, {
+    "tStartMs": 248760,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "So you'd like to keep it aggregated so you can move it\nand keep track."
+    } ]
+  }, {
+    "tStartMs": 251980,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "But then going through"
+    } ]
+  }, {
+    "tStartMs": 253740,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "tight environments, for example going\nthrough blood vessels"
+    } ]
+  }, {
+    "tStartMs": 257980,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "if your swarm, the overall swarm size is bigger than the\nblood vessel then it doesn't fit so you"
+    } ]
+  }, {
+    "tStartMs": 262360,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "need to line them up and squeeze through\nso that's the motivation for being able"
+    } ]
+  }, {
+    "tStartMs": 266200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "to control the shape of the swarm."
+    } ]
+  }, {
+    "tStartMs": 268200,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "And, who knows, one day you might have swarms"
+    } ]
+  }, {
+    "tStartMs": 270580,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "of magnetic microrobots cleaning your\nteeth."
+    } ]
+  }, {
+    "tStartMs": 274320,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "another group of researchers has used\ntiny magnetic robots to clear biofilms -"
+    } ]
+  }, {
+    "tStartMs": 279060,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "those are communities of bacteria and\nthe protective sugar polymers around them."
+    } ]
+  }, {
+    "tStartMs": 284060,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "They typically build up on medical\ndevices, the insides of pipes, and on teeth."
+    } ]
+  }, {
+    "tStartMs": 289680,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Can I ask, does this idea of\nmagnetic control of micro robots, does it"
+    } ]
+  }, {
+    "tStartMs": 295120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "supplant previous concepts?"
+    } ]
+  }, {
+    "tStartMs": 298400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Like I'm trying to conceptualize this in terms of"
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 4889,
+    "segs": [ {
+      "utf8": "like you know sci-fi futures with\nnanobots where I imagine you know we"
+    } ]
+  }, {
+    "tStartMs": 305889,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "imagine these things as really\nself-contained and you know powering"
+    } ]
+  }, {
+    "tStartMs": 309250,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "themselves around the body and that sort\nof stuff."
+    } ]
+  }, {
+    "tStartMs": 311320,
+    "dDurationMs": 5159,
+    "segs": [ {
+      "utf8": "Yeah, great question. So the advantage of\nmagnetic fields is that it's a very"
+    } ]
+  }, {
+    "tStartMs": 316479,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "scalable technique. So we can make\nmagnetic microbots that are single cell"
+    } ]
+  }, {
+    "tStartMs": 320949,
+    "dDurationMs": 5371,
+    "segs": [ {
+      "utf8": "size and we can make them that are\ncentimeters in size and the principles"
+    } ]
+  }, {
+    "tStartMs": 326320,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "behave similarly."
+    } ]
+  }, {
+    "tStartMs": 327740,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "It pulls off a lot of\nthe functionality to"
+    } ]
+  }, {
+    "tStartMs": 331340,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "off-board magnetic coils. We can have a big\ncomputer sitting there and power supply"
+    } ]
+  }, {
+    "tStartMs": 335960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It's a lot of the hard aspects of\ndriving a robot we can do as"
+    } ]
+  }, {
+    "tStartMs": 339840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "traditional size. You can have a big computer"
+    } ]
+  }, {
+    "tStartMs": 342440,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "We can have medical imaging hooked up"
+    } ]
+  }, {
+    "tStartMs": 344190,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "and do all these things off board and\nthen on board we're just transmitting"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "the magnetic field directly to the\ndevice and so this our micro robot is"
+    } ]
+  }, {
+    "tStartMs": 352680,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "basically then just like the mechanical\nhand of the robot and the rest of the"
+    } ]
+  }, {
+    "tStartMs": 357180,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "robot is really sitting on the table\nbeside the patient."
+    } ]
+  }, {
+    "tStartMs": 363140,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Hey this episode of"
+    } ]
+  }, {
+    "tStartMs": 364470,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "Veritasium is supported by viewers like\nyou on Patreon and by Audible. There's no"
+    } ]
+  }, {
+    "tStartMs": 369419,
+    "dDurationMs": 4531,
+    "segs": [ {
+      "utf8": "better place to listen. Listening makes\nus smarter, more connected people. And"
+    } ]
+  }, {
+    "tStartMs": 373950,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "there's no better time to start\nlistening than right now with a 30-day"
+    } ]
+  }, {
+    "tStartMs": 377910,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "trial and your first audiobook plus two\nAudible originals free when you go to"
+    } ]
+  }, {
+    "tStartMs": 381960,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "audible.com slash veritasium or text\nveritasium that's V E R I T A S I U M"
+    } ]
+  }, {
+    "tStartMs": 387990,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "to 500 500. Now if you're looking for\nsomething good to listen to might I"
+    } ]
+  }, {
+    "tStartMs": 392340,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "recommend \"How to Change Your Mind: What\nthe new science of psychedelics teaches"
+    } ]
+  }, {
+    "tStartMs": 396390,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "us about consciousness dying, addiction\ndepression and transcendence by Michael"
+    } ]
+  }, {
+    "tStartMs": 401130,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "Pollan. This is a fascinating book and\nit's narrated by the author himself. I'm"
+    } ]
+  }, {
+    "tStartMs": 406169,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "actually listening to it at the moment\nand he may be changing my mind about the"
+    } ]
+  }, {
+    "tStartMs": 409710,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "very nature of consciousness. What I find\nso incredible is how recent this"
+    } ]
+  }, {
+    "tStartMs": 415229,
+    "dDurationMs": 4391,
+    "segs": [ {
+      "utf8": "scientific field is and what it's\nrevealing about how all of our brains work."
+    } ]
+  }, {
+    "tStartMs": 419620,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Now when I'm listening to books\nlike this I actually look forward to"
+    } ]
+  }, {
+    "tStartMs": 422310,
+    "dDurationMs": 3419,
+    "segs": [ {
+      "utf8": "getting stuck in traffic.\nI find it reduces my stress levels"
+    } ]
+  }, {
+    "tStartMs": 425729,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "because I'm learning something rather\nthan just wasting time in the car."
+    } ]
+  }, {
+    "tStartMs": 429810,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Now the way it works with Audible is that as\na member you can choose three titles"
+    } ]
+  }, {
+    "tStartMs": 433350,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "each month: one audiobook and two Audible\noriginals that you can't hear anywhere"
+    } ]
+  }, {
+    "tStartMs": 437729,
+    "dDurationMs": 4021,
+    "segs": [ {
+      "utf8": "else. And if you don't like a book you\ncan exchange it no questions asked and"
+    } ]
+  }, {
+    "tStartMs": 441750,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the books you get are yours to keep. You\ncan go back and re-listen anytime even"
+    } ]
+  }, {
+    "tStartMs": 446070,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "if you cancel your membership. Just go to\nA U D I B L E dot com slash veritasium or text"
+    } ]
+  }, {
+    "tStartMs": 452160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "veritasium to five hundred five hundred\nand browse their unmatched selection of"
+    } ]
+  }, {
+    "tStartMs": 456000,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "audio content. So I want to thank Audible\nfor supporting me and I want to thank"
+    } ]
+  }, {
+    "tStartMs": 459570,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "you for watching."
+    } ]
+  } ]
+}

@@ -1,0 +1,847 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "On November 16th, representatives from nearly 60 nations"
+    } ]
+  }, {
+    "tStartMs": 6060,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "will be meeting in Versailles, France"
+    } ]
+  }, {
+    "tStartMs": 8060,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "to vote to change the definition of a kilogram."
+    } ]
+  }, {
+    "tStartMs": 11640,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Not only that, they will also be changing the fundamental unit of temperature, the kelvin,"
+    } ]
+  }, {
+    "tStartMs": 16720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "the unit for amount of substance, the mole,"
+    } ]
+  }, {
+    "tStartMs": 19600,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and the unit for electric current, the ampere."
+    } ]
+  }, {
+    "tStartMs": 22080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "That is four of the seven base S.I. units in one day!"
+    } ]
+  }, {
+    "tStartMs": 26160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And after that all S.I. units will be based on fundamental constants of nature,"
+    } ]
+  }, {
+    "tStartMs": 30880,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and not physical artifacts."
+    } ]
+  }, {
+    "tStartMs": 34640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "The kilogram is the last base SI unit to be defined by a physical object."
+    } ]
+  }, {
+    "tStartMs": 39760,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Since 1799, one kilogram has been defined as exactly the mass"
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "of a single metal cylinder stored in Paris."
+    } ]
+  }, {
+    "tStartMs": 48400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "It was swapped out once in 1889."
+    } ]
+  }, {
+    "tStartMs": 51160,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But this International Prototype Kilogram (or Big K as it's affictionately known) has problems!"
+    } ]
+  }, {
+    "tStartMs": 56680,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I mean, weighting it with in theory identical cylinders, scientists have found"
+    } ]
+  }, {
+    "tStartMs": 60640,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "that their masses are diverging."
+    } ]
+  }, {
+    "tStartMs": 62360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So it doesn't even seem to maintain it's mass."
+    } ]
+  }, {
+    "tStartMs": 65320,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Plus, it's really hard to get access to Big K,"
+    } ]
+  }, {
+    "tStartMs": 68240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and that makes using this definition really difficult."
+    } ]
+  }, {
+    "tStartMs": 72680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So how do you create a mass standard that will never change,"
+    } ]
+  }, {
+    "tStartMs": 76760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and also be available to everyone everywhere?"
+    } ]
+  }, {
+    "tStartMs": 80720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "With the solution is you set Planck's constant to have a fixed, exact value."
+    } ]
+  }, {
+    "tStartMs": 86400,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Now I know that sounds a little strange, so bear with me for a moment."
+    } ]
+  }, {
+    "tStartMs": 89080,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "I mean, Planck's constant is best known for relating the frequency of a photon,"
+    } ]
+  }, {
+    "tStartMs": 93520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "particle of light, to it's energy."
+    } ]
+  }, {
+    "tStartMs": 95880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But we also know that energy and mass are related through E = mc²,"
+    } ]
+  }, {
+    "tStartMs": 100920,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "so, hopefully, you can see how Planck's constant is involved in mass."
+    } ]
+  }, {
+    "tStartMs": 106400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But problem as it stands today as I'm\nrecording this video"
+    } ]
+  }, {
+    "tStartMs": 110120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "is that Planck's constant has some uncertainty."
+    } ]
+  }, {
+    "tStartMs": 113660,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I mean we know the value of Planck's constant to a large number of decimal places"
+    } ]
+  }, {
+    "tStartMs": 117740,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "but those last couple of digits..."
+    } ]
+  }, {
+    "tStartMs": 119780,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "They're actually uncertain."
+    } ]
+  }, {
+    "tStartMs": 121300,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "What is certain is the mass of\nthat platinum-iridium cylinder stored in."
+    } ]
+  }, {
+    "tStartMs": 126320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "a climate-controlled vault in a basement\nin Paris it is exactly one kilogram"
+    } ]
+  }, {
+    "tStartMs": 132320,
+    "dDurationMs": 6940,
+    "segs": [ {
+      "utf8": "No uncertainty. So the solution is to flip\nthis on its head set Planck's constant"
+    } ]
+  }, {
+    "tStartMs": 139260,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "to have an exact fixed value and then\nthat cylinder in Paris will no longer be"
+    } ]
+  }, {
+    "tStartMs": 145200,
+    "dDurationMs": 7110,
+    "segs": [ {
+      "utf8": "exactly 1 kilogram I mean it'll be a\nkilogram but not exactly the thing that"
+    } ]
+  }, {
+    "tStartMs": 152310,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "is now exact is Planck's constant which\ndetermines how big a kilogram is."
+    } ]
+  }, {
+    "tStartMs": 159760,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "But if you're gonna fix the value of Planck's\nconstant well you better get that value"
+    } ]
+  }, {
+    "tStartMs": 164180,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "right, so that it's consistent with all\nof our current measurements and all of"
+    } ]
+  }, {
+    "tStartMs": 167660,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "the masses that exist in the world right\nnow. and so for the last several years"
+    } ]
+  }, {
+    "tStartMs": 170360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "And so for the last several years,"
+    } ]
+  }, {
+    "tStartMs": 171920,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "scientists around the world have used\nmultiple different techniques to try to"
+    } ]
+  }, {
+    "tStartMs": 176540,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "measure Planck's constant as accurately\nas they possibly can."
+    } ]
+  }, {
+    "tStartMs": 181740,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "One of the major methods was using a\nwatt balance, where essentially, they"
+    } ]
+  }, {
+    "tStartMs": 185820,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "balance the weight of a kilogram with\nthe force from an electromagnet if you"
+    } ]
+  }, {
+    "tStartMs": 191430,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "want more detail you should check out my\nvideo on that topic."
+    } ]
+  }, {
+    "tStartMs": 194800,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "Scientists also created arguably the roundest object in\nthe world made of one type of silicon"
+    } ]
+  }, {
+    "tStartMs": 201570,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "atoms these methods have been\ncomplementary because now they're able"
+    } ]
+  }, {
+    "tStartMs": 205580,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "to compare all of their different\nfindings from physics and from this more"
+    } ]
+  }, {
+    "tStartMs": 209520,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "chemistry method of Avogadro's constant\nand determine what Planck's constant"
+    } ]
+  }, {
+    "tStartMs": 213510,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "really should be. So if the vote goes\nwell the future definition of Planck's"
+    } ]
+  }, {
+    "tStartMs": 218640,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "constant will be that it is exactly this\nnumber."
+    } ]
+  }, {
+    "tStartMs": 222880,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Planck's constant is fixed."
+    } ]
+  }, {
+    "tStartMs": 224820,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "That cylinder in Paris, no longer exactly\nequal to a kilogram."
+    } ]
+  }, {
+    "tStartMs": 230220,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "But you can't redefine the kilogram in isolation,\nbecause other base S.I. units depend on it."
+    } ]
+  }, {
+    "tStartMs": 235680,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Take the mole for example. Currently, the\nmole is defined as the amount of"
+    } ]
+  }, {
+    "tStartMs": 240200,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "substance that contains the same number\nof particles as there are atoms in 12"
+    } ]
+  }, {
+    "tStartMs": 245220,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "grams of carbon-12\nthat's Avogadro 's constant and it depends"
+    } ]
+  }, {
+    "tStartMs": 250200,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "on what 12 grams is which depends on\nwhat a kilogram is so again Avogadro's"
+    } ]
+  }, {
+    "tStartMs": 255750,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "constant currently has some uncertainty\nbut after the vote the plan is to fix"
+    } ]
+  }, {
+    "tStartMs": 261090,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Avogadro's constant to be exactly this\nnumber in such a way that it is internally"
+    } ]
+  }, {
+    "tStartMs": 266100,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "consistent with the new definition of\nPlanck's constant. There's a direct"
+    } ]
+  }, {
+    "tStartMs": 270240,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "relationship between Avogadro's constant\nand Planck's constant."
+    } ]
+  }, {
+    "tStartMs": 273820,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Likewise, ampere will no longer depend on the\nkilogram. Instead, it will be defined"
+    } ]
+  }, {
+    "tStartMs": 278370,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "based on this newly fixed value for the\ncharge on an electron; and the Kelvin"
+    } ]
+  }, {
+    "tStartMs": 283560,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "will be based on the newly fixed\nBoltzmann constant, which relates the"
+    } ]
+  }, {
+    "tStartMs": 287820,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "temperature of a gas to the average\nkinetic energy of the molecules, and this"
+    } ]
+  }, {
+    "tStartMs": 291720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "will be its exact value with no\nuncertainties."
+    } ]
+  }, {
+    "tStartMs": 295720,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Now will these new definitions change anything?"
+    } ]
+  }, {
+    "tStartMs": 299140,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Well for most people, no. I mean, your food is still"
+    } ]
+  }, {
+    "tStartMs": 302160,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "going the way the same, as are you. And\ntemperature is still gonna work the same way."
+    } ]
+  }, {
+    "tStartMs": 306480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "You know, everything basically stays the same,"
+    } ]
+  }, {
+    "tStartMs": 309360,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "and that is as it should be. The\npoint of this definition change is not"
+    } ]
+  }, {
+    "tStartMs": 314460,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "to shake things up, but to keep things\nconsistent and reliable forever."
+    } ]
+  }, {
+    "tStartMs": 318810,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "All we're doing is removing the\ndependence on a physical object, which"
+    } ]
+  }, {
+    "tStartMs": 323130,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "theoretically, at least, makes it possible\nfor anyone, anywhere to make incredibly"
+    } ]
+  }, {
+    "tStartMs": 327810,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "precise measurements."
+    } ]
+  }, {
+    "tStartMs": 329580,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "Now, I should point out that a volt will actually change by"
+    } ]
+  }, {
+    "tStartMs": 333440,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "about one part in ten million, and\nresistance will change by a little bit"
+    } ]
+  }, {
+    "tStartMs": 337980,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "less than that. And that's because back\nin 1990, the electrical metrologists"
+    } ]
+  }, {
+    "tStartMs": 343260,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "decided to stop updating their value of\neffectively Planck's constant and just"
+    } ]
+  }, {
+    "tStartMs": 348390,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "keep the one they had in 1990 and there\nwas a benefit to that."
+    } ]
+  }, {
+    "tStartMs": 351760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "They didn't have to update their definitions, or their\ninstruments, but now that we've realized"
+    } ]
+  }, {
+    "tStartMs": 356400,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that Planck's constant is actually\nslightly different than the 1990 value"
+    } ]
+  }, {
+    "tStartMs": 359760,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "because of better measurement techniques."
+    } ]
+  }, {
+    "tStartMs": 361580,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Well, now the electrical metrologists will"
+    } ]
+  }, {
+    "tStartMs": 363620,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "have to change, but that's a very tiny\nchange for a very tiny number of people."
+    } ]
+  }, {
+    "tStartMs": 368100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I think they'll be fine."
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "You know I've\nbeen trying to ask myself the question,"
+    } ]
+  }, {
+    "tStartMs": 372140,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "why am I so interested in this topic? I\nmean, I made like four videos on it and"
+    } ]
+  }, {
+    "tStartMs": 377040,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "the reason is, you know, to me the world\nand the universe is a big complicated place."
+    } ]
+  }, {
+    "tStartMs": 385080,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "And when we're actually able to\nascribe numbers to it, it's like we are"
+    } ]
+  }, {
+    "tStartMs": 392310,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "resting some sort of order out of the\nchaos that is our universe and that"
+    } ]
+  }, {
+    "tStartMs": 397310,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "is the beginning of our understanding of\nthe way things work. You know"
+    } ]
+  }, {
+    "tStartMs": 401750,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "measurements are the foundation of\nscience they allow us to make observations."
+    } ]
+  }, {
+    "tStartMs": 407520,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "I think it's no surprise\nthat, you know, Kepler was really able to"
+    } ]
+  }, {
+    "tStartMs": 410780,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "figure out what was going on with the\nplanet that they were actually moving"
+    } ]
+  }, {
+    "tStartMs": 413630,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "in elliptical orbits. Once Tycho Brahe he\nhad made the most accurate measurements"
+    } ]
+  }, {
+    "tStartMs": 418550,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "of their positions that people had ever\nmade I mean I think that's no"
+    } ]
+  }, {
+    "tStartMs": 422060,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "coincidence and if you look at the\ndiscovery of the Higgs boson at CERN or"
+    } ]
+  }, {
+    "tStartMs": 427550,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "the detection of gravitational waves.\nThese are, in my view, the pinnacle of"
+    } ]
+  }, {
+    "tStartMs": 434120,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "human achievement. I think there are\norders of magnitude greater than the"
+    } ]
+  }, {
+    "tStartMs": 438260,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "achievements that then we make in\nliterature, and art, and fashion; and I"
+    } ]
+  }, {
+    "tStartMs": 442730,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "don't say that to disparage those\ndisciplines. I know that they're hard I"
+    } ]
+  }, {
+    "tStartMs": 445910,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "know they take a lot of human brain\npower and I'm not saying scientists are"
+    } ]
+  }, {
+    "tStartMs": 448730,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "smarter but the tools that scientists\nwork with and the system in which they"
+    } ]
+  }, {
+    "tStartMs": 453500,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "work is what allows them to make such\ngreat leaps because science builds on"
+    } ]
+  }, {
+    "tStartMs": 458600,
+    "dDurationMs": 7890,
+    "segs": [ {
+      "utf8": "itself in almost, you know, an\nexponentially improving way and that to"
+    } ]
+  }, {
+    "tStartMs": 466490,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "me is why this is so important is\nbecause it allows us to take our"
+    } ]
+  }, {
+    "tStartMs": 470270,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "measurements to the next level. No longer\nare we bound to physical objects. I mean,"
+    } ]
+  }, {
+    "tStartMs": 475730,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "face it, up until now, we've essentially\nbeen doing a glorified version of Indiana Jones."
+    } ]
+  }, {
+    "tStartMs": 482180,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Now, we are taking that\nnext leap to the abstraction that all of"
+    } ]
+  }, {
+    "tStartMs": 486440,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "our units are based on the way nature is\nand the way the universe is. We're no"
+    } ]
+  }, {
+    "tStartMs": 491180,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "longer tied to physical objects."
+    } ]
+  }, {
+    "tStartMs": 496750,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "hey this episode of veritasium was\nsupported by viewers like you on patreon"
+    } ]
+  }, {
+    "tStartMs": 501740,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "and by Audible. Audible has an unmatched\nselection of audio books plus audio"
+    } ]
+  }, {
+    "tStartMs": 506930,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "health and fitness programs and audible\noriginals which are made exclusively for"
+    } ]
+  }, {
+    "tStartMs": 510920,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "members and audible is offering a free\naudio book to viewers of this video when"
+    } ]
+  }, {
+    "tStartMs": 515900,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "you sign up for a 30-day trial just go\nto audible.com/veritasium or text"
+    } ]
+  }, {
+    "tStartMs": 520670,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "veritasium to 500 500 now the book I'm\nlistening to at the moment is by my"
+    } ]
+  }, {
+    "tStartMs": 525050,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "friend Hank green it's called an\nabsolutely remarkable thing and it's a"
+    } ]
+  }, {
+    "tStartMs": 529070,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "novel about a girl who\nstumbles upon a giant robot in New York"
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "City and the social media circus that\nensues and I think Hank has some really"
+    } ]
+  }, {
+    "tStartMs": 538100,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "interesting insights in this world and I\nfind it really well written of course"
+    } ]
+  }, {
+    "tStartMs": 543380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm kind of biased because I'm his\nfriend but if you were intrigued you can"
+    } ]
+  }, {
+    "tStartMs": 546380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "actually listen to this book right now\nfor free by going to"
+    } ]
+  }, {
+    "tStartMs": 549380,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "audible.com/veritasium and the way it\nworks is that every month you get a"
+    } ]
+  }, {
+    "tStartMs": 554300,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "credit which is good for one audiobook\nany book you like and if you don't like"
+    } ]
+  }, {
+    "tStartMs": 559070,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "that book you can exchange it no\nquestions asked"
+    } ]
+  }, {
+    "tStartMs": 561470,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "plus your audiobooks are yours to keep\nso you can go back and re-listen to them"
+    } ]
+  }, {
+    "tStartMs": 565760,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "at any time even if you cancel your\nmembership plus you get access to"
+    } ]
+  }, {
+    "tStartMs": 570110,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "audible health and fitness workouts and\naudible originals two of those per month"
+    } ]
+  }, {
+    "tStartMs": 575060,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "from a changing selection and that's\naudio content you won't get anywhere"
+    } ]
+  }, {
+    "tStartMs": 578750,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "else\nso audible actually has a huge offering"
+    } ]
+  }, {
+    "tStartMs": 582320,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "right now and if you haven't tried them\nbefore you should give them a shot just"
+    } ]
+  }, {
+    "tStartMs": 584990,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "go to audible.com/veritasium that's AUD\nible calm slash veritasium or text"
+    } ]
+  }, {
+    "tStartMs": 590930,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "veritasium to five hundred five hundred\nso I want to thank audible for"
+    } ]
+  }, {
+    "tStartMs": 594230,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "supporting me and I want to thank you\nfor watching"
+    } ]
+  } ]
+}

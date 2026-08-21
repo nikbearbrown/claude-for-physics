@@ -1,0 +1,1135 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Fermilab physicists really care about the \nmass of the W boson. They spent nearly a  "
+    } ]
+  }, {
+    "tStartMs": 5360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "decade recording collisions in the Tevatron \ncollider and another decade analysing the data."
+    } ]
+  }, {
+    "tStartMs": 10240,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "This culminated in the April 7 announcement \nthat this obscure particle’s mass seems to be 0.1%  "
+    } ]
+  }, {
+    "tStartMs": 17280,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "heavier than expected. So why do we care? Because \nunderstanding why this particle even has mass  "
+    } ]
+  }, {
+    "tStartMs": 23760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "was one of the most important breakthroughs in our understanding of the subatomic world. And because  "
+    } ]
+  }, {
+    "tStartMs": 28560,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "measuring its precise mass either doubles down \non our current understanding or reveals a path  "
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "to an even deeper knowledge. The FermiLab \ndiscrepancy is a tantalizing hint of the latter."
+    } ]
+  }, {
+    "tStartMs": 46040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "—-"
+    } ]
+  }, {
+    "tStartMs": 47040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This timing of FermiLab’s \ndiscovery is weirdly convenient.  "
+    } ]
+  }, {
+    "tStartMs": 50400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Over several previous episodes we’ve \nbeen building towards an understanding  "
+    } ]
+  }, {
+    "tStartMs": 53840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of how the forces of nature are unified. The \nmost powerful clue driving this is the weirdness  "
+    } ]
+  }, {
+    "tStartMs": 59200,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "of the weak force - in particular the particles \nthat carry this force. Its W and Z bosons have a  "
+    } ]
+  }, {
+    "tStartMs": 65680,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "property that we once thought no force-carrying \nparticle should have - they have mass."
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "The W bosons are especially weird in \nthat they also have electric charge."
+    } ]
+  }, {
+    "tStartMs": 74960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "This allows the weak force to trespass \non the province of electromagnetism,  "
+    } ]
+  }, {
+    "tStartMs": 79120,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "suggesting a connection between the two."
+    } ]
+  }, {
+    "tStartMs": 81360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "This connection hints at a \nunification of the forces of nature."
+    } ]
+  }, {
+    "tStartMs": 85120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The path to that unification leads to \nthe Higgs mechanism, which not only  "
+    } ]
+  }, {
+    "tStartMs": 90160,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "explains the mass of the weak bosons, but \nteaches us about the nature of mass itself."
+    } ]
+  }, {
+    "tStartMs": 95440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "To get to all that good stuff we need \na bit of a refresher on the episodes  "
+    } ]
+  }, {
+    "tStartMs": 99280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "that led to this - fields and forces and \nsymmetries and all that. Similar to how  "
+    } ]
+  }, {
+    "tStartMs": 103600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the fabric of a drum has vibrational \nmodes, so does the fabric of reality."
+    } ]
+  }, {
+    "tStartMs": 108240,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Every point in space can wiggle, \ntwist, oscillate in different ways.  "
+    } ]
+  }, {
+    "tStartMs": 112240,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "A quantum field just represents one of these \nmodes. And these wiggles are quantized - they  "
+    } ]
+  }, {
+    "tStartMs": 118320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "come in discrete packets of energy that can move \naround - and those are the particles of a field."
+    } ]
+  }, {
+    "tStartMs": 124240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "One special type of field is the \ngauge field. These arise from  "
+    } ]
+  }, {
+    "tStartMs": 127920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the fact that physics often doesn’t \ncare what coordinate system you use.  "
+    } ]
+  }, {
+    "tStartMs": 132080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The laws of physics are symmetric \nunder certain transformations.  "
+    } ]
+  }, {
+    "tStartMs": 136160,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "For example, physics works the same no matter \nwhere you decide to center your x-y-z axes,"
+    } ]
+  }, {
+    "tStartMs": 142080,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "or where you put the zero point of \nyour angles in polar coordinates."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "We saw in our episode on Noether’s theorem that \nthese symmetries lead to conservation laws."
+    } ]
+  }, {
+    "tStartMs": 151920,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "In quantum mechanics, such a “redundant degree \nof freedom” leads to a gauge field. We’ve seen an  "
+    } ]
+  }, {
+    "tStartMs": 158880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "example of this. The exact phase of the quantum \nwavefunction from one point in space to the  "
+    } ]
+  }, {
+    "tStartMs": 163920,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "next - local phase - doesn’t affect measurable \nquantities - only relative phase matters."
+    } ]
+  }, {
+    "tStartMs": 170240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "When we enforce this requirement, we find \nthat we have to add a new quantum field to  "
+    } ]
+  }, {
+    "tStartMs": 174720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the Schrodinger equation that lets the \nuniverse counteract these phase shifts.  "
+    } ]
+  }, {
+    "tStartMs": 179520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "That gauge field turns out to be \nelectromagnetism, and oscillations in  "
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "this field are the photon - our first gauge \nboson and carrier of electromagnetic force."
+    } ]
+  }, {
+    "tStartMs": 189760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So one of the fundamental forces arises from \na symmetry of nature - in this case the fact  "
+    } ]
+  }, {
+    "tStartMs": 194720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "that the laws of physics are invariant \nunder changes in local phase. The set  "
+    } ]
+  }, {
+    "tStartMs": 199520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "transformations that can change local phase are \nan example of a symmetry group - in this case  "
+    } ]
+  }, {
+    "tStartMs": 205040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "“unitary group 1”, or U(1). These \ntransformations can be represented with just  "
+    } ]
+  }, {
+    "tStartMs": 210640,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "“one” number in this case rotation of \nphase angle vector of “unit” length."
+    } ]
+  }, {
+    "tStartMs": 216800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "See this episode for the nitty gritty of all \nof this. This is a refresher, remember. In  "
+    } ]
+  }, {
+    "tStartMs": 222080,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the next episode we tried the same \ntrick to explain the weak interaction  "
+    } ]
+  }, {
+    "tStartMs": 227120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "as arising from symmetries. We saw that we could \ninvent a pair of totally abstract degrees of  "
+    } ]
+  }, {
+    "tStartMs": 232880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "freedom and demand that the universe be \ninvariant to transformations of these.  "
+    } ]
+  }, {
+    "tStartMs": 237200,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "We call this symmetry group SU(2) for … \nreasons. That requirement gave us a new  "
+    } ]
+  }, {
+    "tStartMs": 243840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "gauge field that has 3 force carriers that \nlook awfully like the weak force bosons."
+    } ]
+  }, {
+    "tStartMs": 248800,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "So far so good except that the predicted particles \nare massless, while the real weak force bosons  "
+    } ]
+  }, {
+    "tStartMs": 256160,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "are, as I mentioned, pretty hefty. That’s a huge \ndeal breaker actually - massive bosons break gauge  "
+    } ]
+  }, {
+    "tStartMs": 264400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "symmetries. According to something called \nGoldstone’s theorem, all gauge bosons are  "
+    } ]
+  }, {
+    "tStartMs": 269840,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "massless. So… so far so bad, but we’re gonna \nforge on anyway and hope this gets sorted out."
+    } ]
+  }, {
+    "tStartMs": 277760,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Another problem with this first pass at the weak \nforce is that it has absolutely no connection to  "
+    } ]
+  }, {
+    "tStartMs": 283440,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "electromagnetism. Its bosons do have properties \nthat look like weak isospin and weak hypercharge,  "
+    } ]
+  }, {
+    "tStartMs": 290320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "but no electric charge. In our universe \nthese three quantities are sort of  "
+    } ]
+  }, {
+    "tStartMs": 294880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "locked together, only taking on \ncertain values relative to each other.  "
+    } ]
+  }, {
+    "tStartMs": 299680,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "To see if we can duplicate that in our theory \nwe need to combine the U(1) and SU(2) symmetries  "
+    } ]
+  }, {
+    "tStartMs": 306880,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "so that they apply at the same time. We call this \ncombined symmetry group U(1)xSU(2). The resulting  "
+    } ]
+  }, {
+    "tStartMs": 313920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "gauge field still has bosons that look a bit like \nthe photon and the three weak force bosons, but  "
+    } ]
+  }, {
+    "tStartMs": 319920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the latter are still massless, and the resulting \ncharges are completely unconnected to each other."
+    } ]
+  }, {
+    "tStartMs": 324320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "They’re all free to be whatever they \nwant, unlike the real universe where  "
+    } ]
+  }, {
+    "tStartMs": 327600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "isospin and hypercharge are tightly coupled, \nand their combination defines electric charge.  "
+    } ]
+  }, {
+    "tStartMs": 333840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Is it time to give up on this symmetry stuff yet?"
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "There’s one more long-shot clue. I said \nthat massive bosons break the gauge  "
+    } ]
+  }, {
+    "tStartMs": 345200,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "symmetry. But what if that’s okay? We’ve also \ntalked about the idea of symmetry breaking before,  "
+    } ]
+  }, {
+    "tStartMs": 352720,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "using this example of a bunch of bar magnets. \nThese magnets have high temperature which makes  "
+    } ]
+  }, {
+    "tStartMs": 359200,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "them move randomly, but as the system cools down \nthis random thermal motion gets overpowered by the  "
+    } ]
+  }, {
+    "tStartMs": 365520,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "magnetic interaction and they end up all aligning. \nThe equations of magnetism don’t start out with a  "
+    } ]
+  }, {
+    "tStartMs": 371920,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "preferred orientation, but in certain conditions - \nnamely, cold ones - the system chooses a preferred  "
+    } ]
+  }, {
+    "tStartMs": 378560,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "direction. This is an example of spontaneous \nsymmetry breaking. So if a bunch of magnets live  "
+    } ]
+  }, {
+    "tStartMs": 385760,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "in a state that violates the symmetries of their \nruling equations, maybe the universe can too."
+    } ]
+  }, {
+    "tStartMs": 392640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Here’s another analogy. Consider a ball rolling \nback and forth in a valley. The equations  "
+    } ]
+  }, {
+    "tStartMs": 397920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "describing its motion are symmetric between \nleft and right because the valley is symmetric."
+    } ]
+  }, {
+    "tStartMs": 403120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Now imagine it wasn't one valley but \ntwo valleys with a hill in the middle.  "
+    } ]
+  }, {
+    "tStartMs": 408160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The system is still symmetric, but if the \nball starts at the top of the hill it will  "
+    } ]
+  }, {
+    "tStartMs": 412240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "randomly roll down into one valley. \nNow the current state of the system  "
+    } ]
+  }, {
+    "tStartMs": 417200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "has a broken symmetry, even if the \nsymmetry of the landscape remains."
+    } ]
+  }, {
+    "tStartMs": 421840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So let’s just see if we can break \nthe symmetries of the universe  "
+    } ]
+  }, {
+    "tStartMs": 426000,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "in a similar way. The equivalent of the \nsimple valley exists. A quantum field  "
+    } ]
+  }, {
+    "tStartMs": 432400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "can oscillate around some “zero-point” value \nlike a ball rolling back and forth in a valley.  "
+    } ]
+  }, {
+    "tStartMs": 437920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "The “walls” of the valley are just the \npotential energy - the energy stored when the  "
+    } ]
+  }, {
+    "tStartMs": 442400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "field value moves away from the zero point, trying \nto pull it back to the center. Graphing this,  "
+    } ]
+  }, {
+    "tStartMs": 448400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the vertical represents potential energy and \nthe horizontal represents the field strength."
+    } ]
+  }, {
+    "tStartMs": 453200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Particles of this field are just oscillations \nof the field strength across the lowest point,  "
+    } ]
+  }, {
+    "tStartMs": 457840,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "where the field strength is zero. \nBut if there are no particles around  "
+    } ]
+  }, {
+    "tStartMs": 461920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "then the field just sits at the lowest \npoint. We call that the vacuum state."
+    } ]
+  }, {
+    "tStartMs": 466640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Easy stuff, right? In that case \nyou won’t mind seeing the math."
+    } ]
+  }, {
+    "tStartMs": 472480,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "OK, don’t freak out. It’s not on the test. This \nis a Lagrangian - something we covered previously.  "
+    } ]
+  }, {
+    "tStartMs": 480560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "It’s really just the difference between \nthe kinetic energy and the potential energy  "
+    } ]
+  }, {
+    "tStartMs": 485280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "in the field. Our plot was \nof the potential energy part."
+    } ]
+  }, {
+    "tStartMs": 489440,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "This particular Lagrangian describes a simple \nquantum field made of massive particles which  "
+    } ]
+  }, {
+    "tStartMs": 495840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "interact with each other. Let me talk you through \nthe hieroglyphics. Firstly, phi is the quantum  "
+    } ]
+  }, {
+    "tStartMs": 501840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "field itself - it just means there’s a numerical \nstrength of the field everywhere in space.  "
+    } ]
+  }, {
+    "tStartMs": 506880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The potential energy part is the “shape” of the \nfield, and is made of various powers of the field  "
+    } ]
+  }, {
+    "tStartMs": 512640,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "strength that represent ways the field’s particles \ncan interact. For example, this phi^4 term says  "
+    } ]
+  }, {
+    "tStartMs": 520720,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "the particles of the field interact with particles \nof the same field with strength lambda. This  "
+    } ]
+  }, {
+    "tStartMs": 526640,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "phi^2 term represents the field interacting with \nitself. That self-interaction is what leads to the  "
+    } ]
+  }, {
+    "tStartMs": 533360,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "property of mass. Gauge fields shouldn’t interact \nwith themselves, so shouldn’t have a phi^2 term."
+    } ]
+  }, {
+    "tStartMs": 540960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And that means this isn’t a gauge field.  "
+    } ]
+  }, {
+    "tStartMs": 544080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The gauge field is a new thing that comes from \nthe degrees of freedom within this field. This  "
+    } ]
+  }, {
+    "tStartMs": 549520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "particular Lagrangian has the simple symmetry that \nit’s the same if you reflect it around the y axis."
+    } ]
+  }, {
+    "tStartMs": 556640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "If we complicate things by adding a second field  "
+    } ]
+  }, {
+    "tStartMs": 559520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "compone nt - phi 1 and phi \n2 - we get a parabolic bowl."
+    } ]
+  }, {
+    "tStartMs": 565040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "If the current state of the field is at \nthe bottom of the dip then it has a single  "
+    } ]
+  }, {
+    "tStartMs": 569680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "continuous degree of freedom, in that you can rotate this thing and nothing changes."
+    } ]
+  }, {
+    "tStartMs": 574160,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "That would be a global U(1) symmetry. Repeating \nour electromagnetism trick means requiring local  "
+    } ]
+  }, {
+    "tStartMs": 582320,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "U(1) invariance. We need the laws of physics \nto still make sense if there are rotations from  "
+    } ]
+  }, {
+    "tStartMs": 588400,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "one point in space to the next. That means \nadding a new gauge field in the Lagrangian  "
+    } ]
+  }, {
+    "tStartMs": 594320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "that allows the angle of this rotational degree \nof freedom to vary. Call that angle theta."
+    } ]
+  }, {
+    "tStartMs": 599120,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Oscillations in that field would be a gauge \nboson. You can think about those oscillations as  "
+    } ]
+  }, {
+    "tStartMs": 606160,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "the theta angle twirling around freely, and it \ndoesn’t need any minimum energy to oscillate,  "
+    } ]
+  }, {
+    "tStartMs": 612560,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "so the gauge boson is massless."
+    } ]
+  }, {
+    "tStartMs": 615280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "On the other hand, the particle of \nthe original field needs a rest mass  "
+    } ]
+  }, {
+    "tStartMs": 619840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "energy to be able to oscillate \nup and down the potential walls."
+    } ]
+  }, {
+    "tStartMs": 623360,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "So this potential doesn’t give us massive gauge \nbosons. Let’s make a slight change. We’re going  "
+    } ]
+  }, {
+    "tStartMs": 630480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "to switch the sign in front of the mass term. \nThen the potential would change to this,"
+    } ]
+  }, {
+    "tStartMs": 635520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "just like the two valleys we saw earlier, but now \nwith this extra field component to give us this  "
+    } ]
+  }, {
+    "tStartMs": 641280,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "shape. It’s called a mexican hat potential. This \npotential shape is the heart of the Higgs field."
+    } ]
+  }, {
+    "tStartMs": 650160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "It’s still a symmetric potential - it has the \nsame global U(1) symmetry as the original.  "
+    } ]
+  }, {
+    "tStartMs": 655760,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "But if the universe suddenly transitions from the \nold potential to this one then we have a problem."
+    } ]
+  }, {
+    "tStartMs": 662480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "The field strength would find itself on top of \nthis little hill, but then quickly roll down in  "
+    } ]
+  }, {
+    "tStartMs": 667760,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "a random direction. The new state of the field \nwould not be symmetric to the same rotations,  "
+    } ]
+  }, {
+    "tStartMs": 674000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "because different points around this valley \ncorrespond to different physical states. "
+    } ]
+  }, {
+    "tStartMs": 679200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We say that the symmetry is spontaneously \nbroken. The current state of the field is  "
+    } ]
+  }, {
+    "tStartMs": 683840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "a state of broken symmetry, even if the \nglobal field shape keeps its old symmetry."
+    } ]
+  }, {
+    "tStartMs": 688640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "This is just like how the field of magnets \ncan be in a state of broken symmetry  "
+    } ]
+  }, {
+    "tStartMs": 692960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "even though the overall equations \nof magnetism have not changed."
+    } ]
+  }, {
+    "tStartMs": 697440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The transition from the central bump to \nthe valley is an example of vacuum decay,  "
+    } ]
+  }, {
+    "tStartMs": 702880,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and we saw how this can lead to the creation \nof cosmic strings in a recent episode.  "
+    } ]
+  }, {
+    "tStartMs": 707440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But cosmic strings are the perhaps least \ninteresting thing about this process.  "
+    } ]
+  }, {
+    "tStartMs": 711440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Once the field has reached the base of this \nnew minimum we have a new stable vacuum state."
+    } ]
+  }, {
+    "tStartMs": 716960,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "But this state is very different from the original \nfor two reasons. The first is that the lowest  "
+    } ]
+  }, {
+    "tStartMs": 724480,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "energy state - the vacuum state - isn’t where the \nfield strength is zero. This is called a non-zero  "
+    } ]
+  }, {
+    "tStartMs": 732480,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "vacuum expectation value. The original massive \nparticles of the field now oscillate in the  "
+    } ]
+  }, {
+    "tStartMs": 738800,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "radial direction, but no longer centered on the \nzero field value. This is the Higgs boson itself."
+    } ]
+  }, {
+    "tStartMs": 746160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Second weird thing: there’s not just a single \nvacuum state - there’s a rin g of valid states.  "
+    } ]
+  }, {
+    "tStartMs": 752160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "The universe will just have \nchosen one state randomly.  "
+    } ]
+  }, {
+    "tStartMs": 755840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "But the field can also oscillate along the base of \nthe valley in what we’ll call the theta direction.  "
+    } ]
+  }, {
+    "tStartMs": 762480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The resulting particle is called a \nGoldstone boson and it’s massless  "
+    } ]
+  }, {
+    "tStartMs": 767440,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "because the valley is flat - there’s no energy \ndifferential. However it isn’t a gauge boson  "
+    } ]
+  }, {
+    "tStartMs": 774080,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "because location around that valley represents \na real physical difference in the field state."
+    } ]
+  }, {
+    "tStartMs": 779920,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "OK, let’s try to bring all of this together. \nWe want to combine the weak and electromagnetic  "
+    } ]
+  }, {
+    "tStartMs": 786000,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "interactions, so we need simultaneous local \nU(1) and SU(2) symmetry. Let’s just do U(1)  "
+    } ]
+  }, {
+    "tStartMs": 794240,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "because that gives us the basic picture. Because \nthe potential is the same all around the valley,  "
+    } ]
+  }, {
+    "tStartMs": 800080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "it shouldn’t be possible to tell where in the \nvalley you are. It matters if two adjacent  "
+    } ]
+  }, {
+    "tStartMs": 806080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "patches of the universe are in different parts of \nthe valley - the relative difference in this angle  "
+    } ]
+  }, {
+    "tStartMs": 811600,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "theta matters, but exact values don’t. So we’re \ngoing to demand local U(1) invariance and come  "
+    } ]
+  }, {
+    "tStartMs": 818080,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "up with a gauge field that shakes out shifts in \nour arbitrary choice of the zero point of theta."
+    } ]
+  }, {
+    "tStartMs": 824800,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "But now this gauge field finds itself in a much \nmore complex Lagrangian with this Mexican hat  "
+    } ]
+  }, {
+    "tStartMs": 831440,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "potential. Weird stuff happens when the gauge \nfield couples to the particles of that potential."
+    } ]
+  }, {
+    "tStartMs": 838640,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "First of all, we see that the Goldstone bosons, \nwhich are just oscillations in the theta angle,  "
+    } ]
+  }, {
+    "tStartMs": 844800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "can be absorbed into this U(1) gauge \nfield. Both are oscillations around  "
+    } ]
+  }, {
+    "tStartMs": 850080,
+    "dDurationMs": 4712,
+    "segs": [ {
+      "utf8": "the valley. In the Lagrangian they get \nlumped together into a single field"
+    } ]
+  }, {
+    "tStartMs": 854792,
+    "dDurationMs": 3528,
+    "segs": [ {
+      "utf8": "that still looks like a gauge field with a single  "
+    } ]
+  }, {
+    "tStartMs": 858320,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "gauge boson. The gauge field eats the \nGoldstone boson. But when we do this,  "
+    } ]
+  }, {
+    "tStartMs": 865440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the new combined field has field-squared \nterms in the Lagrangian, which is weird  "
+    } ]
+  }, {
+    "tStartMs": 869520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "because those are mass terms - except \nneither the original gauge boson nor the  "
+    } ]
+  }, {
+    "tStartMs": 874080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Goldstone boson that it just ate had any \nmass. So where does this mass come from?  "
+    } ]
+  }, {
+    "tStartMs": 880640,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "It’s because the gauge boson is now coupled to the \nHiggs field. The Goldstone boson that is now part  "
+    } ]
+  }, {
+    "tStartMs": 887200,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "of the gauge boson is coupled to the Higgs field, \nwhich means the gauge boson is also so coupled."
+    } ]
+  }, {
+    "tStartMs": 894560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Ultimately this happens because of the non-zero \nvacuum state of the Higgs field. That little  "
+    } ]
+  }, {
+    "tStartMs": 899760,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "bit of Higgsiness everywhere refuses to cancel \nout in the Lagrangian, giving us our mass term."
+    } ]
+  }, {
+    "tStartMs": 906640,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "All of this was a simplified explanation. I know horrifying, right? Imposing the full electroweak  "
+    } ]
+  }, {
+    "tStartMs": 915013,
+    "dDurationMs": 6267,
+    "segs": [ {
+      "utf8": "U(1)xSU(2) invariance on the true Higgs potential \ngets you three Goldstone bosons that are eaten by  "
+    } ]
+  }, {
+    "tStartMs": 921280,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "3 of the 4 electroweak gauge bosons. Those gain \nmass and become the two W and one Z bosons of the  "
+    } ]
+  }, {
+    "tStartMs": 929520,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "weak interaction. The fourth boson manages to escape  unscathed and massless, becoming the photon  "
+    } ]
+  }, {
+    "tStartMs": 935440,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "that we know and love. It flew free of its \nheavier cousins, the independent mediator of  "
+    } ]
+  }, {
+    "tStartMs": 942240,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "a part of the old electroweak field - what we now \nexperience as electromagnetism, while the W and Z  "
+    } ]
+  }, {
+    "tStartMs": 949120,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "slog on through the mire of their coupling \nwith the Higgs field. Their mass shortened  "
+    } ]
+  }, {
+    "tStartMs": 955120,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "their lifespans, and so enormously reduces their \nrange, weakening the force that they mediate."
+    } ]
+  }, {
+    "tStartMs": 962640,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "So that’s where we are today. This is the Higgs mechanism. The Higgs field also gives mass  "
+    } ]
+  }, {
+    "tStartMs": 969040,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to the matter particles - the fermions - \nbut that’s for another time. But what about  "
+    } ]
+  }, {
+    "tStartMs": 974320,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "this new measurement of the W boson mass? Mass \nresults from interaction with the Higgs field,  "
+    } ]
+  }, {
+    "tStartMs": 982640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "but also all of the other subtle interactions that \na particle can undergo. The predicted mass of the  "
+    } ]
+  }, {
+    "tStartMs": 988880,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "W boson takes into account all standard model \nparticles that could have a ghostly presence  "
+    } ]
+  }, {
+    "tStartMs": 994960,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "as virtual particles in the energy field of \nthe boson. The fact that FermiLab measured  "
+    } ]
+  }, {
+    "tStartMs": 1001440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "a larger mass that was predicted suggests \nan unknown particle or particles flickering  "
+    } ]
+  }, {
+    "tStartMs": 1007120,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "around the W boson. The discovery of the Higgs \nboson 10 years ago verified the idea that the  "
+    } ]
+  }, {
+    "tStartMs": 1014080,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "underlying symmetries of nature explain and \nunify some of the forces of nature. Perhaps  "
+    } ]
+  }, {
+    "tStartMs": 1021360,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "new particles will lead us to new clues about \nyet deeper unifying symmetries of space time."
+    } ]
+  }, {
+    "tStartMs": 1029920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Hey Everyone. Comments will return next week,  "
+    } ]
+  }, {
+    "tStartMs": 1032560,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "but before we go I wanted to say thank you to \neveryone who filled out our episode ideas survey  "
+    } ]
+  }, {
+    "tStartMs": 1038240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and if you haven't yet, there's still time. It’s just a short  "
+    } ]
+  }, {
+    "tStartMs": 1041520,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "8 question survey that you can use to share your episode ideas, tell us what topics you’d like us  "
+    } ]
+  }, {
+    "tStartMs": 1046880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "to explore, and in general tell us a little bit about you and what you'd like to see  "
+    } ]
+  }, {
+    "tStartMs": 1050800,
+    "dDurationMs": 15040,
+    "segs": [ {
+      "utf8": "happen in the Space Time universe. \nThere’s a link in the description."
+    } ]
+  } ]
+}

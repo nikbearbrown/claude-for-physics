@@ -1,0 +1,1831 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 60,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "The Nobel prize in physics is typically awarded to scientists who make sense of nature; those"
+    } ]
+  }, {
+    "tStartMs": 5280,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "whose discoveries render the \nuniverse more comprehensible."
+    } ]
+  }, {
+    "tStartMs": 8760,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "But the 2022 Nobel has been awarded to three physicists who revealed that the universe"
+    } ]
+  }, {
+    "tStartMs": 13620,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "is even stranger than we thought."
+    } ]
+  }, {
+    "tStartMs": 21180,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "This year’s physics Nobel laureates are\nJohn Clauser, Alain Aspect, and Anton Zeilinger,"
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "who together are responsible for a series\nof ingenious experiments that proved that"
+    } ]
+  }, {
+    "tStartMs": 31560,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "the strangest prediction of \nquantum mechanics is actually true."
+    } ]
+  }, {
+    "tStartMs": 34860,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "It’s the prediction that Einstein refused\nto accept - the idea that two quantum systems"
+    } ]
+  }, {
+    "tStartMs": 40860,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "can be entangled - bound to each other such that they can influence each other instantaneously"
+    } ]
+  }, {
+    "tStartMs": 46260,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "over any distance."
+    } ]
+  }, {
+    "tStartMs": 47160,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "This “spooky action at a distance” as\nEinstein called it, is in seeming violation"
+    } ]
+  }, {
+    "tStartMs": 52500,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "of his own theory of relativity, which tells\nus that no causal influence can travel faster"
+    } ]
+  }, {
+    "tStartMs": 57480,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "than light."
+    } ]
+  }, {
+    "tStartMs": 58740,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Clauser and Aspect achieved the rarest of\nfeats - they proved Einstein wrong, while"
+    } ]
+  }, {
+    "tStartMs": 65220,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Zeilinger greatly advanced our understanding and practical application of the phenomenon"
+    } ]
+  }, {
+    "tStartMs": 70020,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "of quantum entanglement."
+    } ]
+  }, {
+    "tStartMs": 71160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Of course, we’ve talked about quantum entanglement once or twice in the past, but today I want"
+    } ]
+  }, {
+    "tStartMs": 77400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "to tell you all about the series of brilliant\nexperiments celebrated by this year’s Nobel."
+    } ]
+  }, {
+    "tStartMs": 82320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Let’s start with a simple thought experiment."
+    } ]
+  }, {
+    "tStartMs": 84600,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "You have two balls - one black, one white."
+    } ]
+  }, {
+    "tStartMs": 87180,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "You close your eyes, shuffle the balls, and\nplace each in an identical box."
+    } ]
+  }, {
+    "tStartMs": 91440,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "You put the first box in a rocket and send\nit to the moon, while you keep the second"
+    } ]
+  }, {
+    "tStartMs": 96900,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "box with you on Earth."
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "While that box is closed, the ball on the\nmoon has a 50-50 chance of being black or"
+    } ]
+  }, {
+    "tStartMs": 103680,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "white."
+    } ]
+  }, {
+    "tStartMs": 104700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "You open your box and you instantly learn the color of the ball on the moon."
+    } ]
+  }, {
+    "tStartMs": 108900,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Did you cause information to travel faster\nthan light?"
+    } ]
+  }, {
+    "tStartMs": 111240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Of course not - the information about the\nballs colors was always there with the balls"
+    } ]
+  }, {
+    "tStartMs": 116040,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "- you just learned which was which."
+    } ]
+  }, {
+    "tStartMs": 118440,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Now imagine these are quantum balls \nwith entangled “quantum” colors."
+    } ]
+  }, {
+    "tStartMs": 123300,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "According to quantum mechanics, we not only \ndon’t know which is which until the box"
+    } ]
+  }, {
+    "tStartMs": 127980,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "is open, but the colors of the \nballs are fundamentally undefined."
+    } ]
+  }, {
+    "tStartMs": 133020,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Each ball is in a superposition state of maybe black-maybe white until a measurement is made."
+    } ]
+  }, {
+    "tStartMs": 138540,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Opening the box causes the observed ball to have to choose a color state, which then forces"
+    } ]
+  }, {
+    "tStartMs": 144600,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "the ball on the moon to choose the opposite."
+    } ]
+  }, {
+    "tStartMs": 146280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Now you really do seem to have an effect that travels faster than light, with the ball on"
+    } ]
+  }, {
+    "tStartMs": 151080,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "the moon switching from a superposition state to a defined state as soon as you make your"
+    } ]
+  }, {
+    "tStartMs": 155700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "observation."
+    } ]
+  }, {
+    "tStartMs": 156960,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "These “quantum balls” could be any particle from subatomic to molecular scale, and the"
+    } ]
+  }, {
+    "tStartMs": 163080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "entangled property could be spin, \nmomentum, or any other quantum property."
+    } ]
+  }, {
+    "tStartMs": 166680,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But why do we have to accept \nthis wacky interpretation?"
+    } ]
+  }, {
+    "tStartMs": 169440,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Is there any real difference in the result\nof the experiment if the color of the balls"
+    } ]
+  }, {
+    "tStartMs": 173880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "is defined at the beginning \nversus when the box is open?"
+    } ]
+  }, {
+    "tStartMs": 177480,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Why even propose this entanglement \nand superposition stuff?"
+    } ]
+  }, {
+    "tStartMs": 181620,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Well, because quantum mechanics \nin it's standard form says so."
+    } ]
+  }, {
+    "tStartMs": 187080,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Quantum systems are described by a mathematical object called the wavefunction, which evolves"
+    } ]
+  }, {
+    "tStartMs": 191940,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "according to the Schrodinger equation."
+    } ]
+  }, {
+    "tStartMs": 193500,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The joint wavefunction of two entangled objects only contains information about the correlation"
+    } ]
+  }, {
+    "tStartMs": 199260,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "between those objects, not \nabout their specific values."
+    } ]
+  }, {
+    "tStartMs": 202260,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "They only gain specific values when \nobserved and the wavefunction “collapses”."
+    } ]
+  }, {
+    "tStartMs": 208080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "For our quantum balls to know their own color the whole time, there would need to be extra"
+    } ]
+  }, {
+    "tStartMs": 212760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "information not contained in their wavefunction."
+    } ]
+  }, {
+    "tStartMs": 216060,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "There are a few different interpretations\nof quantum mechanics that allow this hidden"
+    } ]
+  }, {
+    "tStartMs": 221040,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "information, and they’re collectively known\nas hidden variable theories."
+    } ]
+  }, {
+    "tStartMs": 226200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Einstein thought that such hidden information must exist, while others like Neils Bohr insisted"
+    } ]
+  }, {
+    "tStartMs": 232920,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "that the wavefunction was the complete \ndescription of a quantum system."
+    } ]
+  }, {
+    "tStartMs": 236880,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "In almost every scientific debate, \nphysicists side with Einstein."
+    } ]
+  }, {
+    "tStartMs": 241620,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "But not in this case."
+    } ]
+  }, {
+    "tStartMs": 243540,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "Quantum mechanics was just too successful, and Neils Bohr was aggressive in pushing his"
+    } ]
+  }, {
+    "tStartMs": 249480,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Copenhagen interpretation."
+    } ]
+  }, {
+    "tStartMs": 250860,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "It became dogma, and for a while it was career suicide to question the orthodoxy, for example"
+    } ]
+  }, {
+    "tStartMs": 258120,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "by researching hidden variable theories."
+    } ]
+  }, {
+    "tStartMs": 261480,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "David Bohm got the worst of that with his\npilot wave theory, which we talk about in"
+    } ]
+  }, {
+    "tStartMs": 266460,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "another video."
+    } ]
+  }, {
+    "tStartMs": 266940,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "John Stuart Bell was another \nhidden-variable heretic."
+    } ]
+  }, {
+    "tStartMs": 270360,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "This Irish physicist didn’t necessarily\nbelieve in them, but he wasn’t content to"
+    } ]
+  }, {
+    "tStartMs": 275040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "just accept the Copenhagen interpretation\nwithout properly testing it."
+    } ]
+  }, {
+    "tStartMs": 278160,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "And he also realized that one could reveal\nthe existence of hidden information without"
+    } ]
+  }, {
+    "tStartMs": 283260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "actually measuring that information, or even testing a specific hidden variables theory."
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We’ve talked about these Bell tests previously, if you want to see exactly how this works."
+    } ]
+  }, {
+    "tStartMs": 294240,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "In short though, in 1964 Bell came up with\nhis Bell theorem, which shows that there should"
+    } ]
+  }, {
+    "tStartMs": 300780,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "be a particular statistical relationship between the measured properties of entangled particles"
+    } ]
+  }, {
+    "tStartMs": 305580,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "if the particles themselves hold the information about their internal states, and a different"
+    } ]
+  }, {
+    "tStartMs": 311460,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "statistical relationship if those properties \nreally are decided at the moment of measurement."
+    } ]
+  }, {
+    "tStartMs": 316680,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "In particular, the so-called Bell inequality\nwould be true if there are hidden variables"
+    } ]
+  }, {
+    "tStartMs": 323280,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "contained in the particles, \nand violated otherwise."
+    } ]
+  }, {
+    "tStartMs": 326340,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Finally there was a real test that we \ncould use to check for hidden variables."
+    } ]
+  }, {
+    "tStartMs": 331500,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "However, it wasn’t until 1969 that the first \nBell test was performed - and that was by one of"
+    } ]
+  }, {
+    "tStartMs": 337440,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "our 2022 Nobel laureates, John Clauser."
+    } ]
+  }, {
+    "tStartMs": 341820,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "So why did it take 5 years?"
+    } ]
+  }, {
+    "tStartMs": 343200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, Bell tests are really hard to perform."
+    } ]
+  }, {
+    "tStartMs": 346200,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "They require the production of entangled states, which have to be manipulated and measured"
+    } ]
+  }, {
+    "tStartMs": 351600,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "without breaking the exceedingly delicate\ncorrelation between the particles."
+    } ]
+  }, {
+    "tStartMs": 356100,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "But also, to do a Bell test was to question\nthe status quo, so it was hard to get support"
+    } ]
+  }, {
+    "tStartMs": 362280,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "for the significant effort required."
+    } ]
+  }, {
+    "tStartMs": 365220,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Clauser talks about the time he proposed his idea for the experiment to Richard Feynman,"
+    } ]
+  }, {
+    "tStartMs": 370800,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "who promptly kicked him out of his office."
+    } ]
+  }, {
+    "tStartMs": 372840,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Apparently Feynman thought it was pointless because standard quantum mechanics was clearly"
+    } ]
+  }, {
+    "tStartMs": 378420,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "correct."
+    } ]
+  }, {
+    "tStartMs": 379560,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Clauser and his student, Stewart Jay \nFreedman were not to be deterred."
+    } ]
+  }, {
+    "tStartMs": 383700,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "They had figured out a brilliant \nexperiment and were going to try it."
+    } ]
+  }, {
+    "tStartMs": 387540,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "It went like this."
+    } ]
+  }, {
+    "tStartMs": 389220,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "They blasted a beam of calcium atoms \nthrough the intense light of an arc lamp."
+    } ]
+  }, {
+    "tStartMs": 393660,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "That light excited electrons in calcium atoms to higher energy level and they would then"
+    } ]
+  }, {
+    "tStartMs": 399120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "drop down again, with the lost \nenergy carried away by photons."
+    } ]
+  }, {
+    "tStartMs": 402720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "One of the possible electron transitions was between two states that had zero quantum spin,"
+    } ]
+  }, {
+    "tStartMs": 408480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and which also resulted in \nthe creation of two photons."
+    } ]
+  }, {
+    "tStartMs": 411360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Spin is the quantum version of angular momentum."
+    } ]
+  }, {
+    "tStartMs": 414480,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Because the atom’s spin hadn’t changed\nin this transition, in order to conserve angular"
+    } ]
+  }, {
+    "tStartMs": 420300,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "momentum the pair of photons needed to have a total spin of zero, which translates to"
+    } ]
+  }, {
+    "tStartMs": 425400,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "them having opposite circular polarizations."
+    } ]
+  }, {
+    "tStartMs": 429420,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Standard quantum mechanics says that those polarizations are undefined until measurement,"
+    } ]
+  }, {
+    "tStartMs": 434880,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "when they will always turn out \nto be opposite to each other."
+    } ]
+  }, {
+    "tStartMs": 438600,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Hidden variable theories, on the other hand, \nallow the polarization to be set at the moment"
+    } ]
+  }, {
+    "tStartMs": 444180,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "the photons are created."
+    } ]
+  }, {
+    "tStartMs": 445860,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "By measuring these polarizations by passing both photons through polarizers, Clauser and"
+    } ]
+  }, {
+    "tStartMs": 451740,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Freedman could perform a Bell test."
+    } ]
+  }, {
+    "tStartMs": 453480,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "Bell inequality was convincingly violated in their experiments, which means quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 460320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "was working exactly as expected, implying\nno hidden variables."
+    } ]
+  }, {
+    "tStartMs": 464280,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Just as Feynman had told them."
+    } ]
+  }, {
+    "tStartMs": 466620,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "But the case wasn’t quite closed."
+    } ]
+  }, {
+    "tStartMs": 468960,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "John Bell himself pointed out that hidden variables could still be a thing, even if"
+    } ]
+  }, {
+    "tStartMs": 474660,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "the Bell test said otherwise."
+    } ]
+  }, {
+    "tStartMs": 476760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The result of a quantum measurement depends on how you make the measurement - in the case"
+    } ]
+  }, {
+    "tStartMs": 481560,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "of this experiment, the orientation of the\npolarizers determined which polarizations"
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "the experiment was sensitive to."
+    } ]
+  }, {
+    "tStartMs": 488700,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Bell’s theorem assumes the choice of measurement is completely free and independent of the"
+    } ]
+  }, {
+    "tStartMs": 494940,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "particle creation process."
+    } ]
+  }, {
+    "tStartMs": 496920,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "But in Clauser’s experiment, the polarizers were fixed in position through the whole experiment."
+    } ]
+  }, {
+    "tStartMs": 502140,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Their orientation was already decided \nwhen the entangled photons were produced."
+    } ]
+  }, {
+    "tStartMs": 507240,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "So what if that orientation has some influence on the polarization direction of the photons"
+    } ]
+  }, {
+    "tStartMs": 513720,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "at the moment of their creation?"
+    } ]
+  }, {
+    "tStartMs": 515100,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Then the photons might carry hidden information about the eventual measurement direction the"
+    } ]
+  }, {
+    "tStartMs": 521100,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "whole time and sort of conspire to look like standard quantum mechanics, even if they had real"
+    } ]
+  }, {
+    "tStartMs": 526380,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "hidden variables."
+    } ]
+  }, {
+    "tStartMs": 527400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "To close this loophole it would be necessary to somehow set the measurement direction after"
+    } ]
+  }, {
+    "tStartMs": 533160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the photons were produced."
+    } ]
+  }, {
+    "tStartMs": 535200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "That sounds incredibly difficult, because\nin case you didn’t know photons move pretty"
+    } ]
+  }, {
+    "tStartMs": 540000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "fast."
+    } ]
+  }, {
+    "tStartMs": 541020,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "But when you’re a brilliant experimentalist,\n“incredibly difficult” is your bread and"
+    } ]
+  }, {
+    "tStartMs": 546180,
+    "dDurationMs": 240,
+    "segs": [ {
+      "utf8": "butter."
+    } ]
+  }, {
+    "tStartMs": 546420,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And so we meet our second laureate, Alain\nAspect."
+    } ]
+  }, {
+    "tStartMs": 551580,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Aspect’s setup was very similar to Clauser's, with a beam of calcium atoms excited by light"
+    } ]
+  }, {
+    "tStartMs": 556800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- this time a laser rather than an arc lamp."
+    } ]
+  }, {
+    "tStartMs": 559860,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But the main difference was in the polarizers."
+    } ]
+  }, {
+    "tStartMs": 562920,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "In order to change the measurement direction of a polarizer you have to rotate it, but"
+    } ]
+  }, {
+    "tStartMs": 568380,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "it’s kinda hard to do that faster than a\nphoton can travel across your optical bench."
+    } ]
+  }, {
+    "tStartMs": 573600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Aspect found a way to randomize measurement direction without moving the polarizers at"
+    } ]
+  }, {
+    "tStartMs": 578880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "all.\nThe trick was to use a type of transducer."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "In this case a chunk of quartz that bends\nthe path of light in different ways depending"
+    } ]
+  }, {
+    "tStartMs": 587760,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "on whether the quartz is vibrating, and that\nvibration can be turned on and off with an"
+    } ]
+  }, {
+    "tStartMs": 593160,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "electric current."
+    } ]
+  }, {
+    "tStartMs": 594960,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "That means our entangled photons could be sent to different polarizers depending on"
+    } ]
+  }, {
+    "tStartMs": 600600,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "an electrical switch - a switch that could\nbe turned on and off quickly and randomly"
+    } ]
+  }, {
+    "tStartMs": 605280,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "in the tiny interval between the creation\nof the photon and their arrival at the transducer."
+    } ]
+  }, {
+    "tStartMs": 610500,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "All of this means that the photons can’t\nknow how they’re going to be measured at"
+    } ]
+  }, {
+    "tStartMs": 615600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "the moment of their creation, which if you\nrecall was the potential loophole in Clauser"
+    } ]
+  }, {
+    "tStartMs": 620520,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and Freedman’s experiment."
+    } ]
+  }, {
+    "tStartMs": 622320,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "The Bell inequalities were also violated in\nAlain Aspect’s experiment, dealing another"
+    } ]
+  }, {
+    "tStartMs": 628440,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "blow to hidden variable theories."
+    } ]
+  }, {
+    "tStartMs": 631140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So did Aspect close the final loophole?"
+    } ]
+  }, {
+    "tStartMs": 633540,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Not quite."
+    } ]
+  }, {
+    "tStartMs": 635340,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "There are two ways that the Bell inequalities could be violated without quantum entanglement"
+    } ]
+  }, {
+    "tStartMs": 639480,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "being as spooky as Einstein feared."
+    } ]
+  }, {
+    "tStartMs": 642420,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Well, these ways are actually still \nspooky, but in different ways."
+    } ]
+  }, {
+    "tStartMs": 646980,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "The first I already mentioned: what if the\nchoice of measurement is not independent of"
+    } ]
+  }, {
+    "tStartMs": 651840,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "the creation of the entangled particles?"
+    } ]
+  }, {
+    "tStartMs": 653400,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Aspect’s experiment seemed to eliminate\nthat possibility by making that choice after"
+    } ]
+  }, {
+    "tStartMs": 658140,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "the particles were produced."
+    } ]
+  }, {
+    "tStartMs": 660300,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But what if the random number \ngenerator wasn’t really random?"
+    } ]
+  }, {
+    "tStartMs": 665220,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "After all, signals could have travelled to\nboth the calcium atom and the random number"
+    } ]
+  }, {
+    "tStartMs": 669360,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "generator from some common influence, causing them to conspire to violate Bell inequalities."
+    } ]
+  }, {
+    "tStartMs": 676500,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This is the idea is called \nsuperdeterminism - basically  "
+    } ]
+  }, {
+    "tStartMs": 680340,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "stating that the particles are not only correlated"
+    } ]
+  }, {
+    "tStartMs": 682740,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "with each other, but also with the random\nnumber generator or the physicist choosing"
+    } ]
+  }, {
+    "tStartMs": 686700,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "the measurement direction,  "
+    } ]
+  }, {
+    "tStartMs": 688320,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "so ultimately the universe has no \nchoice but to always hide the existence"
+    } ]
+  }, {
+    "tStartMs": 694020,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "of hidden variables."
+    } ]
+  }, {
+    "tStartMs": 695160,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Now we’ve discussed superdeterminism before, so you can decide for yourself whether that’s"
+    } ]
+  }, {
+    "tStartMs": 700380,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "a reasonable idea."
+    } ]
+  }, {
+    "tStartMs": 701340,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "But John Bell certainly did \nnot think it was plausible."
+    } ]
+  }, {
+    "tStartMs": 706080,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "But even without superdeterminism there’s\nanother loophole."
+    } ]
+  }, {
+    "tStartMs": 709800,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Bell’s theorem can be used to rule out the\nexistence of local hidden variables."
+    } ]
+  }, {
+    "tStartMs": 715260,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "It can rule out that the secret information about the entangled particle states lives"
+    } ]
+  }, {
+    "tStartMs": 720720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "in the particles themselves - that’s what\nlocal means here."
+    } ]
+  }, {
+    "tStartMs": 724500,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But there could still be hidden variables\nthat exist in the global wavefunction of the"
+    } ]
+  }, {
+    "tStartMs": 728460,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "entangled particles."
+    } ]
+  }, {
+    "tStartMs": 729900,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Clauser and Aspect’s experiments ruled out local hidden variables, but that may mean"
+    } ]
+  }, {
+    "tStartMs": 735420,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "they ruled out locality rather \nthan hidden information."
+    } ]
+  }, {
+    "tStartMs": 738300,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Any violation of locality still means that\nsome sort of influence travels faster than"
+    } ]
+  }, {
+    "tStartMs": 744420,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "light - the sort of spookiness that Einstein\nhated."
+    } ]
+  }, {
+    "tStartMs": 747240,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "One way or another, our Nobel laureates have revealed a universe stranger than many are"
+    } ]
+  }, {
+    "tStartMs": 753180,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "comfortable with."
+    } ]
+  }, {
+    "tStartMs": 753780,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "OK, what about our third \nlaureate, Anton Zeilinger?"
+    } ]
+  }, {
+    "tStartMs": 757740,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Clauser and Aspect's work was all about testing the fundamentals of quantum mechanics - about"
+    } ]
+  }, {
+    "tStartMs": 762900,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "getting closer to what its weirdness \nis really telling us about the world."
+    } ]
+  }, {
+    "tStartMs": 767160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But their efforts also led to very practical\nresults."
+    } ]
+  }, {
+    "tStartMs": 770160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "They, and others like them, advanced our ability to create and manipulate entangled quantum"
+    } ]
+  }, {
+    "tStartMs": 775560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "states.\nAnd Zeilinger put these to good use."
+    } ]
+  }, {
+    "tStartMs": 777960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "He may be the most famous for \ndemonstrating quantum teleportation."
+    } ]
+  }, {
+    "tStartMs": 782040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "This is a phenomenon in which a quantum state is transferred between two particles via an"
+    } ]
+  }, {
+    "tStartMs": 787800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "interrmediate particle that’s entangled\nwith them both."
+    } ]
+  }, {
+    "tStartMs": 790860,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "We’ll save the awesome details for another time."
+    } ]
+  }, {
+    "tStartMs": 793080,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The important thing to know right now is that quantum teleportation and the corresponding"
+    } ]
+  }, {
+    "tStartMs": 797220,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "ability to move around quantum information is critical for quantum computers."
+    } ]
+  }, {
+    "tStartMs": 801780,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Zeilinger is responsible for a number of advances in manipulating entanglement, and has applied"
+    } ]
+  }, {
+    "tStartMs": 807900,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "these to quantum cryptography and to \nthe development of quantum computers."
+    } ]
+  }, {
+    "tStartMs": 812700,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "This is a rare episode of Space Time in \nwhich both Einstein and Feynman were wrong."
+    } ]
+  }, {
+    "tStartMs": 818580,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Einstein because, one way or another, \nthe quantum world is indeed quite spooky."
+    } ]
+  }, {
+    "tStartMs": 823560,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "And Feynman was right in thinking that Clauser would never disprove standard quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 829260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "- but he was wrong in thinking \nthat Clauser shouldn’t try."
+    } ]
+  }, {
+    "tStartMs": 833160,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Because science only moves forward when we try to push its theories to the breaking point."
+    } ]
+  }, {
+    "tStartMs": 838020,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "We learn something whether they break or not, and perhaps we find technologies that will be"
+    } ]
+  }, {
+    "tStartMs": 844560,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "useful in ways no one could have predicted."
+    } ]
+  }, {
+    "tStartMs": 846900,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "In this case, our better understanding of\nquantum entanglement has brought us very close"
+    } ]
+  }, {
+    "tStartMs": 851580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "to the age of quantum computing \nand quantum cryptography."
+    } ]
+  }, {
+    "tStartMs": 854820,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "All because a few scientists were willing \nto challenge the status quo, and seek the"
+    } ]
+  }, {
+    "tStartMs": 861540,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "hidden secrets of space time."
+    } ]
+  }, {
+    "tStartMs": 864000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Before we get to comments two things: First it’s that time of year again where we ask"
+    } ]
+  }, {
+    "tStartMs": 868560,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "you to take the annual PBS \nDigital Studios audience survey."
+    } ]
+  }, {
+    "tStartMs": 871860,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The space time audience has always been amazing at filling out the survey and we’d love"
+    } ]
+  }, {
+    "tStartMs": 876900,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "to continue the trend!"
+    } ]
+  }, {
+    "tStartMs": 877920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "By doing so you can help us pick out what\nnew shows should be made and what types of"
+    } ]
+  }, {
+    "tStartMs": 882120,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "topics you’d like new shows to cover!"
+    } ]
+  }, {
+    "tStartMs": 884640,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It’ll only take a few minutes but it’s\nextremely valuable to us."
+    } ]
+  }, {
+    "tStartMs": 888120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "The whole network really dives deep into the data and it helps give us tremendous insights"
+    } ]
+  }, {
+    "tStartMs": 893280,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "into what you’re thinking."
+    } ]
+  }, {
+    "tStartMs": 894360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There is a link in the \ndescription - thanks in advance!"
+    } ]
+  }, {
+    "tStartMs": 898320,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "As always, we like to thank \nall of our Patreon sponsors"
+    } ]
+  }, {
+    "tStartMs": 901800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "but today I want to give a special shoutout \nin honor of Aleksander Henry Sajewski."
+    } ]
+  }, {
+    "tStartMs": 908160,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Alek passed away at a young age, but by all accounts was a true scientist his entire life."
+    } ]
+  }, {
+    "tStartMs": 914880,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Diving into astrophysics and the sciences when  "
+    } ]
+  }, {
+    "tStartMs": 917580,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "he entered college he emerged as a professional"
+    } ]
+  }, {
+    "tStartMs": 920040,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "chemist and launched into a \ncareer as staff scientists at ALK."
+    } ]
+  }, {
+    "tStartMs": 924960,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "He was such a deep lover of the \nmysteries of physics and space he named"
+    } ]
+  }, {
+    "tStartMs": 929400,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "his hamster Sputnik and his fish was named Quark."
+    } ]
+  }, {
+    "tStartMs": 933120,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "So Alek, from all of us here at Space Time,\nwe thank you for the light that you so clearly"
+    } ]
+  }, {
+    "tStartMs": 940260,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "brought to science and to your community."
+    } ]
+  }, {
+    "tStartMs": 943320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "We hope you find peace among the stars."
+    } ]
+  }, {
+    "tStartMs": 946560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Today we’re doing comments for the last\ntwo episodes."
+    } ]
+  }, {
+    "tStartMs": 949080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "There was the one about using the Sun’s\ngravitational field as a lens to take pictures"
+    } ]
+  }, {
+    "tStartMs": 953400,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "of distant planets."
+    } ]
+  }, {
+    "tStartMs": 954540,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "And then the one were were went through the entire Lagrangian equation of the standard"
+    } ]
+  }, {
+    "tStartMs": 959280,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "model of particle physics."
+    } ]
+  }, {
+    "tStartMs": 961140,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Let’s start with the solar gravitational\nlens."
+    } ]
+  }, {
+    "tStartMs": 964920,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Antoine Micard brought up an important point: how do the spacecraft send their messages"
+    } ]
+  }, {
+    "tStartMs": 971040,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "back home?"
+    } ]
+  }, {
+    "tStartMs": 972120,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "After all, we’re having a hard time keeping\ntrack of the Voyager’s faint signals, and"
+    } ]
+  }, {
+    "tStartMs": 977460,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the gravitational lens focal range is \nat least 4 times further than Voyager."
+    } ]
+  }, {
+    "tStartMs": 983220,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "This is a real technological \nchallenge - especially because  "
+    } ]
+  }, {
+    "tStartMs": 985920,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "we’ll be trying to send actual images"
+    } ]
+  }, {
+    "tStartMs": 988020,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "rather than simple numerical \nmeasurements and status updates."
+    } ]
+  }, {
+    "tStartMs": 991620,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "But by the time these things launch it’ll\nbe at least half a century since voyager,"
+    } ]
+  }, {
+    "tStartMs": 997200,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "so we’ll have that much advancement in  "
+    } ]
+  }, {
+    "tStartMs": 999540,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "the technology of power source \nand storage and transmission."
+    } ]
+  }, {
+    "tStartMs": 1004400,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And also, it may be possible to \nuse the solar sails themselves,  "
+    } ]
+  }, {
+    "tStartMs": 1009080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "the ones that propelled these craft to their"
+    } ]
+  }, {
+    "tStartMs": 1011600,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "position as antennae, which has got\nto help."
+    } ]
+  }, {
+    "tStartMs": 1015260,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Vaka has two great questions."
+    } ]
+  }, {
+    "tStartMs": 1017120,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "what is the range limit for this technique?"
+    } ]
+  }, {
+    "tStartMs": 1020900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "What exoplanets should we do first?"
+    } ]
+  }, {
+    "tStartMs": 1023000,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Well there’s no real range limit in terms of \nwhat planets will be brought to a focus in"
+    } ]
+  }, {
+    "tStartMs": 1028820,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the sun’s gravitational focal range."
+    } ]
+  }, {
+    "tStartMs": 1030860,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "In principle you could look at planets in\nother galaxies."
+    } ]
+  }, {
+    "tStartMs": 1033740,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "The real limit is the amount of light you receive, and that would be too low beyond a certain"
+    } ]
+  }, {
+    "tStartMs": 1039980,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "distance."
+    } ]
+  }, {
+    "tStartMs": 1040340,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "I couldn’t find a direct calculation but\nthe NASA report I cited uses 100 LY as their"
+    } ]
+  }, {
+    "tStartMs": 1046640,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "canonical number, so I think the idea is that this works on the scales of hundreds of light"
+    } ]
+  }, {
+    "tStartMs": 1051260,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "years, but not many 1000s of \nlight years type scales. And "
+    } ]
+  }, {
+    "tStartMs": 1055520,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "which planets do we do first?"
+    } ]
+  }, {
+    "tStartMs": 1057200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The report talks about Earth-mass planets\naround Sun-like stars, of which there are"
+    } ]
+  }, {
+    "tStartMs": 1062000,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "plenty."
+    } ]
+  }, {
+    "tStartMs": 1062420,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Maybe if we can find some that have other  "
+    } ]
+  }, {
+    "tStartMs": 1065000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "commonalities with Earth - \nsimilar age system, similar heavy"
+    } ]
+  }, {
+    "tStartMs": 1069200,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "element abundances, maybe gas \ngiants in the outer system."
+    } ]
+  }, {
+    "tStartMs": 1072260,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "But beyond that it may be a roll of the die."
+    } ]
+  }, {
+    "tStartMs": 1075440,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Several of you commented to say that you enjoyed seeing the Standard Model Lagrangian laid"
+    } ]
+  }, {
+    "tStartMs": 1080840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "out in full, even though you couldn’t \nnecessarily follow the math."
+    } ]
+  }, {
+    "tStartMs": 1085400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Well, that is honestly a relief."
+    } ]
+  }, {
+    "tStartMs": 1087500,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Because that episode was a bit of an experiment."
+    } ]
+  }, {
+    "tStartMs": 1090140,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "There’s absolutely no way to explain an\nequation this complex in 10 minutes - it takes"
+    } ]
+  }, {
+    "tStartMs": 1095420,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "several years of coursework to get close to being able to use the standard model Lagrangian to do"
+    } ]
+  }, {
+    "tStartMs": 1100220,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "real calculations."
+    } ]
+  }, {
+    "tStartMs": 1101060,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "The idea here was to give you a taste of its\ncontents, and perhaps a starting point for"
+    } ]
+  }, {
+    "tStartMs": 1107360,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "further investigation."
+    } ]
+  }, {
+    "tStartMs": 1108380,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "So I’m delighted and relieved that \nyou found it useful in that way."
+    } ]
+  }, {
+    "tStartMs": 1113540,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "A few of you wondered whether the ghosts in the standard model Lagrangian might be a hint"
+    } ]
+  }, {
+    "tStartMs": 1118100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "at new physics beyond the standard model."
+    } ]
+  }, {
+    "tStartMs": 1122060,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Well perhaps, but I'm not sure. "
+    } ]
+  }, {
+    "tStartMs": 1123470,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "I think it’s more likely that the ghosts "
+    } ]
+  }, {
+    "tStartMs": 1125900,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "could be eliminated with \na more elegant formulation"
+    } ]
+  }, {
+    "tStartMs": 1128720,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "of the theory."
+    } ]
+  }, {
+    "tStartMs": 1129560,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Perhaps they’re analogous to the spurious\nspaces that appear when you choose a coordinate"
+    } ]
+  }, {
+    "tStartMs": 1135080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "system whose dimensions extend \nbeyond the physical world."
+    } ]
+  }, {
+    "tStartMs": 1137600,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "For example, there are black hole coordinate systems that seem to imply alternate universes"
+    } ]
+  }, {
+    "tStartMs": 1143420,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "beyond the singularity - but more likely that’s just an artifact of extending the math too"
+    } ]
+  }, {
+    "tStartMs": 1148820,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "far."
+    } ]
+  }, {
+    "tStartMs": 1149660,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "On the other hand, I’m not a particle physicist, as is evident from my analogy which has nothing"
+    } ]
+  }, {
+    "tStartMs": 1155000,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "to do with particle physics."
+    } ]
+  }, {
+    "tStartMs": 1156140,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "But in general a lot of problematic features\nappear in quantum field theory that have to"
+    } ]
+  }, {
+    "tStartMs": 1161480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "be removed by hand - for example, various "
+    } ]
+  }, {
+    "tStartMs": 1164120,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "infinities that are \nhand-squashed by renormalization."
+    } ]
+  }, {
+    "tStartMs": 1168200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The equations then work perfectly, which suggest  "
+    } ]
+  }, {
+    "tStartMs": 1171560,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "that the infinities don't belong there \nor don't represent anything physical."
+    } ]
+  }, {
+    "tStartMs": 1175580,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "However it would be nice if this stuff could be removed without these hacks."
+    } ]
+  }, {
+    "tStartMs": 1181340,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "05TE informs us that if you recite the full \nLagrangian equation three times in front of"
+    } ]
+  }, {
+    "tStartMs": 1186680,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "a mirror, the particle ghosts will appear."
+    } ]
+  }, {
+    "tStartMs": 1189260,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Well I tried and it works."
+    } ]
+  }, {
+    "tStartMs": 1192920,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "As you finish the final Higgs kinetic term,\nthe scene multiplies as the hermitian conjugate"
+    } ]
+  }, {
+    "tStartMs": 1199940,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "breaks off from the rest of reality, slipping\nbackwards into this infinite regress of imaginary"
+    } ]
+  }, {
+    "tStartMs": 1205280,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "universes."
+    } ]
+  }, {
+    "tStartMs": 1206480,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Although, to be fair, each of the 3 readings\ntook like 20 minutes while staring at my own"
+    } ]
+  }, {
+    "tStartMs": 1212960,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "face, so it could be I \nhallucinated the whole thing."
+    } ]
+  } ]
+}

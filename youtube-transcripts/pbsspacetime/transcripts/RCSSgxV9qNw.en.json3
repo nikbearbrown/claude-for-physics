@@ -1,0 +1,1297 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Thank you to Squarespace for Supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 2880,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "It’s the job of physicists to worry about\nnumbers, but there’s one number that physicists"
+    } ]
+  }, {
+    "tStartMs": 8700,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "have stressed about more than any other."
+    } ]
+  }, {
+    "tStartMs": 11940,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "That number is 0.00729735256 - approximately\n1/137."
+    } ]
+  }, {
+    "tStartMs": 19860,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "This is the fine structure constant, and it\nappears everywhere in our equations of quantum"
+    } ]
+  }, {
+    "tStartMs": 26160,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "physics, and we’re still trying to figure\nout why."
+    } ]
+  }, {
+    "tStartMs": 30360,
+    "dDurationMs": 9480,
+    "segs": [ {
+      "utf8": "The fine structure constant, designated as\nthe greek letter alpha, just looks like one"
+    } ]
+  }, {
+    "tStartMs": 39840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "of the many constants of nature \nthat power our laws of physics."
+    } ]
+  }, {
+    "tStartMs": 43200,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Like the speed of light, the gravitational\nconstant, or Planck’s constant."
+    } ]
+  }, {
+    "tStartMs": 48840,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "But there’s something so weird and so compelling \nabout this number that many of the founders"
+    } ]
+  }, {
+    "tStartMs": 55140,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "of quantum mechanics obsessed over it."
+    } ]
+  }, {
+    "tStartMs": 57660,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Paul Dirac called it “the most \nfundamental unsolved problem in physics.”"
+    } ]
+  }, {
+    "tStartMs": 63180,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Wolfgang Pauli said, “When I die my first\nquestion to the Devil will be: What is the"
+    } ]
+  }, {
+    "tStartMs": 70380,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "meaning of the fine structure constant?”"
+    } ]
+  }, {
+    "tStartMs": 72360,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Even Richard Feyman pondered its mysteries\nhis entire life."
+    } ]
+  }, {
+    "tStartMs": 75780,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "In 1985 he wrote that \"all good theoretical \nphysicists put this number up on their wall"
+    } ]
+  }, {
+    "tStartMs": 81360,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and worry about it.\""
+    } ]
+  }, {
+    "tStartMs": 83160,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But what is it about this one number that\nmakes it the worthy subject of the obsession"
+    } ]
+  }, {
+    "tStartMs": 88080,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "of savants?"
+    } ]
+  }, {
+    "tStartMs": 90300,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Before we get to that, let me tell you the\nstory of its discovery."
+    } ]
+  }, {
+    "tStartMs": 94380,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "As with much of quantum mechanics, it started \nwith us watching the light produced as electrons"
+    } ]
+  }, {
+    "tStartMs": 100680,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "flicked between energy levels in atoms."
+    } ]
+  }, {
+    "tStartMs": 103140,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "This process results in the emission of photons \nof specific energies that we observe as spectral"
+    } ]
+  }, {
+    "tStartMs": 109440,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "lines - sharp peaks in the light observed\nwhen we break it up into a spectrum of different"
+    } ]
+  }, {
+    "tStartMs": 114540,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "wavelengths."
+    } ]
+  }, {
+    "tStartMs": 115260,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "For example this is the spectrum of Hydrogen."
+    } ]
+  }, {
+    "tStartMs": 118080,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Hydrogen atoms only emit light with these\nspecific energies."
+    } ]
+  }, {
+    "tStartMs": 122220,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Other elements have other spectral lines."
+    } ]
+  }, {
+    "tStartMs": 124320,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Explaining spectral lines was a major driver \nof the development of quantum mechanics, and"
+    } ]
+  }, {
+    "tStartMs": 131520,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "one of its first great successes, first with \nthe Bohr model explaining hydrogen lines,"
+    } ]
+  }, {
+    "tStartMs": 137460,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "then the Schrodinger equation for heavier\nelements."
+    } ]
+  }, {
+    "tStartMs": 141120,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "But there was a problem."
+    } ]
+  }, {
+    "tStartMs": 142620,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "As our measurement apparatus improved, we saw \nthat the single spectral lines were actually"
+    } ]
+  }, {
+    "tStartMs": 147960,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "a little off the calculated values, and moreover \neach single line was revealed to be composed"
+    } ]
+  }, {
+    "tStartMs": 153540,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "of two lines at almost but \nnot quite identical energies."
+    } ]
+  }, {
+    "tStartMs": 156960,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "It was Arnold Sommerfeld who managed to explain \nthe discrepancy by including the effects of"
+    } ]
+  }, {
+    "tStartMs": 163080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Einstein’s still-new relativity, as well\nas the fact that the energy levels of electrons"
+    } ]
+  }, {
+    "tStartMs": 168360,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "with opposite spins are separated slightly\nby their interaction with their own orbital"
+    } ]
+  }, {
+    "tStartMs": 173700,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "magnetic fields."
+    } ]
+  }, {
+    "tStartMs": 175140,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Sommerfeld found something peculiar: that \nthe difference in energy between the fine"
+    } ]
+  }, {
+    "tStartMs": 181380,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "lines was always a multiple of one particular \nnumber: the square of the charge of the electron,"
+    } ]
+  }, {
+    "tStartMs": 188280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "divided by four times pi, the permittivity\nof free space, Planck's constant and the speed"
+    } ]
+  }, {
+    "tStartMs": 194040,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "of light."
+    } ]
+  }, {
+    "tStartMs": 195300,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "OK, big deal."
+    } ]
+  }, {
+    "tStartMs": 196260,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "We see combinations of these sorts of important \nconstants throughout the laws of physics."
+    } ]
+  }, {
+    "tStartMs": 201120,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "But the weird thing with this particular \ncombination is that it has no units."
+    } ]
+  }, {
+    "tStartMs": 207360,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "How can that be?"
+    } ]
+  }, {
+    "tStartMs": 208440,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "The charge of the electron is in Couloumbs, \nthe speed of light in meters per second,"
+    } ]
+  }, {
+    "tStartMs": 213540,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "vacuum permittivity and Planck's constant\nalso have their units."
+    } ]
+  }, {
+    "tStartMs": 217320,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "But when you bring these together all units\ncompletely cancel out."
+    } ]
+  }, {
+    "tStartMs": 221760,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "We’re left with just a number - a pure number."
+    } ]
+  }, {
+    "tStartMs": 225480,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "This number just happens to be 1/137.035999,\nthe fine structure constant."
+    } ]
+  }, {
+    "tStartMs": 234360,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "If this number only appeared in the formula \nfor the fine structure splitting of spectral"
+    } ]
+  }, {
+    "tStartMs": 239220,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "lines it would be just a fun oddity, except\nthis started to show up everywhere."
+    } ]
+  }, {
+    "tStartMs": 245160,
+    "dDurationMs": 8340,
+    "segs": [ {
+      "utf8": "For example, the repulsive energy between\ntwo electrons is 137 smaller than a photon"
+    } ]
+  }, {
+    "tStartMs": 253500,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "with wavelength equal to the \ndistance between the electrons."
+    } ]
+  }, {
+    "tStartMs": 257040,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "And the orbital speed of an electron in the\nground state of the Bohr model of the hydrogen"
+    } ]
+  }, {
+    "tStartMs": 262020,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "atom is 137 slower than the speed of light."
+    } ]
+  }, {
+    "tStartMs": 266220,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "And the energy of that ground state electron \nis smaller than the rest mass energy of the"
+    } ]
+  }, {
+    "tStartMs": 271260,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "electron by a factor of 137 squared."
+    } ]
+  }, {
+    "tStartMs": 274860,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And that’s just the tip of the iceberg for\nthe appearances of the fine structure constant"
+    } ]
+  }, {
+    "tStartMs": 279180,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "in the laws of physics."
+    } ]
+  }, {
+    "tStartMs": 280260,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "There’s no obvious reason that these various \nratios of properties should all work out to"
+    } ]
+  }, {
+    "tStartMs": 285660,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "be 1/137, or 137 to some power."
+    } ]
+  }, {
+    "tStartMs": 290280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "It’s clear the number is trying to tell\nus something important about the universe,"
+    } ]
+  }, {
+    "tStartMs": 294360,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "and now more than 100 years after Sommerfeld \ndiscovered the structure constant, I’d like"
+    } ]
+  }, {
+    "tStartMs": 300720,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "to tell you what it means."
+    } ]
+  }, {
+    "tStartMs": 302460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Except … I can’t, because we still don’t\nknow."
+    } ]
+  }, {
+    "tStartMs": 307260,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But we do at least have a few ideas."
+    } ]
+  }, {
+    "tStartMs": 309900,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "To explore them, let's talk about couplings."
+    } ]
+  }, {
+    "tStartMs": 314460,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Whenever two particles get close to each other \nthere's a chance they will interact, and they"
+    } ]
+  }, {
+    "tStartMs": 319920,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "can interact in many different ways, which\nwe can visualize with Feynman Diagrams."
+    } ]
+  }, {
+    "tStartMs": 324300,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "We have an episode about those if you’re\ncurious."
+    } ]
+  }, {
+    "tStartMs": 327540,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "These diagrams are used to \nadd up the probabilities  "
+    } ]
+  }, {
+    "tStartMs": 330840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "of particles interacting by all the different"
+    } ]
+  }, {
+    "tStartMs": 333000,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "ways that interaction could happen."
+    } ]
+  }, {
+    "tStartMs": 334620,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Those probabilities depend on many things, \nlike the particles’ positions and momenta,"
+    } ]
+  }, {
+    "tStartMs": 340500,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "spins, charges, masses, etc."
+    } ]
+  }, {
+    "tStartMs": 342780,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "These factors multiply a sort of base probability \nto make the interaction more or less likely."
+    } ]
+  }, {
+    "tStartMs": 349560,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "That base probability comes from the coupling\nconstant or coupling strength for the interaction."
+    } ]
+  }, {
+    "tStartMs": 355560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And that’s exactly what the \nfine structure constant is:  "
+    } ]
+  }, {
+    "tStartMs": 358800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "it’s the coupling strength of the electromagnetic"
+    } ]
+  }, {
+    "tStartMs": 361920,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "force."
+    } ]
+  }, {
+    "tStartMs": 362340,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "The square of alpha is the base probability\nthat an electron will emit or absorb a photon,"
+    } ]
+  }, {
+    "tStartMs": 369360,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "or in the case of two electrons interacting by, \nsay Feynman diagrams - it’s the base probability"
+    } ]
+  }, {
+    "tStartMs": 375420,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "at each vertex, each interaction between electron \nand virtual photon, adjusted by all these"
+    } ]
+  }, {
+    "tStartMs": 381780,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "other parameters I mentioned."
+    } ]
+  }, {
+    "tStartMs": 383220,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So the Fine Structure Constant sets the \n\"strength\" of the electromagnetic force."
+    } ]
+  }, {
+    "tStartMs": 389220,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The more chance of interaction between the \nelectron and electromagnetic fields, the more"
+    } ]
+  }, {
+    "tStartMs": 394980,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "of an EM disturbance each electron will make."
+    } ]
+  }, {
+    "tStartMs": 397740,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So it’s starting to make sense why the fine\nstructure constant appears in all of these"
+    } ]
+  }, {
+    "tStartMs": 403020,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "formulas that depend on the electromagnetic force."
+    } ]
+  }, {
+    "tStartMs": 406800,
+    "dDurationMs": 8580,
+    "segs": [ {
+      "utf8": "But the big questions still remains: why does \nalpha take on the value that it does, and why does"
+    } ]
+  }, {
+    "tStartMs": 415380,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "this specific combination of other fundamental \nconstants come out to be exactly alpha?"
+    } ]
+  }, {
+    "tStartMs": 420600,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "When I say that alpha takes on a specific\nvalue, I’m not telling you everything."
+    } ]
+  }, {
+    "tStartMs": 425220,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Sometimes it doesn’t."
+    } ]
+  }, {
+    "tStartMs": 426900,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "In fact the fine structure constant isn’t\nas constant as it sounds."
+    } ]
+  }, {
+    "tStartMs": 430680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "It changes with the energy of the interaction."
+    } ]
+  }, {
+    "tStartMs": 433560,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "The higher the energy, the larger the constant."
+    } ]
+  }, {
+    "tStartMs": 436260,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "In the insane energies right after the Big\nBang, the coupling constant for the EM field"
+    } ]
+  }, {
+    "tStartMs": 441120,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "- which was then joined with the other forces, \nwould have been close to 1, but it quickly"
+    } ]
+  }, {
+    "tStartMs": 445980,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "dropped to lower values as the energy \ndropped and the forces separated."
+    } ]
+  }, {
+    "tStartMs": 450240,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "We’re now at the bottom of the energy scale, \nand the fine structure constant has bottomed"
+    } ]
+  }, {
+    "tStartMs": 456180,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "out at 1/137.035999."
+    } ]
+  }, {
+    "tStartMs": 460620,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But there’s no reason that we know of that \nit shouldn’t have dropped all the way to zero"
+    } ]
+  }, {
+    "tStartMs": 466140,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "rather than stopping at this minimum value - \nhowever we should be glad of this fact, because"
+    } ]
+  }, {
+    "tStartMs": 472140,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "an alpha=0 would mean no electromagnetism, \nand that would mean no fridge magnets, among"
+    } ]
+  }, {
+    "tStartMs": 478920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "other inconveniences like no atoms."
+    } ]
+  }, {
+    "tStartMs": 480960,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And actually we’re luckier than you think."
+    } ]
+  }, {
+    "tStartMs": 483420,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "This constant sets the size of atoms - a larger \nvalue means electrons would be closer to nuclei,"
+    } ]
+  }, {
+    "tStartMs": 491580,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "making them more tightly bound and less \nable to participate in chemical bonds."
+    } ]
+  }, {
+    "tStartMs": 496080,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "A smaller value would mean electrons were\nless tightly bound, making atoms and molecules"
+    } ]
+  }, {
+    "tStartMs": 501540,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "less stable."
+    } ]
+  }, {
+    "tStartMs": 502920,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "It’s been estimated that if the fine structure \nconstant were just a few percent different,"
+    } ]
+  }, {
+    "tStartMs": 508020,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "carbon would never have formed \ninside stars, making life impossible."
+    } ]
+  }, {
+    "tStartMs": 513180,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "We don’t know why our universe \nended up with this particular  "
+    } ]
+  }, {
+    "tStartMs": 516840,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "value for the fine structure constant or many"
+    } ]
+  }, {
+    "tStartMs": 520620,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "of the other fundamental constants."
+    } ]
+  }, {
+    "tStartMs": 521880,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Many physicists believe that these constants \nwere set more or less randomly at the beginning"
+    } ]
+  }, {
+    "tStartMs": 527760,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "of the universe."
+    } ]
+  }, {
+    "tStartMs": 529380,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "It would be surprising that they landed on\njust the right values to allow for the formation"
+    } ]
+  }, {
+    "tStartMs": 534300,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "of life - unless of course there are many,\nmany universes with different values for the"
+    } ]
+  }, {
+    "tStartMs": 538740,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "constants."
+    } ]
+  }, {
+    "tStartMs": 539220,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Then it’s not surprising at all that we\nfind ourselves in one of the ones capable"
+    } ]
+  }, {
+    "tStartMs": 543780,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "of producing us."
+    } ]
+  }, {
+    "tStartMs": 545400,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "We’ve talked about this \nanthropic argument in the past."
+    } ]
+  }, {
+    "tStartMs": 548820,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But the fact that the fine structure constant \nhas such a convenient value isn’t the weirdest"
+    } ]
+  }, {
+    "tStartMs": 554340,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "thing about it."
+    } ]
+  }, {
+    "tStartMs": 555720,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "The weirdest thing is that it’s dimensionless."
+    } ]
+  }, {
+    "tStartMs": 558240,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "Imagine you were able to send a very short\nmessage to an alien civilization."
+    } ]
+  }, {
+    "tStartMs": 565080,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Just a handful of bits - enough to encode\none number."
+    } ]
+  }, {
+    "tStartMs": 568620,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "What number would you choose to ensure they \nknew that the message came from an intelligent"
+    } ]
+  }, {
+    "tStartMs": 575040,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "species?"
+    } ]
+  }, {
+    "tStartMs": 576480,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "You could try the various constants of nature \nto demonstrate that you knew advanced physics."
+    } ]
+  }, {
+    "tStartMs": 583020,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The problem is, most of these constants \nrequire you to choose units of measurement."
+    } ]
+  }, {
+    "tStartMs": 587340,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "Transmit, say, the value for the speed of\nlight - 299,792,458 m/s, and you also have"
+    } ]
+  }, {
+    "tStartMs": 595380,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "to explain what a meter and a second are."
+    } ]
+  }, {
+    "tStartMs": 597480,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Try the gravitational or Planck’s constant\nand you also have to define the kilogram."
+    } ]
+  }, {
+    "tStartMs": 602400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "There’s no way for the alien civilization\nto recognize these numbers without knowing"
+    } ]
+  }, {
+    "tStartMs": 606900,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "our units for distance, time, mass, electric\ncharge, etc."
+    } ]
+  }, {
+    "tStartMs": 610260,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "But the fine structure constant is unitless."
+    } ]
+  }, {
+    "tStartMs": 614160,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "It’s equal to 1/137-ish for everyone in\nthe universe."
+    } ]
+  }, {
+    "tStartMs": 619380,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Even if you just transmit the number 137,\nthose aliens are going to realize that something’s"
+    } ]
+  }, {
+    "tStartMs": 625740,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "up."
+    } ]
+  }, {
+    "tStartMs": 627180,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "That’s handy for interstellar communication,\nbut it also tells us that’s something's"
+    } ]
+  }, {
+    "tStartMs": 632460,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "-seriously- up with the fine structure constant."
+    } ]
+  }, {
+    "tStartMs": 635160,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Being unitless on its own isn’t something special."
+    } ]
+  }, {
+    "tStartMs": 638400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "We can come up with all sorts of unitless\nvalues - just take the ratio between two things"
+    } ]
+  }, {
+    "tStartMs": 644160,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "with the same units, like the ratio of the "
+    } ]
+  }, {
+    "tStartMs": 647100,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "mass of the electron and \nproton, or the coefficient"
+    } ]
+  }, {
+    "tStartMs": 650340,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "of friction of an inclined plane."
+    } ]
+  }, {
+    "tStartMs": 652680,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But these things don’t pop up in all these\nunexpected places like the fine structure"
+    } ]
+  }, {
+    "tStartMs": 658200,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "constant does."
+    } ]
+  }, {
+    "tStartMs": 658920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So what do we make of this number that is\nboth unitless and ubiquitous."
+    } ]
+  }, {
+    "tStartMs": 663960,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Let’s start by thinking about the similarly\nprolific constants of nature - the ones that"
+    } ]
+  }, {
+    "tStartMs": 669720,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "actually have units."
+    } ]
+  }, {
+    "tStartMs": 671520,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Those units tell us a lot about what those\nconstants mean."
+    } ]
+  }, {
+    "tStartMs": 675300,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "They tell us that the constants of nature\nrepresent relationships."
+    } ]
+  }, {
+    "tStartMs": 680580,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "For example, the speed of light is the translation \nfactor between the dimensions of space and"
+    } ]
+  }, {
+    "tStartMs": 686640,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "time in relativity; it’s also the relationship \nbetween mass and energy in Einstein’s famous"
+    } ]
+  }, {
+    "tStartMs": 691860,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "equation."
+    } ]
+  }, {
+    "tStartMs": 693420,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "The gravitational constant is the relationship \nbetween mass, distance, and gravitational"
+    } ]
+  }, {
+    "tStartMs": 698640,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "force, Planck's Constant is the relationship \nbetween the uncertainty in measuring position"
+    } ]
+  }, {
+    "tStartMs": 704160,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "and velocity."
+    } ]
+  }, {
+    "tStartMs": 705060,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "The list goes on."
+    } ]
+  }, {
+    "tStartMs": 706440,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "The relationship is defined by the units of\nthe constant."
+    } ]
+  }, {
+    "tStartMs": 710700,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "But without any units, it's not immediately\nclear what kind of relationship the Fine Structure"
+    } ]
+  }, {
+    "tStartMs": 717660,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Constant represents."
+    } ]
+  }, {
+    "tStartMs": 719520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So here’s an idea: perhaps this odd little "
+    } ]
+  }, {
+    "tStartMs": 722640,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "number represents a relationship \nbetween relationships."
+    } ]
+  }, {
+    "tStartMs": 728280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "If the other constants of nature tie various\nphysical parameters together, perhaps the"
+    } ]
+  }, {
+    "tStartMs": 733320,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "fine structure constant is what ties those\nconstants together."
+    } ]
+  }, {
+    "tStartMs": 737760,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Think about it this way - if the constants\nof nature were set randomly at the big bang,"
+    } ]
+  }, {
+    "tStartMs": 743220,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "and were set independently to each other - \nthen we wouldn’t necessarily expect there to"
+    } ]
+  }, {
+    "tStartMs": 749640,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "be any one way of combining them \nthat’s particularly special."
+    } ]
+  }, {
+    "tStartMs": 754140,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Sure, you could find a combo where the units \ncancel out - but that combo wouldn’t necessarily"
+    } ]
+  }, {
+    "tStartMs": 760860,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "have physical significance."
+    } ]
+  }, {
+    "tStartMs": 763560,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "The fact that this canceling gives the fine\nstructure constant, and the fine structure"
+    } ]
+  }, {
+    "tStartMs": 767940,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "constant also represents the relationship\nbetween many real, physical aspects of the"
+    } ]
+  }, {
+    "tStartMs": 772920,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "universe, seems to be telling us something."
+    } ]
+  }, {
+    "tStartMs": 775980,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "It hints at a connection between the other\nfundamental constants - perhaps pointing to"
+    } ]
+  }, {
+    "tStartMs": 781440,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "an underlying common mechanism that set the \nvalues for the constants at the Big Bang."
+    } ]
+  }, {
+    "tStartMs": 787680,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Or perhaps it hints at a deeper connection "
+    } ]
+  }, {
+    "tStartMs": 790380,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "between the properties of \nthe elementary particles,"
+    } ]
+  }, {
+    "tStartMs": 792840,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "like the mass and charge of the electron."
+    } ]
+  }, {
+    "tStartMs": 795420,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Finally, it could be that the fine structure\nconstant is not a physical constant, but a"
+    } ]
+  }, {
+    "tStartMs": 801000,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "mathematical one, like pi, but perhaps we\nhaven't realized this is the case because"
+    } ]
+  }, {
+    "tStartMs": 806880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "our mathematics are not advanced enough yet"
+    } ]
+  }, {
+    "tStartMs": 810840,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "This is pretty speculative, but the specialness of \nthe fine structure constant warrants speculation."
+    } ]
+  }, {
+    "tStartMs": 817020,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And we’ve been speculating on this problem \nfor a century as this funny little recurring"
+    } ]
+  }, {
+    "tStartMs": 823020,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "number popped up again and again in \nour studies of the subatomic world."
+    } ]
+  }, {
+    "tStartMs": 827220,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Back to Richard Feynman one last time."
+    } ]
+  }, {
+    "tStartMs": 831000,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "He called the fine structure constant \n“one of the greatest damn mysteries "
+    } ]
+  }, {
+    "tStartMs": 835380,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "of physics” and"
+    } ]
+  }, {
+    "tStartMs": 837180,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Poetically mused that “the hand of God wrote \nthat number, and we don't know how He pushed"
+    } ]
+  }, {
+    "tStartMs": 842700,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "the pencil.”"
+    } ]
+  }, {
+    "tStartMs": 843360,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "In other words, to build a universe it may\nbe that only one number needs to be decided"
+    } ]
+  }, {
+    "tStartMs": 849600,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "in the beginning and from it all \nother constants naturally follow."
+    } ]
+  }, {
+    "tStartMs": 853620,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "And perhaps that number was 1/137, the fine \nstructure constant - whose value sets the"
+    } ]
+  }, {
+    "tStartMs": 860820,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "rules of this particular space time."
+    } ]
+  }, {
+    "tStartMs": 864900,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Thank you to Squarespace for Supporting PBS."
+    } ]
+  }, {
+    "tStartMs": 867480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Squarespace is a website \nbuilding and hosting company."
+    } ]
+  }, {
+    "tStartMs": 870360,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "With Squarespace, you can connect with your \naudience and generate revenue through gated,"
+    } ]
+  }, {
+    "tStartMs": 875220,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "members-only content."
+    } ]
+  }, {
+    "tStartMs": 876540,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Users can manage members, \nsend email communications  "
+    } ]
+  }, {
+    "tStartMs": 879720,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and leverage audience insights all in one"
+    } ]
+  }, {
+    "tStartMs": 882240,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "platform."
+    } ]
+  }, {
+    "tStartMs": 882660,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Users can also create community with a Squarespace \nwebsite through its fully integrated commenting"
+    } ]
+  }, {
+    "tStartMs": 888660,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "system that supports threaded \ncomments, replies and likes."
+    } ]
+  }, {
+    "tStartMs": 892620,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Squarespace extensions help \nusers manage inventory, "
+    } ]
+  }, {
+    "tStartMs": 895860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "products and streamline bookkeeping."
+    } ]
+  }, {
+    "tStartMs": 897960,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "With Squarespace, you can display social media \nposts on your websites and push website content"
+    } ]
+  }, {
+    "tStartMs": 903660,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "to your preferred social accounts."
+    } ]
+  }, {
+    "tStartMs": 905220,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Go to Squarespace.com for a free trial."
+    } ]
+  } ]
+}

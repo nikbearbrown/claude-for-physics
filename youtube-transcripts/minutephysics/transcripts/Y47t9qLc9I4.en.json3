@@ -1,0 +1,739 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1430,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Mask-wearing and COVID-19 is complicated."
+    } ]
+  }, {
+    "tStartMs": 4290,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "And not just because it’s become politically\nfraught, not just because there are many different"
+    } ]
+  }, {
+    "tStartMs": 7580,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "kinds of masks of varying levels of effectiveness,\nnot just because there’s been a shortage"
+    } ]
+  }, {
+    "tStartMs": 11260,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "of medical grade masks so authorities were\ntrying to convince the public not to buy them,"
+    } ]
+  }, {
+    "tStartMs": 15100,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "not just because there’s tons of malicious\nor simply misguided misinformation flying"
+    } ]
+  }, {
+    "tStartMs": 18420,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "around, not just because our understanding\nof how COVID spreads has been changing, and"
+    } ]
+  }, {
+    "tStartMs": 22191,
+    "dDurationMs": 3669,
+    "segs": [ {
+      "utf8": "not just because countries in the West ignored\nthe lessons learned by Asian countries that"
+    } ]
+  }, {
+    "tStartMs": 25860,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "faced SARS (though all of these things are\ntrue)."
+    } ]
+  }, {
+    "tStartMs": 28630,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "In addition to all this, masks are also complicated\nbecause they fly in the face of our mathematical"
+    } ]
+  }, {
+    "tStartMs": 33750,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "intuition."
+    } ]
+  }, {
+    "tStartMs": 34750,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "The good news is that when you do the math\n(and we’re going to), you find that masks"
+    } ]
+  }, {
+    "tStartMs": 37970,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "are much more effective than you might think."
+    } ]
+  }, {
+    "tStartMs": 40540,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "Say you have a mask that cuts in half the\nchance a contagious person will infect a nearby"
+    } ]
+  }, {
+    "tStartMs": 44329,
+    "dDurationMs": 1191,
+    "segs": [ {
+      "utf8": "susceptible person."
+    } ]
+  }, {
+    "tStartMs": 45520,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "In other words, this mask is 50% effective."
+    } ]
+  }, {
+    "tStartMs": 48170,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Except, this mask is way more than 50% effective\nbecause as we’ll see, when many people wear"
+    } ]
+  }, {
+    "tStartMs": 52730,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "even just a 50% effective mask, you end up\nwith way more than 50% protection (both to"
+    } ]
+  }, {
+    "tStartMs": 57120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the wearer and to society at large)."
+    } ]
+  }, {
+    "tStartMs": 58120,
+    "dDurationMs": 4209,
+    "segs": [ {
+      "utf8": "It seems obvious that if no one wears a mask,\nthen no one gets any benefit - and that’s"
+    } ]
+  }, {
+    "tStartMs": 62329,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "true."
+    } ]
+  }, {
+    "tStartMs": 63329,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "And you might assume that if everyone wears\na 50% effective mask, there’d be a 50% benefit"
+    } ]
+  }, {
+    "tStartMs": 67259,
+    "dDurationMs": 2531,
+    "segs": [ {
+      "utf8": "- that is, a 50% drop in disease transmission."
+    } ]
+  }, {
+    "tStartMs": 69790,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "But that’s not how the math of masks works!"
+    } ]
+  }, {
+    "tStartMs": 72610,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "When everyone wears a 50% effective mask,\ndisease transmission actually drops by 75%"
+    } ]
+  }, {
+    "tStartMs": 77990,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "-- much better than 50%."
+    } ]
+  }, {
+    "tStartMs": 79460,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Masks break our intuition because we’re\nused to thinking about masks as single-directional,"
+    } ]
+  }, {
+    "tStartMs": 83510,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "only protecting the wearer."
+    } ]
+  }, {
+    "tStartMs": 85240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But masks can protect in both directions,\nwhen you breath in through them, and when"
+    } ]
+  }, {
+    "tStartMs": 89440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "you breath out."
+    } ]
+  }, {
+    "tStartMs": 90440,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "This means that when everyone is wearing masks,\nthere are in fact two masks between any two"
+    } ]
+  }, {
+    "tStartMs": 94670,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "people."
+    } ]
+  }, {
+    "tStartMs": 95670,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "If we assume for simplicity that masks are\nequally effective in either direction – and"
+    } ]
+  }, {
+    "tStartMs": 99720,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "if this assumption bothers you, stick around\ntill the end of the video – if masks are"
+    } ]
+  }, {
+    "tStartMs": 103009,
+    "dDurationMs": 4032,
+    "segs": [ {
+      "utf8": "equally effective in either direction, then\nthe first mask cuts disease transmission in"
+    } ]
+  }, {
+    "tStartMs": 107041,
+    "dDurationMs": 2909,
+    "segs": [ {
+      "utf8": "half, and the second mask cuts it in half\nagain."
+    } ]
+  }, {
+    "tStartMs": 109950,
+    "dDurationMs": 5099,
+    "segs": [ {
+      "utf8": "So overall, you end up with a 75% drop in\ndisease transmission, not 50%."
+    } ]
+  }, {
+    "tStartMs": 115049,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "In this scenario, masks do double duty!"
+    } ]
+  }, {
+    "tStartMs": 117939,
+    "dDurationMs": 3011,
+    "segs": [ {
+      "utf8": "But in reality, not everyone will wear a mask."
+    } ]
+  }, {
+    "tStartMs": 120950,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "So when a contagious person encounters a susceptible\nperson, there are in fact FOUR possible routes"
+    } ]
+  }, {
+    "tStartMs": 126360,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of infection."
+    } ]
+  }, {
+    "tStartMs": 127360,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "In the first route neither person is wearing\na mask, which means there’s no reduction"
+    } ]
+  }, {
+    "tStartMs": 130329,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "in disease transmission."
+    } ]
+  }, {
+    "tStartMs": 131659,
+    "dDurationMs": 4031,
+    "segs": [ {
+      "utf8": "In the second route, only the contagious person\nis wearing a mask, and so for a 50% effective"
+    } ]
+  }, {
+    "tStartMs": 135690,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "mask, disease transmission drops by 50%."
+    } ]
+  }, {
+    "tStartMs": 138400,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "In the third route, only the susceptible person\nis wearing a mask, and again disease transmission"
+    } ]
+  }, {
+    "tStartMs": 142540,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "drops by 50%."
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "And in the final route where both the contagious\nperson and the susceptible person are wearing"
+    } ]
+  }, {
+    "tStartMs": 147430,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "masks, disease transmission gets cut in half\ntwice – aka it drops by 75%."
+    } ]
+  }, {
+    "tStartMs": 152920,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "What does this mean for society overall?"
+    } ]
+  }, {
+    "tStartMs": 154510,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "Well, it depends on what fraction of people\nwear masks."
+    } ]
+  }, {
+    "tStartMs": 156989,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "As we’ve seen, if no one wears masks then\nno interactions involve any masks and the"
+    } ]
+  }, {
+    "tStartMs": 162129,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "overall drop in disease transmission is 0%."
+    } ]
+  }, {
+    "tStartMs": 165459,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "And if 100% of people wear masks, then all\ninteractions involve two masks and the overall"
+    } ]
+  }, {
+    "tStartMs": 170299,
+    "dDurationMs": 3231,
+    "segs": [ {
+      "utf8": "drop in disease transmission is 75%."
+    } ]
+  }, {
+    "tStartMs": 173530,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "But if 50% of people wear masks?"
+    } ]
+  }, {
+    "tStartMs": 175680,
+    "dDurationMs": 3779,
+    "segs": [ {
+      "utf8": "Then on average – assuming that people interact\nrandomly – a quarter of all interactions"
+    } ]
+  }, {
+    "tStartMs": 179459,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "will involve no masks, a quarter will have\nthe contagious person masked, a quarter will"
+    } ]
+  }, {
+    "tStartMs": 183469,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "have the susceptible person masked, and a\nquarter will have two masks."
+    } ]
+  }, {
+    "tStartMs": 187089,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So even when just half of people wear masks,\nthree-quarters of interactions involve masks"
+    } ]
+  }, {
+    "tStartMs": 191969,
+    "dDurationMs": 2571,
+    "segs": [ {
+      "utf8": "(and a significant portion of those involve\ntwo masks)."
+    } ]
+  }, {
+    "tStartMs": 194540,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Do you see the magic math of masks yet?"
+    } ]
+  }, {
+    "tStartMs": 198200,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "Your first guess might have been that if 50%\nof people wore 50% effective masks, you’d"
+    } ]
+  }, {
+    "tStartMs": 202639,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "get a 25% drop in disease transmission because\n50% of 50% is 25%."
+    } ]
+  }, {
+    "tStartMs": 207719,
+    "dDurationMs": 4901,
+    "segs": [ {
+      "utf8": "In fact, this intuition would be true if masks\nwere only effective one-way (like on exhalation"
+    } ]
+  }, {
+    "tStartMs": 212620,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "only) - then there’d just be two routes:\neither the contagious person wears a mask,"
+    } ]
+  }, {
+    "tStartMs": 216979,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "or they don’t, and these average to 25%."
+    } ]
+  }, {
+    "tStartMs": 220419,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "BUT when we take into account the two-way\nnature of masks and average over all four"
+    } ]
+  }, {
+    "tStartMs": 224309,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "possible mask combinations, the overall drop\nin disease transmission becomes almost twice"
+    } ]
+  }, {
+    "tStartMs": 229379,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "as good!"
+    } ]
+  }, {
+    "tStartMs": 230809,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Masks Work Better Than You’d Think."
+    } ]
+  }, {
+    "tStartMs": 233339,
+    "dDurationMs": 3591,
+    "segs": [ {
+      "utf8": "And this is true in general - no matter what\nnumbers you choose for mask effectiveness"
+    } ]
+  }, {
+    "tStartMs": 236930,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "and usage, the overall drop in disease transmission\nis always better than the intuitive guess"
+    } ]
+  }, {
+    "tStartMs": 241790,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "from just multiplying those numbers together."
+    } ]
+  }, {
+    "tStartMs": 244450,
+    "dDurationMs": 2149,
+    "segs": [ {
+      "utf8": "So what does this mean for the 2020 pandemic?"
+    } ]
+  }, {
+    "tStartMs": 246599,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "Well, for COVID-19, epidemiology suggests\nthat each contagious person infects on average"
+    } ]
+  }, {
+    "tStartMs": 251760,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "2.5 other people."
+    } ]
+  }, {
+    "tStartMs": 253540,
+    "dDurationMs": 4659,
+    "segs": [ {
+      "utf8": "If you could drop that number to below one,\na drop of just over 60%, then each contagious"
+    } ]
+  }, {
+    "tStartMs": 258199,
+    "dDurationMs": 3981,
+    "segs": [ {
+      "utf8": "person would infect fewer than one other person\non average, which would be enough to swiftly"
+    } ]
+  }, {
+    "tStartMs": 262180,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "halt the spread of COVID-19."
+    } ]
+  }, {
+    "tStartMs": 264150,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "So what would it take to drop disease transmission\nby 60%?"
+    } ]
+  }, {
+    "tStartMs": 266650,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "Well, there are many options, but a particularly\ncost effective and arithmetically satisfying"
+    } ]
+  }, {
+    "tStartMs": 272310,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "one is this -- if 60% of people wore 60% effective\nmasks, disease transmission would drop by"
+    } ]
+  }, {
+    "tStartMs": 278740,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "60%!"
+    } ]
+  }, {
+    "tStartMs": 280039,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "And if we did that, we would beat COVID - the\nmask math shows us how."
+    } ]
+  }, {
+    "tStartMs": 284410,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Specifically, it shows us that masks are more\neffective than you’d think for two reasons:"
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 5069,
+    "segs": [ {
+      "utf8": "first, they do double duty when both people\nwear them, and second, the fraction of interactions"
+    } ]
+  }, {
+    "tStartMs": 294069,
+    "dDurationMs": 4511,
+    "segs": [ {
+      "utf8": "involving masks is always much more than the\nfraction of people who wear masks."
+    } ]
+  }, {
+    "tStartMs": 298580,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "This is the magic multiplicative power of\nmasks –– even partially effective masks,"
+    } ]
+  }, {
+    "tStartMs": 303360,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "partially adopted, can extinguish an epidemic,\nas long as enough people wear them."
+    } ]
+  }, {
+    "tStartMs": 308750,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "Ok, some caveats to all this:\nWe’ve been pretty vague about what it actually"
+    } ]
+  }, {
+    "tStartMs": 312759,
+    "dDurationMs": 4642,
+    "segs": [ {
+      "utf8": "means for a mask to be X% effective --- for\nthe purposes of the math in this video, all"
+    } ]
+  }, {
+    "tStartMs": 317401,
+    "dDurationMs": 4238,
+    "segs": [ {
+      "utf8": "that matters is that disease transmission\ndrops by X%, irrespective of how the mask"
+    } ]
+  }, {
+    "tStartMs": 321639,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "actually achieves this drop."
+    } ]
+  }, {
+    "tStartMs": 323470,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "In reality, masks reduce disease transmission\nthrough a combination of filtering and redirecting"
+    } ]
+  }, {
+    "tStartMs": 327500,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "air, and they vary a lot in effectiveness\ndepending on their filtration, how tightly"
+    } ]
+  }, {
+    "tStartMs": 332180,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "they fit, if they have an exhalation valve,\netc."
+    } ]
+  }, {
+    "tStartMs": 334500,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "So it’s hard to give exact numbers; a 50%\neffective mask could be something like an"
+    } ]
+  }, {
+    "tStartMs": 338569,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "N95 worn poorly (or incorrectly decontaminated)\nor a cloth mask worn well."
+    } ]
+  }, {
+    "tStartMs": 342530,
+    "dDurationMs": 5379,
+    "segs": [ {
+      "utf8": "We’ve assumed that masks provide equivalent\nprotection upon inhalation and exhalation."
+    } ]
+  }, {
+    "tStartMs": 347909,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Aatish put together an interactive essay where\nyou can see what happens when inhalation and"
+    } ]
+  }, {
+    "tStartMs": 351969,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "exhalation effectivenesses differ, what happens\nwhen more (or less) of the population uses"
+    } ]
+  }, {
+    "tStartMs": 356639,
+    "dDurationMs": 6381,
+    "segs": [ {
+      "utf8": "masks, and more."
+    } ]
+  }, {
+    "tStartMs": 363020,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "For simplicity we’ve assumed that contagious\npeople are just as likely to wear masks as"
+    } ]
+  }, {
+    "tStartMs": 366710,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "non-contagious people."
+    } ]
+  }, {
+    "tStartMs": 368220,
+    "dDurationMs": 3749,
+    "segs": [ {
+      "utf8": "We also assumed that people mix randomly,\nwhich isn’t necessarily true."
+    } ]
+  }, {
+    "tStartMs": 371969,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "For various reasons, people who wear masks\nmay be more likely to interact with other"
+    } ]
+  }, {
+    "tStartMs": 375259,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "mask wearers, and less likely to interact\nwith those who don't wear masks (and vice"
+    } ]
+  }, {
+    "tStartMs": 379460,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "versa)."
+    } ]
+  }, {
+    "tStartMs": 380460,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "Clustering non-mask users together diminishes\nthe overall protective power of masks and"
+    } ]
+  }, {
+    "tStartMs": 384819,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "means you need more people to wear masks to\nachieve the same drop in transmission."
+    } ]
+  }, {
+    "tStartMs": 388590,
+    "dDurationMs": 4569,
+    "segs": [ {
+      "utf8": "Again, if you’re interested in more details\nand references, definitely check out the interactive"
+    } ]
+  }, {
+    "tStartMs": 393159,
+    "dDurationMs": 4051,
+    "segs": [ {
+      "utf8": "companion essay at aatishb.com/howmaskswork."
+    } ]
+  }, {
+    "tStartMs": 397210,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "This video was made with the generous support\nof the Heising-Simons Foundation, which normally"
+    } ]
+  }, {
+    "tStartMs": 400830,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "works with MinutePhysics to help communicate\nabout fundamental physics research, but this"
+    } ]
+  }, {
+    "tStartMs": 403900,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "year they’re providing additional funding\nto focus on the response to COVID-19."
+    } ]
+  }, {
+    "tStartMs": 407830,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "That means they’ve supported research – including\nsome of the N95 mask decontamination work"
+    } ]
+  }, {
+    "tStartMs": 412020,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "I mentioned in my video on the physics of\nN95s – they’ve supported hospitals and"
+    } ]
+  }, {
+    "tStartMs": 415819,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "remote learning, they’ve helped low-income\nhouseholds maintain access to utilities, and"
+    } ]
+  }, {
+    "tStartMs": 420029,
+    "dDurationMs": 2151,
+    "segs": [ {
+      "utf8": "they’re funding COVID science communication\nlike this video!"
+    } ]
+  }, {
+    "tStartMs": 422180,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "A big thanks to Heising-Simons for their support\nof science – both fundamental and applied"
+    } ]
+  }, {
+    "tStartMs": 426330,
+    "dDurationMs": 2139,
+    "segs": [ {
+      "utf8": "– as well as science communication."
+    } ]
+  } ]
+}

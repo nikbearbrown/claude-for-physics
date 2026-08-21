@@ -1,0 +1,571 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1470,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "If you’ve ever used a can of compressed\nair (also called a gas duster), to, say, clean"
+    } ]
+  }, {
+    "tStartMs": 5930,
+    "dDurationMs": 3419,
+    "segs": [ {
+      "utf8": "crumbs out of your computer keyboard , you’re\nprobably aware that after a little while,"
+    } ]
+  }, {
+    "tStartMs": 9349,
+    "dDurationMs": 4911,
+    "segs": [ {
+      "utf8": "the air coming out of the can and even the\ncan itself get really really cold."
+    } ]
+  }, {
+    "tStartMs": 14260,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Like, cold enough they put frostbite warnings\non the can!"
+    } ]
+  }, {
+    "tStartMs": 17270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And for good reason!"
+    } ]
+  }, {
+    "tStartMs": 18270,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "It’s tempting to think that compressed air\ncans get cold because when the gas comes out"
+    } ]
+  }, {
+    "tStartMs": 21900,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "of the can it expands and thus cools off."
+    } ]
+  }, {
+    "tStartMs": 24699,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "But that’s not exactly right - whether an\nexpanding gas gets hotter or colder (and how"
+    } ]
+  }, {
+    "tStartMs": 29499,
+    "dDurationMs": 4551,
+    "segs": [ {
+      "utf8": "much hotter or colder it gets) depends on\nthe exact manner in which the gas expands."
+    } ]
+  }, {
+    "tStartMs": 34050,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And if we apply the relevant equation for\n“normal” gas expansion , we predict that"
+    } ]
+  }, {
+    "tStartMs": 38250,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "the gas inside the compressed air can should\ndrop from room temperature to around 100 degrees"
+    } ]
+  }, {
+    "tStartMs": 42830,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "celsius below zero , which is, um, WAY colder\nthan what comes out of a compressed air can."
+    } ]
+  }, {
+    "tStartMs": 47480,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "So the gas can’t be expanding in the normal\nway gases expand."
+    } ]
+  }, {
+    "tStartMs": 51390,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": ". And here’s why: that would be like cutting\nthe top off the can and letting the gas expand"
+    } ]
+  }, {
+    "tStartMs": 55430,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "freely in all directions."
+    } ]
+  }, {
+    "tStartMs": 57210,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "But the gas is actually being squeezed out\nthrough a tiny valve."
+    } ]
+  }, {
+    "tStartMs": 61060,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "This difference is key; the gas passing through\na valve isn’t simply expanding - it’s"
+    } ]
+  }, {
+    "tStartMs": 65920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "also being pushed through by the rest of the\ngas behind it!"
+    } ]
+  }, {
+    "tStartMs": 69280,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "And that compression from behind gives the\ngas enough heat energy to essentially counteract"
+    } ]
+  }, {
+    "tStartMs": 73890,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "the cooling from expansion."
+    } ]
+  }, {
+    "tStartMs": 75000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "In terms of the gas law, this means the volume\ngoes up by the same factor that the pressure"
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "goes down, so pressure times volume is pretty\nmuch constant and the temperature stays about"
+    } ]
+  }, {
+    "tStartMs": 77000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "constant."
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But not exactly - most gases at room temperature\ndo get slightly colder when passing through"
+    } ]
+  }, {
+    "tStartMs": 80880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "a valve . A good demo of this is to let the\nair out of a bike tire; the valve gets colder"
+    } ]
+  }, {
+    "tStartMs": 85360,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": ", but not crazy cold."
+    } ]
+  }, {
+    "tStartMs": 87700,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Similarly, the gas leaving a can of compressed\nair cools a little bit passing through the"
+    } ]
+  }, {
+    "tStartMs": 92130,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "nozzle . But this can’t be the only contributor\nto the cooling."
+    } ]
+  }, {
+    "tStartMs": 95700,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "I mean, the can itself cools off by significantly\nmore than can be explained by expansion through"
+    } ]
+  }, {
+    "tStartMs": 100280,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "a valve , and it’s not like it’s even\nbeing sprayed by the air coming out."
+    } ]
+  }, {
+    "tStartMs": 103830,
+    "dDurationMs": 4065,
+    "segs": [ {
+      "utf8": "No, the real cooling power is hinted at by\nthe warning labels on cans of compressed air"
+    } ]
+  }, {
+    "tStartMs": 107895,
+    "dDurationMs": 5325,
+    "segs": [ {
+      "utf8": "telling you to not to shake them or spray\nthem upside down - if you DO shake one, you’ll"
+    } ]
+  }, {
+    "tStartMs": 113220,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "realize right away that it’s not just gas\ninside - there’s liquid in there, too!"
+    } ]
+  }, {
+    "tStartMs": 117659,
+    "dDurationMs": 4951,
+    "segs": [ {
+      "utf8": "Liquid like 1,1-difluoroethane, which is a\ngas at normal temperatures and pressures,"
+    } ]
+  }, {
+    "tStartMs": 122610,
+    "dDurationMs": 3939,
+    "segs": [ {
+      "utf8": "but a liquid once you pressurize it to around\n6 times atmospheric pressure."
+    } ]
+  }, {
+    "tStartMs": 126549,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "And it’s the essential component of these\ncompressed air cans."
+    } ]
+  }, {
+    "tStartMs": 130119,
+    "dDurationMs": 5551,
+    "segs": [ {
+      "utf8": "Inside the can, 1,1-difluoroethane exists\nas both a liquid and a gas, in equilibrium"
+    } ]
+  }, {
+    "tStartMs": 135670,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "- just enough of the liquid boils off to maintain\nsix atmospheres of pressure in the top of"
+    } ]
+  }, {
+    "tStartMs": 140660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "the can, a pressure high enough that rest\nstays liquid."
+    } ]
+  }, {
+    "tStartMs": 144200,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "Because it’s at six times atmospheric pressure,\nwhen you open the valve the difluoroethane"
+    } ]
+  }, {
+    "tStartMs": 148209,
+    "dDurationMs": 2251,
+    "segs": [ {
+      "utf8": "rushes out in a steady stream."
+    } ]
+  }, {
+    "tStartMs": 150460,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "But this then means that the inside of the\ncan is no longer pressurized enough to keep"
+    } ]
+  }, {
+    "tStartMs": 155650,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "the liquid from boiling - so more of it boils\noff until the gas reaches six atmospheres"
+    } ]
+  }, {
+    "tStartMs": 159980,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of pressure again and a new equilibrium is\nreached with slightly less liquid in the can."
+    } ]
+  }, {
+    "tStartMs": 164940,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "This is how the can is able to keep blowing\na stream of consistent strength even when"
+    } ]
+  }, {
+    "tStartMs": 168680,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "mostly empty."
+    } ]
+  }, {
+    "tStartMs": 169880,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "But more importantly to our temperature conundrum,\nchanges from liquid phase to gas phase require"
+    } ]
+  }, {
+    "tStartMs": 174130,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "a TON of energy, and that energy has to come\nfrom somewhere."
+    } ]
+  }, {
+    "tStartMs": 178240,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Just like how the evaporation of sweat removes\nenergy from your skin, cooling you off, inside"
+    } ]
+  }, {
+    "tStartMs": 182690,
+    "dDurationMs": 6189,
+    "segs": [ {
+      "utf8": "a can of compressed air, vaporization - aka\nboiling - is what steals energy from the liquid"
+    } ]
+  }, {
+    "tStartMs": 188879,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "and cools it off."
+    } ]
+  }, {
+    "tStartMs": 190710,
+    "dDurationMs": 1009,
+    "segs": [ {
+      "utf8": "Significantly!"
+    } ]
+  }, {
+    "tStartMs": 191719,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "Spraying out 10% of the contents will cool\nthe entire remainder of the can by around"
+    } ]
+  }, {
+    "tStartMs": 195690,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "20 degrees celsius!"
+    } ]
+  }, {
+    "tStartMs": 197600,
+    "dDurationMs": 4719,
+    "segs": [ {
+      "utf8": "If it seems counterintuitive that a boiling\nsubstance cools itself off, look no further"
+    } ]
+  }, {
+    "tStartMs": 202319,
+    "dDurationMs": 5581,
+    "segs": [ {
+      "utf8": "than the humble pressure cooker . Water normally\nboils above 100 degrees celsius, but by sealing"
+    } ]
+  }, {
+    "tStartMs": 207900,
+    "dDurationMs": 5309,
+    "segs": [ {
+      "utf8": "in steam, the pressure rises, enabling the\nwater in the pot to remain a liquid well beyond"
+    } ]
+  }, {
+    "tStartMs": 213209,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "water’s normal boiling point - just like\nthe difluoroethane in a can of compressed"
+    } ]
+  }, {
+    "tStartMs": 217239,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "air."
+    } ]
+  }, {
+    "tStartMs": 218239,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "And releasing water vapor out of the nozzle\nof a pressure cooker lowers the pressure inside,"
+    } ]
+  }, {
+    "tStartMs": 222310,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "allowing a bit more water to boil off as steam\nand lowering the temperature of the remaining"
+    } ]
+  }, {
+    "tStartMs": 226620,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "water - just like the difluoroethane in a\ncompressed air can."
+    } ]
+  }, {
+    "tStartMs": 229739,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And if you keep letting off steam, eventually\nthe water will cool all the way back down"
+    } ]
+  }, {
+    "tStartMs": 233459,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "to its regular boiling point of 100 degrees\n, just like how if you keep spraying a can"
+    } ]
+  }, {
+    "tStartMs": 238190,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "of compressed air, the difluoroethane inside\nwill cool all the way back down to its regular"
+    } ]
+  }, {
+    "tStartMs": 242550,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "boiling point of negative 25 degrees ."
+    } ]
+  }, {
+    "tStartMs": 244930,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "A can of compressed air is quite literally\na 1,1-difluoroethane pressure cooker."
+    } ]
+  }, {
+    "tStartMs": 248870,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "And just like you shouldn’t shake a pressure\ncooker or turn it upside down (unless you"
+    } ]
+  }, {
+    "tStartMs": 253910,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "want to spray superheated water everywhere),\ncans of compressed air don’t work very well"
+    } ]
+  }, {
+    "tStartMs": 259150,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "sideways or upside down: instead of spraying\nout gas, you’ll spray out the liquid that"
+    } ]
+  }, {
+    "tStartMs": 263500,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "was only being kept liquified by the high\npressure inside the can , so it immediately"
+    } ]
+  }, {
+    "tStartMs": 267870,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "vaporizes and drastically cools down whatever\nit’s contacting . INSTANT ICE! (though difluoroethane"
+    } ]
+  }, {
+    "tStartMs": 273780,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "can dissolve in water and is poisonous, so\ndefinitely don’t use this ice for anything"
+    } ]
+  }, {
+    "tStartMs": 277590,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "food-related)."
+    } ]
+  }, {
+    "tStartMs": 279500,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "In conclusion, the cause for the coldness\nof cans of compressed air can be clarified"
+    } ]
+  }, {
+    "tStartMs": 283240,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "by comprehending the consequent clue: they\naren’t actually cans of compressed air."
+    } ]
+  }, {
+    "tStartMs": 287500,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "They’re cans of pressure-liquified 1,1-difluoroethane,\nand lowering the pressure inside by spraying"
+    } ]
+  }, {
+    "tStartMs": 292810,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "them allows more liquid to boil off, cooling\nwhat remains."
+    } ]
+  }, {
+    "tStartMs": 296930,
+    "dDurationMs": 7790,
+    "segs": [ {
+      "utf8": "I love learning about the physics of regular\nstuff; I mean, black holes and quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 304720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "are cool, too, but they’re not quite as\ntangible or relatable as the things we interact"
+    } ]
+  }, {
+    "tStartMs": 308720,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "with on a regular basis."
+    } ]
+  }, {
+    "tStartMs": 310190,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And if you, too, want to dive deeper into\nthe physics of everyday objects, look no further"
+    } ]
+  }, {
+    "tStartMs": 314030,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "than Brilliant, this video’s sponsor."
+    } ]
+  }, {
+    "tStartMs": 316470,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Brilliant has a whole course on the physics\nof everyday objects, including fridges and"
+    } ]
+  }, {
+    "tStartMs": 320030,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "water towers and bikes - bikes are great!\n- and Brilliant also has fun, short daily"
+    } ]
+  }, {
+    "tStartMs": 323340,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "challenges and puzzles to learn about stuff\nlike regression to the mean and fluids and"
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 3889,
+    "segs": [ {
+      "utf8": "thermodynamics without the huge time commitment\nit would take to learn enough about Joule-Thompson"
+    } ]
+  }, {
+    "tStartMs": 330889,
+    "dDurationMs": 3501,
+    "segs": [ {
+      "utf8": "expansion through a valve to make a whole\nyoutube video about it…"
+    } ]
+  }, {
+    "tStartMs": 334390,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Brilliant continues to be an incredible supporter\nof MinutePhysics and they’re offering 20%"
+    } ]
+  }, {
+    "tStartMs": 337900,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "off of a premium subscription to the first\n200 of you who go to brilliant.org/minutephysics,"
+    } ]
+  }, {
+    "tStartMs": 342380,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "which gives you full access to all of Brilliant’s\ncourses, puzzles and daily challenges."
+    } ]
+  }, {
+    "tStartMs": 346430,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Again, that’s brilliant.org/minutephysics\nfor 20% off a premium subscription, and to"
+    } ]
+  }, {
+    "tStartMs": 351370,
+    "dDurationMs": 18410,
+    "segs": [ {
+      "utf8": "let Brilliant know you came from here."
+    } ]
+  } ]
+}

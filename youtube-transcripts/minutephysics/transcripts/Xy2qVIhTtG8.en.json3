@@ -1,0 +1,37 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1360,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "In Fahrenheit, 0° was the freezing point of saltwater and 96° the temperature of life."
+    } ]
+  }, {
+    "tStartMs": 5460,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Celsius had 0° and 100° set at the freezing and boiling points of regular water"
+    } ]
+  }, {
+    "tStartMs": 8800,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "while Kelvin is just Celsius offset so that 0° is the coldest it gets."
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  } ]
+}

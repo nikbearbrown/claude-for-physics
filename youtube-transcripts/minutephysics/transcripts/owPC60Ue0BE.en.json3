@@ -1,0 +1,769 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1339,
+    "dDurationMs": 5051,
+    "segs": [ {
+      "utf8": "Cloning: If you want to make a copy of something,\nyou need three things: the thing to be copied,"
+    } ]
+  }, {
+    "tStartMs": 6390,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "The raw materials that you’re going to turn\ninto the copy, and a procedure for transforming"
+    } ]
+  }, {
+    "tStartMs": 9970,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "the raw materials into a semblance of the original\nthing."
+    } ]
+  }, {
+    "tStartMs": 12890,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "To copy a famous painting , you need a blank\ncanvas, a brush, and the right colored paints,"
+    } ]
+  }, {
+    "tStartMs": 17850,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "and then you carefully put paint on the blank\ncanvas to match the original as closely as"
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "you can and hopefully sell it for a lot of\nmoney. But your painting isn’t exactly the"
+    } ]
+  }, {
+    "tStartMs": 25590,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "same as the original – the red is a little\ntoo bright, that stroke is a little too heavy,"
+    } ]
+  }, {
+    "tStartMs": 29710,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "there are a few too many atoms of carbon 14\nin the new canvas, and so on – it’s a"
+    } ]
+  }, {
+    "tStartMs": 33579,
+    "dDurationMs": 4431,
+    "segs": [ {
+      "utf8": "copy, but not a perfect one.\nIs a perfect copy, identical even at the subatomic"
+    } ]
+  }, {
+    "tStartMs": 38010,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "level, even possible? Like, can you make a\ncopy of my brain down to the neuron and beyond,"
+    } ]
+  }, {
+    "tStartMs": 43300,
+    "dDurationMs": 4349,
+    "segs": [ {
+      "utf8": "so that even the position, momentum, and spin\nof every single sodium ion moving between"
+    } ]
+  }, {
+    "tStartMs": 47649,
+    "dDurationMs": 5421,
+    "segs": [ {
+      "utf8": "neurons is exactly, indistinguishably, the\nsame as in the original? Physicists call this"
+    } ]
+  }, {
+    "tStartMs": 53070,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "kind of perfect copying “cloning”, even\nthough it definitely isn’t the same thing"
+    } ]
+  }, {
+    "tStartMs": 57010,
+    "dDurationMs": 5139,
+    "segs": [ {
+      "utf8": "as cloning in biology where two organisms\nshare the same DNA but how they grow and develop"
+    } ]
+  }, {
+    "tStartMs": 62149,
+    "dDurationMs": 4771,
+    "segs": [ {
+      "utf8": "can be very different – cloning in physics\nmeans a much perfecter copy, where the relative"
+    } ]
+  }, {
+    "tStartMs": 66920,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "positions and momenta and energy levels of\nevery particle and all of their bonds and"
+    } ]
+  }, {
+    "tStartMs": 70899,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "interactions are exactly the same in the copy\nas the original, such that if you turned your"
+    } ]
+  }, {
+    "tStartMs": 76060,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "back and randomly switched them, there literally\nwould be no way of telling which was the original"
+    } ]
+  }, {
+    "tStartMs": 81020,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "and which was the copy.\nUnfortunately, the universe is a party pooper,"
+    } ]
+  }, {
+    "tStartMs": 85490,
+    "dDurationMs": 4149,
+    "segs": [ {
+      "utf8": "and perfect cloning is impossible. I don’t\nsimply mean that we don’t know how, or that"
+    } ]
+  }, {
+    "tStartMs": 89639,
+    "dDurationMs": 3741,
+    "segs": [ {
+      "utf8": "we haven’t succeeded yet because it’s\nreally hard to do in practice; no, I mean"
+    } ]
+  }, {
+    "tStartMs": 93380,
+    "dDurationMs": 3989,
+    "segs": [ {
+      "utf8": "that it has been mathematically proven that\nperfect cloning can’t be achieved even in"
+    } ]
+  }, {
+    "tStartMs": 97369,
+    "dDurationMs": 3051,
+    "segs": [ {
+      "utf8": "principle.\nHere, now, is that proof, using as little"
+    } ]
+  }, {
+    "tStartMs": 100420,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": "math as possible.\nEverything in the universe is made up of elementary"
+    } ]
+  }, {
+    "tStartMs": 104649,
+    "dDurationMs": 4051,
+    "segs": [ {
+      "utf8": "quantum particles and the forces by which\nthey interact , so for the no-cloning proof"
+    } ]
+  }, {
+    "tStartMs": 108700,
+    "dDurationMs": 4219,
+    "segs": [ {
+      "utf8": "we need to know what it means to clone a quantum\nparticle, so first we’re going to need to"
+    } ]
+  }, {
+    "tStartMs": 112919,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "know three important and fundamental properties\nshared by all quantum particles."
+    } ]
+  }, {
+    "tStartMs": 117159,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Ok, quantum property number one: particles\ncan be in several states at once. Like Schrödinger’s"
+    } ]
+  }, {
+    "tStartMs": 122439,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "cat, stuck in a bunker with unstable gunpowder\nthat has a 42% chance of exploding in any"
+    } ]
+  }, {
+    "tStartMs": 126749,
+    "dDurationMs": 4751,
+    "segs": [ {
+      "utf8": "minute, but maybe it hasn’t yet, so that\nthe gunpowder is in a superposition of “gunpowder"
+    } ]
+  }, {
+    "tStartMs": 131500,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "has already exploded” and “gunpowder hasn’t\nexploded yet” . Or like a photon going through"
+    } ]
+  }, {
+    "tStartMs": 136540,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "two slits at once to interfere with itself\nand make a nice pattern on the wall . Or an"
+    } ]
+  }, {
+    "tStartMs": 140530,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "electron in an atomic orbital, its wavefunction\noccupying many points in space all at once."
+    } ]
+  }, {
+    "tStartMs": 145900,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "In summary: in quantum mechanics, the whole\nis equal to the sum (that is, superposition)"
+    } ]
+  }, {
+    "tStartMs": 151090,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of its different possible parts .\nAlright, property number two: multiple particles,"
+    } ]
+  }, {
+    "tStartMs": 155970,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "when viewed together as one single “object”\n(like an atom, or entangled pair of photons,"
+    } ]
+  }, {
+    "tStartMs": 160510,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "or the gunpowder together with Schrödinger’s\ncat, or whatever), are the product of their"
+    } ]
+  }, {
+    "tStartMs": 164980,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "components, or, since it’s quantum mechanics,\na superposition of products of their components,"
+    } ]
+  }, {
+    "tStartMs": 170180,
+    "dDurationMs": 4529,
+    "segs": [ {
+      "utf8": "so the situation inside Schrödinger’s box\ncould be described as a superposition of the"
+    } ]
+  }, {
+    "tStartMs": 174709,
+    "dDurationMs": 4321,
+    "segs": [ {
+      "utf8": "product of “gunpowder has already exploded”\nand “the cat is dead” and the product"
+    } ]
+  }, {
+    "tStartMs": 179030,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "of “gunpowder hasn’t exploded” and “the\ncat is alive” . In summary: composite quantum"
+    } ]
+  }, {
+    "tStartMs": 184069,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "objects are multiplied together .\nAnd finally, quantum property number three:"
+    } ]
+  }, {
+    "tStartMs": 188999,
+    "dDurationMs": 4951,
+    "segs": [ {
+      "utf8": "any change to a particle that’s in a superposition\nof states affects all of the states independently"
+    } ]
+  }, {
+    "tStartMs": 193950,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": ". Kind of like how if you go two miles to\nthe right and one mile up and then rotate"
+    } ]
+  }, {
+    "tStartMs": 198230,
+    "dDurationMs": 4289,
+    "segs": [ {
+      "utf8": "your map ninety degrees , that’s the same\nas first spinning each arrow individually"
+    } ]
+  }, {
+    "tStartMs": 202519,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "90° and then adding them together. Or if\nyou have an electron in a superposition of"
+    } ]
+  }, {
+    "tStartMs": 206849,
+    "dDurationMs": 3581,
+    "segs": [ {
+      "utf8": "“here” and “there” that’s moving\nto the right, that means that “electron"
+    } ]
+  }, {
+    "tStartMs": 210430,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "in one second” will be in a superposition\nof “wherever ‘here’ is in one second”"
+    } ]
+  }, {
+    "tStartMs": 214590,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "and “wherever ‘there’ is in one second”.\nIn summary: when you have a superposition,"
+    } ]
+  }, {
+    "tStartMs": 218749,
+    "dDurationMs": 5501,
+    "segs": [ {
+      "utf8": "aka, a sum of several parts , any change or\ntransformation of the sum of the parts is"
+    } ]
+  }, {
+    "tStartMs": 224250,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "equal to the sum of the transformations of\nthe parts , whether that transformation is"
+    } ]
+  }, {
+    "tStartMs": 228510,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "a rotation, a movement, or even an entire\nhypothetical cloning process."
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "So let’s recap, for the no-cloning proof,\nwe’ll use three of the properties that all"
+    } ]
+  }, {
+    "tStartMs": 237209,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "fundamental particles in the universe obey:\nindividual particles can be in superpositions,"
+    } ]
+  }, {
+    "tStartMs": 241629,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "which looks like adding; groups or combinations\nof particles are products of their components"
+    } ]
+  }, {
+    "tStartMs": 246129,
+    "dDurationMs": 4951,
+    "segs": [ {
+      "utf8": "(or sums of products of their components),\nwhich looks like multiplying; and any transformation"
+    } ]
+  }, {
+    "tStartMs": 251080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "of a particle or group of particles is the\nsame as the sum of the transformation applied"
+    } ]
+  }, {
+    "tStartMs": 255400,
+    "dDurationMs": 5899,
+    "segs": [ {
+      "utf8": "to the parts, which looks like distributing.\nOk, now we can get into the meat of the proof!"
+    } ]
+  }, {
+    "tStartMs": 261299,
+    "dDurationMs": 3821,
+    "segs": [ {
+      "utf8": "So in terms of the properties we just outlined,\nlet’s talk about what it would mean to have"
+    } ]
+  }, {
+    "tStartMs": 265120,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "a quantum cloning machine. We’d need the\nthing to be cloned , the materials to make"
+    } ]
+  }, {
+    "tStartMs": 269750,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "a clone out of, and a procedure to transform\nthe materials into an exact copy of the original"
+    } ]
+  }, {
+    "tStartMs": 275050,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": ". Our machine shouldn’t have to know in\nadvance what the thing to be cloned is, otherwise"
+    } ]
+  }, {
+    "tStartMs": 279740,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "it’s not really a machine for cloning things\nas much as a machine for building a known"
+    } ]
+  }, {
+    "tStartMs": 283900,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "thing . So, if a cloning procedure were to\nexist, we should be able to “apply cloning”"
+    } ]
+  }, {
+    "tStartMs": 288590,
+    "dDurationMs": 4109,
+    "segs": [ {
+      "utf8": "to any specimen we want , and end up with\ntwo copies of the specimen."
+    } ]
+  }, {
+    "tStartMs": 292699,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "The problem occurs, however, if the specimen\nwe’re cloning is a superposition, like if"
+    } ]
+  }, {
+    "tStartMs": 297270,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "it’s the gunpowder from inside Schrödinger’s\ncat’s box, in a superposition of “exploded”"
+    } ]
+  }, {
+    "tStartMs": 301460,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "and “not exploded”. If we apply our hypothetical\ncloning to the whole gunpowder-inside-the-box-superposition,"
+    } ]
+  }, {
+    "tStartMs": 308160,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "we get “exploded” plus “not exploded”\ntimes “exploded” plus “not exploded”."
+    } ]
+  }, {
+    "tStartMs": 313180,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "But since, in quantum mechanics, a procedure\napplied to the whole gets distributed through"
+    } ]
+  }, {
+    "tStartMs": 316979,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "as the sum of the procedure applied to the\nparts, that means that we should get the same"
+    } ]
+  }, {
+    "tStartMs": 321419,
+    "dDurationMs": 4741,
+    "segs": [ {
+      "utf8": "result by applying cloning to each part of\nthe superposition , separately cloning “exploded”"
+    } ]
+  }, {
+    "tStartMs": 326160,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and “not exploded” and then adding them\ntogether. But, we don’t get the same thing,"
+    } ]
+  }, {
+    "tStartMs": 330280,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "since exploded times exploded plus not exploded\ntimes not exploded is not the same as exploded"
+    } ]
+  }, {
+    "tStartMs": 336610,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "times exploded plus exploded times not exploded\nplus not exploded times exploded plus not"
+    } ]
+  }, {
+    "tStartMs": 341330,
+    "dDurationMs": 4739,
+    "segs": [ {
+      "utf8": "exploded times not exploded. There are these\nextra terms here that don’t match up."
+    } ]
+  }, {
+    "tStartMs": 346069,
+    "dDurationMs": 6391,
+    "segs": [ {
+      "utf8": "Basically, if both quantum mechanics and cloning\nare true, then A plus B, squared must be the"
+    } ]
+  }, {
+    "tStartMs": 352460,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "same as A squared plus B squared. But A plus\nB, squared, is not the same as A squared plus"
+    } ]
+  }, {
+    "tStartMs": 358840,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "B squared. And this contradiction means that\neither quantum mechanics is wrong (which would"
+    } ]
+  }, {
+    "tStartMs": 363300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "fly in the face of the most precise and accurate\nexperimental tests in all of science ), or"
+    } ]
+  }, {
+    "tStartMs": 367620,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "that a cloning procedure can’t exist. Spoiler\nalert: it ain’t looking so good for cloning."
+    } ]
+  }, {
+    "tStartMs": 371870,
+    "dDurationMs": 4289,
+    "segs": [ {
+      "utf8": "This, by the way, is an example of what’s\ncalled “proof by contradiction”, a logically"
+    } ]
+  }, {
+    "tStartMs": 376159,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "sound (but not always pretty) kind of proof\nwhere you suppose that the opposite of what"
+    } ]
+  }, {
+    "tStartMs": 380580,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "you’re trying to prove is true, is true,\nand show that such an assumption leads to"
+    } ]
+  }, {
+    "tStartMs": 384450,
+    "dDurationMs": 4809,
+    "segs": [ {
+      "utf8": "a contradiction or other logical problems,\nso it can’t be true, and thus what you actually"
+    } ]
+  }, {
+    "tStartMs": 389259,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "are trying to prove must be true instead.\nLike, to prove there’s no biggest even number,"
+    } ]
+  }, {
+    "tStartMs": 393860,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "we’d first suppose there IS a biggest even\nnumber, call it E, which since it’s even"
+    } ]
+  }, {
+    "tStartMs": 398849,
+    "dDurationMs": 4051,
+    "segs": [ {
+      "utf8": "it’s equal to two times some other number.\nBut then if we add 1 to that other number"
+    } ]
+  }, {
+    "tStartMs": 402900,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "and multiply by 2, we get an even number (since\nit has 2 as a factor), but this new number"
+    } ]
+  }, {
+    "tStartMs": 408070,
+    "dDurationMs": 5279,
+    "segs": [ {
+      "utf8": "is bigger than E, which was supposed to be\nthe biggest even number. This is a contradiction,"
+    } ]
+  }, {
+    "tStartMs": 413349,
+    "dDurationMs": 3711,
+    "segs": [ {
+      "utf8": "so our supposition that there is a biggest\neven number can’t be right… so there is"
+    } ]
+  }, {
+    "tStartMs": 417560,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "no biggest even number. Ok, but back to cloning."
+    } ]
+  }, {
+    "tStartMs": 420000,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "So to summarize the proof of no cloning theorem, we first suppose the cloning IS possible,"
+    } ]
+  }, {
+    "tStartMs": 424780,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "then show that such cloning would logically results in the contradiction that"
+    } ]
+  }, {
+    "tStartMs": 428600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "a cloned whole would not be the same as the sum of its parts, and hence perfect cloning"
+    } ]
+  }, {
+    "tStartMs": 433240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "is not possible.\nI also want to point out that the proof of"
+    } ]
+  }, {
+    "tStartMs": 436680,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "no cloning didn’t examine any specific apparatus\nor design for how cloning might be done – it"
+    } ]
+  }, {
+    "tStartMs": 441790,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "just uses properties that we know any cloning\napparatus would have to have. Like, it would"
+    } ]
+  }, {
+    "tStartMs": 446470,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "have to exist in our physical universe, and\nit would have to be able to clone things."
+    } ]
+  }, {
+    "tStartMs": 450610,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "The proof proves that anything with both of\nthese properties can’t exist."
+    } ]
+  }, {
+    "tStartMs": 454800,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "However, for those wanting to live in a sci-fi\nfuture, all is not lost. Even if perfect cloning"
+    } ]
+  }, {
+    "tStartMs": 460169,
+    "dDurationMs": 4981,
+    "segs": [ {
+      "utf8": "isn’t possible, “pretty decent copies”\ncloning is. Like, it’s possible to clone"
+    } ]
+  }, {
+    "tStartMs": 465150,
+    "dDurationMs": 5169,
+    "segs": [ {
+      "utf8": "a qubit with an average of 83% fidelity .\nAnd even more exciting: the no-cloning theorem"
+    } ]
+  }, {
+    "tStartMs": 470319,
+    "dDurationMs": 3951,
+    "segs": [ {
+      "utf8": "is only about cloning; teleportation is still\npossible."
+    } ]
+  }, {
+    "tStartMs": 474270,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "That’s because teleportation consists of\na subject, materials to make the teleported"
+    } ]
+  }, {
+    "tStartMs": 479010,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "version out of, and a procedure to turn the\nteleported materials into the subject, leaving"
+    } ]
+  }, {
+    "tStartMs": 483910,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "behind an empty machine. And a quick calculation\nshows that teleporting a superposition, or"
+    } ]
+  }, {
+    "tStartMs": 489030,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "sum, is indeed equal to the superposition,\nor sum, of the individually teleported parts!"
+    } ]
+  }, {
+    "tStartMs": 494030,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "What’s more, “no cloning” doesn’t\nmean you can’t have two or more copies of"
+    } ]
+  }, {
+    "tStartMs": 498100,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "the same thing in the universe, it just means\nit’s not possible to take an existing thing"
+    } ]
+  }, {
+    "tStartMs": 502069,
+    "dDurationMs": 3741,
+    "segs": [ {
+      "utf8": "that you don’t already know all the details\nabout and make a perfect copy of it while"
+    } ]
+  }, {
+    "tStartMs": 505810,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "leaving the original intact. You can build\na machine to make multiple versions of things"
+    } ]
+  }, {
+    "tStartMs": 510439,
+    "dDurationMs": 4351,
+    "segs": [ {
+      "utf8": "as long as you know in advance exactly what\nit is you’re making. So, is it possible"
+    } ]
+  }, {
+    "tStartMs": 514790,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "to learn every single detail about something?\nWell, the Heisenberg uncertainty principle"
+    } ]
+  }, {
+    "tStartMs": 518760,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "means that you can’t simultaneously measure\nall the relevant details of any one object,"
+    } ]
+  }, {
+    "tStartMs": 523520,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "but if you have a number of objects that you\nknow are the same, you can measure each of"
+    } ]
+  }, {
+    "tStartMs": 527260,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "them in a different way to get the full picture.\nSo the irony is that in quantum mechanics,"
+    } ]
+  }, {
+    "tStartMs": 532410,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "you can’t perfectly clone a thing you have\nonly one of, but if you already have a lot"
+    } ]
+  }, {
+    "tStartMs": 536900,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "of copies of something , you can make more\ncopies."
+    } ]
+  }, {
+    "tStartMs": 539720,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "However, as far as we know, there’s only\none of each of us in the universe, so “no"
+    } ]
+  }, {
+    "tStartMs": 544860,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "100% perfect cloning” in quantum mechanics\nmeans “no 100% perfect cloning” in humans,"
+    } ]
+  }, {
+    "tStartMs": 549650,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "either . While we may eventually be able to\ngrow a child that’s genetically identical"
+    } ]
+  }, {
+    "tStartMs": 553810,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "to you, we likely won’t ever be able to\nmake a perfect clone of you that has all of"
+    } ]
+  }, {
+    "tStartMs": 558090,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "your memories, thoughts, and loves. How close\nwe can get, of course, depends on whether"
+    } ]
+  }, {
+    "tStartMs": 562830,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "or not consciousness relies on quantum processes\nin the brain. But that’s a question for"
+    } ]
+  }, {
+    "tStartMs": 567710,
+    "dDurationMs": 33230,
+    "segs": [ {
+      "utf8": "another day."
+    } ]
+  } ]
+}

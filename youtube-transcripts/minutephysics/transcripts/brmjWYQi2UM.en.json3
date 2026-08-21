@@ -1,0 +1,475 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1339,
+    "dDurationMs": 4911,
+    "segs": [ {
+      "utf8": "Black holes are very heavy astronomical objects\n(which gives them all sorts of cool behaviors"
+    } ]
+  }, {
+    "tStartMs": 6250,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "and properties), but to make a black hole\nit takes more than just a lot of mass."
+    } ]
+  }, {
+    "tStartMs": 10380,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "It takes a lot of density, that is, a lot\nof mass crammed into a sufficiently small"
+    } ]
+  }, {
+    "tStartMs": 14389,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "space."
+    } ]
+  }, {
+    "tStartMs": 15389,
+    "dDurationMs": 3531,
+    "segs": [ {
+      "utf8": "Precisely how much mass, or how small it needs\nto be crammed, will vary."
+    } ]
+  }, {
+    "tStartMs": 18920,
+    "dDurationMs": 4501,
+    "segs": [ {
+      "utf8": "Black hole formation is complicated, but there\nare essentially two possible paths: start"
+    } ]
+  }, {
+    "tStartMs": 23421,
+    "dDurationMs": 3618,
+    "segs": [ {
+      "utf8": "with a fixed amount of matter and compress\nit smaller and smaller until it reaches the"
+    } ]
+  }, {
+    "tStartMs": 27039,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "tipping point where it’s dense enough to\nbecome a black hole (this is how supernovas"
+    } ]
+  }, {
+    "tStartMs": 30580,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "turn the core of supergiant stars into black\nholes), or keep adding matter to an existing"
+    } ]
+  }, {
+    "tStartMs": 35550,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "object until it reaches the tipping point\nwhere it’s so big it becomes a black hole"
+    } ]
+  }, {
+    "tStartMs": 39350,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "(for example, if two neutron stars merge they\ncan form a black hole)."
+    } ]
+  }, {
+    "tStartMs": 42829,
+    "dDurationMs": 3981,
+    "segs": [ {
+      "utf8": "You can do a very rough calculation of these\ntipping points yourself knowing just two things:"
+    } ]
+  }, {
+    "tStartMs": 46810,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "the equation for what’s called the Schwarzschild\nradius of a black hole, and the equation for"
+    } ]
+  }, {
+    "tStartMs": 50770,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "the mass of a spherical object."
+    } ]
+  }, {
+    "tStartMs": 52649,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The Schwarzschild radius is the distance from\nthe center of a black hole below which nothing,"
+    } ]
+  }, {
+    "tStartMs": 56789,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "not even light, can escape ; you may have\nheard it called the “event horizon” and"
+    } ]
+  }, {
+    "tStartMs": 60720,
+    "dDurationMs": 4819,
+    "segs": [ {
+      "utf8": "how big it is depends only on the black hole’s\nmass; The G and c squared here are constants"
+    } ]
+  }, {
+    "tStartMs": 65539,
+    "dDurationMs": 3661,
+    "segs": [ {
+      "utf8": "that help convert from kilograms to meters,\nso the equation can also be written in SI"
+    } ]
+  }, {
+    "tStartMs": 69200,
+    "dDurationMs": 5259,
+    "segs": [ {
+      "utf8": "units as 1.49*10^-27 times mass, but the important\nthing is that the heavier the black hole,"
+    } ]
+  }, {
+    "tStartMs": 74459,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "the bigger the Schwarzschild radius."
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "Schwarzschild, by the way, means “black\nshield” in German, which is bizarrely appropriate"
+    } ]
+  }, {
+    "tStartMs": 80899,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "for the physicist after whom black hole event\nhorizons are named!"
+    } ]
+  }, {
+    "tStartMs": 84439,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Now let’s blindly use this equation to start\ncalculating Schwarzschild radii for other"
+    } ]
+  }, {
+    "tStartMs": 89079,
+    "dDurationMs": 4302,
+    "segs": [ {
+      "utf8": "objects: the Schwarzschild radius of the sun\nis about , the Schwarzschild radius of the"
+    } ]
+  }, {
+    "tStartMs": 93381,
+    "dDurationMs": 6688,
+    "segs": [ {
+      "utf8": "Earth is about 1 cm , and the Schwarzschild\nradius of a cat is about 0.01 yoctometers."
+    } ]
+  }, {
+    "tStartMs": 100069,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "What do these mean?"
+    } ]
+  }, {
+    "tStartMs": 101179,
+    "dDurationMs": 3931,
+    "segs": [ {
+      "utf8": "Well, nothing, since the sun, the earth, and\nthe cat aren’t black holes."
+    } ]
+  }, {
+    "tStartMs": 105110,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yet."
+    } ]
+  }, {
+    "tStartMs": 106110,
+    "dDurationMs": 3969,
+    "segs": [ {
+      "utf8": "In principle, any object that gets squeezed\ndown to around the size of its Schwarzschild"
+    } ]
+  }, {
+    "tStartMs": 110079,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "radius will become a black hole."
+    } ]
+  }, {
+    "tStartMs": 111859,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It’s hard to imagine squeezing the whole\nearth until it literally becomes this big;"
+    } ]
+  }, {
+    "tStartMs": 116659,
+    "dDurationMs": 5401,
+    "segs": [ {
+      "utf8": "but when supergiant stars die, their supernovae\nexplosions are so powerful they can compress"
+    } ]
+  }, {
+    "tStartMs": 122060,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "the star’s already-dense cores past their\nSchwarzschild tipping points to become black"
+    } ]
+  }, {
+    "tStartMs": 126920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "holes."
+    } ]
+  }, {
+    "tStartMs": 127920,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "But suppose you don’t have access to supernova-strength\ncompression; you can instead make a black"
+    } ]
+  }, {
+    "tStartMs": 132319,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "hole by adding more mass to your object."
+    } ]
+  }, {
+    "tStartMs": 134969,
+    "dDurationMs": 4391,
+    "segs": [ {
+      "utf8": "The equation you want is here: it describes\nhow the mass of a spherical object is equal"
+    } ]
+  }, {
+    "tStartMs": 139360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to the density of the material in question\ntimes the volume it takes up."
+    } ]
+  }, {
+    "tStartMs": 143200,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Or, rearranged a little bit, it says that\nthe radius of that sphere is proportional"
+    } ]
+  }, {
+    "tStartMs": 147540,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "to the cube root of its mass."
+    } ]
+  }, {
+    "tStartMs": 149430,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Now, the Schwarzschild radius of an object\nis proportional to its mass directly, no cube"
+    } ]
+  }, {
+    "tStartMs": 153870,
+    "dDurationMs": 4979,
+    "segs": [ {
+      "utf8": "roots involved, so as an object’s mass increases,\nits Schwarzschild radius will increase much"
+    } ]
+  }, {
+    "tStartMs": 158849,
+    "dDurationMs": 2781,
+    "segs": [ {
+      "utf8": "faster than its actual radius."
+    } ]
+  }, {
+    "tStartMs": 161630,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "Double the mass, double the Schwarzschild\nradius, but only 1.26 times the actual radius."
+    } ]
+  }, {
+    "tStartMs": 166549,
+    "dDurationMs": 3851,
+    "segs": [ {
+      "utf8": "Now, remember, the Schwarzschild radius starts\noff really really small and doesn’t really"
+    } ]
+  }, {
+    "tStartMs": 170400,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "mean anything until the entire object can\nfit inside the Schwarzschild radius; but it’s"
+    } ]
+  }, {
+    "tStartMs": 174910,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "mathematically guaranteed that straight lines\neventually catch up to cube roots, so we just"
+    } ]
+  }, {
+    "tStartMs": 179430,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "need to keep adding matter to the earth – eventually\nit will fit inside its own Schwarzschild radius"
+    } ]
+  }, {
+    "tStartMs": 184040,
+    "dDurationMs": 1779,
+    "segs": [ {
+      "utf8": "and collapse into a black hole!"
+    } ]
+  }, {
+    "tStartMs": 185819,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "For the Earth, which has the density of rock\n, this tipping point occurs at a size of around"
+    } ]
+  }, {
+    "tStartMs": 190069,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "140 million kilometers – basically the distance\nto the sun."
+    } ]
+  }, {
+    "tStartMs": 193629,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "Though to be honest rock definitely isn’t\nstrong enough to sustain the pressure necessary"
+    } ]
+  }, {
+    "tStartMs": 197430,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "and we’d probably collapse into a neutron\nstar long before getting that big."
+    } ]
+  }, {
+    "tStartMs": 201439,
+    "dDurationMs": 3821,
+    "segs": [ {
+      "utf8": "As for neutron stars themselves, the tipping\npoint numbers tell us that they will become"
+    } ]
+  }, {
+    "tStartMs": 205260,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": "black holes if they get bigger than about\n6 times the mass of the sun, and about 20km"
+    } ]
+  }, {
+    "tStartMs": 209489,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "in size ! This is a simplified result from\na simplified equation –I mean, neutron stars"
+    } ]
+  }, {
+    "tStartMs": 214269,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "aren't constant density, for one–, but it's\npretty darn close to both astronomical observations,"
+    } ]
+  }, {
+    "tStartMs": 219569,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "and much more sophisticated theoretical predictions\nfor the maximum possible mass (and size) of"
+    } ]
+  }, {
+    "tStartMs": 223810,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "neutron stars."
+    } ]
+  }, {
+    "tStartMs": 225120,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Only off by a factor of two or three."
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "So to recap: if you want to turn your cat\ninto a black hole, you have two options: either"
+    } ]
+  }, {
+    "tStartMs": 232079,
+    "dDurationMs": 4621,
+    "segs": [ {
+      "utf8": "compress it down to a trillionth the size\nof an atomic nucleus, or cover it in a pile"
+    } ]
+  }, {
+    "tStartMs": 236700,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "of other cats that reaches beyond the sun."
+    } ]
+  }, {
+    "tStartMs": 241310,
+    "dDurationMs": 3819,
+    "segs": [ {
+      "utf8": "You may have noticed I just said “beyond\nthe sun”, not “almost to the sun” as"
+    } ]
+  }, {
+    "tStartMs": 245129,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "was the case with the earth."
+    } ]
+  }, {
+    "tStartMs": 246129,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "That’s because cats aren’t as dense as\nrock, so they’ll have a different black"
+    } ]
+  }, {
+    "tStartMs": 249819,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "hole tipping point – I challenge you to\nfigure it out using the Schwarzschild radius"
+    } ]
+  }, {
+    "tStartMs": 252900,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "and mass of a sphere equations and leave the\nanswer in the comments."
+    } ]
+  }, {
+    "tStartMs": 256310,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And after that, you could head over to this\nvideo’s sponsor, Brilliant.org, for more"
+    } ]
+  }, {
+    "tStartMs": 259870,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "interactive quizzes and mini courses on physics\nand math."
+    } ]
+  }, {
+    "tStartMs": 262980,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "In fact, they even have an introductory quiz\nspecifically on black holes and gravity which"
+    } ]
+  }, {
+    "tStartMs": 266520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "guides you through deriving the Schwarzschild\nradius formula and other cool stuff like that,"
+    } ]
+  }, {
+    "tStartMs": 270280,
+    "dDurationMs": 3359,
+    "segs": [ {
+      "utf8": "with just the right balance between hand-holding\nand creative problem-solving - I’ll link"
+    } ]
+  }, {
+    "tStartMs": 273639,
+    "dDurationMs": 5981,
+    "segs": [ {
+      "utf8": "to it in the video description . And the first\n314 people to go to either that link or Brilliant.org/minutephysics"
+    } ]
+  }, {
+    "tStartMs": 279620,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "will get 20% off a premium subscription to\nBrilliant."
+    } ]
+  }, {
+    "tStartMs": 282510,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "Again, that’s Brilliant.org/minutephysics\nwhich lets Brilliant know you came from here."
+    } ]
+  }, {
+    "tStartMs": 286509,
+    "dDurationMs": 251,
+    "segs": [ {
+      "utf8": "Good luck problem solving!"
+    } ]
+  } ]
+}

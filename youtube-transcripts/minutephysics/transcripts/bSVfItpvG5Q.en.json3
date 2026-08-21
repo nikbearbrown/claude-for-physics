@@ -1,0 +1,331 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "When two things crash into each other, it \nseems like it should be a messy affair,  "
+    } ]
+  }, {
+    "tStartMs": 5120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "where just about anything can happen. \nI mean, that's kind of our everyday  "
+    } ]
+  }, {
+    "tStartMs": 8000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "experience of collisions! But there's actually \na magic simplicity underlying the complexity. "
+    } ]
+  }, {
+    "tStartMs": 12720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "In fact, if you have just two things \ncolliding along just one direction,  "
+    } ]
+  }, {
+    "tStartMs": 15680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "then there's only one possible outcome! I mean, \nsure, after the collision each object could in  "
+    } ]
+  }, {
+    "tStartMs": 19680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "principle have any possible velocity to the left \nor right - which is to say, there are two unknown  "
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "variables. But conservation of momentum provides \none equation those variables have to satisfy.  "
+    } ]
+  }, {
+    "tStartMs": 28320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And conservation of energy provides another \nequation those variables have to satisfy.  "
+    } ]
+  }, {
+    "tStartMs": 31920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And in our universe, two independent equations \nfor two unknown variables will uniquely  "
+    } ]
+  }, {
+    "tStartMs": 35920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "determine those variables. So for each possible \ncombination of masses and incoming velocities,  "
+    } ]
+  }, {
+    "tStartMs": 40640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "there's only one possible outcome \nof a 1D collision. For example. "
+    } ]
+  }, {
+    "tStartMs": 44400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Two identical objects coming in at the \nsame velocity? They bounce off each other. "
+    } ]
+  }, {
+    "tStartMs": 48640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "One of those objects not moving? \nOne stops and the other starts. "
+    } ]
+  }, {
+    "tStartMs": 52640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "One object twenty times as big and not moving? \nThe little one bounces back with 90% the speed,  "
+    } ]
+  }, {
+    "tStartMs": 57040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and the big one starts moving with 10% the speed.\nAnd so on... "
+    } ]
+  }, {
+    "tStartMs": 60400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Oh, “but what if energy isn't conserved?” \nWell, yeah, maybe some of the energy of  "
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "the colliding objects doesn't stay as \nkinetic energy but turns into heat,  "
+    } ]
+  }, {
+    "tStartMs": 67520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "or sound, or rotational energy, or whatever, so \nthe conservation of energy equation isn't valid.  "
+    } ]
+  }, {
+    "tStartMs": 72400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Except, you can simply put the lost energy \ninto the conservation of energy equation and  "
+    } ]
+  }, {
+    "tStartMs": 76240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "it becomes valid again. So there are still two \nequations and two unknowns, and therefore only  "
+    } ]
+  }, {
+    "tStartMs": 80480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "one possible outcome of the collision as far as \nthe objects' velocities are concerned. Though  "
+    } ]
+  }, {
+    "tStartMs": 84160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "it's typically really hard to keep track of lost \nenergy and so the outcome of these collisions can  "
+    } ]
+  }, {
+    "tStartMs": 88240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "seem surprising - but from the Universe's \nperspective, they are uniquely determined. "
+    } ]
+  }, {
+    "tStartMs": 92160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And what about in two or three dimensions where \nmost collisions aren't perfectly one dimensional?  "
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Well, the truth is, they secretly are! Most of \nthe time, collisions in 2D or 3D result in a  "
+    } ]
+  }, {
+    "tStartMs": 102480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "net force between the objects which is only in one \ndirection - typically perpendicular to the surface  "
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "where the objects collide, though if the surface \nis complicated or there's friction it might be a  "
+    } ]
+  }, {
+    "tStartMs": 110320,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "different direction. Since there are no net forces \nin directions perpendicular to the net force,  "
+    } ]
+  }, {
+    "tStartMs": 115680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the motion of the objects in those perpendicular \ndirections is unaffected by the collision!  "
+    } ]
+  }, {
+    "tStartMs": 119760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So even though a collision happens in 2D, if \nyou find the right direction the collision  "
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "will be the same as a one dimensional collision \nin that direction, and in the other direction,  "
+    } ]
+  }, {
+    "tStartMs": 127760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "the objects just pass by each other, unaffected. \nWhich means that even in two or three dimensions,  "
+    } ]
+  }, {
+    "tStartMs": 132480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "once you know the secret direction, the outcome \nof collisions is again uniquely determined! "
+    } ]
+  }, {
+    "tStartMs": 136640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And that's the magic of collisions: even \nthough they look complicated and random,  "
+    } ]
+  }, {
+    "tStartMs": 140480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "they're secretly not. The combination of \nconservation of momentum and conservation  "
+    } ]
+  }, {
+    "tStartMs": 144320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "of energy and the fact that most collisions are \nsecretly in one dimension means that the outcome  "
+    } ]
+  }, {
+    "tStartMs": 148480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "of almost any collision between two objects is \ncompletely determined - as long as you know the  "
+    } ]
+  }, {
+    "tStartMs": 152320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "incoming masses and velocities, the amount of \nkinetic energy lost to heat and sound and so on,  "
+    } ]
+  }, {
+    "tStartMs": 155520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and the direction of the one secret dimension. \nAnd, as long as you're ignoring quantum mechanics. "
+    } ]
+  }, {
+    "tStartMs": 159600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Since most big and complicated collisions are \nactually made up of lots of two-object collisions,  "
+    } ]
+  }, {
+    "tStartMs": 164240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that means big complicated collisions \nare also completely determined!  "
+    } ]
+  }, {
+    "tStartMs": 167600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Which is why it's really easy for \ncomputers to simulate lots of collisions. "
+    } ]
+  }, {
+    "tStartMs": 176400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "If you've made it this far into a video about \nthe physics of collisions, I bet you're pretty  "
+    } ]
+  }, {
+    "tStartMs": 180320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "curious, and so you may also be curious \nabout out Brilliant, this video's sponsor.  "
+    } ]
+  }, {
+    "tStartMs": 184400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Brilliant is a fun, interactive science and \nmath learning platform for curious people young  "
+    } ]
+  }, {
+    "tStartMs": 188720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and old, professional and beginner. Brilliant \nis based off the principle that active problem  "
+    } ]
+  }, {
+    "tStartMs": 192800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "solving is the fastest path towards mastery \nof a new concept or skill - not just lectures  "
+    } ]
+  }, {
+    "tStartMs": 197040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "alone - and they have interactive courses ranging \nfrom logic to fundamentals of computer science  "
+    } ]
+  }, {
+    "tStartMs": 201280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "to quantum mechanics to infinity and beyond \n(literally - they have courses about infinity)!  "
+    } ]
+  }, {
+    "tStartMs": 206480,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "To gain a deeper understanding of science \nand mathematics and to sign up for free,  "
+    } ]
+  }, {
+    "tStartMs": 209920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "go to Brilliant.org/MinutePhysics. \nThe first 200 people will get 20%  "
+    } ]
+  }, {
+    "tStartMs": 213840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "off an annual Premium subscription with full \naccess to all of Brilliant’s courses and puzzles.  "
+    } ]
+  }, {
+    "tStartMs": 217840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Again, that's Brilliant.org/MinutePhysics - \nand thanks to Brilliant for their support."
+    } ]
+  } ]
+}

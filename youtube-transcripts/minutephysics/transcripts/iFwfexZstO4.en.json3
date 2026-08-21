@@ -1,0 +1,247 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1180,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "When you turn a car’s steering wheel, the\ncar follows a path along the same curve regardless"
+    } ]
+  }, {
+    "tStartMs": 5830,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "whether you go forwards or backwards."
+    } ]
+  }, {
+    "tStartMs": 8240,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "So it seems like it should be just as easy\nto steer going backwards as going forwards."
+    } ]
+  }, {
+    "tStartMs": 12570,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "But clearly, it's not."
+    } ]
+  }, {
+    "tStartMs": 14220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Suprisingly, the difficulty of driving backwards\nhas almost nothing to do with the direction"
+    } ]
+  }, {
+    "tStartMs": 17940,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "you’re facing and everything to do with\nthe fact that you steer using the front wheels."
+    } ]
+  }, {
+    "tStartMs": 22120,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "When driving forwards, a car goes in the direction\nthe front wheels are pointed."
+    } ]
+  }, {
+    "tStartMs": 25920,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "And when driving backwards, the car goes where\nthe back wheels are pointed."
+    } ]
+  }, {
+    "tStartMs": 29270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Simple!"
+    } ]
+  }, {
+    "tStartMs": 30270,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "But the difference is that going forwards,\nthe direction of travel is determined by the"
+    } ]
+  }, {
+    "tStartMs": 33170,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "same wheels you steer with, so you just point\nthem where you want to go, and that’s where"
+    } ]
+  }, {
+    "tStartMs": 36860,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "you go, the back wheels follow automatically."
+    } ]
+  }, {
+    "tStartMs": 39110,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "In physics, we call this a “stable” system,\nlike dangling a pencil from your fingers – move"
+    } ]
+  }, {
+    "tStartMs": 43950,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "your hand around and the pencil follows, no\nthought required."
+    } ]
+  }, {
+    "tStartMs": 46770,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "However, when driving backwards, the direction\nof travel is determined by the back wheels"
+    } ]
+  }, {
+    "tStartMs": 50860,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "but you steer with the front wheels."
+    } ]
+  }, {
+    "tStartMs": 52690,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "So rather than just pointing the front wheels\nwhere you want to go, you have to point them"
+    } ]
+  }, {
+    "tStartMs": 55931,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "in the direction that will get the BACK wheels\nto point in the direction you want to go – it’s"
+    } ]
+  }, {
+    "tStartMs": 59410,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "an additional level of separation before the\ncar does what you want."
+    } ]
+  }, {
+    "tStartMs": 62520,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "And in fact, if you don’t make any corrections,\nthen over time the back wheels point farther"
+    } ]
+  }, {
+    "tStartMs": 66810,
+    "dDurationMs": 3669,
+    "segs": [ {
+      "utf8": "and farther away from the direction you want\nto go: instead of following the front wheels,"
+    } ]
+  }, {
+    "tStartMs": 70479,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "they want to run away!"
+    } ]
+  }, {
+    "tStartMs": 72130,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "This is an unstable system, like trying to\nbalance a pencil on your fingertip."
+    } ]
+  }, {
+    "tStartMs": 75880,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "It’s incredibly finicky and requires a ton\nof coordinated hand-eye feedback to maintain."
+    } ]
+  }, {
+    "tStartMs": 80450,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "That’s why you constantly have to readjust\nyour steering when driving backwards – mathematically,"
+    } ]
+  }, {
+    "tStartMs": 84900,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "your car is like an upside-down pencil!"
+    } ]
+  }, {
+    "tStartMs": 86780,
+    "dDurationMs": 4229,
+    "segs": [ {
+      "utf8": "Of course, there are some successful rear-steering\nwheeled vehicles – forklifts, for example,"
+    } ]
+  }, {
+    "tStartMs": 91009,
+    "dDurationMs": 4391,
+    "segs": [ {
+      "utf8": "drive only slowly and choose rear-steering\nfor greater control of their forks."
+    } ]
+  }, {
+    "tStartMs": 95400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But let’s go in the other direction and\nadd a TRAILER to your car – steering backwards"
+    } ]
+  }, {
+    "tStartMs": 99400,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "has gained ANOTHER level of difficulty: you\nuse your front wheels to get the back wheels"
+    } ]
+  }, {
+    "tStartMs": 103170,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "to point in the direction needed to get the\nTRAILER to point in the direction you want"
+    } ]
+  }, {
+    "tStartMs": 106040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "to go."
+    } ]
+  }, {
+    "tStartMs": 107040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Not complicated enough?"
+    } ]
+  }, {
+    "tStartMs": 108040,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "It becomes worse the more trailers you add\n– each one adds another level of separation"
+    } ]
+  }, {
+    "tStartMs": 112030,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "between the direction of your steering and\nthe actual direction of travel."
+    } ]
+  }, {
+    "tStartMs": 114950,
+    "dDurationMs": 3809,
+    "segs": [ {
+      "utf8": "Which is why it’s nearly impossible to push\non one end of a chain or a rope and have the"
+    } ]
+  }, {
+    "tStartMs": 118759,
+    "dDurationMs": 4381,
+    "segs": [ {
+      "utf8": "other end go where you want it to, and why\nyou will never, ever balance a flexible rope"
+    } ]
+  }, {
+    "tStartMs": 123140,
+    "dDurationMs": 2259,
+    "segs": [ {
+      "utf8": "or chain upright on your finger."
+    } ]
+  }, {
+    "tStartMs": 125399,
+    "dDurationMs": 78620,
+    "segs": [ {
+      "utf8": "Makes backwards driving seem downright easy!"
+    } ]
+  } ]
+}

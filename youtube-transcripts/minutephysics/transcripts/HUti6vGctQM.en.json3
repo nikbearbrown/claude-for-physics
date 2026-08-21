@@ -1,0 +1,433 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1350,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "A common misconception in statistics is to\nthink that correlation implies causation – like,"
+    } ]
+  }, {
+    "tStartMs": 6100,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "if more tall people have cats, you might think\nthat means being tall makes people more likely"
+    } ]
+  }, {
+    "tStartMs": 9980,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "to get a cat."
+    } ]
+  }, {
+    "tStartMs": 11100,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "However, simply knowing a correlation between\nheight and cat ownership can’t tell us which"
+    } ]
+  }, {
+    "tStartMs": 14840,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "way the causality goes – it may instead\nbe that having a cat causes people to grow"
+    } ]
+  }, {
+    "tStartMs": 18870,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "taller – or perhaps the real cause is something\nelse altogether, like that the people and"
+    } ]
+  }, {
+    "tStartMs": 23490,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "cats live on two separate islands, one a lush\nparadise with enough food for growing tall"
+    } ]
+  }, {
+    "tStartMs": 27530,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "and feeding pet cats, and the other a wasteland\nthat limits both height and cat ownership."
+    } ]
+  }, {
+    "tStartMs": 32140,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "The point of examples like this is that noticing\na correlation between two things doesn’t"
+    } ]
+  }, {
+    "tStartMs": 36969,
+    "dDurationMs": 1971,
+    "segs": [ {
+      "utf8": "imply that one of those things causes the\nother."
+    } ]
+  }, {
+    "tStartMs": 38940,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Hence the common refrain: correlation doesn’t\nimply causation."
+    } ]
+  }, {
+    "tStartMs": 42920,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "And it’s true – it doesn’t!"
+    } ]
+  }, {
+    "tStartMs": 44120,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "But this oft-repeated mantra leads to another\ncommon misconception – the idea that you"
+    } ]
+  }, {
+    "tStartMs": 48019,
+    "dDurationMs": 2991,
+    "segs": [ {
+      "utf8": "can’t infer any causality from statistics."
+    } ]
+  }, {
+    "tStartMs": 51010,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You can!"
+    } ]
+  }, {
+    "tStartMs": 52010,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "I mean, it’s quite reasonable to think that,\nif two things are correlated, there’s likely"
+    } ]
+  }, {
+    "tStartMs": 55030,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "some reason, , even if a single correlation\ncan’t tell you."
+    } ]
+  }, {
+    "tStartMs": 58350,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "Sometimes you can infer the causality from\nadditional information – like knowing that"
+    } ]
+  }, {
+    "tStartMs": 62229,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "one thing happened before the other – but\nyou can also infer causality directly from"
+    } ]
+  }, {
+    "tStartMs": 66130,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "correlations – you just need more than\none, together with something called causal"
+    } ]
+  }, {
+    "tStartMs": 69770,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "networks."
+    } ]
+  }, {
+    "tStartMs": 70770,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Like, in our cat-height-island example, we\nknow that cat ownership and height are correlated,"
+    } ]
+  }, {
+    "tStartMs": 75500,
+    "dDurationMs": 2229,
+    "segs": [ {
+      "utf8": "but we don’t know what the cause of that\ncorrelation is."
+    } ]
+  }, {
+    "tStartMs": 77729,
+    "dDurationMs": 3861,
+    "segs": [ {
+      "utf8": "If we don’t know anything else, then there\nare 19 – yes 19!"
+    } ]
+  }, {
+    "tStartMs": 81590,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "– different causal relationships that could\nexplain the situation."
+    } ]
+  }, {
+    "tStartMs": 84420,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "20 if you think the correlation is just an\naccident."
+    } ]
+  }, {
+    "tStartMs": 89320,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "However, perhaps we know two other things:\nfirst, suppose people born on a particular"
+    } ]
+  }, {
+    "tStartMs": 94270,
+    "dDurationMs": 3849,
+    "segs": [ {
+      "utf8": "island stay there, so their height doesn’t\ninfluence what island they live on, and we"
+    } ]
+  }, {
+    "tStartMs": 98119,
+    "dDurationMs": 3151,
+    "segs": [ {
+      "utf8": "can rule out the relationships where height\ninfluences island."
+    } ]
+  }, {
+    "tStartMs": 101270,
+    "dDurationMs": 4449,
+    "segs": [ {
+      "utf8": "Second, suppose that on either island, taken\nby itself, there isn’t any correlation between"
+    } ]
+  }, {
+    "tStartMs": 105719,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "height and cat ownership; then we can rule\nout all the options where height and cats"
+    } ]
+  }, {
+    "tStartMs": 109840,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "influence each other directly . This leaves\nus with just two options: either the islands"
+    } ]
+  }, {
+    "tStartMs": 114460,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "are the causal explanation for both height\nand cat ownership (maybe, as before, one island"
+    } ]
+  }, {
+    "tStartMs": 118960,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "is a lush, healthy paradise for both people\nand cats), or else cat ownership is the causal"
+    } ]
+  }, {
+    "tStartMs": 123180,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "explanation for the islands which are the\ncausal explanation for height, (like, maybe"
+    } ]
+  }, {
+    "tStartMs": 127179,
+    "dDurationMs": 4411,
+    "segs": [ {
+      "utf8": "an abundance of cats turned the island into\na paradise, thereby influencing the height"
+    } ]
+  }, {
+    "tStartMs": 131590,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "of future cat owners)."
+    } ]
+  }, {
+    "tStartMs": 132810,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "So, starting with 19 possible causal relationships,\nwe used correlations to narrow things down"
+    } ]
+  }, {
+    "tStartMs": 137500,
+    "dDurationMs": 8380,
+    "segs": [ {
+      "utf8": "to just 2 options – not bad!"
+    } ]
+  }, {
+    "tStartMs": 145880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Of course, this is just a simple example,\nbut for any group of things, you can use the"
+    } ]
+  }, {
+    "tStartMs": 149480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "various correlations between them (or lack\nof correlations) to eliminate some of the"
+    } ]
+  }, {
+    "tStartMs": 153920,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "possible cause-and-effect relationships."
+    } ]
+  }, {
+    "tStartMs": 156190,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "And that’s how correlations CAN imply causation."
+    } ]
+  }, {
+    "tStartMs": 159170,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "There is one problem, though…"
+    } ]
+  }, {
+    "tStartMs": 161370,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "some experiments in quantum mechanics have\ncorrelations that rule out ALL possible cause"
+    } ]
+  }, {
+    "tStartMs": 166080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and effect relationships."
+    } ]
+  }, {
+    "tStartMs": 167080,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "We’ll have to save the details for a later\nvideo, but until then, may I suggest a new"
+    } ]
+  }, {
+    "tStartMs": 170860,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "version of the famous refrain?"
+    } ]
+  }, {
+    "tStartMs": 172040,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "“Correlation doesn’t necessarily imply\ncausation, but it can if you use it to evaluate"
+    } ]
+  }, {
+    "tStartMs": 175870,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "causal models."
+    } ]
+  }, {
+    "tStartMs": 176870,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "…Except in quantum mechanics.”"
+    } ]
+  }, {
+    "tStartMs": 179230,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "I’ve got a little more about statistics\nand causality after this, but first I’m"
+    } ]
+  }, {
+    "tStartMs": 183930,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "excited to introduce the very relevant sponsor\nfor this video: Brilliant.org."
+    } ]
+  }, {
+    "tStartMs": 188340,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Brilliant is a problem solving website designed\nto help you practice and learn math and science"
+    } ]
+  }, {
+    "tStartMs": 191870,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "via guided problems, puzzles and quizzes:\nI know that sounds kind of nerdy, but the"
+    } ]
+  }, {
+    "tStartMs": 196090,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "truth is that the only way to truly learn\nand understand much of math and physics is"
+    } ]
+  }, {
+    "tStartMs": 200010,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "to actively work through the material yourself\n– videos only get you so far."
+    } ]
+  }, {
+    "tStartMs": 204680,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "And Brilliant does a brilliant job of making\nthat easy, sneakily enticing you into doing"
+    } ]
+  }, {
+    "tStartMs": 209430,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "math and physics problems by means of intriguing\nquestions structured for all ability and knowledge"
+    } ]
+  }, {
+    "tStartMs": 214250,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "levels."
+    } ]
+  }, {
+    "tStartMs": 215250,
+    "dDurationMs": 3371,
+    "segs": [ {
+      "utf8": "I say this from experience, because if you\nhaven’t done a problem for a few days, Brilliant"
+    } ]
+  }, {
+    "tStartMs": 218621,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "will send you an attention-grabbing puzzle\n, and I’ve been sucked in by quite a few"
+    } ]
+  }, {
+    "tStartMs": 222410,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of them."
+    } ]
+  }, {
+    "tStartMs": 223410,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "If you want to try out Brilliant (which I\nrecommend), heading to brilliant.org/minutephysics"
+    } ]
+  }, {
+    "tStartMs": 227680,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "will let them know you came from here, and\nyou can check out their courses on Probability,"
+    } ]
+  }, {
+    "tStartMs": 232070,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "the Physics of the Everyday, Classical Mechanics,\nGravitational Physics and so on."
+    } ]
+  }, {
+    "tStartMs": 236900,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Hey, glad you’re still here – in case\nyou’re interested, there’s a footnotes"
+    } ]
+  }, {
+    "tStartMs": 240470,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "video covering a few things that got cut out\nof this one, like feedback loops and correlations"
+    } ]
+  }, {
+    "tStartMs": 244780,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "that arise just by chance."
+    } ]
+  }, {
+    "tStartMs": 246260,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "The link’s on screen and in the video description."
+    } ]
+  } ]
+}

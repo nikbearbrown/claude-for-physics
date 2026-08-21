@@ -1,0 +1,205 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 210,
+    "dDurationMs": 4811,
+    "segs": [ {
+      "utf8": "In mid 1905, Albert Einstein derived what\nis now the most famous equation in the world:"
+    } ]
+  }, {
+    "tStartMs": 5021,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "E equals M C squared. But he didn't just write\nthis down out of the blue – it followed"
+    } ]
+  }, {
+    "tStartMs": 9090,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "directly from his paper on special relativity\nthat we talked about in last week's video…"
+    } ]
+  }, {
+    "tStartMs": 12910,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "and here's how he did it:"
+    } ]
+  }, {
+    "tStartMs": 14269,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Suppose you're watching a cat float freely\nin empty space, when suddenly it emits a flash"
+    } ]
+  }, {
+    "tStartMs": 18339,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "of light in all directions. The light carries\naway some energy, we'll call it \"E\", so by"
+    } ]
+  }, {
+    "tStartMs": 22609,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "conservation of energy the cat must have lost\nenergy E… but since the light was emitted"
+    } ]
+  }, {
+    "tStartMs": 26869,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "symmetrically in all directions, it won't\nhave changed the cat's velocity. So where"
+    } ]
+  }, {
+    "tStartMs": 30640,
+    "dDurationMs": 2029,
+    "segs": [ {
+      "utf8": "did the energy for the light come from?"
+    } ]
+  }, {
+    "tStartMs": 32669,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Never mind that now… let's imagine you get\nbored and zoom off in a spaceship in the middle"
+    } ]
+  }, {
+    "tStartMs": 35769,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "of the experiment. But from your new perspective,\nyou're sitting still in your spaceship and"
+    } ]
+  }, {
+    "tStartMs": 39629,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "the cat is the one moving past outside the\nwindow! Therefore you'll calculate that the"
+    } ]
+  }, {
+    "tStartMs": 43269,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "cat has some kinetic energy, that is, energy\nof motion… and when you see the cat emit"
+    } ]
+  }, {
+    "tStartMs": 46949,
+    "dDurationMs": 3441,
+    "segs": [ {
+      "utf8": "the flash of light, you'll again measure that\nits energy decreases by the energy of the"
+    } ]
+  }, {
+    "tStartMs": 50390,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "light."
+    } ]
+  }, {
+    "tStartMs": 51390,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Except now that you're moving, special relativity\ntells us that time passes at different rates"
+    } ]
+  }, {
+    "tStartMs": 55170,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "for you and the cat, so you'll measure a different\nvalue for the frequency, and thus energy of"
+    } ]
+  }, {
+    "tStartMs": 59420,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "the flash of light. This is the relativistic\ndoppler effect, and for our purposes, it amounts"
+    } ]
+  }, {
+    "tStartMs": 63859,
+    "dDurationMs": 3861,
+    "segs": [ {
+      "utf8": "to multiplying the energy of the light by\none plus your velocity squared divided by"
+    } ]
+  }, {
+    "tStartMs": 67720,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "twice the speed of light squared."
+    } ]
+  }, {
+    "tStartMs": 69110,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So to recap, if you take off at velocity v,\nyou'll see the cat gain some kinetic energy"
+    } ]
+  }, {
+    "tStartMs": 73990,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": "KE1, then at the flash you'll see the cat's\nenergy decrease by E times one plus v squared"
+    } ]
+  }, {
+    "tStartMs": 78159,
+    "dDurationMs": 4141,
+    "segs": [ {
+      "utf8": "over two c squared. On the other hand, if\nyou wait, you'll see the cat's energy decrease"
+    } ]
+  }, {
+    "tStartMs": 82300,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "by E, and now when you take off you'll see\nit gain kinetic energy KE2."
+    } ]
+  }, {
+    "tStartMs": 86830,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "But this is silly! You never touch or otherwise\ninfluence the cat in either case, so you should"
+    } ]
+  }, {
+    "tStartMs": 90930,
+    "dDurationMs": 4609,
+    "segs": [ {
+      "utf8": "get the same total energy at the end… Rearranging,\nwe see that the kinetic energy before and"
+    } ]
+  }, {
+    "tStartMs": 95539,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "after the flash must be different! And the\nkinetic energy of an object is one-half of"
+    } ]
+  }, {
+    "tStartMs": 99500,
+    "dDurationMs": 4469,
+    "segs": [ {
+      "utf8": "its mass times velocity squared, but we know\nthat the velocity was the same in both cases…"
+    } ]
+  }, {
+    "tStartMs": 103969,
+    "dDurationMs": 3312,
+    "segs": [ {
+      "utf8": "so in order to account for the difference,\nthe cat's mass must change when it emits the"
+    } ]
+  }, {
+    "tStartMs": 107281,
+    "dDurationMs": 1059,
+    "segs": [ {
+      "utf8": "flash of light!"
+    } ]
+  }, {
+    "tStartMs": 108340,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Now if we cancel things out, you can see that\nthe change in mass of the cat must be equal"
+    } ]
+  }, {
+    "tStartMs": 111890,
+    "dDurationMs": 17190,
+    "segs": [ {
+      "utf8": "to the energy divided by c squared – or,\nas you've heard before, E equals M C squared!"
+    } ]
+  } ]
+}

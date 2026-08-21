@@ -1,0 +1,841 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Interstellar travel is horrible-what with the \ncramped quarters of your spaceship and only  "
+    } ]
+  }, {
+    "tStartMs": 5460,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "the thin hull separating you from deathly \ncold and deadly cosmic rays. Much safer to  "
+    } ]
+  }, {
+    "tStartMs": 10440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "stay on here Earth with our gloriously habitable \nbiosphere, protective magnetic field, and endless  "
+    } ]
+  }, {
+    "tStartMs": 16440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "energy from the Sun. But what if we could have \nthe best of all worlds? No pun intended. What  "
+    } ]
+  }, {
+    "tStartMs": 22680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "if we could turn our entire solar system into \na spaceship and drive the Sun itself around  "
+    } ]
+  }, {
+    "tStartMs": 27720,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "the galaxy? Well, I don't know if we definitely \ncan, but I don't know if we definitely can't."
+    } ]
+  }, {
+    "tStartMs": 39960,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Moving the Sun would be a prodigious technological \nfeat—an act befitting a type II civilization on  "
+    } ]
+  }, {
+    "tStartMs": 46320,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "the Kardashev scale—the same technological realm \nas building a star-encompassing Dyson sphere.  "
+    } ]
+  }, {
+    "tStartMs": 53040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Although it’ll be several centuries at \nleast before we can reach that level,  "
+    } ]
+  }, {
+    "tStartMs": 57360,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the actual physics of a stellar engine is easily \nexplained in a short YouTube video in 2023,  "
+    } ]
+  }, {
+    "tStartMs": 63480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "and that’s what I’m going to do today. It’s really \njust Newton’s laws of motion. Newton’s first law  "
+    } ]
+  }, {
+    "tStartMs": 69240,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "tells us that objects tend to coast at a constant \nspeed unless acted on by an external force—say,  "
+    } ]
+  }, {
+    "tStartMs": 75600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the mutual gravity of the rest of the galaxy \nholding our Sun in its orbit. But it’s also  "
+    } ]
+  }, {
+    "tStartMs": 80640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "possible for an object to change its speed through \npropulsion—ejecting a smaller part of itself  "
+    } ]
+  }, {
+    "tStartMs": 85920,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "at a very high speed in the opposite direction \nto your desired direction of motion. Newton’s  "
+    } ]
+  }, {
+    "tStartMs": 90600,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "second law says that every action has an equal and \nopposite reaction. If, say, a rocket blasts its  "
+    } ]
+  }, {
+    "tStartMs": 96720,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "propellant, the act of blasting pushes the rocket \nforward. This is just conservation of momentum."
+    } ]
+  }, {
+    "tStartMs": 102360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "A stellar engine follows the exact same principle,  "
+    } ]
+  }, {
+    "tStartMs": 105120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "with the mild additional technical challenge \nof building a solar-system-scale structure to  "
+    } ]
+  }, {
+    "tStartMs": 110160,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "do the job. Although it sounds impossible \nto move something as massive as the Sun,  "
+    } ]
+  }, {
+    "tStartMs": 114900,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "which weighs more than 300,000 Earths, we have a \nready-made energy source to do so: the Sun itself."
+    } ]
+  }, {
+    "tStartMs": 123240,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "It was Fritz Zwicky who first came up with a \nscheme to move the Sun. Zwicky had a lot of wild  "
+    } ]
+  }, {
+    "tStartMs": 129540,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "ideas—he was the first to ponder the possibility \nof dark matter, and predicted the existence of  "
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "neutron stars and gravitational lensing long \nbefore they were discovered. In 1961 he proposed  "
+    } ]
+  }, {
+    "tStartMs": 142620,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the first stellar engine. It was a giant particle \naccelerator in space that would shoot pellets  "
+    } ]
+  }, {
+    "tStartMs": 148140,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "at the sun at close to the speed of light. With \nenough kinetic energy, these would ignite fusion  "
+    } ]
+  }, {
+    "tStartMs": 153360,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "on impact and blast jets of matter off at high \nspeed, pushing the sun. The Sun’s material would  "
+    } ]
+  }, {
+    "tStartMs": 159180,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "be its own propellant and energy source, although \nwe’d need to come up with at least enough energy  "
+    } ]
+  }, {
+    "tStartMs": 163620,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "to power the particle accelerator. Now Zwicky \nnever did the math on how much fuel this would  "
+    } ]
+  }, {
+    "tStartMs": 168840,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "take or how fast it would go, and in his classic \nstyle he never returned to this idea. But the  "
+    } ]
+  }, {
+    "tStartMs": 174120,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "proposal inspired humanity—or at least a few of \nus—to start thinking about how to move the Sun."
+    } ]
+  }, {
+    "tStartMs": 180060,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Although the next serious proposal was \nover two decades later. In the late 80s,  "
+    } ]
+  }, {
+    "tStartMs": 184980,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Soviet aerospace engineer Leonid Shkadov came up \nwith a concept that doesn’t require any external  "
+    } ]
+  }, {
+    "tStartMs": 191340,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "energy source, nor even a propellant. The \nShkadov thruster relies on the fact that  "
+    } ]
+  }, {
+    "tStartMs": 196800,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "light itself carries momentum. Each of \nthose photons carries momentum away and  "
+    } ]
+  }, {
+    "tStartMs": 203820,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "so pushes the Sun an infinitesimal amount in \nthe opposite direction. The push is very tiny,  "
+    } ]
+  }, {
+    "tStartMs": 210780,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "and photons are emitted evenly in all \ndirections, so the Sun really stays put."
+    } ]
+  }, {
+    "tStartMs": 214800,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "But what if the Sun could be coaxed a little more\ninto shining more in one direction? Shkadov’s  "
+    } ]
+  }, {
+    "tStartMs": 219960,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "proposal was to build a giant parabolic \nmirror made of a super thin foil the size  "
+    } ]
+  }, {
+    "tStartMs": 225540,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "of a planet’s orbit. Photons hitting \nthe mirror would be reflected back,  "
+    } ]
+  }, {
+    "tStartMs": 229500,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "transferring momentum to the mirror \nin the process. If placed just right,  "
+    } ]
+  }, {
+    "tStartMs": 234120,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "this outward radiation pressure would be \nperfectly countered by the inward pull of  "
+    } ]
+  }, {
+    "tStartMs": 238800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the Sun’s gravitational field, enabling the mirror \nto remain in a fixed position relative to the Sun."
+    } ]
+  }, {
+    "tStartMs": 244080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "The mirror is a solar sail in the truest \nsense—powered by sunlight and pulling the  "
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "Sun itself. There are two ways to think about how \nthis works. One is that we consider the Sun and  "
+    } ]
+  }, {
+    "tStartMs": 257220,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "mirror as a single system which radiates \nlight preferentially in one direction.  "
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "Conservation of momentum then demands that the \nsystem accelerates in the opposite direction.  "
+    } ]
+  }, {
+    "tStartMs": 267300,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "Another way is to think of the mirror as a giant \ngravitational tugboat. In this interpretation,  "
+    } ]
+  }, {
+    "tStartMs": 274140,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Sun’s radiation does indeed cause the \nmirror to accelerate in the opposite  "
+    } ]
+  }, {
+    "tStartMs": 277560,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "direction to the incoming photons. But the \nsail’s own gravitational field tugs the Sun  "
+    } ]
+  }, {
+    "tStartMs": 282780,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "slightly so that our star accelerates with the \nsail. Same effect, different interpretations."
+    } ]
+  }, {
+    "tStartMs": 288840,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Positioning of the sail determines the \ndirection of motion, which could in  "
+    } ]
+  }, {
+    "tStartMs": 293100,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "principle be in any direction. You might want to \nbe careful to keep the sail above or below the  "
+    } ]
+  }, {
+    "tStartMs": 299280,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "planetary orbits however; otherwise you get \nroasted passing through the reflected beam,  "
+    } ]
+  }, {
+    "tStartMs": 304140,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "or freeze passing through the shadow of the \nsail. But if you’re a Kardashev-II civilization,  "
+    } ]
+  }, {
+    "tStartMs": 309660,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "it’s probably no big deal to manipulate the \nsail or the reflected beam to spare your planet."
+    } ]
+  }, {
+    "tStartMs": 314400,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "Besides being careful not to fry the Earth, we \notherwise don’t need to worry to much about the  "
+    } ]
+  }, {
+    "tStartMs": 320580,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "planetary system. As long as the acceleration \nof our stellar engine isn’t too high,  "
+    } ]
+  }, {
+    "tStartMs": 325440,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the planets will just come along for the ride, \nheld in place by the Sun’s gravitational field.  "
+    } ]
+  }, {
+    "tStartMs": 330720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "And for any plausible stellar engine, that \nacceleration is going to be pretty small."
+    } ]
+  }, {
+    "tStartMs": 336120,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "For example, the acceleration produced by Shkadov \nthruster would be less than a trillionth of  "
+    } ]
+  }, {
+    "tStartMs": 342960,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "earth’s surface gravity’s acceleration. It’s not \nso much a solar jetpack to zoom around the galaxy,  "
+    } ]
+  }, {
+    "tStartMs": 349560,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "but rather a tool to just tweak a star’s \nexisting galactic orbit. Over the course  "
+    } ]
+  }, {
+    "tStartMs": 355440,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "of an entire galactic orbit this thruster could \nget a sunlike star a few tens of lightyears away  "
+    } ]
+  }, {
+    "tStartMs": 361860,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "from where you otherwise would have been under \nthe influence of gravity alone. In the best-case  "
+    } ]
+  }, {
+    "tStartMs": 367140,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "scenario it would take a billion years to change \nthe sun’s orbital speed in the galaxy by 10%.  "
+    } ]
+  }, {
+    "tStartMs": 373560,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "But that could be enough to allow a long-lasting \ncivilization to narrowly avoid a long-projected  "
+    } ]
+  }, {
+    "tStartMs": 380220,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "collision with another star or a black hole. \nOr perhaps to pass alongside another star for  "
+    } ]
+  }, {
+    "tStartMs": 386460,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "easy migration— even maybe an entire planetary \ntransfer as their home star is starts to burn out."
+    } ]
+  }, {
+    "tStartMs": 393480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "However, a Shkadov thruster is not \nquick enough to avoid imminent disaster.  "
+    } ]
+  }, {
+    "tStartMs": 399180,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "If we project that our system is going to \nwind up in the 100 light year kill-zone  "
+    } ]
+  }, {
+    "tStartMs": 404580,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "of an impending supernova, we’re going to need \nmore hustle than the Shkadov thruster provides."
+    } ]
+  }, {
+    "tStartMs": 409800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Now if you still have any doubt about the \nincredible value of YouTube science shows,  "
+    } ]
+  }, {
+    "tStartMs": 414120,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "it could be that one saves our species. The \nKurzgesagt channel commissioned the next  "
+    } ]
+  }, {
+    "tStartMs": 421260,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "advance in stellar engine technology back \nin 2019 resulting in the Caplan thruster—a  "
+    } ]
+  }, {
+    "tStartMs": 428160,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "scheme which could potentially grant a thousand \ntimes the acceleration of the Shkadov thruster."
+    } ]
+  }, {
+    "tStartMs": 433560,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "This design starts with a Dyson sphere - or \nperhaps a Dyson swarm—which is basically many  "
+    } ]
+  }, {
+    "tStartMs": 438660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "mirrors that either orbit the Sun \nor float in place on its radiation.  "
+    } ]
+  }, {
+    "tStartMs": 442860,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "This structure reflects sunlight back to a \nspecific point on the solar surface. This  "
+    } ]
+  }, {
+    "tStartMs": 447720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "raises the temperature, increasing the flow \nof solar wind emerging from that spot. But  "
+    } ]
+  }, {
+    "tStartMs": 452400,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "itself this results in a very weak transfer \nof momentum. But now we add our thruster.  "
+    } ]
+  }, {
+    "tStartMs": 459720,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "One or more large, probably electromagnetic \ncollection cones gather this ejected solar  "
+    } ]
+  }, {
+    "tStartMs": 466380,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "material and channel it into a fusion reactor, \nwhere the helium is fused into carbon and oxygen.  "
+    } ]
+  }, {
+    "tStartMs": 472500,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "This produces an enormous amount of energy, \nand that energy is used to eject the fusion  "
+    } ]
+  }, {
+    "tStartMs": 478020,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "products out the back as a propellant, and also \nto send a beam of hydrogen back into the Sun."
+    } ]
+  }, {
+    "tStartMs": 483240,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "This is a variation on a sci-fi concept called the \n‘fusion candle’, used to drive a gas giant around  "
+    } ]
+  }, {
+    "tStartMs": 490740,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "in space. It’s also related to the Bussard ramjet, \nwhich collects interstellar matter and fuses it to  "
+    } ]
+  }, {
+    "tStartMs": 497340,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "propel a spacecraft—only here the Sun is providing \nthe matter, and also becomes the spacecraft.  "
+    } ]
+  }, {
+    "tStartMs": 503820,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "In principle, you could imagine a huge number \nof these thrusters collecting the solar wind  "
+    } ]
+  }, {
+    "tStartMs": 508440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and using it to power the jets, all orbiting the \nsun and only firing once they’re in position."
+    } ]
+  }, {
+    "tStartMs": 514260,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "An added advantage of this method is that \nit actually increases the lifespan of the  "
+    } ]
+  }, {
+    "tStartMs": 518400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "star. Lower mass stars live longer than higher \nmass stars. An advanced civilization might  "
+    } ]
+  }, {
+    "tStartMs": 524160,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "actually want to remove some of the mass of its \nhome star in order to eke out a few more billion  "
+    } ]
+  }, {
+    "tStartMs": 529920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "years. The process of doing this by reflecting \nenergy back onto the stellar surface is called  "
+    } ]
+  }, {
+    "tStartMs": 534840,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "star-lifting. Well, why not use the ejected \nmass to also drive your star around the galaxy."
+    } ]
+  }, {
+    "tStartMs": 540660,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And with methods like this, it could one day \nbe possible to radically change the Sun’s  "
+    } ]
+  }, {
+    "tStartMs": 545580,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "orbit—perhaps even reverse it's orbit \nto fly-by and colonize many planetary  "
+    } ]
+  }, {
+    "tStartMs": 551100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "systems —or even escape the Milky Way’s \ngravitational field for a trip to Andromeda."
+    } ]
+  }, {
+    "tStartMs": 555900,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "By the way, there is an option if we aren’t \nsatisfied with merely changing the Sun’s orbit  "
+    } ]
+  }, {
+    "tStartMs": 561000,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "or wandering the local intergalactic neighborhood. \nIf we were to use the Caplan thruster or something  "
+    } ]
+  }, {
+    "tStartMs": 567060,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "like it to burn not just the helium but also \nthe hydrogen, it’s plausible to reach speeds  "
+    } ]
+  }, {
+    "tStartMs": 572280,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "up to 10% that of light. That would enable us \nto catch up to far more distant galaxies before  "
+    } ]
+  }, {
+    "tStartMs": 577860,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "they recede from our reach due to the expanding \nuniverse. On the other hand, burning the hydrogen  "
+    } ]
+  }, {
+    "tStartMs": 584220,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "instead of throwing it back into the Sun would \neventually drain our star of its mass, until it  "
+    } ]
+  }, {
+    "tStartMs": 589140,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "faded into a dim brown dwarf star. Basically \na very, very, very fast moving mega-Jupiter."
+    } ]
+  }, {
+    "tStartMs": 595020,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "To build a stellar engine of any sort we’re \ngoing to first need to master massive-scale  "
+    } ]
+  }, {
+    "tStartMs": 599940,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "astro-engineering. We’d probably need to build \nself-replicating mining and construction robots  "
+    } ]
+  }, {
+    "tStartMs": 605880,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "to disassemble entire planetary bodies to \nbuild these things. That’s several centuries  "
+    } ]
+  }, {
+    "tStartMs": 611400,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "away at a minimum, and probably more like \nthousands of years if we get there at all.  "
+    } ]
+  }, {
+    "tStartMs": 616260,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "But that doesn’t mean it’s not worth \nthinking about this stuff now. For one thing,  "
+    } ]
+  }, {
+    "tStartMs": 620640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "understanding what’s possible in the \nfuture might tell us how to detect  "
+    } ]
+  }, {
+    "tStartMs": 624480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "other civilizations that have already reached \nthese frankly ridiculous technological levels."
+    } ]
+  }, {
+    "tStartMs": 630240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Ever since Freeman Dyson first \nthought up his famous sphere,  "
+    } ]
+  }, {
+    "tStartMs": 634320,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "dozens of observational searches have been done, \nsometimes they've looked for the excess infrared  "
+    } ]
+  }, {
+    "tStartMs": 640560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "radiation that would leak out of the shell, \nand sometimes looking for weird flickering from  "
+    } ]
+  }, {
+    "tStartMs": 645360,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "orbiting panels obscuring the star from \ntime to time. All have turned up empty."
+    } ]
+  }, {
+    "tStartMs": 651060,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "In the same spirit, scientists have calculated \nhow a star might dim if a Shkadov thruster is  "
+    } ]
+  }, {
+    "tStartMs": 656700,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "rotated over it, perhaps as aliens look \nto change the direction of their star.  "
+    } ]
+  }, {
+    "tStartMs": 661980,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "Others have looked into the Gaia space telescope \ndata for any inexplicably fast stars that might be  "
+    } ]
+  }, {
+    "tStartMs": 669360,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "zipping around the galaxy. Those searches \nhave also come up empty, unsurprisingly.  "
+    } ]
+  }, {
+    "tStartMs": 674760,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "But that doesn’t mean artificially accelerated \nstars don’t exist—just that they don’t exist in  "
+    } ]
+  }, {
+    "tStartMs": 680160,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "sufficient numbers or with sufficiently high \nspeeds or deviant orbits to be spotted yet."
+    } ]
+  }, {
+    "tStartMs": 685980,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "So can stellar engines ever be built? We don’t \nknow. But the fact that it’s even a maybe is  "
+    } ]
+  }, {
+    "tStartMs": 693000,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "pretty awesome. It's not something we should \nspend a lot of effort on right now. We should  "
+    } ]
+  }, {
+    "tStartMs": 699420,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "probably focus more on the pressing matter of \nsaving the planet. But here's another reason to  "
+    } ]
+  }, {
+    "tStartMs": 705120,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "save it--so in the far future we can pimp it and \nthe rest of the solar system into the sweetest  "
+    } ]
+  }, {
+    "tStartMs": 711480,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "ride in the Milky Way. And then, from the comfort \nof home explore the distant reaches of spacetime."
+    } ]
+  }, {
+    "tStartMs": 718260,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Before I go, I'd like you to know we’re that\nhaving a problem with the YouTube algorithm  "
+    } ]
+  }, {
+    "tStartMs": 723660,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "triggered by our comment response live stream a \nfew weeks ago. Our subsequent episodes haven’t  "
+    } ]
+  }, {
+    "tStartMs": 729840,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "been reaching nearly as many members of the \nSpace Time community and we need your help!  "
+    } ]
+  }, {
+    "tStartMs": 735900,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "The two best ways to help are \n1. click on the bell icon and  "
+    } ]
+  }, {
+    "tStartMs": 740520,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "select “ALL” notifications not “Personal” \nnotifications. By doing this you can make  "
+    } ]
+  }, {
+    "tStartMs": 746160,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "sure you’re always getting notified of \nevery new episode of Space Time on your  "
+    } ]
+  }, {
+    "tStartMs": 750300,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "home page. And 2. Join the early gang and \nwatch the episode as soon as you can when  "
+    } ]
+  }, {
+    "tStartMs": 757200,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "you see it. Early viewership is one of the \nbest ways to  keep the algorithm happy and"
+    } ]
+  }, {
+    "tStartMs": 762840,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "helps spread the episode to the rest of the \nSpace Time community. We love the community  "
+    } ]
+  }, {
+    "tStartMs": 767820,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "we’ve built and want to make sure as many people \nas possible see each episodes and can participate  "
+    } ]
+  }, {
+    "tStartMs": 774300,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "in all the great discussions in the comment \nsection. Thank you for your continued support!"
+    } ]
+  } ]
+}

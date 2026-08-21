@@ -1,0 +1,469 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1130,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "If you take a laser and shine it at a wall\nwith two holes in it, you have the famous"
+    } ]
+  }, {
+    "tStartMs": 5080,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "double slit experiment - where waves coming\nthrough two slits interfere with each other"
+    } ]
+  }, {
+    "tStartMs": 9180,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "to be bright in some places on the wall, and\ndark in others."
+    } ]
+  }, {
+    "tStartMs": 12330,
+    "dDurationMs": 4431,
+    "segs": [ {
+      "utf8": "And this works with quantum particles, too,\nsince they behave in wave-like ways: send"
+    } ]
+  }, {
+    "tStartMs": 16761,
+    "dDurationMs": 3528,
+    "segs": [ {
+      "utf8": "a cat towards the slits, and it’ll show\nup at a point on the wall."
+    } ]
+  }, {
+    "tStartMs": 20289,
+    "dDurationMs": 4011,
+    "segs": [ {
+      "utf8": "Send a bunch of cats, and their accumulation\nreveals the same interference pattern as a"
+    } ]
+  }, {
+    "tStartMs": 24300,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "light wave ."
+    } ]
+  }, {
+    "tStartMs": 25300,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "Now imagine you add another, competing double\nslit experiment, with another cat, that shares"
+    } ]
+  }, {
+    "tStartMs": 30599,
+    "dDurationMs": 1951,
+    "segs": [ {
+      "utf8": "one of the slits with the first setup."
+    } ]
+  }, {
+    "tStartMs": 32550,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Of course, if you send the second cat over\nand over towards these two slits , the points"
+    } ]
+  }, {
+    "tStartMs": 36180,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "where it hits the wall will give a similar\ninterference pattern."
+    } ]
+  }, {
+    "tStartMs": 38920,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And at this point here for one cat, and this\npoint here for the other, those cats never"
+    } ]
+  }, {
+    "tStartMs": 43040,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "show up, no matter how many times you send\nthem through the slits."
+    } ]
+  }, {
+    "tStartMs": 46840,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Their wavelike behavior causes what’s called\n“destructive interference”; if cats were"
+    } ]
+  }, {
+    "tStartMs": 52320,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "light, these points would be in cat-darkness."
+    } ]
+  }, {
+    "tStartMs": 55970,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "But weird things happen if you send both cats\nat their double slits at the same time."
+    } ]
+  }, {
+    "tStartMs": 60620,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "The top cat goes through the top and middle\nslits and then towards the wall, and the bottom"
+    } ]
+  }, {
+    "tStartMs": 64110,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "cat goes through the bottom and middle slits\nand then towards the wall; and things would"
+    } ]
+  }, {
+    "tStartMs": 67869,
+    "dDurationMs": 3951,
+    "segs": [ {
+      "utf8": "again go as expected, of course, except that\nthe cats get in each others’ way going through"
+    } ]
+  }, {
+    "tStartMs": 71820,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "the middle slit."
+    } ]
+  }, {
+    "tStartMs": 73240,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "Maybe the slit’s too small for two cats\nto fit through simultaneously, or maybe, yeah!"
+    } ]
+  }, {
+    "tStartMs": 78110,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "maybe one cat is actually made of antimatter\nso if both go through the middle slit, they"
+    } ]
+  }, {
+    "tStartMs": 82520,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "annihilate each other and never make it to\nthe wall."
+    } ]
+  }, {
+    "tStartMs": 85030,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "Either way, the situation is now this: the\ncats traverse the slits in a quantum superposition"
+    } ]
+  }, {
+    "tStartMs": 89789,
+    "dDurationMs": 6650,
+    "segs": [ {
+      "utf8": "of top cat top/bottom cat middle, top cat\ntop/bottom cat bottom, and top cat middle/bottom"
+    } ]
+  }, {
+    "tStartMs": 96439,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "cat bottom."
+    } ]
+  }, {
+    "tStartMs": 97439,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "There’s no “both cats in the middle”\nin the superposition, since the cats can’t"
+    } ]
+  }, {
+    "tStartMs": 101920,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "traverse the middle slit together."
+    } ]
+  }, {
+    "tStartMs": 103950,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "And since the superposition is missing the\n“both cats in the middle” option, the"
+    } ]
+  }, {
+    "tStartMs": 108100,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "interference patterns change and it’s possible\nfor the cats to end up in the places on the"
+    } ]
+  }, {
+    "tStartMs": 111820,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "wall where before there was cat darkness."
+    } ]
+  }, {
+    "tStartMs": 115109,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "This isn’t at all surprising for waves - I\nmean, different amounts of wave coming through"
+    } ]
+  }, {
+    "tStartMs": 119219,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "the slits means a different interference pattern."
+    } ]
+  }, {
+    "tStartMs": 122069,
+    "dDurationMs": 3001,
+    "segs": [ {
+      "utf8": "But there’s something weird about this when\nparticles are involved."
+    } ]
+  }, {
+    "tStartMs": 125070,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "To see why, remember that individually, the\ncat darkness arose because the cat’s wave-particle"
+    } ]
+  }, {
+    "tStartMs": 130110,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "superposition went through both slits and\ninterfered with itself to result in zero probability"
+    } ]
+  }, {
+    "tStartMs": 134810,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "of the cat ending up there."
+    } ]
+  }, {
+    "tStartMs": 136620,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So if the bottom cat DOES end up there, it\nmust not have been able to interfere with"
+    } ]
+  }, {
+    "tStartMs": 140700,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "itself, so it must not have gone through both\nslits, so there must have been something blocking"
+    } ]
+  }, {
+    "tStartMs": 145250,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "one - the other cat, in the middle."
+    } ]
+  }, {
+    "tStartMs": 146360,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "And if the top cat ends up in its previously\ncat-free spot, then it must not have gone"
+    } ]
+  }, {
+    "tStartMs": 150530,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "through both slits either - the bottom cat\nmust have been blocking the middle slit."
+    } ]
+  }, {
+    "tStartMs": 154950,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "This wouldn’t be a problem, except that\nwhen you actually do this experiment , some"
+    } ]
+  }, {
+    "tStartMs": 158470,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "of the time BOTH cats end up in the previously\ncat-free spots."
+    } ]
+  }, {
+    "tStartMs": 162830,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And we know they can’t both have gone through\nthe middle slit, because they would have annihilated"
+    } ]
+  }, {
+    "tStartMs": 166230,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "each other - so each cat must have been blocked\nfrom going through the middle slit by the"
+    } ]
+  }, {
+    "tStartMs": 170610,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "other cat having gone through the middle slit,\nsimultaneously."
+    } ]
+  }, {
+    "tStartMs": 174760,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "Which of course seems impossible, and is why\nthis situation has been called a paradox . And"
+    } ]
+  }, {
+    "tStartMs": 180150,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "it’s certainly thought-provoking if you\nlike to think about local realism or contextuality"
+    } ]
+  }, {
+    "tStartMs": 183900,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "or weak measurement values or the interaction\nbetween classical logic and quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 188370,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "But it’s not really that surprising, as\nlong as you believe that quantum particles"
+    } ]
+  }, {
+    "tStartMs": 191930,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "can be in superpositions (which happens all\nthe time and has been incredibly well experimentally"
+    } ]
+  }, {
+    "tStartMs": 196090,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "confirmed)."
+    } ]
+  }, {
+    "tStartMs": 197090,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "As we said earlier, the two cats pass through\nthe slits in the superposition “top middle”"
+    } ]
+  }, {
+    "tStartMs": 201650,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "plus “middle bottom” plus “top bottom”,\nwhich include both apparently necessary “blockages”"
+    } ]
+  }, {
+    "tStartMs": 207170,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "of the middle slit by one cat or the other,\nand it’s this superposition that results"
+    } ]
+  }, {
+    "tStartMs": 211320,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "in the changed interference pattern that allows\nfor the possibility that both cats simultaneously"
+    } ]
+  }, {
+    "tStartMs": 216310,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "end up in the previously cat-dark locations."
+    } ]
+  }, {
+    "tStartMs": 219300,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "If all of this seems a bit weird - yeah, it\nis!"
+    } ]
+  }, {
+    "tStartMs": 223320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "But it’s worth remembering that weirdness\nand paradox are not one and the same . And"
+    } ]
+  }, {
+    "tStartMs": 227600,
+    "dDurationMs": 7070,
+    "segs": [ {
+      "utf8": "the quantum cat/antimatter-cat double double-slit\nexperiment is fully consistent with the predictions"
+    } ]
+  }, {
+    "tStartMs": 234670,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and experimental results of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 237460,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Sometimes the universe is just weird!"
+    } ]
+  }, {
+    "tStartMs": 241640,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "If you (or somebody you know, who maybe you’re\nlooking for a present for?) are the kind of"
+    } ]
+  }, {
+    "tStartMs": 245870,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "person who likes to dive deep into quantum\nparadoxes, or the cool things waves do when"
+    } ]
+  }, {
+    "tStartMs": 250530,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "they interfere, then you should definitely\ncheck out Brilliant.org, this video’s sponsor,"
+    } ]
+  }, {
+    "tStartMs": 256570,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "which has courses and quizzes about all sorts\nof fascinating wave mechanics, and quantum"
+    } ]
+  }, {
+    "tStartMs": 260540,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "mechanics, and math puzzles, and more."
+    } ]
+  }, {
+    "tStartMs": 262790,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Unlike a youtube video, Brilliant gives you\nthe opportunity to actually practice and hone"
+    } ]
+  }, {
+    "tStartMs": 266470,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "your problem solving and scientific thinking\nskills, for school, work, or because understanding"
+    } ]
+  }, {
+    "tStartMs": 271240,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "the universe is awesome!"
+    } ]
+  }, {
+    "tStartMs": 273090,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And if you go to brilliant.org/minutephysics\nyou can get 20% off a premium subscription"
+    } ]
+  }, {
+    "tStartMs": 277250,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "to brilliant for yourself or for somebody\nelse as a gift - it’s non-materialistic"
+    } ]
+  }, {
+    "tStartMs": 281320,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "AND arrives instantly!"
+    } ]
+  }, {
+    "tStartMs": 282830,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Again, that’s brilliant.org/minutephysics\nfor a deeper understanding of the weird but"
+    } ]
+  }, {
+    "tStartMs": 287320,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "true physics that underlies our universe,\nfor you, or your friends and loved ones."
+    } ]
+  } ]
+}

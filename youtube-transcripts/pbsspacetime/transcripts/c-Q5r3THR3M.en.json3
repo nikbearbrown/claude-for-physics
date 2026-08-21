@@ -1,0 +1,1477 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Thank you to Novium, the team behind \nthe hoverpen, for supporting PBS"
+    } ]
+  }, {
+    "tStartMs": 4320,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "2025 is … was the international year of quantum \nscience and technology. In celebration of"
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "the invention of our strangest \ntrue theory 100 years ago."
+    } ]
+  }, {
+    "tStartMs": 18480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "In 1925, quantum mechanics went \nfrom being a peculiar set of ideas  "
+    } ]
+  }, {
+    "tStartMs": 22800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "to describe some funny results from experiments,"
+    } ]
+  }, {
+    "tStartMs": 26560,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "to a full-blown theoretical framework that \noverturned how we think reality really works.  "
+    } ]
+  }, {
+    "tStartMs": 35040,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "So today, as the centenary year approaches its \nend I want to take you on a little journey through"
+    } ]
+  }, {
+    "tStartMs": 54480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We’ve got a couple quick \nannouncements before we start. First,  "
+    } ]
+  }, {
+    "tStartMs": 59840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the algorithm hasn’t been sharing our episodes, \nso the best way to help the community is to like  "
+    } ]
+  }, {
+    "tStartMs": 65680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and comment - doing both really makes \na difference. And if you’re new here,  "
+    } ]
+  }, {
+    "tStartMs": 70720,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "subscribe, hit the bell, and introduce \nyourself in the comments. We’re friendly."
+    } ]
+  }, {
+    "tStartMs": 76240,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Now for the fun part: it’s Holiday discount \nweek at the Space Time merch store! From now  "
+    } ]
+  }, {
+    "tStartMs": 81680,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "through next Friday, you can get 20–50% \noff most merch items from all of 2025,  "
+    } ]
+  }, {
+    "tStartMs": 89040,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "including limited restocks and four new releases. \nFirst up, the LHC Higgs Discovery desktop and  "
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 13920,
+    "segs": [ {
+      "utf8": "gaming mat, plus our final shirt and hoodie \nof the year: “Don’t Panic! It’s Only Rocket  "
+    } ]
+  }, {
+    "tStartMs": 110560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Science.” It’s one of our rare full-color \ndesigns, inspired by a little restaurant  "
+    } ]
+  }, {
+    "tStartMs": 115520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "at the end of the universe. There’s a link \nin the description. Now onto the episode"
+    } ]
+  }, {
+    "tStartMs": 120720,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Let’s start by understanding where \nwe stood at the beginning of 1925.  "
+    } ]
+  }, {
+    "tStartMs": 126800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "What was the scientific worldview \nthat was about to be shattered?"
+    } ]
+  }, {
+    "tStartMs": 131920,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So Albert Einstein has been the king of physics \nfor a decade, ever since he published his general  "
+    } ]
+  }, {
+    "tStartMs": 137360,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "theory of relativity in 1915 and toppled the \nfour-century reign of Newtonian mechanics. GR  "
+    } ]
+  }, {
+    "tStartMs": 144160,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "completely supplanted our understanding of space, \ntime, motion and gravity. This was a revolution,  "
+    } ]
+  }, {
+    "tStartMs": 150560,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "no doubt, but in a way Einstein actually \nreinforced the status quo rather than  "
+    } ]
+  }, {
+    "tStartMs": 157120,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "overturning it. See in the Newtonian worldview, \nthe motion of all particles could be perfectly  "
+    } ]
+  }, {
+    "tStartMs": 163760,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "computed through a simple set of universal laws. \nAnd all things are made of particles, so, surely,  "
+    } ]
+  }, {
+    "tStartMs": 170720,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "the universe itself and all it contains is \ncomputable. It’s all deterministic. Know the  "
+    } ]
+  }, {
+    "tStartMs": 178240,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "present and you can calculate all past and \nall future states. Newton’s achievement gave  "
+    } ]
+  }, {
+    "tStartMs": 183920,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "us a sense that the universe is knowable to a \ndegree of completeness never before imagined."
+    } ]
+  }, {
+    "tStartMs": 192160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "There were some few inconsistencies \nremaining—the fact that "
+    } ]
+  }, {
+    "tStartMs": 196320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Mercury’s orbit didn’t quite obey Newton, some \nstuff about electromagnetism and the speed of  "
+    } ]
+  }, {
+    "tStartMs": 200880,
+    "dDurationMs": 9600,
+    "segs": [ {
+      "utf8": "light. But the universe has to be axiomatically \nself-consistent. And so Einstein was able to  "
+    } ]
+  }, {
+    "tStartMs": 210480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "leverage these seemingly minor glitches \ninto a full-blown scientific revolution,  "
+    } ]
+  }, {
+    "tStartMs": 216320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "in which space and time were merged and \nthe resulting spacetime was no longer  "
+    } ]
+  }, {
+    "tStartMs": 221120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Newton’s static, universal background, \nbut rather a malleable, dynamic thing."
+    } ]
+  }, {
+    "tStartMs": 226960,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But the new picture that came out of Einstein’s \nrelativity still shared a fundamental quality with  "
+    } ]
+  }, {
+    "tStartMs": 232240,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Newton’s worldview. It was just as deterministic. \nThe equations of general relativity suffer no  "
+    } ]
+  }, {
+    "tStartMs": 239520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "uncertainty. The distribution of matter and \nenergy in spacetime perfectly defines the  "
+    } ]
+  }, {
+    "tStartMs": 245040,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "geometry of spacetime, which in turn completely \ndetermines the motion of said matter and energy,  "
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "forever into the past and future. Einstein \nalso showed that simultaneity is relative,  "
+    } ]
+  }, {
+    "tStartMs": 258400,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "destroying our delusion of an absolute sense \nof “now”. So the already-deterministic past and  "
+    } ]
+  }, {
+    "tStartMs": 265360,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "future became as real as the present, \nat least in some interpretations,  "
+    } ]
+  }, {
+    "tStartMs": 270640,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "and all of time was crystalized into an \neternal block for the entirety of existence."
+    } ]
+  }, {
+    "tStartMs": 278160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "On the one hand the universe under \nEinstein remained measurable and knowable,  "
+    } ]
+  }, {
+    "tStartMs": 284240,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "but what is measured and what can be \nknown came to depend on perspective;  "
+    } ]
+  }, {
+    "tStartMs": 290400,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "where you are, how fast you’re moving, the \nlightspeed-limited horizon of your embedded  "
+    } ]
+  }, {
+    "tStartMs": 297840,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "vision. A hell of a perspective shift, but \nstill firmly on the side of determinism."
+    } ]
+  }, {
+    "tStartMs": 303600,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "In the early 1920s Einstein was a science \nrockstar. There were still a few loose  "
+    } ]
+  }, {
+    "tStartMs": 311040,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "threads in the fabric of our understanding of the \nworld. So you can imagine the hunger of a young  "
+    } ]
+  }, {
+    "tStartMs": 317120,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "physicist of the era to pull at these threads \nand so, perhaps, pull off another revolution."
+    } ]
+  }, {
+    "tStartMs": 325120,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Now a big outstanding mystery, perhaps THE \nbig one was the strange world of the atom,  "
+    } ]
+  }, {
+    "tStartMs": 331120,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and especially of the behavior of the \nhumble electron. From Rutherford we knew  "
+    } ]
+  }, {
+    "tStartMs": 337120,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "the rudimentary atomic nucleus. You’ve all seen \ndepictions of electrons whizzing around the nuclei  "
+    } ]
+  }, {
+    "tStartMs": 343600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "like tiny solar systems—a holdover from early \nassumptions that the tiny universe resembles  "
+    } ]
+  }, {
+    "tStartMs": 349680,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "the gigantic. But there were so many questions! \nWhy were only certain electron orbits allowed,  "
+    } ]
+  }, {
+    "tStartMs": 357200,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "and why those ones? Why didn’t electrons spiral \ninto their nuclei? The uncanny orbit of the  "
+    } ]
+  }, {
+    "tStartMs": 363440,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "electron was surely the key to a new revolution, \njust as the orbit of Mercury unlocked relativity."
+    } ]
+  }, {
+    "tStartMs": 370560,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "First steps were tentative. Neils Bohr, building \non Planck and Einstein’s quantization of light,  "
+    } ]
+  }, {
+    "tStartMs": 376480,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "gave us an empirical model of quantized \nelectron energy levels. Louis de Broglie,  "
+    } ]
+  }, {
+    "tStartMs": 382640,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "building on that same quantization, guessed \nthat all matter has a wave nature. Bohr then  "
+    } ]
+  }, {
+    "tStartMs": 388720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "realised that electron waves made sense of his \natomic model. The allowed orbits are those that  "
+    } ]
+  }, {
+    "tStartMs": 395280,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "perfectly fit an integer number of electron wave \ncycles—these are self-reinforcing, standing waves."
+    } ]
+  }, {
+    "tStartMs": 402960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "While this gave a nice story for the quantization \nof electron orbit, other problems remained,  "
+    } ]
+  }, {
+    "tStartMs": 408560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "perhaps the worst being that it only \nworked for the humble hydrogen atom."
+    } ]
+  }, {
+    "tStartMs": 413200,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "So that’s where we stood going into 1925. \nBohr’s model was still very classical-feeling,  "
+    } ]
+  }, {
+    "tStartMs": 421120,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "and so the Newtonian and Einsteinian worldviews \nstill reigned. We clung to the ambition to be  "
+    } ]
+  }, {
+    "tStartMs": 428880,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "aloof masters of a computable universe. The \nspark that set this entire worldview ablaze  "
+    } ]
+  }, {
+    "tStartMs": 435360,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "had already started—in Munich a few years \nearlier when a 20 year old student showed up  "
+    } ]
+  }, {
+    "tStartMs": 442880,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "in the office of Arnold Sommerfeld. Sommerfeld, \nfamous both for his physics and his mentorship,  "
+    } ]
+  }, {
+    "tStartMs": 450320,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "handed the student a trial problem—to solve \none of the many failings of the Bohr model,  "
+    } ]
+  }, {
+    "tStartMs": 456880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "in particular the distortions in \nhydrogen energy levels seen when  "
+    } ]
+  }, {
+    "tStartMs": 462000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the stuff was in strong magnetic fields \ncalled the anomalous Zeeman effect."
+    } ]
+  }, {
+    "tStartMs": 467200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So the thing about being a kid is that you’ll \ntry anything. You don’t yet know what you’re  "
+    } ]
+  }, {
+    "tStartMs": 473360,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "supposed to take as ground truth. All common sense \ndictated that the math should be based on integer  "
+    } ]
+  }, {
+    "tStartMs": 480400,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "numbers—the whole numbers of wavecycles in Bohr’s \nelectron orbits. But Sommerfeld’s naive student  "
+    } ]
+  }, {
+    "tStartMs": 488080,
+    "dDurationMs": 11760,
+    "segs": [ {
+      "utf8": "for whatever reason tried a mathematical form \ninvolving physically irrelevant half-integers. But  "
+    } ]
+  }, {
+    "tStartMs": 499840,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "that worked. The student was Werner Heisenberg, \nand at 20 he’d discovered the first clue to the  "
+    } ]
+  }, {
+    "tStartMs": 506400,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "strange phase symmetry of the electron, a \nresult of its yet undiscovered quantum spin."
+    } ]
+  }, {
+    "tStartMs": 513120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "This little project began Heisenberg’s obsession \nwith the mysteries of the atom. Three years later,  "
+    } ]
+  }, {
+    "tStartMs": 518640,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "now 1925, Heisenberg was in Gottingen \nstudying under Max Born, but also in  "
+    } ]
+  }, {
+    "tStartMs": 524960,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "close connection with the now very famous \nNeils Bohr, his future closest collaborator."
+    } ]
+  }, {
+    "tStartMs": 530880,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "Surrounded by such giants of physics, Heisenberg \nstill turned to the wisdom of Einstein. He asked  "
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "himself, what would Einstein do? In coming up with \ngeneral relativity, Einstein resolved to reject  "
+    } ]
+  }, {
+    "tStartMs": 544400,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "unfounded assumptions, no matter how self-evident \nthey seemed. That meant putting aside ideas like  "
+    } ]
+  }, {
+    "tStartMs": 553200,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "the universality of time and an unchanging \nand flat geometry of space. So Heisenberg  "
+    } ]
+  }, {
+    "tStartMs": 560160,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "challenged himself to take this credo seriously \nand push it as far as possible. In his own words,  "
+    } ]
+  }, {
+    "tStartMs": 568240,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "“The aim of quantum theory should be to describe \nonly quantities which are observable.” Make no  "
+    } ]
+  }, {
+    "tStartMs": 575680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "assumptions about, for example, what the electrons \nare really doing inside the atom; instead,  "
+    } ]
+  }, {
+    "tStartMs": 580960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "build a theory entirely around the results of \nwhat we see when we do measurements on the atom."
+    } ]
+  }, {
+    "tStartMs": 586800,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "In a cartoon view of an atom you can imagine \nknowing things like where the electron is or  "
+    } ]
+  }, {
+    "tStartMs": 592720,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "how fast it’s moving at any point in time. In \nthe Bohr model that translates to a radius and  "
+    } ]
+  }, {
+    "tStartMs": 599760,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "energy-slash-momentum for each orbit—a pair of \nconcrete values, each with an index to connect  "
+    } ]
+  }, {
+    "tStartMs": 608320,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "them to a list of possible electron states. But \nHeisenberg realized that it’s not possible to  "
+    } ]
+  }, {
+    "tStartMs": 614800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "actually observe these orbits of the electrons \nwithin the atom. The only thing we can measure  "
+    } ]
+  }, {
+    "tStartMs": 620320,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "is the light—the photon—that shoots out \nwhen an electron changes orbit. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 627440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "even the idea of orbits is presumptuous—so \nwe will call them electron states.  "
+    } ]
+  }, {
+    "tStartMs": 633120,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "These invisible electron states couldn’t \nbe the main players in the theory. Instead,  "
+    } ]
+  }, {
+    "tStartMs": 639040,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "he committed to finding a law of motion that \nonly describes the observables—the frequency  "
+    } ]
+  }, {
+    "tStartMs": 646720,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and intensity-slash-amplitude of the photon \nproduced when electrons change states. The  "
+    } ]
+  }, {
+    "tStartMs": 653040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "difference seems subtle but it really changes \neverything. Instead of a formula to describe  "
+    } ]
+  }, {
+    "tStartMs": 659360,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "electron properties for a single list of states, \nHeisenberg sought a formula to describe the  "
+    } ]
+  }, {
+    "tStartMs": 665440,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "resulting photon properties for every combination \nof initial and final state of the electron."
+    } ]
+  }, {
+    "tStartMs": 672960,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "This sort of two-index list of properties is known \nas a matrix, although Heisenberg didn’t know it at  "
+    } ]
+  }, {
+    "tStartMs": 680080,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "the time. His job was to guess a formula relating \nthese matrices, and so he figured out the algebra  "
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "of matrices on his own. He was disconcerted \nto discover something that mathematicians  "
+    } ]
+  }, {
+    "tStartMs": 694560,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "already knew—that matrix algebra defies \nstandard multiplications rules. For example,  "
+    } ]
+  }, {
+    "tStartMs": 701920,
+    "dDurationMs": 10080,
+    "segs": [ {
+      "utf8": "X*Y is not always the same as Y*X. They are not \ncommutable. This turns out to be a central feature  "
+    } ]
+  }, {
+    "tStartMs": 712000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "of quantum mechanics and ultimately led Heisenberg \nnot only to his solution, but to the thing he’s  "
+    } ]
+  }, {
+    "tStartMs": 718000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "most famous for—his uncertainty principle. But \nfor now, this unintuitive type of math was just  "
+    } ]
+  }, {
+    "tStartMs": 725040,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "another challenge to Heisenberg’s resolution to \nreject prior assumptions, and so he forged ahead."
+    } ]
+  }, {
+    "tStartMs": 733520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Now his theory needed to do a couple of \nthings: to predict the photon frequencies  "
+    } ]
+  }, {
+    "tStartMs": 738480,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and intensities—the “spectra” of atoms. It \nalso needed to be consistent with certain  "
+    } ]
+  }, {
+    "tStartMs": 744000,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "known fundamentals of the universe, and the big \none is the principle of energy conservation.  "
+    } ]
+  }, {
+    "tStartMs": 750800,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "Heisenberg writes that he “knew only too well \nthat my scheme stood or fell by that principle.”  "
+    } ]
+  }, {
+    "tStartMs": 759440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So Heisenberg tested his new theory as simply \nas he could—for a physical system similar to a  "
+    } ]
+  }, {
+    "tStartMs": 764400,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "pendulum—the anharmonic oscillator—chosen for some \nmathematical conveniences. If energy conservation  "
+    } ]
+  }, {
+    "tStartMs": 772240,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "held in this case then his strange theory must \nbe connected to the true machinery of nature."
+    } ]
+  }, {
+    "tStartMs": 780320,
+    "dDurationMs": 9600,
+    "segs": [ {
+      "utf8": "This was May 1925 and Gottingham was awash \nin springtime pollen and Heisenberg’s own  "
+    } ]
+  }, {
+    "tStartMs": 789920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "immune system tried to kill him. He had a \ncrippling attack of hay fever. It swelled  "
+    } ]
+  }, {
+    "tStartMs": 795040,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "his face, weakened his body, and left him barely \nable to multiply a matrix. He begged his boss,  "
+    } ]
+  }, {
+    "tStartMs": 801680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Max Born, for permission to travel to the \none place he might find relief—a small,  "
+    } ]
+  }, {
+    "tStartMs": 807760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "barren island in the middle of \nthe North Sea called Helgoland."
+    } ]
+  }, {
+    "tStartMs": 812240,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "It’s an amazing place. Helgoland—sometimes also\nHeligoland—from the High Frisian “holy land”--  "
+    } ]
+  }, {
+    "tStartMs": 820400,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "with its stunning ocean cliffs and an elegant \nresort town. Now the war changed everything—the  "
+    } ]
+  }, {
+    "tStartMs": 828000,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "town was obliterated by ally bombs and a Nazi \nU-boat harbor and the entire tip of the island  "
+    } ]
+  }, {
+    "tStartMs": 834800,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "destroyed in the largest non-nuke, man-made \nexplosion in all of history. But Heisenberg  "
+    } ]
+  }, {
+    "tStartMs": 841600,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "came before all of that. He spent 10 days \nwalking the cliffs, swimming in the ocean,  "
+    } ]
+  }, {
+    "tStartMs": 847040,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "and calculating his matrices. Pages upon pages \nof them. He talks about a mounting excitement  "
+    } ]
+  }, {
+    "tStartMs": 853920,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "as the scheme remained self-consistent, of how \nthat excitement led to many mistakes that had  "
+    } ]
+  }, {
+    "tStartMs": 860320,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "to be fixed. And finally, on the night of June \n9th 1925 … well, let’s let Heisenberg say it:"
+    } ]
+  }, {
+    "tStartMs": 869200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "It was 3 o’clock in the morning before the \nfinal result of my computations lay before  "
+    } ]
+  }, {
+    "tStartMs": 874560,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "me. The energy principle had held ... At first \nI was deeply alarmed. I had the feeling that,  "
+    } ]
+  }, {
+    "tStartMs": 882720,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "through the surface of atomic phenomena, I \nwas looking at a strangely beautiful interior,  "
+    } ]
+  }, {
+    "tStartMs": 889360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "and felt almost giddy at the thought that I \nnow had to probe this wealth of mathematical  "
+    } ]
+  }, {
+    "tStartMs": 895760,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "structures nature had so generously spread out \nbefore me. I was far too excited to sleep, and so,  "
+    } ]
+  }, {
+    "tStartMs": 903120,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "as a new day dawned, I made for the southern tip \nof the island … and waited for the sun to rise."
+    } ]
+  }, {
+    "tStartMs": 909520,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "So cured of hayfever but now afflicted by \nrevelation, Heisenberg returned to Gottingen.  "
+    } ]
+  }, {
+    "tStartMs": 917760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "His friend Wolfgang Pauli encouraged \nhim to show his work to Max Born,  "
+    } ]
+  }, {
+    "tStartMs": 922480,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "who immediately recognized Heisenberg’s strange \nmathematics as being matrix algebra. From there,  "
+    } ]
+  }, {
+    "tStartMs": 929280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "he worked with Jordan Pasqual and then \nwith Pauli and Paul Dirac to flesh out  "
+    } ]
+  }, {
+    "tStartMs": 935120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "matrix mechanics—-the first complete \nformulation of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 940800,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "But it was not the instant hit you might have \nimagined. It was a strange theory—matrices were  "
+    } ]
+  }, {
+    "tStartMs": 946720,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "unfamiliar to most physicists of the \nera, the non-commutivity felt alien,  "
+    } ]
+  }, {
+    "tStartMs": 953200,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "but perhaps worst of all the theory seemed to tell \nno story of what was really happening inside the  "
+    } ]
+  }, {
+    "tStartMs": 960000,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "electron. The catalyzing philosophy of “only \nconsider the observables” was uncomfortable."
+    } ]
+  }, {
+    "tStartMs": 967840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But it did evolve into the Copenhagen \ninterpretation of quantum mechanics,  "
+    } ]
+  }, {
+    "tStartMs": 972240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "developed primarily with Neils \nBohr. In this interpretation,  "
+    } ]
+  }, {
+    "tStartMs": 975680,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "the universe between measurements is \nunknowable—not just in a practical  "
+    } ]
+  }, {
+    "tStartMs": 982240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "sense because you didn’t measure, but \nin the sense of being truly undefined."
+    } ]
+  }, {
+    "tStartMs": 987520,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "This is the key fracture in the old worldview \nof Newton and Einstein. Matrix mechanics implied  "
+    } ]
+  }, {
+    "tStartMs": 995280,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "that the world is not fundamentally knowable. \nPerhaps not even “real” between observations  "
+    } ]
+  }, {
+    "tStartMs": 1002320,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "in the concrete manner that we were used to. And \nany attempt at knowing was limited by Heisenberg’s  "
+    } ]
+  }, {
+    "tStartMs": 1010240,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "uncertainty principle, which he soon realized must \nfollow from matrix non-commutivity. There’s also  "
+    } ]
+  }, {
+    "tStartMs": 1017680,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "the related randomness of quantum mechanics, which \nis baked into the quantum laws of nature. All of  "
+    } ]
+  }, {
+    "tStartMs": 1025680,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "it was a violent takedown of the deterministic \nand observer-independent Newtonian worldview."
+    } ]
+  }, {
+    "tStartMs": 1032000,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "So physicists were eager to claw back at least \nsome sense of realism—of a mechanism that’s  "
+    } ]
+  }, {
+    "tStartMs": 1039680,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "independent of observer and measurement. And a few \nmonths later, Erwin Schrodinger gave them that."
+    } ]
+  }, {
+    "tStartMs": 1048560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Where Heisenberg launched his chain \nof thought from the quantization of  "
+    } ]
+  }, {
+    "tStartMs": 1052240,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "energy levels, Schrodinger started with \nde Broglie’s idea of particles as waves of  "
+    } ]
+  }, {
+    "tStartMs": 1058080,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "matter. Physicists had long pondered the \nconnection between particles and waves,  "
+    } ]
+  }, {
+    "tStartMs": 1063440,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "and there was even a formulation of classical \nmechanics—the Haminton-Jakobi equation—that  "
+    } ]
+  }, {
+    "tStartMs": 1069920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "could represent particles as waves while being \nformally equivalent to Newton’s laws. In fact  "
+    } ]
+  }, {
+    "tStartMs": 1075840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Schrodinger just substituted the so called \n“action” in this Hamilton-Jakobi equation  "
+    } ]
+  }, {
+    "tStartMs": 1081840,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "with what we now call the wavefunction, to \nlead to the famous Schrodinger equation,  "
+    } ]
+  }, {
+    "tStartMs": 1088400,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "and in doing so he established wave mechanics \nas a new way to formulate quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 1094960,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "Apparently seclusion in nature is key to quantum \ndiscoveries because Schrodinger was on vacation  "
+    } ]
+  }, {
+    "tStartMs": 1102560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "high in the Alps, in the Swiss town of Arosa, \nwhen he made his discovery. He’d retreated there  "
+    } ]
+  }, {
+    "tStartMs": 1108800,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "for the Christmas holidays with, as he reports, \na stack of de Broglie’s papers. And with one of  "
+    } ]
+  }, {
+    "tStartMs": 1116000,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "his many girlfriends whose identity to this day \nremains a mystery. So, not quite as secluded as  "
+    } ]
+  }, {
+    "tStartMs": 1122240,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "Heisenberg. Schrodinger may have come up with the \nfinal version of the paper in December 1925 and so  "
+    } ]
+  }, {
+    "tStartMs": 1129680,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "you may be watching this episode at the centenary \nof the Schrodinger equation. Certainly by January  "
+    } ]
+  }, {
+    "tStartMs": 1137120,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "1926 the work was complete because by then he had \nreturned to Zurich and submitted the paper. So,  "
+    } ]
+  }, {
+    "tStartMs": 1144080,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "by the start of 26, we had not one by two \ncomplete formulations of quantum mechanics."
+    } ]
+  }, {
+    "tStartMs": 1150800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Schrodinger’s wave mechanics was an instant \nhit in a way that matrix mechanics was not,  "
+    } ]
+  }, {
+    "tStartMs": 1157760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and that's thanks to the familiarity \nof the wave formulation versus the  "
+    } ]
+  }, {
+    "tStartMs": 1162080,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "then-unfamiliar matrix mechanics. Perhaps even \nmore attractive was the fact that Schrodinger’s  "
+    } ]
+  }, {
+    "tStartMs": 1168240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "picture seemed to tell the story of \nwhat was happening behind the math.  "
+    } ]
+  }, {
+    "tStartMs": 1173120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "The theory described this continuous, \ndeterministic object—the wavefunction.  "
+    } ]
+  }, {
+    "tStartMs": 1178400,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "It was something that you could imagined. \nSomething that “existed” between observations."
+    } ]
+  }, {
+    "tStartMs": 1185760,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "This comfort wouldn’t last. Although the idea \nof waves moving through space was familiar,  "
+    } ]
+  }, {
+    "tStartMs": 1191840,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Schrodinger’s formulation couldn’t tell \nus what these were waves of. Max Born then  "
+    } ]
+  }, {
+    "tStartMs": 1197760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "showed that the wavefunction could be thought \nof as representing probability amplitudes,  "
+    } ]
+  }, {
+    "tStartMs": 1202720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "the square of which gives the actual \nprobability of a given measurement.  "
+    } ]
+  }, {
+    "tStartMs": 1208080,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "But what does a wave of probability even mean? \nIs it a thing that exists? Or a statistical map  "
+    } ]
+  }, {
+    "tStartMs": 1215360,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "of underlying activity? Or some wishy-washy \nepistemic entity that’s uncomfortably tied to  "
+    } ]
+  }, {
+    "tStartMs": 1221840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the observer? Schrodinger and probably many \nothers hoped that the wavefunction would  "
+    } ]
+  }, {
+    "tStartMs": 1226080,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "retain some sort of realist nature, a physical \nexistence. But no fully consistent approach to  "
+    } ]
+  }, {
+    "tStartMs": 1233280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "such an interpretation emerged, nor has it yet. \nRegarding this probabilistic interpretation,  "
+    } ]
+  }, {
+    "tStartMs": 1239200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Schrodinger wrote “I don’t like it, and I’m \nsorry I ever had anything to do with it.”"
+    } ]
+  }, {
+    "tStartMs": 1244160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In fact, applying the Schrodinger equation \ndirectly to things like the double slit  "
+    } ]
+  }, {
+    "tStartMs": 1249360,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "experiment quickly told us that even the \nmore “realist” wave mechanics had the same  "
+    } ]
+  }, {
+    "tStartMs": 1255600,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "underlying principle as matrix mechanics—we \ncan only know the input and output states,  "
+    } ]
+  }, {
+    "tStartMs": 1261600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and everything in between is pure potentiality."
+    } ]
+  }, {
+    "tStartMs": 1264560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "And then, in 1927, Paul Dirac showed that \nthe Heisenberg and Schrodinger pictures are  "
+    } ]
+  }, {
+    "tStartMs": 1270400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "mathematically equivalent. They really are two \nrepresentations of the same system. They predict  "
+    } ]
+  }, {
+    "tStartMs": 1275520,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "the same amplitudes. While wave mechanics did \nbecome the more famous due to its intuitive  "
+    } ]
+  }, {
+    "tStartMs": 1282480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "advantage, the Heisenberg and Schrodinger pictures \nboth have their roles—both are useful in certain  "
+    } ]
+  }, {
+    "tStartMs": 1287920,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "circumstances. But it’s arguable that Heisenberg’s \npicture is more general, closer to base truth."
+    } ]
+  }, {
+    "tStartMs": 1296160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "That’s because the Schrodinger equation \nis inconsistent with special relativity.  "
+    } ]
+  }, {
+    "tStartMs": 1301360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Relativity treats time on the same \nfooting as the dimensions of space,  "
+    } ]
+  }, {
+    "tStartMs": 1306400,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "while the Schrodinger equation assigns both space \nand time a primary and universal status more like  "
+    } ]
+  }, {
+    "tStartMs": 1313360,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "in Newtonian mechanics. Of course Schrodinger \nknew his equation was an approximation,  "
+    } ]
+  }, {
+    "tStartMs": 1320160,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "valid only at low speeds. But the principle \nof the equation was right, and Paul Dirac  "
+    } ]
+  }, {
+    "tStartMs": 1327280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "would go on to publish a relativistic \nversion of the wave equation in 1928,  "
+    } ]
+  }, {
+    "tStartMs": 1332080,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "but that’s a story for another time. In fact for \na previous time, because we already covered it."
+    } ]
+  }, {
+    "tStartMs": 1338240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Now matrix mechanics on the other hand is \nperfectly consistent with special relativity.  "
+    } ]
+  }, {
+    "tStartMs": 1344160,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "It doesn’t treat time and space separately \nbecause it doesn’t treat space at all. At  "
+    } ]
+  }, {
+    "tStartMs": 1351040,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "least, space isn’t built into it. Where wave \nmechanics describes evolution through space,  "
+    } ]
+  }, {
+    "tStartMs": 1357040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "matrix mechanics describes evolution in something \ncalled Hilbert space. That’s the space of states  "
+    } ]
+  }, {
+    "tStartMs": 1363200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "of the quantum system, which can involve spacey \nthings like position and momentum, but can also  "
+    } ]
+  }, {
+    "tStartMs": 1369360,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "be electron orbitals or spins or whatever. The \nsame abstractness that makes matrix mechanics so  "
+    } ]
+  }, {
+    "tStartMs": 1376960,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "daunting also frees it from assumptions about \nthe nature of space, and so it can be made  "
+    } ]
+  }, {
+    "tStartMs": 1382960,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "consistent with Einstein. Heisenberg’s “only the \nobservables” led him to a more general, if less  "
+    } ]
+  }, {
+    "tStartMs": 1390720,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "straightforward, formulation than Schrodinger. And \nit’s for this reason Heisenberg’s formulation also  "
+    } ]
+  }, {
+    "tStartMs": 1397600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "became the foundation for the next evolution \nof quantum mechanics: quantum field theory."
+    } ]
+  }, {
+    "tStartMs": 1403280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Following this crazy half year from \nJune to December 1925, a mad flurry  "
+    } ]
+  }, {
+    "tStartMs": 1408800,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "of advances propelled the fringe idea into a \nfull-blown description of the subatomic world.  "
+    } ]
+  }, {
+    "tStartMs": 1415040,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Now I mentioned the Dirac equation, then \ncame second quantization via the Heisenberg  "
+    } ]
+  }, {
+    "tStartMs": 1420320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "picture. That gave us Quantum Field Theory, \nin which particles are excitations in fields,  "
+    } ]
+  }, {
+    "tStartMs": 1426240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "shaped by the symmetries of nature, and that \nlead to the Standard Model of particle physics.  "
+    } ]
+  }, {
+    "tStartMs": 1431520,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "The predictive power of this model has enabled \nso much incredible technology. But all of this  "
+    } ]
+  }, {
+    "tStartMs": 1438960,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "was all founded on core principles that were \nset down in 1925 and have held true to this day."
+    } ]
+  }, {
+    "tStartMs": 1446240,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "The world forged by quantum mechanics—the world \nof the international year of quantum science  "
+    } ]
+  }, {
+    "tStartMs": 1452080,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and technology—is one of transistor-driven \nmiracles—from smartphones to satellites.  "
+    } ]
+  }, {
+    "tStartMs": 1458400,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "It’s one of quantum chemistry and advanced \nmaterials and nuclear power. 100 years of building  "
+    } ]
+  }, {
+    "tStartMs": 1464480,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "useful things from century-old epiphanies. But \nit’s also a world whose deepest layers are,  "
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "if anything, less settled than in the previous \nera. A century later, we still don’t know what  "
+    } ]
+  }, {
+    "tStartMs": 1479200,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "quantum mechanics means—what story to tell about \nthe mechanisms at play beneath the observables—if  "
+    } ]
+  }, {
+    "tStartMs": 1486800,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "such a story can be told at all. Questions \nlike “what exists” or “what can be known” are  "
+    } ]
+  }, {
+    "tStartMs": 1493440,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "no longer clearly answerable. One more Heisenberg \nquote: \"What we observe is not nature itself but  "
+    } ]
+  }, {
+    "tStartMs": 1500880,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "nature exposed to our method of questioning.” \nThere’s a boundary between external reality and  "
+    } ]
+  }, {
+    "tStartMs": 1508720,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "our observations of it. Quantum mechanics makes us \nquestion whether even our most powerful theories  "
+    } ]
+  }, {
+    "tStartMs": 1516000,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "can ever cross that boundary. It’s been a giddying \nera of equally profound insight and confusion.  "
+    } ]
+  }, {
+    "tStartMs": 1525520,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "So here’s to a century of quantum mechanics, and \nwhile we’re at it, to another year of space time."
+    } ]
+  }, {
+    "tStartMs": 1533200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Thank you to Novium for supporting PBS. \nInspired by space, the Novium Hoverpen:  "
+    } ]
+  }, {
+    "tStartMs": 1538080,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Interstellar is an otherworldly gift idea for \nyourself or the amazing people in your life  "
+    } ]
+  }, {
+    "tStartMs": 1544000,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "that comes in Space Black, Starlight Silver, \nMars Magma and Neptune Blue and is refillable.  "
+    } ]
+  }, {
+    "tStartMs": 1551280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Just as Earth's axis is tilted at 23.5 degrees \nrelative to its orbital plane around the sun,  "
+    } ]
+  }, {
+    "tStartMs": 1556560,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "the novium Interstellar is at 23.5 degrees \nmaking it easy to pick up. The Meteorite  "
+    } ]
+  }, {
+    "tStartMs": 1562960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Embedded Space Black edition features a \nfragment of the Muonionalusta meteorite  "
+    } ]
+  }, {
+    "tStartMs": 1567680,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "confirmed by a stainless steel certificate. \nMeaning you’ll have a piece of the oldest  "
+    } ]
+  }, {
+    "tStartMs": 1571520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "known meteorite on your desk. Of course if you \nor your special someone prefers a fountain pen,  "
+    } ]
+  }, {
+    "tStartMs": 1576800,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "then there’s also the Hoverpen Future which can be \nordered as a Fountain \u0026 Rollerball 2-in-1 or just  "
+    } ]
+  }, {
+    "tStartMs": 1582720,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "as a Fountain Pen. If you’re looking for a Holiday \ngift or just want one for yourself, there’s links  "
+    } ]
+  }, {
+    "tStartMs": 1587760,
+    "dDurationMs": 22960,
+    "segs": [ {
+      "utf8": "in the description below and you’ll get 15% off \nfor the next 72 hours by using the code PBS."
+    } ]
+  } ]
+}

@@ -1,0 +1,457 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1270,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "I recently received this question via email:"
+    } ]
+  }, {
+    "tStartMs": 3760,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Hey Henry,"
+    } ]
+  }, {
+    "tStartMs": 4520,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "A while ago you did a video... called \"What\nif the Earth were Hollow?\" where you showed"
+    } ]
+  }, {
+    "tStartMs": 7799,
+    "dDurationMs": 3391,
+    "segs": [ {
+      "utf8": "how long it would take to fall through the\nearth. I was simply wondering how that was"
+    } ]
+  }, {
+    "tStartMs": 11190,
+    "dDurationMs": 3769,
+    "segs": [ {
+      "utf8": "even calculated since the force of gravity\nwould constantly be changing due to the growing"
+    } ]
+  }, {
+    "tStartMs": 14959,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "amount of mass above you."
+    } ]
+  }, {
+    "tStartMs": 16789,
+    "dDurationMs": 461,
+    "segs": [ {
+      "utf8": "Peter"
+    } ]
+  }, {
+    "tStartMs": 17250,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Ok, so we've got a hole through the earth,\nand it goes from the north pole to the south"
+    } ]
+  }, {
+    "tStartMs": 21560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "pole – that way we don't have to worry about\nthe Coriolis effect from the earth's spinning."
+    } ]
+  }, {
+    "tStartMs": 25160,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "There's also no air in the hole, otherwise\nyou'd reach terminal velocity pretty quickly"
+    } ]
+  }, {
+    "tStartMs": 29010,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "and your trip would be slow and boring. There\nare a few different ways to figure out how"
+    } ]
+  }, {
+    "tStartMs": 33030,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "long it'll take for you to reach the other\nside."
+    } ]
+  }, {
+    "tStartMs": 35480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "One is to jump in, but it'll be faster – and\nprobably a greater chance of survival – if"
+    } ]
+  }, {
+    "tStartMs": 39640,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "we calculate using math \u0026 physics."
+    } ]
+  }, {
+    "tStartMs": 41750,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "First, more simplifications: assume the earth\nis perfectly spherical and has the same density"
+    } ]
+  }, {
+    "tStartMs": 46890,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "everywhere. It turns out that the gravitational\nattraction from any spherically symmetric"
+    } ]
+  }, {
+    "tStartMs": 51270,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "object is the same as if all its mass were\nconcentrated at the center of that object"
+    } ]
+  }, {
+    "tStartMs": 55690,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "– the closer parts attract more than average,\nthe far away parts attract less, but over"
+    } ]
+  }, {
+    "tStartMs": 59430,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "the whole sphere it averages out. In a similar\nvein, if you're _inside_ a spherical shell,"
+    } ]
+  }, {
+    "tStartMs": 64189,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "then the gravitational pulls from all the\ndifferent parts cancel out and you experience"
+    } ]
+  }, {
+    "tStartMs": 68179,
+    "dDurationMs": 2171,
+    "segs": [ {
+      "utf8": "zero effect from the shell."
+    } ]
+  }, {
+    "tStartMs": 70350,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "This means that, inside the earth, any parts\nthat are farther away from the center than"
+    } ]
+  }, {
+    "tStartMs": 74249,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "you are cancel out and have no effect – almost\nlike they've been trimmed off and you're temporarily"
+    } ]
+  }, {
+    "tStartMs": 79159,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "on the surface of a smaller, shaved earth.\nSince we assumed the same density everywhere,"
+    } ]
+  }, {
+    "tStartMs": 84389,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "the shaved-earth's mass is simply proportional\nto its volume, which is proportional to its"
+    } ]
+  }, {
+    "tStartMs": 88560,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "radius cubed. And because it's a sphere we\nget to pretend all that mass is actually concentrated"
+    } ]
+  }, {
+    "tStartMs": 93399,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "at a single point in the middle."
+    } ]
+  }, {
+    "tStartMs": 95299,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "So how much does the shaved-earth-point pull\non you? Well, the gravitational attraction"
+    } ]
+  }, {
+    "tStartMs": 99999,
+    "dDurationMs": 4561,
+    "segs": [ {
+      "utf8": "between two objects is proportional to their\nmasses but inversely proportional to the distance"
+    } ]
+  }, {
+    "tStartMs": 104560,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "between them, squared, so we have to divide\nthe mass of the shaved-earth by the square"
+    } ]
+  }, {
+    "tStartMs": 109259,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "of the distance you are from the center – which\nis just the radius of the shaved earth. R"
+    } ]
+  }, {
+    "tStartMs": 113479,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "cubed divided by r squared is r, so the force\non you is simply F equals some constant stuff"
+    } ]
+  }, {
+    "tStartMs": 119739,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "times r, your distance from the center."
+    } ]
+  }, {
+    "tStartMs": 122169,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Essentially, as you fall the mass beneath\nyou decreases, while the **average gravitational"
+    } ]
+  }, {
+    "tStartMs": 127079,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "pull on you** from any bit of that mass increases,\nbut the mass decreases **more than the average"
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "pull** of gravity increases."
+    } ]
+  }, {
+    "tStartMs": 133600,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "So as you approach the earth's center, you\ngo faster and faster but the force pulling"
+    } ]
+  }, {
+    "tStartMs": 137380,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "you towards the middle gets smaller and smaller.\nExactly in the middle you experience zero"
+    } ]
+  }, {
+    "tStartMs": 142020,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "net force because the earth is pulling you\nequally in all directions, though since you're"
+    } ]
+  }, {
+    "tStartMs": 145890,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "going so fast you'll continue to speed towards\nthe other side, gradually slowed by the now"
+    } ]
+  }, {
+    "tStartMs": 150420,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "increasing force pulling you back towards\nthe middle. F equals some constant stuff times"
+    } ]
+  }, {
+    "tStartMs": 153080,
+    "dDurationMs": 90,
+    "segs": [ {
+      "utf8": "distance."
+    } ]
+  }, {
+    "tStartMs": 153170,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "The exact same equation – some constant\nstuff times a distance – also describes"
+    } ]
+  }, {
+    "tStartMs": 157700,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "a mass on a spring, or simple pendulum, or\na cat in a parabola. And from studying _those_"
+    } ]
+  }, {
+    "tStartMs": 163720,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "equations we know that **the time taken by\nthe moving object – whatever it is –"
+    } ]
+  }, {
+    "tStartMs": 167270,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to go from** one side to the other has a simple\nformula: pi times the square root of the mass"
+    } ]
+  }, {
+    "tStartMs": 172550,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "divided by the \"constant stuff\". In the case\nof falling through the earth, your mass cancels"
+    } ]
+  }, {
+    "tStartMs": 176760,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "out of the equation so we just need to put\nin numbers for the density of the earth and"
+    } ]
+  }, {
+    "tStartMs": 180100,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "the gravitational constant to get the answer\n- 42 minutes to fall through the earth."
+    } ]
+  }, {
+    "tStartMs": 184870,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "This turns out to be exactly the same as the\ntime it takes to fall _around_ the earth to"
+    } ]
+  }, {
+    "tStartMs": 189140,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the other side, and it's the number you'll\nfind commonly mentioned on the internet. Even"
+    } ]
+  }, {
+    "tStartMs": 193500,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "more surprising, the radius of the earth didn't\nfactor into the time calculation – it predicts"
+    } ]
+  }, {
+    "tStartMs": 198060,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "you'll take 42 minutes to fall through or\norbit around to the other side of ANY sphere"
+    } ]
+  }, {
+    "tStartMs": 202430,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "with the same density as the earth."
+    } ]
+  }, {
+    "tStartMs": 204500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "But the earth isn't exactly the same density\nthroughout – we know from seismology that"
+    } ]
+  }, {
+    "tStartMs": 209000,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "the earth's core is much denser than its mantle\nand crust. So as you begin to fall, most of"
+    } ]
+  }, {
+    "tStartMs": 214210,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "the mass is still below you, pulling, so the\npull of gravity doesn't decrease as much as"
+    } ]
+  }, {
+    "tStartMs": 218650,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "our simple model predicted. In fact, the force\nis actually pretty constant until about halfway"
+    } ]
+  }, {
+    "tStartMs": 223170,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "to the center, at which point it starts quickly\ndecreasing as more and more of the earth is"
+    } ]
+  }, {
+    "tStartMs": 227170,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "\"above\" you."
+    } ]
+  }, {
+    "tStartMs": 228340,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "The calculations here are a bit more annoying\nbecause we have to piece together two different"
+    } ]
+  }, {
+    "tStartMs": 232150,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "parts – the falling with constant acceleration\npart, which is easy, and the falling with"
+    } ]
+  }, {
+    "tStartMs": 236540,
+    "dDurationMs": 4529,
+    "segs": [ {
+      "utf8": "decreasing gravity proportional to your radius\npart, which is the same thing we did before,"
+    } ]
+  }, {
+    "tStartMs": 241069,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "except now you're starting out halfway to\nthe middle of the earth with a speed of 17"
+    } ]
+  }, {
+    "tStartMs": 244459,
+    "dDurationMs": 4331,
+    "segs": [ {
+      "utf8": "thousand miles per hour, instead of on the\nsurface with no speed. Once our mathemagical"
+    } ]
+  }, {
+    "tStartMs": 248790,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "dust settles, we combine the two parts and\nmultiply by two to get the total time back"
+    } ]
+  }, {
+    "tStartMs": 253680,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "to the surface on the other side: 37 minutes."
+    } ]
+  }, {
+    "tStartMs": 255100,
+    "dDurationMs": 6159,
+    "segs": [ {
+      "utf8": "Of course, this is still just an approximation\n– slightly more realistic than before, but"
+    } ]
+  }, {
+    "tStartMs": 261259,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "far from perfect. If you carefully piece together\nthe time for a falling-through-the-earth trip"
+    } ]
+  }, {
+    "tStartMs": 265729,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "based on a more detailed density profile of\nthe earth, like maybe the Preliminary Reference"
+    } ]
+  }, {
+    "tStartMs": 270020,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "Earth Model, you can can be even more precise\n– 38 minutes and 6 seconds from pole to"
+    } ]
+  }, {
+    "tStartMs": 274939,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "pole."
+    } ]
+  }, {
+    "tStartMs": 275629,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But either way, if instead of calculating\nyou jumped into the hole at the start of this"
+    } ]
+  }, {
+    "tStartMs": 279669,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "video, you still have a long ways to go before\nreaching the other side \nof \nthe earth. Safe travels!"
+    } ]
+  } ]
+}

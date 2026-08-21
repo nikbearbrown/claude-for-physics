@@ -1,0 +1,499 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1319,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "As a followup to the main video about how\nquantum computers factor large numbers to"
+    } ]
+  }, {
+    "tStartMs": 4840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "break encryption, I want to demonstrate how\nShor’s algorithm would factor a real live"
+    } ]
+  }, {
+    "tStartMs": 9040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "number!"
+    } ]
+  }, {
+    "tStartMs": 10040,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Like, maybe you were bequeathed a bank vault\nfull of pies, but the access code left to"
+    } ]
+  }, {
+    "tStartMs": 13570,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "you was encrypted using the number 314191\nand you can’t get to the pies until you"
+    } ]
+  }, {
+    "tStartMs": 19050,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "know the factors."
+    } ]
+  }, {
+    "tStartMs": 20259,
+    "dDurationMs": 3011,
+    "segs": [ {
+      "utf8": "Luckily I happen to have a working quantum\ncomputer."
+    } ]
+  }, {
+    "tStartMs": 23270,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "As a refresher, here’s a rough overview\nhow Shor’s algorithm factors large numbers"
+    } ]
+  }, {
+    "tStartMs": 28939,
+    "dDurationMs": 4311,
+    "segs": [ {
+      "utf8": "quickly: for any crappy guess at a number\nthat shares factors with N, that guess to"
+    } ]
+  }, {
+    "tStartMs": 33250,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "the power p over 2 plus or minus one is a\nmuch much better guess, if we can find p."
+    } ]
+  }, {
+    "tStartMs": 39329,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "And we CAN find p almost immediately with\na single (if complex) quantum computation."
+    } ]
+  }, {
+    "tStartMs": 44149,
+    "dDurationMs": 4221,
+    "segs": [ {
+      "utf8": "So, first we make some random crappy guess,\nlike, I dunno, a hundred and one."
+    } ]
+  }, {
+    "tStartMs": 48370,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "Then we check to see if 101 shares a factor\nwith 314191 - it doesn’t."
+    } ]
+  }, {
+    "tStartMs": 53840,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So our goal is to find the special power p\nfor which 101to the p over 2 plus or minus"
+    } ]
+  }, {
+    "tStartMs": 58920,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "1, is a better guess for a number that shares\nfactors with 314191."
+    } ]
+  }, {
+    "tStartMs": 63940,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "To do this, we need to find p so that 101\nto the p is one more than a multiple of 314191."
+    } ]
+  }, {
+    "tStartMs": 71980,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "This is where we use my quantum computer which\ncan raise 101 to any power and calculate how"
+    } ]
+  }, {
+    "tStartMs": 76290,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "much more that power is than a multiple of\n314191."
+    } ]
+  }, {
+    "tStartMs": 79430,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "If we start with a superposition of all the\nnumbers up to 314191, then the quantum computation"
+    } ]
+  }, {
+    "tStartMs": 85950,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "will give us the superposition of 101 plus\n101 squared plus 101 cubed, and so on. and"
+    } ]
+  }, {
+    "tStartMs": 91280,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "then the superposition of the remainders."
+    } ]
+  }, {
+    "tStartMs": 93310,
+    "dDurationMs": 5089,
+    "segs": [ {
+      "utf8": "So we measure just the state of the remainders,\nand we’ll get one remainder as output - say,"
+    } ]
+  }, {
+    "tStartMs": 98399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "74126."
+    } ]
+  }, {
+    "tStartMs": 99399,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "From which we know that the rest of the quantum\nstate is left in a superposition of the powers"
+    } ]
+  }, {
+    "tStartMs": 104470,
+    "dDurationMs": 5499,
+    "segs": [ {
+      "utf8": "that resulted in the remainder of 74126, which\nmust all be “p” apart from each other,"
+    } ]
+  }, {
+    "tStartMs": 109969,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "which I explained in the other video."
+    } ]
+  }, {
+    "tStartMs": 112329,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Because we’re not actually dealing with\nparticularly big numbers, I’ve done the"
+    } ]
+  }, {
+    "tStartMs": 115009,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "calculation and can tell you that this would\nmean we had a superposition of 20 and 4367"
+    } ]
+  }, {
+    "tStartMs": 119930,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "and 8714 and so on, and the difference between\nthem is p. but in a real situation we of course"
+    } ]
+  }, {
+    "tStartMs": 125479,
+    "dDurationMs": 3491,
+    "segs": [ {
+      "utf8": "wouldn’t know what the numbers in the superposition\nare - we just know they’re separated with"
+    } ]
+  }, {
+    "tStartMs": 128970,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "a period of p, or a frequency of 1 over p,\nthough we still don’t know what p is."
+    } ]
+  }, {
+    "tStartMs": 134670,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "The next step is to put the superposition\nthrough a quantum Fourier transform, which"
+    } ]
+  }, {
+    "tStartMs": 138440,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "would result in a superposition of 1 over\np plus 2 over p plus 3 over p and so on (this"
+    } ]
+  }, {
+    "tStartMs": 145280,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "is a part I glossed over in the main video,\nbut for technical reasons the quantum Fourier"
+    } ]
+  }, {
+    "tStartMs": 148830,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "transform doesn’t just output 1 over p - it\noutputs a superposition of multiples of 1"
+    } ]
+  }, {
+    "tStartMs": 153750,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "over p)."
+    } ]
+  }, {
+    "tStartMs": 154750,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Again, because these are small numbers I can\ntell you that we’d have a superposition"
+    } ]
+  }, {
+    "tStartMs": 157890,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "of 1 over 4347 and 2 over 4347 and 3 over\n4347 and so on, but in practice we wouldn’t"
+    } ]
+  }, {
+    "tStartMs": 165590,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "actually know what they were."
+    } ]
+  }, {
+    "tStartMs": 166590,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So, we measure the superposition, and we’d\nrandomly get one of the values as the output."
+    } ]
+  }, {
+    "tStartMs": 170950,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Say, for example, 5 over 4347."
+    } ]
+  }, {
+    "tStartMs": 173390,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "And then we’d do the calculation again,\nand get, say, 6 over 4347."
+    } ]
+  }, {
+    "tStartMs": 178920,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "And then 2 over 4347, and so on."
+    } ]
+  }, {
+    "tStartMs": 182750,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Pretty soon we’d be able to tell that 1\nover 4347 is the common factor of all of those,"
+    } ]
+  }, {
+    "tStartMs": 187970,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and so p is 4347."
+    } ]
+  }, {
+    "tStartMs": 190810,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "And you can check that 101 to the 4347 is\nindeed exactly 1 more than a multiple of 314191"
+    } ]
+  }, {
+    "tStartMs": 197080,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "(though it’s a very very big multiple)."
+    } ]
+  }, {
+    "tStartMs": 201150,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "So to get our better guess for a number that\nshares a factor with 314191, let’s take"
+    } ]
+  }, {
+    "tStartMs": 205880,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "101 to the power of 4347 over 2 plus one-\noh, crap."
+    } ]
+  }, {
+    "tStartMs": 211510,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "4347 is odd!"
+    } ]
+  }, {
+    "tStartMs": 213450,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So we can’t divide it by 2 and get a whole\nnumber."
+    } ]
+  }, {
+    "tStartMs": 215760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So we have to start over."
+    } ]
+  }, {
+    "tStartMs": 217760,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Well, let’s pick another random guess, say,\n127."
+    } ]
+  }, {
+    "tStartMs": 223320,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "After going through the same process of creating\na simultaneous superposition of raising 127"
+    } ]
+  }, {
+    "tStartMs": 227270,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "to all possible powers and then doing a quantum\nFourier transform and so on, we’d end up"
+    } ]
+  }, {
+    "tStartMs": 231730,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "finding that the value of p corresponding\nto 127 is 17388."
+    } ]
+  }, {
+    "tStartMs": 236530,
+    "dDurationMs": 9400,
+    "segs": [ {
+      "utf8": "And so raising 127 to p over 2 gives 127 to\nthe 8694, plus or minus one, for our new and"
+    } ]
+  }, {
+    "tStartMs": 245930,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "improved guess of a number that shares factors\nwith 314191."
+    } ]
+  }, {
+    "tStartMs": 250930,
+    "dDurationMs": 7270,
+    "segs": [ {
+      "utf8": "Using Euclid’s algorithm on 314191 with\n127 to the 8694 + 1 gives a common factor"
+    } ]
+  }, {
+    "tStartMs": 258200,
+    "dDurationMs": 10480,
+    "segs": [ {
+      "utf8": "of 829, and using it on 314191 with 127 to\nthe 8694 - 1 gives a common factor of 379."
+    } ]
+  }, {
+    "tStartMs": 268680,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "And 829 times 379 does indeed give us 314191!!"
+    } ]
+  }, {
+    "tStartMs": 275010,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "So we can break the encryption and you can\nhave your pie!"
+    } ]
+  }, {
+    "tStartMs": 280940,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "If you want to make sure your digital life\nis more secure than the bank vault in this"
+    } ]
+  }, {
+    "tStartMs": 284260,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "video, then I highly recommend using a password\nmanager to generate and securely store a long"
+    } ]
+  }, {
+    "tStartMs": 288600,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and unique password for each site and service\nyou use."
+    } ]
+  }, {
+    "tStartMs": 291450,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "I myself have long used and highly recommend\nDashlane, who are sponsoring this video."
+    } ]
+  }, {
+    "tStartMs": 296530,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Dashlane has legitimately improved my online\nlife - it generates and remembers a long,"
+    } ]
+  }, {
+    "tStartMs": 300540,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "unique password for each of my internet accounts\nso I don’t have to, it lets me know when"
+    } ]
+  }, {
+    "tStartMs": 304210,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "my passwords are weak or when a site or app\nI use has been hacked, it securely stores"
+    } ]
+  }, {
+    "tStartMs": 308130,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "and with my permission autofills my credit\ncard, bank account and address info on websites"
+    } ]
+  }, {
+    "tStartMs": 312280,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "so I don’t have to waste time typing that\nstuff in over and over, it lets me securely"
+    } ]
+  }, {
+    "tStartMs": 315070,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "share passwords with family and coworkers,\nand on top of all that, Dashlane is a VPN,"
+    } ]
+  }, {
+    "tStartMs": 319660,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "too!"
+    } ]
+  }, {
+    "tStartMs": 320660,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Dashlane is free for up to 50 passwords for\nas long as you like, so you should just go"
+    } ]
+  }, {
+    "tStartMs": 323510,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "to dashlane.com/minutephysics right now to\ncheck it out."
+    } ]
+  }, {
+    "tStartMs": 326630,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "And if you like Dashlane after trying it out\n(which I imagine you probably will), the first"
+    } ]
+  }, {
+    "tStartMs": 330620,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "200 people get 10% off Dashlane premium by\ngoing to dashlane.com/minutephysics and using"
+    } ]
+  }, {
+    "tStartMs": 335170,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "promo code minutephysics - Dashlane premium\ngets you the VPN, unlimited storage and syncing"
+    } ]
+  }, {
+    "tStartMs": 339970,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "of passwords, remote account access, and more."
+    } ]
+  }, {
+    "tStartMs": 342690,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "Again, that’s dashlane.com/minutephysics\nwith promo code minutephysics to simplify"
+    } ]
+  }, {
+    "tStartMs": 349300,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and secure your online life."
+    } ]
+  } ]
+}

@@ -1,0 +1,1297 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 350,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Today I’m going to explain why you are\nnot falling through your chair right now using"
+    } ]
+  }, {
+    "tStartMs": 5100,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "one simple fact, and one object. The fact\nis that all electrons are the same as each"
+    } ]
+  }, {
+    "tStartMs": 10920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "other, and the object is a structurally critical item of my clothing. There’s a chance this"
+    } ]
+  }, {
+    "tStartMs": 16920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "episode could get a little weird."
+    } ]
+  }, {
+    "tStartMs": 26001,
+    "dDurationMs": 5858,
+    "segs": [ {
+      "utf8": "By now we’ve established that quantum spin is very weird. We talked all about that recently"
+    } ]
+  }, {
+    "tStartMs": 31859,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "- how electrons have spin but aren’t really\nrotating. And about how you need to turn an"
+    } ]
+  }, {
+    "tStartMs": 36879,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "electron around twice - 720 degrees - to get\nit back to its starting position. They are,"
+    } ]
+  }, {
+    "tStartMs": 42769,
+    "dDurationMs": 5781,
+    "segs": [ {
+      "utf8": "we say, spin-½ - because one normal rotation only gets you halfway around. That particular"
+    } ]
+  }, {
+    "tStartMs": 48550,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "weirdness is not just another cute case of\nquantum mechanics being a bit silly. The fact"
+    } ]
+  }, {
+    "tStartMs": 54440,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "that some particles have this property is\nthe entire reason that stuff in our universe"
+    } ]
+  }, {
+    "tStartMs": 59420,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "has structure, and that matter doesn’t immediately collapse. It’s the source of the Pauli exclusion"
+    } ]
+  }, {
+    "tStartMs": 65540,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "principle, and today I’m going to show you\nexactly why this simple property makes it"
+    } ]
+  }, {
+    "tStartMs": 69970,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "possible for us to have nice things in our\nuniverse."
+    } ]
+  }, {
+    "tStartMs": 73649,
+    "dDurationMs": 5692,
+    "segs": [ {
+      "utf8": "Particles with spin-½ - or more generally\nany half-integer spin - 3/2, 5/2, etc. are"
+    } ]
+  }, {
+    "tStartMs": 79341,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "called fermions, and include all the particles\nthat we think of as matter - from electrons"
+    } ]
+  }, {
+    "tStartMs": 84460,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "to quarks to the neutrinos. The other spin\nbehavior is to have integer spin - spin-1"
+    } ]
+  }, {
+    "tStartMs": 90330,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "for example is the much more sensible case of a single 360 degrees rotation back to the"
+    } ]
+  }, {
+    "tStartMs": 95789,
+    "dDurationMs": 5061,
+    "segs": [ {
+      "utf8": "starting point. Integer-spin particles are\nbosons, and they are the force carrying particles"
+    } ]
+  }, {
+    "tStartMs": 100850,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "like photons with spin 1 or the Higgs particle with spin 0."
+    } ]
+  }, {
+    "tStartMs": 104689,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "Now it’s possible to stack as many bosons\non top of each other as you like. For example"
+    } ]
+  }, {
+    "tStartMs": 110159,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "in a laser beam, there’s no limit to the\nnumber of photons you can add - all of them"
+    } ]
+  }, {
+    "tStartMs": 114560,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "in the same quantum state. But not fermions - no two fermions can share the same quantum"
+    } ]
+  }, {
+    "tStartMs": 120270,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "state, which is why electrons can’t occupy\nthe same energy states in atoms. Without this,"
+    } ]
+  }, {
+    "tStartMs": 125320,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "electrons in multi-electron atoms would all fall into the same lowest energy state - all"
+    } ]
+  }, {
+    "tStartMs": 129430,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "atoms would be the minimum possible size, and there would be no such thing as chemistry."
+    } ]
+  }, {
+    "tStartMs": 134730,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "No nice things like solids or molecules."
+    } ]
+  }, {
+    "tStartMs": 138100,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "The non-overlap-ability of fermions is called\nthe Pauli exclusion principle. I’m going"
+    } ]
+  }, {
+    "tStartMs": 144270,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "to show you why this is the inevitable behavior of groups of particles that have two properties:"
+    } ]
+  }, {
+    "tStartMs": 150700,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "1) this weird rotational symmetry, and 2)\nindistinguishability - which is just the fact"
+    } ]
+  }, {
+    "tStartMs": 157460,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "that all electrons, for example, are exactly the same - there is no observable change when you "
+    } ]
+  }, {
+    "tStartMs": 163730,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "swap two electrons. Combining spin behavior and indistinguishability gives us something"
+    } ]
+  }, {
+    "tStartMs": 168620,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "called the spin statistics theorem, which\nsounds complicated but I’m going to derive"
+    } ]
+  }, {
+    "tStartMs": 173020,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "it with just some basic arithmetic and my belt. What did you think I was going to say?"
+    } ]
+  }, {
+    "tStartMs": 179780,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Before we get to my belt, let me remind you about spinors. We talked all about it in the"
+    } ]
+  }, {
+    "tStartMs": 184900,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "recent episode - but for now just know that\nit’s just the type of wavefunction that"
+    } ]
+  }, {
+    "tStartMs": 190120,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "fermions have, and has this property that\nit returns to its starting state with a 720"
+    } ]
+  }, {
+    "tStartMs": 196610,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "degree rotation, not 360."
+    } ]
+  }, {
+    "tStartMs": 199060,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "In that previous episode we saw this amazing animation of an object rotating while being"
+    } ]
+  }, {
+    "tStartMs": 204240,
+    "dDurationMs": 9330,
+    "segs": [ {
+      "utf8": "fixed by bands to it's surrounding environment. Crazily the bands disentangle every 720 degrees. So a spinor’s rotational"
+    } ]
+  }, {
+    "tStartMs": 213570,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "weirdness is not necessarily all that “quantum” - it’s a natural function of how it’s"
+    } ]
+  }, {
+    "tStartMs": 218910,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "connected to the universe. So allow\nme to introduce you to the belt trick, first"
+    } ]
+  }, {
+    "tStartMs": 224240,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "conceived by Paul Dirac himself."
+    } ]
+  }, {
+    "tStartMs": 226490,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "It goes like this: hold the ends of the belt\nin each hand so the belt is flat. Let’s"
+    } ]
+  }, {
+    "tStartMs": 232000,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "think of the belt buckle as a particle - say an electron - and the belt is its connection"
+    } ]
+  }, {
+    "tStartMs": 236920,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "to whatever - the universe, or to maybe another electron. Now rotate the electron a full"
+    } ]
+  }, {
+    "tStartMs": 242510,
+    "dDurationMs": 7090,
+    "segs": [ {
+      "utf8": "720 degrees so you have a double twist. Now I’m going to untwist it without rotating"
+    } ]
+  }, {
+    "tStartMs": 249600,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "either end of the belt. Watch. Now at this point I am letting go of the buckle - but"
+    } ]
+  }, {
+    "tStartMs": 254610,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "the important thing is that the orientation\nof the belt ends don’t change with respect"
+    } ]
+  }, {
+    "tStartMs": 258160,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "to each other. And there you go, the twists\nare gone. So the system under these sorts"
+    } ]
+  }, {
+    "tStartMs": 263370,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "of rotations is a spinor because a 720 twist\nis topologically equivalent to no twist - simple"
+    } ]
+  }, {
+    "tStartMs": 270570,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "translation of the ends transforms between\nthe two states."
+    } ]
+  }, {
+    "tStartMs": 274900,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "On the other hand, if we rotate one end 360\nwe can’t untangle the belt if we keep the"
+    } ]
+  }, {
+    "tStartMs": 282270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "ends fixed."
+    } ]
+  }, {
+    "tStartMs": 283270,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "We can think both ends of the belt as spinor particles like electrons, and in that case we can do another"
+    } ]
+  }, {
+    "tStartMs": 289570,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "experiment. What happens if the ends exchange positions? If we’re careful again not to"
+    } ]
+  }, {
+    "tStartMs": 294750,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "rotate either end with respect to each other then the belt ends up with a single twist"
+    } ]
+  }, {
+    "tStartMs": 299360,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "in it - equivalent to a 360 degree rotation\nof one end. So it seems that for spinors,"
+    } ]
+  }, {
+    "tStartMs": 305570,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "a 360 degree rotation is equivalent to the\nparticles switching places. This is slightly"
+    } ]
+  }, {
+    "tStartMs": 311660,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "worrying - if we’re using our hands as analogies for electrons then we just demonstrated that"
+    } ]
+  }, {
+    "tStartMs": 316950,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "it makes a difference if we switch their locations - and that's a problem if electrons are supposed to be"
+    } ]
+  }, {
+    "tStartMs": 322310,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "indistinguishable which is one of the critical\ningredients of the spin statistics theorem."
+    } ]
+  }, {
+    "tStartMs": 327760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "We’ll come back to how electrons can have this property and yet still be indistinguishable."
+    } ]
+  }, {
+    "tStartMs": 333400,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Okay, let’s summarize what we’ve learned. There are objects that require a 720 degree rotation"
+    } ]
+  }, {
+    "tStartMs": 339760,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "to return to their original configuration\nin terms of their relationship to other objects."
+    } ]
+  }, {
+    "tStartMs": 344830,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "We call these things spinors. For these same objects - spinors - a 360 degree rotation"
+    } ]
+  }, {
+    "tStartMs": 351010,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "is the same thing as swapping places with\na second spinor, at least in terms of the"
+    } ]
+  }, {
+    "tStartMs": 355670,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "relationship between those spinors."
+    } ]
+  }, {
+    "tStartMs": 359190,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "Okay. How do we connect all of this to actual electrons? Well electrons don’t really rotate in the classical sense. They’re quantum objects"
+    } ]
+  }, {
+    "tStartMs": 365940,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "described by a quantum wavefunction. A wavefunction is this thing that holds information about"
+    } ]
+  }, {
+    "tStartMs": 372000,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "the probability of a given property being\nobserved. For example, the wavefunction representing"
+    } ]
+  }, {
+    "tStartMs": 377340,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the position of a particle can look like a\nsine wave moving through space. If you have"
+    } ]
+  }, {
+    "tStartMs": 382220,
+    "dDurationMs": 5431,
+    "segs": [ {
+      "utf8": "two such wavefunctions overlapping - like two photons in a laser beam, a shift in one"
+    } ]
+  }, {
+    "tStartMs": 387651,
+    "dDurationMs": 5379,
+    "segs": [ {
+      "utf8": "of them by half a wave cycle puts the two out of phase with each other. In that case they"
+    } ]
+  }, {
+    "tStartMs": 393030,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "actually cancel each other out and you effectively have no photons. Mathematically, a half-cycle"
+    } ]
+  }, {
+    "tStartMs": 399540,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "phase shift corresponds to putting a negative sign in front of the wavefunction. That makes"
+    } ]
+  }, {
+    "tStartMs": 404260,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "sense right - because adding the two\nwavefunctions causes them to sum to zero."
+    } ]
+  }, {
+    "tStartMs": 409320,
+    "dDurationMs": 6129,
+    "segs": [ {
+      "utf8": "A spinor wavefunction of the electron can “wave” through space, but it includes"
+    } ]
+  }, {
+    "tStartMs": 415449,
+    "dDurationMs": 6541,
+    "segs": [ {
+      "utf8": "another wavy part. It has its rotational degree of freedom in which a full wave cycle is a"
+    } ]
+  }, {
+    "tStartMs": 421990,
+    "dDurationMs": 7540,
+    "segs": [ {
+      "utf8": "720 degree rotation. In that case a 360 degree rotation puts a spinor perfectly out of phase"
+    } ]
+  }, {
+    "tStartMs": 429530,
+    "dDurationMs": 7590,
+    "segs": [ {
+      "utf8": "compared to its starting point. So a 360 rotation introduces a negative sign to the spinor wavefunction."
+    } ]
+  }, {
+    "tStartMs": 437120,
+    "dDurationMs": 5435,
+    "segs": [ {
+      "utf8": "And that little negative sign is ultimately what drives the difference between fermions and bosons."
+    } ]
+  }, {
+    "tStartMs": 442555,
+    "dDurationMs": 5915,
+    "segs": [ {
+      "utf8": "OK, so summarizing again: Electrons are spinors and so require a 720 degree rotation to be"
+    } ]
+  }, {
+    "tStartMs": 448470,
+    "dDurationMs": 6169,
+    "segs": [ {
+      "utf8": "returned to their initial state. But a 360 degree rotation shifts their phase by a half cycle"
+    } ]
+  }, {
+    "tStartMs": 454639,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "and adds a -1 to the wavefunction. But we\nalso know from the belt trick analogy that"
+    } ]
+  }, {
+    "tStartMs": 460440,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "swapping two spinors is the same as doing\na 360 degree rotation - so that should put"
+    } ]
+  }, {
+    "tStartMs": 465740,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "a negative sign in front of the combined wavefunction. And that’s the last piece of the puzzle"
+    } ]
+  }, {
+    "tStartMs": 470690,
+    "dDurationMs": 5664,
+    "segs": [ {
+      "utf8": "we need to get to the spin-statistics theorem, and the Pauli exclusion principle. "
+    } ]
+  }, {
+    "tStartMs": 476354,
+    "dDurationMs": 3806,
+    "segs": [ {
+      "utf8": "Now all we need is to do is the math."
+    } ]
+  }, {
+    "tStartMs": 480160,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Which you should relax about because we’re literally just doing addition and subtraction"
+    } ]
+  }, {
+    "tStartMs": 483830,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "here. Let’s think about the quantum state\nof an electron. We’ll call it Psi. Psi gives"
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "the distribution of probabilities of some\nobservable - for example, the location of"
+    } ]
+  }, {
+    "tStartMs": 496030,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "the electron around the atom. Psi is really\nthe so-called “probability amplitude”."
+    } ]
+  }, {
+    "tStartMs": 501750,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "The actual probability distribution is the\nsquare of that. We can never, ever observe"
+    } ]
+  }, {
+    "tStartMs": 506810,
+    "dDurationMs": 6359,
+    "segs": [ {
+      "utf8": "Psi - all we can do is map Psi^2 by making multiple measurements. The unobservability"
+    } ]
+  }, {
+    "tStartMs": 513169,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "of Psi is critical to this whole explanation, so remember that."
+    } ]
+  }, {
+    "tStartMs": 517509,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Now let’s put our electron in an atom - in\nthe ground state. And add a second electron"
+    } ]
+  }, {
+    "tStartMs": 522599,
+    "dDurationMs": 6441,
+    "segs": [ {
+      "utf8": "to the first excited state. We can think of these two electrons as having a shared wavefunction - a two-particle"
+    } ]
+  }, {
+    "tStartMs": 529040,
+    "dDurationMs": 7270,
+    "segs": [ {
+      "utf8": "wavefunction we’ll call Psi(A,B) - which\nhas two electrons A and B, in which one occupies"
+    } ]
+  }, {
+    "tStartMs": 536310,
+    "dDurationMs": 5509,
+    "segs": [ {
+      "utf8": "the ground state and one the first excited\nstate. We’ll see what actually goes into"
+    } ]
+  }, {
+    "tStartMs": 541819,
+    "dDurationMs": 1781,
+    "segs": [ {
+      "utf8": "this wavefunction shortly."
+    } ]
+  }, {
+    "tStartMs": 543600,
+    "dDurationMs": 4825,
+    "segs": [ {
+      "utf8": "But first let’s see how this thing should\nbehave based on the stuff we figured out earlier."
+    } ]
+  }, {
+    "tStartMs": 548425,
+    "dDurationMs": 5284,
+    "segs": [ {
+      "utf8": "Electrons are fermions, which means that if\nwe swap their locations the wavefunction gets"
+    } ]
+  }, {
+    "tStartMs": 553709,
+    "dDurationMs": 6591,
+    "segs": [ {
+      "utf8": "multiplied by -1. Electron A goes into the\nfirst excited state and B goes to the ground"
+    } ]
+  }, {
+    "tStartMs": 560300,
+    "dDurationMs": 9328,
+    "segs": [ {
+      "utf8": "state. So now we have Psi(B,A) and we know that Psi(A,B) = -Psi(B,A)"
+    } ]
+  }, {
+    "tStartMs": 569628,
+    "dDurationMs": 5651,
+    "segs": [ {
+      "utf8": "Wavefunctions that change sign like this when it's particle labels are swapped are called anti-symmetric"
+    } ]
+  }, {
+    "tStartMs": 575279,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "under particle interchange, and those that\ndon’t change sign are, unsurprisingly, called"
+    } ]
+  }, {
+    "tStartMs": 580279,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "symmetric. Fermions have antisymmetric wavefunctions, bosons, symmetric."
+    } ]
+  }, {
+    "tStartMs": 585579,
+    "dDurationMs": 6851,
+    "segs": [ {
+      "utf8": "Remember that we wanted fermions to be indistinguishable from each other. But it seems like the two-particle"
+    } ]
+  }, {
+    "tStartMs": 592430,
+    "dDurationMs": 6589,
+    "segs": [ {
+      "utf8": "wavefunction changes if we swap the particles. Doesn’t that give us a way to “distinguish” the"
+    } ]
+  }, {
+    "tStartMs": 599019,
+    "dDurationMs": 7091,
+    "segs": [ {
+      "utf8": "swap? Actually no - no observable property\nis changed by the swap. Remember, that we only"
+    } ]
+  }, {
+    "tStartMs": 606110,
+    "dDurationMs": 6469,
+    "segs": [ {
+      "utf8": "“observe” the square of the wavefunction, and in that square the minus sign goes away."
+    } ]
+  }, {
+    "tStartMs": 612579,
+    "dDurationMs": 6292,
+    "segs": [ {
+      "utf8": "The square of Psi(A,B) is equal to the square of Psi(B,A)"
+    } ]
+  }, {
+    "tStartMs": 618871,
+    "dDurationMs": 6039,
+    "segs": [ {
+      "utf8": "But although we can’t distinguish electron A from electron B through observation of these particles,"
+    } ]
+  }, {
+    "tStartMs": 624910,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "it turns out that this subtle “unobservable”\nproperty has a powerful manifestation in the"
+    } ]
+  }, {
+    "tStartMs": 630980,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "behaviour of groups of fermions."
+    } ]
+  }, {
+    "tStartMs": 632950,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "To see that, we need to see what this two-particle wavefunction looks like in terms of the individual"
+    } ]
+  }, {
+    "tStartMs": 638450,
+    "dDurationMs": 4729,
+    "segs": [ {
+      "utf8": "wavefunctions of our two electrons. We’ll\ncall the individual electron wavefunctions"
+    } ]
+  }, {
+    "tStartMs": 643179,
+    "dDurationMs": 7270,
+    "segs": [ {
+      "utf8": "g and f - if you like for the ground and first\nexcited state of the atom, but this works"
+    } ]
+  }, {
+    "tStartMs": 650449,
+    "dDurationMs": 4781,
+    "segs": [ {
+      "utf8": "for any two possible wavefunctions - two possible quantum states - that our electrons could"
+    } ]
+  }, {
+    "tStartMs": 655230,
+    "dDurationMs": 5409,
+    "segs": [ {
+      "utf8": "have. If electron A is in the ground state\nthen its wavefunction is g(A), if it’s in"
+    } ]
+  }, {
+    "tStartMs": 660639,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "the first excited state it’s f(A), and the\nsame for electron B."
+    } ]
+  }, {
+    "tStartMs": 665259,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Now let’s say we don’t know which of A\nor B are in the ground or excited states."
+    } ]
+  }, {
+    "tStartMs": 670839,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "The two-particle wavefunction needs to be\na combination of f and g covering all the"
+    } ]
+  }, {
+    "tStartMs": 675040,
+    "dDurationMs": 6489,
+    "segs": [ {
+      "utf8": "possibilities - in fact, all possible combinations summed together in what we call a superposition."
+    } ]
+  }, {
+    "tStartMs": 681529,
+    "dDurationMs": 6021,
+    "segs": [ {
+      "utf8": "There’s one way to do this that captures\nthe anti-symmetric nature that we’re looking"
+    } ]
+  }, {
+    "tStartMs": 687550,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "for. It looks like this:"
+    } ]
+  }, {
+    "tStartMs": 690000,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "Which we can think of as the sum of A being in the ground state, B in the exited, then"
+    } ]
+  }, {
+    "tStartMs": 697970,
+    "dDurationMs": 7169,
+    "segs": [ {
+      "utf8": "B in the ground and A in excited. Each term in a superposition has a coefficient out front - and in this"
+    } ]
+  }, {
+    "tStartMs": 705139,
+    "dDurationMs": 4981,
+    "segs": [ {
+      "utf8": "case the coefficient for the second term is minus one. We’re choosing it because it"
+    } ]
+  }, {
+    "tStartMs": 710120,
+    "dDurationMs": 5788,
+    "segs": [ {
+      "utf8": "works. To prove it, let’s switch the particles and the wavefunction sign should flip. "
+    } ]
+  }, {
+    "tStartMs": 715908,
+    "dDurationMs": 4414,
+    "segs": [ {
+      "utf8": "We want Psi(A,B) to become Psi(B,A). And Psi(B,A)"
+    } ]
+  }, {
+    "tStartMs": 720322,
+    "dDurationMs": 3848,
+    "segs": [ {
+      "utf8": "is just this thing we saw with all the As and Bs switched."
+    } ]
+  }, {
+    "tStartMs": 724170,
+    "dDurationMs": 10769,
+    "segs": [ {
+      "utf8": "And that is just the negative of the original. So Psi(B,A) = -Psi(A,B) - swapping electrons"
+    } ]
+  }, {
+    "tStartMs": 734939,
+    "dDurationMs": 5971,
+    "segs": [ {
+      "utf8": "flips the sign - so we’ve successfully discovered the wavefunction for a pair of fermions."
+    } ]
+  }, {
+    "tStartMs": 740910,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "Bear with me, we’re getting VERY close now. I’m now going to show you that we can’t shove both"
+    } ]
+  }, {
+    "tStartMs": 746170,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "electrons into the same state. Let’s say\nwe want both electrons to be in the ground state."
+    } ]
+  }, {
+    "tStartMs": 751860,
+    "dDurationMs": 5532,
+    "segs": [ {
+      "utf8": "The two particle wavefunction would then look like this. The fs become gs."
+    } ]
+  }, {
+    "tStartMs": 757392,
+    "dDurationMs": 5908,
+    "segs": [ {
+      "utf8": "Now both components of the superposition are the same, with the exception that the second component"
+    } ]
+  }, {
+    "tStartMs": 763300,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "has a minus sign - which causes those two components to cancel out. Essentially, two electrons shoved into"
+    } ]
+  }, {
+    "tStartMs": 769660,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "the same state end up perfectly out of phase and so destructively interfere. But you can’t"
+    } ]
+  }, {
+    "tStartMs": 776040,
+    "dDurationMs": 6019,
+    "segs": [ {
+      "utf8": "just vanish electrons - so the transition\nof an electron into an occupied quantum state"
+    } ]
+  }, {
+    "tStartMs": 782059,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "is impossible."
+    } ]
+  }, {
+    "tStartMs": 783199,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "This statement, together with what we saw\nfrom the belt-trick previously about spinors"
+    } ]
+  }, {
+    "tStartMs": 788040,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "having anti-symmetric wavefunctions, is the\npauli exclusion principle. That is, particles"
+    } ]
+  }, {
+    "tStartMs": 793760,
+    "dDurationMs": 5929,
+    "segs": [ {
+      "utf8": "with half integer spin have antisymmetric\nwavefunctions (the belt trick relation), and particles"
+    } ]
+  }, {
+    "tStartMs": 799689,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "with anti symmetric wavefunctions cannot have multiple particles in the same quantum state."
+    } ]
+  }, {
+    "tStartMs": 805490,
+    "dDurationMs": 6599,
+    "segs": [ {
+      "utf8": "The full spin statistics theorem has a lot more to it. One part of it is a rather more"
+    } ]
+  }, {
+    "tStartMs": 812089,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "rigorous explanation of why spinors must have anti-symmetric wavefunctions that doesn’t"
+    } ]
+  }, {
+    "tStartMs": 817149,
+    "dDurationMs": 5961,
+    "segs": [ {
+      "utf8": "involve pant-retention technology. It boils down to the fact that you need to use spinors"
+    } ]
+  }, {
+    "tStartMs": 823110,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "in the Dirac equation - which is the quantum\nequation of motion for electrons and other"
+    } ]
+  }, {
+    "tStartMs": 827990,
+    "dDurationMs": 1238,
+    "segs": [ {
+      "utf8": "spin-½ particles."
+    } ]
+  }, {
+    "tStartMs": 829228,
+    "dDurationMs": 4692,
+    "segs": [ {
+      "utf8": "That equation by itself doesn’t force you\nto use symmetric or anti-symmetric wavefunctions"
+    } ]
+  }, {
+    "tStartMs": 833920,
+    "dDurationMs": 6649,
+    "segs": [ {
+      "utf8": "- but if you try to use the symmetric wavefunctions of the boson then you get bad-wrong results."
+    } ]
+  }, {
+    "tStartMs": 840569,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Specifically, the energy level spectrum becomes unbounded from below, meaning you can continually"
+    } ]
+  }, {
+    "tStartMs": 845889,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "remove energy from the system by lowering\nthe state of a particle forever. But if"
+    } ]
+  }, {
+    "tStartMs": 850690,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "you use the correct anti-symmetric wavefunction then everything works just works out great. So it’s"
+    } ]
+  }, {
+    "tStartMs": 855730,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "a proof by contradiction: particles described by spinors have to have an anti-symmetric"
+    } ]
+  }, {
+    "tStartMs": 861000,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "wavefunction and so must obey the Pauli exclusion principle - or you get nonsense."
+    } ]
+  }, {
+    "tStartMs": 866240,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "So there you have it - matter has structure\nand you don’t fall through your chair because"
+    } ]
+  }, {
+    "tStartMs": 870290,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "electrons are indistinguishable and they obey a simple, if odd, rotational symmetry. Ironically,"
+    } ]
+  }, {
+    "tStartMs": 875850,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "to prove the structural integrity of matter\nI had to compromise the structural integrity"
+    } ]
+  }, {
+    "tStartMs": 881189,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "of my pants situation. Revealing mysteries of the universe sometimes comes at the risk of revealing"
+    } ]
+  }, {
+    "tStartMs": 887879,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "mysteries. But that is a risk we’ll always take for you here on space time."
+    } ]
+  }, {
+    "tStartMs": 893439,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Hey everyone, thanks for clicking, watching,\nand hopefully for liking and subscribing."
+    } ]
+  }, {
+    "tStartMs": 898259,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "It's really, really helpful for you to do\nthat stuff. And for those of you who go even"
+    } ]
+  }, {
+    "tStartMs": 903579,
+    "dDurationMs": 6081,
+    "segs": [ {
+      "utf8": "further and support us on Patreon - well words can't convey our gratitude. But let me try"
+    } ]
+  }, {
+    "tStartMs": 909660,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "anyway. Today I want to give a special thank you to Ethan Cohen who's supporting us at"
+    } ]
+  }, {
+    "tStartMs": 914959,
+    "dDurationMs": 5641,
+    "segs": [ {
+      "utf8": "the quasar level. Ethan, you're about as far\nas I can imagine from being indistinguishable"
+    } ]
+  }, {
+    "tStartMs": 920600,
+    "dDurationMs": 5279,
+    "segs": [ {
+      "utf8": "or degenerate. That makes you some exotic\nform of matter, presumably unbound by the"
+    } ]
+  }, {
+    "tStartMs": 925879,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "laws of known physics. So thank you for interacting with us lowly, fermionic life-forms - our"
+    } ]
+  }, {
+    "tStartMs": 930939,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "heads are spinning in gratitude for your support."
+    } ]
+  }, {
+    "tStartMs": 934249,
+    "dDurationMs": 3981,
+    "segs": [ {
+      "utf8": "Today we’re doing comment responses from the last two episodes - the one about reverberation"
+    } ]
+  }, {
+    "tStartMs": 938230,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "mapping, where we map the stuff around black holes by watching how light bounces around."
+    } ]
+  }, {
+    "tStartMs": 942730,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "And the episode where we took a journey into the weird, pasta-filled core of a neutron"
+    } ]
+  }, {
+    "tStartMs": 947040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "star."
+    } ]
+  }, {
+    "tStartMs": 948040,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "Greg Gorman says that he imagined that black holes would look more like dim stars rather than,"
+    } ]
+  }, {
+    "tStartMs": 952739,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "well, black holes because they slingshot light around from behind them. So it’s true that"
+    } ]
+  }, {
+    "tStartMs": 957879,
+    "dDurationMs": 4531,
+    "segs": [ {
+      "utf8": "black holes do this, but if you have good\nenough resolution you’ll always be able"
+    } ]
+  }, {
+    "tStartMs": 962410,
+    "dDurationMs": 4529,
+    "segs": [ {
+      "utf8": "to see the dark disk in the middle. That’s because the light rays will travel a straight"
+    } ]
+  }, {
+    "tStartMs": 966939,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "line after the slingshot, so at most they can appear to be coming from the edge of the event horizon."
+    } ]
+  }, {
+    "tStartMs": 972519,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "And that’s exactly why the event horizon\ntelescope image looks like that. Although"
+    } ]
+  }, {
+    "tStartMs": 977720,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "in that case the dark area is a little larger,\nbecause most of the light gets sling-shotted"
+    } ]
+  }, {
+    "tStartMs": 983100,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "from a bit further out - the photosphere where light can actually orbit the black hole."
+    } ]
+  }, {
+    "tStartMs": 987939,
+    "dDurationMs": 5531,
+    "segs": [ {
+      "utf8": "Greddan6fly says that when they were in school quasars were just discovered and there was"
+    } ]
+  }, {
+    "tStartMs": 993470,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "speculation that they might be white holes. So I came along only a little after, I imagine those"
+    } ]
+  }, {
+    "tStartMs": 1000690,
+    "dDurationMs": 4749,
+    "segs": [ {
+      "utf8": "were giddy exciting times! There\nwas speculation that quasars could be swarms"
+    } ]
+  }, {
+    "tStartMs": 1005439,
+    "dDurationMs": 5541,
+    "segs": [ {
+      "utf8": "of neutron stars or supernova cascades or\neven bizarre objects flying at crazy speeds"
+    } ]
+  }, {
+    "tStartMs": 1010980,
+    "dDurationMs": 5359,
+    "segs": [ {
+      "utf8": "out of the Milky Way. Happily the winning hypothesis of enormous black holes was as awesome as"
+    } ]
+  }, {
+    "tStartMs": 1016339,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "all the others. "
+    } ]
+  }, {
+    "tStartMs": 1017339,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "Dave Lawrence rightly calls me out for saying that reverberation mapping can be done with"
+    } ]
+  }, {
+    "tStartMs": 1022009,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "an ordinary scope. So - I don’t mean\nyour typical toys-r-us “my first telescope”"
+    } ]
+  }, {
+    "tStartMs": 1027349,
+    "dDurationMs": 5771,
+    "segs": [ {
+      "utf8": "- but even a high-end amateur telescope with an admittedly ridiculously expensive digital"
+    } ]
+  }, {
+    "tStartMs": 1033120,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "detector and spectrograph could take a spectrum of a bright quasar and see the different components"
+    } ]
+  }, {
+    "tStartMs": 1039510,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "of that light vary in different ways over\nmonths or years. Not advisable for a school"
+    } ]
+  }, {
+    "tStartMs": 1045179,
+    "dDurationMs": 4181,
+    "segs": [ {
+      "utf8": "science project, but its still really cool\nthat this is doable at all."
+    } ]
+  }, {
+    "tStartMs": 1049360,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "Mehul Mishra asked what would happen if you plucked one neutron out of the weird gridlocked"
+    } ]
+  }, {
+    "tStartMs": 1054350,
+    "dDurationMs": 5909,
+    "segs": [ {
+      "utf8": "plasma crystal lattice of the crust of a neutron star. And then my favorite thing happened"
+    } ]
+  }, {
+    "tStartMs": 1060259,
+    "dDurationMs": 6591,
+    "segs": [ {
+      "utf8": "- someone who knows more than me answered that question. Prot Eus tells us that the hole can only be"
+    } ]
+  }, {
+    "tStartMs": 1066850,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "filled by an adjacent particle, which then just shifts the location of the hole. In this way"
+    } ]
+  }, {
+    "tStartMs": 1071950,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "the hole sort of acts like it’s own particle,\nmoving around the lattice. But this pseudoparticle"
+    } ]
+  }, {
+    "tStartMs": 1077440,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "is less dense that its surroundings, so it eventually rises to the surface and so gets eliminated"
+    } ]
+  }, {
+    "tStartMs": 1082899,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "from the lattice. And I’m very happy we sorted this one out."
+    } ]
+  }, {
+    "tStartMs": 1086909,
+    "dDurationMs": 6661,
+    "segs": [ {
+      "utf8": "Stephen Spackman also rightly calls me out for my using the expression “Up to 10%"
+    } ]
+  }, {
+    "tStartMs": 1093570,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "or more” of the speed of light, regarding\nhow fast gas can be blasted away from a quasar."
+    } ]
+  }, {
+    "tStartMs": 1099340,
+    "dDurationMs": 7390,
+    "segs": [ {
+      "utf8": "I agree that up to 10% or more can be literally any number whatsoever. Which means I'm"
+    } ]
+  }, {
+    "tStartMs": 1106730,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "not wrong! But also not useful. The broad emission lines of quasars show that the gas is"
+    } ]
+  }, {
+    "tStartMs": 1112250,
+    "dDurationMs": 8570,
+    "segs": [ {
+      "utf8": "typically moving away from the black hole a few perecent to 10% the speed of light, and in rare cases even faster. I will"
+    } ]
+  }, {
+    "tStartMs": 1120820,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "try to speak with better error bars in the future."
+    } ]
+  }, {
+    "tStartMs": 1124100,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "And finally, Steve Bogucki tells us that Space Time made him realize that he’s more"
+    } ]
+  }, {
+    "tStartMs": 1130230,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "interested in quantum physics than astrophysics. Hey, at least you didn’t devote decades"
+    } ]
+  }, {
+    "tStartMs": 1135649,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "of your professional life to astrophysics\nbefore having that revelation. No, I’m"
+    } ]
+  }, {
+    "tStartMs": 1140070,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "kidding. I love astrophysics like my awe-inspiring first born child. But quantum mechanics is"
+    } ]
+  }, {
+    "tStartMs": 1146260,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "my weird and brilliant and deeply compelling second born and I love you all the same, I"
+    } ]
+  }, {
+    "tStartMs": 1150130,
+    "dDurationMs": 2407,
+    "segs": [ {
+      "utf8": "swear."
+    } ]
+  } ]
+}

@@ -1,0 +1,4303 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 136,
+    "dDurationMs": 3755,
+    "segs": [ {
+      "utf8": "- Take the number 5 and\nsquare it, you get 25."
+    } ]
+  }, {
+    "tStartMs": 3891,
+    "dDurationMs": 3751,
+    "segs": [ {
+      "utf8": "Now take 25 and square it, you get 625."
+    } ]
+  }, {
+    "tStartMs": 7642,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Square 625, and you get 390,625."
+    } ]
+  }, {
+    "tStartMs": 12930,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Do you see the pattern?"
+    } ]
+  }, {
+    "tStartMs": 14790,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "5 squared ends in a 5,"
+    } ]
+  }, {
+    "tStartMs": 16860,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "25 squared ends in 25, and\n625 squared ends in 625."
+    } ]
+  }, {
+    "tStartMs": 23010,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So does this pattern continue?"
+    } ]
+  }, {
+    "tStartMs": 25020,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Well, let's try squaring 390,625."
+    } ]
+  }, {
+    "tStartMs": 29310,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It doesn't quite end in itself,"
+    } ]
+  }, {
+    "tStartMs": 31470,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "but the last 5 digits match,"
+    } ]
+  }, {
+    "tStartMs": 33270,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "so it extends the pattern by a few places."
+    } ]
+  }, {
+    "tStartMs": 36120,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "So let's try squaring\njust that part, 90,625."
+    } ]
+  }, {
+    "tStartMs": 40530,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Well, that does end in itself,"
+    } ]
+  }, {
+    "tStartMs": 42420,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and if we squared that whole number,"
+    } ]
+  }, {
+    "tStartMs": 45060,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "it also ends in itself,"
+    } ]
+  }, {
+    "tStartMs": 46860,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and now we're up to 10 digits,"
+    } ]
+  }, {
+    "tStartMs": 49560,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and you can keep doing this."
+    } ]
+  }, {
+    "tStartMs": 51180,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Squaring the part of the answer"
+    } ]
+  }, {
+    "tStartMs": 52530,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "that matches the previous number"
+    } ]
+  }, {
+    "tStartMs": 54480,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "and increasing the number of\ndigits they share in common,"
+    } ]
+  }, {
+    "tStartMs": 57630,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it's as though we are\nconverging on a number,"
+    } ]
+  }, {
+    "tStartMs": 60630,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "but not in the usual sense of convergence."
+    } ]
+  }, {
+    "tStartMs": 63540,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "This number will have infinite\ndigits, and if you square it,"
+    } ]
+  }, {
+    "tStartMs": 67920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "you'll get back that same number."
+    } ]
+  }, {
+    "tStartMs": 70560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The number is its own square."
+    } ]
+  }, {
+    "tStartMs": 73800,
+    "dDurationMs": 1447,
+    "segs": [ {
+      "utf8": "Now, I bet you're thinking,"
+    } ]
+  }, {
+    "tStartMs": 75247,
+    "dDurationMs": 2183,
+    "segs": [ {
+      "utf8": "\"Does it even make sense\nto talk about numbers"
+    } ]
+  }, {
+    "tStartMs": 77430,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "that have infinite digits going off"
+    } ]
+  }, {
+    "tStartMs": 78960,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "to the left of the decimal point?"
+    } ]
+  }, {
+    "tStartMs": 80610,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I mean, isn't that just infinity?\""
+    } ]
+  }, {
+    "tStartMs": 83370,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "In this video, my goal is to convince you"
+    } ]
+  }, {
+    "tStartMs": 85620,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "that such numbers do make sense."
+    } ]
+  }, {
+    "tStartMs": 87870,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "They just belong to a number system"
+    } ]
+  }, {
+    "tStartMs": 89280,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "that works very differently"
+    } ]
+  }, {
+    "tStartMs": 90450,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "from the one we're used to,"
+    } ]
+  }, {
+    "tStartMs": 92190,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and that allows these numbers"
+    } ]
+  }, {
+    "tStartMs": 94380,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "to solve problems that are impenetrable"
+    } ]
+  }, {
+    "tStartMs": 96480,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "using ordinary numbers,"
+    } ]
+  }, {
+    "tStartMs": 98100,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "which is why they are a fundamental tool"
+    } ]
+  }, {
+    "tStartMs": 99990,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "in cutting edge research\ntoday in number theory,"
+    } ]
+  }, {
+    "tStartMs": 102840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "algebraic geometry, and beyond."
+    } ]
+  }, {
+    "tStartMs": 105240,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So let's start by\nlooking at the properties"
+    } ]
+  }, {
+    "tStartMs": 107160,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "of the number system"
+    } ]
+  }, {
+    "tStartMs": 107993,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "that includes the number we just found."
+    } ]
+  }, {
+    "tStartMs": 111570,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "We'll call these 10-adic numbers"
+    } ]
+  }, {
+    "tStartMs": 114180,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "because they're written in base 10."
+    } ]
+  }, {
+    "tStartMs": 116700,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "If you have two 10-adic numbers,"
+    } ]
+  }, {
+    "tStartMs": 118860,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "can you add them together?"
+    } ]
+  }, {
+    "tStartMs": 120660,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Sure, you just go digit by digit\nfrom the right to the left,"
+    } ]
+  }, {
+    "tStartMs": 124290,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "adding them up as usual,\naddition is not a problem."
+    } ]
+  }, {
+    "tStartMs": 128580,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "What about multiplication?"
+    } ]
+  }, {
+    "tStartMs": 130140,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Well, again, you can take\nany two 10-adic numbers"
+    } ]
+  }, {
+    "tStartMs": 132840,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "and multiply them out."
+    } ]
+  }, {
+    "tStartMs": 134550,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "This works because the\nlast digit of the answer"
+    } ]
+  }, {
+    "tStartMs": 136800,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "depends only on the last\ndigits of the 10-adic numbers,"
+    } ]
+  }, {
+    "tStartMs": 140370,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and subsequent digits depend only"
+    } ]
+  }, {
+    "tStartMs": 142440,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "on the numbers to their right."
+    } ]
+  }, {
+    "tStartMs": 144420,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "So it might take a lot of work,"
+    } ]
+  }, {
+    "tStartMs": 146040,
+    "dDurationMs": 3513,
+    "segs": [ {
+      "utf8": "but you can keep going for\nas many digits as you like."
+    } ]
+  }, {
+    "tStartMs": 150930,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Let's take one 10-adic number ending"
+    } ]
+  }, {
+    "tStartMs": 153300,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "in 857142857143, and multiply it by 7."
+    } ]
+  }, {
+    "tStartMs": 161280,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "So 7 times 3 is 21, carry the 2,"
+    } ]
+  }, {
+    "tStartMs": 164670,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "7 times 4 is 28 plus 2\nmakes 30, carry the 3,"
+    } ]
+  }, {
+    "tStartMs": 168330,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "7 times 1 is 7 plus 3\nmakes 10, carry the 1,"
+    } ]
+  }, {
+    "tStartMs": 172080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "7 times 7 is 49 plus 1 is 50, carry the 5,"
+    } ]
+  }, {
+    "tStartMs": 175920,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "7 times 5 is 35 plus 5 is 40, carry the 4,"
+    } ]
+  }, {
+    "tStartMs": 180180,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "and you can keep going forever"
+    } ]
+  }, {
+    "tStartMs": 181913,
+    "dDurationMs": 3449,
+    "segs": [ {
+      "utf8": "and you'll find all\nthe other digits are 0."
+    } ]
+  }, {
+    "tStartMs": 185362,
+    "dDurationMs": 4748,
+    "segs": [ {
+      "utf8": "So this number times 7 equals 1,"
+    } ]
+  }, {
+    "tStartMs": 190110,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "which means this 10-adic number"
+    } ]
+  }, {
+    "tStartMs": 192690,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "must be equal to 1/7th."
+    } ]
+  }, {
+    "tStartMs": 196890,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "What we have just found"
+    } ]
+  }, {
+    "tStartMs": 198030,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "is that there are rational\nnumbers, fractions,"
+    } ]
+  }, {
+    "tStartMs": 200790,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "in the 10-adic numbers"
+    } ]
+  }, {
+    "tStartMs": 202230,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "without having to use\nthe divided by symbol."
+    } ]
+  }, {
+    "tStartMs": 206520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Say you wanna find the 10-adic\nnumber that equals 1/3."
+    } ]
+  }, {
+    "tStartMs": 209880,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "How would you do it?"
+    } ]
+  }, {
+    "tStartMs": 211530,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Well, let's imagine we have\nan infinite string of digits,"
+    } ]
+  }, {
+    "tStartMs": 214410,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and when we multiply them by 3, we get 1."
+    } ]
+  }, {
+    "tStartMs": 217770,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "This implies that all the digits"
+    } ]
+  }, {
+    "tStartMs": 219630,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "to the left of the 1 must be 0."
+    } ]
+  }, {
+    "tStartMs": 222360,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So what do we multiply 3 by to get a 1"
+    } ]
+  }, {
+    "tStartMs": 224490,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "in the unit's place?"
+    } ]
+  }, {
+    "tStartMs": 226080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Well, 3 times 7 is 21,"
+    } ]
+  }, {
+    "tStartMs": 228600,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "so that gives us the 1,\nand then we carry the 2."
+    } ]
+  }, {
+    "tStartMs": 232170,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Now what times 3 plus 2 gives us a 0? 6."
+    } ]
+  }, {
+    "tStartMs": 237180,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "3 x 6 = 18 + 2 = 20."
+    } ]
+  }, {
+    "tStartMs": 240810,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "So we have a 0 and we carry the 2."
+    } ]
+  }, {
+    "tStartMs": 243720,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Put another 6 there and\nwe get another 20 again."
+    } ]
+  }, {
+    "tStartMs": 246270,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "So if we put a string of\n6s all the way to the left,"
+    } ]
+  }, {
+    "tStartMs": 249480,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "they will all multiply to make a 0."
+    } ]
+  }, {
+    "tStartMs": 251820,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So an infinite string of 6s\nand one 7 is equal to 1/3."
+    } ]
+  }, {
+    "tStartMs": 257822,
+    "dDurationMs": 3568,
+    "segs": [ {
+      "utf8": "This looks similar to the\ninfinite digits we're used to"
+    } ]
+  }, {
+    "tStartMs": 261390,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "going off to the right\nof the decimal point,"
+    } ]
+  }, {
+    "tStartMs": 263580,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "like 0.9999999 repeating."
+    } ]
+  }, {
+    "tStartMs": 266790,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "What does this equal?"
+    } ]
+  }, {
+    "tStartMs": 268650,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Well, I'll claim that\nit's exactly equal to 1,"
+    } ]
+  }, {
+    "tStartMs": 272250,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "but how do we prove it?"
+    } ]
+  }, {
+    "tStartMs": 274440,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Let's call this number k,"
+    } ]
+  }, {
+    "tStartMs": 276060,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "and then multiply both sides by 10."
+    } ]
+  }, {
+    "tStartMs": 278450,
+    "dDurationMs": 4335,
+    "segs": [ {
+      "utf8": "So now we've got 9.999\nrepeating equals 10k."
+    } ]
+  }, {
+    "tStartMs": 282785,
+    "dDurationMs": 2815,
+    "segs": [ {
+      "utf8": "Now, subtract the top\nequation from the bottom one"
+    } ]
+  }, {
+    "tStartMs": 285600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "to get 9 = 9k, so k = 1."
+    } ]
+  }, {
+    "tStartMs": 290910,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "This is a fairly standard argument"
+    } ]
+  }, {
+    "tStartMs": 292680,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "for why 0.999 repeating\nmust be exactly equal to 1."
+    } ]
+  }, {
+    "tStartMs": 297990,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "But what if instead of going"
+    } ]
+  }, {
+    "tStartMs": 299460,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to the right of the decimal place,"
+    } ]
+  }, {
+    "tStartMs": 300960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "the 9s went to the left\nof the decimal place,"
+    } ]
+  }, {
+    "tStartMs": 304440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that is a 10-adic number of all 9s."
+    } ]
+  }, {
+    "tStartMs": 307560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "What does this number equal?"
+    } ]
+  }, {
+    "tStartMs": 309840,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Well, we can do the same thing,"
+    } ]
+  }, {
+    "tStartMs": 311610,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "set it equal to say m,"
+    } ]
+  }, {
+    "tStartMs": 313560,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and then multiply both sides by 10."
+    } ]
+  }, {
+    "tStartMs": 315810,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So we have 999999990 equals 10m."
+    } ]
+  }, {
+    "tStartMs": 321060,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Now, subtract this equation\nfrom the first one,"
+    } ]
+  }, {
+    "tStartMs": 323670,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and we get 9 = -9m, meaning m = -1."
+    } ]
+  }, {
+    "tStartMs": 331410,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So this 10-adic string\nof all 9s is actually -1."
+    } ]
+  }, {
+    "tStartMs": 337080,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Now, I know that seems weird,\nso let's try adding 1 to it."
+    } ]
+  }, {
+    "tStartMs": 340980,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Well, 9 + 1 is 10, carry the 1,"
+    } ]
+  }, {
+    "tStartMs": 343710,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "9 + 1 is 10, carry the 1,"
+    } ]
+  }, {
+    "tStartMs": 345540,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and you just keep doing this\nall the way down the line"
+    } ]
+  }, {
+    "tStartMs": 348420,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and every digit becomes 0."
+    } ]
+  }, {
+    "tStartMs": 350970,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I know it seems like at some point,"
+    } ]
+  }, {
+    "tStartMs": 352860,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "you're gonna end up with a 1\nall the way down on the left,"
+    } ]
+  }, {
+    "tStartMs": 355680,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "but this never happens\nbecause the 9s go on forever."
+    } ]
+  }, {
+    "tStartMs": 359610,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "All 9s + 1 = 0,"
+    } ]
+  }, {
+    "tStartMs": 361980,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "therefore all 9s must be equal to -1."
+    } ]
+  }, {
+    "tStartMs": 365610,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "This also means that all 9s"
+    } ]
+  }, {
+    "tStartMs": 367350,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "and then say a 3 equals -7."
+    } ]
+  }, {
+    "tStartMs": 370860,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "What we have just discovered\nis that the 10-adics"
+    } ]
+  }, {
+    "tStartMs": 373050,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "contain negative numbers as well."
+    } ]
+  }, {
+    "tStartMs": 375630,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You don't need a negative sign"
+    } ]
+  }, {
+    "tStartMs": 377550,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "by the structure of these numbers alone,"
+    } ]
+  }, {
+    "tStartMs": 379860,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "negatives are included."
+    } ]
+  }, {
+    "tStartMs": 381990,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "To do subtraction,"
+    } ]
+  }, {
+    "tStartMs": 383100,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "you just add the negative of that number."
+    } ]
+  }, {
+    "tStartMs": 386160,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "To find the negative\nof any 10-adic number,"
+    } ]
+  }, {
+    "tStartMs": 388110,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "you could multiply by all 9s"
+    } ]
+  }, {
+    "tStartMs": 390300,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "or just perform these 2 steps."
+    } ]
+  }, {
+    "tStartMs": 393060,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "First, take the 9s complement,"
+    } ]
+  }, {
+    "tStartMs": 394830,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "that is the difference"
+    } ]
+  }, {
+    "tStartMs": 395663,
+    "dDurationMs": 3787,
+    "segs": [ {
+      "utf8": "between each digit and 9, and then add 1."
+    } ]
+  }, {
+    "tStartMs": 399450,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So if this number is 1/7, then -1/7"
+    } ]
+  }, {
+    "tStartMs": 403410,
+    "dDurationMs": 2673,
+    "segs": [ {
+      "utf8": "is 142857142856 + 1,"
+    } ]
+  }, {
+    "tStartMs": 411266,
+    "dDurationMs": 3814,
+    "segs": [ {
+      "utf8": "and we can verify that this is indeed -1/7"
+    } ]
+  }, {
+    "tStartMs": 415080,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "by adding it to positive 1/7,"
+    } ]
+  }, {
+    "tStartMs": 417180,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "and finding that these numbers\nannihilate each other to 0."
+    } ]
+  }, {
+    "tStartMs": 422055,
+    "dDurationMs": 3825,
+    "segs": [ {
+      "utf8": "So to sum up, 10-adic numbers\ncan be added, subtracted,"
+    } ]
+  }, {
+    "tStartMs": 425880,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "multiplied, and they work\nexactly as you'd expect."
+    } ]
+  }, {
+    "tStartMs": 429150,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Plus they contain fractions\nand negative numbers"
+    } ]
+  }, {
+    "tStartMs": 431760,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "without having to use additional symbols."
+    } ]
+  }, {
+    "tStartMs": 434250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "There is just one big problem,"
+    } ]
+  }, {
+    "tStartMs": 436650,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and you can see it with the\nfirst 10-adic number we found."
+    } ]
+  }, {
+    "tStartMs": 439710,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Remember, if you multiply\nthis number by itself,"
+    } ]
+  }, {
+    "tStartMs": 442350,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "you get back that same number."
+    } ]
+  }, {
+    "tStartMs": 444870,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "This number is its own square,"
+    } ]
+  }, {
+    "tStartMs": 447960,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and that's a problem which you can see"
+    } ]
+  }, {
+    "tStartMs": 450330,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "if we move the end to the\nleft-hand side and factor it."
+    } ]
+  }, {
+    "tStartMs": 453240,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Well, then we have n\ntimes n minus 1 equals 0."
+    } ]
+  }, {
+    "tStartMs": 457170,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "The numbers 0 or 1 would\nsatisfy this equation,"
+    } ]
+  }, {
+    "tStartMs": 460500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "but our 10-adic number is not 0 or 1."
+    } ]
+  }, {
+    "tStartMs": 464100,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You can even verify by multiplying it out."
+    } ]
+  }, {
+    "tStartMs": 466380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "This number n times n minus\n1 really does work out to 0."
+    } ]
+  }, {
+    "tStartMs": 472080,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "This breaks 1 of the tools\nmathematicians rely on"
+    } ]
+  }, {
+    "tStartMs": 475050,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "to solve equations."
+    } ]
+  }, {
+    "tStartMs": 476430,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "I mean, have you ever thought"
+    } ]
+  }, {
+    "tStartMs": 477510,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "about why when faced with\nsome complicated equation,"
+    } ]
+  }, {
+    "tStartMs": 480030,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "we move all the terms to one side,"
+    } ]
+  }, {
+    "tStartMs": 481770,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "set them equal to 0, and then factor them?"
+    } ]
+  }, {
+    "tStartMs": 484290,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Well, I certainly haven't\nbefore making this video,"
+    } ]
+  }, {
+    "tStartMs": 487350,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "but there is a good reason,"
+    } ]
+  }, {
+    "tStartMs": 489120,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "and it comes down to the\nspecial property of 0."
+    } ]
+  }, {
+    "tStartMs": 492630,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "If several terms multiplied\ntogether equal 0,"
+    } ]
+  }, {
+    "tStartMs": 495900,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "then you know at least one\nof those terms must be 0,"
+    } ]
+  }, {
+    "tStartMs": 499740,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and this allows us"
+    } ]
+  }, {
+    "tStartMs": 500850,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "to break down complicated\nhigher order equations"
+    } ]
+  }, {
+    "tStartMs": 503550,
+    "dDurationMs": 3543,
+    "segs": [ {
+      "utf8": "into a set of smaller,\nsimpler equations, and solve."
+    } ]
+  }, {
+    "tStartMs": 509070,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "But this won't work with the 10-adics,"
+    } ]
+  }, {
+    "tStartMs": 511440,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and fundamentally, the reason\nis because we're working"
+    } ]
+  }, {
+    "tStartMs": 514020,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "in base 10, and 10 is a composite number,"
+    } ]
+  }, {
+    "tStartMs": 517770,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "it's not a prime, it's 5 x 2."
+    } ]
+  }, {
+    "tStartMs": 521310,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Say you wanna find two 10-adic numbers"
+    } ]
+  }, {
+    "tStartMs": 523260,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "that multiply to 0,"
+    } ]
+  }, {
+    "tStartMs": 524970,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "then to start off, you know\nthat the last digit must be 0."
+    } ]
+  }, {
+    "tStartMs": 528810,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "So which two numbers could\nyou multiply to get a 0"
+    } ]
+  }, {
+    "tStartMs": 531600,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "in the unit's place?"
+    } ]
+  }, {
+    "tStartMs": 533220,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Well, you could multiply\na 0 times any number,"
+    } ]
+  }, {
+    "tStartMs": 535770,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "that's no problem,"
+    } ]
+  }, {
+    "tStartMs": 537270,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "but you could also multiply\nsay 5 x 4 and get 20,"
+    } ]
+  }, {
+    "tStartMs": 541290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "which gives you a 0 in the unit's place."
+    } ]
+  }, {
+    "tStartMs": 543720,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Then you can carry the 2\nand find another two numbers"
+    } ]
+  }, {
+    "tStartMs": 546300,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that will give you a 0 in the ten's place,"
+    } ]
+  }, {
+    "tStartMs": 548760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and you can keep building\nthe numbers from there,"
+    } ]
+  }, {
+    "tStartMs": 551040,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "so that all the digits work out to 0."
+    } ]
+  }, {
+    "tStartMs": 553980,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "There is a way to avoid this,"
+    } ]
+  }, {
+    "tStartMs": 555450,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "and that is to use a prime\nnumber base instead of base 10."
+    } ]
+  }, {
+    "tStartMs": 558960,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "It could be any prime like\n2, 3, 5, 7, et cetera."
+    } ]
+  }, {
+    "tStartMs": 562950,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "As an example, let's\ncreate a 3-adic number."
+    } ]
+  }, {
+    "tStartMs": 565590,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So this is a base 3 number\nwith infinite digits"
+    } ]
+  }, {
+    "tStartMs": 568320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "to the left of the decimal point."
+    } ]
+  }, {
+    "tStartMs": 570360,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "In the 3-adics,"
+    } ]
+  }, {
+    "tStartMs": 571500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the only digits we can use are 0, 1, and 2"
+    } ]
+  }, {
+    "tStartMs": 574860,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "because 3 is the same thing as 10."
+    } ]
+  }, {
+    "tStartMs": 578100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Now, how could you multiply\n2, 3-adic numbers to get 0?"
+    } ]
+  }, {
+    "tStartMs": 582300,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Well, again, we can start by just looking"
+    } ]
+  }, {
+    "tStartMs": 583950,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "at the last digit, 1 x 1 is 1, 2 x 1 is 2,"
+    } ]
+  }, {
+    "tStartMs": 588550,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and 2 x 2 is 4, which, in base 3, is 11."
+    } ]
+  }, {
+    "tStartMs": 594510,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So the only way to get a 0 is"
+    } ]
+  }, {
+    "tStartMs": 596880,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "if 1 of those 3-adic digits itself is 0,"
+    } ]
+  }, {
+    "tStartMs": 600870,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and it's the same for all\nthe digits going to the left."
+    } ]
+  }, {
+    "tStartMs": 603930,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "The only way they multiply the 0 is"
+    } ]
+  }, {
+    "tStartMs": 606210,
+    "dDurationMs": 4242,
+    "segs": [ {
+      "utf8": "if one of the 3-adic numbers\nis itself entirely 0."
+    } ]
+  }, {
+    "tStartMs": 610452,
+    "dDurationMs": 2418,
+    "segs": [ {
+      "utf8": "And this works for any prime base"
+    } ]
+  }, {
+    "tStartMs": 612870,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and restores the useful property"
+    } ]
+  }, {
+    "tStartMs": 614790,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that the product of several\nnumbers will only be 0"
+    } ]
+  }, {
+    "tStartMs": 617910,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "if one of those numbers is itself 0."
+    } ]
+  }, {
+    "tStartMs": 622140,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Here is a random 3-adic\nnumber, this number"
+    } ]
+  }, {
+    "tStartMs": 625740,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "means 1 x 3 to the 0 + 2 x 3\n+ 1 x 3 squared + 1 x 3 cubed,"
+    } ]
+  }, {
+    "tStartMs": 633870,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "and so on."
+    } ]
+  }, {
+    "tStartMs": 635100,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "So you can think of a 3-adic number"
+    } ]
+  }, {
+    "tStartMs": 636750,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "as an infinite expansion in powers of 3."
+    } ]
+  }, {
+    "tStartMs": 640290,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "The 3-adic integer that equals -1"
+    } ]
+  }, {
+    "tStartMs": 642720,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "would be an infinite string of 2s."
+    } ]
+  }, {
+    "tStartMs": 645240,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "If you add 1, then 2 + 1 is\n3, which in base 3 is 10."
+    } ]
+  }, {
+    "tStartMs": 650190,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So you leave the 0, carry the 1,"
+    } ]
+  }, {
+    "tStartMs": 652080,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and 2 + 1 is again 10."
+    } ]
+  }, {
+    "tStartMs": 654300,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "So you carry the 1,"
+    } ]
+  }, {
+    "tStartMs": 655170,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "and you keep going on like that forever."
+    } ]
+  }, {
+    "tStartMs": 658530,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "P-adics have all the same\nproperties as the 10-adics,"
+    } ]
+  }, {
+    "tStartMs": 661560,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "but in addition, you\nwill never find a number"
+    } ]
+  }, {
+    "tStartMs": 663630,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that is its own square besides 0 and 1"
+    } ]
+  }, {
+    "tStartMs": 666750,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "nor will you find one non-0 number"
+    } ]
+  }, {
+    "tStartMs": 668640,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "times another non-0\nnumber being equal to 0."
+    } ]
+  }, {
+    "tStartMs": 671580,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "And this is why\nprofessional mathematicians"
+    } ]
+  }, {
+    "tStartMs": 673470,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "work with p-adics where\nthe p stands for prime"
+    } ]
+  }, {
+    "tStartMs": 676590,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "rather than say the 10-adics."
+    } ]
+  }, {
+    "tStartMs": 678660,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "P-adics are the real tool."
+    } ]
+  }, {
+    "tStartMs": 680670,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "They have been used in the work"
+    } ]
+  }, {
+    "tStartMs": 681900,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "of over a dozen recent Fields Medalists."
+    } ]
+  }, {
+    "tStartMs": 684510,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "They were even involved in cracking one"
+    } ]
+  }, {
+    "tStartMs": 686220,
+    "dDurationMs": 2763,
+    "segs": [ {
+      "utf8": "of the most legendary\nmath problems of all time."
+    } ]
+  }, {
+    "tStartMs": 690179,
+    "dDurationMs": 2491,
+    "segs": [ {
+      "utf8": "In 1637, Pierre de Fermat"
+    } ]
+  }, {
+    "tStartMs": 692670,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "was reading the book \"Arithmetica\""
+    } ]
+  }, {
+    "tStartMs": 694260,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "by the ancient Greek\nmathematician Diophantus."
+    } ]
+  }, {
+    "tStartMs": 697260,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Diophantus was interested in the solutions"
+    } ]
+  }, {
+    "tStartMs": 699420,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "to polynomial equations\nphrased in geometric terms"
+    } ]
+  }, {
+    "tStartMs": 702750,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "like the Pythagorean theorem."
+    } ]
+  }, {
+    "tStartMs": 704730,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "For a right triangle, x squared\n+ y squared = z squared."
+    } ]
+  }, {
+    "tStartMs": 709800,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "The set of solutions to this equation"
+    } ]
+  }, {
+    "tStartMs": 711570,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "in the real numbers is\npretty easy to find."
+    } ]
+  }, {
+    "tStartMs": 713820,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It's just an infinite cone."
+    } ]
+  }, {
+    "tStartMs": 716520,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "But Diophantus wanted to find solutions"
+    } ]
+  }, {
+    "tStartMs": 718710,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "that were whole numbers or fractions"
+    } ]
+  }, {
+    "tStartMs": 721080,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "like 3, 4, 5 and 5, 12, 13,\nand he wasn't the first."
+    } ]
+  }, {
+    "tStartMs": 727230,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Here is an ancient Babylonian clay tablet"
+    } ]
+  }, {
+    "tStartMs": 729780,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "from about 2000 BC with a huge list"
+    } ]
+  }, {
+    "tStartMs": 733290,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "of these Pythagorean triples."
+    } ]
+  }, {
+    "tStartMs": 735210,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "By the way, this list predates Pythagoras"
+    } ]
+  }, {
+    "tStartMs": 737340,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "by more than a millennium."
+    } ]
+  }, {
+    "tStartMs": 739590,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Right next to Diophantus' discussion"
+    } ]
+  }, {
+    "tStartMs": 741690,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "of the Pythagorean theorem,"
+    } ]
+  }, {
+    "tStartMs": 743220,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Fermat writes a statement\nthat will go down in history"
+    } ]
+  }, {
+    "tStartMs": 745620,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "as one of the most infamous of all time."
+    } ]
+  }, {
+    "tStartMs": 748470,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "The equation x to the n\n+ y to the n = z to the n"
+    } ]
+  }, {
+    "tStartMs": 752790,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "has no solutions in integer\nfor any n greater than 2."
+    } ]
+  }, {
+    "tStartMs": 757230,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I have a truly marvelous\nproof of this fact,"
+    } ]
+  }, {
+    "tStartMs": 759930,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "but it's too long to be\ncontained in the margin."
+    } ]
+  }, {
+    "tStartMs": 763230,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Fermat's last theorem,\nas this became known,"
+    } ]
+  }, {
+    "tStartMs": 765600,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "would go unproven for 358 years."
+    } ]
+  }, {
+    "tStartMs": 768990,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "In fact, to solve it,"
+    } ]
+  }, {
+    "tStartMs": 770430,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "new numbers had to be\ninvented, the p-adics,"
+    } ]
+  }, {
+    "tStartMs": 773490,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and these provide a systematic method"
+    } ]
+  }, {
+    "tStartMs": 775500,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "for solving other problems"
+    } ]
+  }, {
+    "tStartMs": 776760,
+    "dDurationMs": 2007,
+    "segs": [ {
+      "utf8": "in Diophantus' \"Arithmetica.\""
+    } ]
+  }, {
+    "tStartMs": 780420,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "For example, find three squares"
+    } ]
+  }, {
+    "tStartMs": 783210,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "whose areas add to create a bigger square"
+    } ]
+  }, {
+    "tStartMs": 786150,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and the area of the first\nsquare is the side length"
+    } ]
+  }, {
+    "tStartMs": 788790,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "of the second square,"
+    } ]
+  }, {
+    "tStartMs": 789870,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and the area of the second\nsquare is the side length"
+    } ]
+  }, {
+    "tStartMs": 792510,
+    "dDurationMs": 1203,
+    "segs": [ {
+      "utf8": "of the third square."
+    } ]
+  }, {
+    "tStartMs": 794580,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- He's really giving\nthe the first instance"
+    } ]
+  }, {
+    "tStartMs": 796680,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "of algebra many, many\ncenturies before, al-jabr."
+    } ]
+  }, {
+    "tStartMs": 801060,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "- [Derek] So if we set the side"
+    } ]
+  }, {
+    "tStartMs": 802200,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "of the first square to be x,\nthen its area is x squared."
+    } ]
+  }, {
+    "tStartMs": 806100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "This is the side length\nof the second square"
+    } ]
+  }, {
+    "tStartMs": 808200,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "which therefore has an area of x to the 4."
+    } ]
+  }, {
+    "tStartMs": 811170,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "This is then the side\nlength of the third square"
+    } ]
+  }, {
+    "tStartMs": 813060,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "which has an area of x to the 8."
+    } ]
+  }, {
+    "tStartMs": 815460,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "And we want these three areas,"
+    } ]
+  }, {
+    "tStartMs": 817440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "x squared + x to the 4 + x to the 8"
+    } ]
+  }, {
+    "tStartMs": 819960,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "to add to make a new square."
+    } ]
+  }, {
+    "tStartMs": 822300,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "So let's call its area y squared."
+    } ]
+  }, {
+    "tStartMs": 825090,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So x squared + x to the 4\n+ x to the 8 = y squared."
+    } ]
+  }, {
+    "tStartMs": 830130,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Now, it's not hard to find\nsolutions to this equation"
+    } ]
+  }, {
+    "tStartMs": 832620,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "in the real numbers."
+    } ]
+  }, {
+    "tStartMs": 833610,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "For example, set x equal to 1,"
+    } ]
+  }, {
+    "tStartMs": 835740,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and you find y is root 3."
+    } ]
+  }, {
+    "tStartMs": 838350,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "In fact, we can make a plot of\nall the real number solutions"
+    } ]
+  }, {
+    "tStartMs": 841410,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to this equation,"
+    } ]
+  }, {
+    "tStartMs": 842910,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "but Diophantus wasn't\ninterested in real solutions."
+    } ]
+  }, {
+    "tStartMs": 845790,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "He wanted rational solutions."
+    } ]
+  }, {
+    "tStartMs": 847620,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Solutions that are whole\nnumbers or fractions."
+    } ]
+  }, {
+    "tStartMs": 850770,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "These are much harder to find."
+    } ]
+  }, {
+    "tStartMs": 853170,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "I mean, where would you even start?\nI mean, where would you even start?"
+    } ]
+  }, {
+    "tStartMs": 857040,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Like what do you do?"
+    } ]
+  }, {
+    "tStartMs": 857873,
+    "dDurationMs": 1147,
+    "segs": [ {
+      "utf8": "You have this cliff"
+    } ]
+  }, {
+    "tStartMs": 859020,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "and you're looking for\nanywhere to grab a hold of."
+    } ]
+  }, {
+    "tStartMs": 864990,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "- Well, in the late 1800s,"
+    } ]
+  }, {
+    "tStartMs": 866670,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "a mathematician named Kurt Hensel"
+    } ]
+  }, {
+    "tStartMs": 868830,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "tried to find solutions\nto equations like this one"
+    } ]
+  }, {
+    "tStartMs": 871530,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "in the form of an expansion"
+    } ]
+  }, {
+    "tStartMs": 873120,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "of increasing powers of primes."
+    } ]
+  }, {
+    "tStartMs": 875700,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "So working with the prime 3,"
+    } ]
+  }, {
+    "tStartMs": 877320,
+    "dDurationMs": 2987,
+    "segs": [ {
+      "utf8": "the solutions would take\nthe form of x = x not"
+    } ]
+  }, {
+    "tStartMs": 880307,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "+ x1 times 3 + x2 times 3\nsquared + x3 times 3 cubed,"
+    } ]
+  }, {
+    "tStartMs": 886260,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and so on,"
+    } ]
+  }, {
+    "tStartMs": 887580,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "and y would also be a similar\nexpansion in powers of 3."
+    } ]
+  }, {
+    "tStartMs": 892230,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Each of the coefficients\nwould be either 0, 1, or 2."
+    } ]
+  }, {
+    "tStartMs": 896760,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Now imagine inserting these expressions"
+    } ]
+  }, {
+    "tStartMs": 898890,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "into our equation for x and y,"
+    } ]
+  }, {
+    "tStartMs": 901710,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "and you can see it's going\nto get messy real fast,"
+    } ]
+  }, {
+    "tStartMs": 906060,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "but there is a way to simplify things."
+    } ]
+  }, {
+    "tStartMs": 909600,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Say you wanted to write 17 in base 3."
+    } ]
+  }, {
+    "tStartMs": 913320,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Well, one way to do it\nis to divide 17 by 3"
+    } ]
+  }, {
+    "tStartMs": 916530,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and find the remainder,\nwhich in this case is 2."
+    } ]
+  }, {
+    "tStartMs": 919710,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So we know the unit's digit\nof our base 3 number is 2."
+    } ]
+  }, {
+    "tStartMs": 923280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Next, divide 17 by 9, the\nnext higher power of 3,"
+    } ]
+  }, {
+    "tStartMs": 927600,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and you get a remainder of 8."
+    } ]
+  }, {
+    "tStartMs": 929460,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Subtract off the 2 we found before"
+    } ]
+  }, {
+    "tStartMs": 931260,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and you have 6 which is 2 x 3."
+    } ]
+  }, {
+    "tStartMs": 934380,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So we know the second to last digit is 2."
+    } ]
+  }, {
+    "tStartMs": 937950,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Next, divide 17 by 27, and\nyou get a remainder of 17."
+    } ]
+  }, {
+    "tStartMs": 942540,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Subtract off the 8 we've\nalready accounted for"
+    } ]
+  }, {
+    "tStartMs": 944760,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and you have 9, so the 9's digit is 1."
+    } ]
+  }, {
+    "tStartMs": 948210,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "So 17 in base 3 is 122."
+    } ]
+  }, {
+    "tStartMs": 952560,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "What we're doing here is a\nform of modular arithmetic."
+    } ]
+  }, {
+    "tStartMs": 956520,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "In modular arithmetic,\nnumbers reset back to 0 once"
+    } ]
+  }, {
+    "tStartMs": 959730,
+    "dDurationMs": 2342,
+    "segs": [ {
+      "utf8": "they reach a certain\nvalue called the modulus."
+    } ]
+  }, {
+    "tStartMs": 962072,
+    "dDurationMs": 2758,
+    "segs": [ {
+      "utf8": "The hours on a clock work kinda like this"
+    } ]
+  }, {
+    "tStartMs": 964830,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "with a modulus of 12."
+    } ]
+  }, {
+    "tStartMs": 966660,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "The hours increase up to 11,"
+    } ]
+  }, {
+    "tStartMs": 968730,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "but then 12:00 is the same thing as 00:00."
+    } ]
+  }, {
+    "tStartMs": 973260,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "If it's 10 in the morning,"
+    } ]
+  }, {
+    "tStartMs": 974520,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "say what time will it be in four hours?"
+    } ]
+  }, {
+    "tStartMs": 978090,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "You could say 14, but\nusually, we'd say 2:00 PM"
+    } ]
+  }, {
+    "tStartMs": 981900,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "because 2 is 14 modulo 12,"
+    } ]
+  }, {
+    "tStartMs": 985590,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "it's two more than a multiple of 12."
+    } ]
+  }, {
+    "tStartMs": 988410,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "So in other words,"
+    } ]
+  }, {
+    "tStartMs": 989640,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "modular arithmetic is only\nabout finding the remainder."
+    } ]
+  }, {
+    "tStartMs": 993290,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "36 modulo 10 or 36 mod 10\nis 6, and 25 mod 5 is 0."
+    } ]
+  }, {
+    "tStartMs": 1001310,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "- Mod 3 means your clock\nonly has three numbers on it,"
+    } ]
+  }, {
+    "tStartMs": 1005030,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "0, 1, and 2,"
+    } ]
+  }, {
+    "tStartMs": 1009110,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and if you multiply 2 by 2, you get a 4,"
+    } ]
+  }, {
+    "tStartMs": 1011480,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "and 4 is the same thing as 04:00,"
+    } ]
+  }, {
+    "tStartMs": 1013490,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "the same thing as 1:00 on a 3-hour clock."
+    } ]
+  }, {
+    "tStartMs": 1017390,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "- [Derek] What's\ngreat about this approach"
+    } ]
+  }, {
+    "tStartMs": 1018770,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "is it allows us to work\nout the coefficients"
+    } ]
+  }, {
+    "tStartMs": 1020810,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "in our expansion one at a time"
+    } ]
+  }, {
+    "tStartMs": 1022940,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "by first solving the equation mod 3,"
+    } ]
+  }, {
+    "tStartMs": 1025430,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "and then mod 9, and\nthen mod 27, and so on."
+    } ]
+  }, {
+    "tStartMs": 1029060,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "So first, let's try to\nsolve the equation mod 3."
+    } ]
+  }, {
+    "tStartMs": 1032330,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "And since all the higher\nterms are divisible by 3,"
+    } ]
+  }, {
+    "tStartMs": 1035480,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "they're all 0 if we're working mod 3."
+    } ]
+  }, {
+    "tStartMs": 1038270,
+    "dDurationMs": 3077,
+    "segs": [ {
+      "utf8": "So we're left with x not\nsquared + x not to the 4th"
+    } ]
+  }, {
+    "tStartMs": 1041347,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "+ x not to the 8 = y not squared."
+    } ]
+  }, {
+    "tStartMs": 1045167,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "And this will allow us to find the values"
+    } ]
+  }, {
+    "tStartMs": 1047120,
+    "dDurationMs": 4197,
+    "segs": [ {
+      "utf8": "of x not and y not that\nsatisfy the equation mod 3."
+    } ]
+  }, {
+    "tStartMs": 1051317,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Now we know that x not\ncan be either 0, 1, or 2,"
+    } ]
+  }, {
+    "tStartMs": 1054650,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and y not can also be either 0, 1, or 2."
+    } ]
+  }, {
+    "tStartMs": 1058490,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "If x is 0, then so is x squared,"
+    } ]
+  }, {
+    "tStartMs": 1060980,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "x to the 4, and x to the 8."
+    } ]
+  }, {
+    "tStartMs": 1063050,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If x is 1, then x squared is 1,"
+    } ]
+  }, {
+    "tStartMs": 1065450,
+    "dDurationMs": 2511,
+    "segs": [ {
+      "utf8": "and so is x to the 4, and x to the 8."
+    } ]
+  }, {
+    "tStartMs": 1067961,
+    "dDurationMs": 3429,
+    "segs": [ {
+      "utf8": "If x is 2, then x squared is 4."
+    } ]
+  }, {
+    "tStartMs": 1071390,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "But remember, we're working mod 3,"
+    } ]
+  }, {
+    "tStartMs": 1073250,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "and 4, mod 3 is just 1."
+    } ]
+  }, {
+    "tStartMs": 1076760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "To find x to the 4, we\ncan just square x squared,"
+    } ]
+  }, {
+    "tStartMs": 1079640,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "so that also equals 1,"
+    } ]
+  }, {
+    "tStartMs": 1081260,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "and squaring again, x to the 8 = 1."
+    } ]
+  }, {
+    "tStartMs": 1085190,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Now we can sum up x squared\n+ x to the 4 + x to the 8"
+    } ]
+  }, {
+    "tStartMs": 1088730,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "to find the left-hand\nside of the equation."
+    } ]
+  }, {
+    "tStartMs": 1091700,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "If x is 0, then the sum is equal to 0."
+    } ]
+  }, {
+    "tStartMs": 1095030,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "If x is 1 or 2, the sum is 3."
+    } ]
+  }, {
+    "tStartMs": 1098270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "But again, we're working mod 3,"
+    } ]
+  }, {
+    "tStartMs": 1099890,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "so 3 is the same as 0."
+    } ]
+  }, {
+    "tStartMs": 1103100,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Now, let's calculate y squared."
+    } ]
+  }, {
+    "tStartMs": 1105290,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "If y is 0, y squared is 0."
+    } ]
+  }, {
+    "tStartMs": 1107780,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "If y is 1, y squared is 1."
+    } ]
+  }, {
+    "tStartMs": 1110150,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "And if y is 2, then y squared is 4,"
+    } ]
+  }, {
+    "tStartMs": 1112640,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "but again, 4 mod 3 is 1."
+    } ]
+  }, {
+    "tStartMs": 1115670,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Now, since for all values of x,"
+    } ]
+  }, {
+    "tStartMs": 1117620,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "the left-hand side of the equation is 0,"
+    } ]
+  }, {
+    "tStartMs": 1119870,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "the only value of y"
+    } ]
+  }, {
+    "tStartMs": 1121310,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "that satisfies the equation is y = 0,"
+    } ]
+  }, {
+    "tStartMs": 1125090,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "but x can be 0, 1, or 2."
+    } ]
+  }, {
+    "tStartMs": 1128600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So we have three potential solutions"
+    } ]
+  }, {
+    "tStartMs": 1130700,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "that satisfy our equation mod 3,"
+    } ]
+  }, {
+    "tStartMs": 1133160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "we've got 0, 0, 1, 0, and 2, 0."
+    } ]
+  }, {
+    "tStartMs": 1137240,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Now we shouldn't be surprised to find 0, 0"
+    } ]
+  }, {
+    "tStartMs": 1139190,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "as a solution since x = 0 and y = 0"
+    } ]
+  }, {
+    "tStartMs": 1142460,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "does satisfy the equation,"
+    } ]
+  }, {
+    "tStartMs": 1144860,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "but squares of 0 size don't really count"
+    } ]
+  }, {
+    "tStartMs": 1147680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "as solutions to Diophantus'\ngeometric problem."
+    } ]
+  }, {
+    "tStartMs": 1151160,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "So let's try to expand on\none of the other solutions."
+    } ]
+  }, {
+    "tStartMs": 1154190,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I'll pick 1, 0."
+    } ]
+  }, {
+    "tStartMs": 1156080,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "This means x not = 1 and y not = 0"
+    } ]
+  }, {
+    "tStartMs": 1159530,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "satisfies the equation mod 3."
+    } ]
+  }, {
+    "tStartMs": 1162230,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Now let's try to find x1,"
+    } ]
+  }, {
+    "tStartMs": 1164360,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and we'll do this by\nsolving the equation mod 9."
+    } ]
+  }, {
+    "tStartMs": 1167900,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "All of the terms higher than x1"
+    } ]
+  }, {
+    "tStartMs": 1169580,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "have a factor of 9 in them,\nso they're all 0 mod 9."
+    } ]
+  }, {
+    "tStartMs": 1173570,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So we're left with this expression."
+    } ]
+  }, {
+    "tStartMs": 1176300,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Expanding out the first term,"
+    } ]
+  }, {
+    "tStartMs": 1177590,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "we have 1 + 6x1 + 9x1 squared."
+    } ]
+  }, {
+    "tStartMs": 1181940,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "But again, since we're working mod 9,"
+    } ]
+  }, {
+    "tStartMs": 1183500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "the last part is 0."
+    } ]
+  }, {
+    "tStartMs": 1185600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The next term is just\nthe first term squared."
+    } ]
+  }, {
+    "tStartMs": 1188600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So that equals 1 + 12x1 + 36x1 squared,"
+    } ]
+  }, {
+    "tStartMs": 1193910,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but 36 is 9 x 4, so that's\n0 mod 9, and 12 mod 9 is 3."
+    } ]
+  }, {
+    "tStartMs": 1199910,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "So we have 1 + 3x1."
+    } ]
+  }, {
+    "tStartMs": 1202730,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The final term is just that squared,"
+    } ]
+  }, {
+    "tStartMs": 1204770,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "so 1 + 6x1 + 9x1 squared."
+    } ]
+  }, {
+    "tStartMs": 1208010,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Again, the last part is 0."
+    } ]
+  }, {
+    "tStartMs": 1209450,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "So on the left-hand\nside, we have 3 + 15x1."
+    } ]
+  }, {
+    "tStartMs": 1213710,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "And on the right-hand side,\nwe have 0 + 9y1 squared,"
+    } ]
+  }, {
+    "tStartMs": 1217610,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "which is also 0 because\nit contains a factor of 9."
+    } ]
+  }, {
+    "tStartMs": 1220820,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "So 3 + 15x1 equals 0."
+    } ]
+  }, {
+    "tStartMs": 1224870,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Now remember, since we're working mod 9,"
+    } ]
+  }, {
+    "tStartMs": 1227150,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the 0 on the right-hand side\nrepresents any multiple of 9."
+    } ]
+  }, {
+    "tStartMs": 1231350,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "So in this case, if x1 = 1,"
+    } ]
+  }, {
+    "tStartMs": 1234020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "then 3 + 15 = 18, which is\na multiple of 9, so it's 0."
+    } ]
+  }, {
+    "tStartMs": 1239360,
+    "dDurationMs": 3393,
+    "segs": [ {
+      "utf8": "So x1 = 1 is a solution to the equation."
+    } ]
+  }, {
+    "tStartMs": 1243590,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Let's find one more term of the expansion"
+    } ]
+  }, {
+    "tStartMs": 1245510,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "by solving the equation mod 27."
+    } ]
+  }, {
+    "tStartMs": 1249320,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Again, all the terms with\n3 raised to the power of 3"
+    } ]
+  }, {
+    "tStartMs": 1251990,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "or higher contain a factor of 27."
+    } ]
+  }, {
+    "tStartMs": 1254780,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "So there's 0, leaving\nonly this expression,"
+    } ]
+  }, {
+    "tStartMs": 1258290,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "but we know x not and x1 are equal to 1."
+    } ]
+  }, {
+    "tStartMs": 1261350,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "- But right now, we've\nlearned nothing about y1"
+    } ]
+  }, {
+    "tStartMs": 1263810,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "because when we square,\nanything can happen."
+    } ]
+  }, {
+    "tStartMs": 1267380,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "If we find a good solution in x,"
+    } ]
+  }, {
+    "tStartMs": 1269420,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "it'll come with a good solution in y."
+    } ]
+  }, {
+    "tStartMs": 1271400,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "- [Derek] So we can simplify to this."
+    } ]
+  }, {
+    "tStartMs": 1273380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Expanding again, we get\n16 + 18x2 + 81x squared,"
+    } ]
+  }, {
+    "tStartMs": 1278510,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "but 81 is 27 x 3, so that's 0."
+    } ]
+  }, {
+    "tStartMs": 1282290,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "The next term is the square of the first."
+    } ]
+  }, {
+    "tStartMs": 1284510,
+    "dDurationMs": 3553,
+    "segs": [ {
+      "utf8": "So 256 + 576x2 + 324x2 squared."
+    } ]
+  }, {
+    "tStartMs": 1290900,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But 324 is 27 x 12, so that's 0."
+    } ]
+  }, {
+    "tStartMs": 1294860,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "And since we're working mod 27,"
+    } ]
+  }, {
+    "tStartMs": 1296660,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "we can simplify this down."
+    } ]
+  }, {
+    "tStartMs": 1298430,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "576 is nine more than a multiple of 27,"
+    } ]
+  }, {
+    "tStartMs": 1301700,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "and 256 is 13 more than a multiple of 27."
+    } ]
+  }, {
+    "tStartMs": 1305450,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "So we're left with 13 + 9x2,"
+    } ]
+  }, {
+    "tStartMs": 1308420,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and the last term is just that squared."
+    } ]
+  }, {
+    "tStartMs": 1310520,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So 169 + 234x2 + 81x2 squared,"
+    } ]
+  }, {
+    "tStartMs": 1316070,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "which reduces to 7 + 18x2."
+    } ]
+  }, {
+    "tStartMs": 1319850,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "The right-hand side\nreduces to 0 + 81y squared,"
+    } ]
+  }, {
+    "tStartMs": 1323780,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "which is, again, 0."
+    } ]
+  }, {
+    "tStartMs": 1326330,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "So we have 36 + 45x2 equals 0,"
+    } ]
+  }, {
+    "tStartMs": 1330800,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "which mod 27 is the same as 9 + 18x2 = 0."
+    } ]
+  }, {
+    "tStartMs": 1335960,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So x2 must be equal to 1, 9 + 18 is 27,"
+    } ]
+  }, {
+    "tStartMs": 1341540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "which mod 27 is 0."
+    } ]
+  }, {
+    "tStartMs": 1344510,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "So what we've discovered is\nthe first three coefficients"
+    } ]
+  }, {
+    "tStartMs": 1347300,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "in our expansion are all 1."
+    } ]
+  }, {
+    "tStartMs": 1350180,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "And in fact, if you kept going"
+    } ]
+  }, {
+    "tStartMs": 1351560,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "with modulus 81, 243, and so on,"
+    } ]
+  }, {
+    "tStartMs": 1354920,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "you would find that all\nof the coefficients are 1."
+    } ]
+  }, {
+    "tStartMs": 1358580,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So the number that solves\nDiophantus' equation"
+    } ]
+  }, {
+    "tStartMs": 1361310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "about the squares is\nactually a 3-adic number"
+    } ]
+  }, {
+    "tStartMs": 1364370,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "where all the digits are 1s."
+    } ]
+  }, {
+    "tStartMs": 1367340,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "But how do we make sense of this?"
+    } ]
+  }, {
+    "tStartMs": 1369230,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "What does this number equal?"
+    } ]
+  }, {
+    "tStartMs": 1371420,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "- And of course, this number\nmakes no sense at all,"
+    } ]
+  }, {
+    "tStartMs": 1374060,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "at least not as a real number."
+    } ]
+  }, {
+    "tStartMs": 1375710,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "- [Derek] Well, remember\nthat this is just another way"
+    } ]
+  }, {
+    "tStartMs": 1377180,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "of writing 1 x 3 to the 0 + 1 x 3"
+    } ]
+  }, {
+    "tStartMs": 1380333,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "+ 1 x 3 squared + 1 x 3 cubed, and so on."
+    } ]
+  }, {
+    "tStartMs": 1385430,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So each term is just 3\ntimes the term before it."
+    } ]
+  }, {
+    "tStartMs": 1389330,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "This is a geometric series."
+    } ]
+  }, {
+    "tStartMs": 1391700,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And to find the sum of an\ninfinite geometric series,"
+    } ]
+  }, {
+    "tStartMs": 1394220,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "you can use the equation 1/1 - lambda"
+    } ]
+  }, {
+    "tStartMs": 1397880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "where lambda is the ratio of\none term to the previous one."
+    } ]
+  }, {
+    "tStartMs": 1401240,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "So in this case, it's 3."
+    } ]
+  }, {
+    "tStartMs": 1403580,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Now, I know for this to work,"
+    } ]
+  }, {
+    "tStartMs": 1404960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "lambda is meant to be strictly less than 1"
+    } ]
+  }, {
+    "tStartMs": 1407480,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "because otherwise, the terms keep growing"
+    } ]
+  }, {
+    "tStartMs": 1409340,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "and the sum doesn't converge,"
+    } ]
+  }, {
+    "tStartMs": 1410720,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "it just diverges to infinity."
+    } ]
+  }, {
+    "tStartMs": 1412790,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "I promise I'll come back to this,"
+    } ]
+  }, {
+    "tStartMs": 1414410,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "but for now, let's just\nsay that lambda = 3"
+    } ]
+  }, {
+    "tStartMs": 1417620,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and see what happens."
+    } ]
+  }, {
+    "tStartMs": 1419420,
+    "dDurationMs": 3723,
+    "segs": [ {
+      "utf8": "Well, then we have 1/1 - 3, which is -1/2."
+    } ]
+  }, {
+    "tStartMs": 1424580,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So if we believe this formula,"
+    } ]
+  }, {
+    "tStartMs": 1426590,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "then x = -1/2 should be a\nsolution to our original equation."
+    } ]
+  }, {
+    "tStartMs": 1432560,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "If we sub it in,"
+    } ]
+  }, {
+    "tStartMs": 1433520,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "we get x squared is\n1/4, x to the 4 is 1/16,"
+    } ]
+  }, {
+    "tStartMs": 1437900,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "and x to the 8 is 1/256."
+    } ]
+  }, {
+    "tStartMs": 1441680,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Let's put all of these\nover a common denominator."
+    } ]
+  }, {
+    "tStartMs": 1444170,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So a quarter becomes\n64/256, now 16th is 16/256."
+    } ]
+  }, {
+    "tStartMs": 1451070,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "And if we add them all\ntogether, we get 81/256,"
+    } ]
+  }, {
+    "tStartMs": 1456770,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "which is indeed the area of a square"
+    } ]
+  }, {
+    "tStartMs": 1460490,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "with sides of length 9/16ths."
+    } ]
+  }, {
+    "tStartMs": 1464060,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "We have found a rational solution"
+    } ]
+  }, {
+    "tStartMs": 1466550,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "to Diophantus' sum of squares problem."
+    } ]
+  }, {
+    "tStartMs": 1469310,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "The first square has sides of length 1/2,"
+    } ]
+  }, {
+    "tStartMs": 1472370,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "the second has sides of length 1/4,"
+    } ]
+  }, {
+    "tStartMs": 1474500,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "the third has sides of length 1/16,"
+    } ]
+  }, {
+    "tStartMs": 1476660,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and all three squares\ntogether make a square"
+    } ]
+  }, {
+    "tStartMs": 1479360,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "with sides of length 9/16ths."
+    } ]
+  }, {
+    "tStartMs": 1483200,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "To find this solution,"
+    } ]
+  }, {
+    "tStartMs": 1484880,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "we used new seemingly\nabsurd numbers, p-adics,"
+    } ]
+  }, {
+    "tStartMs": 1488330,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "infinite digits going off to\nthe left of the decimal point,"
+    } ]
+  }, {
+    "tStartMs": 1490760,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "implying an infinite expansion"
+    } ]
+  }, {
+    "tStartMs": 1492770,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "of increasing powers of 3."
+    } ]
+  }, {
+    "tStartMs": 1494750,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Then we used the geometric series formula"
+    } ]
+  }, {
+    "tStartMs": 1497030,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "to find that an infinite string"
+    } ]
+  }, {
+    "tStartMs": 1498950,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "of 1s in 3-adic notation is actually -1/2."
+    } ]
+  }, {
+    "tStartMs": 1501950,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "This works, even though\nthe ratio of each term,"
+    } ]
+  }, {
+    "tStartMs": 1503900,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "the previous 1 is 3."
+    } ]
+  }, {
+    "tStartMs": 1505490,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "So by common sense, the series\nshouldn't have converged,"
+    } ]
+  }, {
+    "tStartMs": 1507830,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it should have blown up to infinity."
+    } ]
+  }, {
+    "tStartMs": 1510230,
+    "dDurationMs": 4053,
+    "segs": [ {
+      "utf8": "So the real question is how did this work?"
+    } ]
+  }, {
+    "tStartMs": 1515307,
+    "dDurationMs": 2243,
+    "segs": [ {
+      "utf8": "Well, the key idea is that the geometry"
+    } ]
+  }, {
+    "tStartMs": 1517550,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "of the p-adics is totally different"
+    } ]
+  }, {
+    "tStartMs": 1519440,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "from that of the real numbers."
+    } ]
+  }, {
+    "tStartMs": 1520910,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "In fact, they don't exist\non a number line at all."
+    } ]
+  }, {
+    "tStartMs": 1524510,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "One way to visualize\nthem is with something"
+    } ]
+  }, {
+    "tStartMs": 1526940,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "like a growing tree."
+    } ]
+  }, {
+    "tStartMs": 1528620,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "For the 3-adic integers\nwe've been working with,"
+    } ]
+  }, {
+    "tStartMs": 1531350,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "3 base cylinders\nrepresent the unit's digit"
+    } ]
+  }, {
+    "tStartMs": 1533960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "or x not being 0, 1, or 2."
+    } ]
+  }, {
+    "tStartMs": 1537560,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Above each cylinder is a\ntrio of shorter cylinders"
+    } ]
+  }, {
+    "tStartMs": 1540500,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "corresponding to the 3s digit or x1."
+    } ]
+  }, {
+    "tStartMs": 1543620,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "And we continue in this way forever"
+    } ]
+  }, {
+    "tStartMs": 1546320,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "making an infinite triply branching tree."
+    } ]
+  }, {
+    "tStartMs": 1549620,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Looking down from above,"
+    } ]
+  }, {
+    "tStartMs": 1551180,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "it looks like a Sierpinski gasket."
+    } ]
+  }, {
+    "tStartMs": 1553880,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Each 3-adic number is represented here"
+    } ]
+  }, {
+    "tStartMs": 1556250,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "as a stack of infinite cylinders"
+    } ]
+  }, {
+    "tStartMs": 1558410,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "that get shorter and\nnarrower as they go up."
+    } ]
+  }, {
+    "tStartMs": 1561950,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "And this actually"
+    } ]
+  }, {
+    "tStartMs": 1562820,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "reflects the relative contributions\neach successive cylinder"
+    } ]
+  }, {
+    "tStartMs": 1565970,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "makes to the value of the 3-adic number."
+    } ]
+  }, {
+    "tStartMs": 1568700,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Contrary to what you'd expect,"
+    } ]
+  }, {
+    "tStartMs": 1570470,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "the coefficients multiplying\nhigher powers of 3"
+    } ]
+  }, {
+    "tStartMs": 1573530,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "actually make finer and finer adjustments.\n547\n00:26:18,300 --\u003e 00:26:20,790\nSo when we calculated\nsuccessive coefficients"
+    } ]
+  }, {
+    "tStartMs": 1580790,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "to solve Diophantus' squares problem,"
+    } ]
+  }, {
+    "tStartMs": 1583040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "we were actually zooming\nin more and more accurately"
+    } ]
+  }, {
+    "tStartMs": 1586580,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "on the solution."
+    } ]
+  }, {
+    "tStartMs": 1588170,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- This is the feeling of slowly zooming in"
+    } ]
+  }, {
+    "tStartMs": 1590120,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "on the value of a number."
+    } ]
+  }, {
+    "tStartMs": 1591770,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "- [Derek] Normally, we\nthink of the size of a number"
+    } ]
+  }, {
+    "tStartMs": 1593990,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "as being determined approximately at least"
+    } ]
+  }, {
+    "tStartMs": 1596480,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "by how many digits it has to\nthe left of the decimal point."
+    } ]
+  }, {
+    "tStartMs": 1599750,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "But here, all the numbers\nhave infinitely many digits."
+    } ]
+  }, {
+    "tStartMs": 1603620,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "So people realize that\nto determine the distance"
+    } ]
+  }, {
+    "tStartMs": 1606080,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "between two numbers,"
+    } ]
+  }, {
+    "tStartMs": 1607400,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "we need to look at the\nlowest level of the tower"
+    } ]
+  }, {
+    "tStartMs": 1610130,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "where they disagree."
+    } ]
+  }, {
+    "tStartMs": 1612080,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "If two numbers differ in the unit's place,"
+    } ]
+  }, {
+    "tStartMs": 1614900,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "we say their separation is 1."
+    } ]
+  }, {
+    "tStartMs": 1617690,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "But if they differ in the 27th's place,"
+    } ]
+  }, {
+    "tStartMs": 1619910,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "we say they differ not by 27, but by 1/27."
+    } ]
+  }, {
+    "tStartMs": 1624620,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "In the world of p-adics,"
+    } ]
+  }, {
+    "tStartMs": 1626270,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "what we're used to thinking\nof as big is small,"
+    } ]
+  }, {
+    "tStartMs": 1629420,
+    "dDurationMs": 2798,
+    "segs": [ {
+      "utf8": "and vice versa."
+    } ]
+  }, {
+    "tStartMs": 1634540,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "- If we have a number, let's say, s1,"
+    } ]
+  }, {
+    "tStartMs": 1637810,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "which will be some sequence"
+    } ]
+  }, {
+    "tStartMs": 1639520,
+    "dDurationMs": 6253,
+    "segs": [ {
+      "utf8": "like 2 x 1 + 1 x 3 + 0 x 3 squared"
+    } ]
+  }, {
+    "tStartMs": 1645773,
+    "dDurationMs": 7026,
+    "segs": [ {
+      "utf8": "+ 1 x 3 cubed + 2 x 3\nto the 4th, and so on"
+    } ]
+  }, {
+    "tStartMs": 1654790,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "we'll be close to another number"
+    } ]
+  }, {
+    "tStartMs": 1656980,
+    "dDurationMs": 1745,
+    "segs": [ {
+      "utf8": "with a similar expansion"
+    } ]
+  }, {
+    "tStartMs": 1658725,
+    "dDurationMs": 4975,
+    "segs": [ {
+      "utf8": "except at the, let's say,\n3 to the third place,"
+    } ]
+  }, {
+    "tStartMs": 1663700,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "I change a digit,"
+    } ]
+  }, {
+    "tStartMs": 1665440,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "and then doesn't matter\nwhat I do after that."
+    } ]
+  }, {
+    "tStartMs": 1667300,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The digits can be all the\nsame or all different."
+    } ]
+  }, {
+    "tStartMs": 1669340,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "These two numbers will\nsay that their distance,"
+    } ]
+  }, {
+    "tStartMs": 1672280,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "their 3-adic distance is roughly of size,"
+    } ]
+  }, {
+    "tStartMs": 1675820,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "the first place where they go wrong."
+    } ]
+  }, {
+    "tStartMs": 1677260,
+    "dDurationMs": 1453,
+    "segs": [ {
+      "utf8": "So this'll be 3 to the -3."
+    } ]
+  }, {
+    "tStartMs": 1680020,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "- Am I supposed to think of the 3s"
+    } ]
+  }, {
+    "tStartMs": 1683410,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "as kind of like, the bigger they are,"
+    } ]
+  }, {
+    "tStartMs": 1686680,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "the smaller the numbers"
+    } ]
+  }, {
+    "tStartMs": 1688150,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "that they're multiplying, or something?"
+    } ]
+  }, {
+    "tStartMs": 1690340,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Exactly."
+    } ]
+  }, {
+    "tStartMs": 1691173,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "In the 3-adics, we want\nnumbers to be close"
+    } ]
+  }, {
+    "tStartMs": 1693730,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "when they agree up to large powers of 3,"
+    } ]
+  }, {
+    "tStartMs": 1696910,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "so that if they agree\nup to 10 3-adic places,"
+    } ]
+  }, {
+    "tStartMs": 1700990,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "then this has a distance\nlike 3 to the -10."
+    } ]
+  }, {
+    "tStartMs": 1704350,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "- And it turns out that if\nyou do this crazy thing,"
+    } ]
+  }, {
+    "tStartMs": 1706360,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "swap what we think of as big and small,"
+    } ]
+  }, {
+    "tStartMs": 1708490,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "then all the other laws of mathematics"
+    } ]
+  }, {
+    "tStartMs": 1710470,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "work out in the usual way."
+    } ]
+  }, {
+    "tStartMs": 1712690,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "This is why the geometric sum worked out,"
+    } ]
+  }, {
+    "tStartMs": 1714730,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "even though we thought it\nwould blow up to infinity."
+    } ]
+  }, {
+    "tStartMs": 1717483,
+    "dDurationMs": 3097,
+    "segs": [ {
+      "utf8": "- You have to open your mind\nto other notions of size,"
+    } ]
+  }, {
+    "tStartMs": 1720580,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and when you do, this\nwhole other world appears,"
+    } ]
+  }, {
+    "tStartMs": 1722680,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "and it's a very useful world,"
+    } ]
+  }, {
+    "tStartMs": 1724388,
+    "dDurationMs": 2672,
+    "segs": [ {
+      "utf8": "just like negative numbers became useful,"
+    } ]
+  }, {
+    "tStartMs": 1727060,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "just like square roots of\nnegative numbers became useful."
+    } ]
+  }, {
+    "tStartMs": 1729640,
+    "dDurationMs": 2095,
+    "segs": [ {
+      "utf8": "- This feels even crazier"
+    } ]
+  }, {
+    "tStartMs": 1731735,
+    "dDurationMs": 4235,
+    "segs": [ {
+      "utf8": "than negative numbers or\nsquare roots of negatives."
+    } ]
+  }, {
+    "tStartMs": 1735970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "- Just 'cause it's less familiar."
+    } ]
+  }, {
+    "tStartMs": 1737950,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "- [Derek] And you can\nprove this notion of size"
+    } ]
+  }, {
+    "tStartMs": 1740650,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "fits the criteria you would\nwant for an absolute value."
+    } ]
+  }, {
+    "tStartMs": 1744760,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "- What do we want an absolute value to be?"
+    } ]
+  }, {
+    "tStartMs": 1746800,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "It should be non-negative."
+    } ]
+  }, {
+    "tStartMs": 1748750,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So the absolute value of any number, x,"
+    } ]
+  }, {
+    "tStartMs": 1751060,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "should be non-negative,"
+    } ]
+  }, {
+    "tStartMs": 1752110,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and the absolute value should be 0"
+    } ]
+  }, {
+    "tStartMs": 1754030,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "if and only if that number is itself 0."
+    } ]
+  }, {
+    "tStartMs": 1756250,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "So that's called positive definite."
+    } ]
+  }, {
+    "tStartMs": 1758230,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "So it should be multiplicative."
+    } ]
+  }, {
+    "tStartMs": 1759460,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "If I take x times y and\nI multiply those two,"
+    } ]
+  }, {
+    "tStartMs": 1762370,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "that should be the same\nas the absolute value"
+    } ]
+  }, {
+    "tStartMs": 1763930,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "of x times the absolute value of y."
+    } ]
+  }, {
+    "tStartMs": 1766270,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "And I want one more property,"
+    } ]
+  }, {
+    "tStartMs": 1768460,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "which is that if you add x and y,"
+    } ]
+  }, {
+    "tStartMs": 1771340,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "should that be the same\nas the absolute value"
+    } ]
+  }, {
+    "tStartMs": 1773740,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "of x plus the absolute value of Y? No."
+    } ]
+  }, {
+    "tStartMs": 1775990,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "But it should be, at most, the sum, right?"
+    } ]
+  }, {
+    "tStartMs": 1777540,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "This is the triangle inequality."
+    } ]
+  }, {
+    "tStartMs": 1779650,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "So we have multiplicativity,"
+    } ]
+  }, {
+    "tStartMs": 1780850,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "positive definites, and\nthe triangle inequality."
+    } ]
+  }, {
+    "tStartMs": 1783310,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "You give me only these\nthree very abstract things"
+    } ]
+  }, {
+    "tStartMs": 1786460,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and I can prove that your function is,"
+    } ]
+  }, {
+    "tStartMs": 1788950,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "in fact, the usual absolute value"
+    } ]
+  }, {
+    "tStartMs": 1791050,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "or one of these p-adic absolute values"
+    } ]
+  }, {
+    "tStartMs": 1793690,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "or the thing that gives 0 to\n0 and 1 to everything else."
+    } ]
+  }, {
+    "tStartMs": 1797800,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "So that's the trivial absolute value."
+    } ]
+  }, {
+    "tStartMs": 1799750,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "These are the only games you can play"
+    } ]
+  }, {
+    "tStartMs": 1801310,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "on the rational numbers that\ngive you absolute values"
+    } ]
+  }, {
+    "tStartMs": 1804880,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "that behave the way we want them to."
+    } ]
+  }, {
+    "tStartMs": 1807250,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- [Derek] This geometry"
+    } ]
+  }, {
+    "tStartMs": 1808360,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "makes the p-adics much more disconnected"
+    } ]
+  }, {
+    "tStartMs": 1810460,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "when compared to the real numbers."
+    } ]
+  }, {
+    "tStartMs": 1812320,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "And this is actually useful\nfor finding rational solutions"
+    } ]
+  }, {
+    "tStartMs": 1815380,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "to an equation."
+    } ]
+  }, {
+    "tStartMs": 1816550,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "There are many fewer p-adic solutions"
+    } ]
+  }, {
+    "tStartMs": 1818590,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "in a neighborhood of a rational solution."
+    } ]
+  }, {
+    "tStartMs": 1821620,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "If we tried the same strategy"
+    } ]
+  }, {
+    "tStartMs": 1823420,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "of solving Diophantus'\nsquares problem digit by digit"
+    } ]
+  }, {
+    "tStartMs": 1826420,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "in the real numbers, it\nwould be doomed to fail"
+    } ]
+  }, {
+    "tStartMs": 1829660,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "because there are simply\ntoo many real solutions all"
+    } ]
+  }, {
+    "tStartMs": 1832540,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "over the place."
+    } ]
+  }, {
+    "tStartMs": 1833590,
+    "dDurationMs": 1683,
+    "segs": [ {
+      "utf8": "They get in the way."
+    } ]
+  }, {
+    "tStartMs": 1836710,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "In a groundbreaking\npair of papers in 1995,"
+    } ]
+  }, {
+    "tStartMs": 1839440,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "one by Andrew Wiles,"
+    } ]
+  }, {
+    "tStartMs": 1840760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and another by Wiles and Richard Taylor,"
+    } ]
+  }, {
+    "tStartMs": 1843280,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "they finally proved Fermat's last theorem,"
+    } ]
+  }, {
+    "tStartMs": 1846220,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "but the proof could not possibly\nhave been the one Fermat"
+    } ]
+  }, {
+    "tStartMs": 1848920,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "alluded to in the margin"
+    } ]
+  }, {
+    "tStartMs": 1850450,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "because it made heavy\nuse of p-adic numbers."
+    } ]
+  }, {
+    "tStartMs": 1854230,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "- Wiles' proof of Fermat's last theorem"
+    } ]
+  }, {
+    "tStartMs": 1857200,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "used the prime 3, and then at some point,"
+    } ]
+  }, {
+    "tStartMs": 1859060,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "he got stuck with the prime 3,"
+    } ]
+  }, {
+    "tStartMs": 1860230,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "and he had to switch to the prime 5."
+    } ]
+  }, {
+    "tStartMs": 1862060,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "And this is literally called\nthe three, five trick."
+    } ]
+  }, {
+    "tStartMs": 1864190,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "There was something that worked"
+    } ]
+  }, {
+    "tStartMs": 1865030,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "for the prime 3 most of the time,"
+    } ]
+  }, {
+    "tStartMs": 1866560,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "but sometimes it didn't work,"
+    } ]
+  }, {
+    "tStartMs": 1867550,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "and when it didn't work for the prime 3,"
+    } ]
+  }, {
+    "tStartMs": 1868900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "it did work for the prime 5."
+    } ]
+  }, {
+    "tStartMs": 1870400,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Each prime gives you a completely\nunrelated number system,"
+    } ]
+  }, {
+    "tStartMs": 1873160,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "just like these number\nsystems are unrelated"
+    } ]
+  }, {
+    "tStartMs": 1874930,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "to the real numbers."
+    } ]
+  }, {
+    "tStartMs": 1876610,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- There is a great quote I like"
+    } ]
+  }, {
+    "tStartMs": 1878350,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "by a Japanese mathematician, Kazuya Kato."
+    } ]
+  }, {
+    "tStartMs": 1881110,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "He says, \"Real numbers are like the sun"
+    } ]
+  }, {
+    "tStartMs": 1883690,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and the p-adics are like the stars."
+    } ]
+  }, {
+    "tStartMs": 1886240,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "The sun blocks out the\nstars during the day,"
+    } ]
+  }, {
+    "tStartMs": 1888550,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "and humans are asleep at night"
+    } ]
+  }, {
+    "tStartMs": 1889960,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "and don't see the stars,"
+    } ]
+  }, {
+    "tStartMs": 1891490,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "even though they are just as important.\""
+    } ]
+  }, {
+    "tStartMs": 1894550,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Well, I hope this video has revealed"
+    } ]
+  }, {
+    "tStartMs": 1896050,
+    "dDurationMs": 3448,
+    "segs": [ {
+      "utf8": "at least a glimpse of those stars to you."
+    } ]
+  }, {
+    "tStartMs": 1904336,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "The discovery of p-adic\nnumbers is a great reminder"
+    } ]
+  }, {
+    "tStartMs": 1907060,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "of just how much we have yet\nto discover in mathematics,"
+    } ]
+  }, {
+    "tStartMs": 1910030,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "not to mention science, computer science,"
+    } ]
+  }, {
+    "tStartMs": 1911920,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and just about every technical field."
+    } ]
+  }, {
+    "tStartMs": 1914380,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "They inspire us to find new connections"
+    } ]
+  }, {
+    "tStartMs": 1916540,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and even make discoveries ourselves."
+    } ]
+  }, {
+    "tStartMs": 1918790,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "If you were inspired by the stories"
+    } ]
+  }, {
+    "tStartMs": 1920230,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "of Diophantus, Fermat, and Hensel,"
+    } ]
+  }, {
+    "tStartMs": 1922300,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and you're looking for\nmore content like this,"
+    } ]
+  }, {
+    "tStartMs": 1924490,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "look no further than\nthe math history course"
+    } ]
+  }, {
+    "tStartMs": 1926650,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "from this video sponsor, brilliant.org"
+    } ]
+  }, {
+    "tStartMs": 1929680,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Brilliant's course\nintroduces you to the minds"
+    } ]
+  }, {
+    "tStartMs": 1931600,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "behind some of the most\nfascinating discoveries"
+    } ]
+  }, {
+    "tStartMs": 1934180,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "in mathematics, while giving\nyou a deeper understanding"
+    } ]
+  }, {
+    "tStartMs": 1937120,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "of the concepts they pioneered,"
+    } ]
+  }, {
+    "tStartMs": 1938860,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "all of which enable our\nmodern technologies."
+    } ]
+  }, {
+    "tStartMs": 1941530,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Brilliant actually has thousands"
+    } ]
+  }, {
+    "tStartMs": 1943180,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "of bite-sized lessons on everything"
+    } ]
+  }, {
+    "tStartMs": 1944890,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "from math and science to data programming"
+    } ]
+  }, {
+    "tStartMs": 1947320,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and computer science,\nand beyond inspiring you"
+    } ]
+  }, {
+    "tStartMs": 1950200,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "to write your own story of discovery,"
+    } ]
+  }, {
+    "tStartMs": 1951790,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "the most amazing thing about Brilliant"
+    } ]
+  }, {
+    "tStartMs": 1953530,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "is that you get hands-on"
+    } ]
+  }, {
+    "tStartMs": 1954850,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "with the building blocks of innovation."
+    } ]
+  }, {
+    "tStartMs": 1956860,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Brilliant's latest\ncourse, Thinking in Code,"
+    } ]
+  }, {
+    "tStartMs": 1959020,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "is a perfect example designed\nwith beginners in mind."
+    } ]
+  }, {
+    "tStartMs": 1961630,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "It's got everything you need"
+    } ]
+  }, {
+    "tStartMs": 1963160,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "to start thinking like a programmer."
+    } ]
+  }, {
+    "tStartMs": 1964840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You can try out everything\nBrilliant has to offer free"
+    } ]
+  }, {
+    "tStartMs": 1967360,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "for 30 days."
+    } ]
+  }, {
+    "tStartMs": 1968290,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Just go to brilliant.org/veritasium"
+    } ]
+  }, {
+    "tStartMs": 1971110,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "And for viewers of this video,"
+    } ]
+  }, {
+    "tStartMs": 1972670,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Brilliant are offering 20% off"
+    } ]
+  }, {
+    "tStartMs": 1974410,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "an annual premium subscription"
+    } ]
+  }, {
+    "tStartMs": 1976030,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "for the first 200 people to sign up."
+    } ]
+  }, {
+    "tStartMs": 1978010,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Use that same link,"
+    } ]
+  }, {
+    "tStartMs": 1979090,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "which I will put down in the description."
+    } ]
+  }, {
+    "tStartMs": 1981220,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor sponsoring Veritasium,"
+    } ]
+  }, {
+    "tStartMs": 1983710,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

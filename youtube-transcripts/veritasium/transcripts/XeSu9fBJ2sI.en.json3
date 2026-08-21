@@ -1,0 +1,841 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Do not hit the like button!"
+    } ]
+  }, {
+    "tStartMs": 1834,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Or the dislike button, at least not yet."
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 5901,
+    "segs": [ {
+      "utf8": "I want you to consider a problem that's been one of the most controversial in math and philosophy over the past 20 years."
+    } ]
+  }, {
+    "tStartMs": 10901,
+    "dDurationMs": 2092,
+    "segs": [ {
+      "utf8": "There is no consensus answer."
+    } ]
+  }, {
+    "tStartMs": 12993,
+    "dDurationMs": 6654,
+    "segs": [ {
+      "utf8": "So I want you to listen to the problem and then vote for the answer you prefer using the like and dislike buttons."
+    } ]
+  }, {
+    "tStartMs": 19647,
+    "dDurationMs": 2751,
+    "segs": [ {
+      "utf8": "Okay, here is the setup:"
+    } ]
+  }, {
+    "tStartMs": 22398,
+    "dDurationMs": 3328,
+    "segs": [ {
+      "utf8": "Sleeping Beauty volunteers to be the subject of an experiment."
+    } ]
+  }, {
+    "tStartMs": 25726,
+    "dDurationMs": 3365,
+    "segs": [ {
+      "utf8": "And before it starts she's informed of the procedure."
+    } ]
+  }, {
+    "tStartMs": 29091,
+    "dDurationMs": 2562,
+    "segs": [ {
+      "utf8": "On Sunday night she will be put to sleep."
+    } ]
+  }, {
+    "tStartMs": 31653,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "And then a fair coin will \nbe flipped."
+    } ]
+  }, {
+    "tStartMs": 34820,
+    "dDurationMs": 5007,
+    "segs": [ {
+      "utf8": "If that coin comes up heads, she'll be awakened on Monday and then put back to sleep."
+    } ]
+  }, {
+    "tStartMs": 39827,
+    "dDurationMs": 4132,
+    "segs": [ {
+      "utf8": "If the coin comes up Tails she will also be awakened on Monday and put back to sleep."
+    } ]
+  }, {
+    "tStartMs": 43959,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "But then she will be awakened on Tuesday as well and then put back to sleep."
+    } ]
+  }, {
+    "tStartMs": 48549,
+    "dDurationMs": 5208,
+    "segs": [ {
+      "utf8": "Now each time she gets put back to sleep \nshe will forget that she was ever awakened."
+    } ]
+  }, {
+    "tStartMs": 53757,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "In the brief period anytime she's awake she will be told \nno information."
+    } ]
+  }, {
+    "tStartMs": 58746,
+    "dDurationMs": 2552,
+    "segs": [ {
+      "utf8": "But she'll be asked one question:"
+    } ]
+  }, {
+    "tStartMs": 61298,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "What do you believe is the probability that the \ncoin came up heads?"
+    } ]
+  }, {
+    "tStartMs": 65818,
+    "dDurationMs": 1973,
+    "segs": [ {
+      "utf8": "so how should she answer?"
+    } ]
+  }, {
+    "tStartMs": 67791,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Feel free to pause the video and answer the question \nfor yourself right now."
+    } ]
+  }, {
+    "tStartMs": 72421,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "This was my reaction after"
+    } ]
+  }, {
+    "tStartMs": 74220,
+    "dDurationMs": 2314,
+    "segs": [ {
+      "utf8": "hearing the problem for the first time."
+    } ]
+  }, {
+    "tStartMs": 76534,
+    "dDurationMs": 4472,
+    "segs": [ {
+      "utf8": "I mean the intuitive answer that pops into my head is clearly one in three."
+    } ]
+  }, {
+    "tStartMs": 81006,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "It could be the Monday when it came up heads."
+    } ]
+  }, {
+    "tStartMs": 83325,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Or it could be the Monday when it came up Tails."
+    } ]
+  }, {
+    "tStartMs": 87435,
+    "dDurationMs": 3649,
+    "segs": [ {
+      "utf8": "Or it could be the Tuesday when it came \nup Tails."
+    } ]
+  }, {
+    "tStartMs": 91084,
+    "dDurationMs": 4817,
+    "segs": [ {
+      "utf8": "But you know what's really interesting is you just answered that the probability of a coin coming up heads is one-third."
+    } ]
+  }, {
+    "tStartMs": 95901,
+    "dDurationMs": 3885,
+    "segs": [ {
+      "utf8": "I think a lot of this comes down to what specific question is \nasked of her."
+    } ]
+  }, {
+    "tStartMs": 99786,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "What is the probability that a Fair coin flipped gives heads?"
+    } ]
+  }, {
+    "tStartMs": 103328,
+    "dDurationMs": 1672,
+    "segs": [ {
+      "utf8": "That's 50 percent."
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 4131,
+    "segs": [ {
+      "utf8": "What is the probability that the coin came up heads?"
+    } ]
+  }, {
+    "tStartMs": 109131,
+    "dDurationMs": 2594,
+    "segs": [ {
+      "utf8": "I would say the answer is a third from her perspective."
+    } ]
+  }, {
+    "tStartMs": 112691,
+    "dDurationMs": 3954,
+    "segs": [ {
+      "utf8": "Yeah it's it's remarkably the same question."
+    } ]
+  }, {
+    "tStartMs": 116645,
+    "dDurationMs": 4188,
+    "segs": [ {
+      "utf8": "The simple reason why Sleeping Beauty should say \nthe probability of heads is one half"
+    } ]
+  }, {
+    "tStartMs": 120833,
+    "dDurationMs": 2243,
+    "segs": [ {
+      "utf8": "is because she knows the coin is fair."
+    } ]
+  }, {
+    "tStartMs": 123076,
+    "dDurationMs": 3787,
+    "segs": [ {
+      "utf8": "Nothing changes between \nwhen the coin is flipped and when she wakes up"
+    } ]
+  }, {
+    "tStartMs": 126863,
+    "dDurationMs": 5655,
+    "segs": [ {
+      "utf8": "and she knew for a fact that she would be woken up and \nshe receives no new information when that happens."
+    } ]
+  }, {
+    "tStartMs": 133440,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Imagine that instead of flipping the coin \nafter she's asleep, the experimenters flip  "
+    } ]
+  }, {
+    "tStartMs": 138540,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "the coin first and ask her immediately: \"what's the \nprobability that the coin came up heads?\""
+    } ]
+  }, {
+    "tStartMs": 144290,
+    "dDurationMs": 6258,
+    "segs": [ {
+      "utf8": "Well she would certainly say one half so why should \nanything change after she goes to sleep and  wakes up"
+    } ]
+  }, {
+    "tStartMs": 150548,
+    "dDurationMs": 5274,
+    "segs": [ {
+      "utf8": "This is known as the Halfer position. \nBut there is another way to look at it."
+    } ]
+  }, {
+    "tStartMs": 155822,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "Others would argue that something does change when she's \nawakened."
+    } ]
+  }, {
+    "tStartMs": 158981,
+    "dDurationMs": 2889,
+    "segs": [ {
+      "utf8": "I mean it seems like she gets no new information."
+    } ]
+  }, {
+    "tStartMs": 161870,
+    "dDurationMs": 4855,
+    "segs": [ {
+      "utf8": "There are no calendars no one tells \nher anything and she knew that she would be woken up."
+    } ]
+  }, {
+    "tStartMs": 166725,
+    "dDurationMs": 2675,
+    "segs": [ {
+      "utf8": "But she actually learns something important."
+    } ]
+  }, {
+    "tStartMs": 169400,
+    "dDurationMs": 4552,
+    "segs": [ {
+      "utf8": "She learns that she's gone from existing in a reality where there are two possible states."
+    } ]
+  }, {
+    "tStartMs": 173952,
+    "dDurationMs": 2788,
+    "segs": [ {
+      "utf8": "The coin came up either heads or tails"
+    } ]
+  }, {
+    "tStartMs": 176740,
+    "dDurationMs": 6892,
+    "segs": [ {
+      "utf8": "to existing in a reality where there are three possible states: Monday heads, Monday Tails or Tuesday tails."
+    } ]
+  }, {
+    "tStartMs": 183632,
+    "dDurationMs": 4216,
+    "segs": [ {
+      "utf8": "And therefore she should assign equal probability to each of these three outcomes"
+    } ]
+  }, {
+    "tStartMs": 187848,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "where Heads only occurred in one."
+    } ]
+  }, {
+    "tStartMs": 190927,
+    "dDurationMs": 4073,
+    "segs": [ {
+      "utf8": "So the probability that the coin came up heads is one-third."
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "This is known as the thirder position"
+    } ]
+  }, {
+    "tStartMs": 198060,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Now I know it seems wrong to suggest that a Fair \ncoin should have a one-third probability of coming  "
+    } ]
+  }, {
+    "tStartMs": 202920,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "up heads but that's because the question she's \nasked is subtly different. The implied question  "
+    } ]
+  }, {
+    "tStartMs": 208020,
+    "dDurationMs": 6612,
+    "segs": [ {
+      "utf8": "is: \"Given you're awake, what's the probability that \nthe coin came up heads?\" And that is one-third"
+    } ]
+  }, {
+    "tStartMs": 214632,
+    "dDurationMs": 4908,
+    "segs": [ {
+      "utf8": "Now halfers would counter that just because there are \nthree possible outcomes doesn't mean they are each  "
+    } ]
+  }, {
+    "tStartMs": 219540,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "equally likely. In the Monty Hall problem for \nexample the contestant ultimately has to choose  "
+    } ]
+  }, {
+    "tStartMs": 224220,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "between two doors. But it'd be wrong to assign \nthem 50/50 odds. The prize is actually twice  "
+    } ]
+  }, {
+    "tStartMs": 229800,
+    "dDurationMs": 2976,
+    "segs": [ {
+      "utf8": "as likely to be behind one door than the other."
+    } ]
+  }, {
+    "tStartMs": 232776,
+    "dDurationMs": 5153,
+    "segs": [ {
+      "utf8": "In the Sleeping Beauty problem we know a heads outcome and a Tails outcome are equally likely."
+    } ]
+  }, {
+    "tStartMs": 237929,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "So the chance of waking up on Monday with heads is 50 percent"
+    } ]
+  }, {
+    "tStartMs": 241260,
+    "dDurationMs": 5058,
+    "segs": [ {
+      "utf8": "And the chance of waking up on Monday or \nTuesday with Tails should be 50 percent."
+    } ]
+  }, {
+    "tStartMs": 246318,
+    "dDurationMs": 5583,
+    "segs": [ {
+      "utf8": "Therefore the Tails probability gets split across two days 25 percent each."
+    } ]
+  }, {
+    "tStartMs": 251901,
+    "dDurationMs": 5398,
+    "segs": [ {
+      "utf8": "but if you repeat the experiment over and over, which you can try for yourself by repeatedly flipping a coin,"
+    } ]
+  }, {
+    "tStartMs": 257299,
+    "dDurationMs": 5187,
+    "segs": [ {
+      "utf8": "you find she wakes up a third of the time Monday heads, a third of the time Monday tails,"
+    } ]
+  }, {
+    "tStartMs": 262486,
+    "dDurationMs": 7848,
+    "segs": [ {
+      "utf8": "and a third of the time Tuesday tails, not 50-25-25 like the previous analysis would suggest."
+    } ]
+  }, {
+    "tStartMs": 270334,
+    "dDurationMs": 3902,
+    "segs": [ {
+      "utf8": "So if you were Sleeping Beauty and you were awakened and asked"
+    } ]
+  }, {
+    "tStartMs": 274236,
+    "dDurationMs": 2494,
+    "segs": [ {
+      "utf8": "\"What's the probability the coin came up heads?\""
+    } ]
+  }, {
+    "tStartMs": 276730,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "What would you say?"
+    } ]
+  }, {
+    "tStartMs": 278340,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "If you would say one-third then hit the like button."
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 3418,
+    "segs": [ {
+      "utf8": "If you would say one half, hit the dislike button."
+    } ]
+  }, {
+    "tStartMs": 285418,
+    "dDurationMs": 2498,
+    "segs": [ {
+      "utf8": "The answer may seem obvious to you"
+    } ]
+  }, {
+    "tStartMs": 287916,
+    "dDurationMs": 4491,
+    "segs": [ {
+      "utf8": "but you should know that to other people the other answer seems equally obvious."
+    } ]
+  }, {
+    "tStartMs": 292407,
+    "dDurationMs": 7383,
+    "segs": [ {
+      "utf8": "And that's why hundreds and \nhundreds of philosophy papers have been published on this problem over the past 22 years."
+    } ]
+  }, {
+    "tStartMs": 299790,
+    "dDurationMs": 2825,
+    "segs": [ {
+      "utf8": "There have been many variations of this problem"
+    } ]
+  }, {
+    "tStartMs": 302615,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "like what if instead of being woken up twice if the coin lands \ntails she's instead woken up a million times?"
+    } ]
+  }, {
+    "tStartMs": 308795,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "If the coin comes up heads she's still woken only \nonce."
+    } ]
+  }, {
+    "tStartMs": 312599,
+    "dDurationMs": 6733,
+    "segs": [ {
+      "utf8": "Doesn't it seem absurd in this case, when Sleeping Beauty wakes up, to say that it was just \nas likely that a coin landed heads as tails?"
+    } ]
+  }, {
+    "tStartMs": 319332,
+    "dDurationMs": 5412,
+    "segs": [ {
+      "utf8": "When we know there are a million more wakeups in the \ntails case than in the heads case."
+    } ]
+  }, {
+    "tStartMs": 324744,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "I mean if you reach into a bag of one white marble and a million black marbles,"
+    } ]
+  }, {
+    "tStartMs": 329123,
+    "dDurationMs": 3549,
+    "segs": [ {
+      "utf8": "what are the chances that you pull out that one white marble?"
+    } ]
+  }, {
+    "tStartMs": 332672,
+    "dDurationMs": 4093,
+    "segs": [ {
+      "utf8": "I was pretty convinced \nby this and I considered myself a thirder"
+    } ]
+  }, {
+    "tStartMs": 336765,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "but this same argument is used to convince people that \nwe're living in a simulation."
+    } ]
+  }, {
+    "tStartMs": 341425,
+    "dDurationMs": 3725,
+    "segs": [ {
+      "utf8": "The thinking goes that our computing technology has improved so dramatically,"
+    } ]
+  }, {
+    "tStartMs": 345150,
+    "dDurationMs": 2245,
+    "segs": [ {
+      "utf8": "even over just the last 40 years,"
+    } ]
+  }, {
+    "tStartMs": 347395,
+    "dDurationMs": 7607,
+    "segs": [ {
+      "utf8": "that we can imagine a time in the not-too-distant \nfuture when we can create a completely realistic simulation of our world."
+    } ]
+  }, {
+    "tStartMs": 355002,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "And once that occurs it \nshould be trivial to make unlimited copies of that simulation."
+    } ]
+  }, {
+    "tStartMs": 360432,
+    "dDurationMs": 2722,
+    "segs": [ {
+      "utf8": "And then if you were to ask someone if \nthey're living in a simulation,"
+    } ]
+  }, {
+    "tStartMs": 363154,
+    "dDurationMs": 2398,
+    "segs": [ {
+      "utf8": "they would have to admit that they probably are"
+    } ]
+  }, {
+    "tStartMs": 365552,
+    "dDurationMs": 5698,
+    "segs": [ {
+      "utf8": "because there are many more instances of that existence than the one true external reality."
+    } ]
+  }, {
+    "tStartMs": 371404,
+    "dDurationMs": 4587,
+    "segs": [ {
+      "utf8": "But how do we know that \nthis hasn't happened already and that we're living inside a simulation?"
+    } ]
+  }, {
+    "tStartMs": 375991,
+    "dDurationMs": 4069,
+    "segs": [ {
+      "utf8": "I mean if it can happen then \nit probably has happened and we are living in a simulation"
+    } ]
+  }, {
+    "tStartMs": 381092,
+    "dDurationMs": 3864,
+    "segs": [ {
+      "utf8": "This seems like the logical conclusion \nof the third or world view."
+    } ]
+  }, {
+    "tStartMs": 385246,
+    "dDurationMs": 4889,
+    "segs": [ {
+      "utf8": "Now I personally don't buy that I'm living in a simulation and I think most people don't buy it."
+    } ]
+  }, {
+    "tStartMs": 390135,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "But maybe that's just illogical bias."
+    } ]
+  }, {
+    "tStartMs": 392170,
+    "dDurationMs": 5064,
+    "segs": [ {
+      "utf8": "But there's another thought experiment that makes me seriously reconsider the third or position."
+    } ]
+  }, {
+    "tStartMs": 397234,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "Let's say there's a soccer \ngame between a really great team like Brazil"
+    } ]
+  }, {
+    "tStartMs": 401213,
+    "dDurationMs": 3787,
+    "segs": [ {
+      "utf8": "and a less World dominating team like Canada."
+    } ]
+  }, {
+    "tStartMs": 405000,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "So the odds are 80:20 in Brazil's favor"
+    } ]
+  }, {
+    "tStartMs": 408087,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "now a researcher is going to put you to sleep before the game \nstarts."
+    } ]
+  }, {
+    "tStartMs": 411808,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "And if Brazil wins they'll wake you up one time"
+    } ]
+  }, {
+    "tStartMs": 415097,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "But if Canada wins they'll wake you up 30 \ntimes in a row and just like Sleeping Beauty"
+    } ]
+  }, {
+    "tStartMs": 420463,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "you won't remember if you've been woken before."
+    } ]
+  }, {
+    "tStartMs": 422753,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "Okay so the game is about to start you fall asleep..."
+    } ]
+  }, {
+    "tStartMs": 427500,
+    "dDurationMs": 4596,
+    "segs": [ {
+      "utf8": "and now you're woken up. Who do you think won the \ngame?"
+    } ]
+  }, {
+    "tStartMs": 432096,
+    "dDurationMs": 2773,
+    "segs": [ {
+      "utf8": "The thirder would say Canada"
+    } ]
+  }, {
+    "tStartMs": 434869,
+    "dDurationMs": 5231,
+    "segs": [ {
+      "utf8": "but I would almost certainly say Brazil. I mean why should I \ngive any weight to what the researcher would have  "
+    } ]
+  }, {
+    "tStartMs": 440100,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "done if Canada had one when I'm fairly confident \nthat they won't?"
+    } ]
+  }, {
+    "tStartMs": 444700,
+    "dDurationMs": 5369,
+    "segs": [ {
+      "utf8": "To extend this, let's say Brazil plays Canada five times and we do this experiment each time."
+    } ]
+  }, {
+    "tStartMs": 450069,
+    "dDurationMs": 6879,
+    "segs": [ {
+      "utf8": "Well then if you say Brazil each time you're woken up you'll probably be right about four out of five of the games."
+    } ]
+  }, {
+    "tStartMs": 456948,
+    "dDurationMs": 6372,
+    "segs": [ {
+      "utf8": "but if you said Canada every time you would be wrong about those four games but right 30 times in a row when you're  "
+    } ]
+  }, {
+    "tStartMs": 463320,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "repeatedly asked about Canada's one victory. If \nyou stand to win a bet by correctly answering  "
+    } ]
+  }, {
+    "tStartMs": 468780,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the question then by all means you should bet \non Canada. But if you want to correctly pick the  "
+    } ]
+  }, {
+    "tStartMs": 473820,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "winner of more of the games well then you should \nsay Brazil. And this is what's at the heart of the  "
+    } ]
+  }, {
+    "tStartMs": 478980,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "dispute between Halfers and Thirders in the Sleeping \nBeauty problem. If you want to be right about the  "
+    } ]
+  }, {
+    "tStartMs": 484140,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "outcome of the coin tosses well you should say the \nprobability of heads is a half but if you want to  "
+    } ]
+  }, {
+    "tStartMs": 489600,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "answer more questionings correctly well then you \nshould say one-third. I want to leave you with one  "
+    } ]
+  }, {
+    "tStartMs": 496020,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "last thought experiment. Imagine that you know for \na fact that before our universe began there was  "
+    } ]
+  }, {
+    "tStartMs": 501540,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "a coin flip and if it came up heads only a single \nUniverse would be created. But if it came up Tails  "
+    } ]
+  }, {
+    "tStartMs": 507780,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "a quasi-infinite Multiverse would be created and \nin each of those Multiverse universes you'd find  "
+    } ]
+  }, {
+    "tStartMs": 513300,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "every possible variation of Earth and the people \non it"
+    } ]
+  }, {
+    "tStartMs": 516334,
+    "dDurationMs": 2306,
+    "segs": [ {
+      "utf8": "In some versions there would be no Earth"
+    } ]
+  }, {
+    "tStartMs": 522120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Now you becoming conscious is just like Sleeping \nBeauty waking up. There's no way to tell if  "
+    } ]
+  }, {
+    "tStartMs": 527880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "you're in that single universe or in one of the \nMultiverse universes but you know there are a lot  "
+    } ]
+  }, {
+    "tStartMs": 533160,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "more of them. So would you think that you're for \nsure in the Multiverse. Or are the chances 50/50?"
+    } ]
+  }, {
+    "tStartMs": 544920,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "The best way to develop intuition about \nprobability is by working through scenarios  "
+    } ]
+  }, {
+    "tStartMs": 550440,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "or running simulations like we did for Sleeping \nBeauty. This video's sponsor Brilliant offers  "
+    } ]
+  }, {
+    "tStartMs": 555540,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "probability courses that walk you through lots \nof situational probability questions. Do you want  "
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "to learn how to build your own simulations? Go \ncheck out Brilliant. You can try it free for 30  "
+    } ]
+  }, {
+    "tStartMs": 565440,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "days at brilliant.org/veritasium. You know to \nme Brilliant is the best way to learn because  "
+    } ]
+  }, {
+    "tStartMs": 571080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "it forces you to think critically and it's also \na lot of fun. I mean I find learning new things  "
+    } ]
+  }, {
+    "tStartMs": 575760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "and sharpening my thinking energizing. In their \nlessons you model the real world with math and  "
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "expand your understanding of cutting edge topics \nlike AI and machine learning - technology that's  "
+    } ]
+  }, {
+    "tStartMs": 586380,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "transforming our world right now. Are we actually \nliving in a computer simulation or a Multiverse?  "
+    } ]
+  }, {
+    "tStartMs": 592320,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Who knows, but with Brilliant you might actually \nget started on your journey to figuring it out.  "
+    } ]
+  }, {
+    "tStartMs": 597420,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "They already have thousands of lessons and \nnew ones are added every month. So if you want  "
+    } ]
+  }, {
+    "tStartMs": 602400,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "to get started with Brilliant's annual premium \nsubscription they're giving 20 percent off to the first  "
+    } ]
+  }, {
+    "tStartMs": 607080,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "200 people to sign up via my link: brilliant.org/\nveritasium I will put that down in the description  "
+    } ]
+  }, {
+    "tStartMs": 613200,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "So I want to thank Brilliant for supporting \nveritasium and I want to thank you for watching."
+    } ]
+  } ]
+}

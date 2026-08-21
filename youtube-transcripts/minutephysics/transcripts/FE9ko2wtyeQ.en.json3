@@ -1,0 +1,265 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1270,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "This is a footnote to the main video about\nmathematically protecting the privacy of individuals"
+    } ]
+  }, {
+    "tStartMs": 4380,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "when you’re publishing statistics from a\nprivate dataset, like a medical study, or"
+    } ]
+  }, {
+    "tStartMs": 6460,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "a census, or whatever."
+    } ]
+  }, {
+    "tStartMs": 7830,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "There are in fact two kinds of privacy violation\nthat can happen from a survey, and they’re"
+    } ]
+  }, {
+    "tStartMs": 11260,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "qualitatively very different from each other."
+    } ]
+  }, {
+    "tStartMs": 13440,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "The first kind is the direct breach of the\nprivacy of an individual by somehow revealing"
+    } ]
+  }, {
+    "tStartMs": 17130,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "private information specific to them (like\ntheir birthday, or blood type, or Harry Potter"
+    } ]
+  }, {
+    "tStartMs": 21600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "house), and this is the kind of privacy violation\nthe main video focused on."
+    } ]
+  }, {
+    "tStartMs": 25400,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "The second kind is an indirect violation of\nprivacy via association with a group (like"
+    } ]
+  }, {
+    "tStartMs": 29550,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "how men are more likely to be overpaid, or\nhow Slytherins are more likely to be evil,"
+    } ]
+  }, {
+    "tStartMs": 33590,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "or how overpaid men are more likely to be\nSlytherins…)."
+    } ]
+  }, {
+    "tStartMs": 35920,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Of course, revealing trend-based information\nabout a group is precisely the purpose of"
+    } ]
+  }, {
+    "tStartMs": 40370,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "doing surveys; we, as a society, want to know\nthe expected lifespan of smokers vs non-smokers,"
+    } ]
+  }, {
+    "tStartMs": 45780,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "or the typical month in which professional\nhockey players are born."
+    } ]
+  }, {
+    "tStartMs": 48940,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "But if a survey reveals that hockey players\nare more likely to have January birthdays,"
+    } ]
+  }, {
+    "tStartMs": 52920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "then knowing somebody plays in the NHL gives\nyou insight into a supposedly private piece"
+    } ]
+  }, {
+    "tStartMs": 57120,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "of information, and does so regardless of\nwhether or not that player themselves participated"
+    } ]
+  }, {
+    "tStartMs": 61719,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "in the survey!"
+    } ]
+  }, {
+    "tStartMs": 62719,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "If we wanted to protect the privacy of individuals\n100%, pretty much the only option would be"
+    } ]
+  }, {
+    "tStartMs": 67560,
+    "dDurationMs": 4729,
+    "segs": [ {
+      "utf8": "to outright prohibit all studies and surveys\nthat use any individual information, whatsoever."
+    } ]
+  }, {
+    "tStartMs": 72289,
+    "dDurationMs": 3741,
+    "segs": [ {
+      "utf8": "But then we couldn’t have representative\ndemocracies, or study diseases, or keep an"
+    } ]
+  }, {
+    "tStartMs": 76030,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "eye out for dark wizards coming out of Slytherin,\nor lots of other useful things."
+    } ]
+  }, {
+    "tStartMs": 79990,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "So if you are going to do a study, the best\nyou can do is to not violate any participant’s"
+    } ]
+  }, {
+    "tStartMs": 84819,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "privacy more than their privacy would have\nbeen violated if they hadn’t participated"
+    } ]
+  }, {
+    "tStartMs": 88389,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "in the study."
+    } ]
+  }, {
+    "tStartMs": 89389,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "That is, the current wisdom is that it’s\nok to reveal that NHL players are more likely"
+    } ]
+  }, {
+    "tStartMs": 93009,
+    "dDurationMs": 4011,
+    "segs": [ {
+      "utf8": "to have January birthdays , but it’s not\nok to reveal the birthday of a specific player."
+    } ]
+  }, {
+    "tStartMs": 97020,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "And of course, you’d have to reveal the\nJanuary birthdays fact using a mathematically"
+    } ]
+  }, {
+    "tStartMs": 101130,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "guaranteed privacy protection… but that’s\nwhat the main video is about."
+    } ]
+  }, {
+    "tStartMs": 106689,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "And if you want to ensure you don’t have\nonline information specific to you stolen"
+    } ]
+  }, {
+    "tStartMs": 112119,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "or published, I highly recommend using Dashlane,\nthis video’s sponsor and a service/tool"
+    } ]
+  }, {
+    "tStartMs": 116369,
+    "dDurationMs": 4511,
+    "segs": [ {
+      "utf8": "that can greatly simplify and secure your\nonline life (as it has mine) - with Dashlane,"
+    } ]
+  }, {
+    "tStartMs": 120880,
+    "dDurationMs": 4109,
+    "segs": [ {
+      "utf8": "every single site or online service you use\ngets a strong, unique password, and Dashlane"
+    } ]
+  }, {
+    "tStartMs": 124989,
+    "dDurationMs": 3171,
+    "segs": [ {
+      "utf8": "securely remembers them so you don’t have\nto."
+    } ]
+  }, {
+    "tStartMs": 128160,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "Dashlane also (with your permission) auto-fills\nonline address forms, credit card info, saving"
+    } ]
+  }, {
+    "tStartMs": 132550,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "you time and hassle."
+    } ]
+  }, {
+    "tStartMs": 133690,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "It’s really nice."
+    } ]
+  }, {
+    "tStartMs": 134950,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "You can get a free 30 day trial of dashlane\npremium (which also includes Dashlane’s"
+    } ]
+  }, {
+    "tStartMs": 138910,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "VPN) by going to dashlane.com/minutephysics."
+    } ]
+  }, {
+    "tStartMs": 140470,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "Again, that’s dashlane.com/minutephysics,\nand use coupon code minutephysics for 10%"
+    } ]
+  }, {
+    "tStartMs": 146780,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "off at checkout."
+    } ]
+  }, {
+    "tStartMs": 147780,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "And I’d like to thank Dashlane for simplifying\nand securing my life."
+    } ]
+  } ]
+}

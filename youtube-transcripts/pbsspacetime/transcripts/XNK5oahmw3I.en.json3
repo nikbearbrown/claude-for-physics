@@ -1,0 +1,1447 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 70,
+    "dDurationMs": 3939,
+    "segs": [ {
+      "utf8": "Science fiction has come up with countless\nideas for weird forms of life not based on"
+    } ]
+  }, {
+    "tStartMs": 4009,
+    "dDurationMs": 4021,
+    "segs": [ {
+      "utf8": "boring old DNA, or even on matter as we know\nit."
+    } ]
+  }, {
+    "tStartMs": 8030,
+    "dDurationMs": 5069,
+    "segs": [ {
+      "utf8": "There’s Stanislaw Lem’s sentient ocean\nin Solaris, or the neutron star civilization"
+    } ]
+  }, {
+    "tStartMs": 13099,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "made of nuclear matter in Robert L Forward’s\nDragon’s Egg."
+    } ]
+  }, {
+    "tStartMs": 16449,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "Oh, and here’s an extra crazy one - life composed\nof cosmic strings and magnetic monopoles,"
+    } ]
+  }, {
+    "tStartMs": 22259,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "evolving in the hearts of stars."
+    } ]
+  }, {
+    "tStartMs": 23900,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Oh, wait a minute - that last one is an actual\nscientific proposal."
+    } ]
+  }, {
+    "tStartMs": 33120,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Scientists can sometimes be a little carbon-chauvanistic\nwhen we imagine other possible life forms."
+    } ]
+  }, {
+    "tStartMs": 39850,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Which is understandable - carbon-based chemistry\nenables the most complex structures that we"
+    } ]
+  }, {
+    "tStartMs": 44070,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "know of in this universe."
+    } ]
+  }, {
+    "tStartMs": 45960,
+    "dDurationMs": 5869,
+    "segs": [ {
+      "utf8": "But could some other mechanism exist that\ncould allow the incredible chemical diversity"
+    } ]
+  }, {
+    "tStartMs": 51829,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "needed to power life?"
+    } ]
+  }, {
+    "tStartMs": 53489,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "Well, not that we know of."
+    } ]
+  }, {
+    "tStartMs": 55220,
+    "dDurationMs": 2839,
+    "segs": [ {
+      "utf8": "But that hasn’t stopped some scientists\nfrom looking."
+    } ]
+  }, {
+    "tStartMs": 58059,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "One of the most bizarre proposals for life\nnot as we know it doesn’t even use atoms."
+    } ]
+  }, {
+    "tStartMs": 63260,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "It proposes that fundamental kinks and defects\nin the fabric of the universe - cosmic strings"
+    } ]
+  }, {
+    "tStartMs": 67960,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "beaded with magnetic monopoles - may evolve\ninto complex structures, and even life, within"
+    } ]
+  }, {
+    "tStartMs": 72770,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "stars."
+    } ]
+  }, {
+    "tStartMs": 73770,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "This idea was just published in Letters High\nEnergy Physics Letters by physicists Luis"
+    } ]
+  }, {
+    "tStartMs": 78310,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Anchordoqui and Eugene Chudnovsky, and today\non Space Time Journal Club we’re going to"
+    } ]
+  }, {
+    "tStartMs": 83000,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "see how legit this idea actually is."
+    } ]
+  }, {
+    "tStartMs": 86740,
+    "dDurationMs": 2129,
+    "segs": [ {
+      "utf8": "But first we need to go through some of the\nbasics."
+    } ]
+  }, {
+    "tStartMs": 88869,
+    "dDurationMs": 2651,
+    "segs": [ {
+      "utf8": "What exactly are cosmic strings and magnetic\nmonopoles?"
+    } ]
+  }, {
+    "tStartMs": 91520,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Both of these are fascinating subjects well\noverdue for their own episodes, so I’ll"
+    } ]
+  }, {
+    "tStartMs": 96210,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "keep in brief here."
+    } ]
+  }, {
+    "tStartMs": 98710,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Cosmic strings and magnetic monopoles are\nwhat we call topological defects."
+    } ]
+  }, {
+    "tStartMs": 102390,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "The best way to describe topological defects\nis with some examples."
+    } ]
+  }, {
+    "tStartMs": 107469,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Imagine a fur rug in which you can brush the\nfur to lie in whatever direction you like."
+    } ]
+  }, {
+    "tStartMs": 112479,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "If the fur is pushed to the left at one end\nand the right at the other end, then somewhere"
+    } ]
+  }, {
+    "tStartMs": 116180,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "in between there must be a transition between\nthe two states."
+    } ]
+  }, {
+    "tStartMs": 119090,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "There’s no way for that transition to be\nsmooth, so you have this line."
+    } ]
+  }, {
+    "tStartMs": 123369,
+    "dDurationMs": 3271,
+    "segs": [ {
+      "utf8": "You can move the line around by brushing the\nrug left or right, but you can’t get rid"
+    } ]
+  }, {
+    "tStartMs": 126640,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "of it without brushing the entire rug in one\ndirection."
+    } ]
+  }, {
+    "tStartMs": 129470,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "You could also get a topological defect if\nyou tried to brush the rug into a spiral."
+    } ]
+  }, {
+    "tStartMs": 133350,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "The transition between all points would be\nsmooth, with the grain changing angle only"
+    } ]
+  }, {
+    "tStartMs": 138190,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "slightly."
+    } ]
+  }, {
+    "tStartMs": 139190,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "But at the eye of the spiral you’d have\na non-smooth transition."
+    } ]
+  }, {
+    "tStartMs": 143250,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "And that’s the common feature of a topological\ndefect - a sudden change in the “grain”"
+    } ]
+  }, {
+    "tStartMs": 147440,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "of some space that can’t easily be disentangled."
+    } ]
+  }, {
+    "tStartMs": 151220,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "You can have exactly the same thing in magnetic\nmaterials, where the direction of the poles"
+    } ]
+  }, {
+    "tStartMs": 155630,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "of the little magnetic particles changes across\nthe substance."
+    } ]
+  }, {
+    "tStartMs": 160350,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Topological defects are also found in crystals."
+    } ]
+  }, {
+    "tStartMs": 162600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "They form during the phase transition from\nliquid to solid."
+    } ]
+  }, {
+    "tStartMs": 165920,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "That crystallization can begin in different\nplaces in the liquid."
+    } ]
+  }, {
+    "tStartMs": 169140,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "And these lattice regions spread and join\nuntil you have a single crystal, but if those"
+    } ]
+  }, {
+    "tStartMs": 173170,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "initial regions didn’t all line up in the\nsame way then you have defects where the regions"
+    } ]
+  }, {
+    "tStartMs": 177900,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "meet each other."
+    } ]
+  }, {
+    "tStartMs": 180450,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Quantum fields should also be able to develop topological defects."
+    } ]
+  }, {
+    "tStartMs": 184690,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "These may have been formed soon after the\nBig Bang when massive phase transitions swept"
+    } ]
+  }, {
+    "tStartMs": 189170,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "across the universe."
+    } ]
+  }, {
+    "tStartMs": 191030,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "These transitions were analogous to the phase\ntransitions between states of matter - for"
+    } ]
+  }, {
+    "tStartMs": 195250,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "example, water freezing into ice."
+    } ]
+  }, {
+    "tStartMs": 196650,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "But here, the quantum fields themselves changed state due to the rapidly dropping"
+    } ]
+  }, {
+    "tStartMs": 202080,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "temperature."
+    } ]
+  }, {
+    "tStartMs": 203170,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "The technical term is “spontaneous symmetry\nbreaking” - the same events that led to"
+    } ]
+  }, {
+    "tStartMs": 208560,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "the appearance of the separate forces from\nan initial unified force."
+    } ]
+  }, {
+    "tStartMs": 212150,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "We’ll be discussing that more in the future,\nbut for now the important thing is that these"
+    } ]
+  }, {
+    "tStartMs": 217090,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "phase transitions could have resulted in different\ntypes of topological defects, just like when"
+    } ]
+  }, {
+    "tStartMs": 223010,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "crystals form."
+    } ]
+  }, {
+    "tStartMs": 224650,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "Let’s go through the possibilities: a 0-dimensional\ntopological defect is a magnetic monopole"
+    } ]
+  }, {
+    "tStartMs": 230980,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "- like the north or south pole of a bar magnet\nthat somehow lost its counterpart."
+    } ]
+  }, {
+    "tStartMs": 236690,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "A 1-D topological defect is a cosmic string\n- an extremely thin filament."
+    } ]
+  }, {
+    "tStartMs": 242850,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "2-D defects are called domain walls - they’re\nthe boundaries between regions of the universe"
+    } ]
+  }, {
+    "tStartMs": 247430,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "with different properties - for example, different\nvacuum energies."
+    } ]
+  }, {
+    "tStartMs": 250500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "We’re interested in the strings and monopoles\nfor now."
+    } ]
+  }, {
+    "tStartMs": 254200,
+    "dDurationMs": 5129,
+    "segs": [ {
+      "utf8": "In certain theoretical scenarios, a monopole\ncan be connected to the end of a string - or"
+    } ]
+  }, {
+    "tStartMs": 259329,
+    "dDurationMs": 1571,
+    "segs": [ {
+      "utf8": "two strings, actually."
+    } ]
+  }, {
+    "tStartMs": 260900,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Such monopoles are called beads."
+    } ]
+  }, {
+    "tStartMs": 263980,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And you can have a chain of beads - a necklace.."
+    } ]
+  }, {
+    "tStartMs": 267380,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "Anchordoqui and Chudnovsky imagine a type\nof nuclear life, in which these chains form"
+    } ]
+  }, {
+    "tStartMs": 273400,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "complex structures that can have a sort of\nchemistry - possibly even evolving into what"
+    } ]
+  }, {
+    "tStartMs": 278270,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "we might call life."
+    } ]
+  }, {
+    "tStartMs": 280290,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "The goal of their study was to figure out\nunder what circumstances this might happen."
+    } ]
+  }, {
+    "tStartMs": 286360,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "The authors lay out three conditions for life\nthat they investigate."
+    } ]
+  }, {
+    "tStartMs": 290030,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Let’s go through them."
+    } ]
+  }, {
+    "tStartMs": 292190,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Condition 1) The ability to encode information."
+    } ]
+  }, {
+    "tStartMs": 295560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Fair enough - our DNA encodes all the instructions\nour cells need to build the molecular machinery"
+    } ]
+  }, {
+    "tStartMs": 300280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of life."
+    } ]
+  }, {
+    "tStartMs": 301280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "It’s hard to imagine a life form that didn’t\nhave a way to store information."
+    } ]
+  }, {
+    "tStartMs": 305760,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "Condition 2) The ability of information carriers\nto replicate faster than they disintegrate."
+    } ]
+  }, {
+    "tStartMs": 312040,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "Again, straight forward - any given chain\nof molecules holds information, but it isn’t"
+    } ]
+  }, {
+    "tStartMs": 317630,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "much good if it falls apart before it reproduces\nitself."
+    } ]
+  }, {
+    "tStartMs": 321310,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "And 3) a source of free energy."
+    } ]
+  }, {
+    "tStartMs": 324160,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "This is something we know is essential for\nany life, including nuclear life."
+    } ]
+  }, {
+    "tStartMs": 328520,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Let’s go through each of these conditions in detail."
+    } ]
+  }, {
+    "tStartMs": 331680,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Can these string-monopole necklaces store\ninformation?"
+    } ]
+  }, {
+    "tStartMs": 334230,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Well, in DNA there are 4 different base pairs\nand the ordering of those base pairs is a"
+    } ]
+  }, {
+    "tStartMs": 339710,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "language - it dictates the order of amino\nacids transcribed into proteins."
+    } ]
+  }, {
+    "tStartMs": 344590,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "With simple magnetic monopoles, the only possible\nnecklace is an alternating series of north"
+    } ]
+  }, {
+    "tStartMs": 350060,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "and south poles - or poles and anti-poles."
+    } ]
+  }, {
+    "tStartMs": 352130,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "There’s only one possible configuration,\nand so there’s no way to store information that"
+    } ]
+  }, {
+    "tStartMs": 357270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "way."
+    } ]
+  }, {
+    "tStartMs": 358270,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "But if you add slightly more exotic physics\nyou can form different types of monopole."
+    } ]
+  }, {
+    "tStartMs": 362200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "For example, there’s this scenario in this\nearly universe symmetry-breaking stuff where,"
+    } ]
+  }, {
+    "tStartMs": 368200,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "after the monopoles form, they split in two\n- into so-called semi-poles."
+    } ]
+  }, {
+    "tStartMs": 373310,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "There are four types of seminole - two for\neach of the original monopole type."
+    } ]
+  }, {
+    "tStartMs": 377360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Four coding “letters” - sounds a bit like\nDNA."
+    } ]
+  }, {
+    "tStartMs": 381680,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Semipoles have an added bonus: whereas monopoles\nand anti-monopoles will always attract each"
+    } ]
+  }, {
+    "tStartMs": 387480,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "other and annihilate if they come together."
+    } ]
+  }, {
+    "tStartMs": 389840,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "With semipoles, it’s possible to form string\nsegments capped by NON-annihilating semipole"
+    } ]
+  }, {
+    "tStartMs": 394490,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "pairs that actually repel each other."
+    } ]
+  }, {
+    "tStartMs": 396820,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "In this way, it may be possible to develop\ncomplex string structures, analogous to chemistry."
+    } ]
+  }, {
+    "tStartMs": 401840,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "And maybe you can even build something like DNA."
+    } ]
+  }, {
+    "tStartMs": 405150,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "OK, moving on to life condition number 2:\ncan these information carriers replicate faster"
+    } ]
+  }, {
+    "tStartMs": 410370,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "than they can disintegrate?"
+    } ]
+  }, {
+    "tStartMs": 412330,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "These necklaces are probably not too stable\n- but that’s OK as long you can replicate them"
+    } ]
+  }, {
+    "tStartMs": 417410,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "faster than they fall apart."
+    } ]
+  }, {
+    "tStartMs": 418700,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "And this is where stars come in."
+    } ]
+  }, {
+    "tStartMs": 420720,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Others have speculated that cosmic strings\nmay get trapped inside stars in the process"
+    } ]
+  }, {
+    "tStartMs": 425030,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "of star formation."
+    } ]
+  }, {
+    "tStartMs": 426540,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Those stellar interiors might then provide\nthe mechanism for necklaces to rapidly change"
+    } ]
+  }, {
+    "tStartMs": 431090,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "and even replicate."
+    } ]
+  }, {
+    "tStartMs": 433140,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Depending on the stellar type and region,\nthe insides of stars can be very turbulent"
+    } ]
+  }, {
+    "tStartMs": 437560,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "places."
+    } ]
+  }, {
+    "tStartMs": 438650,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Flowing plasma and magnetic fields may stretch\nand break necklaces, which could reconfigure"
+    } ]
+  }, {
+    "tStartMs": 443420,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "them over and over until they find a state\nthat is stable in the environment, combined"
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "with developing the ability to replicate faster\nthan they are torn apart."
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "As for how that replication happens - well\nthe study doesn’t go into detail, except"
+    } ]
+  }, {
+    "tStartMs": 457860,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "to say that it might be catalyzed by interactions\nwith atomic nuclei in the star."
+    } ]
+  }, {
+    "tStartMs": 462760,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Perhaps nuclei somehow help necklaces build\na parallel chain of beads, that then peels"
+    } ]
+  }, {
+    "tStartMs": 467410,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "off as an identical necklace, similar to how\nRNA reproduces."
+    } ]
+  }, {
+    "tStartMs": 473430,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "And finally, life condition number 3: do we\nhave a source of free energy?"
+    } ]
+  }, {
+    "tStartMs": 478330,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "By free energy, I don’t mean energy that\nyou don’t have to pay for."
+    } ]
+  }, {
+    "tStartMs": 481170,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "I mean energy that is available for use, in\na thermodynamic sense."
+    } ]
+  }, {
+    "tStartMs": 485990,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Energy can only be used to do work if there\nexists differences in the amount of energy"
+    } ]
+  }, {
+    "tStartMs": 490960,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "in different possible states."
+    } ]
+  }, {
+    "tStartMs": 492590,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "If energy is concentrated in certain places\nwe would call that an ordered, low entropy"
+    } ]
+  }, {
+    "tStartMs": 499440,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "situation."
+    } ]
+  }, {
+    "tStartMs": 500540,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "Energy likes to spread itself out as evenly\nas possible, moving towards disordered, high-entropy"
+    } ]
+  }, {
+    "tStartMs": 507050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "states."
+    } ]
+  }, {
+    "tStartMs": 508050,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "It’s possible to use energy as it flows\nbetween different states in this process,"
+    } ]
+  }, {
+    "tStartMs": 512520,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "like putting a water wheel in a flowing river."
+    } ]
+  }, {
+    "tStartMs": 515390,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "For example, life uses the energy flowing\nfrom the high energy-density of the Sun to"
+    } ]
+  }, {
+    "tStartMs": 520469,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "the lower energy density of the Earth."
+    } ]
+  }, {
+    "tStartMs": 522200,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "In fact we talked about all of that in our\nepisode on the physics of life."
+    } ]
+  }, {
+    "tStartMs": 527410,
+    "dDurationMs": 6790,
+    "segs": [ {
+      "utf8": "We saw that these temporary increases in order, represented by life, actually speed up the process of"
+    } ]
+  }, {
+    "tStartMs": 534200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "smoothing out all of the energy."
+    } ]
+  }, {
+    "tStartMs": 536300,
+    "dDurationMs": 4991,
+    "segs": [ {
+      "utf8": "Little low-entropy blips like life ultimately\naccelerate the increase in entropy of the"
+    } ]
+  }, {
+    "tStartMs": 541291,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "universe."
+    } ]
+  }, {
+    "tStartMs": 542291,
+    "dDurationMs": 4249,
+    "segs": [ {
+      "utf8": "OK, so inside a star there’s definitely\nfree energy."
+    } ]
+  }, {
+    "tStartMs": 546540,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Energy flows from the fusion engine in the\ncore to the surface."
+    } ]
+  }, {
+    "tStartMs": 549340,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "It’s conceivable that a lifeform could harness\nthat flow."
+    } ]
+  }, {
+    "tStartMs": 552370,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Well what would that look like?"
+    } ]
+  }, {
+    "tStartMs": 554710,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Well, it would have to hasten the spreading\nout of energy."
+    } ]
+  }, {
+    "tStartMs": 558980,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Energy could be spread more evenly across\nthe electromagnetic spectrum, which would"
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "look like cooling - the star might appear\ncooler than it should."
+    } ]
+  }, {
+    "tStartMs": 567760,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Or perhaps the nuclear reactions in the core\nproceed faster, hastening the dissipation"
+    } ]
+  }, {
+    "tStartMs": 572410,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "of the star’s energy through space."
+    } ]
+  }, {
+    "tStartMs": 574490,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "At any rate, the star should behave differently\nto what our stellar physics models predict."
+    } ]
+  }, {
+    "tStartMs": 580420,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "There are a few stars in our modern surveys\nthat don’t quite act as they should, however"
+    } ]
+  }, {
+    "tStartMs": 584390,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "there are many other possible explanations\nand it might be a little premature to claim"
+    } ]
+  }, {
+    "tStartMs": 588510,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "discovery of a new lifeform."
+    } ]
+  }, {
+    "tStartMs": 590090,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "We’re going to have to get a much better\nunderstanding of cosmic strings and monopoles"
+    } ]
+  }, {
+    "tStartMs": 595120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "- and, you know, actually verify that they\nexist in the first place - before we can decide"
+    } ]
+  }, {
+    "tStartMs": 599680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "whether they can interact with the complexity\nneeded to evolve into life."
+    } ]
+  }, {
+    "tStartMs": 603880,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "And the authors of this paper are not pretending\nthat any of this is likely - their point is"
+    } ]
+  }, {
+    "tStartMs": 608470,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "more to show that other possible bases for\nlife might exist, beyond the familiar carbon"
+    } ]
+  }, {
+    "tStartMs": 613050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "chemistry."
+    } ]
+  }, {
+    "tStartMs": 614050,
+    "dDurationMs": 7110,
+    "segs": [ {
+      "utf8": "So are the stars filled with thriving ecosystems\nof critters built from fractured quantum fields?"
+    } ]
+  }, {
+    "tStartMs": 621160,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Not likely, but not yet impossible."
+    } ]
+  }, {
+    "tStartMs": 623620,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "And who knows what other bizarre life forms\nmay be waiting to be discovered, in distant,"
+    } ]
+  }, {
+    "tStartMs": 629510,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "stranger parts of space time."
+    } ]
+  }, {
+    "tStartMs": 632120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Hey Everyone. A few announcements before we get to comments"
+    } ]
+  }, {
+    "tStartMs": 635040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "It's that time of year again where PBS DIgital Studios and  Space Time want to hear from you"
+    } ]
+  }, {
+    "tStartMs": 640200,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Every year we do an audience survey that helps us know what you like, what you don't"
+    } ]
+  }, {
+    "tStartMs": 645060,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and want other kinds of content you want to see."
+    } ]
+  }, {
+    "tStartMs": 647640,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "The Space Time audience has always done a great job making their voices heard on the survey,"
+    } ]
+  }, {
+    "tStartMs": 652060,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "so check out the link in the description and let us know what you think!"
+    } ]
+  }, {
+    "tStartMs": 656340,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Well regardless going to keep making Space Time and keep making it better -"
+    } ]
+  }, {
+    "tStartMs": 660520,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "and a big part of what makes that possible is the support we get from some of you on Patreon."
+    } ]
+  }, {
+    "tStartMs": 666240,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "Those few bucks a month really lets us plan much further ahead. For those of you who might be thinking of helping out -"
+    } ]
+  }, {
+    "tStartMs": 672380,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "added bonus is that we have this hoppin Patreon discord channel where space and physics geeks from"
+    } ]
+  }, {
+    "tStartMs": 677960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "around the world ponder the nature of reality."
+    } ]
+  }, {
+    "tStartMs": 680560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And while I'm talking Patreon, I have to give a gigantic shoutout to James Younger,"
+    } ]
+  }, {
+    "tStartMs": 686160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "who supports us at the Big Bang level."
+    } ]
+  }, {
+    "tStartMs": 688160,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "For those who don't know, James is a higher being composed of cosmic strings and monopoles,"
+    } ]
+  }, {
+    "tStartMs": 692520,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "visiting Earth from the core of the Sun to help spread cosmic wisdom."
+    } ]
+  }, {
+    "tStartMs": 695780,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "By, like, supporting physics youtube shows and such. Thanks James, may your semipoles never annihilate."
+    } ]
+  }, {
+    "tStartMs": 702360,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "Hey everyone. Comment responses today are on our episode on the pursuit of beauty in physics."
+    } ]
+  }, {
+    "tStartMs": 708030,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "A very contentious topic these days - and\nso sparked some passionate debate in the comments."
+    } ]
+  }, {
+    "tStartMs": 712840,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "I’m not going to go too deep into the back\nand forth right now… but will make my own"
+    } ]
+  }, {
+    "tStartMs": 717680,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "stance very clear."
+    } ]
+  }, {
+    "tStartMs": 720000,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Many of you mentioned Sabine Hossenfelder,\nwhose book Lost in the Math was a big part"
+    } ]
+  }, {
+    "tStartMs": 725250,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "of highlighting this issue of excessive dependence\non beauty."
+    } ]
+  }, {
+    "tStartMs": 728940,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "She’s of course not the only one to highlight\nthis."
+    } ]
+  }, {
+    "tStartMs": 732830,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "But tor Sabine’s own words read the book and\ncheck out our Theories of Everything livestream"
+    } ]
+  }, {
+    "tStartMs": 738390,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "from a month ago, also with Lee Smolin and\nEric Weinstein."
+    } ]
+  }, {
+    "tStartMs": 741850,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Look, I don’t want to get to much into where\nI agree or disagree with these guys here - but"
+    } ]
+  }, {
+    "tStartMs": 747930,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "I will say this - it’s useful to highlight\nwhen we think science is going astray, and"
+    } ]
+  }, {
+    "tStartMs": 754130,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Sabine and others see a real problem with\nthe excessive weight placed on the importance"
+    } ]
+  }, {
+    "tStartMs": 758130,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "of mathematical beauty, by some, perhaps by\nmany, in the theory-of-everything game."
+    } ]
+  }, {
+    "tStartMs": 763750,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "But I also have to add - do not throw the\nbaby out with the bathwater."
+    } ]
+  }, {
+    "tStartMs": 770060,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "Arguably the greatest advances of the 20th\ncentury were in part driven by the simple"
+    } ]
+  }, {
+    "tStartMs": 774959,
+    "dDurationMs": 6291,
+    "segs": [ {
+      "utf8": "intuitions of the likes of Einstein and Dirac\nthat physical law should be mathematically"
+    } ]
+  }, {
+    "tStartMs": 781250,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "elegant."
+    } ]
+  }, {
+    "tStartMs": 782580,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "So we should try to learn from the past successes\nof this pursuit of beauty in math, as well"
+    } ]
+  }, {
+    "tStartMs": 787640,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "as its failures."
+    } ]
+  }, {
+    "tStartMs": 789290,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "The failures tell us that the narrow-minded\npursuit of pure beauty at the expense of everything"
+    } ]
+  }, {
+    "tStartMs": 794390,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "else is doomed."
+    } ]
+  }, {
+    "tStartMs": 795790,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 796790,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "Because beauty is not a fundamental property\nof the universe - it is, by definition, a"
+    } ]
+  }, {
+    "tStartMs": 801720,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "subjective sense."
+    } ]
+  }, {
+    "tStartMs": 803170,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Which means it’s a proxy for other more\nfundamental qualities."
+    } ]
+  }, {
+    "tStartMs": 806830,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "So let’s identify those qualities that our\nbeauty-compass is pointing to."
+    } ]
+  }, {
+    "tStartMs": 812400,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "We can allow our powerful and inexplicable\nintuition for beauty guide us subtly, while"
+    } ]
+  }, {
+    "tStartMs": 818230,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "at the same time remaining healthily skeptical\neven of our own intuitions."
+    } ]
+  }, {
+    "tStartMs": 823680,
+    "dDurationMs": 7210,
+    "segs": [ {
+      "utf8": "Regarding the epicycles in Ptolemy’s theory,\nRy706 says “adding epicycles upon epicycles"
+    } ]
+  }, {
+    "tStartMs": 830890,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "can represent any motion is literally true\nby Fourier theory”."
+    } ]
+  }, {
+    "tStartMs": 836320,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "Ry706 - that’s exactly what epicycles are,\nthank you!"
+    } ]
+  }, {
+    "tStartMs": 841839,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "For those unfamiliar - Fourier’s theorem\ntells us that we can represent any continuous,"
+    } ]
+  }, {
+    "tStartMs": 846730,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "periodic function can be represented as a\nsum of sine waves of different frequencies."
+    } ]
+  }, {
+    "tStartMs": 851910,
+    "dDurationMs": 5799,
+    "segs": [ {
+      "utf8": "But then motion in a circle can be represented\nby 2 separate sine waves for displacement"
+    } ]
+  }, {
+    "tStartMs": 857709,
+    "dDurationMs": 1381,
+    "segs": [ {
+      "utf8": "in the x-y directions."
+    } ]
+  }, {
+    "tStartMs": 859090,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "So any arbitrarily complex orbital motion\ncan be represented with enough sine wave pairs"
+    } ]
+  }, {
+    "tStartMs": 865180,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "in a fourier series - which can also look\nlike a series of epicycles."
+    } ]
+  }, {
+    "tStartMs": 870480,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "That’s why Ptolemy was able to make this\nEarth-centered model sort of work - with enough"
+    } ]
+  }, {
+    "tStartMs": 875970,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "epicycles he could have created a working\nmodel centered on the moon, or on the library"
+    } ]
+  }, {
+    "tStartMs": 880470,
+    "dDurationMs": 2929,
+    "segs": [ {
+      "utf8": "of Alexandria, or on his mom."
+    } ]
+  }, {
+    "tStartMs": 883399,
+    "dDurationMs": 5421,
+    "segs": [ {
+      "utf8": "And this is why Occam’s razor is useful\n- it kindly requests that we please slice"
+    } ]
+  }, {
+    "tStartMs": 888820,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "off as many literal and metaphorical epicycles\nas possible."
+    } ]
+  }, {
+    "tStartMs": 892960,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Speaking of beauty, Joey Crowly asks everyone\nto please give some mad props to the animators"
+    } ]
+  }, {
+    "tStartMs": 897660,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "of this show, with the production quality\nbeing absolutely off the chain."
+    } ]
+  }, {
+    "tStartMs": 901610,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Uh, you’re not kidding Jaoey."
+    } ]
+  }, {
+    "tStartMs": 904160,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Animators Leo, Yago \u0026 Pedro and team are the\nones who really bring this show alive."
+    } ]
+  }, {
+    "tStartMs": 908260,
+    "dDurationMs": 5671,
+    "segs": [ {
+      "utf8": "I felt terrible asking for the fur rug animation\nfrom today’s episode - and honestly I don’t"
+    } ]
+  }, {
+    "tStartMs": 913931,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "know how they managed to do pull it off in\na couple of days."
+    } ]
+  }, {
+    "tStartMs": 916930,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Leo and team - mad props from all of of us\nfans."
+    } ]
+  }, {
+    "tStartMs": 920470,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "Shirsendu Chatterjee points out that it’s\nfinally time to give the address to the time"
+    } ]
+  }, {
+    "tStartMs": 923850,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "traveler’s party that we hosted a year ago."
+    } ]
+  }, {
+    "tStartMs": 926370,
+    "dDurationMs": 5719,
+    "segs": [ {
+      "utf8": "At the time no one showed up, but that only\ntells us that time travel is false if we actually"
+    } ]
+  }, {
+    "tStartMs": 932089,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "give the address as promised."
+    } ]
+  }, {
+    "tStartMs": 934029,
+    "dDurationMs": 1811,
+    "segs": [ {
+      "utf8": "Done - here’s the time and address."
+    } ]
+  }, {
+    "tStartMs": 935840,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "We wrote it in neutrinos, just to make sure\nonly sufficiently advanced civilizations can"
+    } ]
+  }, {
+    "tStartMs": 940550,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "read it - don’t want any of those lame steampunk\ntime travelers showing up."
+    } ]
+  }, {
+    "tStartMs": 944860,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "See you at the party."
+    } ]
+  }, {
+    "tStartMs": 946270,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Which we didn’t."
+    } ]
+  }, {
+    "tStartMs": 947320,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "I guess that scientifically proves that time\ntravel is impossible, or that we’re scientifically"
+    } ]
+  }, {
+    "tStartMs": 953590,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "conclusively unpopular with the cool time traveler\nset."
+    } ]
+  }, {
+    "tStartMs": 957680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Cue highschool flashbacks."
+    } ]
+  } ]
+}

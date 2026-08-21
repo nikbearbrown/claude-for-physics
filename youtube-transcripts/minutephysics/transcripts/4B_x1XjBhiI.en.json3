@@ -1,0 +1,97 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 170,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "I bet you learned in school that momentum\nis mass times velocity - I sure did!"
+    } ]
+  }, {
+    "tStartMs": 4400,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "However, for objects moving close to the speed\nof light, like the particles in the Large"
+    } ]
+  }, {
+    "tStartMs": 7580,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Hadron Collider or light itself, this equation\nis no longer accurate."
+    } ]
+  }, {
+    "tStartMs": 11470,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Instead, we use these equations that I talked\nabout in more detail in the video \"E=mc^2"
+    } ]
+  }, {
+    "tStartMs": 15690,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "is incomplete\"."
+    } ]
+  }, {
+    "tStartMs": 17310,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "If you take them as your starting points and\nsolve for momentum, you'll find that objects"
+    } ]
+  }, {
+    "tStartMs": 20870,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "with mass have momentum equal to their mass\ntimes velocity, DIVIDED by the square root"
+    } ]
+  }, {
+    "tStartMs": 24800,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "of one minus velocity squared over the speed\nof light squared."
+    } ]
+  }, {
+    "tStartMs": 28030,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "That square root part doesn't make much difference\nif your velocity is small compared to the"
+    } ]
+  }, {
+    "tStartMs": 31320,
+    "dDurationMs": 4789,
+    "segs": [ {
+      "utf8": "speed of light, because then v over c is really\nsmall and 1 minus something small is basically"
+    } ]
+  }, {
+    "tStartMs": 36109,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "just 1, so momentum (p) is pretty much just\nmv divided by 1, which is mv, which is why"
+    } ]
+  }, {
+    "tStartMs": 42199,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "you learned in school that momentum is mass\ntimes velocity."
+    } ]
+  }, {
+    "tStartMs": 45209,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "That's also what physicists thought before\n1905, but now they know that's not quite true…"
+    } ]
+  }, {
+    "tStartMs": 49639,
+    "dDurationMs": 21631,
+    "segs": [ {
+      "utf8": "and so do you!"
+    } ]
+  } ]
+}

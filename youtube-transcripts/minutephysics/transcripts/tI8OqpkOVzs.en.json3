@@ -1,0 +1,583 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1329,
+    "dDurationMs": 2861,
+    "segs": [ {
+      "utf8": "Geosynchronous orbits are weird."
+    } ]
+  }, {
+    "tStartMs": 4190,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "On the one hand, satellites in geosynchronous\norbits look, from afar, like they're orbiting"
+    } ]
+  }, {
+    "tStartMs": 7979,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "the earth just like any other satellite."
+    } ]
+  }, {
+    "tStartMs": 10060,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "But from down here, they appear to be floating,\nstationary, thirty-six thousand kilometers"
+    } ]
+  }, {
+    "tStartMs": 14330,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "above our heads [a tenth of the way to the\nmoon]."
+    } ]
+  }, {
+    "tStartMs": 15699,
+    "dDurationMs": 4031,
+    "segs": [ {
+      "utf8": "Because by definition, a geosynchronous orbit\nis in sync with the rotation of the earth"
+    } ]
+  }, {
+    "tStartMs": 19730,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "- it takes the same amount of time for one\norbit as the earth takes for one full rotation"
+    } ]
+  }, {
+    "tStartMs": 23260,
+    "dDurationMs": 3529,
+    "segs": [ {
+      "utf8": "[aka a day] - so even though it's orbiting\nlike normal around the earth's center of mass,"
+    } ]
+  }, {
+    "tStartMs": 26789,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "it's stationary with respect to the earth's\nsurface."
+    } ]
+  }, {
+    "tStartMs": 28540,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "[Fullscreen onscreen footnote: \\* Ok technically\nonly the geo*stationary* orbits are actually"
+    } ]
+  }, {
+    "tStartMs": 32200,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "stationary above you, because they orbit around\nthe equator."
+    } ]
+  }, {
+    "tStartMs": 35230,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Geo*synchronous* orbits take the same time\nas the earth to rotate, but are at other angles"
+    } ]
+  }, {
+    "tStartMs": 38480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and so appear to drift up and down in latitude\n[\\*and longitude] while while floating overhead."
+    } ]
+  }, {
+    "tStartMs": 41840,
+    "dDurationMs": 2309,
+    "segs": [ {
+      "utf8": "But regardless of whether they're geosynchronous\nor geostationary, they're possible because"
+    } ]
+  }, {
+    "tStartMs": 44149,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of two things:]"
+    } ]
+  }, {
+    "tStartMs": 45149,
+    "dDurationMs": 2581,
+    "segs": [ {
+      "utf8": "Geosynchronous orbits are possible because\nof two things: Kepler's laws, and the fact"
+    } ]
+  }, {
+    "tStartMs": 47730,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "that we live on a pile of rock."
+    } ]
+  }, {
+    "tStartMs": 49170,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Kepler's third law is the observation that\nthe farther you are from a planet or dog or"
+    } ]
+  }, {
+    "tStartMs": 53620,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "whatever, the longer it takes to complete\nan orbit."
+    } ]
+  }, {
+    "tStartMs": 56210,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The reasons are partly that you have to travel\na longer distance to orbit around a bigger"
+    } ]
+  }, {
+    "tStartMs": 59450,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "circle [ellipse - or near-ellipse in GR],\ncompounded by the fact that gravity is weaker"
+    } ]
+  }, {
+    "tStartMs": 61760,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "farther out so you can't go as fast along\nthe circle [centripetal force \u0026 all that]."
+    } ]
+  }, {
+    "tStartMs": 64519,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "But anyway, the point is that a super big\norbit takes basically forever, and the closer"
+    } ]
+  }, {
+    "tStartMs": 68060,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "you get the less and less time an orbit takes."
+    } ]
+  }, {
+    "tStartMs": 70570,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "So [by the intermediate value theorem,] somewhere\nin there is a time that's exactly in sync"
+    } ]
+  }, {
+    "tStartMs": 72990,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "with the amount of time it takes the planet\nitself to spin around once."
+    } ]
+  }, {
+    "tStartMs": 75780,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Hence, \"geosynchronous\" [or dog-synchronous,\nor whatever.]"
+    } ]
+  }, {
+    "tStartMs": 77760,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "And when you orbit in exactly the same time\nit takes the planet to spin, for someone on"
+    } ]
+  }, {
+    "tStartMs": 81340,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "the planet, you appear to just float overhead."
+    } ]
+  }, {
+    "tStartMs": 82799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "[*onscreen note: again, technically that's\nonly true for geostationary orbits... geosynchronous"
+    } ]
+  }, {
+    "tStartMs": 83799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "ones have a bit of side-to-side drift]"
+    } ]
+  }, {
+    "tStartMs": 84799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "[If you're in an orbit that's bigger than\na geosynchronous orbit, you appear to travel"
+    } ]
+  }, {
+    "tStartMs": 85799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\"backwards\" through the sky (to the west on\nearth), and if you're closer in, then you"
+    } ]
+  }, {
+    "tStartMs": 86799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "speed ahead to the east."
+    } ]
+  }, {
+    "tStartMs": 87799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The fact that geosynchronous orbits don't\nmove relative to the surface is why they're"
+    } ]
+  }, {
+    "tStartMs": 88799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "useful:] And that's the reason geosynchronous\norbits are useful - if you can put a satellite"
+    } ]
+  }, {
+    "tStartMs": 89799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "just floating above you at all times, it'll\nalso be floating above most other people and"
+    } ]
+  }, {
+    "tStartMs": 90799,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "places on your side of the earth, too, and\nyou can use it to send messages or television"
+    } ]
+  }, {
+    "tStartMs": 93960,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "signals to them."
+    } ]
+  }, {
+    "tStartMs": 95439,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "While mountains might block the view between\nyou, the satellite will always be up there"
+    } ]
+  }, {
+    "tStartMs": 98439,
+    "dDurationMs": 1511,
+    "segs": [ {
+      "utf8": "with a clear line of sight."
+    } ]
+  }, {
+    "tStartMs": 99950,
+    "dDurationMs": 2809,
+    "segs": [ {
+      "utf8": "But there are two potential problems with\ngeosynchronous orbits."
+    } ]
+  }, {
+    "tStartMs": 102759,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "The first is: they don't always exist."
+    } ]
+  }, {
+    "tStartMs": 105210,
+    "dDurationMs": 4089,
+    "segs": [ {
+      "utf8": "The faster a planet is rotating, the closer\nyou have to be to it in order to be in a geosynchronous"
+    } ]
+  }, {
+    "tStartMs": 109299,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "orbit, so what if the planet is spinning so\nfast you'd have to be inside it to be in sync?"
+    } ]
+  }, {
+    "tStartMs": 113420,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Well that's certainly a potential problem\nif you're orbiting a ball or a dog or something"
+    } ]
+  }, {
+    "tStartMs": 116750,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "held together by internal tension forces [electromagnetic\nforces]: a solid steel ball with a 1meter"
+    } ]
+  }, {
+    "tStartMs": 120560,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "radius spinning once per hour has geosynchronous\norbits that are inside it."
+    } ]
+  }, {
+    "tStartMs": 124659,
+    "dDurationMs": 5231,
+    "segs": [ {
+      "utf8": "But most things you can orbit are held together\nby gravity - the same force that causes you"
+    } ]
+  }, {
+    "tStartMs": 129890,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "to orbit - and a planet that's held together\nby gravity can only spin so fast before bits"
+    } ]
+  }, {
+    "tStartMs": 134190,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "of the planet itself start getting flung off."
+    } ]
+  }, {
+    "tStartMs": 136510,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "When a planet is spinning at this maximum\nspeed, the physics works out that a geosynchronous"
+    } ]
+  }, {
+    "tStartMs": 140240,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "orbit would exactly coincide with the surface\nof the planet."
+    } ]
+  }, {
+    "tStartMs": 145080,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "For any slower spin rate, a geosynchronous\norbit is farther from the planet's surface."
+    } ]
+  }, {
+    "tStartMs": 152840,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "So if you're orbiting something like the earth,\nwhich is basically a pile of rock held together"
+    } ]
+  }, {
+    "tStartMs": 156140,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "by gravity, there will always technically\nbe geosynchronous orbits."
+    } ]
+  }, {
+    "tStartMs": 159290,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And this brings us to the second potential\nproblem with geosynchronous orbits: even if"
+    } ]
+  }, {
+    "tStartMs": 163330,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "they exist, they're not guaranteed to be useful."
+    } ]
+  }, {
+    "tStartMs": 165420,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "If a planet is spinning quickly, geosynchronous\norbits around it might be too close to see"
+    } ]
+  }, {
+    "tStartMs": 169099,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "much of the planet's surface."
+    } ]
+  }, {
+    "tStartMs": 170140,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "For example, if earth took 90 minutes to spin\ninstead of 24 hours, geosynchronous orbits"
+    } ]
+  }, {
+    "tStartMs": 174800,
+    "dDurationMs": 4019,
+    "segs": [ {
+      "utf8": "would be at an altitude of around 280 kilometers\n– beneath the orbit of the international"
+    } ]
+  }, {
+    "tStartMs": 178819,
+    "dDurationMs": 3611,
+    "segs": [ {
+      "utf8": "space station – and satellites there could\nonly see 2% of the earth's surface at one"
+    } ]
+  }, {
+    "tStartMs": 182430,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "time – not very useful for communications!"
+    } ]
+  }, {
+    "tStartMs": 184560,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "On the other hand, if a planet is spinning\ntoo slowly, geosynchronous orbits will be"
+    } ]
+  }, {
+    "tStartMs": 188620,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "super far away."
+    } ]
+  }, {
+    "tStartMs": 189860,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Sure, a satellite might see nearly half of\nthe planet's surface from there, but it would"
+    } ]
+  }, {
+    "tStartMs": 193190,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "be much harder to put satellites into that\norbit, you'd need super powerful antennas"
+    } ]
+  }, {
+    "tStartMs": 196580,
+    "dDurationMs": 3219,
+    "segs": [ {
+      "utf8": "to send signals back and forth, and there\nwould be a long delay while you wait for the"
+    } ]
+  }, {
+    "tStartMs": 199799,
+    "dDurationMs": 1671,
+    "segs": [ {
+      "utf8": "signal to get there and back."
+    } ]
+  }, {
+    "tStartMs": 201470,
+    "dDurationMs": 4579,
+    "segs": [ {
+      "utf8": "For example, satellites in a geosynchronous\norbit around Venus - I mean, a venusynchronous"
+    } ]
+  }, {
+    "tStartMs": 206049,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "orbit - would be 4 times farther from Venus\nthan the distance from the earth to the moon,"
+    } ]
+  }, {
+    "tStartMs": 209409,
+    "dDurationMs": 5441,
+    "segs": [ {
+      "utf8": "so all communications signals would have a\n10-second round-trip delay: Satellite TV wouldn't"
+    } ]
+  }, {
+    "tStartMs": 214850,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "work on Venus."
+    } ]
+  }, {
+    "tStartMs": 216409,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "And a geosynchronous orbit around the sun\n- I mean, a helio-synchronous orbit - would"
+    } ]
+  }, {
+    "tStartMs": 220110,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "be half way to the planet Mercury with a nearly\n3 minute round-trip signal delay!"
+    } ]
+  }, {
+    "tStartMs": 223410,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "[note: a day on the sun is not well defined\nsince different parts of it rotate at different"
+    } ]
+  }, {
+    "tStartMs": 224410,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "speeds]."
+    } ]
+  }, {
+    "tStartMs": 225410,
+    "dDurationMs": 3029,
+    "segs": [ {
+      "utf8": "So as weird as geosynchronous orbits are,\nit's perhaps even weirder that we happen to"
+    } ]
+  }, {
+    "tStartMs": 228439,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "live on a planet that's not just in the goldilocks\nzone for life, but also in the goldilocks"
+    } ]
+  }, {
+    "tStartMs": 232689,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "zone for satellite TV."
+    } ]
+  }, {
+    "tStartMs": 239659,
+    "dDurationMs": 2861,
+    "segs": [ {
+      "utf8": "This video was sponsored in part by GiveWell,\nthe non-profit that researches \u0026 vets other"
+    } ]
+  }, {
+    "tStartMs": 242520,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "charities for you."
+    } ]
+  }, {
+    "tStartMs": 243890,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "In particular, GiveWell searches out the non-profits\nthat immediately and directly benefit or save"
+    } ]
+  }, {
+    "tStartMs": 247599,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "the most peoples' lives for the least money,\nlike health \u0026 economic programs in developing"
+    } ]
+  }, {
+    "tStartMs": 251739,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "countries."
+    } ]
+  }, {
+    "tStartMs": 252739,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "You can look at GiveWell's full charity recommendation\nlist on their website, and you can also give"
+    } ]
+  }, {
+    "tStartMs": 256049,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "directly to any of those charities (or to\na fund directed to a few current top choices)"
+    } ]
+  }, {
+    "tStartMs": 259299,
+    "dDurationMs": 2951,
+    "segs": [ {
+      "utf8": "through GiveWell; 100% of your donation goes\nto the charities."
+    } ]
+  }, {
+    "tStartMs": 262250,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "On top of that, Givewell is matching donations\nfrom first time donors dollar for dollar up"
+    } ]
+  }, {
+    "tStartMs": 266120,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "to 100 dollars."
+    } ]
+  }, {
+    "tStartMs": 267240,
+    "dDurationMs": 3649,
+    "segs": [ {
+      "utf8": "Go to Givewell.org to donate, and to make\nsure your donation gets matched, at checkout"
+    } ]
+  }, {
+    "tStartMs": 270889,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "on the \"how did you hear about GiveWell\" question,\nselect \"YouTube\" and then \"Minutephysics\"."
+    } ]
+  }, {
+    "tStartMs": 276250,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Again, that's \"Youtube\" with fundraiser code\nminutephysics and your donation to GiveWell"
+    } ]
+  }, {
+    "tStartMs": 282810,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "recommended charities will get matched up\nto 100 dollars."
+    } ]
+  } ]
+}

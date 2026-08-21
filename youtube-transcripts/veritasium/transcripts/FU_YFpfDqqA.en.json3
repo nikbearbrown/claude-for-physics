@@ -1,0 +1,2887 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- [Derek] The modern era of electronics"
+    } ]
+  }, {
+    "tStartMs": 2070,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "began with the light bulb"
+    } ]
+  }, {
+    "tStartMs": 4860,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "but not in the way you might think."
+    } ]
+  }, {
+    "tStartMs": 8010,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Early light bulbs consisted\nof a carbon filament"
+    } ]
+  }, {
+    "tStartMs": 10290,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "sealed inside a glass bulb"
+    } ]
+  }, {
+    "tStartMs": 11851,
+    "dDurationMs": 2189,
+    "segs": [ {
+      "utf8": "with a vacuum inside."
+    } ]
+  }, {
+    "tStartMs": 14040,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "When a potential difference was\napplied across the filament,"
+    } ]
+  }, {
+    "tStartMs": 16830,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "current flowed through it,"
+    } ]
+  }, {
+    "tStartMs": 18510,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "heating it up to over 2000 Kelvin,"
+    } ]
+  }, {
+    "tStartMs": 21210,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "so hot that it glowed."
+    } ]
+  }, {
+    "tStartMs": 23430,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "If there had been much oxygen in the bulb,"
+    } ]
+  }, {
+    "tStartMs": 25620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "the filament would've burned immediately."
+    } ]
+  }, {
+    "tStartMs": 28140,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "That was the reason for the vacuum."
+    } ]
+  }, {
+    "tStartMs": 30630,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "But from the perspective of electronics,"
+    } ]
+  }, {
+    "tStartMs": 32790,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "the real breakthrough came\nfrom a curious observation"
+    } ]
+  }, {
+    "tStartMs": 35580,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "made by Thomas Edison."
+    } ]
+  }, {
+    "tStartMs": 38340,
+    "dDurationMs": 2172,
+    "segs": [ {
+      "utf8": "He saw that over a bulb's lifetime,"
+    } ]
+  }, {
+    "tStartMs": 40512,
+    "dDurationMs": 2688,
+    "segs": [ {
+      "utf8": "the glass became discolored,"
+    } ]
+  }, {
+    "tStartMs": 43200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "turning yellow, and then brown,"
+    } ]
+  }, {
+    "tStartMs": 45600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but only on one side."
+    } ]
+  }, {
+    "tStartMs": 48360,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "So what was going on?"
+    } ]
+  }, {
+    "tStartMs": 51180,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Well, the heated filament\nemits not only light and heat"
+    } ]
+  }, {
+    "tStartMs": 54840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "but also electrons."
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 2524,
+    "segs": [ {
+      "utf8": "You can think of them being\nboiled off the surface"
+    } ]
+  }, {
+    "tStartMs": 59524,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "of the carbon."
+    } ]
+  }, {
+    "tStartMs": 61290,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "This phenomenon, known\nas thermionic emission,"
+    } ]
+  }, {
+    "tStartMs": 64020,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "had twice been discovered independently"
+    } ]
+  }, {
+    "tStartMs": 66090,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "by other scientists up\nto 27 years earlier."
+    } ]
+  }, {
+    "tStartMs": 69390,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "But after Edison, it became widely known."
+    } ]
+  }, {
+    "tStartMs": 73020,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "In fact, for a time,"
+    } ]
+  }, {
+    "tStartMs": 74070,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "the emission of electrons\noff a hot filament"
+    } ]
+  }, {
+    "tStartMs": 76290,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "was called the Edison effect."
+    } ]
+  }, {
+    "tStartMs": 78990,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Now, these electrons floating\naround were unobstructed"
+    } ]
+  }, {
+    "tStartMs": 81923,
+    "dDurationMs": 2287,
+    "segs": [ {
+      "utf8": "because they're in a vacuum."
+    } ]
+  }, {
+    "tStartMs": 84210,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "But since there was a potential difference"
+    } ]
+  }, {
+    "tStartMs": 85950,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "across the wires that led to the filament,"
+    } ]
+  }, {
+    "tStartMs": 87990,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "the electrons were attracted\nto the positive wire."
+    } ]
+  }, {
+    "tStartMs": 91380,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So they accelerated towards it"
+    } ]
+  }, {
+    "tStartMs": 93690,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "and most would whizz straight past it"
+    } ]
+  }, {
+    "tStartMs": 95773,
+    "dDurationMs": 2237,
+    "segs": [ {
+      "utf8": "and crash into the glass,"
+    } ]
+  }, {
+    "tStartMs": 98010,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "over time discoloring it\nonly on the positive side."
+    } ]
+  }, {
+    "tStartMs": 102810,
+    "dDurationMs": 2448,
+    "segs": [ {
+      "utf8": "I should note that Edison\nwas using DC electricity."
+    } ]
+  }, {
+    "tStartMs": 105258,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "If he had been using AC,"
+    } ]
+  }, {
+    "tStartMs": 107460,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "then both sides would've been discolored."
+    } ]
+  }, {
+    "tStartMs": 110580,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "But it was this observation\nthat set the scene"
+    } ]
+  }, {
+    "tStartMs": 113040,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "for an electronics revolution,"
+    } ]
+  }, {
+    "tStartMs": 114810,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "and eventually the\nfirst digital computers."
+    } ]
+  }, {
+    "tStartMs": 119910,
+    "dDurationMs": 2858,
+    "segs": [ {
+      "utf8": "In 1904, John Ambrose\nFleming patented a device"
+    } ]
+  }, {
+    "tStartMs": 122768,
+    "dDurationMs": 2932,
+    "segs": [ {
+      "utf8": "that was very similar\nto Edison's light bulb,"
+    } ]
+  }, {
+    "tStartMs": 125700,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but with one important addition:"
+    } ]
+  }, {
+    "tStartMs": 128220,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "a second electrode in the bulb."
+    } ]
+  }, {
+    "tStartMs": 130980,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "By charging this plate positively"
+    } ]
+  }, {
+    "tStartMs": 132661,
+    "dDurationMs": 1649,
+    "segs": [ {
+      "utf8": "with respect to the filament,"
+    } ]
+  }, {
+    "tStartMs": 134310,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "electrons could be\naccelerated across the gap,"
+    } ]
+  }, {
+    "tStartMs": 136890,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "completing the circuit."
+    } ]
+  }, {
+    "tStartMs": 138600,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "But if the plate were slightly negative"
+    } ]
+  }, {
+    "tStartMs": 140430,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "relative to the filament,"
+    } ]
+  }, {
+    "tStartMs": 141660,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "then it would repel electrons"
+    } ]
+  }, {
+    "tStartMs": 143220,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and no current would flow."
+    } ]
+  }, {
+    "tStartMs": 145380,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Fleming called his device a\none-way street for electricity."
+    } ]
+  }, {
+    "tStartMs": 149460,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Since only one of the\nelectrodes was heated,"
+    } ]
+  }, {
+    "tStartMs": 151920,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "electrons could only flow\nfrom there to the plate"
+    } ]
+  }, {
+    "tStartMs": 154770,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "and not the other way around."
+    } ]
+  }, {
+    "tStartMs": 157110,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "The device was called a thermionic diode"
+    } ]
+  }, {
+    "tStartMs": 159840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and it was used initially\nfor detecting radio signals"
+    } ]
+  }, {
+    "tStartMs": 163320,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "but it could also convert"
+    } ]
+  }, {
+    "tStartMs": 164700,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "alternating current to direct current."
+    } ]
+  }, {
+    "tStartMs": 168210,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Scientists quickly realized\nthat a more efficient design"
+    } ]
+  }, {
+    "tStartMs": 171180,
+    "dDurationMs": 1322,
+    "segs": [ {
+      "utf8": "had the filament in the center"
+    } ]
+  }, {
+    "tStartMs": 172502,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "and the other electrode\nto the plate or anode"
+    } ]
+  }, {
+    "tStartMs": 174962,
+    "dDurationMs": 2518,
+    "segs": [ {
+      "utf8": "as a cylinder surrounding it."
+    } ]
+  }, {
+    "tStartMs": 177480,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "This geometry captured\nmore of the electrons"
+    } ]
+  }, {
+    "tStartMs": 179713,
+    "dDurationMs": 1427,
+    "segs": [ {
+      "utf8": "coming off the filament"
+    } ]
+  }, {
+    "tStartMs": 181140,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "and allowed for larger currents to flow."
+    } ]
+  }, {
+    "tStartMs": 186684,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "-  Oh, there she goes."
+    } ]
+  }, {
+    "tStartMs": 189270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- [Derek] With just one of these diodes,"
+    } ]
+  }, {
+    "tStartMs": 190890,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "you could convert AC\ninto a bumpy kind of DC."
+    } ]
+  }, {
+    "tStartMs": 195240,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "But combining a few diodes and a capacitor"
+    } ]
+  }, {
+    "tStartMs": 197260,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "led to a fairly steady direct current,"
+    } ]
+  }, {
+    "tStartMs": 201030,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "and this was a big deal."
+    } ]
+  }, {
+    "tStartMs": 202590,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "It was the first practical\nvacuum tube device"
+    } ]
+  }, {
+    "tStartMs": 205440,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and the model for all vacuum tubes"
+    } ]
+  }, {
+    "tStartMs": 207660,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "that would dominate the industry"
+    } ]
+  }, {
+    "tStartMs": 208890,
+    "dDurationMs": 1563,
+    "segs": [ {
+      "utf8": "for the next half century."
+    } ]
+  }, {
+    "tStartMs": 213450,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "In the early 1900s,"
+    } ]
+  }, {
+    "tStartMs": 214740,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "the big problem in\nelectronics was amplification."
+    } ]
+  }, {
+    "tStartMs": 217890,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Radio had just been invented"
+    } ]
+  }, {
+    "tStartMs": 219690,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "but its range was limited"
+    } ]
+  }, {
+    "tStartMs": 221100,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "by the lack of reliable equipment"
+    } ]
+  }, {
+    "tStartMs": 222840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "that could boost weak signals."
+    } ]
+  }, {
+    "tStartMs": 224940,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Similarly, telephone calls were limited"
+    } ]
+  }, {
+    "tStartMs": 227040,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to at most 1300 kilometers"
+    } ]
+  }, {
+    "tStartMs": 229680,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "because by that point,"
+    } ]
+  }, {
+    "tStartMs": 230850,
+    "dDurationMs": 2694,
+    "segs": [ {
+      "utf8": "the signal was two faint to hear."
+    } ]
+  }, {
+    "tStartMs": 233544,
+    "dDurationMs": 2397,
+    "segs": [ {
+      "utf8": "Rudimentary form of\namplification had been built"
+    } ]
+  }, {
+    "tStartMs": 235941,
+    "dDurationMs": 3459,
+    "segs": [ {
+      "utf8": "for telegraph operation called the relay."
+    } ]
+  }, {
+    "tStartMs": 239400,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "In a relay, there is an electromagnet."
+    } ]
+  }, {
+    "tStartMs": 241980,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And when current flows\nthrough that electromagnet,"
+    } ]
+  }, {
+    "tStartMs": 244380,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "it attracts a switch,"
+    } ]
+  }, {
+    "tStartMs": 246180,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "turning on a second circuit."
+    } ]
+  }, {
+    "tStartMs": 248340,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "But when the current through\nthe electromagnet stops,"
+    } ]
+  }, {
+    "tStartMs": 250470,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "the switch is released"
+    } ]
+  }, {
+    "tStartMs": 251820,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and the second circuit is open again."
+    } ]
+  }, {
+    "tStartMs": 254400,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "This device works well for amplifying"
+    } ]
+  }, {
+    "tStartMs": 256350,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the dots and dashes of Morse\ncode along a telegraph line"
+    } ]
+  }, {
+    "tStartMs": 259710,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "but its binary output means it's incapable"
+    } ]
+  }, {
+    "tStartMs": 261930,
+    "dDurationMs": 3053,
+    "segs": [ {
+      "utf8": "of amplifying the complex\nand analog signals"
+    } ]
+  }, {
+    "tStartMs": 264983,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "of phone calls and radio waves."
+    } ]
+  }, {
+    "tStartMs": 268800,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "And that's why it was such\na breakthrough in 1906"
+    } ]
+  }, {
+    "tStartMs": 271530,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "when Lee de Forest took the diode"
+    } ]
+  }, {
+    "tStartMs": 273720,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and added another electrode into the bulb."
+    } ]
+  }, {
+    "tStartMs": 276750,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "This electrode wasn't\na solid piece of metal"
+    } ]
+  }, {
+    "tStartMs": 279630,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "but rather a sparse wire mesh"
+    } ]
+  }, {
+    "tStartMs": 282240,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and it was positioned in\nbetween the filament or cathode"
+    } ]
+  }, {
+    "tStartMs": 285660,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and the anode."
+    } ]
+  }, {
+    "tStartMs": 287280,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "With three electrodes,\nit was called a triode."
+    } ]
+  }, {
+    "tStartMs": 290910,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Now, a large potential\ndifference could be applied"
+    } ]
+  }, {
+    "tStartMs": 293250,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "across the anode and cathode"
+    } ]
+  }, {
+    "tStartMs": 295380,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "but the number of electrons"
+    } ]
+  }, {
+    "tStartMs": 296520,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "that actually flowed between them"
+    } ]
+  }, {
+    "tStartMs": 298560,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "was controlled by the voltage on the grid,"
+    } ]
+  }, {
+    "tStartMs": 301350,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "as this new electrode was known."
+    } ]
+  }, {
+    "tStartMs": 303600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "If the grid were slightly\nnegatively charged,"
+    } ]
+  }, {
+    "tStartMs": 305760,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "it repelled electrons from the filament"
+    } ]
+  }, {
+    "tStartMs": 307890,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "so that none could flow\nthrough to the anode."
+    } ]
+  }, {
+    "tStartMs": 310290,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "But if the grid were slightly positive,"
+    } ]
+  }, {
+    "tStartMs": 312300,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "then electrons were attracted\naway from the filament"
+    } ]
+  }, {
+    "tStartMs": 315480,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and most of them would pass\nthrough the holes in the grid,"
+    } ]
+  }, {
+    "tStartMs": 318030,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and then accelerate to the anode."
+    } ]
+  }, {
+    "tStartMs": 320580,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So in this way, a small\nchange in voltage on the grid"
+    } ]
+  }, {
+    "tStartMs": 324300,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "can control a huge voltage at the anode"
+    } ]
+  }, {
+    "tStartMs": 327540,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and the response is rapid."
+    } ]
+  }, {
+    "tStartMs": 329040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So you can get high\nfrequency amplification."
+    } ]
+  }, {
+    "tStartMs": 332520,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "I like to think of it"
+    } ]
+  }, {
+    "tStartMs": 333630,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "as standing at the top of a high cliff,"
+    } ]
+  }, {
+    "tStartMs": 336180,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "opening and closing a\nvalve on a big water pipe."
+    } ]
+  }, {
+    "tStartMs": 339630,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "I mean, it doesn't take much\nenergy to turn the valve"
+    } ]
+  }, {
+    "tStartMs": 342690,
+    "dDurationMs": 1852,
+    "segs": [ {
+      "utf8": "but that small input is converted"
+    } ]
+  }, {
+    "tStartMs": 344542,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "into a huge output of water\nfalling down the cliff."
+    } ]
+  }, {
+    "tStartMs": 350730,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "- [Derek] You're powering\nup this track here."
+    } ]
+  }, {
+    "tStartMs": 352299,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "- [David] Warming up, you\ncan see it warming up there."
+    } ]
+  }, {
+    "tStartMs": 354510,
+    "dDurationMs": 1552,
+    "segs": [ {
+      "utf8": "- [Derek] So the yellow is the input?"
+    } ]
+  }, {
+    "tStartMs": 356062,
+    "dDurationMs": 1298,
+    "segs": [ {
+      "utf8": "- [David] Yellow is the input."
+    } ]
+  }, {
+    "tStartMs": 357360,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Purple is the output."
+    } ]
+  }, {
+    "tStartMs": 358620,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "We have essentially a two-volt change"
+    } ]
+  }, {
+    "tStartMs": 360247,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "on the input giving us, what is this?"
+    } ]
+  }, {
+    "tStartMs": 362250,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Five volts, so five, 10,\n15-volt change on the output."
+    } ]
+  }, {
+    "tStartMs": 366360,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "- [Derek] For this demonstration,"
+    } ]
+  }, {
+    "tStartMs": 367680,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "we were only using 24 volts on the anode."
+    } ]
+  }, {
+    "tStartMs": 370290,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "If we had used a higher voltage,"
+    } ]
+  }, {
+    "tStartMs": 371820,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "we could have got a lot more amplification"
+    } ]
+  }, {
+    "tStartMs": 374520,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "and people did."
+    } ]
+  }, {
+    "tStartMs": 376650,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "This was the device that allowed us"
+    } ]
+  }, {
+    "tStartMs": 378660,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "to call long distance for the first time."
+    } ]
+  }, {
+    "tStartMs": 381390,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Using vacuum tubes,"
+    } ]
+  }, {
+    "tStartMs": 382440,
+    "dDurationMs": 1532,
+    "segs": [ {
+      "utf8": "the first transcontinental call"
+    } ]
+  }, {
+    "tStartMs": 383972,
+    "dDurationMs": 1858,
+    "segs": [ {
+      "utf8": "from New York to San Francisco"
+    } ]
+  }, {
+    "tStartMs": 385830,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "took place on the 25th of January, 1915."
+    } ]
+  }, {
+    "tStartMs": 391710,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "- [Derek] Whoa."
+    } ]
+  }, {
+    "tStartMs": 393000,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "- [David] Yeah, there we go,"
+    } ]
+  }, {
+    "tStartMs": 394290,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "should be 10 volts."
+    } ]
+  }, {
+    "tStartMs": 396090,
+    "dDurationMs": 1646,
+    "segs": [ {
+      "utf8": "- [Derek] It's hard to see the grid here"
+    } ]
+  }, {
+    "tStartMs": 397736,
+    "dDurationMs": 3244,
+    "segs": [ {
+      "utf8": "because just like with\nthe cylindrical diode,"
+    } ]
+  }, {
+    "tStartMs": 400980,
+    "dDurationMs": 1508,
+    "segs": [ {
+      "utf8": "the best configuration for a triode"
+    } ]
+  }, {
+    "tStartMs": 402488,
+    "dDurationMs": 2632,
+    "segs": [ {
+      "utf8": "is to have a cylindrical configuration."
+    } ]
+  }, {
+    "tStartMs": 405120,
+    "dDurationMs": 1258,
+    "segs": [ {
+      "utf8": "The anode is on the outside,"
+    } ]
+  }, {
+    "tStartMs": 406378,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "the grid is cylindrically inside that,"
+    } ]
+  }, {
+    "tStartMs": 408361,
+    "dDurationMs": 3122,
+    "segs": [ {
+      "utf8": "and the cathode or\nfilament is in the center."
+    } ]
+  }, {
+    "tStartMs": 412530,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "The invention of the triode\nwas incredibly important."
+    } ]
+  }, {
+    "tStartMs": 415140,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Radios, TVs, whatever\nelectronics people had"
+    } ]
+  }, {
+    "tStartMs": 418830,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "were powered by vacuum tubes."
+    } ]
+  }, {
+    "tStartMs": 420810,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You would've had so many in your house"
+    } ]
+  }, {
+    "tStartMs": 422730,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "even up until the 1960s and '70s."
+    } ]
+  }, {
+    "tStartMs": 425760,
+    "dDurationMs": 3543,
+    "segs": [ {
+      "utf8": "But vacuum tubes weren't done\nrevolutionizing electronics."
+    } ]
+  }, {
+    "tStartMs": 430500,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "In his 1937 thesis,"
+    } ]
+  }, {
+    "tStartMs": 432630,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Claude Shannon found a connection\nbetween electric circuits"
+    } ]
+  }, {
+    "tStartMs": 435810,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and a branch of mathematics\nknown as Boolean algebra."
+    } ]
+  }, {
+    "tStartMs": 439410,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Working in the mid-1800s,"
+    } ]
+  }, {
+    "tStartMs": 441390,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "George Boole was trying to find"
+    } ]
+  }, {
+    "tStartMs": 443340,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "a mathematical foundation for logic."
+    } ]
+  }, {
+    "tStartMs": 445710,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Under his system,"
+    } ]
+  }, {
+    "tStartMs": 446730,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "a true statement was represented"
+    } ]
+  }, {
+    "tStartMs": 448320,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "as a 1 and a false statement as a 0."
+    } ]
+  }, {
+    "tStartMs": 451380,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And Boole also developed\na few operations like AND."
+    } ]
+  }, {
+    "tStartMs": 455340,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "If both statements A and B were true,"
+    } ]
+  }, {
+    "tStartMs": 457423,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "then the output would also be true."
+    } ]
+  }, {
+    "tStartMs": 461310,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "What Shannon realized is\nthat Boole's operations"
+    } ]
+  }, {
+    "tStartMs": 463920,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "could be represented\nas electronic circuits,"
+    } ]
+  }, {
+    "tStartMs": 466620,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "that there was an equivalence"
+    } ]
+  }, {
+    "tStartMs": 468090,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "between mathematical statements"
+    } ]
+  }, {
+    "tStartMs": 470190,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and electric circuits."
+    } ]
+  }, {
+    "tStartMs": 471990,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "All you needed to realize these\ncircuits in the real world"
+    } ]
+  }, {
+    "tStartMs": 475110,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "were a couple switches."
+    } ]
+  }, {
+    "tStartMs": 477780,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "That same year, 1937,"
+    } ]
+  }, {
+    "tStartMs": 479820,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "George Stibitz built the\nfirst digital calculator."
+    } ]
+  }, {
+    "tStartMs": 482910,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "It could add two 1-bit binary numbers."
+    } ]
+  }, {
+    "tStartMs": 486330,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That is it could add two numbers"
+    } ]
+  }, {
+    "tStartMs": 488250,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "so long as they were either 0 or 1."
+    } ]
+  }, {
+    "tStartMs": 491070,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "The calculator worked using a relay,"
+    } ]
+  }, {
+    "tStartMs": 493500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that electromechanical\nswitch from telegraphy."
+    } ]
+  }, {
+    "tStartMs": 496500,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "There were two inputs."
+    } ]
+  }, {
+    "tStartMs": 497880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "If they were left open, the input was 0."
+    } ]
+  }, {
+    "tStartMs": 500520,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "If closed, it was a 1."
+    } ]
+  }, {
+    "tStartMs": 502770,
+    "dDurationMs": 2513,
+    "segs": [ {
+      "utf8": "The output was shown with two light bulbs."
+    } ]
+  }, {
+    "tStartMs": 505283,
+    "dDurationMs": 1687,
+    "segs": [ {
+      "utf8": "If no lights were on,"
+    } ]
+  }, {
+    "tStartMs": 506970,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "the answer was 0."
+    } ]
+  }, {
+    "tStartMs": 508260,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "If the output light was on,"
+    } ]
+  }, {
+    "tStartMs": 509730,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "the answer was 1."
+    } ]
+  }, {
+    "tStartMs": 510810,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "And if the carry light was on,"
+    } ]
+  }, {
+    "tStartMs": 512100,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "the answer was a 2."
+    } ]
+  }, {
+    "tStartMs": 513630,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "The circuit diagram works like this."
+    } ]
+  }, {
+    "tStartMs": 516690,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "If neither switch A or B is closed,"
+    } ]
+  }, {
+    "tStartMs": 519420,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "so adding 0 + 0,"
+    } ]
+  }, {
+    "tStartMs": 521250,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "then no current flows through the circuit"
+    } ]
+  }, {
+    "tStartMs": 523440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and no light bulb would light up."
+    } ]
+  }, {
+    "tStartMs": 525600,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "But if input A was closed,"
+    } ]
+  }, {
+    "tStartMs": 527550,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "the current would flow\nthrough the solenoid,"
+    } ]
+  }, {
+    "tStartMs": 529200,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "creating a magnetic field"
+    } ]
+  }, {
+    "tStartMs": 530820,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "that pulls the switch inside it closed,"
+    } ]
+  }, {
+    "tStartMs": 533460,
+    "dDurationMs": 2385,
+    "segs": [ {
+      "utf8": "and this connects the\noutput light bulb to power"
+    } ]
+  }, {
+    "tStartMs": 535845,
+    "dDurationMs": 2175,
+    "segs": [ {
+      "utf8": "and disconnects the carry light bulb."
+    } ]
+  }, {
+    "tStartMs": 538020,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "So the output light bulb lights up,"
+    } ]
+  }, {
+    "tStartMs": 540510,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "meaning that the answer is 1."
+    } ]
+  }, {
+    "tStartMs": 542430,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "And the same thing would happen"
+    } ]
+  }, {
+    "tStartMs": 543540,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "when input B was closed and A was open."
+    } ]
+  }, {
+    "tStartMs": 547050,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "But if you closed both\nA and B simultaneously,"
+    } ]
+  }, {
+    "tStartMs": 549609,
+    "dDurationMs": 3501,
+    "segs": [ {
+      "utf8": "then there is no current\nflowing through the solenoid"
+    } ]
+  }, {
+    "tStartMs": 553110,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "but there would be a current flowing"
+    } ]
+  }, {
+    "tStartMs": 554970,
+    "dDurationMs": 1278,
+    "segs": [ {
+      "utf8": "from the battery connected to A,"
+    } ]
+  }, {
+    "tStartMs": 556248,
+    "dDurationMs": 2472,
+    "segs": [ {
+      "utf8": "which is connected to\nthe carry light bulb."
+    } ]
+  }, {
+    "tStartMs": 558720,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "So it lights up indicating 1 + 1 equals 2."
+    } ]
+  }, {
+    "tStartMs": 563070,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "This is the beginning of the digital age,"
+    } ]
+  }, {
+    "tStartMs": 565239,
+    "dDurationMs": 2391,
+    "segs": [ {
+      "utf8": "and no it was not glamorous."
+    } ]
+  }, {
+    "tStartMs": 567630,
+    "dDurationMs": 2909,
+    "segs": [ {
+      "utf8": "Stibitz built his device\nout of a few batteries,"
+    } ]
+  }, {
+    "tStartMs": 570539,
+    "dDurationMs": 3091,
+    "segs": [ {
+      "utf8": "light bulbs, and relays\nhe had lying around."
+    } ]
+  }, {
+    "tStartMs": 573630,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And for the inputs, he\ncut up a tin of tobacco."
+    } ]
+  }, {
+    "tStartMs": 577050,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "He built it in one night\nat his kitchen table"
+    } ]
+  }, {
+    "tStartMs": 579450,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "which is why it became\nknown as the Model K."
+    } ]
+  }, {
+    "tStartMs": 582720,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "The circuit that Stibitz built"
+    } ]
+  }, {
+    "tStartMs": 584160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is now called a half adder."
+    } ]
+  }, {
+    "tStartMs": 586560,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "But if you look at the circuit"
+    } ]
+  }, {
+    "tStartMs": 587910,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "through the eyes of Claude Shannon,"
+    } ]
+  }, {
+    "tStartMs": 589650,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "you realize it's actually\na pair of logic gates."
+    } ]
+  }, {
+    "tStartMs": 593280,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "The output light bulb should turn on"
+    } ]
+  }, {
+    "tStartMs": 595290,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "when either A or B, but\nnot both, are closed,"
+    } ]
+  }, {
+    "tStartMs": 599460,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "so this is known as an exclusive OR gate."
+    } ]
+  }, {
+    "tStartMs": 602850,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Whereas the carry light\nbulb should only turn on"
+    } ]
+  }, {
+    "tStartMs": 604890,
+    "dDurationMs": 2144,
+    "segs": [ {
+      "utf8": "when both A and B are closed,"
+    } ]
+  }, {
+    "tStartMs": 607034,
+    "dDurationMs": 3106,
+    "segs": [ {
+      "utf8": "so this is an AND gate."
+    } ]
+  }, {
+    "tStartMs": 610140,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "This circuit uses electrical versions"
+    } ]
+  }, {
+    "tStartMs": 612300,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "of Boolean operators, XOR and AND."
+    } ]
+  }, {
+    "tStartMs": 615570,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And it's possible to build\nother Boolean operators"
+    } ]
+  }, {
+    "tStartMs": 617790,
+    "dDurationMs": 952,
+    "segs": [ {
+      "utf8": "as electronic gates"
+    } ]
+  }, {
+    "tStartMs": 618742,
+    "dDurationMs": 3728,
+    "segs": [ {
+      "utf8": "for things like OR, NOR, and NAND."
+    } ]
+  }, {
+    "tStartMs": 622470,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And you might say, what's the big deal?"
+    } ]
+  }, {
+    "tStartMs": 624930,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I mean, the big deal is\nthat you just tricked"
+    } ]
+  }, {
+    "tStartMs": 626640,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "a bunch of electrons\ninto doing math for you."
+    } ]
+  }, {
+    "tStartMs": 629160,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Sure, it's very simple math,"
+    } ]
+  }, {
+    "tStartMs": 630927,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "but you could connect a bunch\nof these half adders together"
+    } ]
+  }, {
+    "tStartMs": 633570,
+    "dDurationMs": 1956,
+    "segs": [ {
+      "utf8": "and build more and more\ncomplicated circuits"
+    } ]
+  }, {
+    "tStartMs": 635526,
+    "dDurationMs": 2814,
+    "segs": [ {
+      "utf8": "that could do more complex math,"
+    } ]
+  }, {
+    "tStartMs": 638340,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "which is exactly what Stibitz"
+    } ]
+  }, {
+    "tStartMs": 640080,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "and his colleagues at Bell Labs did."
+    } ]
+  }, {
+    "tStartMs": 642270,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Two years later, they built the model I,"
+    } ]
+  }, {
+    "tStartMs": 644550,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "which had more than 400 relays"
+    } ]
+  }, {
+    "tStartMs": 646680,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and could add two eight\ndigit numbers together"
+    } ]
+  }, {
+    "tStartMs": 648960,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "in a 10th of a second."
+    } ]
+  }, {
+    "tStartMs": 650490,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It could also multiply eight digit numbers"
+    } ]
+  }, {
+    "tStartMs": 652590,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and do multiplication of complex numbers,"
+    } ]
+  }, {
+    "tStartMs": 654870,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "though these more complicated\noperations took longer,"
+    } ]
+  }, {
+    "tStartMs": 657420,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "about a minute per calculation."
+    } ]
+  }, {
+    "tStartMs": 659550,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "- So you put a voltage through a coil"
+    } ]
+  }, {
+    "tStartMs": 661909,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "and it'll turn that switch on or off."
+    } ]
+  }, {
+    "tStartMs": 664470,
+    "dDurationMs": 2493,
+    "segs": [ {
+      "utf8": "So you've got your two operands here."
+    } ]
+  }, {
+    "tStartMs": 667920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And if you wanna add two numbers together,"
+    } ]
+  }, {
+    "tStartMs": 669960,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "so 2 is this,"
+    } ]
+  }, {
+    "tStartMs": 671130,
+    "dDurationMs": 1653,
+    "segs": [ {
+      "utf8": "3 is this, right?"
+    } ]
+  }, {
+    "tStartMs": 672783,
+    "dDurationMs": 3507,
+    "segs": [ {
+      "utf8": "So 1, 0 is 2."
+    } ]
+  }, {
+    "tStartMs": 676290,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] Yeah."
+    } ]
+  }, {
+    "tStartMs": 677123,
+    "dDurationMs": 2347,
+    "segs": [ {
+      "utf8": "- [David] And 1, 1 is 3."
+    } ]
+  }, {
+    "tStartMs": 679470,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "And so then when you want to calculate it,"
+    } ]
+  }, {
+    "tStartMs": 681270,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "you just hit the go button down here."
+    } ]
+  }, {
+    "tStartMs": 684300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "We get 101."
+    } ]
+  }, {
+    "tStartMs": 686100,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "- [Derek] I love the sound of that."
+    } ]
+  }, {
+    "tStartMs": 688140,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "That is amazing."
+    } ]
+  }, {
+    "tStartMs": 689010,
+    "dDurationMs": 2283,
+    "segs": [ {
+      "utf8": "- It's magical, so if\nyou wanna do like say,"
+    } ]
+  }, {
+    "tStartMs": 692157,
+    "dDurationMs": 3213,
+    "segs": [ {
+      "utf8": "8 plus, that would be 4"
+    } ]
+  }, {
+    "tStartMs": 695370,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "so 8 + 8, I think, right?"
+    } ]
+  }, {
+    "tStartMs": 697439,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [Derek] Okay."
+    } ]
+  }, {
+    "tStartMs": 698272,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [David] Yeah, 8 + 8,"
+    } ]
+  }, {
+    "tStartMs": 699105,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "that would be, 16, no,\nit clears it on its own."
+    } ]
+  }, {
+    "tStartMs": 701190,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "- [Derek] Okay."
+    } ]
+  }, {
+    "tStartMs": 702450,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "- [David] There you go."
+    } ]
+  }, {
+    "tStartMs": 704430,
+    "dDurationMs": 1989,
+    "segs": [ {
+      "utf8": "Eight plus eight is 16 in binary,"
+    } ]
+  }, {
+    "tStartMs": 706419,
+    "dDurationMs": 3294,
+    "segs": [ {
+      "utf8": "which would be 1 0 0 0 0."
+    } ]
+  }, {
+    "tStartMs": 710576,
+    "dDurationMs": 1774,
+    "segs": [ {
+      "utf8": "(machine clacking)"
+    } ]
+  }, {
+    "tStartMs": 712350,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "This is essentially a\n1-bit arithmetic unit."
+    } ]
+  }, {
+    "tStartMs": 714990,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "There's no logic functions."
+    } ]
+  }, {
+    "tStartMs": 716250,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "It only ever does add."
+    } ]
+  }, {
+    "tStartMs": 717780,
+    "dDurationMs": 2246,
+    "segs": [ {
+      "utf8": "Now, let's say we wanna do 5 - 2,"
+    } ]
+  }, {
+    "tStartMs": 720026,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "the answer's gonna be 3."
+    } ]
+  }, {
+    "tStartMs": 721560,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "So we flip this little switch here"
+    } ]
+  }, {
+    "tStartMs": 722850,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "that lets me know that I'm\ndoing a subtraction operation"
+    } ]
+  }, {
+    "tStartMs": 725340,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and we do subtraction\nby doing 2's complement."
+    } ]
+  }, {
+    "tStartMs": 728190,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "So essentially what we're doing"
+    } ]
+  }, {
+    "tStartMs": 729180,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is we're inverting one of the operands"
+    } ]
+  }, {
+    "tStartMs": 731580,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and we're adding one."
+    } ]
+  }, {
+    "tStartMs": 733200,
+    "dDurationMs": 981,
+    "segs": [ {
+      "utf8": "So now when I run it,"
+    } ]
+  }, {
+    "tStartMs": 734181,
+    "dDurationMs": 1539,
+    "segs": [ {
+      "utf8": "(machine clacking)"
+    } ]
+  }, {
+    "tStartMs": 735720,
+    "dDurationMs": 2489,
+    "segs": [ {
+      "utf8": "we can see 5 - 2 is equal to 3,"
+    } ]
+  }, {
+    "tStartMs": 738209,
+    "dDurationMs": 1896,
+    "segs": [ {
+      "utf8": "so 2 and 1 is 3."
+    } ]
+  }, {
+    "tStartMs": 740105,
+    "dDurationMs": 2105,
+    "segs": [ {
+      "utf8": "Now, because of the way that we do this,"
+    } ]
+  }, {
+    "tStartMs": 742210,
+    "dDurationMs": 1258,
+    "segs": [ {
+      "utf8": "the final carry flag"
+    } ]
+  }, {
+    "tStartMs": 743468,
+    "dDurationMs": 2092,
+    "segs": [ {
+      "utf8": "ends up getting illuminated\nhere on the end."
+    } ]
+  }, {
+    "tStartMs": 745560,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "But if we know that we're\ndoing a subtraction operation,"
+    } ]
+  }, {
+    "tStartMs": 748650,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "we know that this final carry flag"
+    } ]
+  }, {
+    "tStartMs": 750030,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "is never going to be on otherwise."
+    } ]
+  }, {
+    "tStartMs": 752940,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- [Derek] Over the next 10 years,"
+    } ]
+  }, {
+    "tStartMs": 754050,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "they built six more\ncomputers based on relays"
+    } ]
+  }, {
+    "tStartMs": 756630,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "which were used by the US military"
+    } ]
+  }, {
+    "tStartMs": 758520,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "and the National Advisory Committee"
+    } ]
+  }, {
+    "tStartMs": 760080,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "for Astronautics or NACA,"
+    } ]
+  }, {
+    "tStartMs": 762660,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "which later would become NASA."
+    } ]
+  }, {
+    "tStartMs": 764970,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "But even by the early 1940s,"
+    } ]
+  }, {
+    "tStartMs": 766514,
+    "dDurationMs": 2986,
+    "segs": [ {
+      "utf8": "it was clear that the\nmechanical nature of the relay,"
+    } ]
+  }, {
+    "tStartMs": 769500,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "the physical closing and\nopening of the switches,"
+    } ]
+  }, {
+    "tStartMs": 772260,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "was too slow to be the future of computers"
+    } ]
+  }, {
+    "tStartMs": 775140,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "and they were also prone to breaking."
+    } ]
+  }, {
+    "tStartMs": 777030,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "- Anytime you have\nsomething that's mechanical,"
+    } ]
+  }, {
+    "tStartMs": 778650,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "it's gonna wear down."
+    } ]
+  }, {
+    "tStartMs": 780030,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Every time that relay switches,"
+    } ]
+  }, {
+    "tStartMs": 782040,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "there's a little bit of friction"
+    } ]
+  }, {
+    "tStartMs": 783270,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "on the rotation point inside of there"
+    } ]
+  }, {
+    "tStartMs": 785550,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "and there's contacts"
+    } ]
+  }, {
+    "tStartMs": 787260,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "that are making and breaking\nelectrical connections,"
+    } ]
+  }, {
+    "tStartMs": 789390,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and those are gonna wear out."
+    } ]
+  }, {
+    "tStartMs": 790590,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "- [Derek] And all the\nrelays opening and closing"
+    } ]
+  }, {
+    "tStartMs": 792690,
+    "dDurationMs": 2988,
+    "segs": [ {
+      "utf8": "meant that the computers\nwere incredibly loud."
+    } ]
+  }, {
+    "tStartMs": 795678,
+    "dDurationMs": 3282,
+    "segs": [ {
+      "utf8": "(machine clacking)"
+    } ]
+  }, {
+    "tStartMs": 798960,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- So it doesn't really work"
+    } ]
+  }, {
+    "tStartMs": 800820,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "in a business environment all that well."
+    } ]
+  }, {
+    "tStartMs": 802500,
+    "dDurationMs": 2052,
+    "segs": [ {
+      "utf8": "You can't really stuff it into your office"
+    } ]
+  }, {
+    "tStartMs": 804552,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "that you're gonna drive people insane."
+    } ]
+  }, {
+    "tStartMs": 808320,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "- [Derek] So what computer\nscientists really needed"
+    } ]
+  }, {
+    "tStartMs": 810180,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "was an electronic switch"
+    } ]
+  }, {
+    "tStartMs": 812070,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "and that is where the\nvacuum tube triode comes in."
+    } ]
+  }, {
+    "tStartMs": 816150,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Whoa!"
+    } ]
+  }, {
+    "tStartMs": 819030,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I mean, sure it can work as an amplifier"
+    } ]
+  }, {
+    "tStartMs": 820931,
+    "dDurationMs": 1517,
+    "segs": [ {
+      "utf8": "if you put slightly positive"
+    } ]
+  }, {
+    "tStartMs": 822448,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "or negative voltages on the grid,"
+    } ]
+  }, {
+    "tStartMs": 824850,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "but it can also work as a switch."
+    } ]
+  }, {
+    "tStartMs": 827520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If the grid voltage is very negative,"
+    } ]
+  }, {
+    "tStartMs": 829920,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "then no current flows."
+    } ]
+  }, {
+    "tStartMs": 831480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And if the grid voltage is very positive,"
+    } ]
+  }, {
+    "tStartMs": 833880,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "then maximum current flows."
+    } ]
+  }, {
+    "tStartMs": 836040,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So a triode can be controlled"
+    } ]
+  }, {
+    "tStartMs": 838140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "using no moving parts."
+    } ]
+  }, {
+    "tStartMs": 840360,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Just a voltage will set it"
+    } ]
+  }, {
+    "tStartMs": 842160,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to be either a 0 or a 1."
+    } ]
+  }, {
+    "tStartMs": 844680,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "And best of all, switching between the two"
+    } ]
+  }, {
+    "tStartMs": 846540,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "can be done rapidly with no noise"
+    } ]
+  }, {
+    "tStartMs": 849450,
+    "dDurationMs": 1488,
+    "segs": [ {
+      "utf8": "since you're just controlling electrons"
+    } ]
+  }, {
+    "tStartMs": 850938,
+    "dDurationMs": 2562,
+    "segs": [ {
+      "utf8": "zipping around in a vacuum."
+    } ]
+  }, {
+    "tStartMs": 853500,
+    "dDurationMs": 3183,
+    "segs": [ {
+      "utf8": "This is the invention that took\ncomputing to the next level."
+    } ]
+  }, {
+    "tStartMs": 858060,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "The world's first electronic\nprogrammable computer"
+    } ]
+  }, {
+    "tStartMs": 860430,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "was called ENIAC"
+    } ]
+  }, {
+    "tStartMs": 861690,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "and it came online for the first time"
+    } ]
+  }, {
+    "tStartMs": 863310,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "on December 10th, 1945."
+    } ]
+  }, {
+    "tStartMs": 865830,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "It took up a whole room, weighed 30 tons,"
+    } ]
+  }, {
+    "tStartMs": 869340,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "and used 175 kilowatts of power."
+    } ]
+  }, {
+    "tStartMs": 873000,
+    "dDurationMs": 1579,
+    "segs": [ {
+      "utf8": "So much that it led to a rumor"
+    } ]
+  }, {
+    "tStartMs": 874579,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "that every time it turned on,"
+    } ]
+  }, {
+    "tStartMs": 875997,
+    "dDurationMs": 1309,
+    "segs": [ {
+      "utf8": "the lights in Philadelphia,"
+    } ]
+  }, {
+    "tStartMs": 877306,
+    "dDurationMs": 3197,
+    "segs": [ {
+      "utf8": "where ENIAC was located, would dim."
+    } ]
+  }, {
+    "tStartMs": 881850,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Now, that was just a rumor,"
+    } ]
+  }, {
+    "tStartMs": 883230,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "but mainly because ENIAC"
+    } ]
+  }, {
+    "tStartMs": 884820,
+    "dDurationMs": 1784,
+    "segs": [ {
+      "utf8": "had its own dedicated electrical generator"
+    } ]
+  }, {
+    "tStartMs": 886604,
+    "dDurationMs": 3616,
+    "segs": [ {
+      "utf8": "to keep up with the enormous power draw."
+    } ]
+  }, {
+    "tStartMs": 890220,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Unlike previous computers,"
+    } ]
+  }, {
+    "tStartMs": 891720,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "ENIAC wasn't limited"
+    } ]
+  }, {
+    "tStartMs": 892680,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "to just solving one type\nof mathematical problem."
+    } ]
+  }, {
+    "tStartMs": 895740,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It could be programmed and it was fast,"
+    } ]
+  }, {
+    "tStartMs": 898440,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "completing 500 operations per second."
+    } ]
+  }, {
+    "tStartMs": 901860,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "At the time, the word computers"
+    } ]
+  }, {
+    "tStartMs": 903480,
+    "dDurationMs": 1065,
+    "segs": [ {
+      "utf8": "still referred to people"
+    } ]
+  }, {
+    "tStartMs": 904545,
+    "dDurationMs": 2925,
+    "segs": [ {
+      "utf8": "doing calculations with pen and paper."
+    } ]
+  }, {
+    "tStartMs": 907470,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "So 500 operations per\nsecond was really fast."
+    } ]
+  }, {
+    "tStartMs": 911970,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "ENIAC's flexibility and power"
+    } ]
+  }, {
+    "tStartMs": 913890,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "was immediately useful"
+    } ]
+  }, {
+    "tStartMs": 915180,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "for the development of the hydrogen bomb."
+    } ]
+  }, {
+    "tStartMs": 917430,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "The computations needed were so complex"
+    } ]
+  }, {
+    "tStartMs": 919710,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "that the director of\nLos Alamos at the time"
+    } ]
+  }, {
+    "tStartMs": 921510,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "said that, \"It would've been impossible"
+    } ]
+  }, {
+    "tStartMs": 923280,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "to arrive at any solution"
+    } ]
+  }, {
+    "tStartMs": 924930,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "without the aid of ENIAC.\""
+    } ]
+  }, {
+    "tStartMs": 927390,
+    "dDurationMs": 2764,
+    "segs": [ {
+      "utf8": "- This is a hilarious part\nbout having a processor"
+    } ]
+  }, {
+    "tStartMs": 930154,
+    "dDurationMs": 3026,
+    "segs": [ {
+      "utf8": "that is 1 meter tall\nand 70 centimeters wide,"
+    } ]
+  }, {
+    "tStartMs": 933180,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "is that you can point at\nactual parts of the processor."
+    } ]
+  }, {
+    "tStartMs": 936330,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "- [Derek] This is what a 1-bit"
+    } ]
+  }, {
+    "tStartMs": 937740,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "vacuum tube computer looks like."
+    } ]
+  }, {
+    "tStartMs": 942690,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "- [David] Can you feel\nthe heat coming off of it?"
+    } ]
+  }, {
+    "tStartMs": 945060,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "- [Derek] I certainly can."
+    } ]
+  }, {
+    "tStartMs": 946140,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- [David] I can feel the heat coming off."
+    } ]
+  }, {
+    "tStartMs": 947970,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- [Derek] It's getting warm."
+    } ]
+  }, {
+    "tStartMs": 949080,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "- Well, I mean, 190 vacuum tubes is a lot."
+    } ]
+  }, {
+    "tStartMs": 951870,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "I think we figured it out."
+    } ]
+  }, {
+    "tStartMs": 953040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "This is pulling like 350\nor 400 watts of power"
+    } ]
+  }, {
+    "tStartMs": 956520,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "or something like that,"
+    } ]
+  }, {
+    "tStartMs": 957854,
+    "dDurationMs": 2056,
+    "segs": [ {
+      "utf8": "which is absurd."
+    } ]
+  }, {
+    "tStartMs": 959910,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "At night, it's awesome."
+    } ]
+  }, {
+    "tStartMs": 962100,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "It looks like a city."
+    } ]
+  }, {
+    "tStartMs": 965880,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- [Derek] But there were also major flaws"
+    } ]
+  }, {
+    "tStartMs": 967590,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "with vacuum tubes."
+    } ]
+  }, {
+    "tStartMs": 968850,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "The filaments always needed to be heated,"
+    } ]
+  }, {
+    "tStartMs": 970830,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "so they used a lot of\npower even when idle,"
+    } ]
+  }, {
+    "tStartMs": 974070,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "and they were big."
+    } ]
+  }, {
+    "tStartMs": 975450,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "It was hard to make a glass vacuum tube"
+    } ]
+  }, {
+    "tStartMs": 978000,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "with complex electrodes\ninside arbitrarily small."
+    } ]
+  }, {
+    "tStartMs": 981900,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "They were also unreliable."
+    } ]
+  }, {
+    "tStartMs": 983790,
+    "dDurationMs": 1422,
+    "segs": [ {
+      "utf8": "On average, a vacuum tube in ENIAC"
+    } ]
+  }, {
+    "tStartMs": 985212,
+    "dDurationMs": 2298,
+    "segs": [ {
+      "utf8": "broke down every few days."
+    } ]
+  }, {
+    "tStartMs": 987510,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "And then, it needed to\nbe found and replaced."
+    } ]
+  }, {
+    "tStartMs": 990900,
+    "dDurationMs": 2355,
+    "segs": [ {
+      "utf8": "The longest that ENIAC\noperated for without failure"
+    } ]
+  }, {
+    "tStartMs": 993255,
+    "dDurationMs": 3435,
+    "segs": [ {
+      "utf8": "was just 116 hours."
+    } ]
+  }, {
+    "tStartMs": 996690,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "The first digital computers\nran on glorified light bulbs."
+    } ]
+  }, {
+    "tStartMs": 1001640,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "That is why they were so big,\npower-hungry, and unreliable."
+    } ]
+  }, {
+    "tStartMs": 1005600,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "The miracle and what has made\nour modern lives possible"
+    } ]
+  }, {
+    "tStartMs": 1008810,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "is that someone figured out"
+    } ]
+  }, {
+    "tStartMs": 1010130,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "how to perform the same\ntrick with electrons"
+    } ]
+  }, {
+    "tStartMs": 1013070,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "inside a solid piece of\nmaterial, in silicon."
+    } ]
+  }, {
+    "tStartMs": 1017990,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "But that's a story for another day."
+    } ]
+  }, {
+    "tStartMs": 1026570,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "If you wanna learn about\nhow modern computing devices"
+    } ]
+  }, {
+    "tStartMs": 1028880,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "store and access information,"
+    } ]
+  }, {
+    "tStartMs": 1030380,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I highly recommend you check out"
+    } ]
+  }, {
+    "tStartMs": 1031880,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "this video's sponsor brilliant.org."
+    } ]
+  }, {
+    "tStartMs": 1034340,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "They have courses on everything"
+    } ]
+  }, {
+    "tStartMs": 1035660,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "from computer science fundamentals"
+    } ]
+  }, {
+    "tStartMs": 1037220,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "to neural networks to quantum computing."
+    } ]
+  }, {
+    "tStartMs": 1039920,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Their latest interactive course"
+    } ]
+  }, {
+    "tStartMs": 1041270,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "is called How Technology Works."
+    } ]
+  }, {
+    "tStartMs": 1043520,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It includes a lesson on computer memory"
+    } ]
+  }, {
+    "tStartMs": 1045590,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "where you can get hands-on with the kinds"
+    } ]
+  }, {
+    "tStartMs": 1047390,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "of computational logic gates\nwe discussed in this video."
+    } ]
+  }, {
+    "tStartMs": 1050840,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "It also has a lesson that\ndelves into the ingenious ways"
+    } ]
+  }, {
+    "tStartMs": 1053230,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "video compression makes\nmodern day streaming possible,"
+    } ]
+  }, {
+    "tStartMs": 1056630,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "so you can watch videos like this one."
+    } ]
+  }, {
+    "tStartMs": 1059210,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Ever wondered how your\nphone knows where you are?"
+    } ]
+  }, {
+    "tStartMs": 1061460,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "There's a lesson on that too."
+    } ]
+  }, {
+    "tStartMs": 1063410,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "There's even a lesson on password theft"
+    } ]
+  }, {
+    "tStartMs": 1065570,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "where you can walk in\nthe footsteps of a hacker"
+    } ]
+  }, {
+    "tStartMs": 1067670,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "to discover why some passwords\nare stronger than others."
+    } ]
+  }, {
+    "tStartMs": 1070820,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "You can try all these out for free"
+    } ]
+  }, {
+    "tStartMs": 1072380,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "by going to brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1075590,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "You know, whether it's\ngetting a working knowledge"
+    } ]
+  }, {
+    "tStartMs": 1077300,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of modern day technology\nor building skills in math,"
+    } ]
+  }, {
+    "tStartMs": 1080180,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "computer science or data science,"
+    } ]
+  }, {
+    "tStartMs": 1082100,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Brilliant is the best way to learn."
+    } ]
+  }, {
+    "tStartMs": 1084230,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "They have thousands of\nbite-sized interactive lessons"
+    } ]
+  }, {
+    "tStartMs": 1086930,
+    "dDurationMs": 1536,
+    "segs": [ {
+      "utf8": "that not only help master key concepts"
+    } ]
+  }, {
+    "tStartMs": 1088466,
+    "dDurationMs": 3264,
+    "segs": [ {
+      "utf8": "but connect what you learn\nto real-world examples."
+    } ]
+  }, {
+    "tStartMs": 1091730,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And because each lesson is hands-on,"
+    } ]
+  }, {
+    "tStartMs": 1093830,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "you'll build real intuition"
+    } ]
+  }, {
+    "tStartMs": 1095510,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "so you can put what you've learned to use."
+    } ]
+  }, {
+    "tStartMs": 1097880,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Now, as we've seen, the\ndevelopment of technology"
+    } ]
+  }, {
+    "tStartMs": 1099650,
+    "dDurationMs": 2152,
+    "segs": [ {
+      "utf8": "is an ongoing process\nthat constantly reshapes"
+    } ]
+  }, {
+    "tStartMs": 1101802,
+    "dDurationMs": 2678,
+    "segs": [ {
+      "utf8": "the way we interact with\nthe world around us."
+    } ]
+  }, {
+    "tStartMs": 1104480,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Today, it's more important than ever"
+    } ]
+  }, {
+    "tStartMs": 1106220,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "to keep up with these changes."
+    } ]
+  }, {
+    "tStartMs": 1108200,
+    "dDurationMs": 2851,
+    "segs": [ {
+      "utf8": "Who knows what revolutionary\ntechnology will emerge next?"
+    } ]
+  }, {
+    "tStartMs": 1111051,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "But whatever it is, you can rest assured"
+    } ]
+  }, {
+    "tStartMs": 1113330,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that you'll be able to\nlearn about it on Brilliant."
+    } ]
+  }, {
+    "tStartMs": 1115610,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And you can try everything\nBrilliant has to offer for free"
+    } ]
+  }, {
+    "tStartMs": 1118490,
+    "dDurationMs": 1059,
+    "segs": [ {
+      "utf8": "for a full 30 days."
+    } ]
+  }, {
+    "tStartMs": 1119549,
+    "dDurationMs": 3381,
+    "segs": [ {
+      "utf8": "Just go to brilliant.org/veritasium."
+    } ]
+  }, {
+    "tStartMs": 1122930,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "I will put that link\ndown in the description"
+    } ]
+  }, {
+    "tStartMs": 1125180,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and the first 200 of you to sign up"
+    } ]
+  }, {
+    "tStartMs": 1127340,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "will get 20% off Brilliant's\nannual premium subscription."
+    } ]
+  }, {
+    "tStartMs": 1130940,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So I wanna thank Brilliant\nfor sponsoring this video"
+    } ]
+  }, {
+    "tStartMs": 1133220,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "and I wanna thank you for watching."
+    } ]
+  } ]
+}

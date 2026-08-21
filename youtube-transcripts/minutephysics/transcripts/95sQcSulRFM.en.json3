@@ -1,0 +1,415 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3290,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "If you look at the wake behind a duck, or\na kayak, or a ship, you might notice two unusual"
+    } ]
+  }, {
+    "tStartMs": 7900,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "things: first, the wake isn’t simple (like\nthe perfectly straight shock wake of a supersonic"
+    } ]
+  }, {
+    "tStartMs": 12530,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "projectile is) - it’s a fascinating, feathery,\nripple-y pattern."
+    } ]
+  }, {
+    "tStartMs": 16400,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "And second, that feathery pattern looks the\nsame - same angle, same repeating pattern"
+    } ]
+  }, {
+    "tStartMs": 20450,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "of ripples along the edge, same reverse arcs\nin the middle - it looks more or less the"
+    } ]
+  }, {
+    "tStartMs": 23540,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "same regardless of whether it’s made by\na duck, a kayak or a ship, even though they’re"
+    } ]
+  }, {
+    "tStartMs": 27770,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "all moving at different speeds and the waves\nare very different sizes."
+    } ]
+  }, {
+    "tStartMs": 30610,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "The reason water wakes always have this particular\nshape and pattern is because of the surprising"
+    } ]
+  }, {
+    "tStartMs": 37950,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "physics of water waves."
+    } ]
+  }, {
+    "tStartMs": 39970,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "While there's a single speed of light waves,\nand a single speed of sound waves, there's"
+    } ]
+  }, {
+    "tStartMs": 45030,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "no single speed of water waves."
+    } ]
+  }, {
+    "tStartMs": 47180,
+    "dDurationMs": 6770,
+    "segs": [ {
+      "utf8": "In water, longer waves travel faster, while\nshorter waves travel slower."
+    } ]
+  }, {
+    "tStartMs": 53950,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "This phenomenon where different wavelength\nwaves travel at different speeds is known"
+    } ]
+  }, {
+    "tStartMs": 57890,
+    "dDurationMs": 7870,
+    "segs": [ {
+      "utf8": "as dispersion, and it makes water waves both\ninteresting and complicated."
+    } ]
+  }, {
+    "tStartMs": 65760,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Like a boat wake."
+    } ]
+  }, {
+    "tStartMs": 67110,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "To explain the shape of a boat wake, we’ll\nstart by looking at water waves of just a"
+    } ]
+  }, {
+    "tStartMs": 70960,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "single wavelength (and speed)."
+    } ]
+  }, {
+    "tStartMs": 72930,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "A boat traveling across this simpler water\ncreates a series of circular waves - if the"
+    } ]
+  }, {
+    "tStartMs": 77800,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "water waves are faster than the boat, the\nwaves encircle it, but you don’t get a wake."
+    } ]
+  }, {
+    "tStartMs": 82090,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "If the waves are slower than the boat, the\nboat outruns them and the circles all add"
+    } ]
+  }, {
+    "tStartMs": 85760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "together to create a V-shaped wake."
+    } ]
+  }, {
+    "tStartMs": 88480,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "And if the waves are even slower, the boat\nwill outrun them even more and they’ll add"
+    } ]
+  }, {
+    "tStartMs": 91881,
+    "dDurationMs": 2629,
+    "segs": [ {
+      "utf8": "together to a narrower V shape."
+    } ]
+  }, {
+    "tStartMs": 94510,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Slower waves make narrower wakes."
+    } ]
+  }, {
+    "tStartMs": 96940,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Faster waves make wider wakes."
+    } ]
+  }, {
+    "tStartMs": 98610,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But we need to remember that water waves are\nwaves, that is, they repeat themselves."
+    } ]
+  }, {
+    "tStartMs": 103530,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "So every circular wave is really the first\nof a series of circular waves."
+    } ]
+  }, {
+    "tStartMs": 107520,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "This means that instead of creating just one\nv-shaped wake, a moving boat creates a train"
+    } ]
+  }, {
+    "tStartMs": 111950,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "of v-shaped wakes that are each exactly one\nwavelength apart."
+    } ]
+  }, {
+    "tStartMs": 116170,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "The reason a real boat doesn’t make straight\nv-shaped wakes is that a real boat makes waves"
+    } ]
+  }, {
+    "tStartMs": 120740,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "of many different wavelengths."
+    } ]
+  }, {
+    "tStartMs": 122780,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "And because of dispersion, different wavelengths\ntravel at different speeds: the longer ones"
+    } ]
+  }, {
+    "tStartMs": 126479,
+    "dDurationMs": 3051,
+    "segs": [ {
+      "utf8": "travel faster and shorter ones travel slower."
+    } ]
+  }, {
+    "tStartMs": 129530,
+    "dDurationMs": 5489,
+    "segs": [ {
+      "utf8": "Faster waves create wider wakes, and because\nfaster waves also have longer wavelengths,"
+    } ]
+  }, {
+    "tStartMs": 135019,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "that means that wider wakes are further apart."
+    } ]
+  }, {
+    "tStartMs": 137849,
+    "dDurationMs": 5301,
+    "segs": [ {
+      "utf8": "Similarly, slower waves create narrower wakes,\nand because slower waves also have shorter"
+    } ]
+  }, {
+    "tStartMs": 143150,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "wavelengths, narrower wakes are closer together."
+    } ]
+  }, {
+    "tStartMs": 148700,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "When you add together narrow, closely spaced\nwakes, with wider, more widely spaced wakes,"
+    } ]
+  }, {
+    "tStartMs": 153950,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "with even wider, even more widely separated\nwakes, and so on, voilá!"
+    } ]
+  }, {
+    "tStartMs": 158290,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "The shape of a boat wake!"
+    } ]
+  }, {
+    "tStartMs": 160620,
+    "dDurationMs": 3949,
+    "segs": [ {
+      "utf8": "Look at the beautiful repeating feathery ripples\nout on the edge, and the wider repeating arcs"
+    } ]
+  }, {
+    "tStartMs": 164569,
+    "dDurationMs": 5511,
+    "segs": [ {
+      "utf8": "inside the wake itself."
+    } ]
+  }, {
+    "tStartMs": 170080,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "If you replace these sharp lines with smoother\nwaves at the appropriate angles and spacings,"
+    } ]
+  }, {
+    "tStartMs": 174050,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "you get an even more convincing boat wake."
+    } ]
+  }, {
+    "tStartMs": 175840,
+    "dDurationMs": 5849,
+    "segs": [ {
+      "utf8": "And we can do the same again in 3D to get\na really realistic-looking boat wake."
+    } ]
+  }, {
+    "tStartMs": 181689,
+    "dDurationMs": 5291,
+    "segs": [ {
+      "utf8": "So in summary: wakes have the shape they do\nbecause water waves travel at different speeds."
+    } ]
+  }, {
+    "tStartMs": 186980,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Slower water waves create narrow, closely\nspaced V-shaped wakes, and faster water waves"
+    } ]
+  }, {
+    "tStartMs": 191620,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "create wider V-shaped wakes that are further\napart."
+    } ]
+  }, {
+    "tStartMs": 194719,
+    "dDurationMs": 3621,
+    "segs": [ {
+      "utf8": "When you add all these different v-shaped\npatterns together, at the correct angles and"
+    } ]
+  }, {
+    "tStartMs": 198340,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "spacings determined by water's dispersion\nrelation, you end up with the unique shape"
+    } ]
+  }, {
+    "tStartMs": 202719,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of a water wake."
+    } ]
+  }, {
+    "tStartMs": 203719,
+    "dDurationMs": 2691,
+    "segs": [ {
+      "utf8": "SPONSORSHIP MESSAGE:\nWatch an extended, ad-free version of this"
+    } ]
+  }, {
+    "tStartMs": 206410,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "video on Nebula."
+    } ]
+  }, {
+    "tStartMs": 207410,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Ok, there are some caveats to the science\nin this video, and you can find out about"
+    } ]
+  }, {
+    "tStartMs": 210489,
+    "dDurationMs": 3951,
+    "segs": [ {
+      "utf8": "them in the extended version over on Nebula,\nthe Streamy-award-nominated independent streaming"
+    } ]
+  }, {
+    "tStartMs": 214440,
+    "dDurationMs": 2109,
+    "segs": [ {
+      "utf8": "service that's the co-sponsor of this video."
+    } ]
+  }, {
+    "tStartMs": 216549,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Nebula was created by and for a collection\nof educational video creators including Real"
+    } ]
+  }, {
+    "tStartMs": 220889,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Engineering, Mike Boyd, Up and Atom, Jordan\nHarrod - and me - and Nebula has partnered"
+    } ]
+  }, {
+    "tStartMs": 224819,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "with CuriosityStream, which offers thousands\nof documentaries and nonfiction titles to"
+    } ]
+  }, {
+    "tStartMs": 228590,
+    "dDurationMs": 2009,
+    "segs": [ {
+      "utf8": "give you access to both in one go!"
+    } ]
+  }, {
+    "tStartMs": 230599,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "I recommend Magic Numbers, Hannah Fry’s\nfun series about mathematics: how it’s influenced"
+    } ]
+  }, {
+    "tStartMs": 235489,
+    "dDurationMs": 4051,
+    "segs": [ {
+      "utf8": "science, how science has influenced math,\nthe question of whether math is invented or"
+    } ]
+  }, {
+    "tStartMs": 239540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "discovered, and more."
+    } ]
+  }, {
+    "tStartMs": 240540,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "Sign up for CuriosityStream using the link\nin the description and you'll also get access"
+    } ]
+  }, {
+    "tStartMs": 243829,
+    "dDurationMs": 3511,
+    "segs": [ {
+      "utf8": "to Nebula, including the extended version\nof this video as well as an ad-free viewing"
+    } ]
+  }, {
+    "tStartMs": 247340,
+    "dDurationMs": 1789,
+    "segs": [ {
+      "utf8": "experience across the site."
+    } ]
+  }, {
+    "tStartMs": 249129,
+    "dDurationMs": 3491,
+    "segs": [ {
+      "utf8": "Oh yeah, and you'll also get 26% off an annual\nsubscription to CuriosityStream."
+    } ]
+  } ]
+}

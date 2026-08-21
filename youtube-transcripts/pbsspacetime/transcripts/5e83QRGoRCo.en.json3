@@ -1,0 +1,805 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Whenever we open a new window on the \nuniverse we discover something new.  "
+    } ]
+  }, {
+    "tStartMs": 3480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Whether it's figuring out how to see to \ngreater distances like with telescopes,  "
+    } ]
+  }, {
+    "tStartMs": 7160,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "or down to smaller size-scales like with \nmicroscopes, or perhaps expanding our vision  "
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "to new wavelengths of light or via exotic means \nsuch as in neutrinos or gravitational waves. Well,  "
+    } ]
+  }, {
+    "tStartMs": 19200,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "the 2023 Nobel prize in physics has been awarded \nto three physicists for opening just such a new  "
+    } ]
+  }, {
+    "tStartMs": 25320,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "window—but it's not a window to a new size scale \nor a new mode of seeing—-it’s for a new window in  "
+    } ]
+  }, {
+    "tStartMs": 32400,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "time. It’s for attosecond physics—the billionth \nof a billionth of a second that represents the  "
+    } ]
+  }, {
+    "tStartMs": 39200,
+    "dDurationMs": 7676,
+    "segs": [ {
+      "utf8": "timescale of the insides of atoms. This year’s \nNobel in physics is for a microscope in time"
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Every 230 million years the solar system \ncompletes one orbit around the Milky Way.  "
+    } ]
+  }, {
+    "tStartMs": 57400,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "Every 243 years Venus passes between the Sun and the Earth.  "
+    } ]
+  }, {
+    "tStartMs": 61404,
+    "dDurationMs": 5836,
+    "segs": [ {
+      "utf8": "Every year monarch butterflies migrate between the United States and Mexico. Every 3  seconds"
+    } ]
+  }, {
+    "tStartMs": 67240,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "a Kinesin protein travels down \none of your cytoskeletal filaments."
+    } ]
+  }, {
+    "tStartMs": 72800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "As we look to smaller and smaller scales, \nwe find faster and faster processes. Makes  "
+    } ]
+  }, {
+    "tStartMs": 77400,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "intuitive sense—big things surely have a hard \ntime moving faster than their constituents. The  "
+    } ]
+  }, {
+    "tStartMs": 82960,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "trend continues to the smallest scales—the motion \nof individual atoms during chemical reactions,  "
+    } ]
+  }, {
+    "tStartMs": 89000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "or of individual electrons moving in atoms. \nThe timescale of their motion is not measured  "
+    } ]
+  }, {
+    "tStartMs": 94640,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "in microseconds nor nanoseconds, they're \nmeasured in attoseconds. And this is a very  "
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "small amount of time indeed. There are as \nmany attoseconds in a second as there are  "
+    } ]
+  }, {
+    "tStartMs": 105600,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "seconds in the entire history of the universe. \nProbably there are some things to be discovered  "
+    } ]
+  }, {
+    "tStartMs": 111240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "buried in that universe of phenomena \nthat play out in every single second."
+    } ]
+  }, {
+    "tStartMs": 115640,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And this is why the Swedish Academy of \nSciences made a very reasonable choice  "
+    } ]
+  }, {
+    "tStartMs": 119840,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "in awarding Anne L'Hullier, Pierre \nAgostini and Ferenc Krausz the 2023  "
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Nobel Prize in Physics for bringing into \nexistence the field of attosecond physics."
+    } ]
+  }, {
+    "tStartMs": 131360,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Before we get to how our newly minted laureates \nmanaged this, let’s talk about why it was so  "
+    } ]
+  }, {
+    "tStartMs": 137320,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "difficult in the first place. Think about what it takes to observe \nsomething. Observing means watching things bounce  "
+    } ]
+  }, {
+    "tStartMs": 143040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "off other things, whether it’s light bouncing off \nan apple into our eyes or electrons bouncing off  "
+    } ]
+  }, {
+    "tStartMs": 147440,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "a tardigrade into our electron microscope. \nThe smaller the object you want to observe,  "
+    } ]
+  }, {
+    "tStartMs": 152360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the smaller the particle you need to fling \nat it. For example, you could get a rough  "
+    } ]
+  }, {
+    "tStartMs": 156200,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "idea of my shape by hurling beach balls \nat me and seeing how they scattered. But  "
+    } ]
+  }, {
+    "tStartMs": 161040,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "you’d get a better picture pelting me with \nping pong balls. Or even better, photons."
+    } ]
+  }, {
+    "tStartMs": 165640,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Resolving small distances requires scattering \nmany particles with small spatial separation,  "
+    } ]
+  }, {
+    "tStartMs": 169840,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "into a well-defined spatial location. \nResolving very small times requires scattering  "
+    } ]
+  }, {
+    "tStartMs": 175240,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "many particles with small separations in \ntime and well-defined temporal locations."
+    } ]
+  }, {
+    "tStartMs": 181440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Imagine you want to take a video of a fast \nprocess—say, a hovering hummingbird. If  "
+    } ]
+  }, {
+    "tStartMs": 185840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "your camera aperture stays open too long you’ll \nonly capture a blur over the span of the wings’  "
+    } ]
+  }, {
+    "tStartMs": 190800,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "motion. The aperture opening needs to have a \nwell-defined temporal location—in other words,  "
+    } ]
+  }, {
+    "tStartMs": 196440,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "it needs to be quick. But quick exposures aren’t \ngoing to give you a very good movie of the  "
+    } ]
+  }, {
+    "tStartMs": 200480,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "humminbird if they aren’t separated by less than \na wing beat. Then you’ll only get a random seeming  "
+    } ]
+  }, {
+    "tStartMs": 206600,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "collection of stills. You need short temporal \nseparation to get a meaningful sequence. So how  "
+    } ]
+  }, {
+    "tStartMs": 212840,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "do you get tight temporal location and short \ntemporal separation down to the attometer?"
+    } ]
+  }, {
+    "tStartMs": 218880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Let’s start by thinking about the temporal \nlocation of a photon. That’s limited by its  "
+    } ]
+  }, {
+    "tStartMs": 223120,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "period—you can’t clock a photon to any time \nsmaller than a single up-down cycle of its  "
+    } ]
+  }, {
+    "tStartMs": 228720,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "electromagnetic wave Light with a period \nof attoseconds is in the X-ray part of  "
+    } ]
+  }, {
+    "tStartMs": 233480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the electromagnetic spectrum. We routinely use \nX-rays in imaging, so we should be fine there,  "
+    } ]
+  }, {
+    "tStartMs": 238840,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "right? Not quite. A typical laser fires one \nphoton every few femtoseconds - that’s 1000  "
+    } ]
+  }, {
+    "tStartMs": 245040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "times longer than an attosecond. So even if \nyou make a movie of attosecond motion with  "
+    } ]
+  }, {
+    "tStartMs": 250200,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "a conventional laser, the abysmal frame rate \nwould turn the motion into a hopeless blur."
+    } ]
+  }, {
+    "tStartMs": 256160,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "It is possible to build extremely fast lasers—for \nexample, Free-Electron lasers… But they require  "
+    } ]
+  }, {
+    "tStartMs": 261960,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "an electron accelerator to work, \nand they are honestly too powerful  "
+    } ]
+  }, {
+    "tStartMs": 266160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and way too dangerous to give to the \naverage physicist to play around with,  "
+    } ]
+  }, {
+    "tStartMs": 270320,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "and besides, blasting your sample with an \nX-ray laser of the power required would be  "
+    } ]
+  }, {
+    "tStartMs": 275160,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "like taking an x-ray using a nuclear \nexplosion, it's just not practical."
+    } ]
+  }, {
+    "tStartMs": 281480,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Enter our first Nobel laureate. Back in the \n1980s Anne L’Huillier and her colleagues  "
+    } ]
+  }, {
+    "tStartMs": 286400,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "were playing around with irradiating Argon gas \nwith infrared lasers. They observed something  "
+    } ]
+  }, {
+    "tStartMs": 291640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "pretty weird. Normally, when you irradiate \na gas you’ll get different types of light  "
+    } ]
+  }, {
+    "tStartMs": 296120,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "out. That includes some of the light you put \nin, some light corresponding to the electron  "
+    } ]
+  }, {
+    "tStartMs": 300560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "transitions of the atom, as well as some \nrandom thermal light from the jiggling of  "
+    } ]
+  }, {
+    "tStartMs": 305160,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "the atoms. But L’Huillier’s team noticed that \nthe outgoing beam consisted of the original  "
+    } ]
+  }, {
+    "tStartMs": 310480,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "in-going frequency plus some higher frequencies \nthat didn’t correspond to any known process."
+    } ]
+  }, {
+    "tStartMs": 315640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So where did these other frequencies come from? \nIt’s pretty cool actually. As a laser pulse passes  "
+    } ]
+  }, {
+    "tStartMs": 320760,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "by a gas atom, it can nudge the electromagnetic \nfield holding the electrons in place in such a way  "
+    } ]
+  }, {
+    "tStartMs": 328120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that electron escapes by quantum \ntunneling."
+    } ]
+  }, {
+    "tStartMs": 331120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The electron can then be pulled straight back to its atom and will release the energy it  "
+    } ]
+  }, {
+    "tStartMs": 335040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "gained in a single photon, think of it like a \nstretching a spring and letting it go. That one  "
+    } ]
+  }, {
+    "tStartMs": 340720,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "photon will have a higher energy than each of the many photons that made up the laser pulse.  "
+    } ]
+  }, {
+    "tStartMs": 346080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In fact it’ll have a frequency that’s some \ninteger multiple of the laser photons, and  "
+    } ]
+  }, {
+    "tStartMs": 351280,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "a cool detail is that it'll be an odd \nmultiple, for complex reasons regarding symmetry"
+    } ]
+  }, {
+    "tStartMs": 358720,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "This process is called high harmonic generation, \nand it basically adds overtones to the laser beam.  "
+    } ]
+  }, {
+    "tStartMs": 365680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Play a note on any musical instrument and \nyou’ll get the fundamental frequency plus  "
+    } ]
+  }, {
+    "tStartMs": 369360,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "higher frequency overtones. The fundamental \ncorresponds to the longest wavelength standing  "
+    } ]
+  }, {
+    "tStartMs": 374600,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "wave that can fit along the resonating string \nor air column, while the overtones correspond  "
+    } ]
+  }, {
+    "tStartMs": 380640,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "to all shorter wavelength standing waves that \nalso fit. The balance of the strength of the  "
+    } ]
+  }, {
+    "tStartMs": 386280,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "overtones determines the precise character \nof the sound of an instrument—its timbre."
+    } ]
+  }, {
+    "tStartMs": 392240,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So, the timbre of the laser was altered \nby the argon cloud. That’s a cute effect,  "
+    } ]
+  }, {
+    "tStartMs": 398080,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "but we’re not quite at Nobel-level science just yet. To get to attosecond physics, we need one more  "
+    } ]
+  }, {
+    "tStartMs": 404280,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "analogy with acoustics. Listen to this. It’s \na very low G note. And this is a very low A.  "
+    } ]
+  }, {
+    "tStartMs": 412560,
+    "dDurationMs": 8920,
+    "segs": [ {
+      "utf8": "Individually there’s nothing unusual, but if we \nplay them together we hear a sort of \"wawawa\".  "
+    } ]
+  }, {
+    "tStartMs": 421480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "This is known as a \"beat\" in acoustics, and it’s \ndue to the fact that the sine waves of the G and  "
+    } ]
+  }, {
+    "tStartMs": 426360,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "the A line up perfectly at certain points, making \nthem louder with constructive interference, while  "
+    } ]
+  }, {
+    "tStartMs": 431520,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "they’re perfectly out of alignment elsewhere, \nand so cancel out with destructive interference."
+    } ]
+  }, {
+    "tStartMs": 437080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "For a pair of waves the \nbeats are quite spread out,  "
+    } ]
+  }, {
+    "tStartMs": 439960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "with a lower frequency than both of its \nparents. But if you add more and more waves,  "
+    } ]
+  }, {
+    "tStartMs": 445160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "it’s possible to narrow the width of the beats \nso you end up with sharp pulses and very little  "
+    } ]
+  }, {
+    "tStartMs": 449880,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "in between. For that you need a large number of \nfrequencies of similar intensity—for example,  "
+    } ]
+  }, {
+    "tStartMs": 455320,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "the rich spectrum of overtones produced \nin Anne L’Huillier’s experiment. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 460320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "it proved possible to get pulses that were mere \nhundreds of attoseconds in their temporal width."
+    } ]
+  }, {
+    "tStartMs": 466480,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Our new attosecond-resolved pulses weren’t \nready for application just yet. The potential  "
+    } ]
+  }, {
+    "tStartMs": 471080,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "value is that they would allow us to measure \nattosecond-scale events. But if the pulses  "
+    } ]
+  }, {
+    "tStartMs": 475520,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "themselves are attosecond-scale events, how \ncan we calibrate them to start with? It's  "
+    } ]
+  }, {
+    "tStartMs": 480040,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "like trying to measure your height with a series \nof rules whose individual length you don’t know."
+    } ]
+  }, {
+    "tStartMs": 484960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And here we get to our second Nobel \nLaureate, Pierre Agostini. Agostini  "
+    } ]
+  }, {
+    "tStartMs": 489320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "was able to calibrate the pulse train by \nagain using constructive and destructive  "
+    } ]
+  }, {
+    "tStartMs": 493360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "interference—this time in reference to \nthe ingoing laser beam. He did this by  "
+    } ]
+  }, {
+    "tStartMs": 497920,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "deflecting part of the beam and adding a \ndelay to it before recombining it with the  "
+    } ]
+  }, {
+    "tStartMs": 502440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "now-frequency-multiplied beam. In this way he \ncould measure the width of the pulses—clocking  "
+    } ]
+  }, {
+    "tStartMs": 507320,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "them at 250 attoseconds. He also found that \nthe pulses were what we call phase locked,  "
+    } ]
+  }, {
+    "tStartMs": 513920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "which means the beats were nice and consistent and \njust what we needed for attosecond measurements."
+    } ]
+  }, {
+    "tStartMs": 519320,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "These pulse trains provided pulses with \nattosecond temporal locality and separation,  "
+    } ]
+  }, {
+    "tStartMs": 525120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "just as we required. But for some applications \nit would be preferable to have single,  "
+    } ]
+  }, {
+    "tStartMs": 530800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "isolated attosecond pulses. And that \neffort is thanks to our third Laureate,  "
+    } ]
+  }, {
+    "tStartMs": 535280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Ferenc Krausz. I won’t go into the gory details, \nbut for your viewing pleasure here’s their  "
+    } ]
+  }, {
+    "tStartMs": 540360,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Rube-Goldberg experimental setup. With intricate \nphase and amplitude manipulation, they were able  "
+    } ]
+  }, {
+    "tStartMs": 546400,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "to create isolated pulses of 650 attoseconds, \nwhose width was known to 150 attosecond precision."
+    } ]
+  }, {
+    "tStartMs": 554600,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "OK, attosecond resolution achieved. So what can we do with it? As Krausz himself states  "
+    } ]
+  }, {
+    "tStartMs": 560160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "in an interview, they invented this \ntechnology because looking at Nature  "
+    } ]
+  }, {
+    "tStartMs": 563680,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "in a new way is wonderful, literally, it \nfills you with wonder. But we did just  "
+    } ]
+  }, {
+    "tStartMs": 569200,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "give ourselves a new superpower, \nso it’d be a shame not to use it."
+    } ]
+  }, {
+    "tStartMs": 573560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "The first application of attosecond pulses \nwas to look at electron motion in atoms and  "
+    } ]
+  }, {
+    "tStartMs": 577440,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "molecules. Electrons travel the breadth of \ntheir orbitals in a handful of attoseconds,  "
+    } ]
+  }, {
+    "tStartMs": 582760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "or rather the fuzzy quantum clouds that define the \nelectron in an atom change on that timescale. By  "
+    } ]
+  }, {
+    "tStartMs": 588480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "hitting these clouds with attosecond pulses we can \nstudy the shapes and dynamics of these electrons."
+    } ]
+  }, {
+    "tStartMs": 594320,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Attosecond pulses can also be used to \nmanipulate electrons on tiny timescales,  "
+    } ]
+  }, {
+    "tStartMs": 599080,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "which has a number of powerful applications. One \neffort that Ferenc Krausz’s team is working on  "
+    } ]
+  }, {
+    "tStartMs": 604400,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "at the Max Planck institute for Quantum \nOptics is in molecular fingerprinting,  "
+    } ]
+  }, {
+    "tStartMs": 609640,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "in which attosecond pulses are frequency-tuned \nto cause vibrations in specific molecules. In  "
+    } ]
+  }, {
+    "tStartMs": 614960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "this way the detailed molecular composition \nof a sample can potentially be cataloged. The  "
+    } ]
+  }, {
+    "tStartMs": 619280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Krausz team are using this to develop molecular \nfingerprinting devices for medical diagnosis."
+    } ]
+  }, {
+    "tStartMs": 625280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Another very exciting possibility is the creation \nof ultrafast electronics. If we have two metal  "
+    } ]
+  }, {
+    "tStartMs": 630080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "plates with opposite electric charge and we \nshoot an isolated attosecond pulse at one of  "
+    } ]
+  }, {
+    "tStartMs": 634960,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "the plates it can be absorbed by an electron, \nwhich hops to the second plate. This is the  "
+    } ]
+  }, {
+    "tStartMs": 640600,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "photoelectric effect, and we’ve known about it for \n120 years. But in the configuration I described  "
+    } ]
+  }, {
+    "tStartMs": 646720,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "it’s also a transistor, a key component in most \nof our technology. Regular transistors control  "
+    } ]
+  }, {
+    "tStartMs": 653960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "the flow of electricity between two charged \nplates by changing the charge in a third plate,  "
+    } ]
+  }, {
+    "tStartMs": 658680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "but this new type of transistor controls \nthe flow using light itself, which can in  "
+    } ]
+  }, {
+    "tStartMs": 663640,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "principle be much, much faster—especially if \nthe pulse width is measured in attoseconds.  "
+    } ]
+  }, {
+    "tStartMs": 669800,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Krausz claims that it may be possible \nto increase the power of computers by a  "
+    } ]
+  }, {
+    "tStartMs": 673120,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "factor of 100,000 this way. That sounds … \noptimistic. But even if we get a fraction  "
+    } ]
+  }, {
+    "tStartMs": 680760,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "of that it’s an incredible achievement, and \nmay save Moore's law for a few more decades."
+    } ]
+  }, {
+    "tStartMs": 687120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Those are just a couple of applications in \nmedicine and electronics, but as we look at  "
+    } ]
+  }, {
+    "tStartMs": 691360,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "the universe with this new tool we are bound to \nfind new applications and to make new discoveries.  "
+    } ]
+  }, {
+    "tStartMs": 696600,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "After all, every time we open a new window to \nthe universe new mysteries are revealed—whether  "
+    } ]
+  }, {
+    "tStartMs": 702400,
+    "dDurationMs": 7184,
+    "segs": [ {
+      "utf8": "that window is to the largest, the smallest, \nand now the fastest phenomena in Space Time"
+    } ]
+  } ]
+}

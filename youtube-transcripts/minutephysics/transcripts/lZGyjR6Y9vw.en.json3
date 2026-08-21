@@ -1,0 +1,505 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "\"Why hasn't extraterrestrial life contacted us \nyet?\" is the core question of the Fermi Paradox -  "
+    } ]
+  }, {
+    "tStartMs": 11360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "in short, the observable universe contains so many \nmillions of billions of stars and planets that the  "
+    } ]
+  }, {
+    "tStartMs": 16240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "chances of intelligent life arising elsewhere (and \nprobably many, many, many places elsewhere) seems  "
+    } ]
+  }, {
+    "tStartMs": 20720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "almost inevitable. And yet we haven't heard \nfrom any aliens. One possible explanation  "
+    } ]
+  }, {
+    "tStartMs": 25280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "is that we’re overlooking quantum mechanics.\nHere’s the thing: to communicate long distances  "
+    } ]
+  }, {
+    "tStartMs": 29680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "in space, it may be that you need to be using \nquantum communication. A fundamental problem with  "
+    } ]
+  }, {
+    "tStartMs": 34080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "interstellar communication is the speed of light \n- the distances between stars are just so big and  "
+    } ]
+  }, {
+    "tStartMs": 37920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "light takes so long to get there, you have to be \nreally efficient with your communication - you  "
+    } ]
+  }, {
+    "tStartMs": 41680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "don’t want to waste a decade to hear back “sorry, \nyou cut out for a moment, can you say that again?”"
+    } ]
+  }, {
+    "tStartMs": 45440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And it turns out that quantum communication \n- where you send photons that are entangled  "
+    } ]
+  }, {
+    "tStartMs": 48880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "or in a carefully superimposed quantum \nstate - quantum communication can be  "
+    } ]
+  }, {
+    "tStartMs": 52400,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "incredibly more information dense \nthan non-quantum communication:  "
+    } ]
+  }, {
+    "tStartMs": 55360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "in one protocol [superdense coding], any number \nof quantum bits can be used to transmit twice  "
+    } ]
+  }, {
+    "tStartMs": 58560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "as many non-quantum bits, and in another \nsetup [hidden matching problem] it takes  "
+    } ]
+  }, {
+    "tStartMs": 61200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "exponentially more non-quantum bits than \nquantum bits to transmit a particular type  "
+    } ]
+  }, {
+    "tStartMs": 65040,
+    "dDurationMs": 642,
+    "segs": [ {
+      "utf8": "of information [Onscreen note: Plus quantum \ncommunication allows certain computations  "
+    } ]
+  }, {
+    "tStartMs": 65682,
+    "dDurationMs": 558,
+    "segs": [ {
+      "utf8": "and levels of security impossible to replicate \nwith classical communication]. Though both of  "
+    } ]
+  }, {
+    "tStartMs": 66240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "these quantum efficiency gains have caveats \nthat we’ll explain later. But regardless,  "
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "quantum communication being more efficient \ndoesn’t on its own explain Fermi’s  "
+    } ]
+  }, {
+    "tStartMs": 73680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "“where are all the aliens?” paradox.\nQuantum communication, it turns out,  "
+    } ]
+  }, {
+    "tStartMs": 77200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "has some very particular requirements and it's \nthose that might/can help solve the fermi paradox. "
+    } ]
+  }, {
+    "tStartMs": 81440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Specifically, to send quantum information \nto someone else, you can’t just broadcast  "
+    } ]
+  }, {
+    "tStartMs": 84240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "a signal out in all directions like you can \nwith radio waves or whatever. The laws of  "
+    } ]
+  }, {
+    "tStartMs": 87760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "physics require the person receiving the quantum \ninformation to get over 50% of the photons you  "
+    } ]
+  }, {
+    "tStartMs": 92240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "send in order to reconstruct the info, so \ninstead of broadcasting a quantum signal,  "
+    } ]
+  }, {
+    "tStartMs": 95760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "you have to narrowcast - I mean, focus it. \nThe equation for this tells us that the size  "
+    } ]
+  }, {
+    "tStartMs": 99840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "of the transmitting and receiving telescopes \nmust be really really big - exactly how big  "
+    } ]
+  }, {
+    "tStartMs": 104080,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "depends on how far you are sending the message \nand what wavelength of light you’re using. "
+    } ]
+  }, {
+    "tStartMs": 107520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And the 50% receipt requirement means you have \nto send a quantum signal using photons with  "
+    } ]
+  }, {
+    "tStartMs": 111360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "wavelengths that will pass undisrupted \nboth through the earth’s atmosphere and  "
+    } ]
+  }, {
+    "tStartMs": 114640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "across interstellar space rather than getting \nscattered off of interstellar dust or whatever,  "
+    } ]
+  }, {
+    "tStartMs": 118240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and the numbers work out such that if you want \nto do quantum communication with Alpha Centauri  "
+    } ]
+  }, {
+    "tStartMs": 121760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "(the nearest star system to us), you’d \nneed a telescope around ~100km in size,  "
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and a bigger one for more distant locations.\nAnd this is not like the Very Large Array where  "
+    } ]
+  }, {
+    "tStartMs": 129760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "they have radio dishes really far apart \nto simulate having a large telescope,  "
+    } ]
+  }, {
+    "tStartMs": 132560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "in this case you actually have to build \nthe whole telescope because you have to  "
+    } ]
+  }, {
+    "tStartMs": 135040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "get more than 50% of the photons. Interstellar \nquantum communication is a hard thing to do. "
+    } ]
+  }, {
+    "tStartMs": 139280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Perhaps now you can start to see \nhow this explains the Fermi paradox:  "
+    } ]
+  }, {
+    "tStartMs": 142240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "suppose that widespread alien civilisations are \nusing interstellar quantum communication with  "
+    } ]
+  }, {
+    "tStartMs": 146160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "huge oversized telescopes. And for their quantum \ncommunications to work, each transmission has to  "
+    } ]
+  }, {
+    "tStartMs": 150480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "get the majority of the transmitted photons into \nthe receiving telescope. Which means that very few  "
+    } ]
+  }, {
+    "tStartMs": 154560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "would stray off by happenstance to be detected \nby our tiny/undersized telescopes. And because  "
+    } ]
+  }, {
+    "tStartMs": 158560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "we wouldn’t receive more than 50% of the photons \nfrom a transmission (both because we don’t have a  "
+    } ]
+  }, {
+    "tStartMs": 162240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "big enough telescope AND the signal wouldn’t be \npointed at us anyway), it wouldn’t be possible  "
+    } ]
+  }, {
+    "tStartMs": 165920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to understand the information we received.\nBasically - aliens communicating quantumly  "
+    } ]
+  }, {
+    "tStartMs": 170080,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "could be sending messages whizzing past \nus all the time and we wouldn’t know. "
+    } ]
+  }, {
+    "tStartMs": 173760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "PLUS any aliens that had telescopes powerful \nenough for quantum communication would also  "
+    } ]
+  }, {
+    "tStartMs": 177920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "consequently have telescopes good enough to see \nthat we DON’T have telescopes powerful enough  "
+    } ]
+  }, {
+    "tStartMs": 182000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "for quantum communication, so they would \nknow that sending us a message is futile,  "
+    } ]
+  }, {
+    "tStartMs": 185440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and therefore perhaps wouldn’t bother.\nIn summary: our theoretical and experimental  "
+    } ]
+  }, {
+    "tStartMs": 189600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "understanding of quantum information \nsuggests that aliens might be likely to use  "
+    } ]
+  }, {
+    "tStartMs": 192960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "quantum interstellar communication (rather than \nnon-quantum communication), which means aliens  "
+    } ]
+  }, {
+    "tStartMs": 197120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "would be sending narrowcast messages that would \nmostly pass us, and even if we could intercept  "
+    } ]
+  }, {
+    "tStartMs": 201440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "them we wouldn’t have the capacity to intercept \nenough to receive the message.  And therefore,  "
+    } ]
+  }, {
+    "tStartMs": 205280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "we would expect not to hear anything!\nAnd that’s the Fermi paradox, solved. "
+    } ]
+  }, {
+    "tStartMs": 210320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Kind of. There are still some open questions, \nlike: If aliens wanted to communicate with us and  "
+    } ]
+  }, {
+    "tStartMs": 214320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "could tell we couldn’t receive a quantum message, \nwhy wouldn’t they just send us a regular signal,  "
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "like with radio waves or something? And also \nIf aliens had travelled through the galaxy  "
+    } ]
+  }, {
+    "tStartMs": 221520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "to set up a network of giant telescopes, why \ncouldn’t they just come visit? …but answering  "
+    } ]
+  }, {
+    "tStartMs": 225200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "those is beyond the scope of this video.\nWhether you are an alien learning to build  "
+    } ]
+  }, {
+    "tStartMs": 230240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "an interstellar quantum communication network, \nor simply a human like me wanting to excel at  "
+    } ]
+  }, {
+    "tStartMs": 234160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "learning science, I highly recommend Brilliant, \nthis video’s sponsor. Brilliant allows you to  "
+    } ]
+  }, {
+    "tStartMs": 237680,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "learn by doing, utilising step-by-step interactive \nlessons to guide you to understand from first  "
+    } ]
+  }, {
+    "tStartMs": 241600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "principles, such as their Scientific Thinking \ncourse, which teaches logical and scientific  "
+    } ]
+  }, {
+    "tStartMs": 245040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "problem solving through the lens of everyday \nphysics and engineering puzzles. Brilliant makes  "
+    } ]
+  }, {
+    "tStartMs": 248880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "it easy for anyone, whether you are 10 or 110, to \nlearn in a more fun and effective way than just  "
+    } ]
+  }, {
+    "tStartMs": 253520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "watching videos. To sign up for Brilliant for \nfree and get 30 days of full access to all of  "
+    } ]
+  }, {
+    "tStartMs": 257520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "their courses go to Brilliant.org/MinutePhysics, \nscan the QR code onscreen, or click on the link  "
+    } ]
+  }, {
+    "tStartMs": 262160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "in the description. You’ll also get 20% off an \nannual Premium subscription for all of Brilliant’s  "
+    } ]
+  }, {
+    "tStartMs": 266000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "content. Again, that’s Brilliant.org/MinutePhysics \n- and thanks to Brilliant for their support."
+    } ]
+  }, {
+    "tStartMs": 270800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Ok, now for the caveats: the protocol called \nsuperdense quantum coding allows you to send  "
+    } ]
+  }, {
+    "tStartMs": 275360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "2 non-quantum bits of information \nfrom each quantum bit you send,  "
+    } ]
+  }, {
+    "tStartMs": 278560,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "which seems like a 2x speed up, except \nit requires the receiver to already be  "
+    } ]
+  }, {
+    "tStartMs": 282320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "in possession of an entangled quantum bit from \nthe sender in order to receive the message. SO,  "
+    } ]
+  }, {
+    "tStartMs": 286160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "you’d either have to bring a big supply of \npre-entangled quantum bits with you when you  "
+    } ]
+  }, {
+    "tStartMs": 289600,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "built the receiving telescope, or the sender \nwould still have to send two quantum bits to  "
+    } ]
+  }, {
+    "tStartMs": 293280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "transmit two non-quantum bits. In which case \nthey could just send the non-quantum ones."
+    } ]
+  }, {
+    "tStartMs": 297600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The other procedure, called the Hidden Matching \nProblem, which requires exponentially more  "
+    } ]
+  }, {
+    "tStartMs": 301600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "non-quantum bits to be sent than quantum \nones, this procedure ALSO requires the  "
+    } ]
+  }, {
+    "tStartMs": 305440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "receiver to already be in possession of some \ninformation, and it’s not clear exactly how it  "
+    } ]
+  }, {
+    "tStartMs": 308800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "would be turned into a general communication \nprotocol. But it has been proven that this  "
+    } ]
+  }, {
+    "tStartMs": 312240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "procedure is exponentially faster when you \ncommunicate quantumly, than non-quantumly."
+    } ]
+  } ]
+}

@@ -1,0 +1,697 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1819,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "Twenty-one grams."
+    } ]
+  }, {
+    "tStartMs": 3460,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "That is the mass of all of the electrons in\nyour body if, like me, you weigh about 70"
+    } ]
+  }, {
+    "tStartMs": 10200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "kilograms."
+    } ]
+  }, {
+    "tStartMs": 11200,
+    "dDurationMs": 4929,
+    "segs": [ {
+      "utf8": "Now all of the mass comes from the Higgs mechanism,\nwhich means that as your electrons are traveling"
+    } ]
+  }, {
+    "tStartMs": 16129,
+    "dDurationMs": 3621,
+    "segs": [ {
+      "utf8": "through space time, they interact with the\nHiggs field and it is that that gives them"
+    } ]
+  }, {
+    "tStartMs": 19750,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "their mass."
+    } ]
+  }, {
+    "tStartMs": 20800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It slows them down and stops them from traveling\nat the speed of light."
+    } ]
+  }, {
+    "tStartMs": 23920,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "But most of your mass doesn’t come from\nthe Higgs mechanism."
+    } ]
+  }, {
+    "tStartMs": 27580,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "And neither does all of this stuff that you\nsee around you."
+    } ]
+  }, {
+    "tStartMs": 31390,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "The mass is coming from somewhere quite different\nand that is because most of your mass and"
+    } ]
+  }, {
+    "tStartMs": 35500,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "most of this mass comes from neutrons and\nprotons and they are not fundamental particles."
+    } ]
+  }, {
+    "tStartMs": 40640,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "They are made of constituent particles called\nquarks."
+    } ]
+  }, {
+    "tStartMs": 43739,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "Now the theory that describes quarks and their\ninteractions with each other through gluons"
+    } ]
+  }, {
+    "tStartMs": 47840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "is called quantum chromo dynamics."
+    } ]
+  }, {
+    "tStartMs": 50320,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "And chromo is the Greek word for color."
+    } ]
+  }, {
+    "tStartMs": 52890,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "So in some way these objects are meant to\ncarry the color charge."
+    } ]
+  }, {
+    "tStartMs": 56950,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "But they are much, much smaller than the wavelength\nof visible light, so there is no way that"
+    } ]
+  }, {
+    "tStartMs": 61140,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "they are actually colored, but it is a useful\nanalogy that helps us think about how they"
+    } ]
+  }, {
+    "tStartMs": 65530,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "interact and the particles that they can make\nup."
+    } ]
+  }, {
+    "tStartMs": 68220,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Now the rules are pretty simple."
+    } ]
+  }, {
+    "tStartMs": 69680,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "In order for a particle to exist, it must\nbe colorless or white, like this house."
+    } ]
+  }, {
+    "tStartMs": 74810,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Now you can accomplish that in two different\nways."
+    } ]
+  }, {
+    "tStartMs": 77479,
+    "dDurationMs": 4771,
+    "segs": [ {
+      "utf8": "You could make three quarks in where each\none is a different color, red, green and blue,"
+    } ]
+  }, {
+    "tStartMs": 82250,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "so overall they combine to produce white."
+    } ]
+  }, {
+    "tStartMs": 84820,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Or you could use a quark and an anti quark\nwhere one is a color like green and the other"
+    } ]
+  }, {
+    "tStartMs": 90380,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "is its anti color, say, magenta."
+    } ]
+  }, {
+    "tStartMs": 94759,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "Now what I would like to do on this little\npatch of beach behind me is simulate how quarks"
+    } ]
+  }, {
+    "tStartMs": 98860,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "actually bind together and form different\nparticles."
+    } ]
+  }, {
+    "tStartMs": 102100,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Now for this you need to remember that in\nthe last video we talked about how empty space"
+    } ]
+  }, {
+    "tStartMs": 105899,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "is not truly empty."
+    } ]
+  }, {
+    "tStartMs": 107700,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So the beach here is has these undulations\nin it which represent the fluctuations in"
+    } ]
+  }, {
+    "tStartMs": 112180,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the gluon field."
+    } ]
+  }, {
+    "tStartMs": 113180,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "But you have to imagine this beach sort of\nrippling and these bumps coming and going."
+    } ]
+  }, {
+    "tStartMs": 117530,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "Now that is really important, because to get\nrid of those fluctuations actually takes energy."
+    } ]
+  }, {
+    "tStartMs": 122680,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "And this is an important part of binding the\nquarks together."
+    } ]
+  }, {
+    "tStartMs": 125710,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "The existence of quarks actually suppresses\nthe gluon fluctuations and creates what is"
+    } ]
+  }, {
+    "tStartMs": 130690,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "called a flux tube, an area where there is\nreally nothing in the vacuum and that is in"
+    } ]
+  }, {
+    "tStartMs": 135750,
+    "dDurationMs": 1771,
+    "segs": [ {
+      "utf8": "between this quark and the anti quark."
+    } ]
+  }, {
+    "tStartMs": 137521,
+    "dDurationMs": 4489,
+    "segs": [ {
+      "utf8": "And that pairs them up and creates what is\ncalled a meson, the quark, anti quark pair."
+    } ]
+  }, {
+    "tStartMs": 142010,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "What is interesting about that flux tube is\nthat as these quarks become more separated,"
+    } ]
+  }, {
+    "tStartMs": 146580,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "the flux tube remains the same diameter and\nthe same sort of depth of suppression of the"
+    } ]
+  }, {
+    "tStartMs": 151330,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "field, which means that the force doesn't\nactually increase."
+    } ]
+  }, {
+    "tStartMs": 153740,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "It is not like a spring."
+    } ]
+  }, {
+    "tStartMs": 154750,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "It is not like an elastic band."
+    } ]
+  }, {
+    "tStartMs": 156410,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The force is the same that is pulling these\nquarks back together."
+    } ]
+  }, {
+    "tStartMs": 160550,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "But you are putting more work in as you move\nthese quarks and anti quarks further apart."
+    } ]
+  }, {
+    "tStartMs": 165610,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And so for a time people thought: Well, these\nquarks are always going t be confined, however"
+    } ]
+  }, {
+    "tStartMs": 169060,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "far you move them."
+    } ]
+  }, {
+    "tStartMs": 170060,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "You are just going to get a really long flux\ntube."
+    } ]
+  }, {
+    "tStartMs": 172190,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "But what actually happens is you that you\nput in enough energy that you can actually"
+    } ]
+  }, {
+    "tStartMs": 175730,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "create a quark, anti quark pair."
+    } ]
+  }, {
+    "tStartMs": 179370,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "\u003e\u003e Nevertheless, the quarks are still combined."
+    } ]
+  }, {
+    "tStartMs": 181190,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "You can never see an individual quark, because\nif you try to pull it out, you put so much"
+    } ]
+  }, {
+    "tStartMs": 186810,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "energy into the situation that another quark,\nanti quark pair will be created."
+    } ]
+  }, {
+    "tStartMs": 191110,
+    "dDurationMs": 6670,
+    "segs": [ {
+      "utf8": "\u003e\u003e Now to form a proton, we are going to need\nan up quark, another up quark and a down quark."
+    } ]
+  }, {
+    "tStartMs": 197780,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Now the standard model of a proton that you\nhave probably seen involves these quarks bounded"
+    } ]
+  }, {
+    "tStartMs": 202020,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "together by little gluon springs that go between\nthem."
+    } ]
+  }, {
+    "tStartMs": 205150,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "\u003e\u003e We know that that picture is totally wrong\nnow."
+    } ]
+  }, {
+    "tStartMs": 207910,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "Even in the best sense you might have hoped\nthat you would see flux tubes around the edge"
+    } ]
+  }, {
+    "tStartMs": 214060,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "of the triangle."
+    } ]
+  }, {
+    "tStartMs": 215060,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But we know that, in fact, they don’t do\nthat."
+    } ]
+  }, {
+    "tStartMs": 216060,
+    "dDurationMs": 3009,
+    "segs": [ {
+      "utf8": "That you get these y shaped flex tubes."
+    } ]
+  }, {
+    "tStartMs": 219069,
+    "dDurationMs": 5351,
+    "segs": [ {
+      "utf8": "\u003e\u003e The crazy thing about a proton is that\nthere may be more than three quarks there."
+    } ]
+  }, {
+    "tStartMs": 224420,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "You see, you can have additional quark, anti\nquark pairs pop in and out of existence."
+    } ]
+  }, {
+    "tStartMs": 230260,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "So at any given time there could be five or\nseven or nine, any odd number of quarks could"
+    } ]
+  }, {
+    "tStartMs": 236030,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "make up a proton."
+    } ]
+  }, {
+    "tStartMs": 238180,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So this is what a proton actually looks like."
+    } ]
+  }, {
+    "tStartMs": 241420,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "You can see that the quarks like to sit on\nthose lumps in the gluon field."
+    } ]
+  }, {
+    "tStartMs": 245230,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "And you can see the two up quarks and a down\nquark, but there is also a strange quark and"
+    } ]
+  }, {
+    "tStartMs": 249490,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "an anti strange quark, which is strange, because\nyou don’t normally think of these quarks"
+    } ]
+  }, {
+    "tStartMs": 254450,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "being inside a proton, but they can be at\nany particular point in time."
+    } ]
+  }, {
+    "tStartMs": 258400,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And you can also see that these quarks have\ncleared out the vacuum."
+    } ]
+  }, {
+    "tStartMs": 261850,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "And you can see that there is kind of these\nflux tubes which are the areas where the gluon"
+    } ]
+  }, {
+    "tStartMs": 266060,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "field has been suppressed."
+    } ]
+  }, {
+    "tStartMs": 267980,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And that is really what is binding these quarks\ntogether."
+    } ]
+  }, {
+    "tStartMs": 270080,
+    "dDurationMs": 4679,
+    "segs": [ {
+      "utf8": "\u003e\u003e That is the strong force that binds quarks\ninto the heart of the proton."
+    } ]
+  }, {
+    "tStartMs": 274759,
+    "dDurationMs": 6041,
+    "segs": [ {
+      "utf8": "\u003e\u003e It is intrinsically related to the fact\nthat clearing out those fluctuations has more"
+    } ]
+  }, {
+    "tStartMs": 280800,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "energy than where they are."
+    } ]
+  }, {
+    "tStartMs": 283340,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "\u003e\u003e That is right."
+    } ]
+  }, {
+    "tStartMs": 284750,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "It costs energy to clear the vacuum."
+    } ]
+  }, {
+    "tStartMs": 288290,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "\u003e\u003e So where is the mass of the proton really\ncoming from?"
+    } ]
+  }, {
+    "tStartMs": 290820,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Well, of course, the constituent quarks do\ninteract with the Higgs field and that gives"
+    } ]
+  }, {
+    "tStartMs": 295320,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "them a small amount of mass."
+    } ]
+  }, {
+    "tStartMs": 297440,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "But if you add up the mass of all the quarks\nin the proton it would only account for about"
+    } ]
+  }, {
+    "tStartMs": 301940,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "one percent of its total mass."
+    } ]
+  }, {
+    "tStartMs": 305370,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So where is the rest of the mass coming from?"
+    } ]
+  }, {
+    "tStartMs": 307650,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "The answer is: energy."
+    } ]
+  }, {
+    "tStartMs": 309730,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "You know, Einstein’s famous equation: E\nequals mc squared."
+    } ]
+  }, {
+    "tStartMs": 312620,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Well, that says we have got a lot of energy\nfor just a little bit of a mass."
+    } ]
+  }, {
+    "tStartMs": 316690,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "But if you rearrange the equation you can\nsee that we can get an amount of mass if there"
+    } ]
+  }, {
+    "tStartMs": 321600,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "is lots of energy there."
+    } ]
+  }, {
+    "tStartMs": 323780,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "And that is really where most of the mass\nof the proton is coming from."
+    } ]
+  }, {
+    "tStartMs": 326750,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "It is from the fact that there are these energy\nfluctuations in the gluon field and the quarks"
+    } ]
+  }, {
+    "tStartMs": 331940,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "are interacting with those gluons."
+    } ]
+  }, {
+    "tStartMs": 333980,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "That is where your mass is coming from."
+    } ]
+  }, {
+    "tStartMs": 335230,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "It is coming from the energy that is in there."
+    } ]
+  }, {
+    "tStartMs": 337680,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "You know, Einstein talked about, well, if\nI had a hot cup of tea, it would actually"
+    } ]
+  }, {
+    "tStartMs": 341800,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "have a slightly greater mass than the same\ncup of tea when cold."
+    } ]
+  }, {
+    "tStartMs": 346610,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And he was right."
+    } ]
+  }, {
+    "tStartMs": 347610,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "I mean, you can’t measure it with a cup\nof tea, but most of your mass you owe to E"
+    } ]
+  }, {
+    "tStartMs": 351830,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "equals mc squared, you owe to the fact that\nyour mass is packed with energy, because of"
+    } ]
+  }, {
+    "tStartMs": 357000,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "the interactions between the quarks and these\ngluon fluctuations in that gluon field."
+    } ]
+  }, {
+    "tStartMs": 362060,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "I think it is extraordinary, because what\nwe think of as ordinarily empty space, you"
+    } ]
+  }, {
+    "tStartMs": 366330,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "know, that turns out to be the thing that\ngives us all most of our mass."
+    } ]
+  }, {
+    "tStartMs": 370850,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "I really want to thank Audible.com for supporting\nthis episode of Veritasium."
+    } ]
+  }, {
+    "tStartMs": 376630,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "In case you don’t know, Audble.com is a\nleading provider of audio books with over"
+    } ]
+  }, {
+    "tStartMs": 380850,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "100,000 titles in all areas of literature\nincluding fiction, non fiction and periodicals."
+    } ]
+  }, {
+    "tStartMs": 386389,
+    "dDurationMs": 2871,
+    "segs": [ {
+      "utf8": "You know, one of my favorite books is by James\nGleick."
+    } ]
+  }, {
+    "tStartMs": 389260,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "It is called The Information: A History, A\nTheory, A Flood."
+    } ]
+  }, {
+    "tStartMs": 392990,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "And if you head on over to Audible.com/Veritasium\nyou can download it right now for free."
+    } ]
+  }, {
+    "tStartMs": 399100,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Or you could pick another book of your choosing."
+    } ]
+  }, {
+    "tStartMs": 401350,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "You know, it is great to have support from\npeople like Audible, because that allows me"
+    } ]
+  }, {
+    "tStartMs": 404550,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "to keep this content for you for free."
+    } ]
+  }, {
+    "tStartMs": 407260,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "So please go check it out."
+    } ]
+  } ]
+}

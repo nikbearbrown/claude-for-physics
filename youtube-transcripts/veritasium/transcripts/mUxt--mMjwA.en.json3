@@ -1,0 +1,427 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1819,
+    "dDurationMs": 3071,
+    "segs": [ {
+      "utf8": "What are evolutionarily stable strategies?"
+    } ]
+  }, {
+    "tStartMs": 4890,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "\u003e\u003e In many cases it is kind of clear what\nis the best thing for an individual to do,"
+    } ]
+  }, {
+    "tStartMs": 9540,
+    "dDurationMs": 4219,
+    "segs": [ {
+      "utf8": "the best thing it can do to increase its survival\nwith deduction."
+    } ]
+  }, {
+    "tStartMs": 13759,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "But there are times when what is the best\nthing to do depends on what other individuals"
+    } ]
+  }, {
+    "tStartMs": 18050,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "in the population are doing, what, in particular,\nthe majority of individuals in the population"
+    } ]
+  }, {
+    "tStartMs": 23060,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "are doing."
+    } ]
+  }, {
+    "tStartMs": 24060,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "A hypothetical example we could call fishers\nand pirates."
+    } ]
+  }, {
+    "tStartMs": 28660,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And I am talking now about some kind of birds\nwhere there are two ways of getting fish."
+    } ]
+  }, {
+    "tStartMs": 33580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "These are sea birds."
+    } ]
+  }, {
+    "tStartMs": 34580,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Either you can fish for fish."
+    } ]
+  }, {
+    "tStartMs": 36540,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "You either dive in a sea of catfish or you\nhang about waiting for a bird that has caught"
+    } ]
+  }, {
+    "tStartMs": 41500,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "a fish and steal it."
+    } ]
+  }, {
+    "tStartMs": 42820,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Those are pirates."
+    } ]
+  }, {
+    "tStartMs": 44739,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "And these are two ways of making a living."
+    } ]
+  }, {
+    "tStartMs": 47489,
+    "dDurationMs": 1811,
+    "segs": [ {
+      "utf8": "Now what is the best thing to be?"
+    } ]
+  }, {
+    "tStartMs": 49300,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "A fisher or a pirate?"
+    } ]
+  }, {
+    "tStartMs": 51570,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "And the answer is that it is not obvious,\nbecause it depends on what the rest of the"
+    } ]
+  }, {
+    "tStartMs": 55032,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "population are doing."
+    } ]
+  }, {
+    "tStartMs": 57699,
+    "dDurationMs": 7070,
+    "segs": [ {
+      "utf8": "If the whole population is fishing then it\ncould very well be that an individual could"
+    } ]
+  }, {
+    "tStartMs": 64769,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "mutate and become a pirate, because there\nare plenty of fishing going on."
+    } ]
+  }, {
+    "tStartMs": 70479,
+    "dDurationMs": 2581,
+    "segs": [ {
+      "utf8": "And it is easy to steal a fish."
+    } ]
+  }, {
+    "tStartMs": 73060,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "So then you might say: Well, natural selection\nthen favors piracy, the gene for being a pirate"
+    } ]
+  }, {
+    "tStartMs": 78990,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "spreads through the population."
+    } ]
+  }, {
+    "tStartMs": 81060,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "In a few generations now everybody is a pirate."
+    } ]
+  }, {
+    "tStartMs": 83600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And there is no fish."
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 3189,
+    "segs": [ {
+      "utf8": "So piracy is not stable."
+    } ]
+  }, {
+    "tStartMs": 89189,
+    "dDurationMs": 2131,
+    "segs": [ {
+      "utf8": "It is an unstable..."
+    } ]
+  }, {
+    "tStartMs": 91320,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "it is evolutionary unstable."
+    } ]
+  }, {
+    "tStartMs": 93200,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "Fishing might also be unstable, because if\nthe whole population is fishing then a mutant"
+    } ]
+  }, {
+    "tStartMs": 99630,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "pirate invades, so a stable strategy is a\nstrategy such that when all the population"
+    } ]
+  }, {
+    "tStartMs": 107950,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "is doing it no mutant individual could arise\nwhich would do better."
+    } ]
+  }, {
+    "tStartMs": 113080,
+    "dDurationMs": 7180,
+    "segs": [ {
+      "utf8": "So neither fisher nor pirate in my hypothetical\nsort of game is evolutionarily stable."
+    } ]
+  }, {
+    "tStartMs": 120260,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "What might be evolutionarily stable is some\nkind of ratio."
+    } ]
+  }, {
+    "tStartMs": 124060,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "It might be 80 percent fishers and 20 percent\npirates, something of that sort."
+    } ]
+  }, {
+    "tStartMs": 129580,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "And the definition of stability in this case\nis when they are doing equally well."
+    } ]
+  }, {
+    "tStartMs": 134050,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "A well known example is the sex ratio where\nany departure from the stable sex ratio is"
+    } ]
+  }, {
+    "tStartMs": 141350,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "penalized by natural selection."
+    } ]
+  }, {
+    "tStartMs": 142630,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "If there are too many males an individual\nis better off having daughters."
+    } ]
+  }, {
+    "tStartMs": 146570,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "And if there are too many females in a population\nan individual is better off having sons."
+    } ]
+  }, {
+    "tStartMs": 151330,
+    "dDurationMs": 7990,
+    "segs": [ {
+      "utf8": "And so the stable ratio is 50-50, or, strictly\nspeaking, it is 50 percent investment, economic"
+    } ]
+  }, {
+    "tStartMs": 159320,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "investment in sons and economic investment\nin daughters."
+    } ]
+  }, {
+    "tStartMs": 163020,
+    "dDurationMs": 8110,
+    "segs": [ {
+      "utf8": "So an evolutionarily stable strategy is a\nstrategy which cannot be bettered by any other"
+    } ]
+  }, {
+    "tStartMs": 171130,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "strategy provided that everybody else in the\npopulation is doing it."
+    } ]
+  }, {
+    "tStartMs": 176940,
+    "dDurationMs": 7150,
+    "segs": [ {
+      "utf8": "\u003e\u003e You know, two years ago when this channel\nreached half a million subscribers, you guys"
+    } ]
+  }, {
+    "tStartMs": 184090,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "asked me who would I like to meet."
+    } ]
+  }, {
+    "tStartMs": 186520,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "And I answered: Bill Nye, Neil DeGrasse Tyson,\nRichard Dawkins."
+    } ]
+  }, {
+    "tStartMs": 190890,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "And since then, Bill Nye has taught me how\nto tie a bow tie."
+    } ]
+  }, {
+    "tStartMs": 193520,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "I got to interview Richard Dawkins and on\nAugust 22nd and 23rd I will be hosting Neil"
+    } ]
+  }, {
+    "tStartMs": 198470,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "DeGrasse Tyson in Sydney and Canberra."
+    } ]
+  }, {
+    "tStartMs": 201200,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Link in the description."
+    } ]
+  }, {
+    "tStartMs": 202820,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "And I really want to thank you guys, because\nI think it is your support that has made this"
+    } ]
+  }, {
+    "tStartMs": 206570,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "all happen."
+    } ]
+  }, {
+    "tStartMs": 207570,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "You know, this video was animated by the Lyosax\nwho is a viewer, but also runs his own channel."
+    } ]
+  }, {
+    "tStartMs": 212050,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So you should check it out if you like those\nanimations."
+    } ]
+  }, {
+    "tStartMs": 214750,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Plus, Audible.com has been the long term sponsor\nof this channel and what I love is that they"
+    } ]
+  }, {
+    "tStartMs": 219010,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "are sharing information just like I like to."
+    } ]
+  }, {
+    "tStartMs": 221140,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "You know, this week it makes sense to share\na Richard Dawkins book."
+    } ]
+  }, {
+    "tStartMs": 224220,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "My favorite is The Selfish Gene, because it\nis not about a gene for selfishness."
+    } ]
+  }, {
+    "tStartMs": 228610,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "It is about how genes themselves behave in\nselfish ways."
+    } ]
+  }, {
+    "tStartMs": 232010,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And sometimes that means the organism that\ncontains those genes behaves in strange ways,"
+    } ]
+  }, {
+    "tStartMs": 236930,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "ways you might not imagine."
+    } ]
+  }, {
+    "tStartMs": 238590,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "And that was a real consciousness raiser for\nme."
+    } ]
+  }, {
+    "tStartMs": 240970,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "So you should definitely check out this book\nif you haven’t read it already."
+    } ]
+  }, {
+    "tStartMs": 243390,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "You can actually download it for free, read\nby Richard Dawkins, by going to Audible.com/Veritasium."
+    } ]
+  }, {
+    "tStartMs": 248590,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Or you can pick any other book of your choosing\nfor a one month free trial."
+    } ]
+  }, {
+    "tStartMs": 252130,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Audible is an awesome audio book website with\nover hundreds of thousands of titles in all"
+    } ]
+  }, {
+    "tStartMs": 256250,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "areas of literature including fiction, no\nfiction and periodicals."
+    } ]
+  }, {
+    "tStartMs": 259510,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So really you should check them out if you\nare at all into audio books."
+    } ]
+  }, {
+    "tStartMs": 262870,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Most of all I want to say thank you to you\nfor making it possible for me to meet my idols."
+    } ]
+  } ]
+}

@@ -1,0 +1,1273 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 470,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "When we finally have a quantum internet you’ll\nbe able to simultaneously like and dislike"
+    } ]
+  }, {
+    "tStartMs": 5120,
+    "dDurationMs": 1409,
+    "segs": [ {
+      "utf8": "this video."
+    } ]
+  }, {
+    "tStartMs": 6529,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "But we don’t yet."
+    } ]
+  }, {
+    "tStartMs": 7880,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "So I hope you like it."
+    } ]
+  }, {
+    "tStartMs": 14620,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "The world is widely regarded as being well\nand truly into the digital age, also called"
+    } ]
+  }, {
+    "tStartMs": 20150,
+    "dDurationMs": 1529,
+    "segs": [ {
+      "utf8": "the information age."
+    } ]
+  }, {
+    "tStartMs": 21679,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "No longer are economies and industries are solely\ncharacterized by the physical goods they produce,"
+    } ]
+  }, {
+    "tStartMs": 26779,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "and in fact some of the largest companies\nin the world produce no physical goods at all:"
+    } ]
+  }, {
+    "tStartMs": 31069,
+    "dDurationMs": 4711,
+    "segs": [ {
+      "utf8": "digital information is a commodity in\nits own right."
+    } ]
+  }, {
+    "tStartMs": 35780,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "As discussed in a previous episode, this worldwide\ndigital economy is fundamentally reliant on"
+    } ]
+  }, {
+    "tStartMs": 41070,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "certain cryptographic processes."
+    } ]
+  }, {
+    "tStartMs": 43520,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Currently these processes work in the realm\nof classical cryptography, but one day soon"
+    } ]
+  }, {
+    "tStartMs": 48530,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "this may not be enough and so quantum cryptographic\nmethods and algorithms are being developed."
+    } ]
+  }, {
+    "tStartMs": 53940,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "However, it’s one thing to design a protocol,\nit’s something else entirely to build a"
+    } ]
+  }, {
+    "tStartMs": 58700,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "system to support it."
+    } ]
+  }, {
+    "tStartMs": 60280,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "To understand what needs to be done we need\nto get to the foundations of quantum mechanics"
+    } ]
+  }, {
+    "tStartMs": 64690,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "- we need to talk about quantum information\ntheory."
+    } ]
+  }, {
+    "tStartMs": 69190,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "First plain-old non-quantum information theory\n- the study of the creation, storage, and"
+    } ]
+  }, {
+    "tStartMs": 74620,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "transmission of information, typically in\nthe form of classical bits, 1’s and 0’s."
+    } ]
+  }, {
+    "tStartMs": 81470,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "Claude Shannon started it all with his 1948\npaper “A Mathematical Theory of Communication”,"
+    } ]
+  }, {
+    "tStartMs": 88330,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "which quantified the rate of digital information\nthat can be transferred without error given"
+    } ]
+  }, {
+    "tStartMs": 93820,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "the amount of noise in a communication channel."
+    } ]
+  }, {
+    "tStartMs": 97760,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Information theory has since blossomed into\na full science, ultimately connecting the"
+    } ]
+  }, {
+    "tStartMs": 102170,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "concept of information and certain fundamentals\nof physics - such as entropy, and also quantum"
+    } ]
+  }, {
+    "tStartMs": 108720,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "theory."
+    } ]
+  }, {
+    "tStartMs": 109820,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Quantum information theory parallels classical\ninformation theory, but instead of using classical"
+    } ]
+  }, {
+    "tStartMs": 114440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "bits, it deals bits of quantum information\n- qubits."
+    } ]
+  }, {
+    "tStartMs": 118360,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "Qubits enjoy all of the weirdness of quantum\nmechanics - they can be in a superposition"
+    } ]
+  }, {
+    "tStartMs": 123770,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "of many states at once, defined only when\nthey are measured, two qubits can be entangled"
+    } ]
+  }, {
+    "tStartMs": 129310,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "with each other, so both of their states are\ndetermined when one is measured; they can"
+    } ]
+  }, {
+    "tStartMs": 133670,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "even be teleported."
+    } ]
+  }, {
+    "tStartMs": 135410,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Qubits are also subject to some fundamental\nrestrictions, which I’ll get to."
+    } ]
+  }, {
+    "tStartMs": 141030,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "Those restrictions, on top of all the weirdness,\ndefine the challenge of transmitting and storing"
+    } ]
+  }, {
+    "tStartMs": 146570,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "quantum information."
+    } ]
+  }, {
+    "tStartMs": 147640,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "But first, a reminder why we want to muck\naround with quantum info in the first place."
+    } ]
+  }, {
+    "tStartMs": 153510,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "First there’s the whole quantum computer\nthing - in those, the ability for a qubit"
+    } ]
+  }, {
+    "tStartMs": 158030,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "to hold many simultaneous states can lead\nto massive speed-ups in certain types of computing."
+    } ]
+  }, {
+    "tStartMs": 163930,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Partly motivated by the cryptographic-cracking\npower of the quantum computer, we also want"
+    } ]
+  }, {
+    "tStartMs": 168940,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "to think about a quantum internet."
+    } ]
+  }, {
+    "tStartMs": 170970,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "In fact we already did."
+    } ]
+  }, {
+    "tStartMs": 173630,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "In our episode on quantum key distribution\nwe talked about two schemes for sharing cryptographic"
+    } ]
+  }, {
+    "tStartMs": 179200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "keys that should be far more secure than classical\ncounterparts."
+    } ]
+  }, {
+    "tStartMs": 183520,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "But these only work if you can actually send\nentangled quantum states between parties - that"
+    } ]
+  }, {
+    "tStartMs": 189660,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "means transmitting qubits over long distances\nperfectly intact."
+    } ]
+  }, {
+    "tStartMs": 194540,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So ultimately what is preventing from us just\nsetting up these networks and getting on with"
+    } ]
+  }, {
+    "tStartMs": 198580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it?"
+    } ]
+  }, {
+    "tStartMs": 199580,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "We can already send photons of light very\nlong distances using lasers or fiber optics"
+    } ]
+  }, {
+    "tStartMs": 203880,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "- and those photons are pretty quantum."
+    } ]
+  }, {
+    "tStartMs": 207390,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "The problem is that to transmit quantum information\nwe have to pay attention to individual photons"
+    } ]
+  }, {
+    "tStartMs": 212150,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "- quanta of light."
+    } ]
+  }, {
+    "tStartMs": 214269,
+    "dDurationMs": 5531,
+    "segs": [ {
+      "utf8": "To transfer classical information using light,\neach bit is encoded with many photons, and"
+    } ]
+  }, {
+    "tStartMs": 219800,
+    "dDurationMs": 4659,
+    "segs": [ {
+      "utf8": "many can be lost or altered en route without\ncompromising the signal."
+    } ]
+  }, {
+    "tStartMs": 224459,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "If too many photons are lost you\ncan just run the channel through a repeater,"
+    } ]
+  }, {
+    "tStartMs": 229209,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "which reads the signal and boosts it with\nextra photons."
+    } ]
+  }, {
+    "tStartMs": 232680,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "It’s much harder to transmit single photons\nin a way that perfectly maintains their quantum"
+    } ]
+  }, {
+    "tStartMs": 238680,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "state."
+    } ]
+  }, {
+    "tStartMs": 239680,
+    "dDurationMs": 4779,
+    "segs": [ {
+      "utf8": "And it’s fundamentally impossible to boost\nthat signal by duplicating those photons."
+    } ]
+  }, {
+    "tStartMs": 244459,
+    "dDurationMs": 4991,
+    "segs": [ {
+      "utf8": "This impossibility is referred to as the no-cloning\ntheorem."
+    } ]
+  }, {
+    "tStartMs": 249450,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "It simply states that: “you cannot take\na quantum state and copy it perfectly and end"
+    } ]
+  }, {
+    "tStartMs": 254260,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "up with two copies of the same state existing\nat the same time”."
+    } ]
+  }, {
+    "tStartMs": 258380,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "This is connected to the law of conservation\nof quantum information, which we’ve talked"
+    } ]
+  }, {
+    "tStartMs": 262930,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "about before - it comes from the fact that\nevery quantum state in the universe must be"
+    } ]
+  }, {
+    "tStartMs": 267370,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "perfectly traceable - single quantum state\nto single quantum state - both forwards and"
+    } ]
+  }, {
+    "tStartMs": 272880,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "backwards in time."
+    } ]
+  }, {
+    "tStartMs": 274460,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "That prohibits a quantum state vanishing,\nbut also splitting in two - or being copied."
+    } ]
+  }, {
+    "tStartMs": 280770,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "The no cloning theorem means that as soon\nas you try to read a qubit, which you have"
+    } ]
+  }, {
+    "tStartMs": 284479,
+    "dDurationMs": 4771,
+    "segs": [ {
+      "utf8": "to do at some point to make the copy, you\ndisturb the state in such a way that you will"
+    } ]
+  }, {
+    "tStartMs": 289250,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "never end up with two exact copies of the\nsame quantum state."
+    } ]
+  }, {
+    "tStartMs": 293060,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "Plus, even if you could copy it, you wouldn’t\nreally be able to transmit an entangled quantum"
+    } ]
+  }, {
+    "tStartMs": 298590,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "state because the act of reading in the state\nto copy it would destroy the entanglement"
+    } ]
+  }, {
+    "tStartMs": 303520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "through a phenomenon called decoherence."
+    } ]
+  }, {
+    "tStartMs": 306960,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "While it’s impossible to copy a qubit, it\nIS possible to overwrite one - and it can"
+    } ]
+  }, {
+    "tStartMs": 312550,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "be overwritten with exactly the same state\nbut in a completely different location."
+    } ]
+  }, {
+    "tStartMs": 317970,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "In other words, qubits can be teleported."
+    } ]
+  }, {
+    "tStartMs": 321960,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "This doesn’t allow faster-than-light communication nor teleportation of actual matter,\nbecause a classical, sub-light-speed channel"
+    } ]
+  }, {
+    "tStartMs": 329120,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "is still needed to extract the information."
+    } ]
+  }, {
+    "tStartMs": 332750,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "But quantum information DOES allow us to\nmassively extend the range over which we can"
+    } ]
+  }, {
+    "tStartMs": 337510,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "send an intact qubit."
+    } ]
+  }, {
+    "tStartMs": 339580,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "No copying or boosting needed."
+    } ]
+  }, {
+    "tStartMs": 341460,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Think of it this way:"
+    } ]
+  }, {
+    "tStartMs": 343210,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "Two people, let’s say Bill and Ted, are\nconnected by a classical channel and a quantum"
+    } ]
+  }, {
+    "tStartMs": 348320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "channel."
+    } ]
+  }, {
+    "tStartMs": 349320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The classical channel can be anything - a\nfibre optic cable, a telephone wire,"
+    } ]
+  }, {
+    "tStartMs": 353240,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "the Pony Express, whatever, while the quantum channel\nneeds to carry intact quantum states -"
+    } ]
+  }, {
+    "tStartMs": 358860,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "so it's probably fibre optics."
+    } ]
+  }, {
+    "tStartMs": 360700,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "A pair of entangled particles are created,\nand Bill and Ted receive one each via the"
+    } ]
+  }, {
+    "tStartMs": 366470,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "quantum channel."
+    } ]
+  }, {
+    "tStartMs": 368470,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Bill has qubit A and Ted has qubit B. Now,\nsay Bill wants to send a message to Ted, and"
+    } ]
+  }, {
+    "tStartMs": 374050,
+    "dDurationMs": 6119,
+    "segs": [ {
+      "utf8": "that message is stored as the state of a third\nqubit – qubit C. That would be only one"
+    } ]
+  }, {
+    "tStartMs": 380169,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "bit of information, but you could always use\nmore qubits."
+    } ]
+  }, {
+    "tStartMs": 383840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "To send that message, Bill performs a particular\ntype of measurement on his qubits"
+    } ]
+  }, {
+    "tStartMs": 388160,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "called a Bell measurement - not a 'Bill' measurement."
+    } ]
+  }, {
+    "tStartMs": 392100,
+    "dDurationMs": 5379,
+    "segs": [ {
+      "utf8": "Performing this measurement simultaneously\non A and C entangles these qubits but breaks"
+    } ]
+  }, {
+    "tStartMs": 397479,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "the entanglement between A and B. However\nqubit B then has to be in whatever state C"
+    } ]
+  }, {
+    "tStartMs": 403639,
+    "dDurationMs": 2061,
+    "segs": [ {
+      "utf8": "was in prior to the measurement."
+    } ]
+  }, {
+    "tStartMs": 405700,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "Let’s look at a more concrete example – although\nI have to say that this is way oversimplified."
+    } ]
+  }, {
+    "tStartMs": 410699,
+    "dDurationMs": 3911,
+    "segs": [ {
+      "utf8": "Qubits A and B could be the polarization states\nof two photons."
+    } ]
+  }, {
+    "tStartMs": 414610,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "They’re entangled so that they have opposite\npolarization, say one is vertical the other"
+    } ]
+  }, {
+    "tStartMs": 419120,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "is horizontal."
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Measure one and you immediately know the other."
+    } ]
+  }, {
+    "tStartMs": 423330,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "Now Bill takes photon A and entangles it with\nphoton C using a Bell measurement so that"
+    } ]
+  }, {
+    "tStartMs": 429600,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "now A and C have opposite polarization."
+    } ]
+  }, {
+    "tStartMs": 432740,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Photon B, which was opposite to A, must now\nbe the same polarization as the original photon C."
+    } ]
+  }, {
+    "tStartMs": 438320,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "At this point the original quantum state\nof photon C, which contains the message, has been almost completely teleported"
+    } ]
+  }, {
+    "tStartMs": 445449,
+    "dDurationMs": 5461,
+    "segs": [ {
+      "utf8": "to photon B. The reason it’s an incomplete explanation\nis that there is more to the quantum state"
+    } ]
+  }, {
+    "tStartMs": 450910,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "of C than simply the aspect of polarization\nthat is fixed by the entanglement."
+    } ]
+  }, {
+    "tStartMs": 456500,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "The remaining information of the quantum state\nis actually obtained by observing the outcome"
+    } ]
+  }, {
+    "tStartMs": 461360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "of the process that generated the entanglement\nitself."
+    } ]
+  }, {
+    "tStartMs": 464480,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "This measurement outcome is encoded in two\nclassical bits which Bill sends to Ted along"
+    } ]
+  }, {
+    "tStartMs": 469000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "the classical channel."
+    } ]
+  }, {
+    "tStartMs": 470500,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Using the information in these two bits Ted\ncan then calibrate a measurement of his own"
+    } ]
+  }, {
+    "tStartMs": 475640,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "qubit B, after which that qubit will\nbe in the state qubit C was at the start."
+    } ]
+  }, {
+    "tStartMs": 481600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "A minor technical caveat is that you we are only\nusing photonic qubits then it's not so easy"
+    } ]
+  }, {
+    "tStartMs": 486600,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "to perform a Bell measurement that will give\nall of the information we need for this final"
+    } ]
+  }, {
+    "tStartMs": 491120,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "step, but all of this is definitely possible with matter\nqubits."
+    } ]
+  }, {
+    "tStartMs": 496680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Combined with a quantum key distribution protocol,\nthis can give a mechanism for secure communication."
+    } ]
+  }, {
+    "tStartMs": 502360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It can also be used to transmit quantum information\nover longer distances than we could normally"
+    } ]
+  }, {
+    "tStartMs": 507170,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "send entangled particles."
+    } ]
+  }, {
+    "tStartMs": 509250,
+    "dDurationMs": 4369,
+    "segs": [ {
+      "utf8": "Just position repeaters along the quantum\nchannel between Bill and Ted."
+    } ]
+  }, {
+    "tStartMs": 513619,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Bill performs the above trick with the nearest\nrepeater, that repeater communicates with"
+    } ]
+  }, {
+    "tStartMs": 517389,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "the next repeater, and so on until we reach\nTed – who should still get a copy of the"
+    } ]
+  }, {
+    "tStartMs": 521909,
+    "dDurationMs": 5501,
+    "segs": [ {
+      "utf8": "original qubit C. In principle this can be\ndone without the quantum channel ever becoming"
+    } ]
+  }, {
+    "tStartMs": 527410,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "un-quantum."
+    } ]
+  }, {
+    "tStartMs": 528850,
+    "dDurationMs": 1929,
+    "segs": [ {
+      "utf8": "Which means it stays secure."
+    } ]
+  }, {
+    "tStartMs": 530779,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "OK, sounds easy, right? but there are complications."
+    } ]
+  }, {
+    "tStartMs": 534779,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It’s pretty much impossible to do all the\ntransmissions, entanglements, and measurements"
+    } ]
+  }, {
+    "tStartMs": 539179,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "in perfect synchrony."
+    } ]
+  }, {
+    "tStartMs": 541499,
+    "dDurationMs": 6231,
+    "segs": [ {
+      "utf8": "Quantum states have to somehow be stored – by\nBill, by Ted, and by the repeaters in between."
+    } ]
+  }, {
+    "tStartMs": 547730,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "This typically means transferring a quantum\nstate between a photon and a matter particle"
+    } ]
+  }, {
+    "tStartMs": 552010,
+    "dDurationMs": 5309,
+    "segs": [ {
+      "utf8": "– say, an electron whose up or down spin\ndirection can be entangled with the polarization"
+    } ]
+  }, {
+    "tStartMs": 557319,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "state of a photon."
+    } ]
+  }, {
+    "tStartMs": 558769,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "But storing delicate quantum states for any\nlength of time is hard work – especially"
+    } ]
+  }, {
+    "tStartMs": 563360,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "if you don’t want insanely expensive supercooled\ndevices."
+    } ]
+  }, {
+    "tStartMs": 567660,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Experimentalists have of course come up with\na number of ingenious solutions, ranging from"
+    } ]
+  }, {
+    "tStartMs": 571940,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "storing entangled photon quantum states in\na cloud of caesium atoms, a kind of quantum"
+    } ]
+  }, {
+    "tStartMs": 577499,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "atomic disk drive, or the spin-state of a\nsingle electron in a nitrogen atom embedded"
+    } ]
+  }, {
+    "tStartMs": 583279,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "in diamond crystal."
+    } ]
+  }, {
+    "tStartMs": 585199,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "In the future, if entangled states can be\nmaintained for long periods, it may be possible"
+    } ]
+  }, {
+    "tStartMs": 590619,
+    "dDurationMs": 5821,
+    "segs": [ {
+      "utf8": "for two people to hold a large array of mutually\nentangled qubits, which they could use to"
+    } ]
+  }, {
+    "tStartMs": 596440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "communicate by exchanging classical Bell measurement data."
+    } ]
+  }, {
+    "tStartMs": 600689,
+    "dDurationMs": 5551,
+    "segs": [ {
+      "utf8": "This could also be done between many individuals\nin a centralized node – a sort of quantum"
+    } ]
+  }, {
+    "tStartMs": 606250,
+    "dDurationMs": 1329,
+    "segs": [ {
+      "utf8": "switchboard."
+    } ]
+  }, {
+    "tStartMs": 607579,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "There are also proposals for removing the\nneed for physical storage all together, with"
+    } ]
+  }, {
+    "tStartMs": 611660,
+    "dDurationMs": 2589,
+    "segs": [ {
+      "utf8": "repeaters that are entirely photonic."
+    } ]
+  }, {
+    "tStartMs": 614249,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "These are great because they’re much, much\nfaster than repeaters that have to transfer"
+    } ]
+  }, {
+    "tStartMs": 618679,
+    "dDurationMs": 3371,
+    "segs": [ {
+      "utf8": "quantum states between photons and matter\nparticles."
+    } ]
+  }, {
+    "tStartMs": 622050,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "So the current state of the art is that entangled\nquantum states have been transmitted with"
+    } ]
+  }, {
+    "tStartMs": 626470,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "photons using fibre optics and lasers."
+    } ]
+  }, {
+    "tStartMs": 629769,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Some researchers have even succeeded in bouncing\nentangled photons off a satellite."
+    } ]
+  }, {
+    "tStartMs": 634989,
+    "dDurationMs": 5501,
+    "segs": [ {
+      "utf8": "These photons can then transfer their entangled\nstates into a variety of matter storage systems,"
+    } ]
+  }, {
+    "tStartMs": 640490,
+    "dDurationMs": 4909,
+    "segs": [ {
+      "utf8": "which may eventually serve as repeaters to\nextend the range and connect a network of"
+    } ]
+  }, {
+    "tStartMs": 645399,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "these quantum channels."
+    } ]
+  }, {
+    "tStartMs": 647480,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "Reliability and speed are not where we need\nthem to be, but the progress is fast."
+    } ]
+  }, {
+    "tStartMs": 652119,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "We currently live in the information age,\nbut it’s a classical information age."
+    } ]
+  }, {
+    "tStartMs": 657329,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "We’ve gotten pretty far sending streams\nof 1’s and 0’s round the world, but if"
+    } ]
+  }, {
+    "tStartMs": 661519,
+    "dDurationMs": 5181,
+    "segs": [ {
+      "utf8": "we could build truly quantum networks we’ll\nalso be able to build the next generation"
+    } ]
+  }, {
+    "tStartMs": 666700,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "of cryptographic protocols, distributed quantum\ncomputers, as well as achieve new levels of"
+    } ]
+  }, {
+    "tStartMs": 672249,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "atomic clock synchronization and extreme precision\nin our interferometric telescopes."
+    } ]
+  }, {
+    "tStartMs": 678319,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "The quantum information age is around the\ncorner."
+    } ]
+  }, {
+    "tStartMs": 681619,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "I’m guessing we’ll go with “quantum\nage” - as the quantum internet enables us"
+    } ]
+  }, {
+    "tStartMs": 686799,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "to take advantage of the incredible properties\nof our quantum space time."
+    } ]
+  }, {
+    "tStartMs": 692559,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "In a recent episode we talked about Thorium\nand the future of Nuclear Energy!"
+    } ]
+  }, {
+    "tStartMs": 697100,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "You guys had a lot to say."
+    } ]
+  }, {
+    "tStartMs": 698999,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "austin holbrook says we need to do a better\njob of breaking the common misconception that"
+    } ]
+  }, {
+    "tStartMs": 703280,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "nuclear power plants can explode like Atom bombs."
+    } ]
+  }, {
+    "tStartMs": 706600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "In fact, they cannot -  and I wished we'd a done a better job emphasizing that."
+    } ]
+  }, {
+    "tStartMs": 710680,
+    "dDurationMs": 5579,
+    "segs": [ {
+      "utf8": "It's really, really hard to even make a critical\nmass of fissile material explode like an atom"
+    } ]
+  }, {
+    "tStartMs": 716259,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "bomb - it's a very precise engineering feat."
+    } ]
+  }, {
+    "tStartMs": 719540,
+    "dDurationMs": 5239,
+    "segs": [ {
+      "utf8": "And there's absolutely no way that a bunch of fuel\nrods could do that."
+    } ]
+  }, {
+    "tStartMs": 724779,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Deri662 points out that proliferation is an\nespecially lower risk from thorium reactors"
+    } ]
+  }, {
+    "tStartMs": 729249,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "due to the fact that the U-233 bred by that\nreactor is very difficult to handle in bomb-making."
+    } ]
+  }, {
+    "tStartMs": 735389,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "That's because it decays to protactinium isotope\nthat itself decays to emit a very high energy"
+    } ]
+  }, {
+    "tStartMs": 741990,
+    "dDurationMs": 6029,
+    "segs": [ {
+      "utf8": "gamma ray, and that gamma radiation can fry\nbomb electronics and is relatively easily"
+    } ]
+  }, {
+    "tStartMs": 748019,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "detected."
+    } ]
+  }, {
+    "tStartMs": 749019,
+    "dDurationMs": 5651,
+    "segs": [ {
+      "utf8": "This is a good point, it's not quite foolproof\nbecause the decay products leading to protactinium"
+    } ]
+  }, {
+    "tStartMs": 754670,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "can potentially be separated and removed."
+    } ]
+  }, {
+    "tStartMs": 756980,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "That said, anything that raises the bar on\nproliferation is good."
+    } ]
+  }, {
+    "tStartMs": 761720,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "I feel that the greatest proliferation threat\nis easy acquisition of weaponizable material"
+    } ]
+  }, {
+    "tStartMs": 768040,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "by small, crackpot outfits that probably couldn't do that separation easily."
+    } ]
+  }, {
+    "tStartMs": 773149,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Sam Ferguson mentions the pebble bed reactor."
+    } ]
+  }, {
+    "tStartMs": 775759,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "Yeah, that's a good one that we had to cut\nout the script due to length."
+    } ]
+  }, {
+    "tStartMs": 780600,
+    "dDurationMs": 4209,
+    "segs": [ {
+      "utf8": "Nuclear fuel - typically uranium - is encased\nin graphite balls."
+    } ]
+  }, {
+    "tStartMs": 784809,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "The balls act as the moderator so that each\npebble emits neutrons with the correct speed"
+    } ]
+  }, {
+    "tStartMs": 789259,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "for sustaining fission in surrounding pebbles."
+    } ]
+  }, {
+    "tStartMs": 792019,
+    "dDurationMs": 4341,
+    "segs": [ {
+      "utf8": "They all lie in a big pile and spent pebbles\nare cycled out from the bottom."
+    } ]
+  }, {
+    "tStartMs": 796360,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "It's cool because it's passively cooled by\ngas flow - for example, helium."
+    } ]
+  }, {
+    "tStartMs": 800439,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "A gas coolant means that the coolant can't boil,\nlike it did in Chernobyl."
+    } ]
+  }, {
+    "tStartMs": 806459,
+    "dDurationMs": 5661,
+    "segs": [ {
+      "utf8": "And in fact the system has much higher temperature\ntolerance even if the coolant escapes - natural"
+    } ]
+  }, {
+    "tStartMs": 812120,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "air circulation should keep it sub-meltdown temperature."
+    } ]
+  }, {
+    "tStartMs": 816749,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "One problem is that it's hard to access and\ninspect individual pebbles in the middle of"
+    } ]
+  }, {
+    "tStartMs": 820569,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the pile, so cracks in the graphite can go\nundetected."
+    } ]
+  }, {
+    "tStartMs": 823569,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Still, it seems a lot safer than a traditional\nlight-water reactor."
+    } ]
+  }, {
+    "tStartMs": 828379,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "TACCOFSX asks why the absorption of neutrons\ntransform U-238 into Pu-239."
+    } ]
+  }, {
+    "tStartMs": 833629,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "Yeah, I breezed over that point."
+    } ]
+  }, {
+    "tStartMs": 838550,
+    "dDurationMs": 3439,
+    "segs": [ {
+      "utf8": "Absorption of a neutron by itself doesn't\nchange the element type - just the isotope."
+    } ]
+  }, {
+    "tStartMs": 842000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So U-238 turns to U-239, still with 92 protons."
+    } ]
+  }, {
+    "tStartMs": 847200,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "But U-239 is unstable and the extra\nneutron quickly decays into a proton, emitting"
+    } ]
+  }, {
+    "tStartMs": 854439,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "an electron and a neutrino, bumping it one\nup on the periodic table."
+    } ]
+  }, {
+    "tStartMs": 859640,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "This is a common process, and it's how all\nthe so-called trans-uranic elements get created"
+    } ]
+  }, {
+    "tStartMs": 865059,
+    "dDurationMs": 1341,
+    "segs": [ {
+      "utf8": "in fission reactors."
+    } ]
+  }, {
+    "tStartMs": 867080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Cory Johnson notes that this discussion about\nthorium reactors is moot..."
+    } ]
+  }, {
+    "tStartMs": 871400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Because Fusion reactors are only 20 years\naway."
+    } ]
+  }, {
+    "tStartMs": 875480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "For those who don't find that hilarious, let\nme pedantically explain Cory's joke: fusion"
+    } ]
+  }, {
+    "tStartMs": 881480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "has been projected to be 20 years away for\n50 or so years."
+    } ]
+  }, {
+    "tStartMs": 885889,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "KowashiHitori points out that Wind and solar\nwon't build battlemechs... just saying."
+    } ]
+  }, {
+    "tStartMs": 892379,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "Now, this is a very important point."
+    } ]
+  }, {
+    "tStartMs": 895840,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "Funnies aside, you can't run an energy-hungry\ncompact vehicle on solar or batteries for"
+    } ]
+  }, {
+    "tStartMs": 902609,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "very long."
+    } ]
+  }, {
+    "tStartMs": 903679,
+    "dDurationMs": 6171,
+    "segs": [ {
+      "utf8": "Battlemechs, submarines, spaceships, DeLorean\ntime machines - nuclear is probably the easiest"
+    } ]
+  }, {
+    "tStartMs": 909850,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "option for the badass vehicles of the future."
+    } ]
+  } ]
+}

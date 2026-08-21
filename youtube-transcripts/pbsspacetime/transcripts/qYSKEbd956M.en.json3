@@ -1,0 +1,937 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "We're told there are four fundamental forces - \nthe strong and weak nuclear forces,  "
+    } ]
+  }, {
+    "tStartMs": 3960,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "electromagnetism, and gravity. Except \nmaybe gravity is actually no more fundamental  "
+    } ]
+  }, {
+    "tStartMs": 9920,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "than the force of a stretched elastic \nband. Maybe gravity is just an entropic  "
+    } ]
+  }, {
+    "tStartMs": 15320,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "byproduct—an emergent effect of the \nuniverse’s tendency to disorder. So if you  "
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "allow that entropy to keep you in your seat \nfor a bit, I’ll tell you all about it."
+    } ]
+  }, {
+    "tStartMs": 33240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Gravity is the odd one out among the fundamental \nforces. It’s enormously weaker than the other  "
+    } ]
+  }, {
+    "tStartMs": 37960,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "three and it's also not a quantum force—at \nleast, it's not in general relativity,  "
+    } ]
+  }, {
+    "tStartMs": 43120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "our best current description of gravity. And \ngravity has steadfastly resisted our century-long  "
+    } ]
+  }, {
+    "tStartMs": 49280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "efforts to quantize it; to unify it with the \nother fundamental forces. But what if that’s  "
+    } ]
+  }, {
+    "tStartMs": 54480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "because gravity isn’t quantum? In fact, what \nif it’s because gravity isn’t even fundamental?  "
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "There are a number of proposals along this line, \nincluding the buzzy recent work on by Jonathan  "
+    } ]
+  }, {
+    "tStartMs": 65080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Oppenheim. But we’re going to have to come back \nto that, because there’s an idea that you’ve  "
+    } ]
+  }, {
+    "tStartMs": 69240,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "been asking us to cover for years now. That’s the \nemergent gravity of Dutch physicist Erik Verlinde,  "
+    } ]
+  }, {
+    "tStartMs": 77280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "who tells us that it’s not a fundamental force \nor the curvature of spacetime that’s keeping you  "
+    } ]
+  }, {
+    "tStartMs": 83280,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "in your chair right now, but rather the rise \nof entropy on the boundary of the universe."
+    } ]
+  }, {
+    "tStartMs": 89000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Today we’re going to lay out the basics \nof Verlinde’s entropic gravity as it was  "
+    } ]
+  }, {
+    "tStartMs": 93600,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "published back in 2010. We’ll follow up with \nan episode on the evidence and the criticism  "
+    } ]
+  }, {
+    "tStartMs": 98920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "and what the idea has to say about dark matter \nand dark energy. This follows directly from our  "
+    } ]
+  }, {
+    "tStartMs": 103840,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "last episode where we explored how space \ncan emerge as an inward projection from  "
+    } ]
+  }, {
+    "tStartMs": 108720,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "its infinitely distant boundary through the \nholographic principle. A lot of what we talk  "
+    } ]
+  }, {
+    "tStartMs": 114200,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "about today will draw from that episode, so \nit might not be a bad idea to check it out."
+    } ]
+  }, {
+    "tStartMs": 120040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "But let me recap anyway to emphasize the most \nimportant stuff. I’m also going to sprinkle  "
+    } ]
+  }, {
+    "tStartMs": 125240,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "in a bit of math that we’ll use to construct \nVerlinde’s idea. But if the math isn’t your cup  "
+    } ]
+  }, {
+    "tStartMs": 132240,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "of tea, relax—I’ll give you everything you need \nto follow the story with the normal human words."
+    } ]
+  }, {
+    "tStartMs": 139160,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So the holographic principle grew out \nof black hole thermodynamics—from the  "
+    } ]
+  }, {
+    "tStartMs": 143200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "fact that the information that can fit \ninside a black hole is proportional to  "
+    } ]
+  }, {
+    "tStartMs": 147600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "its surface area. That information \nis hidden from the outside world,  "
+    } ]
+  }, {
+    "tStartMs": 151560,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "so this is also the black hole’s entropy, \ngiven by the Bekenstein-Hawking formula."
+    } ]
+  }, {
+    "tStartMs": 158240,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "It turns out the same information limit applies to \nall space, so that it’s in principle possible to  "
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "encode the contents of a universe on its boundary. \nIn fact, according to the holographic principle,  "
+    } ]
+  }, {
+    "tStartMs": 170640,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "the particles and fields and gravity and laws of \nphysics that govern our universe also play out in  "
+    } ]
+  }, {
+    "tStartMs": 176680,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "lock step on its infinitely distant but infinitely \ncompacted boundary. On that lower-dimensional,  "
+    } ]
+  }, {
+    "tStartMs": 183720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "gravity-free boundary, a very different \nset of laws encode everything that happens  "
+    } ]
+  }, {
+    "tStartMs": 188040,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "on the interior. The boundary encodes what \nwe call the bulk, and perhaps vice versa.."
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "The only concrete mechanism for this that’s \ncurrently known is Juan Maldacena’s AdS/CFT  "
+    } ]
+  }, {
+    "tStartMs": 199680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "correspondence, which unfortunately doesn’t quite \napply to our universe. Still, it’s a strong lead  "
+    } ]
+  }, {
+    "tStartMs": 205520,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "that there’s a version which does. In AdS/CFT the \ninterior space—the bulk—contains a string theory,  "
+    } ]
+  }, {
+    "tStartMs": 213920,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "and the gravity emerges within that string theory. \nBut we don’t need string theory to see how gravity  "
+    } ]
+  }, {
+    "tStartMs": 219640,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "might be a natural prediction of the holographic \nprinciple. Last episode I showed you a scheme by  "
+    } ]
+  }, {
+    "tStartMs": 226280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "which this extra dimension can be encoded \nin the scale of structures on the boundary,  "
+    } ]
+  }, {
+    "tStartMs": 231320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "with larger structures on the boundary manifesting \nas structures closer to the center of the bulk."
+    } ]
+  }, {
+    "tStartMs": 236760,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Today we’re going to explore one idea for how \ngravity can also emerge within that space as  "
+    } ]
+  }, {
+    "tStartMs": 242720,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "a statistical side effect of the interplay of  whatever it is that’s happening out there on  "
+    } ]
+  }, {
+    "tStartMs": 248840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the boundary. This is the entropic gravity \nof Eric Verlinde. Now entropic gravity is  "
+    } ]
+  }, {
+    "tStartMs": 254680,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "by no means broadly accepted, but it is taken \nseriously by reasonable physicists. After all,  "
+    } ]
+  }, {
+    "tStartMs": 261840,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "there is a fascinating and still mysterious \nconnection between gravity and entropy, as  "
+    } ]
+  }, {
+    "tStartMs": 267160,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Bekenstein and Hawking discovered. And there’s a \nfascinating neatness to Verlinde’s idea that seems  "
+    } ]
+  }, {
+    "tStartMs": 273720,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "like it’s telling us something, even if it isn’t \nthe whole picture, and maybe even if it's wrong."
+    } ]
+  }, {
+    "tStartMs": 279200,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "To understand how gravity might arise \nentropically, let’s think about a less out-there  "
+    } ]
+  }, {
+    "tStartMs": 285160,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "system— we'll use the same thought experiment that Verlinde uses in his entropic gravity paper. Imagine a long  "
+    } ]
+  }, {
+    "tStartMs": 292000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "molecule that is free to move and fold in any \ndirection. We place it in a box of constant  "
+    } ]
+  }, {
+    "tStartMs": 297600,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "temperature, with one end fixed to the wall of \nthe box. If we ignore any possible external forces  "
+    } ]
+  }, {
+    "tStartMs": 303560,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "acting on the molecule, we might expect it to \njust curl up. This is because, of all the ways the  "
+    } ]
+  }, {
+    "tStartMs": 309720,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "molecule could move, it’s far more likely to end \nup in a coiled configuration than remain straight."
+    } ]
+  }, {
+    "tStartMs": 315840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "This is one way to think about entropy. \nThe molecule will almost always take a more  "
+    } ]
+  }, {
+    "tStartMs": 320880,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "probable - higher entropy - configuration \nof being curled up because there are way  "
+    } ]
+  }, {
+    "tStartMs": 327080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "more configurations—or what we call \nmicrostates—in which the molecule is  "
+    } ]
+  }, {
+    "tStartMs": 331480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "curled compared to it being straight. Being \nin one of the many random coiled states  "
+    } ]
+  }, {
+    "tStartMs": 337480,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "is a higher-entropy configuration \nthan the very few straight states."
+    } ]
+  }, {
+    "tStartMs": 342960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "If we straighten the molecule we have \nto exert a force and expend some energy  "
+    } ]
+  }, {
+    "tStartMs": 347520,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "to do so. If we let go it’ll curl up again \nbecause there’s an effective force pulling  "
+    } ]
+  }, {
+    "tStartMs": 352680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "it back. I should add that there's nothing \nmagical going on here. The molecule shares  "
+    } ]
+  }, {
+    "tStartMs": 357720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "its temperature with the air in the \nbox. Its atoms have randomly oriented  "
+    } ]
+  }, {
+    "tStartMs": 361640,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "vibrations and are being randomly smacked by \nair molecules, and these will pull and push  "
+    } ]
+  }, {
+    "tStartMs": 366080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the molecule towards random configurations, \nwhich are overwhelmingly the coiled ones."
+    } ]
+  }, {
+    "tStartMs": 372320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "There’s a simple relationship between \nthe entropic force required to pull a  "
+    } ]
+  }, {
+    "tStartMs": 376280,
+    "dDurationMs": 4778,
+    "segs": [ {
+      "utf8": "molecule or that the molecule exerts on you:"
+    } ]
+  }, {
+    "tStartMs": 381080,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "This is really saying the amount of energy—the \nforce times the distance pulled—is equal to the  "
+    } ]
+  }, {
+    "tStartMs": 386840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "temperature of the system times the \nchange in entropy after that little  "
+    } ]
+  }, {
+    "tStartMs": 390200,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "motion happens. Or that the force is equal to \nthe temperature times the entropy gradient."
+    } ]
+  }, {
+    "tStartMs": 396480,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "We call this an entropic force. This is exactly \nwhat you experience when you pull on an elastic  "
+    } ]
+  }, {
+    "tStartMs": 401160,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "band. In fact, any time you have the movement \nof matter in service of increasing entropy,  "
+    } ]
+  }, {
+    "tStartMs": 406960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "there’s an entropic force. For example, if \nyou force all the air in a room into a box,  "
+    } ]
+  }, {
+    "tStartMs": 411920,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "then release it, it’ll rush to fill the room and \ngenerate an enormous entropic force in doing so."
+    } ]
+  }, {
+    "tStartMs": 417640,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "The proposal of Erik Verlinde is that gravity \nis also an entropic force. At first glance  "
+    } ]
+  }, {
+    "tStartMs": 423480,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "that seems odd. Gravity is a property of \nspacetime itself—even empty spacetime—so  "
+    } ]
+  }, {
+    "tStartMs": 428080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "what exactly is pushing or pulling in empty \nspace? Verlinde constructs his argument in  "
+    } ]
+  }, {
+    "tStartMs": 432440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the context of a holographic universe, in \nwhich at least one dimension of space is  "
+    } ]
+  }, {
+    "tStartMs": 436680,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "also emergent. He argues that the entropy \nof the stuff on the holographic boundary  "
+    } ]
+  }, {
+    "tStartMs": 441760,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "must increase, and that rising entropy \nmanifests as gravity in the interior."
+    } ]
+  }, {
+    "tStartMs": 447720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "To build up this idea we’re going to need to keep \nin mind dual pictures—something’s happening on  "
+    } ]
+  }, {
+    "tStartMs": 452880,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "the boundary and something’s happening in \nthe bulk and they encode the same thing,  "
+    } ]
+  }, {
+    "tStartMs": 458360,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "even if they sit very differently in our mental \nimagery. We’ll flip between them as convenient,  "
+    } ]
+  }, {
+    "tStartMs": 464800,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "and even merge them slightly. But remember that \nthese are two distinct ways of describing the  "
+    } ]
+  }, {
+    "tStartMs": 470200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "same system. If all that gives you \na headache then you’re not alone."
+    } ]
+  }, {
+    "tStartMs": 471400,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "OK, so, somewhere in the bulk of a holographic \nuniverse we have a star with some mass. Let’s  "
+    } ]
+  }, {
+    "tStartMs": 478040,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "see if we can figure out the gravitational \nforce produced by the star without ever using  "
+    } ]
+  }, {
+    "tStartMs": 482400,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "any theory of gravity—just by visiting \nthe boundary. To derive such a law we  "
+    } ]
+  }, {
+    "tStartMs": 488080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "want to know show much gravitational \nforce is felt at different distances,  "
+    } ]
+  }, {
+    "tStartMs": 492600,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "so let’s imagine a series of \nspherical surfaces around the star."
+    } ]
+  }, {
+    "tStartMs": 496880,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "If the star is massive and compact \nenough then one of these surfaces  "
+    } ]
+  }, {
+    "tStartMs": 500920,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "would be an event horizon and we’d have \na black hole. Then, the entropy of that  "
+    } ]
+  }, {
+    "tStartMs": 506720,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "surface would be the Bekenstein-Hawking \nentropy—basically, it would represent  "
+    } ]
+  }, {
+    "tStartMs": 511800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the amount of information of everything \nthat previously fell through that surface."
+    } ]
+  }, {
+    "tStartMs": 516360,
+    "dDurationMs": 7560,
+    "segs": [ {
+      "utf8": "But even if this surface isn’t an event horizon we \ncan give it an entropy. It’s also the entropy of  "
+    } ]
+  }, {
+    "tStartMs": 523920,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "everything interior to the surface. But that makes \nthe most sense if we zip out to the boundary."
+    } ]
+  }, {
+    "tStartMs": 530160,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "If this is a holographic universe, then the particles on this surface map to the boundary. In fact, the  "
+    } ]
+  }, {
+    "tStartMs": 537080,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "particles on surfaces of all sizes map to the same \nboundary and play out together, overlapping in  "
+    } ]
+  }, {
+    "tStartMs": 543400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "this lower dimensional space. We want the entropy \nof this one surface with respect to someone  "
+    } ]
+  }, {
+    "tStartMs": 549560,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "outside that surface—that translates to how much \ninformation is hidden within the surface. Let’s  "
+    } ]
+  }, {
+    "tStartMs": 556360,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "start with the holographic boundary from which \nour bulk universe emerges. Imagine that it emerges  "
+    } ]
+  }, {
+    "tStartMs": 563720,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "from the outside-in. That’s not really the case, \nbut it helps us represent this visually. We’re  "
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "going to partially emerge our universe down to \nthis one surface so we can depict a special subset  "
+    } ]
+  }, {
+    "tStartMs": 576680,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "of the boundary as actually lying on this surface. \nThis is the part of the boundary that corresponds  "
+    } ]
+  }, {
+    "tStartMs": 583960,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "to everything below this surface. So from now on, \nwhen I say “boundary” I’ll mean the component of  "
+    } ]
+  }, {
+    "tStartMs": 590360,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "the holographic boundary corresponding to the \nregion of the bulk enclosed by this surface."
+    } ]
+  }, {
+    "tStartMs": 596440,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "OK, hold on for a little bit of math. We \nknow that this surface contains a mass,  "
+    } ]
+  }, {
+    "tStartMs": 600720,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "so we can say that it also contains energy \nby Einstein’s E=mc^2. That’s the energy of  "
+    } ]
+  }, {
+    "tStartMs": 606840,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "the interior, but also has to be the energy of \nthe corresponding holographic boundary. We can  "
+    } ]
+  }, {
+    "tStartMs": 613760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "also give that boundary a temperature, \nassuming the stuff on the boundary is  "
+    } ]
+  }, {
+    "tStartMs": 618320,
+    "dDurationMs": 5935,
+    "segs": [ {
+      "utf8": "in thermal equilibrium so that the energy \nis evenly spread over all possible states."
+    } ]
+  }, {
+    "tStartMs": 624255,
+    "dDurationMs": 5225,
+    "segs": [ {
+      "utf8": "And that N thing is just the number of possible \nstates on the boundary and the total number  "
+    } ]
+  }, {
+    "tStartMs": 629480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "of arrangements of particles inside the volume \nthat would give you particular values of energy,  "
+    } ]
+  }, {
+    "tStartMs": 635560,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "mass, and temperature. But that also \ncorresponds to the amount of hidden  "
+    } ]
+  }, {
+    "tStartMs": 639360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "information within surface—its entropy. \nWe know the maximum value for this—it’s  "
+    } ]
+  }, {
+    "tStartMs": 645200,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "the Bekenstein-Hawking entropy, so the number \nof Planck-length squares over that surface."
+    } ]
+  }, {
+    "tStartMs": 651880,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "For our surface let’s just assume that the entropy \nand N are still proportional to the surface area."
+    } ]
+  }, {
+    "tStartMs": 658320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "But presumably smaller than a black hole. "
+    } ]
+  }, {
+    "tStartMs": 661400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "OK, one more step. We want the gravitational \nforce, so we need another particle to feel  "
+    } ]
+  }, {
+    "tStartMs": 667000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "that force. Let’s add a tiny mass and \nmove it close to surface from the above  "
+    } ]
+  }, {
+    "tStartMs": 674040,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "“emerged” part of space. When that happens, \nthe entropy of the boundary increases because  "
+    } ]
+  }, {
+    "tStartMs": 679920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the information from that object is lost \nfrom the external region. The boundary  "
+    } ]
+  }, {
+    "tStartMs": 684120,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "gains the same amount of entropy as dropping \nsomething into a black hole event horizon."
+    } ]
+  }, {
+    "tStartMs": 690080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "This equation is just saying that \nthe surface gains minimal entropy,  "
+    } ]
+  }, {
+    "tStartMs": 694880,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "equivalent roughly to a bit, when the particle \nmerges with the surface, which we define as  "
+    } ]
+  }, {
+    "tStartMs": 700280,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "it getting within its own quantum wavelength—in \nthis case the Compton wavelength—of the surface."
+    } ]
+  }, {
+    "tStartMs": 706600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But just like we saw with the coiling molecule,  "
+    } ]
+  }, {
+    "tStartMs": 709320,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "this tiny increase in entropy should \nhave a corresponding entropic force."
+    } ]
+  }, {
+    "tStartMs": 715280,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Whatever crazy interactions are happening \non the boundary, they are statistically  "
+    } ]
+  }, {
+    "tStartMs": 720520,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "inclined to bring our particle closer to this \nsurface because that motion increases entropy."
+    } ]
+  }, {
+    "tStartMs": 727840,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "If we bring everything together - the \\Delta \nS/\\Delta x from dropping a particle through the  "
+    } ]
+  }, {
+    "tStartMs": 733640,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "horizon, and the temperature from the overall \nentropy of the surface, all the h-bars and the  "
+    } ]
+  }, {
+    "tStartMs": 740560,
+    "dDurationMs": 9320,
+    "segs": [ {
+      "utf8": "cs and the kds cancel out and we replace the area of the sphere with 4 times pi times its radius … we  "
+    } ]
+  }, {
+    "tStartMs": 749880,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "see that the algebra shakes down to … Newton’s \nuniversal law of gravitation, within some  "
+    } ]
+  }, {
+    "tStartMs": 757040,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "constant—and if that constant is one because \nwe got our surface entropy formula right then "
+    } ]
+  }, {
+    "tStartMs": 762520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "we have Newton's exact equation. Even though that \nlast step is dubious, we sort of just derived  "
+    } ]
+  }, {
+    "tStartMs": 765880,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "Newtonian gravity with arguments \nthat are entirely thermodynamic."
+    } ]
+  }, {
+    "tStartMs": 772000,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "This is basically saying that if objects in \nthe bulk move in such a way as to maximize  "
+    } ]
+  }, {
+    "tStartMs": 778040,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "entropy on the boundary, then that motion \nmeans falling towards other masses in the bulk.  "
+    } ]
+  }, {
+    "tStartMs": 785080,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Remember that Hawking and Bekenstein used \ngravitational theory and quantum mechanics  "
+    } ]
+  }, {
+    "tStartMs": 790080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "to get black hole thermodynamics, but \nentropic gravity turns this on its  "
+    } ]
+  }, {
+    "tStartMs": 795040,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "head—it starts with thermodynamics \nand finds that gravity falls out."
+    } ]
+  }, {
+    "tStartMs": 801760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "But let’s not get ahead of ourselves. Firstly, \nthis is just Newtonian gravity—can entropic  "
+    } ]
+  }, {
+    "tStartMs": 807480,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "gravity reproduce Einstein’s general \nrelativity? Well, in the 2010 paper,  "
+    } ]
+  }, {
+    "tStartMs": 813360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Verlinde argues that yes it can, although the \nderivation is a bit much for this episode. In  "
+    } ]
+  }, {
+    "tStartMs": 819360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "2016, he published another paper that argued that \ndark matter can also be explained by this idea,  "
+    } ]
+  }, {
+    "tStartMs": 825760,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "and that it’s connected to dark energy—although \nthis requires some extra assumptions. And speaking  "
+    } ]
+  }, {
+    "tStartMs": 831240,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "of assumptions—the validity of this idea rests \non the validity of the founding assumptions. Not  "
+    } ]
+  }, {
+    "tStartMs": 837640,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "least of those is the requirement of a holographic \ndual to the gravitational universe—and until we  "
+    } ]
+  }, {
+    "tStartMs": 844120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "can find a version of AdS/CFT that works \nfor our universe this feels like a big if.  "
+    } ]
+  }, {
+    "tStartMs": 849800,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "The debate over entropically emergent gravity \nis real, and it’s taken seriously by serious  "
+    } ]
+  }, {
+    "tStartMs": 856560,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "physicists. That means it’s worth doing another \nepisode to pick this apart. In the meantime,  "
+    } ]
+  }, {
+    "tStartMs": 863200,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "this has been pretty hard work, so why not \nhave a little lie down. I mean, can we really  "
+    } ]
+  }, {
+    "tStartMs": 869280,
+    "dDurationMs": 6137,
+    "segs": [ {
+      "utf8": "be expected to fight the rising entropy at the \ninfinite boundary of our holographic space time."
+    } ]
+  } ]
+}

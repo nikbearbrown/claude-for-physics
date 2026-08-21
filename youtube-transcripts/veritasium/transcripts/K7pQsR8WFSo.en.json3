@@ -1,0 +1,625 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 4049,
+    "segs": [ {
+      "utf8": "A few months ago, I made a video about Schlieren imaging."
+    } ]
+  }, {
+    "tStartMs": 4049,
+    "dDurationMs": 6791,
+    "segs": [ {
+      "utf8": "Now that's a technique used to visualise tiny differences in air either temperature, pressure, composition,"
+    } ]
+  }, {
+    "tStartMs": 11020,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "so you can see things like the heat that comes off when you light a match."
+    } ]
+  }, {
+    "tStartMs": 14820,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Now in that video I asked you for some ideas for what you'd like to see in this Schlieren setup,"
+    } ]
+  }, {
+    "tStartMs": 20100,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and I will be showing you some of those in this video."
+    } ]
+  }, {
+    "tStartMs": 22680,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "But I also saw that there was a lot of confusion about how exactly the setup works"
+    } ]
+  }, {
+    "tStartMs": 27740,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "and so I want to clear up that confusion"
+    } ]
+  }, {
+    "tStartMs": 30220,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "before we get going. So one thing is this mirror."
+    } ]
+  }, {
+    "tStartMs": 33500,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "I said is a parabolic mirror, but then I said you can think of it as a part of a sphere"
+    } ]
+  }, {
+    "tStartMs": 39720,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "and so people rightly called me out and said well if it's parabolic it can't be part of a sphere. While that is true,"
+    } ]
+  }, {
+    "tStartMs": 46480,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "it's such a small part of"
+    } ]
+  }, {
+    "tStartMs": 49620,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "a sphere or parabola"
+    } ]
+  }, {
+    "tStartMs": 52920,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "that the two shapes are pretty similar on this scale,"
+    } ]
+  }, {
+    "tStartMs": 56640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "so you could say it approximates a sphere"
+    } ]
+  }, {
+    "tStartMs": 59249,
+    "dDurationMs": 3751,
+    "segs": [ {
+      "utf8": "and you would not be as far off as say in physics when we say this cow"
+    } ]
+  }, {
+    "tStartMs": 63399,
+    "dDurationMs": 7610,
+    "segs": [ {
+      "utf8": "Approximates a sphere. Now a parabolic concave mirror is a pretty good approximation for a spherical concave mirror. Now the second major"
+    } ]
+  }, {
+    "tStartMs": 71200,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "question is how do you get enough light to make this work. I mean some of those shots"
+    } ]
+  }, {
+    "tStartMs": 75420,
+    "dDurationMs": 6779,
+    "segs": [ {
+      "utf8": "I was showing you were shot at 2,000 frames per second and using only one tiny LED as the light source."
+    } ]
+  }, {
+    "tStartMs": 82540,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "How could that even work? Well, I had similar kind of concerns when I was going to set this up"
+    } ]
+  }, {
+    "tStartMs": 87240,
+    "dDurationMs": 4019,
+    "segs": [ {
+      "utf8": "and so I sought out the most powerful flashlights that I could find."
+    } ]
+  }, {
+    "tStartMs": 91260,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "I figured this would be my light source so that light bounces off the mirror. Now the focal length of my mirror is"
+    } ]
+  }, {
+    "tStartMs": 97920,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "1.8"
+    } ]
+  }, {
+    "tStartMs": 98430,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "meters which means that the light converges at the center of curvature,"
+    } ]
+  }, {
+    "tStartMs": 102549,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "which is two times the focal length, 3.6 meters back"
+    } ]
+  }, {
+    "tStartMs": 106170,
+    "dDurationMs": 4019,
+    "segs": [ {
+      "utf8": "and you can see that here the reflected light that comes off the mirror is"
+    } ]
+  }, {
+    "tStartMs": 110950,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "converging on this card that I'm holding up. You can see as we get closer and closer... right there look at how sharply..."
+    } ]
+  }, {
+    "tStartMs": 117939,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "We have an image of the flashlight. It passes and"
+    } ]
+  }, {
+    "tStartMs": 123340,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "forms a spot back here."
+    } ]
+  }, {
+    "tStartMs": 126670,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "This is essentially an image of the mirror and look how bright it is. We have daylight outside. Okay,"
+    } ]
+  }, {
+    "tStartMs": 132880,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "that's very bright, but you can still see this spot, which comes completely from the flashlight. Now"
+    } ]
+  }, {
+    "tStartMs": 138520,
+    "dDurationMs": 7110,
+    "segs": [ {
+      "utf8": "let me try to set up something in front of the mirror that will produce a bit of a schlieren pattern and let's check"
+    } ]
+  }, {
+    "tStartMs": 145970,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "how that looks. You can actually see the schlieren effect, and you might notice this is not a"
+    } ]
+  }, {
+    "tStartMs": 152780,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "fantastic schlieren image, and that's because, of course,"
+    } ]
+  }, {
+    "tStartMs": 155770,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "this is not a point source of light"
+    } ]
+  }, {
+    "tStartMs": 157760,
+    "dDurationMs": 6139,
+    "segs": [ {
+      "utf8": "so my first thought was cover it with tin foil and make a hole on the front to reduce the size of"
+    } ]
+  }, {
+    "tStartMs": 164480,
+    "dDurationMs": 6619,
+    "segs": [ {
+      "utf8": "the light source. Now that has decreased the brightness of this image, but it's still pretty bright and"
+    } ]
+  }, {
+    "tStartMs": 171800,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "you can actually see a really nice"
+    } ]
+  }, {
+    "tStartMs": 175310,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "flaring effect that's taking place"
+    } ]
+  }, {
+    "tStartMs": 177860,
+    "dDurationMs": 4669,
+    "segs": [ {
+      "utf8": "already right here, so if you imagine sending all of that light down the lens of a camera,"
+    } ]
+  }, {
+    "tStartMs": 182540,
+    "dDurationMs": 6679,
+    "segs": [ {
+      "utf8": "it's actually a pretty bright image, not a dim one, but if this works and produces the schlieren effect"
+    } ]
+  }, {
+    "tStartMs": 189220,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "we're looking for then why do you need the razor blade? Well,"
+    } ]
+  }, {
+    "tStartMs": 192220,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "here's the thing. The differences in refractive index that we're talking about are very very tiny, so"
+    } ]
+  }, {
+    "tStartMs": 196730,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the way the light is deflected is just by the tiniest of degrees,"
+    } ]
+  }, {
+    "tStartMs": 201260,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "So that light actually will end up right here"
+    } ]
+  }, {
+    "tStartMs": 204260,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "in this focal point with all the rest of the light because all of the light from the mirror is getting sent back to this spot."
+    } ]
+  }, {
+    "tStartMs": 211010,
+    "dDurationMs": 4609,
+    "segs": [ {
+      "utf8": "But some of it the light that's been deflected will be just ever so slightly off"
+    } ]
+  }, {
+    "tStartMs": 215620,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "and if you use this razor blade to knock off about half of that bright spot,"
+    } ]
+  }, {
+    "tStartMs": 221030,
+    "dDurationMs": 5869,
+    "segs": [ {
+      "utf8": "you will be cutting off more of that light, which has been deflected and by cutting it off,"
+    } ]
+  }, {
+    "tStartMs": 226940,
+    "dDurationMs": 2389,
+    "segs": [ {
+      "utf8": "you will increase the contrast in the image."
+    } ]
+  }, {
+    "tStartMs": 229880,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Now, as some of you pointed out, an alternative to using the razor blade to cut the light is"
+    } ]
+  }, {
+    "tStartMs": 234650,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "using colored filters, so here I got two different colors of cellophane"
+    } ]
+  }, {
+    "tStartMs": 239020,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "and if I position that so that the"
+    } ]
+  }, {
+    "tStartMs": 242540,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "focal point is right in the middle of the divide then some of the light will pass through this"
+    } ]
+  }, {
+    "tStartMs": 248390,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "magenta side and some will go through the cyan side. Have a look what happens when I put this"
+    } ]
+  }, {
+    "tStartMs": 254270,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "transparent helium balloon in front of the mirror. Now the helium just deflects the light a tiny amount,"
+    } ]
+  }, {
+    "tStartMs": 259330,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but it's enough so that instead of going through the magenta side it goes through the cyan side"
+    } ]
+  }, {
+    "tStartMs": 263650,
+    "dDurationMs": 3819,
+    "segs": [ {
+      "utf8": "and that's why the balloon looks a different color, but what happens if I pop it?"
+    } ]
+  }, {
+    "tStartMs": 271740,
+    "dDurationMs": 6289,
+    "segs": [ {
+      "utf8": "Do you see that after the balloon pops, the helium kind of stays together and rises in the shape of a balloon?"
+    } ]
+  }, {
+    "tStartMs": 284250,
+    "dDurationMs": 5869,
+    "segs": [ {
+      "utf8": "Another thing you suggested was lighting a barbecue lighter with a match, so I'm just gonna release some gas"
+    } ]
+  }, {
+    "tStartMs": 290730,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "I'm gonna let the flame travel up the gas"
+    } ]
+  }, {
+    "tStartMs": 302949,
+    "dDurationMs": 6679,
+    "segs": [ {
+      "utf8": "and the schlieren you can see the flame traveling out and through that gas up to light the lighter."
+    } ]
+  }, {
+    "tStartMs": 310960,
+    "dDurationMs": 3829,
+    "segs": [ {
+      "utf8": "Yeah. I'm gonna try blowing a bubble with rainbow schlieren."
+    } ]
+  }, {
+    "tStartMs": 329470,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Another crazy idea of yours was to light a ping-pong ball on fire because"
+    } ]
+  }, {
+    "tStartMs": 334600,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "ping-pong balls, the good ones anyway, that they use in actual tournaments are quite flammable."
+    } ]
+  }, {
+    "tStartMs": 339700,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "So I'm gonna see how that looks. Whoa! It's caught fire!"
+    } ]
+  }, {
+    "tStartMs": 349270,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "Look at it go! Oh that is awesome!"
+    } ]
+  }, {
+    "tStartMs": 373570,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "Now a lot of your recommendations involve sound, for example, trying to see a clap. I"
+    } ]
+  }, {
+    "tStartMs": 380350,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "tried this again and again"
+    } ]
+  }, {
+    "tStartMs": 382140,
+    "dDurationMs": 6149,
+    "segs": [ {
+      "utf8": "and I tried looking for a shock wave, but it was pretty hard to see even at 2,000 frames per second"
+    } ]
+  }, {
+    "tStartMs": 388290,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "and that's because with the speed of sound being over 300 meters per second, even at that speed you would only catch"
+    } ]
+  }, {
+    "tStartMs": 394170,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "maybe one or two"
+    } ]
+  }, {
+    "tStartMs": 396190,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "frames. That would include the shock wave in them"
+    } ]
+  }, {
+    "tStartMs": 398640,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "and I found it almost impossible to see. So looking at all these claps,"
+    } ]
+  }, {
+    "tStartMs": 402970,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "you can see the air getting pushed out from between my fingers,"
+    } ]
+  }, {
+    "tStartMs": 406960,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "but that's not traveling at the speed of sound, so it's not the actual sound of the clap."
+    } ]
+  }, {
+    "tStartMs": 411810,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "So I'm gonna have to call in some backup if we're going to do some schlieren"
+    } ]
+  }, {
+    "tStartMs": 415470,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "with sound. So thank you for all of your suggestions. If you have any others,"
+    } ]
+  }, {
+    "tStartMs": 419730,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "please leave them in the comments below, though it may take me a little while to get back to you because next week"
+    } ]
+  }, {
+    "tStartMs": 424170,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "I'm flying to Australia and on the plane"
+    } ]
+  }, {
+    "tStartMs": 426690,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "I will be listening to the sponsor of this episode of Veritasium,"
+    } ]
+  }, {
+    "tStartMs": 429490,
+    "dDurationMs": 4519,
+    "segs": [ {
+      "utf8": "which is, of course, Audible. Audible has an unbeatable selection of audio books read by"
+    } ]
+  }, {
+    "tStartMs": 434260,
+    "dDurationMs": 3859,
+    "segs": [ {
+      "utf8": "amazing readers. They can be the authors of the books or great actors."
+    } ]
+  }, {
+    "tStartMs": 438120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I think it's really the best way to get books into your life"
+    } ]
+  }, {
+    "tStartMs": 441240,
+    "dDurationMs": 4829,
+    "segs": [ {
+      "utf8": "and if you're viewing this video, Audible will offer a free 30-day trial to you. By going to audible.com/veritasium,"
+    } ]
+  }, {
+    "tStartMs": 447220,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "you can download an audio book of your choosing for free, so that's a pretty cool"
+    } ]
+  }, {
+    "tStartMs": 451440,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "deal\nand the book that I'm listening to at the moment is"
+    } ]
+  }, {
+    "tStartMs": 454120,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Algorithms To Live By. This is what I'll be listening to on the plane."
+    } ]
+  }, {
+    "tStartMs": 456750,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "It's about the intersection of computer science and human decision-making ,so if you're trying to optimize your life"
+    } ]
+  }, {
+    "tStartMs": 463110,
+    "dDurationMs": 4109,
+    "segs": [ {
+      "utf8": "how can the lessons of computer science apply to making your life better?"
+    } ]
+  }, {
+    "tStartMs": 467740,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You know I'm fascinated by"
+    } ]
+  }, {
+    "tStartMs": 470110,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "optimizing my life and also by computer science, so this is a really cool book."
+    } ]
+  }, {
+    "tStartMs": 474510,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "I'm enjoying it so far, and I can't wait for that plane ride."
+    } ]
+  }, {
+    "tStartMs": 477420,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "I find that having an audio book really"
+    } ]
+  }, {
+    "tStartMs": 479890,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "changes the idea of a commute and makes it go from a real drag to being something that I kind of look forward to because,"
+    } ]
+  }, {
+    "tStartMs": 485610,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "I wanna get back to my book."
+    } ]
+  }, {
+    "tStartMs": 486720,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "So you should try it out. You can download any book you like including that one for a free 30-day trial by going to audible.com/veritasium."
+    } ]
+  }, {
+    "tStartMs": 493960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "One last thing is that Audible is"
+    } ]
+  }, {
+    "tStartMs": 496090,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "celebrating 20 years of"
+    } ]
+  }, {
+    "tStartMs": 497590,
+    "dDurationMs": 6139,
+    "segs": [ {
+      "utf8": "storytelling and they want to hear from you. If you enjoy listening to Audible in fact you can enter a competition to win"
+    } ]
+  }, {
+    "tStartMs": 504040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "of 20 Volvo SUVs by going to audible.com/veritasium."
+    } ]
+  }, {
+    "tStartMs": 515690,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "I wanna thank Audible for supporting me and I want to thank you for watching."
+    } ]
+  }, {
+    "tStartMs": 527160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  } ]
+}

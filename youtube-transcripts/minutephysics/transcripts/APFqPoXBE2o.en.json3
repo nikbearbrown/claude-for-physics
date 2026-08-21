@@ -1,0 +1,37 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "In physics, temperature is defined by how disordered things get when their energy goes up."
+    } ]
+  }, {
+    "tStartMs": 5260,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "If you set up a weird quantum system that gets more orderly when you add energy,"
+    } ]
+  }, {
+    "tStartMs": 8960,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "it has negative temperature."
+    } ]
+  }, {
+    "tStartMs": 10480,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Still positive energy, though."
+    } ]
+  } ]
+}

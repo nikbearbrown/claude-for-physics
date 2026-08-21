@@ -1,0 +1,403 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1209,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "One of the fundamental principles in modern\nphysics is that there’s no absolute time."
+    } ]
+  }, {
+    "tStartMs": 5310,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And I’m not even talking about relativity\nmaking time go at different rates if you’re"
+    } ]
+  }, {
+    "tStartMs": 8830,
+    "dDurationMs": 3979,
+    "segs": [ {
+      "utf8": "going near light speed – I just mean that\nany time is as good as any other to set your"
+    } ]
+  }, {
+    "tStartMs": 12809,
+    "dDurationMs": 1391,
+    "segs": [ {
+      "utf8": "clock to zero."
+    } ]
+  }, {
+    "tStartMs": 14200,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "The predictions of physics work all the same,\nand it’s not like there’s some “absolute"
+    } ]
+  }, {
+    "tStartMs": 17470,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "starting time” – I mean, if there were,\ntime zones wouldn’t work!"
+    } ]
+  }, {
+    "tStartMs": 20749,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "In addition to allowing time zones, the fact\nthat there’s no absolute time also implies"
+    } ]
+  }, {
+    "tStartMs": 25249,
+    "dDurationMs": 2061,
+    "segs": [ {
+      "utf8": "the law of conservation of energy."
+    } ]
+  }, {
+    "tStartMs": 27310,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "Here’s a simple proof to show that if a\nforce doesn’t depend explicitly on time,"
+    } ]
+  }, {
+    "tStartMs": 31349,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "then that force conserves energy!"
+    } ]
+  }, {
+    "tStartMs": 33489,
+    "dDurationMs": 4321,
+    "segs": [ {
+      "utf8": "First, conserving energy just means that there’s\na certain number, called the energy, which"
+    } ]
+  }, {
+    "tStartMs": 37810,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "doesn’t change as time passes – if you\ncompare the energy at two different times"
+    } ]
+  }, {
+    "tStartMs": 41250,
+    "dDurationMs": 1579,
+    "segs": [ {
+      "utf8": "you’ll see no difference."
+    } ]
+  }, {
+    "tStartMs": 42829,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "And the total energy of a system is the sum\nof its energy of motion, or kinetic energy,"
+    } ]
+  }, {
+    "tStartMs": 47289,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "and its energy due to position – the potential\nenergy."
+    } ]
+  }, {
+    "tStartMs": 50219,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "So all we need is to find the change in kinetic\nand potential energies over time, and add"
+    } ]
+  }, {
+    "tStartMs": 54469,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "them up!"
+    } ]
+  }, {
+    "tStartMs": 55469,
+    "dDurationMs": 4581,
+    "segs": [ {
+      "utf8": "Ok, we know the kinetic energy of an object\nis half of its mass times its velocity squared."
+    } ]
+  }, {
+    "tStartMs": 60050,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "So the change in kinetic energy over time\nis just one half m times the difference of"
+    } ]
+  }, {
+    "tStartMs": 64059,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "the squares of the velocities."
+    } ]
+  }, {
+    "tStartMs": 65700,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Some clever algebra can rearrange this expression\nto become the average velocity times m times"
+    } ]
+  }, {
+    "tStartMs": 70610,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "the CHANGE in velocity."
+    } ]
+  }, {
+    "tStartMs": 72240,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "But a change of velocity over time is just\nan acceleration, and mass times acceleration"
+    } ]
+  }, {
+    "tStartMs": 77090,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "is equal to the force on the object."
+    } ]
+  }, {
+    "tStartMs": 78750,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "So the change in kinetic energy of an object\nover time is just velocity times force."
+    } ]
+  }, {
+    "tStartMs": 84070,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "On the other hand, the change in the potential\nenergy of an object is negative the amount"
+    } ]
+  }, {
+    "tStartMs": 87869,
+    "dDurationMs": 3631,
+    "segs": [ {
+      "utf8": "of work it takes to get the object to its\ncurrent position from its previous position"
+    } ]
+  }, {
+    "tStartMs": 91500,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "independent of the path taken – that is,\npotential energy is the negative of the force"
+    } ]
+  }, {
+    "tStartMs": 95890,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "applied times the change in position."
+    } ]
+  }, {
+    "tStartMs": 98189,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "This is where the “there’s no absolute\ntime” part comes into play – you can’t"
+    } ]
+  }, {
+    "tStartMs": 102329,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "have potential energy for a force that changes\nover time."
+    } ]
+  }, {
+    "tStartMs": 104780,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "And just to be clear, “no changing over\ntime” doesn’t mean that an object can’t"
+    } ]
+  }, {
+    "tStartMs": 108930,
+    "dDurationMs": 3789,
+    "segs": [ {
+      "utf8": "experience a changing force along the course\nof its journey: the force might be different"
+    } ]
+  }, {
+    "tStartMs": 112719,
+    "dDurationMs": 3781,
+    "segs": [ {
+      "utf8": "at different places, but at any particular\nplace, the force must remain the same."
+    } ]
+  }, {
+    "tStartMs": 116500,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Anyway, this is all just to say that the change\nin potential energy is negative F times the"
+    } ]
+  }, {
+    "tStartMs": 120900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "change in position."
+    } ]
+  }, {
+    "tStartMs": 121900,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "The negative comes from the fact that if you\nlet the force push you along your potential"
+    } ]
+  }, {
+    "tStartMs": 125630,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "energy decreases, while if you fight in opposition\nto the force your potential energy increases."
+    } ]
+  }, {
+    "tStartMs": 130250,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "So the change in potential energy over time\nis the negative of the force times the change"
+    } ]
+  }, {
+    "tStartMs": 133971,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "in position over time, but change in position\nover time is velocity!"
+    } ]
+  }, {
+    "tStartMs": 137610,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Which means change in potential energy of\nan object over time is negative velocity times"
+    } ]
+  }, {
+    "tStartMs": 141910,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "force."
+    } ]
+  }, {
+    "tStartMs": 142910,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "And thus the change in the total energy over\ntime, which is the sum of the changes in the"
+    } ]
+  }, {
+    "tStartMs": 146280,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "kinetic and potential energies over time,\nis v*F plus negative v*F, which equals zero!"
+    } ]
+  }, {
+    "tStartMs": 152940,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And zero change in energy over time is precisely\nconservation of energy!"
+    } ]
+  }, {
+    "tStartMs": 157860,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "All for the same reason that time zones work."
+    } ]
+  }, {
+    "tStartMs": 163690,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "This video is brought to you in part by Audible.com,\nthe leading provider of audiobooks across"
+    } ]
+  }, {
+    "tStartMs": 167480,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "all types of literature, including fiction,\nnon-fiction and periodicals."
+    } ]
+  }, {
+    "tStartMs": 171100,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "If you go to audible.com/minutephysics, you\ncan try audible out by downloading a free"
+    } ]
+  }, {
+    "tStartMs": 174860,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "audiobook of your choice."
+    } ]
+  }, {
+    "tStartMs": 176120,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "I'd like to recommend the book Unruly Places:\nLost Spaces, Secret Cities, and Other Inscrutable"
+    } ]
+  }, {
+    "tStartMs": 181010,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Geographies by Alastair Bonnett [called Off\nthe Map in the UK] – it's a tour of all"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "sorts of weird, abandoned or disregarded places\naround the world, from the unrecognized self-declared"
+    } ]
+  }, {
+    "tStartMs": 189340,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "island nation of Sealand to traffic islands,\nand beyond."
+    } ]
+  }, {
+    "tStartMs": 192780,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Again, you can download your free audiobook\nat audible.com/minutephysics and thanks to"
+    } ]
+  }, {
+    "tStartMs": 197390,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "audible for helping me continue to make these\nvideos."
+    } ]
+  }, {
+    "tStartMs": 201140,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "As a followup, I’ll admit that I skimmed\nover some details in this derivation and it’s"
+    } ]
+  }, {
+    "tStartMs": 204680,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "much easier to do with calculus."
+    } ]
+  }, {
+    "tStartMs": 206220,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "You just have to know that the time derivative\nof kinetic energy is m times v times a which"
+    } ]
+  }, {
+    "tStartMs": 210510,
+    "dDurationMs": 7190,
+    "segs": [ {
+      "utf8": "is F*v, and the time derivative of potential\nenergy is -F times dx/dt, or -F*v, and so"
+    } ]
+  }, {
+    "tStartMs": 217700,
+    "dDurationMs": 7190,
+    "segs": [ {
+      "utf8": "the time derivative of the total energy, dE/dt,\nis F*v-F*v = 0, which means energy doesn’t"
+    } ]
+  }, {
+    "tStartMs": 224890,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "change over time."
+    } ]
+  }, {
+    "tStartMs": 226230,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "And as a final followup, the most legit and\nrobust version of this proof as it applies"
+    } ]
+  }, {
+    "tStartMs": 230780,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "to ALL OF PHYSICS is called Noether’s theorem,\ndiscovered by Emmy Noether in 1915."
+    } ]
+  }, {
+    "tStartMs": 236090,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "It’s beautiful physics."
+    } ]
+  } ]
+}

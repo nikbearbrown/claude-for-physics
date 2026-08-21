@@ -1,0 +1,37 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 980,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "There are somewhere around a septillion stars in the observable universe."
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "But there are only about five thousand stars in the sky visible to an average human eye."
+    } ]
+  }, {
+    "tStartMs": 9060,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "And you can only every see half of them from one side of the earth."
+    } ]
+  }, {
+    "tStartMs": 12000,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "BONUS FACT:\nThe whole universe probably contains infinitely many stars, because it's probably infinite in size. But it'll be hard to check."
+    } ]
+  } ]
+}

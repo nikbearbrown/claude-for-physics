@@ -1,0 +1,619 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Where is the darkest part of a shadow?"
+    } ]
+  }, {
+    "tStartMs": 6320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I mean the obvious answer seems to be, right in the middle."
+    } ]
+  }, {
+    "tStartMs": 9280,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "If you look closely at a shadow, as you move the object away from the wall,"
+    } ]
+  }, {
+    "tStartMs": 12960,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "you notice that the shadow gets a bit fuzzy."
+    } ]
+  }, {
+    "tStartMs": 14900,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "So clearly, the edges are lighter."
+    } ]
+  }, {
+    "tStartMs": 17860,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "Now, we know that light bends around corners,"
+    } ]
+  }, {
+    "tStartMs": 21140,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "that's a phenomenon call \"diffraction\"."
+    } ]
+  }, {
+    "tStartMs": 23060,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "So, is it diffraction that's responsible for the fuzzy edges of shadows?"
+    } ]
+  }, {
+    "tStartMs": 27480,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Actually?... No."
+    } ]
+  }, {
+    "tStartMs": 29520,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "The reason that shadows have fuzzy edges,"
+    } ]
+  }, {
+    "tStartMs": 31699,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "is because most light sources like the sun are not perfectly point objects."
+    } ]
+  }, {
+    "tStartMs": 35760,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "So, light from one edge of the sun is coming at a very slightly different angle"
+    } ]
+  }, {
+    "tStartMs": 39820,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "from light from the other edge of the sun, and that's what gives us these fuzzy edges. It's not diffraction."
+    } ]
+  }, {
+    "tStartMs": 45020,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "But diffraction can play a significant role in shadows,"
+    } ]
+  }, {
+    "tStartMs": 48649,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "and in fact, it was the cause of a massive debate, about 200 years ago..."
+    } ]
+  }, {
+    "tStartMs": 54120,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "In 1818, the French Academy sponsored a competition to try to find the best explanation of diffraction."
+    } ]
+  }, {
+    "tStartMs": 60320,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "And Augustine Fresnel entered this competition with the suggestion that light is a wave phenomenon."
+    } ]
+  }, {
+    "tStartMs": 65480,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "And just like any ordinary wave, it bends as it passes around an obstacle."
+    } ]
+  }, {
+    "tStartMs": 70040,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "But one of the judges was Simeon Poisson, a harsh critic of the wave theory."
+    } ]
+  }, {
+    "tStartMs": 74220,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "He much preferred Newton's idea that light was a stream of particles."
+    } ]
+  }, {
+    "tStartMs": 78100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And to show just how ridiculous the wave theory was,"
+    } ]
+  }, {
+    "tStartMs": 80700,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "He showed that Fresnel's theory would predict a bright spot in the shadow,"
+    } ]
+  }, {
+    "tStartMs": 85440,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "right in the middle of the shadow behind a circular object."
+    } ]
+  }, {
+    "tStartMs": 88780,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "That there would be a spot, almost as bright as if the object wasn't there at all."
+    } ]
+  }, {
+    "tStartMs": 93660,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And he thought this was absurd. But my question is,"
+    } ]
+  }, {
+    "tStartMs": 97020,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Does it exist? Is the brightest part of a shadow really in the middle?"
+    } ]
+  }, {
+    "tStartMs": 101220,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "To find out, we're gonna have to do the experiment."
+    } ]
+  }, {
+    "tStartMs": 104840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So first I had to find some circular obstacles."
+    } ]
+  }, {
+    "tStartMs": 108080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "I selected spheres instead. I got some marbles and some small spherical magnets."
+    } ]
+  }, {
+    "tStartMs": 113520,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "Then for a powerful light source and a large distance to the screen, I selected a lecture theater with a projector."
+    } ]
+  }, {
+    "tStartMs": 119180,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Now the first thing we're gonna need is a small aperture for the light to pass through."
+    } ]
+  }, {
+    "tStartMs": 123180,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So I'm gonna poke a hole in this card with a screw."
+    } ]
+  }, {
+    "tStartMs": 127340,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "It's important to have a small aperture because you want the light to be in phase."
+    } ]
+  }, {
+    "tStartMs": 133680,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "And that should work if it's all coming out of this small little aperture."
+    } ]
+  }, {
+    "tStartMs": 138820,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "But when I put a sphere in front of it ..."
+    } ]
+  }, {
+    "tStartMs": 141140,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Alright, somebody hit the lights. Here we go..."
+    } ]
+  }, {
+    "tStartMs": 146860,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I can't see a bright spot. I can't really see anything."
+    } ]
+  }, {
+    "tStartMs": 151160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So next I tried a cellphone flashlight, putting a marble in front of that"
+    } ]
+  }, {
+    "tStartMs": 156440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And again I could see nothing."
+    } ]
+  }, {
+    "tStartMs": 159400,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "I don't see anything in the middle."
+    } ]
+  }, {
+    "tStartMs": 162940,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "The idea with Poisson's spot is that light should diffract around a circular object, or a sphere,"
+    } ]
+  }, {
+    "tStartMs": 168880,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "And because the center of the shadow is equidistant from all the edges of that obstacle,"
+    } ]
+  }, {
+    "tStartMs": 174440,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "all of the light should constructively interfere at that point creating that bright spot."
+    } ]
+  }, {
+    "tStartMs": 179860,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So next I tried an overhead projector."
+    } ]
+  }, {
+    "tStartMs": 182780,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "I tried a string of the small spherical magnets."
+    } ]
+  }, {
+    "tStartMs": 185200,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "It's weird. Like, I feel like I can see it."
+    } ]
+  }, {
+    "tStartMs": 187580,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Derek: Do you think you can see a bright spot in the middle of that bottom one?       Girl: No."
+    } ]
+  }, {
+    "tStartMs": 190640,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Derek: No?"
+    } ]
+  }, {
+    "tStartMs": 191800,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I feel like in the very center of each one, I can see a bright spot."
+    } ]
+  }, {
+    "tStartMs": 195900,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I don't know. My eyes are just totally going nuts up here."
+    } ]
+  }, {
+    "tStartMs": 200660,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "Like, staring at shadows and trying to see what we want."
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "But this one is opaque. It's nice and speherical. Set it down..."
+    } ]
+  }, {
+    "tStartMs": 209780,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "And if I adjust the focus..."
+    } ]
+  }, {
+    "tStartMs": 217560,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "You can see there's a bright spot right in the middle of that marble."
+    } ]
+  }, {
+    "tStartMs": 223040,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "So the spot looks pretty good, but something about it didn't sit right with me."
+    } ]
+  }, {
+    "tStartMs": 227620,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "And you know, when you think something is true,"
+    } ]
+  }, {
+    "tStartMs": 230480,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "you really should try as hard as you can to disprove it."
+    } ]
+  }, {
+    "tStartMs": 233880,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "What if you used your fingers to kind of  make the edges less spherical? Yeah"
+    } ]
+  }, {
+    "tStartMs": 240860,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "You see now that, that I think is concerning, that fact we can still see a bit of spot even though"
+    } ]
+  }, {
+    "tStartMs": 248300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "it looks like you're..."
+    } ]
+  }, {
+    "tStartMs": 253660,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Right? How is the light getting through and getting there?"
+    } ]
+  }, {
+    "tStartMs": 256880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "What was really happening, was light was coming up from"
+    } ]
+  }, {
+    "tStartMs": 260240,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "from the base of this overhead projector, bouncing off this lens,"
+    } ]
+  }, {
+    "tStartMs": 263820,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "back onto the top of the marble, and then back up through this lens, and onto the wall."
+    } ]
+  }, {
+    "tStartMs": 270620,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So finally I decided to use a laser"
+    } ]
+  }, {
+    "tStartMs": 273680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I resisted doing this earlier because in 1818 they didn't have lasers."
+    } ]
+  }, {
+    "tStartMs": 278400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "In fact, Poisson didn't do the experiment. He didn't think that you needed to."
+    } ]
+  }, {
+    "tStartMs": 282040,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "The idea of a bright spot in the middle of a shadow was just so ridiculous."
+    } ]
+  }, {
+    "tStartMs": 287020,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And Fresnel didn't do the experiment either."
+    } ]
+  }, {
+    "tStartMs": 290500,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "But one of the other judges by the name of Arago decided to actually do the experiment."
+    } ]
+  }, {
+    "tStartMs": 295600,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "And when he did it, he saw something similar to what I saw."
+    } ]
+  }, {
+    "tStartMs": 300500,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So here I was using the laser through a diverging lens."
+    } ]
+  }, {
+    "tStartMs": 304060,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And then that beam was shone onto a marble resting on top of a loop of tape."
+    } ]
+  }, {
+    "tStartMs": 308860,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So you can see on the wall, basically exactly what you'd expect."
+    } ]
+  }, {
+    "tStartMs": 312760,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Just a shadow of the marble"
+    } ]
+  }, {
+    "tStartMs": 314860,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "But when you turn the lights off... there it is..."
+    } ]
+  }, {
+    "tStartMs": 319020,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "A bright spot right in the middle of that shadow."
+    } ]
+  }, {
+    "tStartMs": 322860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So the brightest part of a shadow is, in the middle!"
+    } ]
+  }, {
+    "tStartMs": 326220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "As long as it's the shadow of a circular or spherical object."
+    } ]
+  }, {
+    "tStartMs": 329940,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "Now this spot is sometimes called Arago's spot because he did the experiment and found it."
+    } ]
+  }, {
+    "tStartMs": 335120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Sometime's it's called Fresnel's birght spot because it was his theory."
+    } ]
+  }, {
+    "tStartMs": 338940,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But pretty frequently, it's referred to as Poisson's spot."
+    } ]
+  }, {
+    "tStartMs": 343160,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "A harsh reminder that it's not only your great achievements, but also your greatest mistakes"
+    } ]
+  }, {
+    "tStartMs": 349180,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "that can be named after you."
+    } ]
+  }, {
+    "tStartMs": 351560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We don't see Poisson's spot in our day-to-day lives for many reasons,"
+    } ]
+  }, {
+    "tStartMs": 356200,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "one of which is that most objects are not prefect circles."
+    } ]
+  }, {
+    "tStartMs": 359360,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "Plus if they have any surface roughness, really any at all, that will completely wash out Poisson's spot."
+    } ]
+  }, {
+    "tStartMs": 366060,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And finally, most light sources are not coherent."
+    } ]
+  }, {
+    "tStartMs": 369620,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "That is, the waves are not coming all in phase: peaks with peaks and troughs with troughs."
+    } ]
+  }, {
+    "tStartMs": 374260,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "You might think you could never see Poisson's spot under ordinary conditions."
+    } ]
+  }, {
+    "tStartMs": 379200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "But you can..."
+    } ]
+  }, {
+    "tStartMs": 380520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "What you need to do is look at a diffuse source of bright light"
+    } ]
+  }, {
+    "tStartMs": 385140,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "like a fluorescent tube or the blue sky."
+    } ]
+  }, {
+    "tStartMs": 388720,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "You should see some small light specks drifting around your visual field."
+    } ]
+  }, {
+    "tStartMs": 394600,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Now those are caused by floaters. Little particles actually drifting around inside your eyeball."
+    } ]
+  }, {
+    "tStartMs": 401240,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "And they can be all sorts of different shapes, but some of them are spheres."
+    } ]
+  }, {
+    "tStartMs": 405540,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "And so they cast a shadow on the back of your retina."
+    } ]
+  }, {
+    "tStartMs": 408400,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "And right in the middle of that shadow is Poisson's bright spot."
+    } ]
+  }, {
+    "tStartMs": 412900,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And that is what demonstrated that light really is a wave phenomenon."
+    } ]
+  }, {
+    "tStartMs": 418060,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And you don't even have to take my word for it."
+    } ]
+  }, {
+    "tStartMs": 420580,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "You can see it with your very own eyes."
+    } ]
+  } ]
+}
